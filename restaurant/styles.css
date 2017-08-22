@@ -1,0 +1,71 @@
+
+a {font-family:monospace; text-decoration:none; color:red; font-size:20px;}
+a:link {text-decoration:none; color:gray;}
+a:visited {text-decoration:none; color:gray;}
+a:hover {text-decoration:none; color:#2e6cd1;}
+a:active {text-decoration:none; color:black;}
+
+.nav>li>a:hover,.nav>li>a:focus {    text-decoration: none;    background-color: #FFF;}
+.nav-pills>li.active>a{
+ color: #337ab7 !important;
+ background-color: #eee !important;
+}
+
+table {margin: 0 auto;}
+table, th, td {border:0px solid black;border-collapse:collapse;text-align: left;padding: 3px; }
+.table_outline {border: 1px dashed black; border-spacing:10px;}
+.left {padding-left:10px}
+.right {padding-right:10px;}
+hr {height: 2px;    background-color:#555;    margin-top: 10px;    margin-bottom: 10px;    width: 95%; }
+
+
+.imgb {border:3px solid black;}
+caption {font-size: 24px; font-weight:bold;}
+div .main, .header { margin-left:auto; margin-right:auto; width: 90%; clear:both;text-align: center; padding:8px;}
+.center {margin-left:auto; margin-right:auto; width:80%; text-align: center;}
+
+.ccell {border: 5px solid black; margin-left:auto; margin-right:auto; text-align: 
+center;width:49%; 
+margin-top:0px;margin-bottom:50px;}
+
+
+div.header {text-align:center; background-color:white; border: 1px dotted black;}
+input.txt, textarea {width:90%;}
+select {width:90%;}
+.centercontent {text-align:justify; margin:0 auto; width:70%;}
+
+.blocktext {border:dashed 1px black;padding:10px;}
+
+.floatbox {text-align:center; float:left; width:33%;}
+.menutext {width:100%; border: 1px dashed black; margin-left:auto; margin-right:auto; padding:5px;}
+
+
+
+#restaurant {font-family:impact;}
+.itemname, th {font-size: 20px; font-family:monospace; font-weight:bold;}
+
+.body {font-family:Arial; background-color:#EEEEEE;}
+
+
+
+
+.subimg { 
+   position: relative; 
+   width: 100%; /* for IE 6 */
+}
+
+.otext { color:white; font-weight:bold; font-family:arial;  position: absolute;    
+top: 30%;    left: 0;    width: 100%; font-size:18pt;
+
+    text-shadow:
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000;
+
+}
+
+
+.carousel-control.left, .carousel-control.right {    background-image: none}
+
+
