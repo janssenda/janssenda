@@ -39,10 +39,9 @@ public class scanning {
      System.out.println("Please enter the past form:");     
      pverb = scantron.next();
 
-     passage = noun1 + ": the" + noun2 + " frontier.\n These are "
+     passage = noun1 + ": the " + noun2 + " frontier.\n These are "
              + "the voyages of the starship" + noun2 +". Its " + adjective2
-             + " year mission: to explore strange" + pln1 + pln2 ", to seek out"
-     + " " pln1 ;
+             + " year mission: to explore strange" + pln1 + pln2;
      
         System.out.println(passage);
 
