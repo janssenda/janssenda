@@ -25,3 +25,4 @@ hs_err_pid*
 #hello_again/
 #git rm -r cached .
 /windowmaster/windowmaster/target/
+/fizzbuzz/fizzbuzz/target/
