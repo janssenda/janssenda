@@ -16,7 +16,7 @@ public class scanning {
  
      double number;
      String noun1, adjective1, noun2, adjective2, pln1,pln2,pln3,verb,pverb;
-     String passage, testvar3333;
+     String passage, testvar3333, testvar555;
         
      Scanner scantron = new Scanner(System.in);
     
