@@ -27,3 +27,5 @@ hs_err_pid*
 /windowmaster/windowmaster/target/
 /fizzbuzz/fizzbuzz/target/
 /windowmaster/target/
+/conditionals/conditionals/target/
+/randomness/target/
