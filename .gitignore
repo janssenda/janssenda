@@ -30,3 +30,6 @@ hs_err_pid*
 /conditionals/conditionals/target/
 /randomness/target/
 /methodrandom/methodrandom/target/
+/methods/methods/target/
+/factorizer/factorizer/target/
+/lucky7/lucky7/target/
