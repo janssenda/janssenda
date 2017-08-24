@@ -13,7 +13,7 @@ public class factorizer {
     public static void main(String[] args) {
     int fsum = 0, counter = 0, factc, factp=0, delta=0, icount=0;    
         
-    int num = 23000;    
+    int num = 104729;    
         System.out.println("\n\n");
         System.out.println("Factors:");
         for (int i = num/2; i > 0; i--){
