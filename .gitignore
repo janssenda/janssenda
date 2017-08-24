@@ -29,3 +29,4 @@ hs_err_pid*
 /windowmaster/target/
 /conditionals/conditionals/target/
 /randomness/target/
+/methodrandom/methodrandom/target/

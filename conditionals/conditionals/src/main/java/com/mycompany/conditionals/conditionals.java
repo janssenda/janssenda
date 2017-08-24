@@ -18,20 +18,24 @@ public class conditionals {
         char firstletter, sletter, ctest;
         int flet, slet, clet,clet2;
         
-        lastname = "XYZ";
+        lastname = "AYZ";
         
         firstletter = lastname.charAt(0);
         sletter = lastname.charAt(1);
         flet = Character.getNumericValue(firstletter);
         slet = Character.getNumericValue(sletter);
-        
+        ctest = splitpoints.charAt(0);  
  
       System.out.println("\n");
 
-        
+        if (firstletter < ctest){
+            System.out.println("Works!!!");
+        }
        
         
         for (int i = 0; i<=4; i++){
+
+   
             
             ctest = splitpoints.charAt(i);
             clet = Character.getNumericValue(ctest);
