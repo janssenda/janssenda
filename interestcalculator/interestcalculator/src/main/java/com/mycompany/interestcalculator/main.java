@@ -5,6 +5,10 @@
  */
 package com.mycompany.interestcalculator;
 
+import java.io.BufferedWriter;
+import java.io.FileWriter;
+import java.io.IOException;
+
 
 
 
@@ -16,13 +20,14 @@ public class main {
     String period;
         
     r = 2.5;
-    p0 = 5000;
+    p0 = 500;
     years = 10;
-    period = "quarterly";
+    period = "yearly";
     
     
     double[][] data = calcInterest(r, p0, years, period);  
     printData(data);
+    writer(data);
     
  
         
@@ -80,7 +85,7 @@ public class main {
 
     public static void printData(double[][] data){
 
-    System.out.println("\n\nYear    P0 ($)       Pe ($)     Pf ($)");
+    System.out.println("\n\nYear    P0 ($)        Pe ($)        Pf ($)");
     System.out.println("----------------------------------------");    
                     
     for (int i = 0; i < data.length; i++){
@@ -91,7 +96,7 @@ public class main {
                 System.out.print("      ");            
             }
             else{
-                System.out.printf("%2.2f", data[i][j]);
+                System.out.printf("%2.2e", data[i][j]);
                 System.out.print("      "); 
             }
         }
@@ -104,5 +109,61 @@ public class main {
     return;
     }
 
+    
+    
+    
+    
+    
+        public static void writer(double [][] data){
+        String fileName = "test.txt";
+        String line;
+        
+        try{
+            FileWriter fileWriter = new FileWriter(fileName);
+            BufferedWriter bufferedWriter = new BufferedWriter(fileWriter);
+            
+            
+            line = String.format("%6d", 2);
+            System.out.println(line);
+            
+            
+            for (int i = 0; i < data.length; i++){
+            for (int j = 0; j<4;j++){
+            
+            if(j == 0){
+                
+                bufferedWriter.write("0");
+                bufferedWriter.write("      ");
+                //System.out.printf("%2.0f", data[i][j]);
+                //System.out.print("      ");            
+            }
+            else{
+                bufferedWriter.write(String.valueOf(data[i][j]));
+                bufferedWriter.write("      ");    
+               // System.out.print("      "); 
+                
+
+            }
+
+            }
+            
+            bufferedWriter.write("\n");
+            }
+            
+          
+            
+            bufferedWriter.close();       
+        }
+    
+        catch(IOException ex){
+                }
+        
+        
+                
+    
+            return;
+        }
+        
+        
 
 }
