@@ -13,32 +13,18 @@ import java.nio.*;
  */
 public class trueRandom {
     
-        public static int randInt(long seed, int min, int max){
-        
-        SecureRandom secrandomizer = new SecureRandom();
-        Random randomizer = new Random();
+        public static int randInt(int min, int max){
         int x, y;
-        long seedS;
         
-        if (seed>0){
-          randomizer.setSeed(seed); 
-        }
-        
-        else{
-            byte[] b  = secrandomizer.generateSeed(8);
-            ByteBuffer bb = ByteBuffer.wrap(b);    
-            seedS = bb.getLong();
-            randomizer.setSeed(seed); 
-        }
-        
-        
-        x = randomizer.nextInt(max-min + 1) + min;
+        SecureRandom secrandomizer = new SecureRandom();  
         y = secrandomizer.nextInt(max-min + 1) + min;
-        
+
         return y;
         }
-
         
+     
+
+        /*
         public static double randDoub(long seed, double min, double max){
         
         Random randomizer = new Random();
@@ -51,6 +37,7 @@ public class trueRandom {
         x = randomizer.nextDouble()*(max-min+1) + min;
         
         return x;
-        }        
+        }  
+**/
         
 }

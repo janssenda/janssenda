@@ -18,7 +18,7 @@ public class MoreRandomness {
         
         for (int i = 0; i<10; i++) {
             
-           r = trueRandom.randInt(0, 1, 10);
+           r = trueRandom.randInt(1, 10);
    
            System.out.println(r);
         
