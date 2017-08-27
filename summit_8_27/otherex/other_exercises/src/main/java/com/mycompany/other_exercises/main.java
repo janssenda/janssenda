@@ -51,8 +51,7 @@ public class main {
         }
         
         
-    }
-    
+    }    
     
     public static int addArray(int[] arr){
         int sum = 0;

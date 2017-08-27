@@ -54,7 +54,8 @@ public class rockpaperscissors {
         }
         
         //Exit when user is finished
-        System.out.println("\n\nGOODBYE!!!!");
+        System.out.println("\n\nThanks for playing!! ");
+        System.out.println("GOODBYE!!!!");
         System.out.println("\n\n");    
         
     }
@@ -71,7 +72,19 @@ public class rockpaperscissors {
         System.out.println("Computer wins:        "  
                 +  totalStats[3][0] + "               " + totalStats[3][1]);        
         System.out.println("Draws:                "  
-                +  totalStats[1][0] + "               " + totalStats[1][1]);        
+                +  totalStats[1][0] + "               " + totalStats[1][1]);  
+        
+        if (totalStats[2][0] > totalStats[3][0]){
+            System.out.println("\nCongratulations! You are the winner!!");
+        }
+        else if (totalStats[2][0] < totalStats[3][0]){
+            System.out.println("\nToo bad! You lost!!!");
+        }
+        else {
+            System.out.println("\nOh no! It's a draw!!");    
+        }
+            
+        
     }
     
     public static int getNumGames(){
@@ -82,9 +95,20 @@ public class rockpaperscissors {
         while(valid == false){
             System.out.print("How many rounds would you like to play? ");
             try{
-                numgames = Math.abs(userInput.nextInt());
-                valid = true;
-               }
+                numgames = userInput.nextInt();
+                
+                if  (numgames <= 0){
+                    System.out.println("Please enter a positive number only! ");
+                    
+                }
+                else if (numgames > 10){
+                    System.out.println("Error! Max number of games is 10!! ");
+                }
+                else {                    
+                    valid = true;
+                }
+               
+            }
             catch (Exception e) {
                 System.out.println("Please enter an integer ONLY...");
                 userInput.next();
