@@ -96,7 +96,7 @@ public class main {
                 System.out.print("      ");            
             }
             else{
-                System.out.printf("%2.2e", data[i][j]);
+                System.out.printf("%2.2f", data[i][j]);
                 System.out.print("      "); 
             }
         }
