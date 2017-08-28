@@ -15,6 +15,7 @@ public class main {
         //dogGenetics();
         //ArrayMath();
         //HealthyHearts();
+        numtest();
     }
     
     
@@ -121,7 +122,73 @@ public class main {
 
 
 
+    public static void numtest(){
+        String[] breedlist = {"St. Bernard", "Chihuahua", 
+            "Dramatic RedNosed Asian Pug", "Common Cure", "King Doberman"};
+        double [][] results = {{1,0},{2,0},{3,0},{4,0},{5,0}};   
 
+        System.out.println("\n");
+        
+        for (int i = 0; i < 10000; i++){
+        
+            // Get a set of 5 random ints summing to 100
+            getRandRange2d(100,5, results);
+        
+        }
+        
+        
+        
+        
+        
+        // Show results
+        for (int i=0; i<5; i++){            
+            System.out.printf("%2.0f", results[i][0]);
+            System.out.printf(": " + "%5.2f", results[i][1]);                    
+            System.out.println("");
+        }
+        
+        System.out.println("\n");
+    }
+    
+    
+    public static void getRandRange2d(int max, int size, double[][] results){
+        /* Returns an integer array of length 'size' containing
+        randomly calculated integers that sum to equal 'max'  */
+        int randrange = max, randval = 0, psum = 0, j = 0;
+
+        j = trueRandom.randInt(0,4);
+        
+        for (int i = 0; i<size; i++){
+
+            if (randrange <= 0){
+                randval = 0;
+            }
+            else if (i == 4) {
+                randval = randrange;
+                
+            }
+            else {
+                randval = trueRandom.randInt(1,randrange);
+            }
+     
+            results[j][1] = results[j][1] + (double)randval/100; 
+            
+            j = j + 1;
+            
+            if (j == 5){
+                j = 0;
+            }
+            
+            randrange = randrange - randval;
+            psum = psum + randval;
+
+        } 
+        
+    }        
+        
+
+        
+    
 
 
 
