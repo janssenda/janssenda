@@ -12,29 +12,21 @@ package com.mycompany.cardobjects;
 public class main {
 
     public static void main(String[] args) {
-        int handsize = 5, rounds = 5;
-        card p1hand[], p2hand[];
-                
         System.out.println("\n\n");
 
         deck d1 = new deck();
-        deck d2 = new deck();
 
-        for (int i = 0; i < rounds; i++) {
-            System.out.println("Player 1 gets: ");
-            p1hand = d1.dealHand(handsize);
-
-            System.out.println("\nPlayer 2 gets: ");
-            p2hand = d1.dealHand(handsize);
-            
-            PlayerHand p_1hand = new PlayerHand(p1hand);            
-            PlayerHand p_2hand = new PlayerHand(p2hand);      
-            
-            System.out.println("Player 1 Scores: " + p_1hand.getCurrentScore());
-            System.out.println("Player 2 Scores: " + p_2hand.getCurrentScore());
-            System.out.println("\n");
-            
-        }
+        
+        d1.shuffleDeck();
+        //d1.showDeck();
+        
+        
+        PlayerHand p1 = new PlayerHand(d1.dealHand(9));
+        
+        p1.showHand();
+        
+        
+        
 
         System.out.println("\n\n");
 

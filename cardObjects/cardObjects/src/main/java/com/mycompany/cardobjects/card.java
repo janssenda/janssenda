@@ -12,31 +12,32 @@ package com.mycompany.cardobjects;
 public class card {
     private int value;
     private String suit;
+    private String rank;
 
-    /**
-     * @return the value
-     */
+    public String getRank() {
+        return rank;
+    }
+
+    public void setRank(String rank) {
+        this.rank = rank;
+    }
+    
+
     public int getValue() {
         return value;
     }
 
-    /**
-     * @param value the value to set
-     */
+  
     public void setValue(int value) {
         this.value = value;
     }
 
-    /**
-     * @return the suit
-     */
+ 
     public String getSuit() {
         return suit;
     }
 
-    /**
-     * @param suit the suit to set
-     */
+  
     public void setSuit(String suit) {
         this.suit = suit;
     }
