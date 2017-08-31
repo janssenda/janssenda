@@ -44,3 +44,5 @@ hs_err_pid*
 /iotesting/iotesting/target/
 /shapeIO/shapeIO/target/
 /hasmap/StateCapitols/target/
+/UserIO/UserIO/target/
+/Alice/Alice/target/
