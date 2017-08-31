@@ -3,15 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.mycompany.userio;
+package ioUtility;
 
 /**
  *
  * @author danimaetrix
  */
-public interface UserIO {
-    public String readLine();
-    public double readDouble();
-    public int readInt();
-    public boolean readAnswer();
+public interface FileIO {
+    void writeToFile(String string);
+    void closeFile();    
 }

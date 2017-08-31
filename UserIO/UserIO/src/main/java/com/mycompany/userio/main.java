@@ -5,17 +5,37 @@
  */
 package com.mycompany.userio;
 
+import ioUtility.*;
+
 /**
  *
  * @author danimaetrix
  */
 public class main {
-    public static void main(String[] args) {
-        
 
-    baseUserIO myUI = new baseUserIO();
-    
-    myUI.readLine();
-    
-    }    
+    public static void main(String[] args) {
+
+        //handleUserIO myUI = new handleUserIO();
+        //FileOutput writer = new FileOutput("test.txt");
+
+        /*
+        double x = 5;
+        double y = 8;
+
+        String testString = String.format("%5.2f %5.2f", x,y);
+
+        for (int i = 0; i < 10; i++) {
+            writer.writeToFile(testString + i + "\n");
+        }
+        
+        writer.closeFile();
+         */
+        FileInput reader = new FileInput("test.txt");
+
+        //while (reader.hasNext()) {
+        //    System.out.println(reader.getLine());
+        //}
+        
+        reader.readData();
+    }
 }

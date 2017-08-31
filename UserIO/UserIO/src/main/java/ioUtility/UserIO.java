@@ -3,16 +3,15 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.mycompany.userio;
+package ioUtility;
 
 /**
  *
  * @author danimaetrix
  */
-public class baseUserIO implements UserIO {
-    
-    public void readLine(){
-        System.out.println("This is a test");
-    }
-    
+public interface UserIO {
+    public String readLine();
+    public double readDouble();
+    public int readInt();
+    public boolean readAnswer();
 }
