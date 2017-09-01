@@ -8,27 +8,22 @@ package com.mycompany.statecapitols;
 import java.util.HashMap;
 import java.util.Set;
 
-/**
- *
- * @author danimaetrix
- */
 public class main {
 
     public static void main(String[] args) {
 
-        capitol[] Capitols = new capitol[50];
-        
-        Capitols[0] = new capitol("St. Paul", "xyx",4);
-        
-        
-        
         HashMap<String, capitol> myData = new HashMap<>();
+
+        // Add raw data to capitols
+        capitol[] Capitols = new capitol[50];
+        Capitols[0] = new capitol("St. Paul", 50000, 400);
 
         myData.put("Minnesota", Capitols[0]);
 
+
         for (String key : myData.keySet()) {
-            System.out.println(key);
-            System.out.println(myData.get(key).getData());
+            capitol c = myData.get(key);
+            System.out.printf("%s - %s | Pop: %d | Area: %d sq mi", key, c.getName(), c.getPopulation(), c.getSqmi());
         }
 
     }

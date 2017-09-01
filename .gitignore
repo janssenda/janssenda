@@ -44,5 +44,10 @@ hs_err_pid*
 /iotesting/iotesting/target/
 /shapeIO/shapeIO/target/
 /hasmap/StateCapitols/target/
+<<<<<<< Updated upstream
 /UserIO/UserIO/target/
 /Alice/Alice/target/
+=======
+/quizscores/quizscores/target/
+/fileio/fileio/target/
+>>>>>>> Stashed changes
