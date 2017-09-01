@@ -14,6 +14,7 @@ public interface UserIO {
     void print(String msg);
 
     public String readLine();
+    public String readLine(String msg);
 
     public double readDouble();
 

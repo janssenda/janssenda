@@ -19,6 +19,15 @@ public class UserIOConsoleImpl implements UserIO {
     }
 
     @Override
+    public String readLine(String msg) {
+        System.out.print(msg + "");
+        String userinput;
+        Scanner sc = new Scanner(System.in);
+        userinput = sc.nextLine();
+        return userinput;
+    }
+
+    @Override
     public String readLine() {
         String userinput;
         Scanner sc = new Scanner(System.in);
