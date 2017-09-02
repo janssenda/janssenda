@@ -22,9 +22,11 @@ Title removeTitle(String titlename);
 
 List<Title> getAllTitles();
 
-Title editTitle(String titlename);
-
+void editTitle(Title title, String titlename);
+        
 Title searchTitle(String titlename);
+
+void createDB(int size);
 
 void exitMessage();
     

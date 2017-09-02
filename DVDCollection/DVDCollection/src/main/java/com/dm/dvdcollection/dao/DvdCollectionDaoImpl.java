@@ -6,6 +6,7 @@
 package com.dm.dvdcollection.dao;
 
 import com.dm.dvdcollection.dto.Title;
+import com.dm.dvdcollection.ui.generateFakeDB;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
@@ -37,9 +38,10 @@ public class DvdCollectionDaoImpl implements DvdCollectionDao {
     }
 
     @Override
-    public Title editTitle(String titlename) {
-        //TO BE ADDED
-        return library.get(titlename);
+    public void editTitle(Title title, String titlename) {
+        //library.remove(titleOld.getTitle());
+        library.remove(titlename);
+        library.put(title.getTitle(), title);     
     }
 
     @Override
@@ -64,6 +66,18 @@ public class DvdCollectionDaoImpl implements DvdCollectionDao {
 
     public void unknownCommand() {
 
+    }
+    
+    @Override
+    public void createDB(int size){
+    
+        generateFakeDB fake = new generateFakeDB();
+        ArrayList<Title> a = fake.buildDB(size);               
+        
+        for (int i = 0; i < size; i ++){            
+            library.put(a.get(i).getTitle(), a.get(i));            
+        }
+    
     }
 
 }

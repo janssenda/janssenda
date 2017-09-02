@@ -10,6 +10,7 @@ package com.dm.dvdcollection.dto;
  * @author danimaetrix
  */
 public class Title {
+
     private String titlename;
     private String releaseDate;
     private String mpaaRating;
@@ -17,9 +18,38 @@ public class Title {
     private String studio;
     private String userRating;
     private String userNotes;
-    
-    public Title(String titlename){
+    private String duration;
+
+    public Title() {
+        String defaultInfo = "N/A";         // We initialize the object in case user doesn't want to enter all fields
+        this.titlename = defaultInfo;
+        this.releaseDate = defaultInfo;
+        this.mpaaRating = defaultInfo;
+        this.director = defaultInfo;
+        this.studio = defaultInfo;
+        this.userRating = defaultInfo;
+        this.userNotes = defaultInfo;
+        this.duration = defaultInfo;
+    }
+
+    public Title(String titlename) {
+        String defaultInfo = "N/A";
         this.titlename = titlename;
+        this.releaseDate = defaultInfo;
+        this.mpaaRating = defaultInfo;
+        this.director = defaultInfo;
+        this.studio = defaultInfo;
+        this.userRating = defaultInfo;
+        this.userNotes = defaultInfo;
+        this.duration = defaultInfo;        
+    }
+
+    public String getDuration() {
+        return duration;
+    }
+
+    public void setDuration(String duration) {
+        this.duration = duration;
     }
 
     public String getTitle() {
@@ -77,10 +107,5 @@ public class Title {
     public void setUserNotes(String userNotes) {
         this.userNotes = userNotes;
     }
-    
-    
-    
-    
-    
-    
+
 }

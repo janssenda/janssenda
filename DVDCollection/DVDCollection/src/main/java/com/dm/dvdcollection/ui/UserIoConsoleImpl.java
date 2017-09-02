@@ -65,11 +65,21 @@ public class UserIoConsoleImpl implements UserIo {
     }
 
     @Override
+    public boolean readAnswer(String msg) {
+        return readAnswerBody(msg);
+    }
+
+    @Override
     public boolean readAnswer() {
+        return readAnswerBody("");
+    }
+
+    public boolean readAnswerBody(String msg) {
         Scanner sc = new Scanner(System.in);
         boolean valid = false, answer = true;
         String userinput;
 
+        System.out.print(msg + "");
         while (valid == false) {
             try {
 
