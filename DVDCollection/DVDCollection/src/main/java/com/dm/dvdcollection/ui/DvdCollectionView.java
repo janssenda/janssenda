@@ -40,6 +40,43 @@ public class DvdCollectionView {
         return io.readLine("Enter the full DVD name: ");
     }
 
+    public int showSaveMenuGetChoice() {
+        io.print("You can choose to save your library as ");
+        io.print("a standard library or an encrypted library. \n");
+        io.print("1. Use a standard library");
+        io.print("2. Use an encrypted library");
+        io.print("3. Main menu");
+
+        return io.readInt("\nPlease make a selection: ", 1, 3);
+    }
+
+    public int showLoadMenuGetChoice() {
+        io.print("Please specify which type of libary ");
+        io.print("to load (standard or encrypted). \n");
+        io.print("1. Load a standard library");
+        io.print("2. Load an encrypted library");
+        io.print("3. Main menu");
+
+        return io.readInt("\nPlease make a selection: ", 1, 3);
+    }
+
+    public String getFilename() {
+        String defaultName = "defaultLibrary.txt";
+        String fileName;
+
+        fileName = io.readLine("Please enter the full file name: ");
+
+        if (fileName.trim().isEmpty()) {
+            return defaultName;
+        } else {
+            return fileName;
+        }
+    }
+
+    public String getUserPassword() {
+        return io.readPasswordLn("Please enter your password: ");
+    }
+
     // Confirm that the user wants to remove the DVD
     public boolean confirmRemoveTitle() {
         io.print("");
@@ -140,6 +177,18 @@ public class DvdCollectionView {
 
     }
 
+    public boolean askAdd() {
+        return io.readAnswer("Would you like to add another (y/n)? ");
+    }
+
+    public boolean askRemove() {
+        return io.readAnswer("Would you like to remove another (y/n)? ");
+    }
+
+    public boolean askEdit() {
+        return io.readAnswer("Would you like to edit another (y/n)? ");
+    }
+
     public void printAllTitles(List<Title> titleList) {
         int i = 1;
         io.print("");
@@ -147,7 +196,7 @@ public class DvdCollectionView {
         io.print("-------------------------------------------------------------------------------------------------------");
         for (Title currentTitle : titleList) {
             io.print(currentTitle.getTitle() + "\t"
-                    + currentTitle.getDuration() + "\t"
+                    + currentTitle.getDuration() + "  \t"
                     + currentTitle.getReleaseDate() + "\t"
                     + currentTitle.getMpaaRating() + "\t"
                     + currentTitle.getUserRating() + "\t"
@@ -157,7 +206,7 @@ public class DvdCollectionView {
             i = i + 1;
         }
         io.print("-------------------------------------------------------------------------------------------------------");
-        
+
     }
 
     public void waitOnUser() {
@@ -186,7 +235,7 @@ public class DvdCollectionView {
             title.setTitle(titlename);
         }
         if (!duration.trim().isEmpty()) {
-            title.setDuration(year);
+            title.setDuration(duration);
         }
         if (!year.trim().isEmpty()) {
             title.setReleaseDate(year);
@@ -241,6 +290,20 @@ public class DvdCollectionView {
         io.print("*******************");
     }
 
+    public void showSaveLibraryBanner() {
+        clearScreen();
+        io.print("*******************");
+        io.print("*   SAVE LIBRARY  *");
+        io.print("*******************");
+    }
+
+    public void showLoadLibraryBanner() {
+        clearScreen();
+        io.print("*******************");
+        io.print("*   LOAD LIBRARY  *");
+        io.print("*******************");
+    }
+
     public void showEditTitleBanner() {
         //clearScreen();
         io.print("*******************");
@@ -254,14 +317,35 @@ public class DvdCollectionView {
         io.print("\n");
     }
 
+    public void librarySaveSuccess() {
+        io.print("<--- Library saved sucessfully!!! --->");
+        waitOnUser();
+    }
+
+    public void libraryLoadSuccess() {
+        io.print("<--- Library Loaded sucessfully!!! --->");
+        waitOnUser();
+    }
+
     public void removalSuccess() {
-        io.print("<--- Removal was a Sucess!!! --->");
+        io.print("<--- Removal was a success!!! --->");
         waitOnUser();
     }
 
     public void noEntryException() {
         io.print("No entry was found! Please enter the EXACT "
                 + "\ntitle.");
+        waitOnUser();
+    }
+
+    public void fileIOException() {
+        io.print("Error opening file - please check the file name."
+                + "\nIf file is encrypted, please use option 2...");
+        waitOnUser();
+    }
+
+    public void fileEncryptionException() {
+        io.print("Error decrypting file.  Wrong password or incorrect file.");
         waitOnUser();
     }
 

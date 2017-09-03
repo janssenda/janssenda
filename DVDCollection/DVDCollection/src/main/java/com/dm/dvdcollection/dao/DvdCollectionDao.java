@@ -28,6 +28,15 @@ Title searchTitle(String titlename);
 
 void createDB(int size);
 
+void loadDB(List<Title> title);
+
 void exitMessage();
-    
+
+void writeLibToFile(String filename) throws fileIOException;
+List<Title> loadLibFromFile(String filename) throws fileIOException;
+
+void writeEncLibToFile(String filename, String password) throws fileIOException;
+List<Title> loadEncLibFromFile(String filename, String password) throws fileIOException, fileEncryptionException;
+
+
 }

@@ -6,7 +6,10 @@
 package com.dm.dvdcollection.controller;
 
 import com.dm.dvdcollection.dao.DvdCollectionDao;
+import com.dm.dvdcollection.dao.fileEncryptionException;
+import com.dm.dvdcollection.dao.fileIOException;
 import com.dm.dvdcollection.dto.Title;
+
 import com.dm.dvdcollection.ui.DvdCollectionView;
 import java.util.List;
 
@@ -19,13 +22,13 @@ public class DvdCollectionController {
     DvdCollectionView view;
     DvdCollectionDao dao;
 
-    public DvdCollectionController(DvdCollectionDao dao, DvdCollectionView view) {
+    public DvdCollectionController(DvdCollectionDao dao, DvdCollectionView view)throws fileIOException {
         this.dao = dao;
         this.view = view;
     }
 
-    public void run() {
-        dao.createDB(15);
+    public void run() throws fileIOException {
+        //dao.createDB(15);
         boolean repeat = true;
 
         while (repeat) {
@@ -35,7 +38,7 @@ public class DvdCollectionController {
 
     }
 
-    private boolean evaluateSelection(int choice) {
+    private boolean evaluateSelection(int choice) throws fileIOException {
         boolean repeat = true;
         switch (choice) {
             case 1:
@@ -55,10 +58,10 @@ public class DvdCollectionController {
                 searchTitles();
                 break;
             case 6:
-                //SAVE
+                saveLibrary();
                 break;
             case 7:
-                //LOAD
+                loadLibrary();
                 break;
             case 8:
                 //EXIT
@@ -87,20 +90,22 @@ public class DvdCollectionController {
     private void removeTitleByEntry() {
         boolean confirm;
 
-        view.showRemoveTitleBanner();
-        String titlename = view.getDvdTitle();
+        do {
+            view.showRemoveTitleBanner();
+            String titlename = view.getDvdTitle();
 
-        try {
-            Title title = dao.searchTitle(titlename);
-            view.showTitleInfo(title);
-            confirm = view.confirmRemoveTitle();
-            if (confirm) {
-                dao.removeTitle(titlename);
-                view.removalSuccess();
+            try {
+                Title title = dao.searchTitle(titlename);
+                view.showTitleInfo(title);
+                confirm = view.confirmRemoveTitle();
+                if (confirm) {
+                    dao.removeTitle(titlename);
+                    view.removalSuccess();
+                }
+            } catch (Exception e) {
+                view.noEntryException();
             }
-        } catch (Exception e) {
-            view.noEntryException();
-        }
+        } while (view.askRemove());
     }
 
     private void removeTitleByKey(String key) {
@@ -121,25 +126,30 @@ public class DvdCollectionController {
     private void editTitle() {
         int choice;                                         // choice from edit menu (1 - 8)
 
-        listTitles();
-        
-        view.showEditTitleBanner();                         // edit menu banner
+        do {
+            listTitles();
 
-        String titlename = view.getDvdTitle();              // titlename is also the key for the old title object
-        try {                                               // careful to catch exception if search returns null
-            Title title = dao.searchTitle(titlename);       // we retrieve the object here
-            choice = view.showEditMenuGetChoice(title);     // we show the user the object fields to pick from
+            view.showEditTitleBanner();                         // edit menu banner
 
-            if (choice == 0) {
-                removeTitle(titlename);                     // perform a quick remove if user picks 0
-            } else if (choice == 9) {
-            } else {
-                view.showEditorGetEdits(title, choice);     // the user makes changes to 'title'
-                dao.editTitle(title, titlename);            // the changes are written to the library by DAO
+            String titlename = view.getDvdTitle();              // titlename is also the key for the old title object
+            try {                                               // careful to catch exception if search returns null
+                Title title = dao.searchTitle(titlename);       // we retrieve the object here
+                choice = view.showEditMenuGetChoice(title);     // we show the user the object fields to pick from
+                switch (choice) {
+                    case 0:
+                        removeTitle(titlename);                     // perform a quick remove if user picks 0
+                        break;
+                    case 9:
+                        break;
+                    default:
+                        view.showEditorGetEdits(title, choice);     // the user makes changes to 'title'
+                        dao.editTitle(title, titlename);            // the changes are written to the library by DAO
+                        break;
+                }
+            } catch (Exception e) {
+                view.noEntryException();                        // call our handler for null search result
             }
-        } catch (Exception e) {
-            view.noEntryException();                        // call our handler for null search result
-        }
+        } while (view.askEdit());
     }
 
     private void listTitles() {
@@ -148,8 +158,10 @@ public class DvdCollectionController {
     }
 
     private void addTitle() {
-        Title title = view.addTitle();
-        dao.addTitle(title.getTitle(), title);
+        do {
+            Title title = view.addTitle();
+            dao.addTitle(title.getTitle(), title);
+        } while (view.askAdd());
     }
 
     private void exitProgram() {
@@ -168,6 +180,69 @@ public class DvdCollectionController {
             view.showTitleInfo(title);
         } catch (Exception e) {
             view.noEntryException();
-        }        
+        }
     }
+
+    private void saveLibrary() throws fileIOException{
+
+        view.showSaveLibraryBanner();
+        switch (view.showSaveMenuGetChoice()) {
+            case 1: {
+                try {
+                    dao.writeLibToFile(view.getFilename());
+                    view.librarySaveSuccess();
+                    break;
+                } catch (fileIOException e) {
+                    view.fileIOException();
+                }
+            }
+
+            case 2: {
+                try {
+                    dao.writeEncLibToFile(view.getFilename(), view.getUserPassword());
+                    view.librarySaveSuccess();
+                    break;
+                } catch (fileIOException e) {
+                    view.fileIOException();
+                }
+
+            }
+            case 3: {
+                break;
+            }
+        }
+
+    }
+
+    private void loadLibrary() throws fileIOException {
+        view.showLoadLibraryBanner();
+        switch (view.showLoadMenuGetChoice()) {
+            case 1: {
+                try {
+                    dao.loadDB(dao.loadLibFromFile(view.getFilename()));
+                    view.libraryLoadSuccess();
+                } catch (fileIOException e) {
+                    view.fileIOException();
+                }
+                break;
+            }
+
+            case 2: {
+                try {
+                    dao.loadDB(dao.loadEncLibFromFile(view.getFilename(), view.getUserPassword()));
+                    view.libraryLoadSuccess();
+                } catch (fileIOException e) {
+                    view.fileIOException();
+                } catch (fileEncryptionException e){
+                    view.fileEncryptionException();
+                }
+            }
+            break;
+            case 3: {
+                break;
+            }
+        }
+
+    }
+
 }

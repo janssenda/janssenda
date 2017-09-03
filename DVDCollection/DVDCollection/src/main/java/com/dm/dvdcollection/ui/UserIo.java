@@ -15,14 +15,19 @@ public interface UserIo {
 
     public String readLine();
 
+    public String readPasswordLn(String msg);
+
     public String readLine(String msg);
+
     public double readDouble();
 
     public int readInt(int x, int y);
+
     public int readInt(String msg, int x, int y);
 
     public int readInt();
 
     public boolean readAnswer();
+
     public boolean readAnswer(String msg);
 }

@@ -33,15 +33,15 @@ public class DvdCollectionDaoImpl implements DvdCollectionDao {
     }
 
     @Override
-    public List<Title> getAllTitles() {    
-         return new ArrayList<>(library.values());    
+    public List<Title> getAllTitles() {
+        return new ArrayList<>(library.values());
     }
 
     @Override
     public void editTitle(Title title, String titlename) {
         //library.remove(titleOld.getTitle());
         library.remove(titlename);
-        library.put(title.getTitle(), title);     
+        library.put(title.getTitle(), title);
     }
 
     @Override
@@ -67,17 +67,57 @@ public class DvdCollectionDaoImpl implements DvdCollectionDao {
     public void unknownCommand() {
 
     }
-    
+
     @Override
-    public void createDB(int size){
-    
+    public void createDB(int size) {
+
         generateFakeDB fake = new generateFakeDB();
-        ArrayList<Title> a = fake.buildDB(size);               
-        
-        for (int i = 0; i < size; i ++){            
-            library.put(a.get(i).getTitle(), a.get(i));            
+        ArrayList<Title> a = fake.buildDB(size);
+
+        for (int i = 0; i < size; i++) {
+            library.put(a.get(i).getTitle(), a.get(i));
         }
-    
+
+    }
+
+    @Override
+    public void loadDB(List<Title> title) {
+
+        for (Title currentTitle : title) {
+            library.put(currentTitle.getTitle(), currentTitle);
+        }
+    }
+
+    @Override
+    public void writeLibToFile(String filename) throws fileIOException {
+
+        fileIO fileHandler = new simpleIOImpl();
+        fileHandler.writeToFile(filename, getAllTitles());
+
+    }
+
+    @Override
+    public List<Title> loadLibFromFile(String filename) throws fileIOException {
+
+        fileIO fileHandler = new simpleIOImpl();
+        return fileHandler.readFromFile(filename);
+
+    }
+
+    @Override
+    public void writeEncLibToFile(String filename, String password) throws fileIOException {
+
+        fileIO fileHandler = new encryptIOImpl();
+        fileHandler.writeToFile(filename, getAllTitles(), password);
+
+    }
+
+    @Override
+    public List<Title> loadEncLibFromFile(String filename, String password) throws fileIOException, fileEncryptionException {
+
+        fileIO fileHandler = new encryptIOImpl();
+        return fileHandler.readFromFile(filename, password);
+
     }
 
 }

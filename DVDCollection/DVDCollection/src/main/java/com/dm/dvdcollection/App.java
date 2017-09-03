@@ -8,6 +8,7 @@ package com.dm.dvdcollection;
 import com.dm.dvdcollection.controller.DvdCollectionController;
 import com.dm.dvdcollection.dao.DvdCollectionDao;
 import com.dm.dvdcollection.dao.DvdCollectionDaoImpl;
+import com.dm.dvdcollection.dao.fileIOException;
 import com.dm.dvdcollection.ui.DvdCollectionView;
 import com.dm.dvdcollection.ui.UserIo;
 import com.dm.dvdcollection.ui.UserIoConsoleImpl;
@@ -17,7 +18,7 @@ import com.dm.dvdcollection.ui.UserIoConsoleImpl;
  * @author danimaetrix
  */
 public class App {
-    public static void main(String[] args) {
+    public static void main(String[] args) throws fileIOException {
 
         UserIo myIo = new UserIoConsoleImpl();
         DvdCollectionView myView = new DvdCollectionView(myIo);
