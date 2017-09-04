@@ -13,8 +13,14 @@ import java.util.Base64;
  
 import javax.crypto.Cipher;
 import javax.crypto.spec.SecretKeySpec;
+
+
+/* I found this class online.  It provides simple functions for encryption/decryption
+given a string and a password.
+*/
+
  
-public class testEncrypt {
+public class StringEncrypt  {
  
     private static SecretKeySpec secretKey;
     private static byte[] key;

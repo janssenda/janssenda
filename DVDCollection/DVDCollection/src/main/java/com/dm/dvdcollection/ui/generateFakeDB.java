@@ -8,10 +8,10 @@ package com.dm.dvdcollection.ui;
 import com.dm.dvdcollection.dto.Title;
 import java.util.ArrayList;
 
-/**
- *
- * @author Danimaetrix
- */
+
+// Only used to generate a fake library for testing purposes
+
+
 public class generateFakeDB {
 
     ArrayList<Title> data = new ArrayList<>();

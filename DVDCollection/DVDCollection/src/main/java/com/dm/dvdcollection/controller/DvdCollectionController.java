@@ -6,10 +6,8 @@
 package com.dm.dvdcollection.controller;
 
 import com.dm.dvdcollection.dao.DvdCollectionDao;
-import com.dm.dvdcollection.dao.fileEncryptionException;
 import com.dm.dvdcollection.dao.fileIOException;
 import com.dm.dvdcollection.dto.Title;
-
 import com.dm.dvdcollection.ui.DvdCollectionView;
 import java.util.List;
 
@@ -19,25 +17,33 @@ import java.util.List;
  */
 public class DvdCollectionController {
 
+    // Dependency Injection
     DvdCollectionView view;
     DvdCollectionDao dao;
 
-    public DvdCollectionController(DvdCollectionDao dao, DvdCollectionView view)throws fileIOException {
+    public DvdCollectionController(DvdCollectionDao dao, DvdCollectionView view) throws fileIOException {
         this.dao = dao;
         this.view = view;
     }
 
+    /*
+    // Main program loop
+     */
     public void run() throws fileIOException {
-        //dao.createDB(15);
+        dao.loadLibrary(dao.loadEncLibFromFile("mytestlib.cplib", null));    // Loads a real data test lib at runtime -- saves test time, not needed.
+        //dao.createLibrary(15);                                            // Used to add a fake library for testing.  Not needed.
         boolean repeat = true;
 
         while (repeat) {
             repeat = evaluateSelection(getSelection());
         }
         exitProgram();
-
     }
 
+    /*
+    // End main program loop
+     */
+    // Main menu screen
     private boolean evaluateSelection(int choice) throws fileIOException {
         boolean repeat = true;
         switch (choice) {
@@ -67,9 +73,6 @@ public class DvdCollectionController {
                 //EXIT
                 repeat = false;
                 break;
-
-            default:
-                unknownCommand();
         }
         return repeat;
     }
@@ -79,17 +82,20 @@ public class DvdCollectionController {
         return view.printMainGetChoice();
     }
 
+    // Lets user find a title to remove
     private void removeTitle() {
         removeTitleByEntry();
     }
 
+    // Removes a title with no user input (for edit menu)
     private void removeTitle(String key) {
         removeTitleByKey(key);
     }
 
+    // User selects a title to remove
     private void removeTitleByEntry() {
         boolean confirm;
-
+        listTitles();
         do {
             view.showRemoveTitleBanner();
             String titlename = view.getDvdTitle();
@@ -108,6 +114,7 @@ public class DvdCollectionController {
         } while (view.askRemove());
     }
 
+    // Title removed automatically from input menu
     private void removeTitleByKey(String key) {
         boolean confirm;
         confirm = view.confirmRemoveTitle();
@@ -144,6 +151,7 @@ public class DvdCollectionController {
                     default:
                         view.showEditorGetEdits(title, choice);     // the user makes changes to 'title'
                         dao.editTitle(title, titlename);            // the changes are written to the library by DAO
+                        view.editTitleSuccess();
                         break;
                 }
             } catch (Exception e) {
@@ -161,6 +169,7 @@ public class DvdCollectionController {
         do {
             Title title = view.addTitle();
             dao.addTitle(title.getTitle(), title);
+            view.addTitleSuccess();
         } while (view.askAdd());
     }
 
@@ -168,42 +177,43 @@ public class DvdCollectionController {
         view.showExitMessage();
     }
 
-    private void unknownCommand() {
-
-    }
-
+    // Searches the map for a single title requested by user
     private void searchTitles() {
         view.showSearchTitlesBanner();
         String titlename = view.getDvdTitle();
         try {
             Title title = dao.searchTitle(titlename);
             view.showTitleInfo(title);
+
         } catch (Exception e) {
             view.noEntryException();
         }
     }
 
-    private void saveLibrary() throws fileIOException{
+    // Save library to disk using filename and password (if encrypted)
+    private void saveLibrary() throws fileIOException {
 
         view.showSaveLibraryBanner();
         switch (view.showSaveMenuGetChoice()) {
             case 1: {
+                // Non encrypted library save -- password = null
                 try {
-                    dao.writeLibToFile(view.getFilename());
+                    dao.writeEncLibToFile(view.getFilename(), null);
                     view.librarySaveSuccess();
                     break;
                 } catch (fileIOException e) {
-                    view.fileIOException();
+                    view.showException(e.getMessage());
                 }
             }
 
             case 2: {
                 try {
+                    // Encrypted file save.  Filename AND contents are encrypted using AES
                     dao.writeEncLibToFile(view.getFilename(), view.getUserPassword());
                     view.librarySaveSuccess();
                     break;
                 } catch (fileIOException e) {
-                    view.fileIOException();
+                    view.showException(e.getMessage());
                 }
 
             }
@@ -214,27 +224,28 @@ public class DvdCollectionController {
 
     }
 
+    // Load library from disk using filename and password (if encrypted)
     private void loadLibrary() throws fileIOException {
         view.showLoadLibraryBanner();
         switch (view.showLoadMenuGetChoice()) {
             case 1: {
+                // No encryption - password = null
                 try {
-                    dao.loadDB(dao.loadLibFromFile(view.getFilename()));
+                    dao.loadLibrary(dao.loadEncLibFromFile(view.getFilename(), null));
                     view.libraryLoadSuccess();
                 } catch (fileIOException e) {
-                    view.fileIOException();
+                    view.showException(e.getMessage());
                 }
                 break;
             }
 
             case 2: {
                 try {
-                    dao.loadDB(dao.loadEncLibFromFile(view.getFilename(), view.getUserPassword()));
+                    // Load encryped file.  Password used to unmask filename and read contents
+                    dao.loadLibrary(dao.loadEncLibFromFile(view.getFilename(), view.getUserPassword()));
                     view.libraryLoadSuccess();
                 } catch (fileIOException e) {
-                    view.fileIOException();
-                } catch (fileEncryptionException e){
-                    view.fileEncryptionException();
+                    view.showException(e.getMessage());
                 }
             }
             break;

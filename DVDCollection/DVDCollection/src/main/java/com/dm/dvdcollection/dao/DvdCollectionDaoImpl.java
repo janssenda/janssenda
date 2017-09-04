@@ -18,6 +18,7 @@ import java.util.Map;
  */
 public class DvdCollectionDaoImpl implements DvdCollectionDao {
 
+    // Hashmap for storing the library in memory
     private Map<String, Title> library = new HashMap<>();
 
     @Override
@@ -39,7 +40,6 @@ public class DvdCollectionDaoImpl implements DvdCollectionDao {
 
     @Override
     public void editTitle(Title title, String titlename) {
-        //library.remove(titleOld.getTitle());
         library.remove(titlename);
         library.put(title.getTitle(), title);
     }
@@ -49,75 +49,38 @@ public class DvdCollectionDaoImpl implements DvdCollectionDao {
         return library.get(titlename);
     }
 
+    // ONLY called to generate fake library data for easy testing.  Not used at all in final project version.
     @Override
-    public void exitMessage() {
-        //TO BE ADDED
-    }
-
-    public void saveLibrary(String filename) {
-        //TO BE ADDED
-
-    }
-
-    public void loadLibrary(String filename) {
-        //TO BE ADDED
-
-    }
-
-    public void unknownCommand() {
-
-    }
-
-    @Override
-    public void createDB(int size) {
-
+    public void createLibrary(int size) {
         generateFakeDB fake = new generateFakeDB();
         ArrayList<Title> a = fake.buildDB(size);
-
         for (int i = 0; i < size; i++) {
             library.put(a.get(i).getTitle(), a.get(i));
         }
 
     }
 
+    // Places the title list retrieved by loadEncLibFromFile into the memory map, one title at a time
     @Override
-    public void loadDB(List<Title> title) {
-
+    public void loadLibrary(List<Title> title) {
         for (Title currentTitle : title) {
             library.put(currentTitle.getTitle(), currentTitle);
         }
     }
 
-    @Override
-    public void writeLibToFile(String filename) throws fileIOException {
-
-        fileIO fileHandler = new simpleIOImpl();
-        fileHandler.writeToFile(filename, getAllTitles());
-
-    }
-
-    @Override
-    public List<Title> loadLibFromFile(String filename) throws fileIOException {
-
-        fileIO fileHandler = new simpleIOImpl();
-        return fileHandler.readFromFile(filename);
-
-    }
-
+    // Implements the file handling functionalit.  CppFileHandler controls physical process based on
+    // input from user(filename, password).  Returns an ArrayList of titles to loadLibrary when user
+    // loads a new library.
     @Override
     public void writeEncLibToFile(String filename, String password) throws fileIOException {
-
-        fileIO fileHandler = new encryptIOImpl();
-        fileHandler.writeToFile(filename, getAllTitles(), password);
-
+        CppFileHandler fileHandler = new CppFileHandler(filename, password);
+        fileHandler.writeToFile(getAllTitles());
     }
 
     @Override
-    public List<Title> loadEncLibFromFile(String filename, String password) throws fileIOException, fileEncryptionException {
-
-        fileIO fileHandler = new encryptIOImpl();
-        return fileHandler.readFromFile(filename, password);
-
+    public List<Title> loadEncLibFromFile(String filename, String password) throws fileIOException {
+        CppFileHandler fileHandler = new CppFileHandler(filename, password);
+        return fileHandler.readFromFile();
     }
 
 }

@@ -20,6 +20,7 @@ import com.dm.dvdcollection.ui.UserIoConsoleImpl;
 public class App {
     public static void main(String[] args) throws fileIOException {
 
+        // Dependency injection
         UserIo myIo = new UserIoConsoleImpl();
         DvdCollectionView myView = new DvdCollectionView(myIo);
         DvdCollectionDao myDao = new DvdCollectionDaoImpl();

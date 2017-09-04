@@ -14,12 +14,14 @@ import java.util.List;
  */
 public class DvdCollectionView {
 
+    // Recieve injection
     private UserIo io;
 
     public DvdCollectionView(UserIo io) {
         this.io = io;
     }
 
+    // Main menu screen
     public int printMainGetChoice() {
         io.print("Welcome to C++, your modern DVD library!");
         io.print("Please choose from the following options: \n");
@@ -30,16 +32,18 @@ public class DvdCollectionView {
         io.print("5. Search titles");
         io.print("6. Save library");
         io.print("7. Load library");
-        io.print("8. Exit (saves changes)");
+        io.print("8. Exit");
         return io.readInt("\nEnter your choice: ", 1, 8);
 
     }
 
+    // Recieve user input for search and edit
     public String getDvdTitle() {
         io.print("");
         return io.readLine("Enter the full DVD name: ");
     }
 
+    // Save library menu - offers standard or encrypted methods
     public int showSaveMenuGetChoice() {
         io.print("You can choose to save your library as ");
         io.print("a standard library or an encrypted library. \n");
@@ -50,6 +54,7 @@ public class DvdCollectionView {
         return io.readInt("\nPlease make a selection: ", 1, 3);
     }
 
+    // Load library menu - offers standard or encrypted methods
     public int showLoadMenuGetChoice() {
         io.print("Please specify which type of libary ");
         io.print("to load (standard or encrypted). \n");
@@ -60,11 +65,12 @@ public class DvdCollectionView {
         return io.readInt("\nPlease make a selection: ", 1, 3);
     }
 
+    // Get the name of the library from user to save/load
     public String getFilename() {
-        String defaultName = "defaultLibrary.txt";
+        String defaultName = "defaultLibrary";
         String fileName;
 
-        fileName = io.readLine("Please enter the full file name: ");
+        fileName = io.readLine("Please enter the library name: ");
 
         if (fileName.trim().isEmpty()) {
             return defaultName;
@@ -73,6 +79,7 @@ public class DvdCollectionView {
         }
     }
 
+    // Used to get password for encryption routines.  Uses console class to hide input on screen.
     public String getUserPassword() {
         return io.readPasswordLn("Please enter your password: ");
     }
@@ -100,6 +107,7 @@ public class DvdCollectionView {
         waitOnUser();
     }
 
+    // Menu for making changes to a title.  User may also delede title
     public int showEditMenuGetChoice(Title title) {
         io.print("");
 
@@ -117,6 +125,7 @@ public class DvdCollectionView {
         return io.readInt("\nWhich item would you like to edit? ", 0, 9);
     }
 
+    // Allow the user to make the specified changes
     public Title showEditorGetEdits(Title title, int choice) {
         String newVal;
         io.print("");
@@ -125,50 +134,66 @@ public class DvdCollectionView {
             case 1: {
                 io.print("Current title: " + title.getTitle());
                 newVal = io.readLine("Enter new Title: ");
-                title.setTitle(newVal);
+                if (!newVal.trim().isEmpty()) {
+                    title.setTitle(newVal);
+                }
                 break;
             }
             case 2: {
                 io.print("Current release date: " + title.getDuration());
                 newVal = io.readLine("Enter new duration: ");
-                title.setDuration(newVal);
+                if (!newVal.trim().isEmpty()) {
+                    title.setDuration(newVal);
+                }
                 break;
             }
             case 3: {
                 io.print("Current release date: " + title.getReleaseDate());
                 newVal = io.readLine("Enter new date: ");
-                title.setReleaseDate(newVal);
+                if (!newVal.trim().isEmpty()) {
+                    title.setReleaseDate(newVal);
+                }
                 break;
             }
             case 4: {
                 io.print("Current MPAA rating: " + title.getMpaaRating() + " stars");
                 newVal = io.readLine("Enter new rating (stars): ");
-                title.setMpaaRating(newVal);
+                if (!newVal.trim().isEmpty()) {
+                    title.setMpaaRating(newVal);
+                }
                 break;
 
             }
             case 5: {
                 io.print("Your current rating: " + title.getUserRating() + " stars");
                 newVal = io.readLine("Enter new rating (stars): ");
-                title.setUserRating(newVal);
+                if (!newVal.trim().isEmpty()) {
+                    title.setUserRating(newVal);
+                }
                 break;
             }
             case 6: {
                 io.print("Current director: " + title.getDirector());
                 newVal = io.readLine("Enter new director: ");
-                title.setDirector(newVal);
+                if (!newVal.trim().isEmpty()) {
+                    title.setDirector(newVal);
+                }
                 break;
             }
             case 7: {
                 io.print("Current studio: " + title.getStudio());
                 newVal = io.readLine("Enter new studio: ");
-                title.setStudio(newVal);
+                if (!newVal.trim().isEmpty()) {
+                    title.setStudio(newVal);
+                }
                 break;
             }
             case 8: {
                 io.print("Current details: " + title.getUserNotes());
                 newVal = io.readLine("Enter new details: ");
-                title.setUserNotes(newVal);
+                if (!newVal.trim().isEmpty()) {
+                    title.setUserNotes(newVal);
+                }
                 break;
             }
         }
@@ -177,42 +202,76 @@ public class DvdCollectionView {
 
     }
 
+    // Questions to ask user
     public boolean askAdd() {
-        return io.readAnswer("Would you like to add another (y/n)? ");
+        return io.readAnswer("\nWould you like to add another (y/n)? ");
     }
 
     public boolean askRemove() {
-        return io.readAnswer("Would you like to remove another (y/n)? ");
+        return io.readAnswer("\nWould you like to remove another (y/n)? ");
     }
 
     public boolean askEdit() {
-        return io.readAnswer("Would you like to edit another (y/n)? ");
+        return io.readAnswer("\nWould you like to edit another (y/n)? ");
     }
 
-    public void printAllTitles(List<Title> titleList) {
-        int i = 1;
-        io.print("");
-        io.print("[Title]     [Duration] [Year] [MPAA] [Rating]  [Director]\t[Studio]\t[Additional]");
-        io.print("-------------------------------------------------------------------------------------------------------");
-        for (Title currentTitle : titleList) {
-            io.print(currentTitle.getTitle() + "\t"
-                    + currentTitle.getDuration() + "  \t"
-                    + currentTitle.getReleaseDate() + "\t"
-                    + currentTitle.getMpaaRating() + "\t"
-                    + currentTitle.getUserRating() + "\t"
-                    + currentTitle.getDirector() + "\t "
-                    + currentTitle.getStudio() + " \t"
-                    + currentTitle.getUserNotes());
-            i = i + 1;
+    // Short method to shorten and extend string to length l, using "..." to truncate 
+    // and whitespace to extend.  Used to format fields for output to user in printAllTitles
+    public String stShort(String string, int l) {
+        //int l = 18;
+        char[] newstr = new char[l];
+
+        if (string.length() > l) {
+            char[] str = string.toCharArray();
+            System.arraycopy(str, 0, newstr, 0, l - 3);
+
+            for (int i = 0; i < 3; i++) {
+                newstr[(l - 3) + i] = '.';
+            }
+
+            String fstring = new String(newstr);
+            return fstring;
+
+        } else {
+            char[] str = string.toCharArray();
+            System.arraycopy(str, 0, newstr, 0, str.length);
+
+            for (int i = str.length + 1; i < l; i++) {
+                newstr[i] = ' ';
+
+            }
+            String fstring = new String(newstr);
+            return fstring;
         }
-        io.print("-------------------------------------------------------------------------------------------------------");
 
     }
 
+    // Shows all titles to user, taking advantage of stShort to format them nicely
+    public void printAllTitles(List<Title> titleList) {
+        int space = 1;
+        io.print("");
+        io.print("[Title]  \t[Duration][Year][MPAA][Rating][Director]           [Studio]         [Additional]");
+        io.print("------------------------------------------------------------------------------------------------------------------------");
+        for (Title currentTitle : titleList) {
+            io.print(stShort(currentTitle.getTitle(), 17 + space) + " "
+                    + stShort(currentTitle.getDuration(), 4 + space) + "  "
+                    + stShort(currentTitle.getReleaseDate(), 4 + space) + "  "
+                    + stShort(currentTitle.getMpaaRating(), 5 + space) + "  "
+                    + stShort(currentTitle.getUserRating(), 3 + space) + "  "
+                    + stShort(currentTitle.getDirector(), 19 + space) + "  "
+                    + stShort(currentTitle.getStudio(), 14 + space) + "  "
+                    + currentTitle.getUserNotes());
+        }
+        io.print("------------------------------------------------------------------------------------------------------------------------");
+
+    }
+
+    // Pause for user
     public void waitOnUser() {
         io.readLine("\nPress enter to continue...");
     }
 
+    // Allows user to add new titles to collection
     public Title addTitle() {
         Title title = new Title("");
         String titlename, duration, mpaa, rating, year, director, studio, notes;
@@ -231,6 +290,8 @@ public class DvdCollectionView {
         studio = io.readLine("Production Studio:      ");
         notes = io.readLine("Additional Information: ");
 
+        // Check if user has skipped an entry - if so, use the default value to 
+        // avoid null references
         if (!titlename.trim().isEmpty()) {
             title.setTitle(titlename);
         }
@@ -254,14 +315,13 @@ public class DvdCollectionView {
         }
         if (!notes.trim().isEmpty()) {
             title.setUserNotes(notes);
-        }
-
-        io.print("\n");
+        }       
 
         return title;
 
     }
 
+    // Banners
     public void showMainMenuBanner() {
         clearScreen();
         io.print("*******************");
@@ -277,7 +337,7 @@ public class DvdCollectionView {
     }
 
     public void showRemoveTitleBanner() {
-        clearScreen();
+        //clearScreen();
         io.print("*******************");
         io.print("*   REMOVE DVD    *");
         io.print("*******************");
@@ -311,25 +371,35 @@ public class DvdCollectionView {
         io.print("*******************");
     }
 
+    // Additional user messages
     public void showExitMessage() {
         io.print("\n");
         io.print("GOODBYE!!");
         io.print("\n");
     }
 
+    public void editTitleSuccess() {
+        io.print("\n<--- Title updated sucessfully!!! --->");
+        //waitOnUser();
+    }
+    public void addTitleSuccess() {
+        io.print("\n<--- Title added sucessfully!!! --->");
+        //waitOnUser();
+    }
+
     public void librarySaveSuccess() {
-        io.print("<--- Library saved sucessfully!!! --->");
+        io.print("\n<--- Library saved sucessfully!!! --->");
         waitOnUser();
     }
 
     public void libraryLoadSuccess() {
-        io.print("<--- Library Loaded sucessfully!!! --->");
+        io.print("\n<--- Library Loaded sucessfully!!! --->");
         waitOnUser();
     }
 
     public void removalSuccess() {
-        io.print("<--- Removal was a success!!! --->");
-        waitOnUser();
+        io.print("\n<--- Removal was a success!!! --->");
+        //waitOnUser();
     }
 
     public void noEntryException() {
@@ -338,17 +408,12 @@ public class DvdCollectionView {
         waitOnUser();
     }
 
-    public void fileIOException() {
-        io.print("Error opening file - please check the file name."
-                + "\nIf file is encrypted, please use option 2...");
+    public void showException(String msg) {
+        io.print("\n" + msg);
         waitOnUser();
     }
 
-    public void fileEncryptionException() {
-        io.print("Error decrypting file.  Wrong password or incorrect file.");
-        waitOnUser();
-    }
-
+    // Does not actually clear screen, but flushes it with characters so that it "looks like" screen is cleared.
     public void clearScreen() {
         for (int i = 0; i < 2; i++) {
             io.print("\n\n\n");

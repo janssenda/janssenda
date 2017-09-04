@@ -26,17 +26,15 @@ void editTitle(Title title, String titlename);
         
 Title searchTitle(String titlename);
 
-void createDB(int size);
+// create and load library perform the explicit operation of writing the library into
+// the hashmap.  
+void createLibrary(int size);
+void loadLibrary(List<Title> title);
 
-void loadDB(List<Title> title);
-
-void exitMessage();
-
-void writeLibToFile(String filename) throws fileIOException;
-List<Title> loadLibFromFile(String filename) throws fileIOException;
-
+// Perform the actual process of reading and writing to file.  Passes libraries on
+// to loadlibrary, which places them in memory.
 void writeEncLibToFile(String filename, String password) throws fileIOException;
-List<Title> loadEncLibFromFile(String filename, String password) throws fileIOException, fileEncryptionException;
+List<Title> loadEncLibFromFile(String filename, String password) throws fileIOException;
 
 
 }

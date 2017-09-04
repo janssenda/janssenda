@@ -26,14 +26,16 @@ public class UserIoConsoleImpl implements UserIo {
         Scanner sc = new Scanner(System.in);
         userinput = sc.nextLine();
         return userinput;
+   
     }
+    
 
     @Override
     public String readPasswordLn(String msg) {        
         Scanner sc = new Scanner(System.in);
         Console console = System.console();
         System.out.print(msg + "");
-        
+
         try {
             String userinput = new String(console.readPassword());
             return userinput;
