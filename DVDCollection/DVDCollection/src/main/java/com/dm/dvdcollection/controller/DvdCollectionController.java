@@ -30,7 +30,7 @@ public class DvdCollectionController {
     // Main program loop
      */
     public void run() throws fileIOException {
-        dao.loadLibrary(dao.loadEncLibFromFile("mytestlib.cplib", null));    // Loads a real data test lib at runtime -- saves test time, not needed.
+        //dao.loadLibrary(dao.loadEncLibFromFile("mytestlib.cplib", null));    // Loads a real data test lib at runtime -- saves test time, not needed.
         //dao.createLibrary(15);                                            // Used to add a fake library for testing.  Not needed.
         boolean repeat = true;
 
