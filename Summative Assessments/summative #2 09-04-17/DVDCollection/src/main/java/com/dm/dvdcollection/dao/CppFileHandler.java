@@ -41,17 +41,17 @@ public class CppFileHandler {
         this.filename = filename;
         this.password = password;
     }
-    
+
     // Returns a string N/A if the field is empty in read file
-    String returnBlank(String string){
-        
-        if (string.trim().isEmpty()){
+    String returnBlank(String string) {
+
+        if (string.trim().isEmpty()) {
             return "N/A";
         }
-        
+
         return string;
-    }   
-    
+    }
+
     public List<Title> readFromFile() throws fileIOException {
         int skipcount = 0, lncount = 0;                             // Counts skipped lines (if corrupt).  Not currently used.
         Scanner scanner;
@@ -90,26 +90,31 @@ public class CppFileHandler {
                     skipcount = skipcount + 1;
 
                 } else {
-                    // if current line is readable, proceed with read                    
-                    currentTokens = currentline.split(DELIMITER);
-                    Title currentTitle = new Title(returnBlank(currentTokens[0]));
-                    currentTitle.setDuration(returnBlank(currentTokens[1]));
-                    currentTitle.setReleaseDate(returnBlank(currentTokens[2]));
-                    currentTitle.setMpaaRating(returnBlank(currentTokens[3]));
-                    currentTitle.setUserRating(returnBlank(currentTokens[4]));
-                    currentTitle.setDirector(returnBlank(currentTokens[5]));
-                    currentTitle.setStudio(returnBlank(currentTokens[6]));
-                    if (currentTokens.length == 8) {
-                        currentTitle.setUserNotes(returnBlank(currentTokens[7]));       
-                    } else {
-                        currentTitle.setUserNotes(" ");
+                    try {
+                        // if current line is readable, proceed with read                    
+                        currentTokens = currentline.split(DELIMITER);
+                        Title currentTitle = new Title(returnBlank(currentTokens[0]));
+                        currentTitle.setDuration(returnBlank(currentTokens[1]));
+                        currentTitle.setReleaseDate(returnBlank(currentTokens[2]));
+                        currentTitle.setMpaaRating(returnBlank(currentTokens[3]));
+                        currentTitle.setUserRating(returnBlank(currentTokens[4]));
+                        currentTitle.setDirector(returnBlank(currentTokens[5]));
+                        currentTitle.setStudio(returnBlank(currentTokens[6]));
+                        if (currentTokens.length == 8) {
+                            currentTitle.setUserNotes(returnBlank(currentTokens[7]));
+                        } else {
+                            currentTitle.setUserNotes(" ");
+                        }
+
+                        titleList.add(currentTitle);
+
+                    } catch (Exception e) {         // SKips the line if there was an unrecoverable error
+
                     }
-
-                    titleList.add(currentTitle);
+                    lncount = lncount + 1;
                 }
-                lncount = lncount + 1;
-            }
 
+            }
         } catch (Exception e) {
             throw new fileIOException("Error reading file.  Unencrypted, corrupt or wrong password.", e);
         }
