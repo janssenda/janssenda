@@ -156,8 +156,8 @@ public class DvdCollectionView {
                 break;
             }
             case 4: {
-                io.print("Current MPAA rating: " + title.getMpaaRating() + " stars");
-                newVal = io.readLine("Enter new rating (stars): ");
+                io.print("Current MPAA rating: " + title.getMpaaRating());
+                newVal = io.readLine("Enter new rating");
                 if (!newVal.trim().isEmpty()) {
                     title.setMpaaRating(newVal);
                 }
