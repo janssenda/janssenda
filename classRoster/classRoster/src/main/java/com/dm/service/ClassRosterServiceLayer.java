@@ -5,6 +5,7 @@
  */
 package com.dm.service;
 
+import com.dm.classroster.dao.ClassRosterPersistenceException;
 import com.dm.classroster.dto.Student;
 import java.util.List;
 

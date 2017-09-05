@@ -30,7 +30,7 @@ public class ClassRosterDaoFileImpl implements ClassRosterDao {
 
     @Override
     public Student addStudent(String studentId, Student student) 
-    throws ClassRosterDaoException {
+    throws ClassRosterPersistenceException {
         
         Student newStudent = students.put(studentId, student);
         writeRoster();
@@ -39,33 +39,33 @@ public class ClassRosterDaoFileImpl implements ClassRosterDao {
 
     @Override
     public List<Student> getAllStudents() 
-    throws ClassRosterDaoException {
+    throws ClassRosterPersistenceException {
         loadRoster();
         return new ArrayList<>(students.values());
     }
 
     @Override
     public Student getStudent(String studentId) 
-    throws ClassRosterDaoException {
+    throws ClassRosterPersistenceException {
         loadRoster();
     return students.get(studentId);
     }
 
     @Override
     public Student removeStudent(String studentId) 
-    throws ClassRosterDaoException{
+    throws ClassRosterPersistenceException{
         Student removedStudent = students.remove(studentId);
         writeRoster();
         return removedStudent;
     }
 
-    public void loadRoster() throws ClassRosterDaoException {
+    public void loadRoster() throws ClassRosterPersistenceException {
         Scanner scanner;
 
         try {
             scanner = new Scanner(new BufferedReader(new FileReader(ROSTER_FILE)));
         } catch (Exception e) {
-            throw new ClassRosterDaoException("-_- Could not load roster data into memory.", e);
+            throw new ClassRosterPersistenceException("-_- Could not load roster data into memory.", e);
         }
 
         String currentLine;
@@ -88,7 +88,7 @@ public class ClassRosterDaoFileImpl implements ClassRosterDao {
 
     }
 
-    private void writeRoster() throws ClassRosterDaoException {
+    private void writeRoster() throws ClassRosterPersistenceException {
 
         
         PrintWriter out;
@@ -96,7 +96,7 @@ public class ClassRosterDaoFileImpl implements ClassRosterDao {
         try {
             out = new PrintWriter(new FileWriter(ROSTER_FILE));
         } catch (IOException e) {
-            throw new ClassRosterDaoException(
+            throw new ClassRosterPersistenceException(
                     "Could not save student data.", e);
         }
 

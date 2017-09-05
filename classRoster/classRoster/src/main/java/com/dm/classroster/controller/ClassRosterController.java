@@ -5,57 +5,56 @@
  */
 package com.dm.classroster.controller;
 
-import com.dm.classroster.dao.ClassRosterDao;
-import com.dm.classroster.dao.ClassRosterDaoException;
-import com.dm.classroster.dao.ClassRosterDaoFileImpl;
+import com.dm.classroster.dao.ClassRosterPersistenceException;
 import com.dm.classroster.dto.Student;
 import com.dm.classroster.ui.ClassRosterView;
+import com.dm.service.ClassRosterDataValidationException;
+import com.dm.service.ClassRosterDuplicateIdException;
+import com.dm.service.ClassRosterServiceLayer;
 import java.util.List;
-
-
 
 public class ClassRosterController {
 
-    ClassRosterView view; 
-    ClassRosterDao dao; 
-    
-    public ClassRosterController(ClassRosterDao dao, ClassRosterView view){
-        this.dao = dao;
-        this.view = view;        
+    private ClassRosterView view;
+    private ClassRosterServiceLayer service;
+
+    public ClassRosterController(ClassRosterServiceLayer service, ClassRosterView view) {
+        this.service = service;
+        this.view = view;
     }
-    
+
     public void run() {
         boolean keepGoing = true;
-        int menuSelection = 0;
+        int menuSelection;
 
-        try{
-        while (keepGoing) {
+        try {
+            while (keepGoing) {
 
-            menuSelection = getMenuSelection();
+                menuSelection = getMenuSelection();
 
-            switch (menuSelection) {
-                case 1:
-                    listStudents();
-                    break;
-                case 2:
-                    createStudent();
-                    break;
-                case 3:
-                    viewStudent();
-                    break;
-                case 4:
-                    removeStudent();
-                    break;
-                case 5:
-                    keepGoing = false;
-                    break;
-                default:
-                    unknownCommand();
+                switch (menuSelection) {
+                    case 1:
+                        listStudents();
+                        break;
+                    case 2:
+                        createStudent();
+                        break;
+                    case 3:
+                        viewStudent();
+                        break;
+                    case 4:
+                        removeStudent();
+                        break;
+                    case 5:
+                        keepGoing = false;
+                        break;
+                    default:
+                        unknownCommand();
+                }
+
             }
-
-        }
-        exitMessage();
-        }catch (ClassRosterDaoException e){
+            exitMessage();
+        } catch (ClassRosterPersistenceException e) {
             view.displayErrorMessage(e.getMessage());
         }
 
@@ -65,41 +64,49 @@ public class ClassRosterController {
         return view.printMenuAndGetSelection();
     }
 
-    private void createStudent() throws ClassRosterDaoException {
+    private void createStudent() throws ClassRosterPersistenceException {
         view.displayCreateStudentBanner();
-        Student newStudent = view.getNewStudentInfo();
-        dao.addStudent(newStudent.getStudentId(), newStudent);
-        view.displayCreateStudentBanner();
-
+        boolean hasErrors;
+        do {
+            Student newStudent = view.getNewStudentInfo();
+            try {
+                service.createStudent(newStudent);
+                view.displayCreateStudentBanner();
+                hasErrors = false;
+            } catch (ClassRosterDuplicateIdException | ClassRosterDataValidationException e) {
+                hasErrors = true;
+                view.displayErrorMessage(e.getMessage());
+            }
+        } while (hasErrors);
     }
 
-    private void listStudents() throws ClassRosterDaoException {
+    private void listStudents() throws ClassRosterPersistenceException {
         view.displayDisplayAllBanner();
-        List<Student> studentList = dao.getAllStudents();
+        List<Student> studentList = service.getAllStudents();
         view.displayStudentList(studentList);
     }
 
-    private void viewStudent() throws ClassRosterDaoException {
+    private void viewStudent() throws ClassRosterPersistenceException {
         view.displayDisplayStudentBanner();
         String studentId = view.getStudentIdChoice();
-        Student student = dao.getStudent(studentId);
+        Student student = service.getStudent(studentId);
         view.displayStudent(student);
 
     }
 
-    private void removeStudent() throws ClassRosterDaoException {
+    private void removeStudent() throws ClassRosterPersistenceException {
         view.displayRemoveStudentBanner();
         String studentId = view.getStudentIdChoice();
-        dao.removeStudent(studentId);
+        service.removeStudent(studentId);
         view.displayRemoveStudentSuccessBanner();
     }
-    
-    private void unknownCommand(){        
-        view.displayUnknownCommandBanner();        
+
+    private void unknownCommand() {
+        view.displayUnknownCommandBanner();
     }
-    
-    private void exitMessage(){
+
+    private void exitMessage() {
         view.displayExitBanner();
     }
-    
+
 }
