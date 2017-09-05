@@ -226,7 +226,7 @@ public class DvdCollectionView {
             System.arraycopy(str, 0, newstr, 0, l - 3);
 
             for (int i = 0; i < 3; i++) {
-                newstr[(l - 3) + i] = '.';
+                newstr[(l - 4) + i] = '.';
             }
 
             String fstring = new String(newstr);
@@ -248,7 +248,7 @@ public class DvdCollectionView {
 
     // Shows all titles to user, taking advantage of stShort to format them nicely
     public void printAllTitles(List<Title> titleList) {
-        int space = 1;
+        int space = 4;
         io.print("");
         io.print("[Title]  \t[Duration][Year][MPAA][Rating][Director]           [Studio]         [Additional]");
         io.print("------------------------------------------------------------------------------------------------------------------------");
@@ -259,7 +259,7 @@ public class DvdCollectionView {
                     + stShort(currentTitle.getMpaaRating(), 5 + space) + "  "
                     + stShort(currentTitle.getUserRating(), 3 + space) + "  "
                     + stShort(currentTitle.getDirector(), 19 + space) + "  "
-                    + stShort(currentTitle.getStudio(), 14 + space) + "  "
+                    + stShort(currentTitle.getStudio(), 14 + space) + "\t"
                     + currentTitle.getUserNotes());
         }
         io.print("------------------------------------------------------------------------------------------------------------------------");

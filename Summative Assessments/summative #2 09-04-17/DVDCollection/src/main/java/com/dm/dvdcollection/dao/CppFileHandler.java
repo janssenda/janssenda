@@ -22,8 +22,7 @@ there are two methods - readFromFile and writeToFile.  Encryption is included
 as an option for the user, and is used when password != null.  Othwerwise, 
 standard comma delinieated output is used.  File extnesion .cplib is created for libraries.
 Encrytped libraries also have encrypted filenames.
-*/
-
+ */
 public class CppFileHandler {
 
     private static final String DELIMITER = ",";            // Delimiter for reading and writing files
@@ -42,7 +41,17 @@ public class CppFileHandler {
         this.filename = filename;
         this.password = password;
     }
-
+    
+    // Returns a string N/A if the field is empty in read file
+    String returnBlank(String string){
+        
+        if (string.trim().isEmpty()){
+            return "N/A";
+        }
+        
+        return string;
+    }   
+    
     public List<Title> readFromFile() throws fileIOException {
         int skipcount = 0, lncount = 0;                             // Counts skipped lines (if corrupt).  Not currently used.
         Scanner scanner;
@@ -51,7 +60,7 @@ public class CppFileHandler {
         // Determine if user is loading an encrypted file
         if (password != null) {
             try {
-                filename = StringEncrypt.encrypt(filename+EXT, password);   // Calculate the filename for encrypted library.             
+                filename = StringEncrypt.encrypt(filename + EXT, password);   // Calculate the filename for encrypted library.             
             } catch (Exception e) {
             }
 
@@ -79,18 +88,22 @@ public class CppFileHandler {
                 }
                 if (currentline == null) {
                     skipcount = skipcount + 1;
-                
+
                 } else {
-                    // if current line is readable, proceed with read
+                    // if current line is readable, proceed with read                    
                     currentTokens = currentline.split(DELIMITER);
-                    Title currentTitle = new Title(currentTokens[0]);
-                    currentTitle.setDuration(currentTokens[1]);
-                    currentTitle.setReleaseDate(currentTokens[2]);
-                    currentTitle.setMpaaRating(currentTokens[3]);
-                    currentTitle.setUserRating(currentTokens[4]);
-                    currentTitle.setDirector(currentTokens[5]);
-                    currentTitle.setStudio(currentTokens[6]);
-                    currentTitle.setUserNotes(currentTokens[7]);
+                    Title currentTitle = new Title(returnBlank(currentTokens[0]));
+                    currentTitle.setDuration(returnBlank(currentTokens[1]));
+                    currentTitle.setReleaseDate(returnBlank(currentTokens[2]));
+                    currentTitle.setMpaaRating(returnBlank(currentTokens[3]));
+                    currentTitle.setUserRating(returnBlank(currentTokens[4]));
+                    currentTitle.setDirector(returnBlank(currentTokens[5]));
+                    currentTitle.setStudio(returnBlank(currentTokens[6]));
+                    if (currentTokens.length == 8) {
+                        currentTitle.setUserNotes(returnBlank(currentTokens[7]));       
+                    } else {
+                        currentTitle.setUserNotes(" ");
+                    }
 
                     titleList.add(currentTitle);
                 }
@@ -101,7 +114,7 @@ public class CppFileHandler {
             throw new fileIOException("Error reading file.  Unencrypted, corrupt or wrong password.", e);
         }
 
-        scanner.close();        
+        scanner.close();
         return titleList;
 
     }
