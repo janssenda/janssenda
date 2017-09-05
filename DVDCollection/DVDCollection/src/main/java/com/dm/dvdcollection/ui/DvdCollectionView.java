@@ -98,7 +98,7 @@ public class DvdCollectionView {
         io.print("Title: " + title.getTitle());
         io.print("Title: " + title.getDuration());
         io.print("Release Date: " + title.getReleaseDate());
-        io.print("MPAA Rating: " + title.getMpaaRating() + " stars ");
+        io.print("MPAA Rating: " + title.getMpaaRating());
         io.print("Your rating: " + title.getUserRating() + " stars ");
         io.print("Director: " + title.getDirector());
         io.print("Studio: " + title.getStudio());
