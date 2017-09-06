@@ -17,12 +17,23 @@ import java.util.concurrent.TimeUnit;
 public class main {
 
     public static void main(String[] args) {
-        boolean ex = true;
-        ExecutorService executor = Executors.newFixedThreadPool(1000);
 
-        
         long t0 = System.nanoTime();
-        for (int i = 0; i < 1000; i++) {
+
+        process();
+        
+        long dT = System.nanoTime() - t0;
+        System.out.println("Computation time (us): " + TimeUnit.NANOSECONDS.toMicros(dT));
+        //System.out.println("Termination on time: " + ex);
+        System.out.println("Finished all threads");
+
+    }
+
+    public static void process() {
+        boolean ex = true;
+        ExecutorService executor = Executors.newFixedThreadPool(1);
+
+        for (int i = 0; i < 50; i++) {
             Runnable worker = new HelloRunnable();
             executor.execute(worker);
         }
@@ -37,10 +48,6 @@ public class main {
 
         }
 
-        long dT = System.nanoTime() - t0;
-        System.out.println("Computation time (us): " + TimeUnit.NANOSECONDS.toMicros(dT));
-        //System.out.println("Termination on time: " + ex);
-        System.out.println("Finished all threads");
     }
 
 }
