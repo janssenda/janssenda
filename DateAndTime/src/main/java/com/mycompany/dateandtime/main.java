@@ -5,7 +5,7 @@
  */
 package com.mycompany.dateandtime;
 
-import java.time.LocalDateTime;
+import java.time.LocalDate;
 import java.time.ZonedDateTime;
 import java.time.format.DateTimeFormatter;
 import java.time.format.FormatStyle;
@@ -18,8 +18,8 @@ public class main {
 
     public static void main(String[] args) {
 
-//        //LocalDate ld = LocalDate.now();
-        ZonedDateTime ld = ZonedDateTime.now();
+       LocalDate ld = LocalDate.now();
+        //ZonedDateTime ld = ZonedDateTime.now();
         //ld = ld.minusDays(5);
         
         System.out.println(ld.format(DateTimeFormatter.ofPattern("MM/dd/yy @ h:mm a z")));

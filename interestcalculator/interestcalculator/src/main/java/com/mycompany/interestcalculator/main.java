@@ -8,6 +8,7 @@ package com.mycompany.interestcalculator;
 import java.io.BufferedWriter;
 import java.io.FileWriter;
 import java.io.IOException;
+import java.math.BigDecimal;
 
 
 
@@ -15,22 +16,22 @@ import java.io.IOException;
 
 public class main {
     public static void main(String[] args) {
-    double r, p0;
-    int years;
     String period;
         
-    r = 2.5;
-    p0 = 500;
-    years = 10;
+    BigDecimal r = new BigDecimal("2.5");
+    BigDecimal p0 = new BigDecimal("500");
+
+    BigDecimal data[][];
+    int years = 4;
     period = "yearly";
     
     
-    double[][] data = calcInterest(r, p0, years, period);  
+    data = calcInterest(r, p0, years, period);  
     printData(data);
-    writer(data);
     
- 
-        
+    
+    //writer(data);     
+
     }
     
     
@@ -38,16 +39,16 @@ public class main {
     
     
     
-    public static double[][] calcInterest(double r, double p0, int years, String period){
-    double [][] data = new double [years][4];   //year#, principal @ start, earned interest, principal @ end
+    public static BigDecimal[][] calcInterest(BigDecimal r, BigDecimal p0, int years, String period){
+    BigDecimal [][] data = new BigDecimal [years][4];   //year#, principal @ start, earned interest, principal @ end
     
     
     for (int i=0; i < years; i++){
         
-        data[i][0] = i;
+        data[i][0] = BigDecimal.valueOf(i);
         data[i][1] = p0;
         data[i][2] = calcPrincipal(r, p0, period);
-        data[i][3] = data[i][2]+p0; 
+        data[i][3] = data[i][2].add(p0); 
         
         p0 = data[i][3];
         
@@ -59,8 +60,8 @@ public class main {
     
     
     
-    public static double calcPrincipal(double r, double principal, String period){
-    double p_earned = 0;
+    public static BigDecimal calcPrincipal(BigDecimal r, BigDecimal principal, String period){
+    BigDecimal p_earned = new BigDecimal("0");
     int intp = 4;
     
         switch (period.toLowerCase()) {
@@ -72,18 +73,24 @@ public class main {
                 break;
             case "daily": intp = 365;
                 break;                
-        }
-    
+        }    
+                
         for (int i =0; i<intp; i++){
-            p_earned = (principal*(1+0.01*r) - principal);
-            principal = principal + p_earned;   
+            p_earned = BigDecimal.valueOf(1).add(
+                    r.multiply(BigDecimal.valueOf(0.01)));
+            p_earned = (p_earned.multiply(principal)).subtract(principal);
+            
+            principal = principal.add(p_earned);
+            
+            //p_earned = (principal*(1+0.01*r) - principal);            
+            //principal = principal + p_earned;   
         }
     
     return p_earned;
     }
 
 
-    public static void printData(double[][] data){
+    public static void printData(BigDecimal[][] data){
 
     System.out.println("\n\nYear    P0 ($)        Pe ($)        Pf ($)");
     System.out.println("----------------------------------------");    
@@ -114,7 +121,7 @@ public class main {
     
     
     
-        public static void writer(double [][] data){
+        public static void writer(BigDecimal [][] data){
         String fileName = "test.txt";
         String line;
         

@@ -5,29 +5,43 @@
  */
 package com.mycompany.concurrency_new;
 
+import java.util.concurrent.CountDownLatch;
+
 /**
  *
  * @author Danimaetrix
  */
 public class HelloRunnable implements Runnable {
 
+    private final CountDownLatch startSignal;
+    private final CountDownLatch doneSignal;
 
+    HelloRunnable(CountDownLatch startSignal, CountDownLatch doneSignal) {
+        this.startSignal = startSignal;
+        this.doneSignal = doneSignal;
+    }
 
     @Override
     public void run() {
-
         try {
-            Thread.sleep(100);
-        } catch (InterruptedException e) {
+            startSignal.await();
+            doWork();
+            doneSignal.countDown();
+        } catch (InterruptedException ex) {
+        } // return;
 
+    }
+
+    void doWork() {
+        
+        for (int i = 0; i< 2; i++){
+        try {
+                Thread.sleep(100);
+            } catch (InterruptedException e) {
+            }
+            System.out.println("Done");
         }
-        System.out.println("Done");
 
-        // long sum = 0;
-        // for (long i = 1; i < countUntil; i++) {
-        //     sum += i;
-        // }
-        //System.out.println(sum);
     }
 
 }
