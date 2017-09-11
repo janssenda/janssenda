@@ -65,7 +65,10 @@ public class VendingFileHandler {
                     for (int i = 0; i < currentTokens.length; i++) {
                         currentTokens[i] = currentTokens[i].trim();
                     }
-                    pricing.put(currentTokens[0], currentTokens[1]);
+                    
+                    if (!currentTokens[0].startsWith("//")){
+                        pricing.put(currentTokens[0], currentTokens[1]);
+                    }
                 } catch (Exception e) {
                     // Skips the line if there is a problem but continues reading file
                 }
@@ -134,6 +137,8 @@ public class VendingFileHandler {
                     for (int i = 0; i < currentTokens.length; i++) {
                         currentTokens[i] = currentTokens[i].trim();
                     }
+                    
+                    if (!currentTokens[0].startsWith("//")){
 
                     // We create the physical product and assign it values from our inventoy
                     Product currentProduct = new Product();
@@ -145,6 +150,7 @@ public class VendingFileHandler {
 
                     // Add to our total list.  We bring in ALL items in inventory, so we can sort them
                     ProductList.add(currentProduct);
+                    }
 
                 } catch (Exception e) {
                     // Skips the line if there is a problem but continues reading file

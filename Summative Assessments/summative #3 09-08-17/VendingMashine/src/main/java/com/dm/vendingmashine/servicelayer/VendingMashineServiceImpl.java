@@ -64,7 +64,7 @@ public class VendingMashineServiceImpl implements VendingMashineService {
             currentString[0] = name;
             currentString[1] = (String) pricing.get(name);
             if (isSoldOut(name)) {
-                currentString[2] = "S/O";
+                currentString[2] = "<Out>";
             } else {
                 currentString[2] = "";
             }

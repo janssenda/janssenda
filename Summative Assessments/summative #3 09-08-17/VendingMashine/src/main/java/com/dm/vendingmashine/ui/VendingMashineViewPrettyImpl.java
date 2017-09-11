@@ -40,36 +40,40 @@ public class VendingMashineViewPrettyImpl implements VendingMashineView {
     public void generateMenu(List<String[]> pricing) {
 
         io.print("");
-        io.print("  /xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\\");
-        io.print("xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx");
-        io.print("xxxx" + stShort("      Coke - Sprite - Dasani ", 32) + "xxxxxxx");
-        io.print("xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx");
-        io.print("xxxx/" + stShort("", 30) + "\\xxxxxxxx");
-        io.print("xxxx" + stShort("             WELCOME", 32) + " x[###]x");
-        io.print("xxxx" + stShort("        TO THE REALISTIC", 32) + " xxxxxxx");
-        io.print("xxxx" + stShort("    VENDING MACHINE SIMULATOR", 32) + " xxxxxxx");
-        io.print("xxxx" + stShort("", 32) + " xxxxxxx");
+        io.print(" /xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\\");
+        io.print("xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx");
+        io.print("xxxx" + stShort("      Coke - Sprite - Dasani ", 34) + "xxxxxxxx");
+        io.print("xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx");
+        io.print("xxxx/" + stShort("", 32) + "\\xxxxxxxx");
+        io.print("xxxx" + stShort("            -WELCOME-", 33) + " x[####]x");
+        io.print("xxxx" + stShort("        TO THE REALISTIC", 33) + " xxxxxxxx");
+        io.print("xxxx" + stShort("    VENDING MACHINE SIMULATOR", 33) + " xxxxxxxx");
+        io.print("xxxx" + stShort("", 33) + " xxxxxxxx");
 
         for (int i = 0; i < pricing.size(); i++) {
-            io.print(stShort("xxxx", 8) + (i + 2) + ". " + stShort(pricing.get(i)[0], 15)
+            io.print(stShort("xxxx", 8) 
+                    + stShort(Integer.toString(i + 2)+".",5) 
+                    + stShort(pricing.get(i)[0], 15)
                     + "$" + stShort(pricing.get(i)[1], 6)
-                    + stShort(pricing.get(i)[2], 4) + "[ oooo ]");
+                    + stShort(pricing.get(i)[2], 7) + "[ oooo ]");
         }
-        io.print(stShort("xxxx", 8) + "-----------------------" + stShort("", 6) + "xxxxxxxx");
-        io.print(stShort("xxxx", 8) + "0. Get change and leave" + stShort("", 6) + "xxxxxxxx");
-        io.print(stShort("xxxx", 8) + "1. Add money" + stShort("", 17) + "x[    ]x");
+        io.print(stShort("xxxx", 8) + "-----------------------" + stShort("", 8) + "xxxxxxxx");
+        io.print(stShort("xxxx", 8) + "0.  Get change and leave" + stShort("", 7) + "xxxxxxxx");
+        io.print(stShort("xxxx", 8) + "1.  Add money" + stShort("", 18) + "x[    ]x");
 
-        io.print("xxxx\\" + stShort("", 31) + "/xxxxxxxx");
+        io.print("xxxx\\" + stShort("", 32) + "/xxxxxxxx");
         io.print("xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx");
 
         io.print("xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\n"
-                + "xxxxxxxxxxxxxxx|\\	    /|xxxxxxxxxxxxxxx\n"
-                + "xxxxxxxxxxxxxxx|" + stShort("    PUSH", 13) + "|xxxxxxxxxxxxxxx\n"
-                + "xxxxxxxxxxxxxxx|/	    \\|xxxxxxxxxxxxxxx\n"
+                + "xxx=========xxx|\\	    /|xxx=========xxx\n"
+                + "xxx=========xxx|" + stShort("  < PUSH >", 14) + "|xxx=========xxx\n"
+                + "xxx=========xxx|/	    \\|xxx=========xxx\n"
+                + "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\n"
                 + "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\n"
                 + "xxxx					 xxxx\n"
                 + " xx		   			  xx");
-        io.print("----------------------------------------------");
+
+        io.print("---------------------------------------------");
 
         io.print("");
 

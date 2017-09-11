@@ -35,7 +35,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>com.dm.vendingmashine.App</mainClass>
+                            <mainClass>com.dm.vendingmashine.app.App</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
