@@ -121,7 +121,8 @@ public class VendingMashineViewPrettyImpl implements VendingMashineView {
     @Override
     public void showTheProduct(Product p) {
         io.print("");
-        io.print("Congrats " + p.getMessage() + " on your brand new " + p.getProductName());
+        displayCocaColaBanner();
+        io.print("Congrats " + p.getMessage() + " on your brand new " + p.getProductName()+"!!!");
         io.print("Please enjoy by: "
                 + p.getBestBy().format(DateTimeFormatter.ofPattern("MM/dd/yyyy"))
                 + " for maximum freshness!");
@@ -195,6 +196,22 @@ public class VendingMashineViewPrettyImpl implements VendingMashineView {
         io.print("\n");
         io.print(msg);
         waitOnUser();
+    }
+    
+    public void displayCocaColaBanner(){
+        io.print("                                               .,.            k\n" +
+"   aAn                  ,       aAn ,dMMMAn,  an.   JM\n" +
+"  dMMMk  aAn   aAn   an,A  jMF dMMMk^\"  \"^YMMVP\"P.aAV\"\n" +
+" jMT \"M jM^Mk jM^Mk jM^MM ,MF jM^d\"M       \"jMMMMMP^\n" +
+" MM   ' MF AP MF YP MF AP     MM \"^\"        MM ~~~\n" +
+" MM     M| M| M| ' .M| M|     MM            MM       ,\n" +
+" MM     Mk Vk Mk .aMMk Ml ,   MM       aAn  MM    an,A\n" +
+" MM     YMUMP YMUMP YMUMk,N   MM  ,An jM^MM MM   jMMMM\n" +
+" MM      ^W^   ^W^   YP\"VP\"   MM  P\"M MF MP MM   MF AP\n" +
+" MMl         .,oammmo,.       MMl ` M M| M| MM   M| M|\n" +
+" TMMk.  .,aAMMMMMMMMMMMMo,    TMMk.jM Mk Mk MM   Mk Ml ,\n" +
+"  YMMMMMMMMP^\"~     \"~^VMMt    YMMMMP YMMMP VYk jMMMMk,M\n" +
+"   ^YMV^~\"              VP      ^YMP   ^W^   ^MMP YP\"VP\"\n\n");
     }
 
 }

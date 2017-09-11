@@ -55,7 +55,7 @@ public class VendingMashineController {
                 view.displayExceptionMessage("Error updating inventory file: " + e.getMessage());
             }
         }
-
+        view.waitOnUser();
         exitProgram();
 
     }
