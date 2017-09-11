@@ -9,13 +9,14 @@ package com.dm.vendingmashine.dao;
  *
  * @author Danimaetrix
  */
-public class FileIOException extends Exception {
+public class NoItemInventoryException extends Exception {
 
-    public FileIOException(String message) {
+    public NoItemInventoryException(String message) {
         super(message);
     }
 
-    public FileIOException(String message, Throwable cause) {
+    public NoItemInventoryException(String message, Throwable cause) {
         super(message, cause);
     }
+
 }

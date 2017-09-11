@@ -14,45 +14,69 @@ import java.math.RoundingMode;
  */
 public class Money {
 
-    int quarters, dimes, nickels, pennies;
+    BigDecimal quarters, dimes, nickels, pennies;
     BigDecimal totalmoney;
 
     public Money(BigDecimal totalmoney) {
         this.totalmoney = totalmoney;
-        breakMoney(totalmoney);
+        breakMoney();
+    }
 
+    public void setQuarters(BigDecimal quarters) {
+        this.quarters = quarters;
+    }
+
+    public void setDimes(BigDecimal dimes) {
+        this.dimes = dimes;
+    }
+
+    public void setNickels(BigDecimal nickels) {
+        this.nickels = nickels;
+    }
+
+    public void setPennies(BigDecimal pennies) {
+        this.pennies = pennies;
+    }
+
+    public void setTotalmoney(BigDecimal totalmoney) {
+        this.totalmoney = totalmoney;
+        breakMoney();
     }
 
     // Break the total amount into real USD.  Note
     // rounding up takes place in this process to
     //facilitate conversion to real values.
-    private void breakMoney(BigDecimal m) {
-        int total = m.setScale(2, RoundingMode.HALF_UP)
-                .movePointRight(2).intValue();
+    public void breakMoney() {
+        BigDecimal r = totalmoney.movePointRight(0);
 
-        this.quarters = total / 25;
-        total = total - 25 * quarters;
-        this.dimes = total / 10;
-        total = total - 10 * dimes;
-        this.nickels = total / 5;
-        this.pennies = total - 5 * nickels;
+        BigDecimal[] result = r.divideAndRemainder(BigDecimal.valueOf(0.25));
+        setQuarters(result[0]);
 
+        result = result[1].divideAndRemainder(BigDecimal.valueOf(0.10));
+        setDimes(result[0]);
+
+        result = result[1].divideAndRemainder(BigDecimal.valueOf(0.05));
+        setNickels(result[0]);
+
+        result = result[1].divideAndRemainder(BigDecimal.valueOf(0.01));
+        setPennies(result[0].setScale(0, RoundingMode.HALF_UP));
+
+    }   
+
+    public String getQuarters() {
+        return quarters.setScale(0, RoundingMode.HALF_UP).toString();
     }
 
-    public int getQuarters() {
-        return quarters;
+    public String getDimes() {
+        return dimes.setScale(0, RoundingMode.HALF_UP).toString();
     }
 
-    public int getDimes() {
-        return dimes;
+    public String getNickels() {
+        return nickels.setScale(0, RoundingMode.HALF_UP).toString();
     }
 
-    public int getNickels() {
-        return nickels;
-    }
-
-    public int getPennies() {
-        return pennies;
+    public String getPennies() {
+        return pennies.setScale(0, RoundingMode.HALF_UP).toString();
     }
 
     public BigDecimal getTotalmoney() {

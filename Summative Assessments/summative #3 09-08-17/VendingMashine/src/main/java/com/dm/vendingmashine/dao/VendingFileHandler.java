@@ -5,72 +5,51 @@
  */
 package com.dm.vendingmashine.dao;
 
+import com.dm.vendingmashine.dto.Product;
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.io.PrintWriter;
+import java.time.LocalDate;
+import java.time.format.DateTimeFormatter;
 import java.util.ArrayList;
+import java.util.LinkedHashMap;
 import java.util.List;
+import java.util.Map;
 import java.util.Scanner;
 
 
-/* This class controls how the libraries are written to and read from disk
-there are two methods - readFromFile and writeToFile.  Encryption is included
-as an option for the user, and is used when password != null.  Othwerwise, 
-standard comma delinieated output is used.  File extnesion .cplib is created for libraries.
-Encrytped libraries also have encrypted filenames.
+/* This class allocates reading and writing responsibilities according
+to the calling method.  readPricing reads the price map into the system for use
+in the service layer.  Inventory IO methods manage importing and exporting of
+product list.  The product list is a CSV file containing one line for each single
+product (i.e., inventory of 5 coke objects takes 5 lines). Because of this, we can 
+allow each individual product object to retain individually owned values. For example,
+each can may have a different best - by date, and a different message (as is the norm
+in the coca-cola corp currently.  E.g, the names on cans that is part of a marketing campaign.
+Now we can surprise the user with these things, and the may be unique per object!!
  */
 public class VendingFileHandler {
 
     private static final String DELIMITER = ",";            // Delimiter for reading and writing files
-    private static final String EXT = ".cplib";             // Arbitrary extension created for this project
-    private String password;
-    private String filename;
+    private final String filename;
 
-    // Constructor for standar library
+    // Constructor 
     public VendingFileHandler(String filename) {
         this.filename = filename;
-        this.password = null;
     }
 
-    // Consructor for encrypted library
-    public VendingFileHandler(String filename, String password) {
-        this.filename = filename;
-        this.password = password;
-    }
-
-    // Returns a string N/A if the field is empty in read file
-    String returnBlank(String string) {
-
-        if (string.trim().isEmpty()) {
-            return "N/A";
-        }
-
-        return string;
-    }
-
-    public List<Title> readFromFile() throws FileIOException {
-        int skipcount = 0, lncount = 0;                             // Counts skipped lines (if corrupt).  Not currently used.
+    public Map<String, String> readPricingFromFile() throws FileIOException {
         Scanner scanner;
-        List<Title> titleList = new ArrayList<>();
-
-        // Determine if user is loading an encrypted file
-        if (password != null) {
-            try {
-                filename = StringEncrypt.encrypt(filename + EXT, password);   // Calculate the filename for encrypted library.             
-            } catch (Exception e) {
-            }
-
-        } else if (!filename.contains(".")) {
-            filename = filename + EXT;             // User our "proprietary" format if user does not specify.  Other formats can be read
-        }                                          // as long as they are comma delinieated     
+        Map<String, String> pricing = new LinkedHashMap<>();
 
         try {
             scanner = new Scanner(new BufferedReader(new FileReader(filename)));
         } catch (FileNotFoundException e) {
-            throw new FileIOException("Wrong password or library... ", e);
+            throw new FileIOException("Could not open pricing file. Filename"
+                    + " should be 'priceData.csv'", e);
         }
 
         String currentline;
@@ -79,93 +58,106 @@ public class VendingFileHandler {
         try {
             while (scanner.hasNextLine()) {
 
-                // Decrypt line if encryption was used, read a standard line otherwise
-                if (password != null) {
-                    currentline = StringEncrypt.decrypt(scanner.nextLine(), password);
-                } else {
-                    currentline = scanner.nextLine();
-                }
-                if (currentline == null) {
-                    skipcount = skipcount + 1;
+                currentline = scanner.nextLine();
+                try {
+                    currentTokens = currentline.split(DELIMITER);
 
-                } else {
-                    try {
-                        // if current line is readable, proceed with read                    
-                        currentTokens = currentline.split(DELIMITER);
-                        Title currentTitle = new Title(returnBlank(currentTokens[0]));
-                        currentTitle.setDuration(returnBlank(currentTokens[1]));
-                        currentTitle.setReleaseDate(returnBlank(currentTokens[2]));
-                        currentTitle.setMpaaRating(returnBlank(currentTokens[3]));
-                        currentTitle.setUserRating(returnBlank(currentTokens[4]));
-                        currentTitle.setDirector(returnBlank(currentTokens[5]));
-                        currentTitle.setStudio(returnBlank(currentTokens[6]));
-                        if (currentTokens.length == 8) {
-                            currentTitle.setUserNotes(returnBlank(currentTokens[7]));
-                        } else {
-                            currentTitle.setUserNotes(" ");
-                        }
-
-                        titleList.add(currentTitle);
-
-                    } catch (Exception e) {         // SKips the line if there was an unrecoverable error
-
+                    for (int i = 0; i < currentTokens.length; i++) {
+                        currentTokens[i] = currentTokens[i].trim();
                     }
-                    lncount = lncount + 1;
+                    pricing.put(currentTokens[0], currentTokens[1]);
+                } catch (Exception e) {
+                    // Skips the line if there is a problem but continues reading file
                 }
 
             }
         } catch (Exception e) {
-            throw new FileIOException("Error reading file.  Unencrypted, corrupt or wrong password.", e);
+            throw new FileIOException("Error reading file: empty or corrupt ", e);
+        }
+        
+        if (pricing.isEmpty()){
+            throw new FileIOException("Error: no pricing data found.  Please"
+                    + " add items to 'priceData.csv'");
         }
 
         scanner.close();
-        return titleList;
+        return pricing;
 
     }
 
-    public void writeToFile(List<Title> titleList) throws FileIOException {
+    public void writeInventoryToFile(List<Product> ProductList) throws FileIOException {
         PrintWriter out;
-        String currentline;
-
-        // Force the .cplib extension on all libraries
-        if (filename.contains(".")) {
-            String[] tokens = filename.split("\\.");
-
-            filename = tokens[0] + EXT;
-        } else {
-            filename = filename + EXT;
-        }
-
-        // Calculate encrypted flename if encryption is used
-        if (password != null) {
-            filename = StringEncrypt.encrypt(filename, password);
-        }
+        String foutName = filename;
 
         try {
-            out = new PrintWriter(new FileWriter(filename));
+            out = new PrintWriter(new FileWriter(foutName));
         } catch (IOException e) {
             throw new FileIOException("Error opening file.  Is it open"
                     + "\nin another application? ", e);
         }
 
-        for (Title currentTitle : titleList) {
+        for (int i = 0; i < ProductList.size(); i++) {
 
-            currentline = currentTitle.getTitle() + DELIMITER
-                    + currentTitle.getDuration() + DELIMITER
-                    + currentTitle.getReleaseDate() + DELIMITER
-                    + currentTitle.getMpaaRating() + DELIMITER
-                    + currentTitle.getUserRating() + DELIMITER
-                    + currentTitle.getDirector() + DELIMITER
-                    + currentTitle.getStudio() + DELIMITER
-                    + currentTitle.getUserNotes();
-            if (password != null) {
-                out.println(StringEncrypt.encrypt(currentline, password));          // Encrypt line
-            } else {
-                out.println(currentline);                                           // Do not encrypt
-            }
-            out.flush();
+            Product p = ProductList.get(i);
+            out.write(p.getProductName() + DELIMITER
+                    + p.getBestBy().format(DateTimeFormatter.ofPattern("MM/dd/yyyy")) + DELIMITER
+                    + p.getMessage() + DELIMITER
+                    + p.getInformation() + "\n");
         }
+
+        out.flush();
         out.close();
+    }
+
+    public List<Product> readInventoryFromFile() throws FileIOException {
+        Scanner scanner;
+
+        List<Product> ProductList = new ArrayList<>();
+
+        try {
+            scanner = new Scanner(new BufferedReader(new FileReader(filename)));
+        } catch (FileNotFoundException e) {
+            throw new FileIOException("Could not open inventory file. Filename"
+                    + " should be 'inventoryData.csv'", e);
+        }
+
+        String currentline;
+        String[] currentTokens;
+
+        try {
+            while (scanner.hasNextLine()) {
+
+                currentline = scanner.nextLine();
+                try {
+                    currentTokens = currentline.split(DELIMITER);
+
+                    for (int i = 0; i < currentTokens.length; i++) {
+                        currentTokens[i] = currentTokens[i].trim();
+                    }
+
+                    // We create the physical product and assign it values from our inventoy
+                    Product currentProduct = new Product();
+                    currentProduct.setProductName(currentTokens[0]);
+                    currentProduct.setBestBy(LocalDate.parse(
+                            currentTokens[1], DateTimeFormatter.ofPattern("MM/dd/yyyy")));
+                    currentProduct.setMessage(currentTokens[2]);
+                    currentProduct.setInformation(currentTokens[3]);
+
+                    // Add to our total list.  We bring in ALL items in inventory, so we can sort them
+                    ProductList.add(currentProduct);
+
+                } catch (Exception e) {
+                    // Skips the line if there is a problem but continues reading file
+                }
+
+            }
+
+        } catch (Exception e) {
+            throw new FileIOException("Error reading file: empty or corrupt ", e);
+        }
+
+        scanner.close();
+        return ProductList;
     }
 
 }

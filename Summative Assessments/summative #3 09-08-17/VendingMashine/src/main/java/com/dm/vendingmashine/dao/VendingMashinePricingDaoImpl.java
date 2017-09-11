@@ -5,10 +5,22 @@
  */
 package com.dm.vendingmashine.dao;
 
+import java.util.Map;
+
+
 /**
  *
  * @author danimaetrix
  */
-public class VendingMashinePricingDaoImpl {
-    
+public class VendingMashinePricingDaoImpl implements VendingMashinePricingDao {
+
+
+    @Override
+    public Map<String,String> loadPricingFromFile(String filename) throws FileIOException {
+
+        VendingFileHandler fileHandler = new VendingFileHandler(filename);
+        return fileHandler.readPricingFromFile();
+
+    }
+
 }

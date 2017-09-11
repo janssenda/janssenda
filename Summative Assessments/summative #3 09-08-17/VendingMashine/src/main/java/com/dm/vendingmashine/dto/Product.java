@@ -13,14 +13,23 @@ import java.time.LocalDate;
  */
 public class Product {
     String productname;
+    LocalDate bestBy;
+    String message;
     String information;
-    LocalDate manufactured;
 
-    public String getProductname() {
+    public String getMessage() {
+        return message;
+    }
+
+    public void setMessage(String message) {
+        this.message = message;
+    }
+
+    public String getProductName() {
         return productname;
     }
 
-    public void setProductname(String productname) {
+    public void setProductName(String productname) {
         this.productname = productname;
     }
 
@@ -32,14 +41,12 @@ public class Product {
         this.information = information;
     }
 
-    public LocalDate getManufactured() {
-        return manufactured;
+    public LocalDate getBestBy() {
+        return bestBy;
     }
 
-    public void setManufactured(LocalDate manufactured) {
-        this.manufactured = manufactured;
+    public void setBestBy(LocalDate bestBy) {
+        this.bestBy = bestBy;
     }
-    
-    
-    
+
 }

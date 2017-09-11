@@ -3,19 +3,20 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.dm.vendingmashine.dao;
+package com.dm.vendingmashine.servicelayer;
 
 /**
  *
  * @author Danimaetrix
  */
-public class FileIOException extends Exception {
+public class InsufficientFundsException extends Exception {
 
-    public FileIOException(String message) {
+    public InsufficientFundsException(String message) {
         super(message);
     }
 
-    public FileIOException(String message, Throwable cause) {
+    public InsufficientFundsException(String message, Throwable cause) {
         super(message, cause);
     }
+
 }

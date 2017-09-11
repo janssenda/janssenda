@@ -6,6 +6,8 @@
 package com.dm.vendingmashine.dao;
 
 import com.dm.vendingmashine.dto.Product;
+import java.time.LocalDate;
+import java.time.format.DateTimeFormatter;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
@@ -17,30 +19,80 @@ import java.util.stream.Collectors;
  *
  * @author danimaetrix
  */
-public class VendingMashineInventoryDaoImpl implements VendingMashineInventoryDao {
+public class VendingMashineInventoryDaoStubImpl implements VendingMashineInventoryDao {
 
     private Map<String, List<Product>> inventory = new HashMap<>();
 
-    @Override
-    public Map<String, List<Product>> readInventoryFromFile(String filename) throws FileIOException {
+    public Map<String, List<Product>> readInventoryFromFileNormal(String filename) throws FileIOException {
 
-        // Instantiate our handler and get the total list of products from the file
-        VendingFileHandler fileHandler = new VendingFileHandler(filename);
-        List<Product> InventoryList = fileHandler.readInventoryFromFile();
+        Product p1 = new Product();
+        p1.setProductName("Coke1");
+        p1.setBestBy(LocalDate.parse("11/09/2019", DateTimeFormatter.ofPattern("MM/dd/yyyy")));
+        p1.setInformation("Information");
+        p1.setMessage("My Message");
+
+        Product p2 = new Product();
+        p2.setProductName("Coke1");
+        p2.setBestBy(LocalDate.parse("11/09/2019", DateTimeFormatter.ofPattern("MM/dd/yyyy")));
+        p2.setInformation("Information");
+        p2.setMessage("My Message");
+
+        Product p3 = new Product();
+        p3.setProductName("Coke1");
+        p3.setBestBy(LocalDate.parse("11/09/2019", DateTimeFormatter.ofPattern("MM/dd/yyyy")));
+        p3.setInformation("Information");
+        p3.setMessage("My Message");
+
+        List<Product> cokelist = new ArrayList<>();
+
+        cokelist.add(p1);
+        cokelist.add(p2);
+        cokelist.add(p3);
 
         // Stream the list and sort into our map. NOTE: Our items can now be out of order and will still sort!!! :) :)
         //this.inventory = InventoryList.stream().collect(Collectors.groupingBy(p -> p.getProductname()));      
-        this.inventory = InventoryList.stream().collect(Collectors.groupingBy(Product::getProductName));
+        this.inventory = cokelist.stream().collect(Collectors.groupingBy(Product::getProductName));
 
         return this.inventory;
     }
 
     @Override
-    public void writeInventoryToFile(String filename) throws FileIOException {
-        // Instantiate our handler and get the being a list of products for the file
-        VendingFileHandler fileHandler = new VendingFileHandler(filename);
-        List<Product> ProductList = new ArrayList<>();
+    public Map<String, List<Product>> readInventoryFromFile(String filename) {
 
+        Product p1 = new Product();
+        p1.setProductName("Coke1");
+        p1.setBestBy(LocalDate.parse("11/09/2019", DateTimeFormatter.ofPattern("MM/dd/yyyy")));
+        p1.setInformation("Information");
+        p1.setMessage("My Message");
+
+        Product p2 = new Product();
+        p2.setProductName("Coke2");
+        p2.setBestBy(LocalDate.parse("11/09/2019", DateTimeFormatter.ofPattern("MM/dd/yyyy")));
+        p2.setInformation("Information");
+        p2.setMessage("My Message");
+
+        Product p3 = new Product();
+        p3.setProductName("Coke3");
+        p3.setBestBy(LocalDate.parse("11/09/2019", DateTimeFormatter.ofPattern("MM/dd/yyyy")));
+        p3.setInformation("Information");
+        p3.setMessage("My Message");
+
+        List<Product> cokelist = new ArrayList<>();
+
+        cokelist.add(p1);
+        cokelist.add(p2);
+        cokelist.add(p3);
+
+        this.inventory.put("Coke", cokelist);
+
+        return this.inventory;
+    }
+
+    @Override
+    public void writeInventoryToFile(String filename) {
+        //VendingFileHandler fileHandler = new VendingFileHandler(filename);
+        List<Product> ProductList = new ArrayList<>();
+        String DELIMITER = ",";
         // We need to reverse the process of bringing the data in.  We obtain 
         // the keyset from the inventory map, and stream the keys.
         // for each key name, we obtain a list containing product objects associated
@@ -49,13 +101,22 @@ public class VendingMashineInventoryDaoImpl implements VendingMashineInventoryDa
         // without the need for explicit management.  Our sorting algorithm organizes
         // incoming data, so we do not care how it is laid out here: only that it gets
         // written as a list with the correct formatting!!!
+
         Set<String> brands = inventory.keySet();
         brands.stream().forEach(name -> {
             List<Product> l = (ArrayList) inventory.get(name);
             ProductList.addAll(l);
         });
 
-        fileHandler.writeInventoryToFile(ProductList);
+        // Modified from file handler for screen printing;
+        for (int i = 0; i < ProductList.size(); i++) {
+
+            Product p = ProductList.get(i);
+            System.out.println(p.getProductName() + DELIMITER
+                    + p.getBestBy().format(DateTimeFormatter.ofPattern("MM/dd/yyyy")) + DELIMITER
+                    + p.getMessage() + DELIMITER
+                    + p.getInformation());
+        }
 
     }
 
@@ -74,6 +135,7 @@ public class VendingMashineInventoryDaoImpl implements VendingMashineInventoryDa
 
             return p;
         }
+
     }
 
     // Simply obtains the inventory of a product name by getting the length of

@@ -42,10 +42,11 @@ public class MoneyTest {
     public void testBreakMoney() {
         Money m = new Money(new BigDecimal("2.50"));
 
-        assertEquals(10, m.getQuarters());
-        assertEquals(0, m.getNickels());
-        assertEquals(0, m.getDimes());
-        assertEquals(0, m.getPennies());
+
+        assertEquals("10", m.getQuarters());
+        assertEquals("0", m.getNickels());
+        assertEquals("0", m.getDimes());
+        assertEquals("0", m.getPennies());
 
     }
 
@@ -53,10 +54,10 @@ public class MoneyTest {
     public void testBreakMoney2() {
         Money m = new Money(new BigDecimal("2.87"));
 
-        assertEquals(11, m.getQuarters());
-        assertEquals(0, m.getNickels());
-        assertEquals(1, m.getDimes());
-        assertEquals(2, m.getPennies());
+        assertEquals("11", m.getQuarters());
+        assertEquals("1", m.getDimes());
+        assertEquals("0", m.getNickels());
+        assertEquals("2", m.getPennies());
 
     }
 
@@ -64,10 +65,11 @@ public class MoneyTest {
     public void testBreakMoney3() {
         Money m = new Money(new BigDecimal("0.58"));
 
-        assertEquals(2, m.getQuarters());
-        assertEquals(1, m.getNickels());
-        assertEquals(0, m.getDimes());
-        assertEquals(3, m.getPennies());
+        assertEquals("2", m.getQuarters());
+        assertEquals("1", m.getNickels());
+        assertEquals("0", m.getDimes());
+        assertEquals("3", m.getPennies());
+
 
     }
 

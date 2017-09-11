@@ -5,6 +5,8 @@
  */
 package com.dm.vendingmashine.ui;
 
+import java.math.BigDecimal;
+
 /**
  *
  * @author danimaetrix
@@ -20,7 +22,9 @@ public interface UserIo {
     public String readLine(String msg);
 
     public double readDouble();
-
+    public double readDouble(double min, double max); 
+    public double readDouble(String msg, double min, double max);
+    
     public int readInt(int x, int y);
 
     public int readInt(String msg, int x, int y);
@@ -30,4 +34,7 @@ public interface UserIo {
     public boolean readAnswer();
 
     public boolean readAnswer(String msg);
+    
+    public BigDecimal readBigDecimal(String msg);
+    
 }

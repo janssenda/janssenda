@@ -7,6 +7,7 @@ package com.dm.vendingmashine.ui;
 
 import java.util.Scanner;
 import java.io.Console;
+import java.math.BigDecimal;
 
 /**
  *
@@ -26,12 +27,11 @@ public class UserIoConsoleImpl implements UserIo {
         Scanner sc = new Scanner(System.in);
         userinput = sc.nextLine();
         return userinput;
-   
+
     }
-    
 
     @Override
-    public String readPasswordLn(String msg) {        
+    public String readPasswordLn(String msg) {
         Scanner sc = new Scanner(System.in);
         Console console = System.console();
         System.out.print(msg + "");
@@ -39,12 +39,12 @@ public class UserIoConsoleImpl implements UserIo {
         try {
             String userinput = new String(console.readPassword());
             return userinput;
-            
+
         } catch (Exception e) {
             String userinput = sc.nextLine();
             return userinput;
-        }        
-        
+        }
+
     }
 
     @Override
@@ -62,6 +62,15 @@ public class UserIoConsoleImpl implements UserIo {
         return userDoubleRecieve(min, max);
     }
 
+    @Override
+    public double readDouble(String msg, double min, double max) {
+        System.out.print(msg + "");
+        //double max = Double.MAX_VALUE;
+        //double min = -max;
+        return userDoubleRecieve(min, max);
+    }
+    
+    @Override
     public double readDouble(double min, double max) {
         return userDoubleRecieve(min, max);
     }
@@ -90,9 +99,33 @@ public class UserIoConsoleImpl implements UserIo {
     }
 
     @Override
+    public BigDecimal readBigDecimal(String msg) {
+        Scanner sc = new Scanner(System.in);
+        boolean valid = false;    
+        System.out.print(msg + "");
+
+        while (!valid) {
+            String input = sc.nextLine();
+            try {
+                double x = Double.parseDouble(input);
+                if (x >= 0) {
+                    return new BigDecimal(input);
+                }
+                System.out.println("You must add $0 or more... ");
+                System.out.print("Try again: ");
+            } catch (NumberFormatException e) {
+                System.out.println("Invalid Input");
+                System.out.print("Try again: ");
+            }
+        }
+        return BigDecimal.ZERO;
+    }
+
+    @Override
     public boolean readAnswer() {
         return readAnswerBody("");
     }
+    
 
     public boolean readAnswerBody(String msg) {
         Scanner sc = new Scanner(System.in);

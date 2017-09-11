@@ -18,14 +18,15 @@ public class main {
 
     public static void main(String[] args) {
 
-       LocalDate ld = LocalDate.now();
+        LocalDate ld = LocalDate.now();
         //ZonedDateTime ld = ZonedDateTime.now();
         //ld = ld.minusDays(5);
         
-        System.out.println(ld.format(DateTimeFormatter.ofPattern("MM/dd/yy @ h:mm a z")));
-        System.out.println(ld.format(DateTimeFormatter.ofLocalizedDate(FormatStyle.FULL)));
+        System.out.println(ld.format(DateTimeFormatter.ofPattern("MM/dd/yy")));
         
-        
+
+        //System.out.println(ld.format(DateTimeFormatter.ofPattern("MM/dd/yy @ h:mm a z")));
+        //System.out.println(ld.format(DateTimeFormatter.ofLocalizedDate(FormatStyle.FULL)));
 //        for (int i = 0; i < 5; i++) {
 //
 //            LocalDateTime ld = LocalDateTime.now();
@@ -44,6 +45,5 @@ public class main {
 //        dT = TimeUnit.NANOSECONDS.toMillis(dT);
 //        System.out.println(dT);
 //    }
-
     }
 }
