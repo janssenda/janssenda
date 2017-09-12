@@ -9,7 +9,7 @@ import java.util.concurrent.CountDownLatch;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 import java.util.concurrent.TimeUnit;
-import static javafx.scene.input.KeyCode.N;
+
 
 /**
  *
@@ -18,7 +18,7 @@ import static javafx.scene.input.KeyCode.N;
 public class main {
 
     public static void main(String[] args) throws InterruptedException {
-        int N = 15;
+        int N = 35;
         ExecutorService executor = Executors.newFixedThreadPool(N);
         CountDownLatch startSignal = new CountDownLatch(1);
         CountDownLatch doneSignal = new CountDownLatch(N);
@@ -37,6 +37,7 @@ public class main {
         System.out.println("Computation time (ms): " + TimeUnit.NANOSECONDS.toMillis(dT));
         System.out.println("Finished all threads");
 
+        executor.shutdown();
     }
 
 
