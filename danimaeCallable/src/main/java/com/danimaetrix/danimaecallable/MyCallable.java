@@ -5,7 +5,6 @@
  */
 package com.danimaetrix.danimaecallable;
 
-import java.util.List;
 import java.util.concurrent.Callable;
 import java.util.concurrent.CountDownLatch;
 
@@ -13,36 +12,34 @@ import java.util.concurrent.CountDownLatch;
  *
  * @author Danimaetrix
  */
-public class MyCallable implements Callable<Integer[]> {
-    private Integer[] data;
+public class MyCallable implements Callable<String> {
+
+    private int[] line;
+    int ln;
     private final CountDownLatch startSignal;
     private final CountDownLatch doneSignal;
 
-    
-    MyCallable(CountDownLatch startSignal, CountDownLatch doneSignal, Integer[] data) {
+    MyCallable(CountDownLatch startSignal, CountDownLatch doneSignal, int[] line, int ln) {
         this.startSignal = startSignal;
-        this.doneSignal = doneSignal; 
-        this.data = data;
+        this.doneSignal = doneSignal;
+        this.line = line;
+        this.ln = ln;
+
     }
 
-
-
     @Override
-    public Integer[] call() throws Exception {
+    public String call() throws Exception {
         startSignal.await();
-        
-        
-        
-        System.out.println(data.length + "-" + data[0]);
 
-//        for (int i = 0; i < data.length; i++){
-//            System.out.print(data[i] + "-");
-//        }
-       
-//        System.out.println("");
+        for (int i = 0; i < line.length; i++) {
+            line[i] = 13 * line[i];
+        }
+        Thread.sleep(100);
         
 
         doneSignal.countDown();
-        return data;
+
+        return "xyz";
+
     }
 }
