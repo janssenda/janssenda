@@ -1,0 +1,9 @@
+    // Given a String of even length, return the first half. 
+    // So the String "WooHoo" yields "Woo". 
+    //
+    // firstHalf("WooHoo") -> "Woo"
+    // firstHalf("HelloThere") -> "Hello"
+    // firstHalf("abcdef") -> "abc"
+    public String firstHalf(String str) {
+        throw new UnsupportedOperationException("Not implemented");
+    }

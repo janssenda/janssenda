@@ -11,24 +11,26 @@
         <maven.compiler.target>1.8</maven.compiler.target>
     </properties>
     
-    <dependencies>
-        <dependency>
-            <groupId>com.danimaetrix</groupId>
-            <artifactId>com.dm.library</artifactId>
-            <version>1.0</version>
-        </dependency>
-    </dependencies>
-    <repositories>
-        <repository>
-            <!-- DO NOT set id to "local" because it is reserved by Maven -->
-            <id>lib</id>
-            <url>file://${project.basedir}/lib</url>
-        </repository>
-    </repositories>
-    
-    
     <build>
         <plugins>
+            
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-dependency-plugin</artifactId>
+                <executions>
+                    <execution>
+                        <id>copy-dependencies</id>
+                        <phase>prepare-package</phase>
+                        <goals>
+                            <goal>copy-dependencies</goal>
+                        </goals>
+                        <configuration>
+                            <outputDirectory>${project.build.directory}/${project.build.finalName}.lib</outputDirectory>
+                        </configuration>
+                    </execution>
+                </executions>
+            </plugin>
+            
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-jar-plugin</artifactId>
@@ -36,11 +38,50 @@
                 <configuration>
                     <archive>
                         <manifest>
+                            <addClasspath>true</addClasspath>
+                            <classpathPrefix>${project.build.finalName}.lib/</classpathPrefix>
+                            <mainClass>${fully.qualified.main.class}</mainClass>
                             <mainClass>com.danimaetrix.maventestproject.main</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
             </plugin>
+            
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-assembly-plugin</artifactId>
+                <executions>
+                    <execution>
+                        <phase>package</phase>
+                        <goals>
+                            <goal>single</goal>
+                        </goals>
+                        <configuration>
+                            <archive>
+                                <manifest>
+                                    <mainClass>com.danimaetrix.maventestproject.main</mainClass>
+                                    <mainClass>${fully.qualified.main.class}</mainClass>
+                                </manifest>
+                            </archive>
+                            <descriptorRefs>
+                                <descriptorRef>jar-with-dependencies</descriptorRef>
+                            </descriptorRefs>
+                        </configuration>
+                    </execution>
+                </executions>
+            </plugin>
+            
+            
+
+
+    
         </plugins>
     </build>
+    <dependencies>
+        <dependency>
+            <groupId>${project.groupId}</groupId>
+            <artifactId>com.dm.library</artifactId>
+            <version>${project.version}</version>
+        </dependency>
+    </dependencies>
 </project>
