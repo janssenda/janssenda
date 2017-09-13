@@ -1,6 +1,7 @@
 com\dm\vendingmashine\dao\InventoryDaoImpl.class
 com\dm\vendingmashine\dao\FileIOException.class
 com\dm\vendingmashine\ui\AsciiViewImpl.class
+com\dm\vendingmashine\ui\ConsoleColors.class
 com\dm\vendingmashine\dao\PricingDaoImpl.class
 com\dm\vendingmashine\ui\TextViewImpl.class
 com\dm\vendingmashine\servicelayer\VendingService.class

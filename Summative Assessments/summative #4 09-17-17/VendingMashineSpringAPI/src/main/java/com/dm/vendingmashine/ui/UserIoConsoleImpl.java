@@ -17,7 +17,7 @@ public class UserIoConsoleImpl implements UserIo {
 
     @Override
     public void print(String msg) {
-        System.out.println(msg);
+        System.out.println(ConsoleColors.BLUE + msg);
     }
 
     @Override
