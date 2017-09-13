@@ -22,6 +22,12 @@ public class Student {
         this.studentId = studentId;
     }
 
+    @Override
+    public String toString() {
+        return "ID: " + studentId + " |Name: " + firstName + " "
+                + lastName + " |Cohort: " + cohort;
+    }
+
     public String getFirstName() {
         return firstName;
     }
@@ -90,7 +96,5 @@ public class Student {
         }
         return true;
     }
-    
-    
 
 }

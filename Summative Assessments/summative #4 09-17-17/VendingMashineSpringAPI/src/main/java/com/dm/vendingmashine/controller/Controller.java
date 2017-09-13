@@ -8,6 +8,7 @@ package com.dm.vendingmashine.controller;
 import com.dm.vendingmashine.dao.FileIOException;
 import com.dm.vendingmashine.dao.NoItemInventoryException;
 import com.dm.vendingmashine.dto.Money;
+import com.dm.vendingmashine.dto.Product;
 import com.dm.vendingmashine.servicelayer.InsufficientFundsException;
 import java.math.BigDecimal;
 import java.util.List;
@@ -45,29 +46,25 @@ public class Controller {
 
             // Our main loop - this will continue until user has finished
             drinkMenuSelection(userMoney);
+
             // Dispense change once loop is complete
             view.showChange(userMoney);
 
-            // Update the inventory file with changes
-            try {
-                service.updateInventory();
-            } catch (FileIOException e) {
-                view.displayExceptionMessage("Error updating inventory file: " + e.getMessage());
-            }
         }
-        view.waitOnUser();
+
         exitProgram();
 
     }
     // End main program loop
     // Main drink menu screen
 
-    private boolean drinkMenuSelection(Money userMoney) {
+    private void drinkMenuSelection(Money userMoney) {
         boolean repeat = true;
         List<String[]> priceList;
 
         // Loop the drink menu continuously
         while (repeat) {
+            
             // The price list is obtained with <Sold Out> indicators where necessary
             priceList = service.returnPriceArrayWithStatus();
             view.cls();
@@ -75,13 +72,14 @@ public class Controller {
             // We use a generated menu to allow for dynamic changes
             // of inventory and merchandising
             view.generateMenu(priceList);
-            //break;
+            
+           
             int choice = view.getUserDrinkSelection(userMoney, priceList.size());
 
             switch (choice) {
                 case 0:
                     // User wants to get chagne and leave
-                    return false;
+                    return;
                 case 1:
                     // User wants to add more money                    
                     view.userAddMoney(userMoney);
@@ -89,22 +87,29 @@ public class Controller {
                 default:
                     String name = priceList.get(choice - 2)[0];
                     try {
-                        service.vendProduct(userMoney, name);
-                        view.showTheProduct(service.getProduct(name));
+                        view.showTheProduct(service.vendProduct(userMoney, name));
                     } catch (NoItemInventoryException e) {
                         view.soldOutBanner();
                     } catch (InsufficientFundsException e) {
                         view.insufficientFundsBanner();
                     }
+
                     view.waitOnUser();
                     break;
             }
         }
 
-        return true;
     }
 
     private void exitProgram() {
+
+        // Update the inventory file with changes
+        try {
+            service.updateInventory();
+        } catch (FileIOException e) {
+            view.displayExceptionMessage("Error updating inventory file: " + e.getMessage());
+            view.waitOnUser();
+        }
         view.showExitMessage();
     }
 

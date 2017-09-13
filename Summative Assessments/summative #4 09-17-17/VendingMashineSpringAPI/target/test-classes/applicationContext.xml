@@ -19,11 +19,13 @@
     
 
     <bean id="pricingDaoStub" class="com.dm.vendingmashine.dao.PricingDaoStubImpl" />   
-    <bean id="inventoryDaoStub" class="com.dm.vendingmashine.dao.InventoryDaoStubImpl" />
-    <bean id="vendingService" class="com.dm.vendingmashine.servicelayer.VendingServiceImpl">
-        <constructor-arg ref="inventoryDaoStub" />
-        <constructor-arg ref="pricingDaoStub" />        
+    <bean id="inventoryDao" class="com.dm.vendingmashine.dao.InventoryDaoImpl" />
+      <bean id="vendingService" class="com.dm.vendingmashine.servicelayer.VendingServiceImpl">
+        <constructor-arg ref="inventoryDao" />
+        <constructor-arg ref="pricingDaoStub" />
+     
     </bean>    
+    
             
 </beans>
 

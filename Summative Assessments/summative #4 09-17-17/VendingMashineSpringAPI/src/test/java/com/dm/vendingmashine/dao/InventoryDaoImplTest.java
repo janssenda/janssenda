@@ -6,10 +6,15 @@
 package com.dm.vendingmashine.dao;
 
 import com.dm.vendingmashine.dto.Product;
+import java.time.LocalDate;
+import java.time.format.DateTimeFormatter;
+import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.fail;
+import org.junit.Before;
 import org.junit.Test;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
@@ -21,44 +26,34 @@ import org.springframework.context.support.ClassPathXmlApplicationContext;
 public class InventoryDaoImplTest {
 
 //    InventoryDaoStubImpl dao = new InventoryDaoStubImpl();
-    InventoryDaoStubImpl dao;
+    InventoryDao dao;
 
     public InventoryDaoImplTest() {
         ApplicationContext ctx
                 = new ClassPathXmlApplicationContext("applicationContext.xml");
-        this.dao = ctx.getBean("inventoryDaoStub", InventoryDaoStubImpl.class);
+        this.dao = ctx.getBean("inventoryDao", InventoryDaoImpl.class);        
+    }
+
+    @Before
+    public void setUp() {
+        Map<String, List<Product>> inventory = readDummyInventory();
+        dao.setInventory(inventory);
     }
 
     @Test
     public void testReadInventoryFromFile() throws Exception {
-        // All we do in this test is stream the fake inventory into 
-        // the sorted map.  We verify that the map contains only one key,
-        // and 3 objects for that key. (Only Coke, and 3 coke objects in the inventory)
-
-        Map<String, List<Product>> inventory = dao.readInventoryFromFileNormal("XYZ");
-
-        // Make sure the lambda stream creates the map properly
-        assertEquals(inventory.size(), 1);
-        assertEquals(inventory.get("Coke1").size(), 3);
     }
 
     @Test
     public void testWriteInventoryToFile() throws Exception {
-        // This just reads our fake inventory and prints it to the
-        // screen instead of a file, so we can do a visual check to make 
-        // sure it looks how it should
-
-        dao.readInventoryFromFile("x");
-        dao.writeInventoryToFile("XYZ");
     }
 
     @Test
     public void testVendItem() {
         // Verifies that items are vended in the correct order
-        // no inventory test is below
-
+        // no inventory test is below  
+       
         try {
-            dao.readInventoryFromFile("x");
             Product testP = dao.getProduct("Coke");
             Product testP2 = dao.vendItem("Coke");
 
@@ -82,7 +77,6 @@ public class InventoryDaoImplTest {
         // Once we reach zero, we test our exception by trying
         // to vend one more.
 
-        dao.readInventoryFromFile("x");
         assertEquals(3, dao.getProductQuantity("Coke"));
 
         // Vend some items to reduce quantity and recheck each time
@@ -116,24 +110,55 @@ public class InventoryDaoImplTest {
         // one to ensure that the first one has now been released by
         // the vend call and the next one is first in line
 
-        dao.readInventoryFromFile("x");
-
         // Make sure that we get the next product in line only
         Product testP = dao.getProduct("Coke");
-        assertEquals(testP.getProductName(), "Coke1");
+        assertEquals(testP.getProductName(), "Coke #1");
 
         testP = dao.getProduct("Coke");
-        assertEquals(testP.getProductName(), "Coke1");
+        assertEquals(testP.getProductName(), "Coke #1");
 
         // Vend one and check to verify the next one in line is #2
         try {
             dao.vendItem("Coke");
             testP = dao.getProduct("Coke");
-            assertEquals(testP.getProductName(), "Coke2");
+            assertEquals(testP.getProductName(), "Coke #2");
         } catch (NoItemInventoryException e) {
             fail("Exception should not have been thrown...");
         }
 
+    }
+
+    public Map<String, List<Product>> readDummyInventory() {
+
+        Map<String, List<Product>> inventory = new HashMap<>();
+
+        Product p1 = new Product();
+        p1.setProductName("Coke #1");
+        p1.setBestBy(LocalDate.parse("11/09/2019", DateTimeFormatter.ofPattern("MM/dd/yyyy")));
+        p1.setInformation("Information");
+        p1.setMessage("My Message");
+
+        Product p2 = new Product();
+        p2.setProductName("Coke #2");
+        p2.setBestBy(LocalDate.parse("11/09/2019", DateTimeFormatter.ofPattern("MM/dd/yyyy")));
+        p2.setInformation("Information");
+        p2.setMessage("My Message");
+
+        Product p3 = new Product();
+        p3.setProductName("Coke #3");
+        p3.setBestBy(LocalDate.parse("11/09/2019", DateTimeFormatter.ofPattern("MM/dd/yyyy")));
+        p3.setInformation("Information");
+        p3.setMessage("My Message");
+
+        List<Product> cokelist = new ArrayList<>();
+
+        cokelist.add(p1);
+        cokelist.add(p2);
+        cokelist.add(p3);
+        
+        inventory.put("Coke", cokelist);
+
+        return inventory;
     }
 
 }

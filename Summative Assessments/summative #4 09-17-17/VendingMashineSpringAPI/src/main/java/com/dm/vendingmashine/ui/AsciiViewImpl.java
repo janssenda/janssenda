@@ -34,6 +34,7 @@ public class AsciiViewImpl implements View {
         io.print("Dimes: " + userMoney.getDimes());
         io.print("Nickels: " + userMoney.getNickels());
         io.print("Pennies: " + userMoney.getPennies());
+        waitOnUser();
     }
 
     @Override

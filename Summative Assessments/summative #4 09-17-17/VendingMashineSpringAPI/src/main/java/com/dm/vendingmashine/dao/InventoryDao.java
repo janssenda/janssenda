@@ -14,6 +14,8 @@ import java.util.Map;
  * @author danimaetrix
  */
 public interface InventoryDao {
+    
+    public void setInventory(Map<String, List<Product>> inventory);
 
     // Used to read the inventory from file.  Inventory is stored as a list of all the objects 
     // currently in the machine

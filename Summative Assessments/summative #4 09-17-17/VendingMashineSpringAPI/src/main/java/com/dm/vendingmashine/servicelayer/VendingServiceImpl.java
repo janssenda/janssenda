@@ -5,6 +5,7 @@
  */
 package com.dm.vendingmashine.servicelayer;
 
+import com.dm.vendingmashine.dao.AuditDao;
 import com.dm.vendingmashine.dao.FileIOException;
 import com.dm.vendingmashine.dao.NoItemInventoryException;
 import com.dm.vendingmashine.dto.Money;
@@ -33,6 +34,7 @@ public class VendingServiceImpl implements VendingService {
 
         this.daoPrices = daoPrices;
         this.daoInv = daoInv;
+
 
         try {
 
@@ -113,7 +115,7 @@ public class VendingServiceImpl implements VendingService {
     public Money calculateChange(Money m, String name) throws InsufficientFundsException {
 
         if (!validateMoney(m, name)) {
-            throw new InsufficientFundsException("Insufficient funds: please add more money... ");
+            throw new InsufficientFundsException(name + ": Insufficient funds attempt...");
         }
 
         String price = (String) pricing.get(name);

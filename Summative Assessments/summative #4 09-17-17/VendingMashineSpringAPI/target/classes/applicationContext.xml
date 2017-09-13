@@ -15,41 +15,47 @@
           http://www.springframework.org/schema/aop  
           http://www.springframework.org/schema/aop/spring-aop-3.2.xsd">
 
-     <bean id="userIo" class="com.dm.vendingmashine.ui.UserIoConsoleImpl" />
+    <bean id="userIo" class="com.dm.vendingmashine.ui.UserIoConsoleImpl" />
      
-     <bean id="asciiView" class="com.dm.vendingmashine.ui.AsciiViewImpl" >
-         <constructor-arg ref="userIo" />         
-     </bean>
-     <bean id="textView" class="com.dm.vendingmashine.ui.TextViewImpl" >
-         <constructor-arg ref="userIo" />         
-     </bean>
+    <bean id="asciiView" class="com.dm.vendingmashine.ui.AsciiViewImpl" >
+        <constructor-arg ref="userIo" />         
+    </bean>
+    <bean id="textView" class="com.dm.vendingmashine.ui.TextViewImpl" >
+        <constructor-arg ref="userIo" />         
+    </bean>
      
-     <bean id="inventoryDao" class="com.dm.vendingmashine.dao.InventoryDaoImpl" />
-     <bean id="pricingDao" class="com.dm.vendingmashine.dao.PricingDaoImpl" />    
-     
-     <bean id="vendingService" class="com.dm.vendingmashine.servicelayer.VendingServiceImpl">
+    <bean id="inventoryDao" class="com.dm.vendingmashine.dao.InventoryDaoImpl" />
+    <bean id="pricingDao" class="com.dm.vendingmashine.dao.PricingDaoImpl" />    
+    <bean id="auditDao" class="com.dm.vendingmashine.dao.AuditDaoImpl" />    
+          
+    <bean id="vendingService" class="com.dm.vendingmashine.servicelayer.VendingServiceImpl">
         <constructor-arg ref="inventoryDao"/>
         <constructor-arg ref="pricingDao"/>  
-     </bean>  
+    </bean>  
 
-     <bean id="controller" class="com.dm.vendingmashine.controller.Controller" >    
+    <bean id="controller" class="com.dm.vendingmashine.controller.Controller" >    
         <constructor-arg ref="textView" />
         <constructor-arg ref="vendingService" />
-     </bean>
+    </bean>
+     
+    <bean id="loggingAdvice" class="com.dm.vendingmashine.advice.LoggingAdvice">
+        <constructor-arg ref="auditDao"/>
+    </bean>
+    
+    <aop:config>
+        <aop:aspect ref="loggingAdvice">
+            <aop:after-throwing
+                throwing="ex"
+                method="writeAuditEntry"
+                pointcut="execution(* com.dm.vendingmashine.servicelayer.VendingService.vendProduct(..))"
+            />                    
+        </aop:aspect>
+    </aop:config>
+     
+     
+     
              
 </beans>
 
 
 
-<!--
-        UserIo io = new UserIoConsoleImpl();
-        View view = new AsciiViewImpl(io);
-        
-        // Inject service layer with DAO implementations
-        InventoryDao daoInv = new InventoryDaoImpl();
-        PricingDao daoPrices = new PricingDaoImpl();
-        VendingService service = new VendingServiceImpl(daoInv, daoPrices);        
-        
-        // Inject controller with view and service layer implementations
-        Controller controller = new Controller(view, service);  
--->

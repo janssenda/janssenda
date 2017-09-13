@@ -32,6 +32,7 @@ public class TextViewImpl implements View {
         io.print("Dimes: " + userMoney.getDimes());
         io.print("Nickels: " + userMoney.getNickels());
         io.print("Pennies: " + userMoney.getPennies());
+        waitOnUser();
     }
 
     @Override
@@ -136,7 +137,6 @@ public class TextViewImpl implements View {
     @Override
     public void soldOutBanner() {
         io.print(" *** Sorry, sold out! Please try another... ***");
-        io.print("\n");
 
     }
 

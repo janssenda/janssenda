@@ -22,10 +22,15 @@ public class InventoryDaoImpl implements InventoryDao {
     private Map<String, List<Product>> inventory = new HashMap<>();
 
     @Override
+    public void setInventory(Map<String, List<Product>> inventory) {
+        this.inventory = inventory;
+    }
+
+    @Override
     public Map<String, List<Product>> readInventoryFromFile(String filename) throws FileIOException {
 
         // Instantiate our handler and get the total list of products from the file
-        InventoryFileHandler fileHandler = new InventoryFileHandler(filename);
+        FileHandler fileHandler = new FileHandler(filename);
         List<Product> InventoryList = fileHandler.readInventoryFromFile();
 
         // Stream the list and sort into our map. NOTE: Our items can now be out of order and will still sort!!! :) :)
@@ -38,7 +43,7 @@ public class InventoryDaoImpl implements InventoryDao {
     @Override
     public void writeInventoryToFile(String filename) throws FileIOException {
         // Instantiate our handler and get the being a list of products for the file
-        InventoryFileHandler fileHandler = new InventoryFileHandler(filename);
+        FileHandler fileHandler = new FileHandler(filename);
         List<Product> ProductList = new ArrayList<>();
 
         // We need to reverse the process of bringing the data in.  We obtain 
@@ -67,7 +72,7 @@ public class InventoryDaoImpl implements InventoryDao {
     public Product vendItem(String productName) throws NoItemInventoryException {
 
         if (getProductQuantity(productName) == 0) {
-            throw new NoItemInventoryException("Error:  this item is empty...");
+            throw new NoItemInventoryException(productName + ": Item not in inventory... ");
         } else {
             Product p = inventory.get(productName).get(0);
             inventory.get(productName).remove(0);

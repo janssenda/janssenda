@@ -18,7 +18,7 @@ public class PricingDaoImpl implements PricingDao {
     @Override
     public Map<String,String> loadPricingFromFile(String filename) throws FileIOException {
 
-        InventoryFileHandler fileHandler = new InventoryFileHandler(filename);
+        FileHandler fileHandler = new FileHandler(filename);
         return fileHandler.readPricingFromFile();
 
     }

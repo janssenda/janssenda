@@ -18,18 +18,21 @@
  
     <!-- Bean definitions go here -->
     <bean id="classRosterDao" 
-       class="com.sg.classroster.dao.ClassRosterDaoFileImpl"/>
+       class="com.dm.classroster.dao.ClassRosterDaoFileImpl"/>
    
     <bean id="classRosterDaoStub" 
-       class="com.sg.classroster.dao.ClassRosterDaoStubImpl"/>
+       class="com.dm.classroster.dao.ClassRosterDaoStubImpl"/>
    
     <bean id="auditDaoStub" 
-       class="com.sg.classroster.dao.ClassRosterAuditDaoStubImpl"/>
+       class="com.dm.classroster.dao.ClassRosterAuditDaoStubImpl"/>
    
     <bean id="serviceLayer" 
-       class="com.sg.classroster.service.ClassRosterServiceLayerImpl">
+       class="com.dm.service.ClassRosterServiceLayerImpl">
         <constructor-arg ref="classRosterDaoStub"/>
         <constructor-arg ref="auditDaoStub"/>           
     </bean>
+    
+    
+    
    
 </beans>

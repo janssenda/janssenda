@@ -16,28 +16,47 @@
           http://www.springframework.org/schema/aop/spring-aop-3.2.xsd">
  
     <!-- Bean definitions go here -->
-    <bean id="userIO" class="com.sg.classroster.ui.UserIOConsoleImpl"/>
+    <bean id="userIO" class="com.dm.classroster.ui.UserIOConsoleImpl"/>
    
-    <bean id="view" class="com.sg.classroster.ui.ClassRosterView">
+    <bean id="view" class="com.dm.classroster.ui.ClassRosterView">
         <constructor-arg ref="userIO"/>
     </bean>
    
     <bean id="classRosterDao" 
-         class="com.sg.classroster.dao.ClassRosterDaoFileImpl"/>
+          class="com.dm.classroster.dao.ClassRosterDaoFileImpl"/>
    
     <bean id="auditDao" 
-         class="com.sg.classroster.dao.ClassRosterAuditDaoFileImpl"/>
+          class="com.dm.classroster.dao.ClassRosterAuditDaoFileImpl"/>
    
     <bean id="serviceLayer" 
-         class="com.sg.classroster.service.ClassRosterServiceLayerImpl">
+          class="com.dm.service.ClassRosterServiceLayerImpl">
         <constructor-arg ref="classRosterDao"/>
         <constructor-arg ref="auditDao"/>           
     </bean>
    
     <bean id="controller" 
-         class="com.sg.classroster.controller.ClassRosterController">
+          class="com.dm.classroster.controller.ClassRosterController">
         <constructor-arg ref="serviceLayer"/>
         <constructor-arg ref="view"/>
     </bean>
+    
+    <bean id="loggingAdvice" class="com.dm.advice.LoggingAdvice">
+        <constructor-arg ref="auditDao"/>
+    </bean>
+   
+    <aop:config>
+        <aop:aspect ref="loggingAdvice">
+            <aop:after-returning
+                method="createAuditEntry"
+                pointcut="execution(* com.sg.classroster.service.ClassRosterServiceLayer.createStudent(..))"
+            />
+         
+            <aop:after-returning
+                method="createAuditEntry"
+                pointcut="execution(* com.sg.classroster.service.ClassRosterServiceLayer.removeStudent(..))"
+            />
+           
+        </aop:aspect>
+    </aop:config>
    
 </beans>
