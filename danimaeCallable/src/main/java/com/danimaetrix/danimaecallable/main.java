@@ -10,7 +10,7 @@ import java.util.concurrent.TimeUnit;
 public class main {
 
     public static void main(String args[]) throws InterruptedException {
-        int threads = 50;
+        int threads = 2;
         int listsize = 200;
         int piece = listsize / threads;
         int[][] data = new int[listsize][listsize];

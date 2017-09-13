@@ -5,10 +5,6 @@
  */
 package com.dm.service;
 
-import com.dm.classroster.dao.ClassRosterAuditDao;
-import com.dm.classroster.dao.ClassRosterAuditDaoStubImpl;
-import com.dm.classroster.dao.ClassRosterDao;
-import com.dm.classroster.dao.ClassRosterDaoStubImpl;
 import com.dm.classroster.dto.Student;
 import org.junit.After;
 import org.junit.AfterClass;
@@ -19,6 +15,8 @@ import static org.junit.Assert.fail;
 import org.junit.Before;
 import org.junit.BeforeClass;
 import org.junit.Test;
+import org.springframework.context.ApplicationContext;
+import org.springframework.context.support.ClassPathXmlApplicationContext;
 
 /**
  *
@@ -29,9 +27,13 @@ public class ClassRosterServiceLayerTest {
     private ClassRosterServiceLayer service;
 
     public ClassRosterServiceLayerTest() {
-        ClassRosterDao dao = new ClassRosterDaoStubImpl();
-        ClassRosterAuditDao auditDao = new ClassRosterAuditDaoStubImpl();
-        service = new ClassRosterServiceLayerImpl(dao, auditDao);
+//        ClassRosterDao dao = new ClassRosterDaoStubImpl();
+//        ClassRosterAuditDao auditDao = new ClassRosterAuditDaoStubImpl();
+//        service = new ClassRosterServiceLayerImpl(dao, auditDao);
+    ApplicationContext ctx = 
+        new ClassPathXmlApplicationContext("applicationContext.xml");
+    this.service = 
+        ctx.getBean("serviceLayer", ClassRosterServiceLayer.class);
     }
 
     @BeforeClass
