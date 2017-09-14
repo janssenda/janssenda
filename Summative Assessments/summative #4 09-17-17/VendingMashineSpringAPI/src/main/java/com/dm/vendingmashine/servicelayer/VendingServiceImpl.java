@@ -5,7 +5,6 @@
  */
 package com.dm.vendingmashine.servicelayer;
 
-import com.dm.vendingmashine.dao.AuditDao;
 import com.dm.vendingmashine.dao.FileIOException;
 import com.dm.vendingmashine.dao.NoItemInventoryException;
 import com.dm.vendingmashine.dto.Money;
@@ -35,7 +34,6 @@ public class VendingServiceImpl implements VendingService {
         this.daoPrices = daoPrices;
         this.daoInv = daoInv;
 
-
         try {
 
             this.pricing = daoPrices.loadPricingFromFile("priceData.csv");
@@ -43,6 +41,16 @@ public class VendingServiceImpl implements VendingService {
         } catch (FileIOException e) {
             this.errmsg = e.getMessage();
         }
+    }
+
+    @Override
+    public Map<String, String> getPricing() {
+        return pricing;
+    }
+
+    @Override
+    public void setPricing(Map<String, String> pricing) {
+        this.pricing = pricing;
     }
 
     @Override
@@ -115,7 +123,9 @@ public class VendingServiceImpl implements VendingService {
     public Money calculateChange(Money m, String name) throws InsufficientFundsException {
 
         if (!validateMoney(m, name)) {
-            throw new InsufficientFundsException(name + ": Insufficient funds attempt...");
+            throw new InsufficientFundsException(name + ": Insufficient funds attempt... ($"
+                    + m.getTotalmoney().toString() + "/" 
+                    + pricing.get(name) + ")");
         }
 
         String price = (String) pricing.get(name);

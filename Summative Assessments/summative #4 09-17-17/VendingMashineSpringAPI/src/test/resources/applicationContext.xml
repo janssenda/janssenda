@@ -18,11 +18,11 @@
     <!-- Bean definitions go here -->
     
 
-    <bean id="pricingDaoStub" class="com.dm.vendingmashine.dao.PricingDaoStubImpl" />   
+    <bean id="pricingDao" class="com.dm.vendingmashine.dao.PricingDaoImpl" />   
     <bean id="inventoryDao" class="com.dm.vendingmashine.dao.InventoryDaoImpl" />
       <bean id="vendingService" class="com.dm.vendingmashine.servicelayer.VendingServiceImpl">
         <constructor-arg ref="inventoryDao" />
-        <constructor-arg ref="pricingDaoStub" />
+        <constructor-arg ref="pricingDao" />
      
     </bean>    
     

@@ -9,8 +9,6 @@ import com.dm.vendingmashine.dao.FileIOException;
 import com.dm.vendingmashine.dao.InventoryDao;
 import com.dm.vendingmashine.dao.InventoryDaoImpl;
 import com.dm.vendingmashine.dao.NoItemInventoryException;
-import com.dm.vendingmashine.dao.PricingDao;
-import com.dm.vendingmashine.dao.PricingDaoStubImpl;
 import com.dm.vendingmashine.dto.Money;
 import com.dm.vendingmashine.dto.Product;
 import java.math.BigDecimal;
@@ -18,6 +16,7 @@ import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
 import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.LinkedHashMap;
 import java.util.List;
 import java.util.Map;
 import org.junit.After;
@@ -37,27 +36,21 @@ import org.springframework.context.support.ClassPathXmlApplicationContext;
  */
 public class VendingServiceImplTest {
 
-//    // Instansiate our fake DAO's and the service layer
-//    InventoryDaoStubImpl daoInv = new InventoryDaoStubImpl();
-//    PricingDaoStubImpl daoPrice = new PricingDaoStubImpl();
-//    VendingServiceImpl service = new VendingServiceImpl(daoInv, daoPrice);
     VendingService service;
     InventoryDao daoInv;
-    PricingDao daoPrice;
 
     public VendingServiceImplTest() {
         ApplicationContext ctx
                 = new ClassPathXmlApplicationContext("applicationContext.xml");
         this.service = ctx.getBean("vendingService", VendingServiceImpl.class);
         this.daoInv = ctx.getBean("inventoryDao", InventoryDaoImpl.class);
-        this.daoPrice = ctx.getBean("pricingDaoStub", PricingDaoStubImpl.class);
 
     }
 
     @Before
     public void setUp() throws FileIOException {
         daoInv.setInventory(readDummyInventory());
-        daoPrice.loadPricingFromFile("XYZ");
+        service.setPricing(loadFakePricingFromFile());
     }
 
     @After
@@ -114,9 +107,9 @@ public class VendingServiceImplTest {
         assertEquals(service.isSoldOut("Coke"), false);
 
         try {
-            service.vendProduct(m,"Coke");
-            service.vendProduct(m,"Coke");
-            service.vendProduct(m,"Coke");
+            service.vendProduct(m, "Coke");
+            service.vendProduct(m, "Coke");
+            service.vendProduct(m, "Coke");
 
         } catch (NoItemInventoryException | InsufficientFundsException e) {
             fail("We should not reach this");
@@ -241,6 +234,19 @@ public class VendingServiceImplTest {
         inventory.put("Coke", cokelist);
 
         return inventory;
+    }
+
+    public Map<String, String> loadFakePricingFromFile() {
+
+        Map<String, String> prices = new LinkedHashMap<>();
+
+        prices.put("Coke", "1.50");
+        prices.put("Diet Coke", "1.50");
+        prices.put("Sprite", "1.50");
+        prices.put("Mello Yellow", "1.50");
+        prices.put("Dasani", "1.75");
+
+        return prices;
     }
 
 }

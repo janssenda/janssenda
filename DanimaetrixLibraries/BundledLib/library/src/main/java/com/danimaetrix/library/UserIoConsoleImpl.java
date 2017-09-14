@@ -7,6 +7,7 @@ package com.danimaetrix.library;
 
 import java.util.Scanner;
 import java.io.Console;
+import java.math.BigDecimal;
 
 /**
  *
@@ -19,32 +20,47 @@ public class UserIoConsoleImpl implements UserIo {
         System.out.println(msg);
     }
 
+    public void print(String msg, String color) {
+        System.out.println(color + msg);
+    }
+
+
+    public void printx(String msg) {
+        System.out.print(msg);
+    }
+
+    public void printx(String msg, String color) {
+        System.out.print(color + msg);
+    }
+    
+    
+    
+
     @Override
     public String readLine(String msg) {
-        System.out.print(msg + "");
+        printx(msg + "");
         String userinput;
         Scanner sc = new Scanner(System.in);
         userinput = sc.nextLine();
         return userinput;
-   
+
     }
-    
 
     @Override
-    public String readPasswordLn(String msg) {        
+    public String readPasswordLn(String msg) {
         Scanner sc = new Scanner(System.in);
         Console console = System.console();
-        System.out.print(msg + "");
+        printx(msg + "");
 
         try {
             String userinput = new String(console.readPassword());
             return userinput;
-            
+
         } catch (Exception e) {
             String userinput = sc.nextLine();
             return userinput;
-        }        
-        
+        }
+
     }
 
     @Override
@@ -62,6 +78,15 @@ public class UserIoConsoleImpl implements UserIo {
         return userDoubleRecieve(min, max);
     }
 
+    @Override
+    public double readDouble(String msg, double min, double max) {
+        printx(msg + "");
+        //double max = Double.MAX_VALUE;
+        //double min = -max;
+        return userDoubleRecieve(min, max);
+    }
+
+    @Override
     public double readDouble(double min, double max) {
         return userDoubleRecieve(min, max);
     }
@@ -80,13 +105,36 @@ public class UserIoConsoleImpl implements UserIo {
 
     @Override
     public int readInt(String msg, int min, int max) {
-        System.out.print(msg + "");
+        printx(msg + "");
         return userIntRecieve(min, max);
     }
 
     @Override
     public boolean readAnswer(String msg) {
         return readAnswerBody(msg);
+    }
+
+    @Override
+    public BigDecimal readBigDecimal(String msg) {
+        Scanner sc = new Scanner(System.in);
+        boolean valid = false;
+        printx(msg + "");
+
+        while (!valid) {
+            String input = sc.nextLine();
+            try {
+                double x = Double.parseDouble(input);
+                if (x >= 0) {
+                    return new BigDecimal(input);
+                }
+                System.out.println("You must add $0 or more... ");
+                System.out.print("Try again: ");
+            } catch (NumberFormatException e) {
+                System.out.println("Invalid Input");
+                System.out.print("Try again: ");
+            }
+        }
+        return BigDecimal.ZERO;
     }
 
     @Override
@@ -99,7 +147,7 @@ public class UserIoConsoleImpl implements UserIo {
         boolean valid = false, answer = true;
         String userinput;
 
-        System.out.print(msg + "");
+        printx(msg + "");
         while (valid == false) {
             try {
 

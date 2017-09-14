@@ -18,6 +18,8 @@ import java.util.Map;
  */
 public interface VendingService {
     
+    public Map<String, String> getPricing();
+    public void setPricing(Map<String, String> pricing);
     
     public Map<String, String> returnPriceMap();
 

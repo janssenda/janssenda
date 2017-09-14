@@ -28,6 +28,8 @@ public class LoggingAspect {
             pointcut = "execution(* com.dm.vendingmashine.servicelayer.VendingService.vendProduct(..))",
             throwing = "ex")
     public void afterThrowing(JoinPoint joinPoint, Throwable ex) {
+        
+        //Object[] args = joinPoint.getArgs();
 
         try {
             auditDao.WriteAuditToFile(ex.getMessage());

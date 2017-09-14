@@ -21,7 +21,7 @@ public class AuditDaoImpl implements AuditDao {
         
         String logString = 
                 index.format(DateTimeFormatter
-                        .ofPattern("MM/dd/yy @ hh:mm - "));
+                        .ofPattern("MM/dd/yy @ hh:mm a - "));
         
         FileHandler auditFile = new FileHandler("AuditLog.txt");        
         
