@@ -15,6 +15,8 @@
           http://www.springframework.org/schema/aop  
           http://www.springframework.org/schema/aop/spring-aop-3.2.xsd">
 
+    <aop:aspectj-autoproxy />
+    
     <bean id="userIo" class="com.dm.vendingmashine.ui.UserIoConsoleImpl" />
      
     <bean id="asciiView" class="com.dm.vendingmashine.ui.AsciiViewImpl" >
@@ -37,11 +39,15 @@
         <constructor-arg ref="textView" />
         <constructor-arg ref="vendingService" />
     </bean>
+    
+    <bean id="loggingAspect" class="com.dm.vendingmashine.advice.LoggingAspect">
+        <constructor-arg ref="auditDao"/>
+    </bean>
      
     <bean id="loggingAdvice" class="com.dm.vendingmashine.advice.LoggingAdvice">
         <constructor-arg ref="auditDao"/>
     </bean>
-    
+    <!--
     <aop:config>
         <aop:aspect ref="loggingAdvice">
             <aop:after-throwing
@@ -51,6 +57,7 @@
             />                    
         </aop:aspect>
     </aop:config>
+    !-->
      
      
      

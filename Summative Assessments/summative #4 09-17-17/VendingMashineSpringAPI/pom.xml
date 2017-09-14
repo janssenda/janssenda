@@ -20,13 +20,23 @@
         </dependency>
         <dependency>
             <groupId>org.springframework</groupId>
-            <artifactId>spring-context</artifactId>
-            <version>4.3.4.RELEASE</version>
+            <artifactId>spring-core</artifactId>
+            <version>4.3.11.RELEASE</version>
         </dependency>
         <dependency>
-            <groupId>aspectj</groupId>
-            <artifactId>aspectjtools</artifactId>
-            <version>1.5.4</version>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-context</artifactId>
+            <version>4.3.11.RELEASE</version>
+        </dependency>
+        <dependency>
+            <groupId>org.aspectj</groupId>
+            <artifactId>aspectjrt</artifactId>
+            <version>1.8.10</version>
+        </dependency>
+        <dependency>
+            <groupId>org.aspectj</groupId>
+            <artifactId>aspectjweaver</artifactId>
+            <version>1.8.10</version>
         </dependency>
     </dependencies>
     <properties>
@@ -70,6 +80,7 @@
                     </execution>
                 </executions>
             </plugin>
+            <!--
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-jar-plugin</artifactId>
@@ -82,6 +93,7 @@
                     </archive>
                 </configuration>
             </plugin>
+            !-->
         </plugins>
     </build>
     <name>VendingMashineSpringAPI</name>
