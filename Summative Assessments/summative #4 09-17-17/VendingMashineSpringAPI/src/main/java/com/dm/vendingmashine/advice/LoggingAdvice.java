@@ -24,7 +24,7 @@ public class LoggingAdvice {
     public void writeAuditEntry(JoinPoint jp, Exception ex) {
      
         try {
-            auditDao.AuditLogToFile(ex.getMessage());
+            auditDao.WriteAuditToFile(ex.getMessage());
         } catch (FileIOException e) {
             System.err.println(
                     "ERROR: Could not create audit entry in LoggingAdvice.");

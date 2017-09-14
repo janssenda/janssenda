@@ -120,6 +120,7 @@ public class TextViewImpl implements View {
     @Override
     public int getUserDrinkSelection(Money userMoney, int range) {
         io.print("You currently have: $" + moneyToString(userMoney));
+                //io.print("Please select an option: " );    
         return io.readInt("Please select an option: ", 0, range + 2);
     }
 

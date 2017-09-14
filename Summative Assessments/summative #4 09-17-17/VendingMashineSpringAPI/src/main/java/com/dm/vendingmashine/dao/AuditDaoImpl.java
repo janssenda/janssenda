@@ -14,7 +14,8 @@ import java.time.format.DateTimeFormatter;
  */
 public class AuditDaoImpl implements AuditDao {
     
-    public void AuditLogToFile(String entry) throws FileIOException {
+    @Override
+    public void WriteAuditToFile(String entry) throws FileIOException {
         LocalDateTime index = LocalDateTime.now();        
 
         

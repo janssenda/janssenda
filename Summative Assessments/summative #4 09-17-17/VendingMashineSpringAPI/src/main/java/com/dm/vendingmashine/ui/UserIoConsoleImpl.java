@@ -20,9 +20,13 @@ public class UserIoConsoleImpl implements UserIo {
         System.out.println(ConsoleColors.CYAN + msg);
     }
 
+    public void inPrint(String msg) {
+        System.out.print(ConsoleColors.CYAN + msg);
+    }
+
     @Override
     public String readLine(String msg) {
-        System.out.print(msg + "");
+        inPrint(msg + "");
         String userinput;
         Scanner sc = new Scanner(System.in);
         userinput = sc.nextLine();
@@ -34,7 +38,7 @@ public class UserIoConsoleImpl implements UserIo {
     public String readPasswordLn(String msg) {
         Scanner sc = new Scanner(System.in);
         Console console = System.console();
-        System.out.print(msg + "");
+        inPrint(msg + "");
 
         try {
             String userinput = new String(console.readPassword());
@@ -64,12 +68,12 @@ public class UserIoConsoleImpl implements UserIo {
 
     @Override
     public double readDouble(String msg, double min, double max) {
-        System.out.print(msg + "");
+        inPrint(msg + "");
         //double max = Double.MAX_VALUE;
         //double min = -max;
         return userDoubleRecieve(min, max);
     }
-    
+
     @Override
     public double readDouble(double min, double max) {
         return userDoubleRecieve(min, max);
@@ -89,7 +93,7 @@ public class UserIoConsoleImpl implements UserIo {
 
     @Override
     public int readInt(String msg, int min, int max) {
-        System.out.print(msg + "");
+        inPrint(msg + "");
         return userIntRecieve(min, max);
     }
 
@@ -101,7 +105,7 @@ public class UserIoConsoleImpl implements UserIo {
     @Override
     public BigDecimal readBigDecimal(String msg) {
         Scanner sc = new Scanner(System.in);
-        boolean valid = false;    
+        boolean valid = false;
         System.out.print(msg + "");
 
         while (!valid) {
@@ -125,14 +129,13 @@ public class UserIoConsoleImpl implements UserIo {
     public boolean readAnswer() {
         return readAnswerBody("");
     }
-    
 
     public boolean readAnswerBody(String msg) {
         Scanner sc = new Scanner(System.in);
         boolean valid = false, answer = true;
         String userinput;
 
-        System.out.print(msg + "");
+        inPrint(msg + "");
         while (valid == false) {
             try {
 

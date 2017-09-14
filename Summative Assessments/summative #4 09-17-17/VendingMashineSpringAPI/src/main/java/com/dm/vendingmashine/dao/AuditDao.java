@@ -11,6 +11,6 @@ package com.dm.vendingmashine.dao;
  */
 public interface AuditDao {
     
-    public void AuditLogToFile(String entry) throws FileIOException;
+    public void WriteAuditToFile(String entry) throws FileIOException;
     
 }

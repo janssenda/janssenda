@@ -21,6 +21,7 @@ public class Main {
     }
 
     private static HashSet<HashSet<Card>> createHands(HashSet<Card> deck) {
+        long[] count = {0};
         HashSet<HashSet<Card>> hands = new HashSet<>();
         deck.forEach((c1) -> {
             HashSet<Card> deck2 = (HashSet<Card>) deck.clone();
@@ -37,13 +38,17 @@ public class Main {
                         hand.add(c2);
                         hand.add(c3);
                         hand.add(c4);
+                        
                         return hand;
                     }).forEachOrdered((hand) -> {
+                        count[0] = count[0]+1; 
                         hands.add(hand);
                     });
                 });
             });
         });
+        System.out.println("Count:" + count[0]);
+        System.out.println("Hands: " + hands.size());
         return hands;
     }
 
@@ -102,11 +107,11 @@ public class Main {
         HashSet<Card> deck = createDeck();
 
         long t0 = System.nanoTime();
-        createHands(deck);
+        HashSet<HashSet<Card>> allHands = createHands(deck);
         System.out.println("Computation time (ms): " + TimeUnit.NANOSECONDS.toMillis(System.nanoTime() - t0));
 
 //        HashSet<HashSet<Card>> allHands = createHands(deck);
-//        System.out.println("Total Hands: " + allHands.size());
+        System.out.println("Total Hands: " + allHands.size());
 //        HashSet<HashSet<Card>> straightHands = allHands;
 //        straightHands = straightHands.stream()
 //                .filter(Main::isStraight)

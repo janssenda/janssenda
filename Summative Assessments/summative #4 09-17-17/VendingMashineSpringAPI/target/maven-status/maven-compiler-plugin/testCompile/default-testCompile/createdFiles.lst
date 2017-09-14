@@ -1,4 +1,4 @@
-com/dm/vendingmashine/dao/InventoryDaoImplTest.class
-com/dm/vendingmashine/dto/MoneyTest.class
-com/dm/vendingmashine/servicelayer/VendingServiceImplTest.class
-com/dm/vendingmashine/dao/PricingDaoStubImpl.class
+com\dm\vendingmashine\dao\PricingDaoStubImpl.class
+com\dm\vendingmashine\dto\MoneyTest.class
+com\dm\vendingmashine\dao\InventoryDaoImplTest.class
+com\dm\vendingmashine\servicelayer\VendingServiceImplTest.class

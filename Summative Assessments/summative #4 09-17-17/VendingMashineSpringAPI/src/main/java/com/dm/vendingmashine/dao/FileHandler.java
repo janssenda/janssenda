@@ -177,7 +177,8 @@ public class FileHandler {
                     + "\nin another application? ", e);
         }
 
-        out.write(entry+"\n");
+        out.write(entry);
+        out.write("\r\n");
         out.flush();
         out.close();
 
