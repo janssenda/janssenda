@@ -36,7 +36,7 @@ public interface VendingService {
 
     // We compare the big decimal values of the money object and the price
     // and return true if the money is >= the price, and false otherwise
-    public boolean validateMoney(Money m, String productName);
+    public boolean validateMoney(Money m, String productName) throws InsufficientFundsException;
 
     // Computes the change for user.  The change in available funds is computed via
     // big decimal methods to retain accuracy.  The physical change, however, must be rounded
@@ -45,7 +45,7 @@ public interface VendingService {
     // the "rounding" that takes place here actually does nothing but is included
     // for completeness (i.e., we could charge fractional cents on top of items if we 
     // really wanted to, without requiring any code modification.    
-    public Money calculateChange(Money m, String name) throws InsufficientFundsException ;
+    public Money calculateChange(Money m, String name);
 
 
     public void updateInventory() throws FileIOException;

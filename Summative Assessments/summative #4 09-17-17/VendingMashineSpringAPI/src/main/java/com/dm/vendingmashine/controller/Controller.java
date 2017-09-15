@@ -8,11 +8,11 @@ package com.dm.vendingmashine.controller;
 import com.dm.vendingmashine.dao.FileIOException;
 import com.dm.vendingmashine.dao.NoItemInventoryException;
 import com.dm.vendingmashine.dto.Money;
-import com.dm.vendingmashine.dto.Product;
+import com.dm.vendingmashine.logic.MachineJamException;
+import com.dm.vendingmashine.logic.RealLogic;
 import com.dm.vendingmashine.servicelayer.InsufficientFundsException;
 import java.math.BigDecimal;
 import java.util.List;
-import com.dm.vendingmashine.servicelayer.VendingService;
 import com.dm.vendingmashine.ui.View;
 
 /**
@@ -24,12 +24,12 @@ public class Controller {
     private final Money userMoney;
 
     // Dependency Injection
-    VendingService service;
+    RealLogic logic;
     View view;
 
     //service.vtesting ();
-    public Controller(View view, VendingService service) {
-        this.service = service;
+    public Controller(View view, RealLogic logic) {
+        this.logic = logic;
         this.view = view;
         this.userMoney = new Money(BigDecimal.valueOf(0));
     }
@@ -38,7 +38,7 @@ public class Controller {
     public void run() {
 
         // Make sure that the inventory was loaded correctly
-        String errmsg = service.checkForFileIOErrors();
+        String errmsg = logic.checkForFileIOErrors();
 
         if (errmsg != null) {
             view.displayExceptionMessage(errmsg);
@@ -66,7 +66,7 @@ public class Controller {
         while (repeat) {
             
             // The price list is obtained with <Sold Out> indicators where necessary
-            priceList = service.returnPriceArrayWithStatus();
+            priceList = logic.returnPriceArrayWithStatus();
             view.cls();
 
             // We use a generated menu to allow for dynamic changes
@@ -84,14 +84,19 @@ public class Controller {
                     // User wants to add more money                    
                     view.userAddMoney(userMoney);
                     break;
+                case 2:
+                    view.showJammedItems(logic.getStuckItems());
+                    break;
                 default:
-                    String name = priceList.get(choice - 2)[0];
+                    String name = priceList.get(choice - 3)[0];
                     try {
-                        view.showTheProduct(service.vendProduct(userMoney, name));
+                        view.showTheProduct(logic.vendProduct(userMoney, name));
                     } catch (NoItemInventoryException e) {
                         view.soldOutBanner();
                     } catch (InsufficientFundsException e) {
                         view.insufficientFundsBanner();
+                    } catch (MachineJamException e){
+                        view.displayExceptionMessage(e.getMessage());
                     }
 
                     view.waitOnUser();
@@ -105,7 +110,7 @@ public class Controller {
 
         // Update the inventory file with changes
         try {
-            service.updateInventory();
+            logic.updateInventory();
         } catch (FileIOException e) {
             view.displayExceptionMessage("Error updating inventory file: " + e.getMessage());
             view.waitOnUser();

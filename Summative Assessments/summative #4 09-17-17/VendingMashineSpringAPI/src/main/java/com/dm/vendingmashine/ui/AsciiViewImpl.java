@@ -13,6 +13,7 @@ import java.math.BigDecimal;
 import java.math.RoundingMode;
 import java.time.format.DateTimeFormatter;
 import java.util.List;
+import java.util.Map;
 
 /**
  *
@@ -125,7 +126,7 @@ public class AsciiViewImpl implements View {
         }
     }
 
-    @Override
+    
     public void showTheProduct(Product p) {
         io.print("");
         displayCocaColaBanner();
@@ -219,6 +220,16 @@ public class AsciiViewImpl implements View {
 " TMMk.  .,aAMMMMMMMMMMMMo,    TMMk.jM Mk Mk MM   Mk Ml ,\n" +
 "  YMMMMMMMMP^\"~     \"~^VMMt    YMMMMP YMMMP VYk jMMMMk,M\n" +
 "   ^YMV^~\"              VP      ^YMP   ^W^   ^MMP YP\"VP\"\n\n");
+    }
+
+    @Override
+    public void showJammedItems(Map<String, List<Product>> itemMap) {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
+
+    @Override
+    public void showTheProduct(List<Product> productList) {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
     }
 
 }

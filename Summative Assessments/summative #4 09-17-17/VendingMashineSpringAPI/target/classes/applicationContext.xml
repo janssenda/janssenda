@@ -18,7 +18,8 @@
     <aop:aspectj-autoproxy />
     
     <bean id="userIo" class="com.danimaetrix.library.userIO.UserIoConsoleColorImpl" />
-     
+
+    
     <bean id="asciiView" class="com.dm.vendingmashine.ui.AsciiViewImpl" >
         <constructor-arg ref="userIo" />         
     </bean>
@@ -29,15 +30,24 @@
     <bean id="inventoryDao" class="com.dm.vendingmashine.dao.InventoryDaoImpl" />
     <bean id="pricingDao" class="com.dm.vendingmashine.dao.PricingDaoImpl" />    
     <bean id="auditDao" class="com.dm.vendingmashine.dao.AuditDaoImpl" />    
-          
+
     <bean id="vendingService" class="com.dm.vendingmashine.servicelayer.VendingServiceImpl">
         <constructor-arg ref="inventoryDao"/>
         <constructor-arg ref="pricingDao"/>  
     </bean>  
 
+    
+    <bean id="logicIdeal" class="com.dm.vendingmashine.logic.RealLogicIdealImpl" >    
+        <constructor-arg ref="vendingService" />
+    </bean>
+    <bean id="logicRealistic" class="com.dm.vendingmashine.logic.RealLogicRealisticImpl" >    
+        <constructor-arg ref="vendingService" />
+    </bean>    
+
+
     <bean id="controller" class="com.dm.vendingmashine.controller.Controller" >    
         <constructor-arg ref="textView" />
-        <constructor-arg ref="vendingService" />
+        <constructor-arg ref="logicRealistic" />
     </bean>
     
     <bean id="loggingAspect" class="com.dm.vendingmashine.advice.LoggingAspect">

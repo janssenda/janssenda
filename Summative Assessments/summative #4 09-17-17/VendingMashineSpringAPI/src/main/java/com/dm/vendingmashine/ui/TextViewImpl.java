@@ -7,19 +7,20 @@ package com.dm.vendingmashine.ui;
 
 import com.danimaetrix.library.userIO.ColorIO;
 import com.danimaetrix.library.userIO.UserIo;
-import com.danimaetrix.library.userIO.UserIoConsoleImpl;
 import com.dm.vendingmashine.dto.Money;
 import com.dm.vendingmashine.dto.Product;
 import java.math.BigDecimal;
 import java.math.RoundingMode;
 import java.time.format.DateTimeFormatter;
 import java.util.List;
+import java.util.Map;
 
 /**
  *
  * @author Danimaetrix
  */
 public class TextViewImpl implements View {
+
     ColorIO c = new ColorIO();
 
     UserIo io;
@@ -45,15 +46,25 @@ public class TextViewImpl implements View {
         io.print("");
         io.print("------------------------------------");
         for (int i = 0; i < pricing.size(); i++) {
-            io.print(i + 2 + ". " + stShort(pricing.get(i)[0], 15)
+            io.print(i + 3 + ". " + stShort(pricing.get(i)[0], 15)
                     + "$" + stShort(pricing.get(i)[1], 6)
-                    + pricing.get(i)[2],c.getRandomColor());
+                    + pricing.get(i)[2], c.getRandomColor());
         }
         io.print("------------------------------------");
         io.print("0. Get change and leave");
         io.print("1. Add money");
+        io.print("2. View Jammed Items");
         io.print("");
 
+    }
+
+    public void showJammedItems(Map<String, List<Product>> itemMap) {
+        cls();
+        jammedItemsBanner();
+        itemMap.forEach((k, v) -> {
+            io.print(k + ": " + v.size());
+        });
+        waitOnUser();
     }
 
     // Short method to shorten and extend string to length l, using "..." to truncate 
@@ -100,20 +111,24 @@ public class TextViewImpl implements View {
     }
 
     @Override
-    public void showTheProduct(Product p) {
+    public void showTheProduct(List<Product> productList) {
         io.print("");
-        io.print("Congrats on your brand new " + p.getProductName());
-        io.print("Please enjoy by: "
-                + p.getBestBy().format(DateTimeFormatter.ofPattern("MM/dd/yyyy"))
-                + " for maximum freshness!");
-        io.print(p.getMessage());
+        for (int i = 0; i < productList.size(); i++) {
+            Product p = productList.get(i);
+            io.print("Congrats on your brand new " + p.getProductName());
+            io.print("Please enjoy by: "
+                    + p.getBestBy().format(DateTimeFormatter.ofPattern("MM/dd/yyyy"))
+                    + " for maximum freshness!");
+            io.print(p.getMessage());
+            io.print("");                   
+        }
     }
 
     @Override
     public Money userAddMoney(Money userMoney) {
         userAddMoneyBanner();
         io.print("You currently have: $" + moneyToString(userMoney));
-        BigDecimal added = io.readBigDecimal("How much would you like to add ($)? ");
+        BigDecimal added = io.readBigDecimal("How much would you like to add ($)? ", "0", "1e100");
 
         userMoney.setTotalmoney(userMoney.getTotalmoney().add(added));
         userMoney.breakMoney();
@@ -124,8 +139,13 @@ public class TextViewImpl implements View {
     @Override
     public int getUserDrinkSelection(Money userMoney, int range) {
         io.print("You currently have: $" + moneyToString(userMoney));
-                //io.print("Please select an option: " );    
-        return io.readInt("Please select an option: ", 0, range + 2);
+        //io.print("Please select an option: " );    
+        return io.readInt("Please select an option: ", 0, range + 3);
+    }
+
+    public void jammedItemsBanner() {
+        io.print("\n");
+        io.print(" *** Jammed Items ***");
     }
 
     @Override
@@ -176,7 +196,6 @@ public class TextViewImpl implements View {
     public void displayExceptionMessage(String msg) {
         io.print("\n");
         io.print(msg);
-        waitOnUser();
     }
 
 }

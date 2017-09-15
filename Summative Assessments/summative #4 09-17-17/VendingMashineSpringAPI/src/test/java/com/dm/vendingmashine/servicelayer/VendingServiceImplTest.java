@@ -120,7 +120,7 @@ public class VendingServiceImplTest {
     }
 
     @Test
-    public void testValidateMoney() {
+    public void testValidateMoney() throws InsufficientFundsException {
         // Simple comparison of user's money to cost of object
 
         BigDecimal cash = new BigDecimal("2.50");
@@ -149,33 +149,19 @@ public class VendingServiceImplTest {
         Money m = new Money(cash);
 
         // Try to overpay - expect 1.00 back
-        try {
-            m = service.calculateChange(m, "Coke");
-        } catch (InsufficientFundsException e) {
-            fail("this should not be reached");
-        }
+        m = service.calculateChange(m, "Coke");
 
         assertEquals(m.getTotalmoney(), BigDecimal.valueOf(1).setScale(2));
 
         m.setTotalmoney(BigDecimal.valueOf(1.50));
 
         // Try to use exact change - expect 0.00 back
-        try {
-            m = service.calculateChange(m, "Coke");
-        } catch (InsufficientFundsException e) {
-            fail("this should not be reached");
-        }
+        m = service.calculateChange(m, "Coke");
 
         assertEquals(m.getTotalmoney(), BigDecimal.valueOf(0).setScale(2));
 
         // Try to underpay -- expect exception
-        m.setTotalmoney(BigDecimal.ZERO);
-        try {
-            service.calculateChange(m, "Coke");
-            fail("this should not be reached");
-        } catch (InsufficientFundsException e) {
-            // Exception caught sucessfully
-        }
+        service.calculateChange(m, "Coke");
 
     }
 

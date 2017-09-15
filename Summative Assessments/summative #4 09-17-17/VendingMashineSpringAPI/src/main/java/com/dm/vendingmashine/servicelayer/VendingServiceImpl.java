@@ -93,6 +93,7 @@ public class VendingServiceImpl implements VendingService {
     @Override
     public Product vendProduct(Money m, String productName) throws NoItemInventoryException, InsufficientFundsException {
         if (!isSoldOut(productName)) {
+            validateMoney(m, productName);
             calculateChange(m, productName);
         }
         return daoInv.vendItem(productName);
@@ -107,9 +108,18 @@ public class VendingServiceImpl implements VendingService {
     // We compare the big decimal values of the money object and the price
     // and return true if the money is >= the price, and false otherwise
     @Override
-    public boolean validateMoney(Money m, String productName) {
+    public boolean validateMoney(Money m, String productName) throws InsufficientFundsException {
         BigDecimal cost = new BigDecimal((String) pricing.get(productName));
-        return (m.getTotalmoney().compareTo(cost) >= 0);
+
+        boolean afford = (m.getTotalmoney().compareTo(cost) >= 0);
+
+        if (!afford) {
+            throw new InsufficientFundsException(productName + ": Insufficient funds attempt... ($"
+                    + m.getTotalmoney().toString() + "/"
+                    + pricing.get(productName) + ")");
+        }
+
+        return afford;
     }
 
     // Computes the change for user.  The change in available funds is computed via
@@ -120,13 +130,7 @@ public class VendingServiceImpl implements VendingService {
     // for completeness (i.e., we could charge fractional cents on top of items if we 
     // really wanted to, without requiring any code modification.    
     @Override
-    public Money calculateChange(Money m, String name) throws InsufficientFundsException {
-
-        if (!validateMoney(m, name)) {
-            throw new InsufficientFundsException(name + ": Insufficient funds attempt... ($"
-                    + m.getTotalmoney().toString() + "/" 
-                    + pricing.get(name) + ")");
-        }
+    public Money calculateChange(Money m, String name) {
 
         String price = (String) pricing.get(name);
         BigDecimal bigPrice = new BigDecimal(price);

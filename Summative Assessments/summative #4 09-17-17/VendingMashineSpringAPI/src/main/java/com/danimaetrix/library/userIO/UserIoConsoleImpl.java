@@ -232,19 +232,19 @@ public class UserIoConsoleImpl implements UserIo {
 //                                            |___/                                      
     @Override
     public BigDecimal readBigDecimal() {
-        return userBDRecieve("1e-100", "1e100");
+        return userBDRecieve("-1e100", "1e100");
     }
 
     @Override
     public BigDecimal readBigDecimal(String msg) {
         printx(msg + "");
-        return userBDRecieve("1e-100", "1e100");
+        return userBDRecieve("-1e100", "1e100");
     }
 
     @Override
     public BigDecimal readBigDecimal(String msg, String nocolor) {
         printx(msg + "");
-        return userBDRecieve("1e-100", "1e100");
+        return userBDRecieve("-1e100", "1e100");
     }
 
     @Override

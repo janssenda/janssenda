@@ -8,12 +8,15 @@ package com.dm.vendingmashine.ui;
 import com.dm.vendingmashine.dto.Money;
 import com.dm.vendingmashine.dto.Product;
 import java.util.List;
+import java.util.Map;
 
 /**
  *
  * @author Danimaetrix
  */
 public interface View {
+    
+    public void showJammedItems(Map<String, List<Product>> itemMap);
 
     public void showChange(Money userMoney);
 
@@ -25,7 +28,7 @@ public interface View {
 
     public String moneyToString(Money userMoney);
 
-    public void showTheProduct(Product p);
+    public void showTheProduct(List<Product> productList);
 
     public Money userAddMoney(Money userMoney);
 
