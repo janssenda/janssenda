@@ -5,6 +5,8 @@
  */
 package com.dm.vendingmashine.ui;
 
+import com.danimaetrix.library.userIO.UserIo;
+import com.danimaetrix.library.userIO.UserIoConsoleImpl;
 import com.dm.vendingmashine.dto.Money;
 import com.dm.vendingmashine.dto.Product;
 import java.math.BigDecimal;

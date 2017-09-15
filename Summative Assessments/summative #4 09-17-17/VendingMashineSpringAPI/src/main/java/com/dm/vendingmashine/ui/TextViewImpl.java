@@ -5,6 +5,9 @@
  */
 package com.dm.vendingmashine.ui;
 
+import com.danimaetrix.library.userIO.ColorIO;
+import com.danimaetrix.library.userIO.UserIo;
+import com.danimaetrix.library.userIO.UserIoConsoleImpl;
 import com.dm.vendingmashine.dto.Money;
 import com.dm.vendingmashine.dto.Product;
 import java.math.BigDecimal;
@@ -17,11 +20,12 @@ import java.util.List;
  * @author Danimaetrix
  */
 public class TextViewImpl implements View {
+    ColorIO c = new ColorIO();
 
     UserIo io;
 
     public TextViewImpl(UserIo io) {
-        this.io = new UserIoConsoleImpl();
+        this.io = io;
     }
 
     @Override
@@ -43,7 +47,7 @@ public class TextViewImpl implements View {
         for (int i = 0; i < pricing.size(); i++) {
             io.print(i + 2 + ". " + stShort(pricing.get(i)[0], 15)
                     + "$" + stShort(pricing.get(i)[1], 6)
-                    + pricing.get(i)[2]);
+                    + pricing.get(i)[2],c.getRandomColor());
         }
         io.print("------------------------------------");
         io.print("0. Get change and leave");
