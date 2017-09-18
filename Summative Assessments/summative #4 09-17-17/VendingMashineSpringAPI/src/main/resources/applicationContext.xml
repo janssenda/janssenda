@@ -17,7 +17,7 @@
 
     <aop:aspectj-autoproxy />
     
-    <bean id="userIo" class="com.danimaetrix.library.userIO.UserIoConsoleImpl" />
+    <bean id="userIo" class="com.danimaetrix.library.userIO.UserIoConsoleColorImpl" />
 
     
     <bean id="asciiView" class="com.dm.vendingmashine.ui.AsciiViewImpl" >

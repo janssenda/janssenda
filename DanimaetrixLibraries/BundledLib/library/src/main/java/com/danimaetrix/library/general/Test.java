@@ -3,11 +3,11 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.danimaetrix.library;
+package com.danimaetrix.library.general;
 
-import com.danimaetrix.library.userIO.ColorIO;
-import com.danimaetrix.library.userIO.UserIo;
-import com.danimaetrix.library.userIO.UserIoConsoleColorImpl;
+import com.danimaetrix.library.io.ColorIO;
+import com.danimaetrix.library.io.UserIo;
+import com.danimaetrix.library.io.UserIoConsoleColorImpl;
 
 /**
  *

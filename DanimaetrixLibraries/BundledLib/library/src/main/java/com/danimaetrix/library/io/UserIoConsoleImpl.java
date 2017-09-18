@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.danimaetrix.library.userIO;
+package com.danimaetrix.library.io;
 
 import java.util.Scanner;
 import java.io.Console;

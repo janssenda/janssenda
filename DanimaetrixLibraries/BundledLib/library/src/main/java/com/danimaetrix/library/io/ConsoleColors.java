@@ -3,19 +3,9 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.danimaetrix.library.userIO;
+package com.danimaetrix.library.io;
 
-import java.security.SecureRandom;
-import java.util.ArrayList;
-import java.util.List;
-
-public class ColorIO {
-    private final List<String> colorArray;
-
-    public ColorIO() {
-        this.colorArray = buildColorArray();
-    }
-
+public class ConsoleColors {
     // Reset
     public static final String RESET = "\033[0m";  // Text Reset
 
@@ -88,81 +78,4 @@ public class ColorIO {
     public static final String PURPLE_BACKGROUND_BRIGHT = "\033[0;105m"; // PURPLE
     public static final String CYAN_BACKGROUND_BRIGHT = "\033[0;106m";  // CYAN
     public static final String WHITE_BACKGROUND_BRIGHT = "\033[0;107m";   // WHITE
-
-    private List<String> buildColorArray() {
-        List<String> colors = new ArrayList<>();
-
-//        colors.add("\033[0m");
-//        colors.add("\033[0;30m");
-//        colors.add("\033[0;31m");
-//        colors.add("\033[0;32m");
-//        colors.add("\033[0;33m");
-//        colors.add("\033[0;34m");
-//        colors.add("\033[0;35m");
-//        colors.add("\033[0;36m");
-//        colors.add("\033[0;37m");
-//        colors.add("\033[1;30m");
-        colors.add("\033[1;31m");
-        colors.add("\033[1;32m");
-        colors.add("\033[1;33m");
-        colors.add("\033[1;34m");
-        colors.add("\033[1;35m");
-        colors.add("\033[1;36m");
-        colors.add("\033[1;37m");
-//        colors.add("\033[4;30m");
-//        colors.add("\033[4;31m");
-//        colors.add("\033[4;32m");
-//        colors.add("\033[4;33m");
-//        colors.add("\033[4;34m");
-//        colors.add("\033[4;35m");
-//        colors.add("\033[4;36m");
-//        colors.add("\033[4;37m");
-////        colors.add("\033[40m");
-////        colors.add("\033[41m");
-////        colors.add("\033[42m");
-////        colors.add("\033[43m");
-////        colors.add("\033[44m");
-////        colors.add("\033[45m");
-////        colors.add("\033[46m");
-////        colors.add("\033[47m");
-//        colors.add("\033[0;90m");
-//        colors.add("\033[0;91m");
-//        colors.add("\033[0;92m");
-//        colors.add("\033[0;93m");
-//        colors.add("\033[0;94m");
-//        colors.add("\033[0;95m");
-//        colors.add("\033[0;96m");
-//        colors.add("\033[0;97m");
-//        colors.add("\033[1;90m");
-//        colors.add("\033[1;91m");
-//        colors.add("\033[1;92m");
-//        colors.add("\033[1;93m");
-//        colors.add("\033[1;94m");
-//        colors.add("\033[1;95m");
-//        colors.add("\033[1;96m");
-//        colors.add("\033[1;97m");
-////        colors.add("\033[0;100m");
-////        colors.add("\033[0;101m");
-////        colors.add("\033[0;102m");
-////        colors.add("\033[0;103m");
-////        colors.add("\033[0;104m");
-////        colors.add("\033[0;105m");
-////        colors.add("\033[0;106m");
-////        colors.add("\033[0;107m");
-
-        return colors;
-
-    }
-
-    public String getRandomColor() {
-        SecureRandom secrandomizer = new SecureRandom();
-        int max = colorArray.size() - 1;
-        int min = 0;
-
-        int index = secrandomizer.nextInt(max - min + 1) + min;
-
-        return colorArray.get(index);
-
-    }
-
 }
