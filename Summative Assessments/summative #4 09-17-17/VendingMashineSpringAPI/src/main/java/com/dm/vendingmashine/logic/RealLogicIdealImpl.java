@@ -12,6 +12,7 @@ import com.dm.vendingmashine.dto.Product;
 import com.dm.vendingmashine.servicelayer.InsufficientFundsException;
 import com.dm.vendingmashine.servicelayer.VendingService;
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
@@ -21,12 +22,17 @@ import java.util.Map;
  */
 public class RealLogicIdealImpl implements RealLogic {
 
-    public static final String IMPLEMENTATION = "ideal";
+    public static final String IMPLEMENTATION = "Ideal";
 
     VendingService service;
 
     RealLogicIdealImpl(VendingService service) {
         this.service = service;
+    }
+
+    @Override
+    public String getRealismVersion() {
+        return IMPLEMENTATION;
     }
 
     @Override
@@ -50,9 +56,17 @@ public class RealLogicIdealImpl implements RealLogic {
     public String checkForFileIOErrors() {
         return service.checkForFileIOErrors();
     }
-    
+
+    @Override
     public Map<String, List<Product>> getStuckItems() {
-        return null;
+        Map<String, List<Product>> empty = new HashMap<>();
+        return empty;
+    }
+
+    @Override
+    public List<Product> shakeTheMachine() {
+        List<Product> empty = new ArrayList<>();
+        return empty;
     }
 
 }

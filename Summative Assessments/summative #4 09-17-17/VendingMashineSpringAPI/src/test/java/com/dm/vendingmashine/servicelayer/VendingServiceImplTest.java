@@ -130,9 +130,13 @@ public class VendingServiceImplTest {
         assertTrue(service.validateMoney(m, "Coke"));
 
         // Underpayment -- expect invalid
-        m.setTotalmoney(BigDecimal.valueOf(1.49));
-        assertFalse(service.validateMoney(m, "Coke"));
-
+        try {
+            m.setTotalmoney(BigDecimal.valueOf(1.49));
+            assertFalse(service.validateMoney(m, "Coke"));
+            fail("Exception was not thrown");
+        } catch (InsufficientFundsException e) {
+            // Sucesss!
+        }
         // Exact payment -- expect valid
         m.setTotalmoney(BigDecimal.valueOf(1.50));
         assertTrue(service.validateMoney(m, "Coke"));

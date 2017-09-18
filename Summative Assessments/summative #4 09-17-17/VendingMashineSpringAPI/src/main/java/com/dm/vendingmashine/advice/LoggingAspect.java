@@ -14,6 +14,7 @@ import com.dm.vendingmashine.dao.FileIOException;
 import org.aspectj.lang.JoinPoint;
 import org.aspectj.lang.annotation.AfterThrowing;
 import org.aspectj.lang.annotation.Aspect;
+import org.aspectj.lang.annotation.Before;
 
 @Aspect
 public class LoggingAspect {
@@ -25,14 +26,23 @@ public class LoggingAspect {
     }
 
     @AfterThrowing(
-            pointcut = "execution(* com.dm.vendingmashine.servicelayer.VendingService.vendProduct(..))",
+            pointcut = "execution(* com.dm.vendingmashine.logic.RealLogic.vendProduct(..))"
+            + "|| execution(* com.dm.vendingmashine.logic.RealLogic.shakeTheMachine(..))",
             throwing = "ex")
     public void afterThrowing(JoinPoint joinPoint, Throwable ex) {
-        
         //Object[] args = joinPoint.getArgs();
-
         try {
             auditDao.WriteAuditToFile(ex.getMessage());
+        } catch (FileIOException e) {
+            System.err.println(
+                    "ERROR: Could not create audit entry in LoggingAdvice.");
+        }
+    }
+
+    @Before("execution(* com.dm.vendingmashine.logic.RealLogic.shakeTheMachine(..))")
+    public void before(JoinPoint joinPoint) {        
+        try {
+            auditDao.WriteAuditToFile("Customer shook machine!!! ");
         } catch (FileIOException e) {
             System.err.println(
                     "ERROR: Could not create audit entry in LoggingAdvice.");

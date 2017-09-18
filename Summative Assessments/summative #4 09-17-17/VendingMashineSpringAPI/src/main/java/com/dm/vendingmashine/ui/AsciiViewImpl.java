@@ -41,7 +41,7 @@ public class AsciiViewImpl implements View {
     }
 
     @Override
-    public void generateMenu(List<String[]> pricing) {
+    public void generateMenu(List<String[]> pricing, String realVersion) {
 
         io.print("");
         io.print(" /xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\\");
@@ -229,6 +229,21 @@ public class AsciiViewImpl implements View {
 
     @Override
     public void showTheProduct(List<Product> productList) {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
+
+    @Override
+    public void shakeMachineResults(List<Product> products) {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
+
+    @Override
+    public void deathMessage(String e) {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
+
+    @Override
+    public void machineJamMessage() {
         throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
     }
 

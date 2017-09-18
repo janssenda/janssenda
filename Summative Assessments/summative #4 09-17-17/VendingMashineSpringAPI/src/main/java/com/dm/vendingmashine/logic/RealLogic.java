@@ -18,18 +18,21 @@ import java.util.Map;
  * @author danimaetrix
  */
 public interface RealLogic {
-    
-    
-     public List<String[]> returnPriceArrayWithStatus();
-     
-     public List<Product> vendProduct(Money m, String productName) 
-             throws NoItemInventoryException, 
-             InsufficientFundsException,
-             MachineJamException ;
-    
-     public void updateInventory() throws FileIOException;
-     
-     public String checkForFileIOErrors();
-     
-     public Map<String, List<Product>> getStuckItems();
+
+    public String getRealismVersion();
+
+    public List<Product> shakeTheMachine() throws DeathException;
+
+    public List<String[]> returnPriceArrayWithStatus();
+
+    public List<Product> vendProduct(Money m, String productName)
+            throws NoItemInventoryException,
+            InsufficientFundsException,
+            MachineJameException;
+
+    public void updateInventory() throws FileIOException;
+
+    public String checkForFileIOErrors();
+
+    public Map<String, List<Product>> getStuckItems();
 }

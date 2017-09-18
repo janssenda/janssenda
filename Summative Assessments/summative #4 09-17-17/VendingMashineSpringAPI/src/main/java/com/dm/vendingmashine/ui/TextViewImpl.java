@@ -41,23 +41,30 @@ public class TextViewImpl implements View {
     }
 
     @Override
-    public void generateMenu(List<String[]> pricing) {
+    public void generateMenu(List<String[]> pricing, String realVersion) {
 
         io.print("");
+        io.print("WELCOME TO THE\n"
+                + "REALISTIC\n"
+                + "VENDING MACHINE SIMULATOR");
+        io.printx("Realism: ", ColorIO.WHITE);
+        io.print(realVersion, ColorIO.YELLOW);
         io.print("------------------------------------");
         for (int i = 0; i < pricing.size(); i++) {
-            io.print(i + 3 + ". " + stShort(pricing.get(i)[0], 15)
+            io.print(stShort(Integer.toString(i + 4) + ". ", 4) + stShort(pricing.get(i)[0], 15)
                     + "$" + stShort(pricing.get(i)[1], 6)
-                    + pricing.get(i)[2], c.getRandomColor());
+                    + pricing.get(i)[2], ColorIO.CYAN);
         }
         io.print("------------------------------------");
         io.print("0. Get change and leave");
         io.print("1. Add money");
-        io.print("2. View Jammed Items");
+        io.print("2. View jammed items");
+        io.print("3. Shake the machine");
         io.print("");
 
     }
 
+    @Override
     public void showJammedItems(Map<String, List<Product>> itemMap) {
         cls();
         jammedItemsBanner();
@@ -115,19 +122,21 @@ public class TextViewImpl implements View {
         io.print("");
         for (int i = 0; i < productList.size(); i++) {
             Product p = productList.get(i);
-            io.print("Congrats on your brand new " + p.getProductName());
+            io.printx("Congrats on your brand new ", ColorIO.RESET);
+            io.print(p.getProductName(), c.getRandomColor());
             io.print("Please enjoy by: "
                     + p.getBestBy().format(DateTimeFormatter.ofPattern("MM/dd/yyyy"))
                     + " for maximum freshness!");
             io.print(p.getMessage());
-            io.print("");                   
+            io.print("");
         }
     }
 
     @Override
     public Money userAddMoney(Money userMoney) {
         userAddMoneyBanner();
-        io.print("You currently have: $" + moneyToString(userMoney));
+        io.printx("You currently have: $", ColorIO.RESET);
+        io.print("$"+moneyToString(userMoney), ColorIO.GREEN);
         BigDecimal added = io.readBigDecimal("How much would you like to add ($)? ", "0", "1e100");
 
         userMoney.setTotalmoney(userMoney.getTotalmoney().add(added));
@@ -138,9 +147,38 @@ public class TextViewImpl implements View {
 
     @Override
     public int getUserDrinkSelection(Money userMoney, int range) {
-        io.print("You currently have: $" + moneyToString(userMoney));
-        //io.print("Please select an option: " );    
-        return io.readInt("Please select an option: ", 0, range + 3);
+        io.printx("You currently have: ", ColorIO.RESET);
+        io.print("$"+moneyToString(userMoney), ColorIO.GREEN);
+        return io.readInt("Please select an option: ", 0, range + 4);
+    }
+
+    @Override
+    public void machineJamMessage() {
+        io.print("");
+        io.print("Oh no! The machine jammed.  You can "
+                + "\ntry to shake it loose, but beware.");
+        io.print("Sometimes accidents happen.... ", ColorIO.PURPLE);
+    }
+
+    @Override
+    public void shakeMachineResults(List<Product> products) {
+        io.print("");
+        if (!products.isEmpty()) {
+            io.print("Congratulations! Your shake retrieved items!");
+            showTheProduct(products);
+        } else {
+            io.print("Too bad! Maybe next time...");
+        }
+    }
+
+    @Override
+    public void deathMessage(String e) {
+        io.print("");
+        io.print("YOU  ARE  DEAD", ColorIO.RED);
+        io.print("\nMaybe you should have read the sticker"
+                + "\nthat says not the shake the machine...");
+        waitOnUser();
+        io.print("Oh, and your money is ours now! :) :) :)", ColorIO.GREEN);
     }
 
     public void jammedItemsBanner() {
@@ -194,7 +232,7 @@ public class TextViewImpl implements View {
 
     @Override
     public void displayExceptionMessage(String msg) {
-        io.print("\n");
+        io.print("");
         io.print(msg);
     }
 

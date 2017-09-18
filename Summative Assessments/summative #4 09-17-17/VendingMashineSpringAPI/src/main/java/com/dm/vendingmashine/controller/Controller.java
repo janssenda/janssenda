@@ -8,7 +8,8 @@ package com.dm.vendingmashine.controller;
 import com.dm.vendingmashine.dao.FileIOException;
 import com.dm.vendingmashine.dao.NoItemInventoryException;
 import com.dm.vendingmashine.dto.Money;
-import com.dm.vendingmashine.logic.MachineJamException;
+import com.dm.vendingmashine.logic.DeathException;
+import com.dm.vendingmashine.logic.MachineJameException;
 import com.dm.vendingmashine.logic.RealLogic;
 import com.dm.vendingmashine.servicelayer.InsufficientFundsException;
 import java.math.BigDecimal;
@@ -64,16 +65,15 @@ public class Controller {
 
         // Loop the drink menu continuously
         while (repeat) {
-            
+
             // The price list is obtained with <Sold Out> indicators where necessary
             priceList = logic.returnPriceArrayWithStatus();
             view.cls();
 
             // We use a generated menu to allow for dynamic changes
             // of inventory and merchandising
-            view.generateMenu(priceList);
-            
-           
+            view.generateMenu(priceList, logic.getRealismVersion());
+
             int choice = view.getUserDrinkSelection(userMoney, priceList.size());
 
             switch (choice) {
@@ -87,16 +87,25 @@ public class Controller {
                 case 2:
                     view.showJammedItems(logic.getStuckItems());
                     break;
+                case 3:
+                    try {
+                        view.shakeMachineResults(logic.shakeTheMachine());
+                    }catch (DeathException e){
+                        view.deathMessage(e.getMessage());
+                        userMoney.setTotalmoney(BigDecimal.ZERO);
+                    }
+                    view.waitOnUser();
+                    break;
                 default:
-                    String name = priceList.get(choice - 3)[0];
+                    String name = priceList.get(choice - 4)[0];
                     try {
                         view.showTheProduct(logic.vendProduct(userMoney, name));
                     } catch (NoItemInventoryException e) {
                         view.soldOutBanner();
                     } catch (InsufficientFundsException e) {
                         view.insufficientFundsBanner();
-                    } catch (MachineJamException e){
-                        view.displayExceptionMessage(e.getMessage());
+                    } catch (MachineJameException e) {
+                        view.machineJamMessage();
                     }
 
                     view.waitOnUser();

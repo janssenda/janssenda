@@ -15,12 +15,12 @@ import java.util.Map;
  * @author Danimaetrix
  */
 public interface View {
-    
+
     public void showJammedItems(Map<String, List<Product>> itemMap);
 
     public void showChange(Money userMoney);
 
-    public void generateMenu(List<String[]> pricing);
+    public void generateMenu(List<String[]> pricing, String realVersion);
 
     // Short method to shorten and extend string to length l, using "..." to truncate 
     // and whitespace to extend.  Used to format fields for output to user in printAllTitles
@@ -31,6 +31,12 @@ public interface View {
     public void showTheProduct(List<Product> productList);
 
     public Money userAddMoney(Money userMoney);
+
+    public void shakeMachineResults(List<Product> products);
+    
+    public void machineJamMessage();
+            
+    public void deathMessage(String e);
 
     public int getUserDrinkSelection(Money userMoney, int range);
 
