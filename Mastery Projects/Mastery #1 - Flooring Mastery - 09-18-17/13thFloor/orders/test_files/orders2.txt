@@ -1,0 +1,5 @@
+Order Number,first_name,last_name,State,Area,Material,Tax,CPSF,LCPSF,MaterialCost,LaborCost,TotalCost
+44592,12/27/2011,Cecchi,Marietta,FL,716,Wood,6.2971,5.15,4.75,3687.4,3401,7534.763636
+89012,12/15/1999,Worsley,Micaela,OH,693,Laminate,6.8427,3.5,4.15,2425.5,2875.95,5664.212319
+42650,11/14/2006,Shillaber,Philbert,TN,560,Tile,6.9121,1.75,2.1,980,1176,2305.024876
+82695,07/29/2011,Warin,Guilbert,TX,149,Tile,5.8514,1.75,2.1,260.75,312.9,607.2165561

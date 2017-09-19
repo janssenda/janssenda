@@ -9,9 +9,8 @@ package com.dm.floor13.dao;
  *
  * @author danimaetrix
  */
-public class OrderDao {
+public interface AuditDao {
     
-    
-    
+    public void WriteAuditToFile(String entry) throws FileIOException;
     
 }

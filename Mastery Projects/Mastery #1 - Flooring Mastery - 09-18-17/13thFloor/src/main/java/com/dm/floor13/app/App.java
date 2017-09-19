@@ -5,10 +5,23 @@
  */
 package com.dm.floor13.app;
 
+import com.dm.floor13.dao.FileHandler;
+import com.dm.floor13.dao.FileIOException;
+
 /**
  *
  * @author danimaetrix
  */
 public class App {
-    
+
+    public static void main(String[] args) {
+
+        FileHandler files = new FileHandler();
+        try {
+            files.readAllOrdersFromFile();
+        } catch (FileIOException e) {
+
+        }
+    }
+
 }
