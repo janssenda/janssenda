@@ -7,6 +7,7 @@ package com.dm.floor13.model;
 
 import java.math.BigDecimal;
 import java.time.LocalDate;
+import java.util.Objects;
 
 /**
  *
@@ -116,6 +117,67 @@ public class Order {
         laborCost = product.getLaborpersqft().multiply(area);
         totalCost = (laborCost.add(materialCost))
                 .multiply((state.getTaxrate().scaleByPowerOfTen(-2)).add(BigDecimal.ONE));
+    }
+
+    @Override
+    public int hashCode() {
+        int hash = 7;
+        hash = 11 * hash + Objects.hashCode(this.orderNumber);
+        hash = 11 * hash + Objects.hashCode(this.firstName);
+        hash = 11 * hash + Objects.hashCode(this.lastName);
+        hash = 11 * hash + Objects.hashCode(this.state);
+        hash = 11 * hash + Objects.hashCode(this.date);
+        hash = 11 * hash + Objects.hashCode(this.area);
+        hash = 11 * hash + Objects.hashCode(this.product);
+        hash = 11 * hash + Objects.hashCode(this.materialCost);
+        hash = 11 * hash + Objects.hashCode(this.laborCost);
+        hash = 11 * hash + Objects.hashCode(this.totalCost);
+        return hash;
+    }
+
+    @Override
+    public boolean equals(Object obj) {
+        if (this == obj) {
+            return true;
+        }
+        if (obj == null) {
+            return false;
+        }
+        if (getClass() != obj.getClass()) {
+            return false;
+        }
+        final Order other = (Order) obj;
+        if (!Objects.equals(this.orderNumber, other.orderNumber)) {
+            return false;
+        }
+        if (!Objects.equals(this.firstName, other.firstName)) {
+            return false;
+        }
+        if (!Objects.equals(this.lastName, other.lastName)) {
+            return false;
+        }
+        if (!Objects.equals(this.state, other.state)) {
+            return false;
+        }
+        if (!Objects.equals(this.date, other.date)) {
+            return false;
+        }
+        if (!Objects.equals(this.area, other.area)) {
+            return false;
+        }
+        if (!Objects.equals(this.product, other.product)) {
+            return false;
+        }
+        if (!Objects.equals(this.materialCost, other.materialCost)) {
+            return false;
+        }
+        if (!Objects.equals(this.laborCost, other.laborCost)) {
+            return false;
+        }
+        if (!Objects.equals(this.totalCost, other.totalCost)) {
+            return false;
+        }
+        return true;
     }
 
 }

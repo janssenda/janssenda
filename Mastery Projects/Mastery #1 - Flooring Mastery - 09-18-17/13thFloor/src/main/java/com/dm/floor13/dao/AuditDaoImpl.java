@@ -23,10 +23,10 @@ public class AuditDaoImpl implements AuditDao {
                 index.format(DateTimeFormatter
                         .ofPattern("MM/dd/yy @ hh:mm a - "));
         
-        FileHandler auditFile = new FileHandler("AuditLog.txt");        
+        FileHandler auditFile = new FileHandler();        
         
         
-        auditFile.AuditLogToFile(logString + entry, true);
+        auditFile.AuditLogToFile(logString + entry, true,"Audit Log.txt");
     
     }
     

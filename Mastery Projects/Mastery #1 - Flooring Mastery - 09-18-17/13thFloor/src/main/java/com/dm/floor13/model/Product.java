@@ -6,6 +6,7 @@
 package com.dm.floor13.model;
 
 import java.math.BigDecimal;
+import java.util.Objects;
 
 /**
  *
@@ -45,6 +46,39 @@ public class Product {
 
     public void setLaborpersqft(BigDecimal laborpersqft) {
         this.laborpersqft = laborpersqft;
+    }
+
+    @Override
+    public int hashCode() {
+        int hash = 7;
+        hash = 43 * hash + Objects.hashCode(this.productName);
+        hash = 43 * hash + Objects.hashCode(this.costpersqft);
+        hash = 43 * hash + Objects.hashCode(this.laborpersqft);
+        return hash;
+    }
+
+    @Override
+    public boolean equals(Object obj) {
+        if (this == obj) {
+            return true;
+        }
+        if (obj == null) {
+            return false;
+        }
+        if (getClass() != obj.getClass()) {
+            return false;
+        }
+        final Product other = (Product) obj;
+        if (!Objects.equals(this.productName, other.productName)) {
+            return false;
+        }
+        if (!Objects.equals(this.costpersqft, other.costpersqft)) {
+            return false;
+        }
+        if (!Objects.equals(this.laborpersqft, other.laborpersqft)) {
+            return false;
+        }
+        return true;
     }
 
 }

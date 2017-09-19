@@ -6,6 +6,7 @@
 package com.dm.floor13.model;
 
 import java.math.BigDecimal;
+import java.util.Objects;
 
 /**
  *
@@ -39,6 +40,35 @@ public class State {
 
     public void setTaxrate(BigDecimal taxrate) {
         this.taxRate = taxrate;
+    }
+
+    @Override
+    public int hashCode() {
+        int hash = 3;
+        hash = 79 * hash + Objects.hashCode(this.stateCode);
+        hash = 79 * hash + Objects.hashCode(this.taxRate);
+        return hash;
+    }
+
+    @Override
+    public boolean equals(Object obj) {
+        if (this == obj) {
+            return true;
+        }
+        if (obj == null) {
+            return false;
+        }
+        if (getClass() != obj.getClass()) {
+            return false;
+        }
+        final State other = (State) obj;
+        if (!Objects.equals(this.stateCode, other.stateCode)) {
+            return false;
+        }
+        if (!Objects.equals(this.taxRate, other.taxRate)) {
+            return false;
+        }
+        return true;
     }
     
 }

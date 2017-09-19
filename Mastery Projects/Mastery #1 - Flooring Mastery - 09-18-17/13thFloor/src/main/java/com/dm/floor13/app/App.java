@@ -5,8 +5,7 @@
  */
 package com.dm.floor13.app;
 
-import com.dm.floor13.dao.FileHandler;
-import com.dm.floor13.dao.FileIOException;
+import com.dm.floor13.dao.OrderDao;
 
 /**
  *
@@ -16,12 +15,10 @@ public class App {
 
     public static void main(String[] args) {
 
-        FileHandler files = new FileHandler();
-        try {
-            files.readAllOrdersFromFile();
-        } catch (FileIOException e) {
+        OrderDao dao = new OrderDao();
+        dao.readAllOrdersFromDirectory();
+        dao.writeOrdersToDirectory("/output/");
 
-        }
     }
 
 }

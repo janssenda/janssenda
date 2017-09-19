@@ -19,10 +19,13 @@ import java.math.BigDecimal;
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
 import java.util.ArrayList;
+import java.util.HashSet;
 import java.util.LinkedHashMap;
 import java.util.List;
 import java.util.Map;
 import java.util.Scanner;
+import java.util.Set;
+import java.util.stream.Collectors;
 
 
 /* This class allocates reading and writing responsibilities according
@@ -39,19 +42,24 @@ public class FileHandler {
 
     private static final String DELIMITER = ",";            // Delimiter for reading and writing files
     private static final String DATEFORMAT = "MM/dd/yyyy";
-    private static final String DIR = "./orders";
-    private String filename;
+    private int skippedLineCount;
+    private int skippedFileCount;
+    private String DIR;
 
     // Constructor 
-    public FileHandler(String filename) {
-        this.filename = filename;
-    }
-
     public FileHandler() {
-        this.filename = "";
+        this.DIR = "./orders";
+        this.skippedLineCount = 0;
+        this.skippedFileCount = 0;
     }
 
-    public Map<String, BigDecimal> readTaxesFromFile() throws FileIOException {
+    public FileHandler(String directory) {
+        this.DIR = directory;
+        this.skippedLineCount = 0;
+        this.skippedFileCount = 0;
+    }
+
+    public Map<String, BigDecimal> readTaxesFromFile(String filename) throws FileIOException {
         Scanner scanner;
         Map<String, BigDecimal> taxRates = new LinkedHashMap<>();
 
@@ -100,7 +108,7 @@ public class FileHandler {
 
     }
 
-    public Map<String, List<BigDecimal>> readPricingFromFile() throws FileIOException {
+    public Map<String, List<BigDecimal>> readPricingFromFile(String filename) throws FileIOException {
         Scanner scanner;
         Map<String, List<BigDecimal>> products = new LinkedHashMap<>();
         List<BigDecimal> prices = new ArrayList<>();
@@ -155,62 +163,125 @@ public class FileHandler {
 
     }
 
-    public void writeOrdersToFile(List<Order> OrderList) throws FileIOException {
+    public void writeAllOrdersSplitFilesByDate(Map<String, Order> orderMap, String directory) {
+        writeOrdersToSplitFiles(orderMap, directory);
+    }
+
+    private void writeOrdersToSplitFiles(Map<String, Order> orderMap, String directory) {
+        Map<String, List<Order>> dateMap;
+        new File(directory).mkdirs();
+
+        dateMap = orderMap.values().stream()
+                .collect(Collectors.groupingBy(o -> o.getDate()
+                .format(DateTimeFormatter.ofPattern("MMddyyyy"))));
+
+        dateMap.forEach((k, v) -> {
+            String name = directory + "Orders_"+ k + ".csv";
+
+            try {
+                writeAllOrders(v, name);
+            } catch (FileIOException e) {
+                ////////
+            }
+
+        });
+
+    }
+
+    public void writeAllOrders(List<Order> orderList, String filename) throws FileIOException {
         PrintWriter out;
         String foutName = filename;
+        String header = "Order Number,first_name,last_name,State,Area,Material,Tax,CPSF,LCPSF,MaterialCost,LaborCost,TotalCost";
 
-        try {
+        try {            
             out = new PrintWriter(new FileWriter(foutName));
         } catch (IOException e) {
             throw new FileIOException("Error opening file.  Is it open"
                     + "\nin another application? ", e);
         }
 
-        for (int i = 0; i < OrderList.size(); i++) {
+        out.write(header + "\n");
+        for (int i = 0; i < orderList.size(); i++) {
+            Order order = orderList.get(i);
+            Product p = order.getProduct();
 
+            out.write(order.getOrderNumber() + DELIMITER
+                    + order.getDate().format(DateTimeFormatter.ofPattern(DATEFORMAT)) + DELIMITER
+                    + order.getLastName() + DELIMITER
+                    + order.getFirstName() + DELIMITER
+                    + order.getState().getStateCode() + DELIMITER
+                    + order.getArea().toString() + DELIMITER
+                    + p.getProductName() + DELIMITER
+                    + order.getState().getTaxrate().toString() + DELIMITER
+                    + p.getCostpersqft().toString() + DELIMITER
+                    + p.getLaborpersqft().toString() + DELIMITER
+                    + order.getMaterialCost().toString() + DELIMITER
+                    + order.getLaborCost().toString() + DELIMITER
+                    + order.getTotalCost().toString() + "\n");
         }
 
         out.flush();
         out.close();
     }
 
-    public List<Order> readAllOrdersFromFile() throws FileIOException {
-        return readAllOrders(DIR);
+    public List<Order> readAllOrders(String userDir, int orderNumberLength) {
+        return readAllOrdersFromFile(userDir, orderNumberLength);
     }
 
-    public List<Order> readAllOrdersFromFile(String userDir) throws FileIOException {
-        return readAllOrders(userDir);
-    }
-
-    public List<Order> readAllOrders(String dir) throws FileIOException {
+    private List<Order> readAllOrdersFromFile(String dir, int orderNumberLength) {
+        this.skippedLineCount = 0;
+        this.skippedFileCount = 0;
         List<Order> allOrders = new ArrayList<>();
+        Set<Order> allOrderSet = new HashSet<>();
         File folder = new File(dir);
         File[] listOfFiles = folder.listFiles();
 
         for (File file : listOfFiles) {
             if (file.isFile()) {
                 try {
-                    allOrders.addAll(readOrdersFromFile(file));
-                } catch (FileIOException e){
-                    //
+                    allOrderSet.addAll(readOrdersFromSingleFile(file, orderNumberLength));
+                } catch (FileSkipException | MissingFileException e) {
+                    skippedFileCount = skippedFileCount + 1;
                 }
             }
         }
-        System.out.println("Size total " + allOrders.size());
+        allOrders.addAll(allOrderSet);
         return allOrders;
     }
 
-    public List<Order> readOrdersFromFile(File file) throws FileIOException {
+    private boolean isOrderNumber(String s, int orderNumberLength) {
+
+        try {
+            Integer i = Integer.parseInt(s);
+
+            if (s.length() == orderNumberLength) {
+                return true;
+            }
+            return false;
+        } catch (NumberFormatException e) {
+            return false;
+        }
+    }
+
+    public List<Order> readOrdersFromSingleFile(String filename, int orderNumberLength)
+            throws FileSkipException, MissingFileException {
+
+        File file = new File(filename);
+        return readOrdersFromSingleFile(file, orderNumberLength);
+    }
+
+    private List<Order> readOrdersFromSingleFile(File file, int orderNumberLength)
+            throws FileSkipException, MissingFileException {
         LocalDate d;
         Scanner scanner;
         List<Order> orderList = new ArrayList<>();
+        Set<Order> orderSet = new HashSet<>();
+        
 
         try {
-            //scanner = new Scanner(new BufferedReader(new FileReader(filename)));
             scanner = new Scanner(file);
         } catch (FileNotFoundException e) {
-            throw new FileIOException("Could not open inventory file. Filename"
-                    + " should be 'inventoryData.csv'", e);
+            throw new MissingFileException("Order file could not be found", e);
         }
 
         String currentline;
@@ -229,6 +300,11 @@ public class FileHandler {
                     }
 
                     Order currentOrder = new Order();
+
+                    if (!isOrderNumber(currentTokens[0], orderNumberLength)) {
+                        throw new NumberFormatException("Bad order number");
+                    }
+
                     d = LocalDate.parse(currentTokens[1], DateTimeFormatter.ofPattern(DATEFORMAT));
                     State st = new State(currentTokens[4], new BigDecimal(currentTokens[7]));
                     Product currentProduct = new Product(currentTokens[6]);
@@ -243,28 +319,32 @@ public class FileHandler {
                     currentOrder.setFirstName(currentTokens[3]);
                     currentOrder.setArea(new BigDecimal(currentTokens[5]));
                     currentOrder.setProduct(currentProduct);
-                    currentOrder.recalculateData();
-
+                    currentOrder.recalculateData();                  
+                    
+                   
                     orderList.add(currentOrder);
 
                 } catch (Exception e) {
+                    skippedLineCount = skippedLineCount + 1;
                     // Skips the line if there is a problem but continues reading file
                 }
 
             }
 
-            System.out.println("Size " + orderList.size());
+            if (orderList.isEmpty()) {
+                throw new FileSkipException("Error reading file: empty or corrupt ");
+            }
 
         } catch (Exception e) {
-
-            throw new FileIOException("Error reading file: empty or corrupt ", e);
+            // Skips the entire file if there are no valid lines
+            throw new FileSkipException("Error reading file: empty or corrupt ", e);
         }
 
         scanner.close();
         return orderList;
     }
 
-    public void AuditLogToFile(String entry, boolean writeMode) throws FileIOException {
+    public void AuditLogToFile(String entry, boolean writeMode, String filename) throws FileIOException {
         PrintWriter out;
         String foutName = filename;
 
@@ -280,6 +360,22 @@ public class FileHandler {
         out.flush();
         out.close();
 
+    }
+
+    public int getSkippedLineCount() {
+        return skippedLineCount;
+    }
+
+    public void setSkippedLineCount(int skippedLineCount) {
+        this.skippedLineCount = skippedLineCount;
+    }
+
+    public int getSkippedFileCount() {
+        return skippedFileCount;
+    }
+
+    public void setSkippedFileCount(int skippedFileCount) {
+        this.skippedFileCount = skippedFileCount;
     }
 
 }

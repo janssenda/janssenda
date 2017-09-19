@@ -13,6 +13,7 @@ import java.time.format.DateTimeFormatter;
 import java.util.ArrayList;
 import java.util.List;
 import static org.junit.Assert.assertEquals;
+import static org.junit.Assert.assertTrue;
 import static org.junit.Assert.fail;
 import org.junit.Test;
 
@@ -21,6 +22,7 @@ import org.junit.Test;
  * @author Danimaetrix
  */
 public class FileHandlerTest {
+    int orderNumberLength = 5;
 
     public FileHandlerTest() {
     }
@@ -34,20 +36,30 @@ public class FileHandlerTest {
     }
 
     @Test
-    public void testWriteOrdersToFile() throws Exception {
-    }
-
-    @Test
-    public void testReadAllOrdersFromFile() throws Exception {
+    public void testWriteAllOrdersToFile() throws Exception {
         String dir = "./orders/test_files";
 
         FileHandler files = new FileHandler();
         List<Order> orders = new ArrayList<>();
-        try {
-            orders = files.readAllOrdersFromFile(dir);
-        } catch (FileIOException e) {
-            fail("File read failed");
-        }
+
+        orders = files.readAllOrders(dir, orderNumberLength);
+
+        files.writeAllOrders(orders, "./orders/test_files/output/output_data.csv");
+
+        List<Order> ordersFromOutput = files.readAllOrders("./orders/test_files/output",orderNumberLength);
+
+        assertEquals(orders.get(0).hashCode(), ordersFromOutput.get(0).hashCode());
+        assertTrue(orders.get(0).equals(ordersFromOutput.get(0)));
+
+    }
+
+    @Test
+    public void testReadAllOrders() throws Exception {
+        String dir = "./orders/test_files";
+
+        FileHandler files = new FileHandler();
+        List<Order> orders = new ArrayList<>();
+        orders = files.readAllOrders(dir,orderNumberLength);
 
         assertEquals(8, orders.size());
 
@@ -78,11 +90,54 @@ public class FileHandlerTest {
         d3 = (d1.add(d2));
         d3 = d3.multiply(((st.getTaxrate().scaleByPowerOfTen(-2)).add(BigDecimal.ONE)));
         assertEquals(d3, order.getTotalCost());
-        
+
     }
 
     @Test
-    public void testReadOrdersFromFile() throws Exception {
+    public void testReadFileExceptions() {
+        String dir = "./orders/test_files/broken_files/";
+
+        FileHandler files = new FileHandler();
+        List<Order> orders = new ArrayList<>();
+
+        try {
+            orders = files.readOrdersFromSingleFile(dir + "broken_lines.txt",orderNumberLength);
+            assertEquals(orders.get(0).getOrderNumber(), "44592");
+        } catch (FileSkipException | MissingFileException e) {
+            fail("No exceptions should be thrown");
+        }
+
+        assertEquals(files.getSkippedLineCount(), 2);
+
+        try {
+            orders = files.readOrdersFromSingleFile(dir + "empty_file.txt",orderNumberLength);
+            fail("Exceptions should be thrown");
+        } catch (FileSkipException | MissingFileException e) {
+
+        }
+
+        try {
+            orders = files.readOrdersFromSingleFile(dir + "wholly_corrupt.txt",orderNumberLength);
+            fail("Exceptions should be thrown");
+        } catch (FileSkipException | MissingFileException e) {
+
+        }
+
+    }
+
+    @Test
+    public void testReadMultiFileExceptions() {
+        String dir = "./orders/test_files/broken_files/";
+
+        FileHandler files = new FileHandler();
+        List<Order> orders = new ArrayList<>();
+
+        orders = files.readAllOrders(dir,orderNumberLength);
+        
+        assertEquals(2,files.getSkippedFileCount());
+        assertEquals(6,files.getSkippedLineCount());
+        
+
     }
 
     @Test
