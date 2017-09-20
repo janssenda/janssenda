@@ -15,19 +15,19 @@ import java.util.stream.Collectors;
  *
  * @author danimaetrix
  */
-public class OrderDao {
+public class OrderDaoImpl {
 
     private Map<String, List<Order>> orderMap;
     private int orderNumberLength;
     private String currentDir;
     private int currentOrderNumber;
 
-    public OrderDao() {
+    public OrderDaoImpl() {
         this.currentDir = "./orders";
         this.orderNumberLength = 5;
     }
 
-    public OrderDao(String directory) {
+    public OrderDaoImpl(String directory) {
         this.currentDir = directory;
         this.orderNumberLength = 5;
     }
@@ -38,7 +38,8 @@ public class OrderDao {
     // first read of a data set, the order global current order number is updated.
     public Map<String, List<Order>> readAllOrdersFromDirectory() {
 
-        FileHandler orderHandler = new FileHandler();
+        FileHandler orderHandler = new FileHandler(currentDir);
+        
         List<Order> orders = orderHandler.readAllOrders(currentDir, orderNumberLength);
 
         this.orderMap = orders.stream().sorted((o1, o2)
@@ -73,13 +74,13 @@ public class OrderDao {
             BackupFileException,
             FileIOException,
             MissingFileException {
+        
 
         if (orderMap.containsKey(orderNumber)) {
-            FileHandler orderHandler = new FileHandler();
-            List<Order> orderList = orderMap.get(orderNumber);
-
-            orderHandler.removeOrderFromAll(orderList, currentDir);
-            orderMap.remove(orderNumber);
+            FileHandler orderHandler = new FileHandler(currentDir);
+            List<Order> orderList = orderMap.get(orderNumber);            
+            orderHandler.removeOrderFromAll(orderList, currentDir);            
+            orderMap.remove(orderNumber);     
 
         } else {
             throw new OrderNotFoundException("Error: order does not exist...");
@@ -134,7 +135,7 @@ public class OrderDao {
             throws FileIOException,
             BackupFileException {
 
-        FileHandler orderHandler = new FileHandler();
+        FileHandler orderHandler = new FileHandler(currentDir);
         orderHandler.writeSingleOrder(orderList, currentDir + path + "/");
 
     }
@@ -162,7 +163,7 @@ public class OrderDao {
     }
 
     public void writeOrdersToDirectory(String path) {
-        FileHandler orderHandler = new FileHandler();
+        FileHandler orderHandler = new FileHandler(currentDir);
         orderHandler.writeAllOrdersSplitFilesByDate(orderMap, currentDir + path + "/");
     }
 

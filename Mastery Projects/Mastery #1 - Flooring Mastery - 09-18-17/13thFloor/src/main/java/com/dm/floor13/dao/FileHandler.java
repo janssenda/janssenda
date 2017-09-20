@@ -222,7 +222,8 @@ public class FileHandler {
     public void removeOrderFromAll(List<Order> orderList)
             throws BackupFileException,
             FileIOException,
-            MissingFileException {
+            MissingFileException {   
+        
 
         removeOrderFromAll(orderList, DIR);
 
@@ -232,7 +233,7 @@ public class FileHandler {
             throws BackupFileException,
             FileIOException,
             MissingFileException {
-
+        
         Set<String> orderNames = new HashSet<>();
         String orderNumber = orderList.get(0).getOrderNumber();
 
@@ -269,6 +270,7 @@ public class FileHandler {
             FileIOException,
             MissingFileException {
 
+        
         int linecounter = 0;
         Scanner sc;
         PrintWriter out;
@@ -301,13 +303,14 @@ public class FileHandler {
                     String[] tokens = currentLine.trim().split(DELIMITER);
 
                     if (!tokens[0].equals(orderNumber)) {
-                        out.write(currentLine + "\n");
+                        out.write(currentLine+"\n");
                         linecounter = linecounter + 1;
                     }
 
                 }
 
                 out.flush();
+                
                 // If the file is now empty, delete it
                 if (linecounter <= 1) {
                     new File(filename).delete();
@@ -318,9 +321,11 @@ public class FileHandler {
                 oldFile.renameTo(new File(filename));
                 throw new FileIOException("Error writing the new file... ");
             }
+            
 
             out.close();            
-            // Delete the temporary file if all is successful            
+            // Delete the temporary file if all is successful    
+
             oldFile.delete();
         } else {
             throw new MissingFileException("No files for that date exist... ");
@@ -436,6 +441,7 @@ public class FileHandler {
     }
 
     public List<Order> readAllOrders(String userDir) {
+        
         return readAllOrdersFromFile(userDir, orderNumberLength);
     }
 
