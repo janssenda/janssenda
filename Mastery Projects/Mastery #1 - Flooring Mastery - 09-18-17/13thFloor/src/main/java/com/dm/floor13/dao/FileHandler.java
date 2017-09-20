@@ -171,12 +171,21 @@ public class FileHandler {
         Map<String, List<Order>> dateMap;
         new File(directory).mkdirs();
 
+        File folder = new File(directory);
+
+        for (File file : folder.listFiles()) {
+            if (!file.isDirectory()) {
+                file.delete();
+            }
+        }
+
         dateMap = orderMap.values().stream()
+                .sorted((o1, o2)-> o1.getLastName().compareTo(o2.getLastName()))
                 .collect(Collectors.groupingBy(o -> o.getDate()
                 .format(DateTimeFormatter.ofPattern("MMddyyyy"))));
 
         dateMap.forEach((k, v) -> {
-            String name = directory + "Orders_"+ k + ".csv";
+            String name = directory + "Orders_" + k + ".csv";
 
             try {
                 writeAllOrders(v, name);
@@ -190,11 +199,11 @@ public class FileHandler {
 
     public void writeAllOrders(List<Order> orderList, String filename) throws FileIOException {
         PrintWriter out;
-        String foutName = filename;
         String header = "Order Number,first_name,last_name,State,Area,Material,Tax,CPSF,LCPSF,MaterialCost,LaborCost,TotalCost";
 
-        try {            
-            out = new PrintWriter(new FileWriter(foutName));
+        //new File(filename).isFile();
+        try {
+            out = new PrintWriter(new FileWriter(filename));
         } catch (IOException e) {
             throw new FileIOException("Error opening file.  Is it open"
                     + "\nin another application? ", e);
@@ -276,7 +285,6 @@ public class FileHandler {
         Scanner scanner;
         List<Order> orderList = new ArrayList<>();
         Set<Order> orderSet = new HashSet<>();
-        
 
         try {
             scanner = new Scanner(file);
@@ -319,9 +327,8 @@ public class FileHandler {
                     currentOrder.setFirstName(currentTokens[3]);
                     currentOrder.setArea(new BigDecimal(currentTokens[5]));
                     currentOrder.setProduct(currentProduct);
-                    currentOrder.recalculateData();                  
-                    
-                   
+                    currentOrder.recalculateData();
+
                     orderList.add(currentOrder);
 
                 } catch (Exception e) {
