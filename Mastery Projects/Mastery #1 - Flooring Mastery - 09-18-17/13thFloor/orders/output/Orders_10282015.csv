@@ -1,2 +1,2 @@
-Order Number,first_name,last_name,State,Area,Material,Tax,CPSF,LCPSF,MaterialCost,LaborCost,TotalCost
-43406,10/28/2015,Koopman,Jourdan,CA,439,Laminate,6.0598,3.5,4.15,1536.5,1821.85,3561.85929330
+Order Number,first_name,last_name,State,Area,Material,Tax,CPSF,LCPSF,MaterialCost,LaborCost,TotalCost, Last Revised
+43406,10/28/2015,Koopman,Jourdan,CA,439,Laminate,6.0598,3.5,4.15,1536.5,1821.85,3561.85929330,09/20/2017 @ 08:54:01 AM

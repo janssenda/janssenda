@@ -7,6 +7,7 @@ package com.dm.floor13.model;
 
 import java.math.BigDecimal;
 import java.time.LocalDate;
+import java.time.LocalDateTime;
 import java.util.Objects;
 
 /**
@@ -20,6 +21,8 @@ public class Order {
     private String lastName;
     private State state;
     private LocalDate date;
+    private LocalDateTime revisionDate;
+
     private BigDecimal area;
     private Product product;
 
@@ -117,6 +120,14 @@ public class Order {
         laborCost = product.getLaborpersqft().multiply(area);
         totalCost = (laborCost.add(materialCost))
                 .multiply((state.getTaxrate().scaleByPowerOfTen(-2)).add(BigDecimal.ONE));
+    }
+
+    public LocalDateTime getRevisionDate() {
+        return revisionDate;
+    }
+
+    public void setRevisionDate(LocalDateTime revisionDate) {
+        this.revisionDate = revisionDate;
     }
 
     @Override

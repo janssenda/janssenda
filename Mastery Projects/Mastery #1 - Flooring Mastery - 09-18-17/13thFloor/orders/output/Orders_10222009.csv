@@ -1,2 +1,2 @@
-Order Number,first_name,last_name,State,Area,Material,Tax,CPSF,LCPSF,MaterialCost,LaborCost,TotalCost
-62364,10/22/2009,Church,Gifford,PA,291,Carpet,5.2985,2.25,2.1,654.75,611.1,1332.92106225
+Order Number,first_name,last_name,State,Area,Material,Tax,CPSF,LCPSF,MaterialCost,LaborCost,TotalCost, Last Revised
+62364,10/22/2009,Church,Gifford,PA,291,Carpet,5.2985,2.25,2.1,654.75,611.1,1332.92106225,09/20/2017 @ 08:54:01 AM

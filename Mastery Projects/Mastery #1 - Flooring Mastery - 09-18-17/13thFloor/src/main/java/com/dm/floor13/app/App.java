@@ -17,6 +17,7 @@ public class App {
 
         OrderDao dao = new OrderDao();
         dao.readAllOrdersFromDirectory();
+        
         dao.writeOrdersToDirectory("/output/");
 
     }

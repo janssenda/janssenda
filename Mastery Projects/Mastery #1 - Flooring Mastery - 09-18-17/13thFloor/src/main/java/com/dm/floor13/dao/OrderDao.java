@@ -6,6 +6,7 @@
 package com.dm.floor13.dao;
 
 import com.dm.floor13.model.Order;
+import java.time.LocalDateTime;
 import java.util.List;
 import java.util.Map;
 import java.util.stream.Collectors;
@@ -37,6 +38,10 @@ public class OrderDao {
 
         this.orderMap = orders.stream()
                 .collect(Collectors.toMap(Order::getOrderNumber, o -> o));
+        
+//        this.orderMap.forEach((k, v) -> {
+//            v.setRevisionDate(LocalDateTime.now());
+//        });
 
         return this.orderMap;
     }

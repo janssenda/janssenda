@@ -17,6 +17,7 @@ import java.io.IOException;
 import java.io.PrintWriter;
 import java.math.BigDecimal;
 import java.time.LocalDate;
+import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 import java.util.ArrayList;
 import java.util.HashSet;
@@ -42,6 +43,7 @@ public class FileHandler {
 
     private static final String DELIMITER = ",";            // Delimiter for reading and writing files
     private static final String DATEFORMAT = "MM/dd/yyyy";
+    private static final String REVDATEFORMAT = "MM/dd/yyyy @ hh:mm:ss a";
     private int skippedLineCount;
     private int skippedFileCount;
     private String DIR;
@@ -180,7 +182,7 @@ public class FileHandler {
         }
 
         dateMap = orderMap.values().stream()
-                .sorted((o1, o2)-> o1.getLastName().compareTo(o2.getLastName()))
+                .sorted((o1, o2) -> o1.getLastName().compareTo(o2.getLastName()))
                 .collect(Collectors.groupingBy(o -> o.getDate()
                 .format(DateTimeFormatter.ofPattern("MMddyyyy"))));
 
@@ -199,7 +201,8 @@ public class FileHandler {
 
     public void writeAllOrders(List<Order> orderList, String filename) throws FileIOException {
         PrintWriter out;
-        String header = "Order Number,first_name,last_name,State,Area,Material,Tax,CPSF,LCPSF,MaterialCost,LaborCost,TotalCost";
+        String header = "Order Number,first_name,last_name,State,Area,Material,Tax,CPSF,"
+                + "LCPSF,MaterialCost,LaborCost,TotalCost, Last Revised";
 
         //new File(filename).isFile();
         try {
@@ -226,7 +229,8 @@ public class FileHandler {
                     + p.getLaborpersqft().toString() + DELIMITER
                     + order.getMaterialCost().toString() + DELIMITER
                     + order.getLaborCost().toString() + DELIMITER
-                    + order.getTotalCost().toString() + "\n");
+                    + order.getTotalCost().toString() + DELIMITER
+                    + order.getRevisionDate().format(DateTimeFormatter.ofPattern(REVDATEFORMAT)) + "\n");
         }
 
         out.flush();
@@ -282,6 +286,7 @@ public class FileHandler {
     private List<Order> readOrdersFromSingleFile(File file, int orderNumberLength)
             throws FileSkipException, MissingFileException {
         LocalDate d;
+        LocalDateTime drev;
         Scanner scanner;
         List<Order> orderList = new ArrayList<>();
         Set<Order> orderSet = new HashSet<>();
@@ -314,6 +319,7 @@ public class FileHandler {
                     }
 
                     d = LocalDate.parse(currentTokens[1], DateTimeFormatter.ofPattern(DATEFORMAT));
+                    drev = LocalDateTime.parse(currentTokens[13], DateTimeFormatter.ofPattern(REVDATEFORMAT));
                     State st = new State(currentTokens[4], new BigDecimal(currentTokens[7]));
                     Product currentProduct = new Product(currentTokens[6]);
 
@@ -326,6 +332,7 @@ public class FileHandler {
                     currentOrder.setLastName(currentTokens[2]);
                     currentOrder.setFirstName(currentTokens[3]);
                     currentOrder.setArea(new BigDecimal(currentTokens[5]));
+                    currentOrder.setRevisionDate(drev);
                     currentOrder.setProduct(currentProduct);
                     currentOrder.recalculateData();
 
