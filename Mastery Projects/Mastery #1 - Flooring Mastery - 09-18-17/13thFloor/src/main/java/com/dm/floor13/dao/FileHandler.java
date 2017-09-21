@@ -66,21 +66,23 @@ public class FileHandler {
         this.orderNumberLength = 5;
     }
 
-    public Map<String, BigDecimal> readTaxesFromFile(String filename) throws FileIOException {
+    public Map<String, State> readTaxesFromFile(String filename) throws FileIOException {
         Scanner scanner;
-        Map<String, BigDecimal> taxRates = new LinkedHashMap<>();
+        Map<String, State> taxRates = new LinkedHashMap<>();
 
         try {
             scanner = new Scanner(new BufferedReader(new FileReader(filename)));
         } catch (FileNotFoundException e) {
             throw new FileIOException("Could not open pricing file. Filename"
-                    + " should be 'priceData.csv'", e);
+                    + " should be 'Taxes.txt'", e);
         }
 
         String currentline;
         String[] currentTokens;
 
         try {
+
+            scanner.nextLine();
             while (scanner.hasNextLine()) {
 
                 currentline = scanner.nextLine();
@@ -90,11 +92,14 @@ public class FileHandler {
                     for (int i = 0; i < currentTokens.length; i++) {
                         currentTokens[i] = currentTokens[i].trim();
                     }
-
-                    BigDecimal tax = new BigDecimal(currentTokens[1]);
-
                     if (!currentTokens[0].startsWith("//")) {
-                        taxRates.put(currentTokens[0], tax);
+
+                        State state = new State();
+
+                        state.setStateCode(currentTokens[0]);
+                        state.setTaxrate(new BigDecimal(currentTokens[1]));
+
+                        taxRates.put(state.getStateCode(), state);
                     }
                 } catch (Exception e) {
                     // Skips the line if there is a problem but continues reading file
@@ -115,10 +120,9 @@ public class FileHandler {
 
     }
 
-    public Map<String, List<BigDecimal>> readPricingFromFile(String filename) throws FileIOException {
+    public Map<String, Product> readProductsFromFile(String filename) throws FileIOException {
         Scanner scanner;
-        Map<String, List<BigDecimal>> products = new LinkedHashMap<>();
-        List<BigDecimal> prices = new ArrayList<>();
+        Map<String, Product> products = new LinkedHashMap<>();
 
         try {
             scanner = new Scanner(new BufferedReader(new FileReader(filename)));
@@ -131,6 +135,7 @@ public class FileHandler {
         String[] currentTokens;
 
         try {
+            scanner.nextLine();
             while (scanner.hasNextLine()) {
 
                 currentline = scanner.nextLine();
@@ -141,15 +146,13 @@ public class FileHandler {
                         currentTokens[i] = currentTokens[i].trim();
                     }
 
-                    prices.clear();
-                    BigDecimal perSquareFt = new BigDecimal(currentTokens[1]);
-                    BigDecimal laborCost = new BigDecimal(currentTokens[2]);
-
-                    prices.add(perSquareFt);
-                    prices.add(laborCost);
-
                     if (!currentTokens[0].startsWith("//")) {
-                        products.put(currentTokens[0], prices);
+
+                        Product p = new Product(currentTokens[0]);
+                        p.setCostpersqft(new BigDecimal(currentTokens[1]));
+                        p.setLaborpersqft(new BigDecimal(currentTokens[2]));
+
+                        products.put(p.getProductName(), p);
                     }
                 } catch (Exception e) {
                     // Skips the line if there is a problem but continues reading file
@@ -222,8 +225,7 @@ public class FileHandler {
     public void removeOrderFromAll(List<Order> orderList)
             throws BackupFileException,
             FileIOException,
-            MissingFileException {   
-        
+            MissingFileException {
 
         removeOrderFromAll(orderList, DIR);
 
@@ -233,7 +235,7 @@ public class FileHandler {
             throws BackupFileException,
             FileIOException,
             MissingFileException {
-        
+
         Set<String> orderNames = new HashSet<>();
         String orderNumber = orderList.get(0).getOrderNumber();
 
@@ -252,14 +254,6 @@ public class FileHandler {
             removeOrderFromOne(nameList.get(i), orderNumber, directory);
         }
 
-        // Update each file
-//        orderNames.forEach((date) -> {
-//            try {
-//                removeOrderFromOne(date, orderNumber, directory);
-//            } catch (BackupFileException | FileIOException | MissingFileException e) {
-//
-//            }
-//        });
     }
 
     // This method removes an order from a file by making a copy of the file, and then re-creating
@@ -270,10 +264,9 @@ public class FileHandler {
             FileIOException,
             MissingFileException {
 
-        
         int linecounter = 0;
-        Scanner sc;
-        PrintWriter out;
+        Scanner sc = null;
+        PrintWriter out = null;
         directory = directory + "/tmp/";
         new File(directory).mkdirs();
 
@@ -303,29 +296,33 @@ public class FileHandler {
                     String[] tokens = currentLine.trim().split(DELIMITER);
 
                     if (!tokens[0].equals(orderNumber)) {
-                        out.write(currentLine+"\n");
+                        out.write(currentLine + "\n");
                         linecounter = linecounter + 1;
                     }
 
                 }
 
-                out.flush();
-                out.close();  
-                sc.close();
                 // If the file is now empty, delete it
                 if (linecounter <= 1) {
                     new File(filename).delete();
                 }
 
-            // If our changes fail, we recover the original file
+                // If our changes fail, we recover the original file
             } catch (IOException e) {
                 oldFile.renameTo(new File(filename));
                 throw new FileIOException("Error writing the new file... ");
-            }
-            
+            } finally {
 
-                      
-            // Delete the temporary file if all is successful    
+                if (out != null) {
+                    out.flush();
+                    out.close();
+                }
+                if (sc != null) {
+                    sc.close();
+                }
+            }
+
+            // Delete the temporary file if all is successful               
             oldFile.delete();
         } else {
             throw new MissingFileException("No files for that date exist... ");
@@ -344,7 +341,7 @@ public class FileHandler {
             throws FileIOException,
             BackupFileException {
 
-        PrintWriter out;
+        PrintWriter out = null;
         new File(directory).mkdirs();
         new File(directory + "/tmp/").mkdirs();
         boolean header = true;
@@ -375,7 +372,7 @@ public class FileHandler {
         }
 
         // Original file has been succesfully backed up, now we can
-        // proceed with attemp to persist our changes
+        // proceed with attempt to persist our changes
         try {
 
             out = new PrintWriter(new FileWriter(filename, true));
@@ -385,40 +382,49 @@ public class FileHandler {
             }
 
             out.write(outputFormat(orderList.get(0)));
-            out.flush();
 
-        // If our changes fail, we recover the original file
+            // If our changes fail, we recover the original file
         } catch (IOException e) {
             oldFile.renameTo(file);
             throw new FileIOException("Error opening the order file... ", e);
+        } finally {
+
+            if (out != null) {
+                out.flush();
+                out.close();
+            }
+
         }
 
         // Delete the temporary file if all is successful
-        out.close();
         oldFile.delete();
 
     }
 
     public void writeAllOrders(List<Order> orderList, String filename) throws FileIOException {
-        PrintWriter out;
+        PrintWriter out = null;
         String header = "Order Number,first_name,last_name,State,Area,Material,Tax,CPSF,"
                 + "LCPSF,MaterialCost,LaborCost,TotalCost, Last Revised";
 
         try {
             out = new PrintWriter(new FileWriter(filename));
+            out.write(header + "\n");
+            for (int i = 0; i < orderList.size(); i++) {
+                Order order = orderList.get(i);
+                out.write(outputFormat(order));
+            }
         } catch (IOException e) {
             throw new FileIOException("Error opening file.  Is it open"
                     + "\nin another application? ", e);
+        } finally {
+
+            if (out != null) {
+                out.flush();
+                out.close();
+            }
+
         }
 
-        out.write(header + "\n");
-        for (int i = 0; i < orderList.size(); i++) {
-            Order order = orderList.get(i);
-            out.write(outputFormat(order));
-        }
-
-        out.flush();
-        out.close();
     }
 
     private String outputFormat(Order order) {
@@ -441,7 +447,7 @@ public class FileHandler {
     }
 
     public List<Order> readAllOrders(String userDir) {
-        
+
         return readAllOrdersFromFile(userDir, orderNumberLength);
     }
 

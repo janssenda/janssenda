@@ -23,6 +23,7 @@ import org.junit.Test;
  */
 public class FileHandlerTest {
     int orderNumberLength = 5;
+    String rootDir = "./data/orders";
 
     public FileHandlerTest() {
     }
@@ -37,16 +38,16 @@ public class FileHandlerTest {
 
     @Test
     public void testWriteAllOrdersToFile() throws Exception {
-        String dir = "./orders/test_files";
+        String dir = rootDir+"/test_files";
 
         FileHandler files = new FileHandler();
         List<Order> orders = new ArrayList<>();
 
         orders = files.readAllOrders(dir, orderNumberLength);
 
-        files.writeAllOrders(orders, "./orders/test_files/output/output_data.csv");
+        files.writeAllOrders(orders, rootDir + "/test_files/output/output_data.csv");
 
-        List<Order> ordersFromOutput = files.readAllOrders("./orders/test_files/output",orderNumberLength);
+        List<Order> ordersFromOutput = files.readAllOrders(rootDir + "/test_files/output",orderNumberLength);
 
         assertEquals(orders.get(0).hashCode(), ordersFromOutput.get(0).hashCode());
         assertTrue(orders.get(0).equals(ordersFromOutput.get(0)));
@@ -55,7 +56,7 @@ public class FileHandlerTest {
 
     @Test
     public void testReadAllOrders() throws Exception {
-        String dir = "./orders/test_files";
+        String dir = rootDir+"/test_files";
 
         FileHandler files = new FileHandler();
         List<Order> orders = new ArrayList<>();
@@ -95,7 +96,7 @@ public class FileHandlerTest {
 
     @Test
     public void testReadFileExceptions() {
-        String dir = "./orders/test_files/broken_files/";
+        String dir = rootDir+"/test_files/broken_files/";
 
         FileHandler files = new FileHandler();
         List<Order> orders = new ArrayList<>();
@@ -127,7 +128,7 @@ public class FileHandlerTest {
 
     @Test
     public void testReadMultiFileExceptions() {
-        String dir = "./orders/test_files/broken_files/";
+        String dir = rootDir+"/test_files/broken_files/";
 
         FileHandler files = new FileHandler();
         List<Order> orders = new ArrayList<>();

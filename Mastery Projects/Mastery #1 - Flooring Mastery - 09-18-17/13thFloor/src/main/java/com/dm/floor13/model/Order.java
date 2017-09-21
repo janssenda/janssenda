@@ -32,7 +32,13 @@ public class Order implements Cloneable {
 
     public Order() {
         this.orderNumber = null;
-        this.state = new State();
+        this.state = null;
+        this.product = null;
+    }
+    
+    
+    public boolean compareThisTo(Order order){
+        return this == order;
     }
 
     @Override

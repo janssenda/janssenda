@@ -6,13 +6,11 @@
 package com.dm.floor13.dao;
 
 import com.dm.floor13.model.Order;
+import com.dm.floor13.model.Product;
+import com.dm.floor13.model.State;
 import java.io.File;
-import java.io.FileNotFoundException;
 import java.io.IOException;
-import java.io.RandomAccessFile;
 import java.math.BigDecimal;
-import java.nio.channels.FileChannel;
-import java.nio.channels.FileLock;
 import java.nio.file.Files;
 import java.nio.file.StandardCopyOption;
 import java.time.LocalDate;
@@ -21,6 +19,7 @@ import java.util.List;
 import java.util.Map;
 import org.junit.After;
 import static org.junit.Assert.assertEquals;
+import static org.junit.Assert.assertFalse;
 import static org.junit.Assert.assertTrue;
 import static org.junit.Assert.fail;
 import org.junit.Before;
@@ -32,8 +31,8 @@ import org.junit.Test;
  */
 public class OrderDaoImplTest {
 
-    String dir = "./orders/test_files/daoTestData";
-    OrderDaoImpl orderDao = new OrderDaoImpl(dir + "/testData/");
+    String dir = "./data/orders/test_files/daoTestData";
+    OrderDaoImpl orderDao = new OrderDaoImpl(dir, dir + "/testData/");
     Map<String, List<Order>> orderMap;
 
     public OrderDaoImplTest() {
@@ -42,23 +41,8 @@ public class OrderDaoImplTest {
     @Before
     public void setUp() {
 
-        File folder = new File(dir + "/unModifiedData");
-        File[] listOfFiles = folder.listFiles();
+        copyDirAndFiles(dir + "/unModifiedData/", dir + "/testData/");
 
-        for (File file : listOfFiles) {
-            if (file.isDirectory()){
-                File folderSub = new File(dir + "/unModifiedData/" + file.getName());                
-            }
-            try {
-                Files.copy(file.toPath(), new File(dir + "/testData/" + file.getName())
-                        .toPath(), StandardCopyOption.REPLACE_EXISTING);
-            } catch (IOException e) {
-                fail("Setup failed");
-            }
-        }
-
-        
-        
         this.orderMap = orderDao.readAllOrdersFromDirectory();
 
     }
@@ -71,13 +55,46 @@ public class OrderDaoImplTest {
         // Cleans directory of all files
         for (File file : folder.listFiles()) {
             if (!file.isDirectory()) {
-                //file.delete();
-//                System.out.println(file.getName());
                 file.delete();
-////                file.
-////                System.out.println(file.exists());
-//                System.out.println("-----");
             }
+            if (file.isDirectory()) {
+                file.delete();
+            }
+        }
+
+    }
+
+    @Test
+    public void testReadData() {
+
+        try {
+            orderDao.readDataFromFile();
+
+        } catch (FileSkipException e) {
+            fail("File was not read");
+        }
+
+        Map<String, State> stateMap = orderDao.getStateMap();
+        Map<String, Product> productMap = orderDao.getProductMap();
+
+        assertEquals(4, stateMap.size());
+        assertEquals(4, productMap.size());
+
+        assertTrue(productMap.containsKey("Carpet"));
+        assertTrue(productMap.containsKey("Laminate"));
+        assertTrue(productMap.containsKey("Tile"));
+        assertTrue(productMap.containsKey("Wood"));
+        try {
+            State s = orderDao.getState("IN");
+            assertTrue(6.00 == s.getTaxrate().doubleValue());
+
+            Product p = orderDao.getProduct("Laminate");
+
+            assertTrue(1.75 == p.getCostpersqft().doubleValue());
+            assertTrue(2.10 == p.getLaborpersqft().doubleValue());
+            
+        } catch (MissingDataException e) {
+
         }
 
     }
@@ -94,7 +111,14 @@ public class OrderDaoImplTest {
     public void testGetOrder() {
 
         try {
-            orderDao.getOrder("16826").get(0);
+            Order order = orderDao.getOrder("16826").get(0);
+
+            // Verify that we have recieved a clone of the original order
+            assertFalse(order.compareThisTo(orderDao.getOrder("16826").get(0)));
+
+            // Verify that the clone contains the same data as the original
+            assertTrue(order.equals(orderDao.getOrder("16826").get(0)));
+
         } catch (OrderNotFoundException e) {
             fail("Order should exist");
         }
@@ -104,6 +128,122 @@ public class OrderDaoImplTest {
             fail("Order should not exist");
         } catch (OrderNotFoundException e) {
 
+        }
+
+    }
+
+//
+    @Test
+    public void testAddOrder() {
+        String newnum = "";
+        String newnum2 = "";
+        Order newOrder;
+        Order freshOrder;
+
+        // Get the order
+        try {
+            newOrder = orderDao.getOrder("16826").get(0);
+            newOrder.setFirstName("Danimae");
+            newOrder.setLastName("Janssen");
+            newOrder.setOrderNumber(null);
+            newOrder.setDate(LocalDate.now());
+            newOrder.setRevisionDate(LocalDateTime.now());
+            newOrder.recalculateData();
+
+            try {
+                newnum = orderDao.addUpdateOrder(newOrder).getOrderNumber();
+
+                // Add a second identical to the first but set null to force a new entry
+                Order new2 = orderDao.getOrder(newnum).get(0);
+                new2.setOrderNumber(null);
+                newnum2 = orderDao.addUpdateOrder(new2).getOrderNumber();
+                assertEquals(1, Integer.parseInt(newnum2) - Integer.parseInt(newnum));
+
+                Order new3 = orderDao.getOrder(newnum).get(0);
+
+                orderDao.addUpdateOrder(new3);
+                assertEquals(2, orderDao.getOrder(newnum).size());
+
+            } catch (ChangeOrderException e) {
+                fail(e.getMessage());
+            }
+
+            newOrder.setOrderNumber(newnum);
+            assertEquals(2, orderDao.getOrder(newnum).size());
+            freshOrder = orderDao.getOrder(newnum).get(0);
+
+            assertEquals(freshOrder, newOrder);
+
+            // Make sure order is present in files
+            orderMap.clear();
+            orderMap = orderDao.readAllOrdersFromDirectory();
+
+            try {
+                orderDao.getOrder(newnum);
+            } catch (OrderNotFoundException e) {
+                fail("Was not present in files");
+            }
+
+        } catch (OrderNotFoundException e) {
+            fail("Order should exist");
+        }
+
+    }
+
+    @Test
+    public void testUpdateOrder() {
+        String ordernum = "";
+        String ordertochange = "16826";
+        String oldName;
+        Order newOrder;
+
+        // Get the order
+        try {
+            newOrder = orderDao.getOrder(ordertochange).get(0);
+            oldName = newOrder.getFirstName();
+            newOrder.setFirstName("Danimae");
+            newOrder.setLastName("Janssen");
+            newOrder.setRevisionDate(LocalDateTime.now());
+            newOrder.recalculateData();
+
+            assertEquals(1, orderDao.getOrder(ordertochange).size());
+
+            try {
+                ordernum = orderDao.addUpdateOrder(newOrder).getOrderNumber();
+            } catch (ChangeOrderException e) {
+                fail(e.getMessage());
+            }
+
+            assertEquals(ordernum, newOrder.getOrderNumber());
+            assertEquals(2, orderDao.getOrder(ordertochange).size());
+
+            LocalDateTime rev1, rev2;
+            Order order0 = orderDao.getOrder(ordertochange).get(0);
+            Order order1 = orderDao.getOrder(ordertochange).get(1);
+
+            rev1 = order1.getRevisionDate();
+            rev2 = order0.getRevisionDate();
+
+            assertEquals(-1, rev1.compareTo(rev2));
+
+            assertEquals(oldName, order1.getFirstName());
+            assertEquals("Danimae", order0.getFirstName());
+
+            // Make sure order is present in files
+            orderMap.clear();
+            orderMap = orderDao.readAllOrdersFromDirectory();
+
+            try {
+                List<Order> fromfile = orderDao.getOrder(ordernum);
+
+                assertEquals(fromfile.get(0), order0);
+                assertEquals(fromfile.get(1), order1);
+
+            } catch (OrderNotFoundException e) {
+                fail("Was not present in files");
+            }
+        } catch (OrderNotFoundException e) {
+            fail("Order should exist");
         }
 
     }
@@ -121,8 +261,7 @@ public class OrderDaoImplTest {
         // Issue removal command
         try {
             orderDao.removeOrder("16826");
-        } catch (BackupFileException | FileIOException
-                | MissingFileException | OrderNotFoundException e) {
+        } catch (ChangeOrderException | OrderNotFoundException e) {
             fail(e.getMessage());
         }
 
@@ -165,8 +304,7 @@ public class OrderDaoImplTest {
         try {
             orderDao.removeOrder("00001");
             fail("This order does not exist");
-        } catch (BackupFileException | FileIOException
-                | MissingFileException | OrderNotFoundException e) {
+        } catch (ChangeOrderException | OrderNotFoundException e) {
             assertEquals(e.getClass(), OrderNotFoundException.class);
         }
 
@@ -178,133 +316,37 @@ public class OrderDaoImplTest {
             assertEquals(e.getClass(), OrderNotFoundException.class);
         }
 
-        // Issue order removal command but lock the destination file
-        // to force a BackupFileException
-        File lockedfile = new File(dir + "/testData/tmp/" + "55041_temp.csv");
-
+        // Issue nonexistent order removal command
         try {
-            // Lock the destination file
-            RandomAccessFile raf = new RandomAccessFile(lockedfile, "rw");
-            FileChannel fc = raf.getChannel();
-            FileLock fl = fc.tryLock();
-
-            try {
-                orderDao.removeOrder("55041");
-                fail("Backup should have been locked");
-            } catch (BackupFileException | FileIOException
-                    | MissingFileException | OrderNotFoundException e) {
-                assertEquals(e.getClass(), BackupFileException.class);
-            }
-            
-            fl.release();
-
-        } catch (IOException e) {
-
+            orderDao.removeOrder("16826");
+            orderDao.removeOrder("16826");
+            fail("This order does not exist");
+        } catch (ChangeOrderException | OrderNotFoundException e) {
+            assertEquals(e.getClass(), OrderNotFoundException.class);
         }
 
-    }
-
+//        // Issue order removal command but lock the destination file
+//        // to force a BackupFileException
+//        File lockedfile = new File(dir + "/testData/tmp/" + "55045_temp.csv");
 //
-    @Test
-    public void testAddOrder() {
-        String newnum = "";
-        Order newOrder;
-        Order freshOrder;
-
-        // Get the order
-        try {
-            newOrder = orderDao.getOrder("16826").get(0);
-            newOrder.setFirstName("Danimae");
-            newOrder.setLastName("Janssen");
-            newOrder.setOrderNumber(null);
-            newOrder.setDate(LocalDate.now());
-            newOrder.setRevisionDate(LocalDateTime.now());
-            newOrder.recalculateData();
-
-            try {
-                newnum = orderDao.AddUpdateOrder(newOrder);
-            } catch (BackupFileException | FileIOException e) {
-                fail(e.getMessage());
-            }
-
-            newOrder.setOrderNumber(newnum);
-            assertEquals(1, orderDao.getOrder(newnum).size());
-            freshOrder = orderDao.getOrder(newnum).get(0);
-
-            assertEquals(freshOrder, newOrder);
-
-            // Make sure order is present in files
-            orderMap.clear();
-            orderMap = orderDao.readAllOrdersFromDirectory();
-
-            try {
-                orderDao.getOrder(newnum);
-            } catch (OrderNotFoundException e) {
-                fail("Was not present in files");
-            }
-
-        } catch (OrderNotFoundException e) {
-            fail("Order should exist");
-        }
-
-    }
-
-    @Test
-    public void testUpdateOrder() {
-        String ordernum = "";
-        String ordertochange = "16826";
-        String oldName;
-        Order newOrder;
-
-        // Get the order
-        try {
-            newOrder = orderDao.getOrder(ordertochange).get(0);
-            oldName = newOrder.getFirstName();
-            newOrder.setFirstName("Danimae");
-            newOrder.setLastName("Janssen");
-            newOrder.setRevisionDate(LocalDateTime.now());
-            newOrder.recalculateData();
-
-            assertEquals(1, orderDao.getOrder(ordertochange).size());
-
-            try {
-                ordernum = orderDao.AddUpdateOrder(newOrder);
-            } catch (BackupFileException | FileIOException e) {
-                fail(e.getMessage());
-            }
-
-            assertEquals(ordernum, newOrder.getOrderNumber());
-            assertEquals(2, orderDao.getOrder(ordertochange).size());
-
-            LocalDateTime rev1, rev2;
-            Order order0 = orderDao.getOrder(ordertochange).get(0);
-            Order order1 = orderDao.getOrder(ordertochange).get(1);
-
-            rev1 = order1.getRevisionDate();
-            rev2 = order0.getRevisionDate();
-
-            assertEquals(-1, rev1.compareTo(rev2));
-
-            assertEquals(oldName, order1.getFirstName());
-            assertEquals("Danimae", order0.getFirstName());
-
-            // Make sure order is present in files
-            orderMap.clear();
-            orderMap = orderDao.readAllOrdersFromDirectory();
-
-            try {
-                List<Order> fromfile = orderDao.getOrder(ordernum);
-
-                assertEquals(fromfile.get(0), order0);
-                assertEquals(fromfile.get(1), order1);
-
-            } catch (OrderNotFoundException e) {
-                fail("Was not present in files");
-            }
-        } catch (OrderNotFoundException e) {
-            fail("Order should exist");
-        }
-
+//        try {
+//            // Lock the destination file
+//            RandomAccessFile raf = new RandomAccessFile(lockedfile, "rw");
+//            FileChannel fc = raf.getChannel();
+//            FileLock fl = fc.tryLock();    
+//        try {
+//            orderDao.removeOrder("55041");
+//                fail("Backup should have been locked");
+//        } catch (BackupFileException | FileIOException
+//                | MissingFileException | OrderNotFoundException e) {
+//            assertEquals(e.getClass(), BackupFileException.class);
+//        }
+//            
+//            fl.release();
+//
+//        } catch (IOException e) {
+//
+//        }
     }
 //
 //    @Test
@@ -334,6 +376,31 @@ public class OrderDaoImplTest {
 //    @Test
 //    public void testWriteOrdersToDirectory() {
 //    }
+
+    public void copyDirAndFiles(String base, String target) {
+
+        new File(target).mkdirs();
+        File folder = new File(base);
+        File[] listOfFiles = folder.listFiles();
+
+        for (File file : listOfFiles) {
+            if (file.isDirectory()) {
+                copyDirAndFiles(file.toString() + "/", target + file.getName() + "/");
+            } else {
+
+                try {
+
+                    Files.copy(file.toPath(), new File(target + file.getName())
+                            .toPath(), StandardCopyOption.REPLACE_EXISTING);
+
+                } catch (IOException e) {
+                    fail("Setup failed");
+                }
+            }
+
+        }
+
+    }
 
     public boolean validateOrderList(List<Order> orderList) {
 
