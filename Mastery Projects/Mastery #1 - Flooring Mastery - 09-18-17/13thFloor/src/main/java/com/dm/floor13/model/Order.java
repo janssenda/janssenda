@@ -14,7 +14,7 @@ import java.util.Objects;
  *
  * @author danimaetrix
  */
-public class Order {
+public class Order implements Cloneable {
 
     private String orderNumber;
     private String firstName;
@@ -33,6 +33,17 @@ public class Order {
     public Order() {
         this.orderNumber = null;
         this.state = new State();
+    }
+
+    @Override
+    public Order clone() {
+        Order newOrder;
+        try {
+            newOrder = (Order) super.clone();
+        } catch (CloneNotSupportedException e) {
+            newOrder = null;
+        }
+        return newOrder;
     }
 
     public BigDecimal getMaterialCost() {

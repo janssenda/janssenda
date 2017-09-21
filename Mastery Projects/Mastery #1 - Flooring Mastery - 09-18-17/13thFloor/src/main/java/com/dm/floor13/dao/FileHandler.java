@@ -310,7 +310,8 @@ public class FileHandler {
                 }
 
                 out.flush();
-                
+                out.close();  
+                sc.close();
                 // If the file is now empty, delete it
                 if (linecounter <= 1) {
                     new File(filename).delete();
@@ -323,9 +324,8 @@ public class FileHandler {
             }
             
 
-            out.close();            
+                      
             // Delete the temporary file if all is successful    
-
             oldFile.delete();
         } else {
             throw new MissingFileException("No files for that date exist... ");

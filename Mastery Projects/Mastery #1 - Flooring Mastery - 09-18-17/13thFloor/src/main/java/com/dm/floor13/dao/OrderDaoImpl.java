@@ -39,7 +39,7 @@ public class OrderDaoImpl {
     public Map<String, List<Order>> readAllOrdersFromDirectory() {
 
         FileHandler orderHandler = new FileHandler(currentDir);
-        
+
         List<Order> orders = orderHandler.readAllOrders(currentDir, orderNumberLength);
 
         this.orderMap = orders.stream().sorted((o1, o2)
@@ -55,8 +55,15 @@ public class OrderDaoImpl {
     // not exist in the map, it should not exist in the file database since the two are
     // linked in real time.  Throws an exception if the order does not exist.
     public List<Order> getOrder(String orderNumber) throws OrderNotFoundException {
+        List<Order> clonedOrderList = new ArrayList<>();
+        List<Order> originalOrderList;
         if (orderMap.containsKey(orderNumber)) {
-            return orderMap.get(orderNumber);
+            originalOrderList = orderMap.get(orderNumber);
+            
+            for (int i = 0; i < originalOrderList.size(); i++){
+                clonedOrderList.add(originalOrderList.get(i).clone());
+            }                       
+            return clonedOrderList;
         } else {
             throw new OrderNotFoundException("Error: order does not exist...");
         }
@@ -74,13 +81,12 @@ public class OrderDaoImpl {
             BackupFileException,
             FileIOException,
             MissingFileException {
-        
 
         if (orderMap.containsKey(orderNumber)) {
             FileHandler orderHandler = new FileHandler(currentDir);
-            List<Order> orderList = orderMap.get(orderNumber);            
-            orderHandler.removeOrderFromAll(orderList, currentDir);            
-            orderMap.remove(orderNumber);     
+            List<Order> orderList = orderMap.get(orderNumber);
+            orderHandler.removeOrderFromAll(orderList, currentDir);
+            orderMap.remove(orderNumber);
 
         } else {
             throw new OrderNotFoundException("Error: order does not exist...");
@@ -94,15 +100,15 @@ public class OrderDaoImpl {
     // the file handler is used to safely add data to existing files for the order date,
     // or create a new file if the date does not exist. A new order number is generated and
     // and assigned to the order if it does not contain one
-    public String AddUpdateOrder(String orderNumber, Order order) throws
+    public String AddUpdateOrder(Order order) throws
             FileIOException,
             BackupFileException {
-
+            
         if (order.getOrderNumber() == null || !orderMap.containsKey(order.getOrderNumber())) {
             List<Order> newOrder = new ArrayList<>();
             order.setOrderNumber(Integer.toString(currentOrderNumber + 1));
             newOrder.add(order);
-            orderMap.put(orderNumber, newOrder);
+            orderMap.put(order.getOrderNumber(), newOrder);
             writeSingleOrderToDirectory(newOrder, "");
             currentOrderNumber = currentOrderNumber + 1;
 
