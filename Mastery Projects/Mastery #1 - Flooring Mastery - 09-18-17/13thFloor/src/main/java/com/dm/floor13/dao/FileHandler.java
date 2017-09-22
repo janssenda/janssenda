@@ -463,10 +463,10 @@ public class FileHandler {
         File[] listOfFiles = folder.listFiles();
 
         for (File file : listOfFiles) {
-            if (file.isFile()) {
+            if (file.isFile() && !file.isDirectory()) {
                 try {
                     allOrders.addAll(readOrdersFromSingleFile(file, orderNumberLength));
-                } catch (FileSkipException | MissingFileException e) {
+                } catch (FileSkipException | MissingFileException e) {                    
                     skippedFileCount = skippedFileCount + 1;
                 }
             }
@@ -554,11 +554,12 @@ public class FileHandler {
 
             }
 
-            if (orderList.isEmpty()) {
+            if (orderList.isEmpty()) {                
                 throw new FileSkipException("Error reading file: empty or corrupt ");
             }
 
         } catch (Exception e) {
+            scanner.close();
             // Skips the entire file if there are no valid lines
             throw new FileSkipException("Error reading file: empty or corrupt ", e);
         }

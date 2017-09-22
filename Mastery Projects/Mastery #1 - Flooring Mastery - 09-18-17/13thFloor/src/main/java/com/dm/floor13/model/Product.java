@@ -12,7 +12,7 @@ import java.util.Objects;
  *
  * @author Danimaetrix
  */
-public class Product {
+public class Product implements Cloneable {
 
     private String productName;
     private BigDecimal costpersqft;
@@ -20,8 +20,29 @@ public class Product {
 
     public Product(String productName) {
         this.productName = productName;
-        this.costpersqft = BigDecimal.ZERO;
-        this.laborpersqft = BigDecimal.ZERO;
+        this.costpersqft = null;
+        this.laborpersqft = null;
+    }
+
+    public Product() {
+        this.productName = null;
+        this.costpersqft = null;
+        this.laborpersqft = null;
+    }
+
+    public boolean compareThisTo(Product product) {
+        return this == product;
+    }
+
+    @Override
+    public Product clone() {
+        Product newProduct;
+        try {
+            newProduct = (Product) super.clone();
+        } catch (CloneNotSupportedException e) {
+            newProduct = null;
+        }
+        return newProduct;
     }
 
     public String getProductName() {

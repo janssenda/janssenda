@@ -31,9 +31,15 @@ public class Order implements Cloneable {
     private BigDecimal totalCost;
 
     public Order() {
+        this.area = BigDecimal.ZERO;
+        this.date = LocalDate.MIN;
         this.orderNumber = null;
         this.state = null;
         this.product = null;
+        this.totalCost = null;
+        this.laborCost = null;
+        this.materialCost = null;
+        this.revisionDate = null;
     }
     
     

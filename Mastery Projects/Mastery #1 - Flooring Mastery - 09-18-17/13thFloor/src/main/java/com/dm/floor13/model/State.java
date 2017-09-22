@@ -12,20 +12,41 @@ import java.util.Objects;
  *
  * @author Danimaetrix
  */
-public class State {
+public class State implements Cloneable {
+
     private String stateCode;
     private BigDecimal taxRate;
 
-    public State(String stateCode, BigDecimal taxRate){
+    public State(String stateCode, BigDecimal taxRate) {
         this.stateCode = stateCode;
         this.taxRate = taxRate;
     }
-    
-    public State(){
+
+    public State(String stateCode) {
+        this.stateCode = stateCode;
+        this.taxRate = null;
+    }
+
+    public State() {
         this.stateCode = "";
         this.taxRate = null;
     }
-    
+
+    public boolean compareThisTo(State state) {
+        return this == state;
+    }
+
+    @Override
+    public State clone() {
+        State newState;
+        try {
+            newState = (State) super.clone();
+        } catch (CloneNotSupportedException e) {
+            newState = null;
+        }
+        return newState;
+    }
+
     public String getStateCode() {
         return stateCode;
     }
@@ -70,5 +91,5 @@ public class State {
         }
         return true;
     }
-    
+
 }

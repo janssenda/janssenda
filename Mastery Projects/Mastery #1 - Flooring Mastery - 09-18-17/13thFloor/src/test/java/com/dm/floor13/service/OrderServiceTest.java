@@ -11,17 +11,20 @@ import com.dm.floor13.dao.MissingDataException;
 import com.dm.floor13.dao.OrderDaoImpl;
 import com.dm.floor13.dao.OrderNotFoundException;
 import com.dm.floor13.model.Order;
+import com.dm.floor13.model.Product;
+import com.dm.floor13.model.State;
 import java.io.File;
 import java.io.IOException;
 import java.math.BigDecimal;
 import java.nio.file.Files;
 import java.nio.file.StandardCopyOption;
+import java.time.LocalDate;
 import java.util.List;
 import org.junit.After;
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertFalse;
-import static org.junit.Assert.assertNotEquals;
 import static org.junit.Assert.assertNotNull;
+import static org.junit.Assert.assertNull;
 import static org.junit.Assert.assertTrue;
 import static org.junit.Assert.fail;
 import org.junit.Before;
@@ -62,6 +65,158 @@ public class OrderServiceTest {
             if (file.isDirectory()) {
                 file.delete();
             }
+        }
+
+    }
+
+    @Test
+    public void testPopulate() {
+
+        Order o = new Order();
+
+        o.setFirstName("Danimae");
+        o.setLastName("Vostrikov");
+        o.setDate(LocalDate.now());
+        o.setArea(new BigDecimal("1000"));
+
+        State st = new State("IN");
+        Product p = new Product("Tile");
+
+        o.setState(st);
+        o.setProduct(p);
+
+        assertTrue(service.validateOrder(o));
+        assertNull(o.getState().getTaxrate());
+        assertNull(o.getProduct().getCostpersqft());
+        assertNull(o.getTotalCost());
+        assertNull(o.getRevisionDate());
+
+        service.populateOrder(o);
+
+        assertTrue(service.validateOrder(o));
+        assertNotNull(o.getState().getTaxrate());
+        assertNotNull(o.getProduct().getCostpersqft());
+        assertNotNull(o.getTotalCost());
+        assertNotNull(o.getRevisionDate());
+    }
+
+    @Test
+    public void testPopulateExisting() {
+
+//        Order o = new Order();
+//
+//        o.setOrderNumber("62052");
+//        o.setFirstName("Danimae");
+//        o.setLastName("Vostrikov");
+//        o.setDate(LocalDate.now());
+//        o.setArea(new BigDecimal("1000"));
+//
+////        State st = new State("IN");
+////        Product p = new Product("Tile");
+////
+////        o.setState(st);
+////        o.setProduct(p);
+//
+//
+//        assertTrue(service.validateOrder(o));
+//        assertNull(o.getState().getTaxrate());
+//        assertNull(o.getProduct().getCostpersqft());
+//        assertNull(o.getTotalCost());
+//        assertNull(o.getRevisionDate());
+//
+//        service.populateOrder(o);
+//
+//        assertTrue(service.validateOrder(o));
+//        assertNotNull(o.getState().getTaxrate());
+//        assertNotNull(o.getProduct().getCostpersqft());
+//        assertNotNull(o.getTotalCost());
+//        assertNotNull(o.getRevisionDate());
+    }
+
+    @Test
+    public void TestValidate() {
+
+        try {
+            // Test state validation            
+            Order o;
+
+            o = service.getOrder("62052").get(0);
+            assertTrue(service.validateOrder(o));
+
+            o.getState().setStateCode("ZZ");
+            assertFalse(service.validateOrder(o));
+
+            o = service.getOrder("62052").get(0);
+            assertTrue(service.validateOrder(o));
+            o.setState(null);
+            assertFalse(service.validateOrder(o));
+
+            o = service.getOrder("62052").get(0);
+            assertTrue(service.validateOrder(o));
+            o.getProduct().setProductName("ajksdhajks");
+            assertFalse(service.validateOrder(o));
+
+        } catch (OrderNotFoundException e) {
+            fail("Order should exist");
+        }
+
+    }
+
+    @Test
+    public void TestValidateExisting() {
+
+        try {
+            // Test state validation            
+            Order o, o2;
+
+            o = service.getOrder("62052").get(0);
+            o2 = service.getOrder("62052").get(0);
+            assertTrue(service.validateOrder(o));
+
+            // Validate that we recover the original name if
+            // only whitespace characters are entered
+            o = service.getOrder("62052").get(0);
+            assertTrue(service.validateOrder(o));
+            o.setFirstName("");
+            assertEquals(o.getFirstName(), "");
+
+            service.validateOrder(o);
+            assertEquals(o.getFirstName(), o2.getFirstName());
+
+            // Validate that we recover the original name if
+            // only whitespace characters are entered
+            o = service.getOrder("62052").get(0);
+            assertTrue(service.validateOrder(o));
+            o.setFirstName("\t \n");
+            assertEquals(o.getFirstName(), "\t \n");
+
+            service.validateOrder(o);
+            assertEquals(o.getFirstName(), o2.getFirstName());
+
+            // Validate that we return the original date
+            // if a date before 01/01/1975 is entered            
+            o = service.getOrder("62052").get(0);
+            assertTrue(service.validateOrder(o));
+            LocalDate d = LocalDate.of(1974, 12, 31);
+            o.setDate(d);
+            assertEquals(o.getDate(), d);
+
+            service.validateOrder(o);
+            assertEquals(o.getDate(), o2.getDate());
+
+            // Validate that we return the original value
+            // for negative area            
+            o = service.getOrder("62052").get(0);
+            assertTrue(service.validateOrder(o));
+            BigDecimal area = new BigDecimal("-10");
+            o.setArea(area);
+            assertEquals(o.getArea(), area);
+
+            service.validateOrder(o);
+            assertEquals(o.getArea(), o2.getArea());
+
+        } catch (OrderNotFoundException e) {
+            fail("Order should exist");
         }
 
     }

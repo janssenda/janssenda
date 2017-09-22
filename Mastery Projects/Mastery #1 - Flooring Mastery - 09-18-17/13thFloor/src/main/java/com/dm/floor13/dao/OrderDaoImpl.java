@@ -97,7 +97,13 @@ public class OrderDaoImpl {
             originalOrderList = orderMap.get(orderNumber);
 
             for (int i = 0; i < originalOrderList.size(); i++) {
-                clonedOrderList.add(originalOrderList.get(i).clone());
+                Order base = originalOrderList.get(i);
+                Order clone = originalOrderList.get(i).clone();
+                
+                clone.setState(base.getState().clone());
+                clone.setProduct(base.getProduct().clone());
+                
+                clonedOrderList.add(clone);
             }
             return clonedOrderList;
         } else {
