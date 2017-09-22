@@ -8,6 +8,7 @@ package com.danimaetrix.library.io;
 import java.util.Scanner;
 import java.io.Console;
 import java.math.BigDecimal;
+import java.time.LocalDate;
 
 /**
  *
@@ -31,7 +32,12 @@ public class UserIoConsoleImpl implements UserIo {
 // | |   | |  | | | | | |_ 
 // |_|   |_|  |_|_| |_|\__|
 //                         
-//                         
+//          
+    @Override
+    public void line() {
+        System.out.println("");
+    }
+
     @Override
     public void print(String msg) {
         System.out.println(msg);
@@ -392,6 +398,16 @@ public class UserIoConsoleImpl implements UserIo {
             String userinput = sc.nextLine();
             return userinput;
         }
+    }
+
+    @Override
+    public LocalDate readDate() {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
+
+    @Override
+    public LocalDate readDate(String msg) {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
     }
 
 }

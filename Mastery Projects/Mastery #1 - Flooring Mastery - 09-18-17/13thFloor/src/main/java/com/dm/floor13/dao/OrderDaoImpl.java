@@ -5,10 +5,12 @@
  */
 package com.dm.floor13.dao;
 
+import com.dm.floor13.exceptions.MissingFileException;
+import com.dm.floor13.exceptions.ChangeOrderException;
+import com.dm.floor13.exceptions.OrderNotFoundException;
+import com.dm.floor13.exceptions.FileIOException;
+import com.dm.floor13.exceptions.BackupFileException;
 import com.dm.floor13.model.Order;
-import com.dm.floor13.model.Product;
-import com.dm.floor13.model.State;
-import java.math.BigDecimal;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;
@@ -18,11 +20,10 @@ import java.util.stream.Collectors;
  *
  * @author danimaetrix
  */
-public class OrderDaoImpl {
+public class OrderDaoImpl implements OrderDao {
 
-    private Map<String, State> stateMap;
+ 
     private Map<String, List<Order>> orderMap;
-    private Map<String, Product> productMap;
     private int orderNumberLength;
     private String currentDir, currentRoot;
     private int currentOrderNumber;
@@ -39,39 +40,12 @@ public class OrderDaoImpl {
         this.orderNumberLength = 5;
     }
 
-    public void readDataFromFile() throws FileSkipException {
-        FileHandler orderHandler = new FileHandler(currentRoot);
-        Map<String, State> stateMap = null;
-        Map<String, Product> productMap = null;
-
-        try {
-            stateMap = orderHandler.readTaxesFromFile(currentRoot + "/Taxes.txt");
-        } catch (FileIOException e) {
-            throw new FileSkipException("Tax file was not read - blank, in use, or corrupt...");
-        }
-
-        if (stateMap.isEmpty()) {
-            throw new FileSkipException("Tax file was not read - blank, in use, or corrupt...");
-        }
-
-        try {
-            productMap = orderHandler.readProductsFromFile(currentRoot + "/Products.txt");
-        } catch (FileIOException e) {
-            throw new FileSkipException("Products file was not read - blank, in use, or corrupt...");
-        }
-
-        if (productMap.isEmpty()) {
-            throw new FileSkipException("Productsfile was not read - blank, in use, or corrupt...");
-        }
-
-        this.productMap = productMap;
-        this.stateMap = stateMap;
-    }
 
     // Reads all orders in the current directory, and sorts them according to order number,
     // and then by revision date.  The result is a map of List<Order> that are keyed by order date,
     // and each list contains all the order revisions from latest (0) to oldest (N).  Upon
     // first read of a data set, the order global current order number is updated.
+    @Override
     public Map<String, List<Order>> readAllOrdersFromDirectory() {
 
         FileHandler orderHandler = new FileHandler(currentDir);
@@ -90,6 +64,7 @@ public class OrderDaoImpl {
     // Used to safely fetch an order from the map. It is assumed that if the order does
     // not exist in the map, it should not exist in the file database since the two are
     // linked in real time.  Throws an exception if the order does not exist.
+    @Override
     public List<Order> getOrder(String orderNumber) throws OrderNotFoundException {
         List<Order> clonedOrderList = new ArrayList<>();
         List<Order> originalOrderList;
@@ -99,10 +74,10 @@ public class OrderDaoImpl {
             for (int i = 0; i < originalOrderList.size(); i++) {
                 Order base = originalOrderList.get(i);
                 Order clone = originalOrderList.get(i).clone();
-                
+
                 clone.setState(base.getState().clone());
                 clone.setProduct(base.getProduct().clone());
-                
+
                 clonedOrderList.add(clone);
             }
             return clonedOrderList;
@@ -118,6 +93,7 @@ public class OrderDaoImpl {
     // revision and constructing the filenames.  If the file removal is successful,
     // the order data is also removed from the map.  All files are backed up in real
     // time to prevent data loss during modification.
+    @Override
     public void removeOrder(String orderNumber) throws OrderNotFoundException, ChangeOrderException {
 
         if (orderMap.containsKey(orderNumber)) {
@@ -149,6 +125,7 @@ public class OrderDaoImpl {
     // the file handler is used to safely add data to existing files for the order date,
     // or create a new file if the date does not exist. A new order number is generated and
     // and assigned to the order if it does not contain one
+    @Override
     public Order addUpdateOrder(Order order) throws ChangeOrderException {
 
         if (!orderExists(order.getOrderNumber())) {
@@ -208,6 +185,7 @@ public class OrderDaoImpl {
     // Updates the current order number by finding the maximum value of order
     // numbers in the map.  Runs at startup and generally does not need to be 
     // re-run, since currentOrderNumber is auto-updated with new entries
+    
     public void updateCurrentOrderNumber() {
 
         this.currentOrderNumber = orderMap.keySet()
@@ -233,47 +211,19 @@ public class OrderDaoImpl {
 
     }
 
-    public BigDecimal getStateTaxRate(String st) {
-        if (stateMap.containsKey(st)) {
-            return stateMap.get(st).getTaxrate();
-        } else {
-            return null;
-        }
-    }
-
+    
+    @Override
     public boolean orderExists(String orderNumber) {
         return orderMap.containsKey(orderNumber);
     }
 
-    public boolean isState(String stateCode) {
-        return stateMap.containsKey(stateCode);
-    }
-
-    public boolean isProduct(String productName) {
-        return productMap.containsKey(productName);
-    }
-
-    public State getState(String stateCode) throws MissingDataException {
-        if (stateMap.containsKey(stateCode)) {
-            return stateMap.get(stateCode);
-        } else {
-            throw new MissingDataException("That state was not recognized...");
-        }
-    }
-
-    public Product getProduct(String productName) throws MissingDataException {
-        if (productMap.containsKey(productName)) {
-            return productMap.get(productName);
-        } else {
-            throw new MissingDataException("That product was not recognized...");
-        }
-    }
-
+    
     // Fetches the current order number
     public int getCurrentOrderNumber() {
         return this.currentOrderNumber;
     }
 
+    
     // Current working directory
     public String getcurrentDir() {
         return currentDir;
@@ -283,26 +233,22 @@ public class OrderDaoImpl {
         this.currentDir = directory;
     }
 
+    
     public int getOrderNumberLength() {
         return orderNumberLength;
     }
 
+    
     public void setOrderNumberLength(int orderNumberLength) {
         this.orderNumberLength = orderNumberLength;
     }
 
+ 
     public void writeOrdersToDirectory(String path) {
         FileHandler orderHandler = new FileHandler(currentDir);
         orderHandler.writeAllOrdersSplitFilesByDate(orderMap, currentDir + path + "/");
     }
 
-    public Map<String, State> getStateMap() {
-        return stateMap;
-    }
-
-    public void setTaxMap(Map<String, State> taxMap) {
-        this.stateMap = taxMap;
-    }
 
     public Map<String, List<Order>> getOrderMap() {
         return orderMap;
@@ -312,23 +258,10 @@ public class OrderDaoImpl {
         this.orderMap = orderMap;
     }
 
-    public Map<String, Product> getProductMap() {
-        return productMap;
-    }
-
-    public void setProductMap(Map<String, Product> productMap) {
-        this.productMap = productMap;
-    }
 
     public int getOrderMapSize() {
         return orderMap.size();
     }
 
-    public int getStateMapSize() {
-        return stateMap.size();
-    }
 
-    public int getProductMapSize() {
-        return productMap.size();
-    }
 }

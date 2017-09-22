@@ -5,10 +5,16 @@
  */
 package com.dm.floor13.service;
 
-import com.dm.floor13.dao.ChangeOrderException;
-import com.dm.floor13.dao.MissingDataException;
+import com.dm.floor13.dao.OrderDao;
+import com.dm.floor13.exceptions.ChangeOrderException;
+import com.dm.floor13.exceptions.FileSkipException;
+import com.dm.floor13.exceptions.MissingDataException;
 import com.dm.floor13.dao.OrderDaoImpl;
-import com.dm.floor13.dao.OrderNotFoundException;
+import com.dm.floor13.dao.ProductDataDao;
+import com.dm.floor13.exceptions.OrderNotFoundException;
+import com.dm.floor13.dao.ProductDataDaoImpl;
+import com.dm.floor13.dao.StateDataDao;
+import com.dm.floor13.dao.StateDataDaoImpl;
 import com.dm.floor13.model.Order;
 import com.dm.floor13.model.Product;
 import com.dm.floor13.model.State;
@@ -21,66 +27,64 @@ import java.util.List;
  *
  * @author danimaetrix
  */
-public class OrderServiceImpl {
+public class OrderServiceImpl implements OrderService {
 
-    OrderDaoImpl orderDao;
+    OrderDao orderDao;
+    ProductDataDao productDao;
+    StateDataDao stateDao;
 
-    public OrderServiceImpl(OrderDaoImpl dao) {
-        this.orderDao = dao;
+    public OrderServiceImpl(OrderDao orderDao,
+            StateDataDao stateDao,
+            ProductDataDao productDao) {
+
+        this.orderDao = orderDao;
+        this.stateDao = stateDao;
+        this.productDao = productDao;
+
+        loadData();
     }
 
+    private void loadData() {
+
+        try {
+            orderDao.readAllOrdersFromDirectory();
+            stateDao.readDataFromFile();
+            productDao.readDataFromFile();
+        } catch (FileSkipException e) {
+
+        }
+    }
+
+    @Override
+    public void fetchOrders() {
+
+    }
+
+    @Override
     public Order addUpdateOrder(Order order) throws ChangeOrderException {
+        populateOrder(order);
         return orderDao.addUpdateOrder(order);
     }
 
+    @Override
     public boolean removeOrder(String orderNumber) throws OrderNotFoundException,
             ChangeOrderException {
 
         orderDao.removeOrder(orderNumber);
+        if (orderDao.orderExists(orderNumber)) {
+            return false;
+        }
+        
         return true;
 
     }
 
+    @Override
     public List<Order> getOrder(String orderNumber) throws OrderNotFoundException {
         return orderDao.getOrder(orderNumber);
     }
 
-    public Order populateOrder(Order order) {
-        boolean exists = orderDao.orderExists(order.getOrderNumber());
-        boolean updateState = !exists;
-        boolean updateProduct = updateState;
-
-//        try {
-//            if (exists && orderDao.getOrder(order.getOrderNumber()).size() > 1) {
-//
-//                if (order.getState().equals(order)) {
-//
-//                }
-//
-//            }
-//        } catch (OrderNotFoundException e) {
-//
-//        }
-
-        if (!exists) {
-            try {
-                String stateCode = order.getState().getStateCode();
-                order.setState(orderDao.getState(stateCode));
-
-                String productName = order.getProduct().getProductName();
-                order.setProduct(orderDao.getProduct(productName));
-
-                order.setRevisionDate(LocalDateTime.now());
-
-            } catch (MissingDataException e) {
-                // data integrity is verified in the validation step, therefore
-                // this catch should never be reached
-            }
-        }
-        order.recalculateData();
-        return order;
-    }
-
+    @Override
     public boolean validateOrder(Order order) {
         boolean exists = orderDao.orderExists(order.getOrderNumber());
 
@@ -135,16 +139,62 @@ public class OrderServiceImpl {
         Product p = order.getProduct();
         State s = order.getState();
 
-        if (!orderDao.isProduct(p.getProductName())) {
+        if (!productDao.isProduct(p.getProductName())) {
             return false;
         }
 
-        if (!orderDao.isState(s.getStateCode())) {
+        if (!stateDao.isState(s.getStateCode())) {
             return false;
         }
+        
+        populateOrder(order);
 
         return true;
 
+    }
+
+    public Order populateOrder(Order order) {
+        boolean exists = orderDao.orderExists(order.getOrderNumber());
+
+        if (!exists) {
+            try {
+                String stateCode = order.getState().getStateCode();
+                order.setState(stateDao.getState(stateCode));
+
+                String productName = order.getProduct().getProductName();
+                order.setProduct(productDao.getProduct(productName));
+            } catch (MissingDataException e) {
+                // data integrity is verified in the validation step, therefore
+                // this catch should never be reached
+            }
+        } else {
+
+            // We check to see if the state or product were changed. If so, we need to update
+            // the values.  Otherwise, we do not want to change these when we update the order
+            try {
+                Order oldOrder = orderDao.getOrder(order.getOrderNumber()).get(0);
+
+                if (!order.getState().getStateCode().equals(oldOrder.getState().getStateCode())) {
+
+                    String stateCode = order.getState().getStateCode();
+                    order.setState(stateDao.getState(stateCode));
+                }
+
+                if (!order.getProduct().getProductName().equals(oldOrder.getProduct().getProductName())) {
+                    String productName = order.getProduct().getProductName();
+                    order.setProduct(productDao.getProduct(productName));
+                }
+
+            } catch (OrderNotFoundException | MissingDataException e) {
+                // data integrity is verified in the validation step, therefore
+                // this catch should never be reached
+            }
+
+        }
+
+        order.setRevisionDate(LocalDateTime.now());
+        order.recalculateData();
+        return order;
     }
 
 }

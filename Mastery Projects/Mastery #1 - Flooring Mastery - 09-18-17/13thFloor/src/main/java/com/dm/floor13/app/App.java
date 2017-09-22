@@ -5,11 +5,18 @@
  */
 package com.dm.floor13.app;
 
+import com.danimaetrix.library.io.UserIo;
+import com.danimaetrix.library.io.UserIoConsoleColorImpl;
+import com.dm.floor13.controller.Controller;
+import com.dm.floor13.dao.OrderDao;
 import com.dm.floor13.dao.OrderDaoImpl;
-import com.dm.floor13.model.Order;
-import java.time.LocalDate;
-import java.time.format.DateTimeFormatter;
-import java.util.List;
+import com.dm.floor13.dao.ProductDataDao;
+import com.dm.floor13.dao.ProductDataDaoImpl;
+import com.dm.floor13.dao.StateDataDao;
+import com.dm.floor13.dao.StateDataDaoImpl;
+import com.dm.floor13.service.OrderService;
+import com.dm.floor13.service.OrderServiceImpl;
+import com.dm.floor13.ui.ConsoleTextViewImpl;
 
 /**
  *
@@ -18,18 +25,19 @@ import java.util.List;
 public class App {
 
     public static void main(String[] args) throws Exception{
-
-        OrderDaoImpl dao = new OrderDaoImpl();
-        dao.readAllOrdersFromDirectory();
-        //List<Order> test = dao.getOrder("37282");
-//        
-//        test.get(0).setLastName("Ericson55");
-//        test.get(0).setDate(LocalDate.parse("03/01/2013",DateTimeFormatter.ofPattern("MM/dd/yyyy")));
-//        
-//        dao.addOrder(test.get(0).getOrderNumber(), test.get(0));
-//        dao.removeOrder("28633");
-        //dao.writeOrdersToDirectory("/output/");
         
+        UserIo io = new UserIoConsoleColorImpl();
+        
+        ConsoleTextViewImpl view = new ConsoleTextViewImpl(io);
+        OrderDao orderDao = new OrderDaoImpl();
+        StateDataDao stateDao = new StateDataDaoImpl();
+        ProductDataDao productDao = new ProductDataDaoImpl();
+        
+        OrderService service = new OrderServiceImpl(orderDao,stateDao,productDao);
+        
+        Controller controller = new Controller(service, view);
+               
+        controller.run();
 
     }
 

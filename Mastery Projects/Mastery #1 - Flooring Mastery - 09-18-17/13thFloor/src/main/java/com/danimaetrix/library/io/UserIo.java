@@ -6,12 +6,19 @@
 package com.danimaetrix.library.io;
 
 import java.math.BigDecimal;
+import java.time.LocalDate;
 
 /**
  *
  * @author danimaetrix
  */
 public interface UserIo {
+
+    public LocalDate readDate();
+
+    public LocalDate readDate(String msg);
+
+    public void line();
 
     public void print(String msg);
 

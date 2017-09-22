@@ -3,19 +3,19 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.dm.floor13.dao;
+package com.dm.floor13.exceptions;
 
 /**
  *
  * @author danimaetrix
  */
-public class MissingDataException extends Exception {
+public class OrderNotFoundException extends Exception {
 
-    public MissingDataException(String message) {
+    public OrderNotFoundException(String message) {
         super(message);
     }
 
-    public MissingDataException(String message, Throwable cause) {
+    public OrderNotFoundException(String message, Throwable cause) {
         super(message, cause);
     }
 

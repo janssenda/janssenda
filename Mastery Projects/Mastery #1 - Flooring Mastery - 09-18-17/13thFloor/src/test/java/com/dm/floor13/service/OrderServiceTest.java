@@ -5,11 +5,16 @@
  */
 package com.dm.floor13.service;
 
-import com.dm.floor13.dao.ChangeOrderException;
-import com.dm.floor13.dao.FileSkipException;
-import com.dm.floor13.dao.MissingDataException;
+import com.dm.floor13.dao.OrderDao;
+import com.dm.floor13.exceptions.ChangeOrderException;
+import com.dm.floor13.exceptions.FileSkipException;
+import com.dm.floor13.exceptions.MissingDataException;
 import com.dm.floor13.dao.OrderDaoImpl;
-import com.dm.floor13.dao.OrderNotFoundException;
+import com.dm.floor13.dao.ProductDataDao;
+import com.dm.floor13.exceptions.OrderNotFoundException;
+import com.dm.floor13.dao.ProductDataDaoImpl;
+import com.dm.floor13.dao.StateDataDao;
+import com.dm.floor13.dao.StateDataDaoImpl;
 import com.dm.floor13.model.Order;
 import com.dm.floor13.model.Product;
 import com.dm.floor13.model.State;
@@ -23,6 +28,7 @@ import java.util.List;
 import org.junit.After;
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertFalse;
+import static org.junit.Assert.assertNotEquals;
 import static org.junit.Assert.assertNotNull;
 import static org.junit.Assert.assertNull;
 import static org.junit.Assert.assertTrue;
@@ -37,19 +43,22 @@ import org.junit.Test;
 public class OrderServiceTest {
 
     String dir = "./data/orders/test_files/daoTestData";
-    OrderDaoImpl orderDao = new OrderDaoImpl(dir, dir + "/testData/");
-    OrderServiceImpl service = new OrderServiceImpl(orderDao);
+    String dirSub = dir + "/testData/";
 
-    public OrderServiceTest() {
+    OrderDao orderDao = new OrderDaoImpl(dir, dirSub);
+    StateDataDao stateDao = new StateDataDaoImpl(dir, dirSub);
+    ProductDataDao productDao = new ProductDataDaoImpl(dir, dirSub);
+
+    OrderServiceImpl service;
+
+    public OrderServiceTest() throws FileSkipException {
     }
 
     @Before
     public void setUp() throws FileSkipException {
 
         copyDirAndFiles(dir + "/unModifiedData/", dir + "/testData/");
-        orderDao.readAllOrdersFromDirectory();
-        orderDao.readDataFromFile();
-
+        this.service = new OrderServiceImpl(orderDao, stateDao, productDao);
     }
 
     @After
@@ -101,36 +110,92 @@ public class OrderServiceTest {
     }
 
     @Test
-    public void testPopulateExisting() {
+    public void testPopulateExisting() throws MissingDataException {
 
-//        Order o = new Order();
-//
-//        o.setOrderNumber("62052");
-//        o.setFirstName("Danimae");
-//        o.setLastName("Vostrikov");
-//        o.setDate(LocalDate.now());
-//        o.setArea(new BigDecimal("1000"));
-//
-////        State st = new State("IN");
-////        Product p = new Product("Tile");
-////
-////        o.setState(st);
-////        o.setProduct(p);
-//
-//
-//        assertTrue(service.validateOrder(o));
-//        assertNull(o.getState().getTaxrate());
-//        assertNull(o.getProduct().getCostpersqft());
-//        assertNull(o.getTotalCost());
-//        assertNull(o.getRevisionDate());
-//
-//        service.populateOrder(o);
-//
-//        assertTrue(service.validateOrder(o));
-//        assertNotNull(o.getState().getTaxrate());
-//        assertNotNull(o.getProduct().getCostpersqft());
-//        assertNotNull(o.getTotalCost());
-//        assertNotNull(o.getRevisionDate());
+        // Test state validation            
+        Order old = new Order();
+        Order o = new Order();
+
+        try {
+            o = service.getOrder("39568").get(0);
+            old = service.getOrder("39568").get(0);
+        } catch (OrderNotFoundException e) {
+
+        }
+
+        //assertTrue(service.validateOrder(o));
+        o.setFirstName("Danimae");
+        o.setLastName("Vostrikov");
+
+        assertNotEquals("Danimae", old.getFirstName());
+        assertEquals("Danimae", o.getFirstName());
+        assertEquals(o.getState(), old.getState());
+
+        service.populateOrder(o);
+        assertEquals(o.getState(), old.getState());
+
+        o.setState(stateDao.getState("IN"));
+        service.populateOrder(o);
+        assertEquals(o.getState(), old.getState());
+
+        BigDecimal rate = new BigDecimal("4.50");
+        stateDao.getState("IN").setTaxrate(rate);
+
+        State state = stateDao.getState("IN");
+        assertEquals(0, state.getTaxrate().compareTo(rate));
+
+        service.populateOrder(o);
+        assertTrue(o.getState().getTaxrate().compareTo(rate) != 0);
+        o.getState().setStateCode("IN");
+        service.populateOrder(o);
+
+        assertFalse(o.getState().getTaxrate().compareTo(rate) == 0);
+
+        o.setState(stateDao.getState("MI"));
+        service.populateOrder(o);
+
+        rate = new BigDecimal("5.75");
+        assertTrue(o.getState().getTaxrate().compareTo(rate) == 0);
+    }
+
+    @Test
+    public void testPopulateExistingProduct() throws MissingDataException {
+
+        // Test state validation            
+        Order old = new Order();
+        Order o = new Order();
+
+        try {
+            o = service.getOrder("39568").get(0);
+            old = service.getOrder("39568").get(0);
+        } catch (OrderNotFoundException e) {
+
+        }
+
+        service.populateOrder(o);
+        assertEquals(o.getProduct(), old.getProduct());
+
+        o.setProduct(productDao.getProduct("Wood"));
+        service.populateOrder(o);
+        assertEquals(o.getProduct(), old.getProduct());
+
+        BigDecimal rate = new BigDecimal("2.50");
+        productDao.getProduct("Wood").setCostpersqft(rate);
+
+        Product p = productDao.getProduct("Wood");
+        assertEquals(0, p.getCostpersqft().compareTo(rate));
+
+        service.populateOrder(o);
+        assertTrue(o.getProduct().getCostpersqft().compareTo(rate) != 0);
+        o.getProduct().setProductName("Wood");
+        service.populateOrder(o);
+
+        assertFalse(o.getProduct().getCostpersqft().compareTo(rate) == 0);
+
+        o.setProduct(productDao.getProduct("Wood"));
+        service.populateOrder(o);
+        assertTrue(o.getProduct().getCostpersqft().compareTo(rate) == 0);
+
     }
 
     @Test
@@ -148,8 +213,8 @@ public class OrderServiceTest {
 
             o = service.getOrder("62052").get(0);
             assertTrue(service.validateOrder(o));
-            o.setState(null);
-            assertFalse(service.validateOrder(o));
+//            o.setState();
+//            assertFalse(service.validateOrder(o));
 
             o = service.getOrder("62052").get(0);
             assertTrue(service.validateOrder(o));
@@ -255,14 +320,14 @@ public class OrderServiceTest {
         }
 
         try {
-            orderDao.getState("KK");
+            stateDao.getState("KK");
             fail("This state does not exist... ");
         } catch (MissingDataException e) {
 
         }
 
         try {
-            orderDao.getState("IN");
+            stateDao.getState("IN");
 
         } catch (MissingDataException e) {
             fail("This state does exist... ");

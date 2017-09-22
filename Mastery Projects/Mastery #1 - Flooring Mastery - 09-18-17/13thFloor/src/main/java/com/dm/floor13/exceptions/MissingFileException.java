@@ -3,19 +3,20 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.dm.floor13.dao;
+package com.dm.floor13.exceptions;
 
 /**
  *
- * @author Danimaetrix
+ * @author danimaetrix
  */
-public class FileIOException extends Exception {
+public class MissingFileException extends Exception {
 
-    public FileIOException(String message) {
+    public MissingFileException(String message) {
         super(message);
     }
 
-    public FileIOException(String message, Throwable cause) {
+    public MissingFileException(String message, Throwable cause) {
         super(message, cause);
     }
+
 }

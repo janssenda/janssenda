@@ -3,19 +3,19 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.dm.floor13.dao;
+package com.dm.floor13.exceptions;
 
 /**
  *
  * @author danimaetrix
  */
-public class OrderNotFoundException extends Exception {
+public class ChangeOrderException extends Exception {
 
-    public OrderNotFoundException(String message) {
+    public ChangeOrderException(String message) {
         super(message);
     }
 
-    public OrderNotFoundException(String message, Throwable cause) {
+    public ChangeOrderException(String message, Throwable cause) {
         super(message, cause);
     }
 

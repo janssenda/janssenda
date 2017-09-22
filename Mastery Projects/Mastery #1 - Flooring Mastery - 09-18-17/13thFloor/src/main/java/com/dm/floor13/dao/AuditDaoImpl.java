@@ -5,6 +5,7 @@
  */
 package com.dm.floor13.dao;
 
+import com.dm.floor13.exceptions.FileIOException;
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 

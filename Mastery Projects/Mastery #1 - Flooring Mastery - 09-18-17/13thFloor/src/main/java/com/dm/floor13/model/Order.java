@@ -34,8 +34,8 @@ public class Order implements Cloneable {
         this.area = BigDecimal.ZERO;
         this.date = LocalDate.MIN;
         this.orderNumber = null;
-        this.state = null;
-        this.product = null;
+        this.state = new State().clone();
+        this.product = new Product().clone();
         this.totalCost = null;
         this.laborCost = null;
         this.materialCost = null;
@@ -131,11 +131,11 @@ public class Order implements Cloneable {
     }
 
     public void setState(State state) {
-        this.state = state;
+        this.state = state.clone();
     }
 
     public void setProduct(Product product) {
-        this.product = product;
+        this.product = product.clone();
     }
 
     public void recalculateData() {

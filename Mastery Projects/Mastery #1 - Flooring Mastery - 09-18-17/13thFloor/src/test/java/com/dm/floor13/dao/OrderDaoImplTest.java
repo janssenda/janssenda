@@ -5,6 +5,10 @@
  */
 package com.dm.floor13.dao;
 
+import com.dm.floor13.exceptions.OrderNotFoundException;
+import com.dm.floor13.exceptions.FileSkipException;
+import com.dm.floor13.exceptions.MissingDataException;
+import com.dm.floor13.exceptions.ChangeOrderException;
 import com.dm.floor13.model.Order;
 import com.dm.floor13.model.Product;
 import com.dm.floor13.model.State;
@@ -32,7 +36,13 @@ import org.junit.Test;
 public class OrderDaoImplTest {
 
     String dir = "./data/orders/test_files/daoTestData";
-    OrderDaoImpl orderDao = new OrderDaoImpl(dir, dir + "/testData/");
+    String dirSub = dir + "/testData/";
+    
+    OrderDaoImpl orderDao = new OrderDaoImpl(dir, dirSub);
+    StateDataDaoImpl stateDao = new StateDataDaoImpl(dir, dirSub);
+    ProductDataDaoImpl productDao = new ProductDataDaoImpl(dir, dirSub); 
+    
+    
     Map<String, List<Order>> orderMap;
 
     public OrderDaoImplTest() {
@@ -98,14 +108,15 @@ public class OrderDaoImplTest {
     @Test
     public void testReadData() {
         try {
-            orderDao.readDataFromFile();
+            stateDao.readDataFromFile();
+            productDao.readDataFromFile();
 
         } catch (FileSkipException e) {
             fail("File was not read");
         }
 
-        Map<String, State> stateMap = orderDao.getStateMap();
-        Map<String, Product> productMap = orderDao.getProductMap();
+        Map<String, State> stateMap = stateDao.getStateMap();
+        Map<String, Product> productMap = productDao.getProductMap();
 
         assertEquals(4, stateMap.size());
         assertEquals(4, productMap.size());
@@ -115,10 +126,10 @@ public class OrderDaoImplTest {
         assertTrue(productMap.containsKey("Tile"));
         assertTrue(productMap.containsKey("Wood"));
         try {
-            State s = orderDao.getState("IN");
+            State s = stateDao.getState("IN");
             assertTrue(6.00 == s.getTaxrate().doubleValue());
 
-            Product p = orderDao.getProduct("Laminate");
+            Product p = productDao.getProduct("Laminate");
 
             assertTrue(1.75 == p.getCostpersqft().doubleValue());
             assertTrue(2.10 == p.getLaborpersqft().doubleValue());
@@ -219,9 +230,9 @@ public class OrderDaoImplTest {
             Order order1 = orderDao.getOrder(ordertochange).get(1);
 
             rev1 = order1.getRevisionDate();
-            rev2 = order0.getRevisionDate();
+            rev2 = order0.getRevisionDate();            
 
-            assertEquals(-1, rev1.compareTo(rev2));
+            assertTrue(rev1.isBefore(rev2));
 
             assertEquals(oldName, order1.getFirstName());
             assertEquals("Danimae", order0.getFirstName());
