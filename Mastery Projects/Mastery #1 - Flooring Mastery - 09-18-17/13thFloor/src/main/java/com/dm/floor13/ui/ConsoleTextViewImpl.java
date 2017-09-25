@@ -58,9 +58,9 @@ public class ConsoleTextViewImpl {
         Product p = new Product();
 
         st.setStateCode(io.readLine("State: ").trim());
-        order.setState(st);
+        order.setState(st); 
 
-        p.setProductName(StringUtil.capitalFirst(io.readLine("Material: ").trim()));
+        p.setProductName(io.readLine("Material: ").trim());
         order.setProduct(p);
 
         order.setArea(io.readBigDecimal("Area (ft^2): "));
