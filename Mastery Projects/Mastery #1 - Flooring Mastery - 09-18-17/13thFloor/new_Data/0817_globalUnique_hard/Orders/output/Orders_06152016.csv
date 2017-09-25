@@ -1,21 +1,21 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-4967,"Goddess of Trickery, Alik",The Dancing Minstrel,36.02,Phantasmal Smokezephyr Mercury Of Men,213.00,211.20,192.00,44985.6000,40896.0000,116816.15232000,06/15/2016 @ 12:00:00 AM
-2389,"The Terrifying, Deathspike",The Tower of Sabiesu the Awesome,10.00,Falserainbow Lead,182.00,872.99,63.80,158884.1800,11611.6000,187545.35800000,06/15/2016 @ 12:00:00 AM
-37713,Beamtrap,The Greedy Wench,13.31,Ghouls' Imperial Soulzephyr Mithril Of The Seas,167.00,318.23,318.23,53144.4100,53144.4100,120435.86194200,06/15/2016 @ 12:00:00 AM
-24406,"Anchor, Rose",The Bastion of Barbos,25.41,Negative Rockglitter Mercury Of Trolls,67.00,235.59,214.17,15784.5300,14349.3900,37790.94907200,06/15/2016 @ 12:00:00 AM
-1183,Spikecrank,The Citadel of Lord Greywulf,19.00,Zephyr Iron,148.00,2249.71,233.69,332957.0800,34586.1200,437376.40800000,06/15/2016 @ 12:00:00 AM
-22145,"Runetomb, Song",The Tomb of Hellish Ruin,36.30,Primordial Mud Orichalcum,300.00,1113.00,20.57,333900.0000,6171.0000,463516.77300000,06/15/2016 @ 12:00:00 AM
-1568,"Lord of Nightmares, Iran",The Tower of Sheshbazzu,4.00,Glittering Orichalcum,127.00,2056.00,330.00,261112.0000,41910.0000,315142.88000000,06/15/2016 @ 12:00:00 AM
-12921,"Runetomb, Song",Bifar's Deep,10.09,Dragons' Poison Glitterflesh Steel Of The North,347.00,742.00,82.50,257474.0000,28627.5000,314969.14135000,06/15/2016 @ 12:00:00 AM
-20268,"Gust, Shadow",Fellfen Keep,38.00,Emerald Orichalcum,33.00,1957.00,142.79,64581.0000,4712.0700,95624.43660000,06/15/2016 @ 12:00:00 AM
-19470,Wheelspawn,The Bastion of Barbos,25.41,Vampires' Fang Emeraldsilver,242.00,2033.69,80.84,492152.9800,19563.2800,641743.36166600,06/15/2016 @ 12:00:00 AM
-31277,"Roguemist, Rouge",Hafeld Keep,47.59,Warlocks' Timerot Mithril,159.00,194.65,194.65,30949.3500,30949.3500,91356.29133000,06/15/2016 @ 12:00:00 AM
-9618,"Amberslayer, Flora",Archring Borough,29.70,Muck Orichalcum Of Ogres,190.00,2080.00,97.93,395200.0000,18606.7000,536707.28990000,06/15/2016 @ 12:00:00 AM
-32940,"God of the Lost, Lionare",Pewold Keep,29.00,Undeads' Mind Orichalcum Of The Twilight,72.00,1169.00,364.69,84168.0000,26257.6800,142449.12720000,06/15/2016 @ 12:00:00 AM
-16150,"Roguemist, Rouge",The Secret Shrine of the Gargoyle Count,23.93,Undeads' Mind Orichalcum Of The Twilight,270.00,1169.00,301.40,315630.0000,81378.0000,492012.01440000,06/15/2016 @ 12:00:00 AM
-7613,"Goddess of Travel, Lenwenye",Archring Borough,29.70,Sapphire Mindlead,204.00,-44.77,-40.70,-9133.0800,-8302.8000,-22614.33636000,06/15/2016 @ 12:00:00 AM
-7824,"Lord of Death, Addon",The Bastion of the Lich Tyrant,6.49,Sirens' Rockgold,334.00,306.13,278.30,102247.4200,92952.2000,207868.07533800,06/15/2016 @ 12:00:00 AM
-27375,"Dire, Wind",The Bastion of Gothmog of Udun,-2.42,Sprites' Transcendent Mud Lead Of The South,220.00,3338.65,267.08,734503.0000,58757.6000,774063.69348000,06/15/2016 @ 12:00:00 AM
-14041,"Dire, Wind",The Archer and Scroll,49.68,Djinni's Evil Sandobsidian Steel Of The Future,162.00,140.58,140.58,22773.9600,22773.9600,68176.12665600,06/15/2016 @ 12:00:00 AM
-14506,"Wolf, Jericho",The Archer and Scroll,49.68,Negative Rockglitter Mercury Of Trolls,147.00,3502.00,214.17,514794.0000,31482.9900,817667.39863200,06/15/2016 @ 12:00:00 AM
-25584,"Seeker, Fate",Gili's Delve,35.89,Mithril Of The Tropics,152.00,276.72,276.72,42061.4400,42061.4400,114314.58163200,06/15/2016 @ 12:00:00 AM
+4967,"Alik, Goddess of Trickery",The Dancing Minstrel,36.02,Phantasmal Smokezephyr Mercury Of Men,213.00,211.20,192.00,44985.6000,40896.0000,116816.15232000,06/15/2016 @ 12:00:00 AM
+2389,"Deathspike, The Terrifying",The Tower of Sabiesu the Awesome,10.00,Falserainbow Lead,182.00,872.99,63.80,158884.1800,11611.6000,187545.35800000,06/15/2006 @ 12:00:00 AM
+37713,Beamtrap,The Greedy Wench,13.31,Ghouls' Imperial Soulzephyr Mithril Of The Seas,167.00,318.23,318.23,53144.4100,53144.4100,120435.86194200,06/15/2006 @ 12:00:00 AM
+24406,"Rose, Anchor",The Bastion of Barbos,25.41,Negative Rockglitter Mercury Of Trolls,67.00,235.59,214.17,15784.5300,14349.3900,37790.94907200,06/15/2006 @ 12:00:00 AM
+1183,Spikecrank,The Citadel of Lord Greywulf,19.00,Zephyr Iron,148.00,2249.71,233.69,332957.0800,34586.1200,437376.40800000,06/15/2006 @ 12:00:00 AM
+22145,"Song, Runetomb",The Tomb of Hellish Ruin,36.30,Primordial Mud Orichalcum,300.00,1113.00,20.57,333900.0000,6171.0000,463516.77300000,06/15/2006 @ 12:00:00 AM
+1568,"Iran, Lord of Nightmares",The Tower of Sheshbazzu,4.00,Glittering Orichalcum,127.00,2056.00,330.00,261112.0000,41910.0000,315142.88000000,06/15/2006 @ 12:00:00 AM
+12921,"Song, Runetomb",Bifar's Deep,10.09,Dragons' Poison Glitterflesh Steel Of The North,347.00,742.00,82.50,257474.0000,28627.5000,314969.14135000,06/15/2006 @ 12:00:00 AM
+20268,"Shadow, Gust",Fellfen Keep,38.00,Emerald Orichalcum,33.00,1957.00,142.79,64581.0000,4712.0700,95624.43660000,06/15/2006 @ 12:00:00 AM
+19470,Wheelspawn,The Bastion of Barbos,25.41,Vampires' Fang Emeraldsilver,242.00,2033.69,80.84,492152.9800,19563.2800,641743.36166600,06/15/2006 @ 12:00:00 AM
+31277,"Rouge, Roguemist",Hafeld Keep,47.59,Warlocks' Timerot Mithril,159.00,194.65,194.65,30949.3500,30949.3500,91356.29133000,06/15/2006 @ 12:00:00 AM
+9618,"Flora, Amberslayer",Archring Borough,29.70,Muck Orichalcum Of Ogres,190.00,2080.00,97.93,395200.0000,18606.7000,536707.28990000,06/15/2006 @ 12:00:00 AM
+32940,"Lionare, God of the Lost",Pewold Keep,29.00,Undeads' Mind Orichalcum Of The Twilight,72.00,1169.00,364.69,84168.0000,26257.6800,142449.12720000,06/15/2006 @ 12:00:00 AM
+16150,"Rouge, Roguemist",The Secret Shrine of the Gargoyle Count,23.93,Undeads' Mind Orichalcum Of The Twilight,270.00,1169.00,301.40,315630.0000,81378.0000,492012.01440000,06/15/2006 @ 12:00:00 AM
+7613,"Lenwenye, Goddess of Travel",Archring Borough,29.70,Sapphire Mindlead,204.00,-44.77,-40.70,-9133.0800,-8302.8000,-22614.33636000,06/15/2006 @ 12:00:00 AM
+7824,"Addon, Lord of Death",The Bastion of the Lich Tyrant,6.49,Sirens' Rockgold,334.00,306.13,278.30,102247.4200,92952.2000,207868.07533800,06/15/2006 @ 12:00:00 AM
+27375,"Wind, Dire",The Bastion of Gothmog of Udun,-2.42,Sprites' Transcendent Mud Lead Of The South,220.00,3338.65,267.08,734503.0000,58757.6000,774063.69348000,06/15/2006 @ 12:00:00 AM
+14041,"Wind, Dire",The Archer and Scroll,49.68,Djinni's Evil Sandobsidian Steel Of The Future,162.00,140.58,140.58,22773.9600,22773.9600,68176.12665600,06/15/2006 @ 12:00:00 AM
+14506,"Jericho, Wolf",The Archer and Scroll,49.68,Negative Rockglitter Mercury Of Trolls,147.00,3502.00,214.17,514794.0000,31482.9900,817667.39863200,06/15/2006 @ 12:00:00 AM
+25584,"Fate, Seeker",Gili's Delve,35.89,Mithril Of The Tropics,152.00,276.72,276.72,42061.4400,42061.4400,114314.58163200,06/15/2006 @ 12:00:00 AM

@@ -1,23 +1,23 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-24349,"Lord of Plague, Alas",Bifar's Deep,12.21,Foul Ice Bronze Of Life,245.00,292.82,266.20,71740.9000,65219.0000,153682.70379000,09/30/2017 @ 12:00:00 AM
-28,Spikespawn,The Bastion of the Lich Tyrant,4.87,Djinni's Evil Sandobsidian Steel Of The Future,248.00,2319.00,127.80,575112.0000,31694.4000,636357.87168000,09/30/2017 @ 12:00:00 AM
-12454,"God of Death, Selik",Gifeld Castle,27.28,Mistgold Of Men,371.00,412.50,375.00,153037.5000,139125.0000,371864.43000000,09/30/2017 @ 12:00:00 AM
-37745,"The Mechanical, Snarepiston",The Greedy Wench,13.31,Ghouls' Imperial Soulzephyr Mithril Of The Seas,70.00,318.23,318.23,22276.1000,22276.1000,50482.09782000,09/30/2017 @ 12:00:00 AM
-25998,Bronzespike,The Pirate's Pipe,16.94,Starsmoke Bronze Of Life,199.00,-438.00,420.81,-87162.0000,83741.1900,-4000.29521400,09/30/2017 @ 12:00:00 AM
-24624,"Tsunami, Seraphim",Bifar's Deep,12.21,Negative Rockglitter Mercury Of Trolls,163.00,235.59,214.17,38401.1700,34909.7100,82262.13844800,09/30/2017 @ 12:00:00 AM
-10197,"Seeker, Fate",Hartshill Ward,40.29,Emerald Orichalcum,187.00,1957.00,118.01,365959.0000,22067.8700,544362.89592300,09/30/2017 @ 12:00:00 AM
-22579,"God of Resurrection, Gadriel",The Nulukkhath Spires,28.99,Imperial Fate Steel,225.00,419.10,381.00,94297.5000,85725.0000,232211.02275000,09/30/2017 @ 12:00:00 AM
-19195,Flameshiver,The Bastion of Barbos,25.41,Emerald Orichalcum,252.00,1957.00,129.81,493164.0000,32712.1200,659501.24209200,09/30/2017 @ 12:00:00 AM
-21984,"Anchor, Rose",The Nulukkhath Spires,28.99,Fog Lavaplatinum Of Life,86.00,560.35,509.41,48190.1000,43809.2600,118669.97446400,09/30/2017 @ 12:00:00 AM
-32620,Ironbrood,Hafeld Keep,47.59,Magicians' Legendary Poison Metal,145.00,-52.81,-48.01,-7657.4500,-6961.4500,-21576.03451000,09/30/2017 @ 12:00:00 AM
-18578,"Tsunami, Seraphim",The Khazahol Crags,22.75,Venom Jewelmetal Of The Desert,181.00,701.92,222.50,127047.5200,40272.5000,205385.32455000,09/30/2017 @ 12:00:00 AM
-20991,"God of Death, Avriel",Mahyrst Keep,31.30,Unknowable Mindsilver,214.00,174.90,174.90,37428.6000,37428.6000,98287.50360000,09/30/2017 @ 12:00:00 AM
-16155,"The Unspeakable, Terrorghoul",Khali's Delve,1.18,Vampires' Hammer Emeraldmetal,287.00,77.44,77.44,22225.2800,22225.2800,44975.07660800,09/30/2017 @ 12:00:00 AM
-29437,Cinderflame,The Nulukkhath Spires,28.99,Fleshshock Mercury,66.00,-31.02,-28.20,-2047.3200,-1861.2000,-5041.59994800,09/30/2017 @ 12:00:00 AM
-28421,Graveterror,Bifar's Deep,12.21,Stone Soulsteel Of The Skies,226.00,453.31,412.10,102448.0600,93134.6000,219463.30278600,09/30/2017 @ 12:00:00 AM
-26271,"The Cremator, Blazeflare",The Dungeon of Merciless Woe,3.97,Unspeakable Rotsoul Mithril Of Souls,106.00,370.26,336.60,39247.5600,35679.6000,77901.76825200,09/30/2017 @ 12:00:00 AM
-28897,"Lord of Plague, Alas",Bifar's Deep,12.21,Unknown Fatelightning Steel Of The Glacier,146.00,145.08,159.59,21181.6800,23300.1400,49913.05022200,09/30/2017 @ 12:00:00 AM
-25005,"Darkzealot, Dawn",The Forsaken Sepulcher of Sorrows,31.36,Foul Ice Bronze Of Life,160.00,292.82,266.20,46851.2000,42592.0000,117492.58752000,09/30/2017 @ 12:00:00 AM
-5737,"The Horrorific, Evilfear",Reheath Stronghold,39.60,Grayplatinum,234.00,2548.00,86.73,596232.0000,20294.8200,860671.44072000,09/30/2017 @ 12:00:00 AM
-5986,"The Firey, Evilember",Pawic Keep,31.90,Grayplatinum,304.00,2548.00,86.73,774592.0000,26365.9200,1056463.49648000,09/30/2017 @ 12:00:00 AM
-2090,"The Horrorific, Evilfear",The Bloody Wand,1.98,Unholy Poison Copper Of The Mountains,130.00,4312.00,57.00,560560.0000,7410.0000,579215.80600000,09/30/2017 @ 12:00:00 AM
+24349,"Alas, Lord of Plague",Bifar's Deep,12.21,Foul Ice Bronze Of Life,245.00,292.82,266.20,71740.9000,65219.0000,153682.70379000,09/30/2007 @ 12:00:00 AM
+28,Spikespawn,The Bastion of the Lich Tyrant,4.87,Djinni's Evil Sandobsidian Steel Of The Future,248.00,2319.00,127.80,575112.0000,31694.4000,636357.87168000,09/30/2007 @ 12:00:00 AM
+12454,"Selik, God of Death",Gifeld Castle,27.28,Mistgold Of Men,371.00,412.50,375.00,153037.5000,139125.0000,371864.43000000,09/30/2007 @ 12:00:00 AM
+37745,"Snarepiston, The Mechanical",The Greedy Wench,13.31,Ghouls' Imperial Soulzephyr Mithril Of The Seas,70.00,318.23,318.23,22276.1000,22276.1000,50482.09782000,09/30/2007 @ 12:00:00 AM
+25998,Bronzespike,The Pirate's Pipe,16.94,Starsmoke Bronze Of Life,199.00,-438.00,420.81,-87162.0000,83741.1900,-4000.29521400,09/30/2007 @ 12:00:00 AM
+24624,"Seraphim, Tsunami",Bifar's Deep,12.21,Negative Rockglitter Mercury Of Trolls,163.00,235.59,214.17,38401.1700,34909.7100,82262.13844800,09/30/2007 @ 12:00:00 AM
+10197,"Fate, Seeker",Hartshill Ward,40.29,Emerald Orichalcum,187.00,1957.00,118.01,365959.0000,22067.8700,544362.89592300,09/30/2007 @ 12:00:00 AM
+22579,"Gadriel, God of Resurrection",The Nulukkhath Spires,28.99,Imperial Fate Steel,225.00,419.10,381.00,94297.5000,85725.0000,232211.02275000,09/30/2007 @ 12:00:00 AM
+19195,Flameshiver,The Bastion of Barbos,25.41,Emerald Orichalcum,252.00,1957.00,129.81,493164.0000,32712.1200,659501.24209200,09/30/2007 @ 12:00:00 AM
+21984,"Rose, Anchor",The Nulukkhath Spires,28.99,Fog Lavaplatinum Of Life,86.00,560.35,509.41,48190.1000,43809.2600,118669.97446400,09/30/2007 @ 12:00:00 AM
+32620,Ironbrood,Hafeld Keep,47.59,Magicians' Legendary Poison Metal,145.00,-52.81,-48.01,-7657.4500,-6961.4500,-21576.03451000,09/30/2007 @ 12:00:00 AM
+18578,"Seraphim, Tsunami",The Khazahol Crags,22.75,Venom Jewelmetal Of The Desert,181.00,701.92,222.50,127047.5200,40272.5000,205385.32455000,09/30/2017 @ 12:00:00 AM
+20991,"Avriel, God of Death",Mahyrst Keep,31.30,Unknowable Mindsilver,214.00,174.90,174.90,37428.6000,37428.6000,98287.50360000,09/30/2007 @ 12:00:00 AM
+16155,"Terrorghoul, The Unspeakable",Khali's Delve,1.18,Vampires' Hammer Emeraldmetal,287.00,77.44,77.44,22225.2800,22225.2800,44975.07660800,09/30/2007 @ 12:00:00 AM
+29437,Cinderflame,The Nulukkhath Spires,28.99,Fleshshock Mercury,66.00,-31.02,-28.20,-2047.3200,-1861.2000,-5041.59994800,09/30/2007 @ 12:00:00 AM
+28421,Graveterror,Bifar's Deep,12.21,Stone Soulsteel Of The Skies,226.00,453.31,412.10,102448.0600,93134.6000,219463.30278600,09/30/2007 @ 12:00:00 AM
+26271,"Blazeflare, The Cremator",The Dungeon of Merciless Woe,3.97,Unspeakable Rotsoul Mithril Of Souls,106.00,370.26,336.60,39247.5600,35679.6000,77901.76825200,09/30/2007 @ 12:00:00 AM
+28897,"Alas, Lord of Plague",Bifar's Deep,12.21,Unknown Fatelightning Steel Of The Glacier,146.00,145.08,159.59,21181.6800,23300.1400,49913.05022200,09/30/2007 @ 12:00:00 AM
+25005,"Dawn, Darkzealot",The Forsaken Sepulcher of Sorrows,31.36,Foul Ice Bronze Of Life,160.00,292.82,266.20,46851.2000,42592.0000,117492.58752000,09/30/2007 @ 12:00:00 AM
+5737,"Evilfear, The Horrorific",Reheath Stronghold,39.60,Grayplatinum,234.00,2548.00,86.73,596232.0000,20294.8200,860671.44072000,09/30/2007 @ 12:00:00 AM
+5986,"Evilember, The Firey",Pawic Keep,31.90,Grayplatinum,304.00,2548.00,86.73,774592.0000,26365.9200,1056463.49648000,09/30/2007 @ 12:00:00 AM
+2090,"Evilfear, The Horrorific",The Bloody Wand,1.98,Unholy Poison Copper Of The Mountains,130.00,4312.00,57.00,560560.0000,7410.0000,579215.80600000,09/30/2007 @ 12:00:00 AM

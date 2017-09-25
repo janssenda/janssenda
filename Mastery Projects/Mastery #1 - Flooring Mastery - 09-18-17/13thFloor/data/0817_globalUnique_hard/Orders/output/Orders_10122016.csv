@@ -1,18 +1,18 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-2410,"The Grasping, Nailpiston",The Tower of Sabiesu the Awesome,10.00,Tin Of The Tundra,176.00,4121.00,328.31,725296.0000,57782.5600,861386.41600000,10/12/2016 @ 12:00:00 AM
-23649,Chainnail,Weke Tower,47.19,Forgotten Mithril,257.00,545.71,496.10,140247.4700,127497.7000,394094.11572300,10/12/2016 @ 12:00:00 AM
-35715,"Lady of Fire, Nelalwe",The Fortress of the Lich Queen,22.79,Vampires' Fang Emeraldsilver,296.00,2033.69,88.92,601972.2400,26320.3200,771480.43442400,10/12/2016 @ 12:00:00 AM
-10727,"Claw, Slayer",The Secret Shrine of the Gargoyle Count,21.75,Pearl Mirrorice Steel Of Changelings,206.00,2996.00,302.00,617176.0000,62212.0000,827154.89000000,10/12/2016 @ 12:00:00 AM
-22865,"Veil, Bane",The Nulukkhath Spires,28.99,Shadowhell Mithril,312.00,462.21,420.19,144209.5200,131099.2800,355120.82112000,10/12/2016 @ 12:00:00 AM
-19652,"Goddess of Knowledge, Ahah",Weke Tower,47.19,Grayplatinum,260.00,2548.00,104.94,662480.0000,27284.4000,1015264.22036000,10/12/2016 @ 12:00:00 AM
-32866,"Jackalguard, Gale",The Bastion of the Lich Tyrant,8.64,Unspeakable Rotsoul Mithril Of Souls,134.00,370.26,336.60,49614.8400,45104.4000,102902.98233600,10/12/2016 @ 12:00:00 AM
-7217,"The Binder, Springpulley",Archring Borough,29.70,Planar Rainfate Mithril,262.00,179.30,163.00,46976.6000,42706.0000,116318.33220000,10/12/2016 @ 12:00:00 AM
-31622,"The Skeletal, Spiketerror",Hafeld Keep,47.59,Pearl Mirrorice Steel Of Changelings,199.00,365.42,365.42,72718.5800,72718.5800,214650.70444400,10/12/2016 @ 12:00:00 AM
-7720,"Runetomb, Song",Archring Borough,29.70,Planar Mudtin Of Trolls,125.00,3529.02,174.00,441127.5000,21750.0000,600352.11750000,10/12/2016 @ 12:00:00 AM
-29705,"Squallmourner, Storm",The Tower of Sabiesu the Awesome,10.00,Swordbronze,236.00,403.29,366.63,95176.4400,86524.6800,199871.23200000,10/12/2016 @ 12:00:00 AM
-5207,"The Evil, Flameflare",The Lost Crypts of Sorrows,2.20,Phantasmal Tin Of The Swamps,288.00,3207.64,305.00,923800.3200,87840.0000,1033896.40704000,10/12/2016 @ 12:00:00 AM
-5255,"Mystery, Lord",Archring Borough,27.00,Negative Rockglitter Mercury Of Trolls,201.00,3502.00,194.70,703902.0000,39134.7000,943656.60900000,10/12/2016 @ 12:00:00 AM
-17857,"Lonedrake, Clash",Hartshill Ward,48.75,Starsmoke Bronze Of Life,189.00,-438.00,420.81,-82782.0000,79533.0900,-4832.75362500,10/12/2016 @ 12:00:00 AM
-15210,"The Terrifying, Deathspike",The Secret Shrine of the Gargoyle Count,23.93,Mind Lead,263.00,241.00,219.09,63383.0000,57620.6700,149959.84823100,10/12/2016 @ 12:00:00 AM
-6901,Spikerivet,Archring Borough,29.70,Violetdream Iron,107.00,414.98,377.25,44402.8600,40365.7500,109944.88717000,10/12/2016 @ 12:00:00 AM
-14861,Flameshiver,The Secret Shrine of the Gargoyle Count,23.93,Angels' Adamant,133.00,51.48,46.80,6846.8400,6224.4000,16199.18773200,10/12/2016 @ 12:00:00 AM
+2410,"The Grasping, Nailpiston",The Tower of Sabiesu the Awesome,10.00,Tin Of The Tundra,176.00,4121.00,328.31,725296.0000,57782.5600,861386.41600000,10/12/1946 @ 12:00:00 AM
+23649,Chainnail,Weke Tower,47.19,Forgotten Mithril,257.00,545.71,496.10,140247.4700,127497.7000,394094.11572300,10/12/1946 @ 12:00:00 AM
+35715,"Lady of Fire, Nelalwe",The Fortress of the Lich Queen,22.79,Vampires' Fang Emeraldsilver,296.00,2033.69,88.92,601972.2400,26320.3200,771480.43442400,10/12/1946 @ 12:00:00 AM
+10727,"Claw, Slayer",The Secret Shrine of the Gargoyle Count,21.75,Pearl Mirrorice Steel Of Changelings,206.00,2996.00,302.00,617176.0000,62212.0000,827154.89000000,10/12/1986 @ 12:00:00 AM
+22865,"Veil, Bane",The Nulukkhath Spires,28.99,Shadowhell Mithril,312.00,462.21,420.19,144209.5200,131099.2800,355120.82112000,10/12/1946 @ 12:00:00 AM
+19652,"Goddess of Knowledge, Ahah",Weke Tower,47.19,Grayplatinum,260.00,2548.00,104.94,662480.0000,27284.4000,1015264.22036000,10/12/1946 @ 12:00:00 AM
+32866,"Jackalguard, Gale",The Bastion of the Lich Tyrant,8.64,Unspeakable Rotsoul Mithril Of Souls,134.00,370.26,336.60,49614.8400,45104.4000,102902.98233600,10/12/1946 @ 12:00:00 AM
+7217,"The Binder, Springpulley",Archring Borough,29.70,Planar Rainfate Mithril,262.00,179.30,163.00,46976.6000,42706.0000,116318.33220000,10/12/1946 @ 12:00:00 AM
+31622,"The Skeletal, Spiketerror",Hafeld Keep,47.59,Pearl Mirrorice Steel Of Changelings,199.00,365.42,365.42,72718.5800,72718.5800,214650.70444400,10/12/1946 @ 12:00:00 AM
+7720,"Runetomb, Song",Archring Borough,29.70,Planar Mudtin Of Trolls,125.00,3529.02,174.00,441127.5000,21750.0000,600352.11750000,10/12/1946 @ 12:00:00 AM
+29705,"Squallmourner, Storm",The Tower of Sabiesu the Awesome,10.00,Swordbronze,236.00,403.29,366.63,95176.4400,86524.6800,199871.23200000,10/12/1946 @ 12:00:00 AM
+5207,"The Evil, Flameflare",The Lost Crypts of Sorrows,2.20,Phantasmal Tin Of The Swamps,288.00,3207.64,305.00,923800.3200,87840.0000,1033896.40704000,10/12/1946 @ 12:00:00 AM
+5255,"Mystery, Lord",Archring Borough,27.00,Negative Rockglitter Mercury Of Trolls,201.00,3502.00,194.70,703902.0000,39134.7000,943656.60900000,10/12/1946 @ 12:00:00 AM
+17857,"Lonedrake, Clash",Hartshill Ward,48.75,Starsmoke Bronze Of Life,189.00,-438.00,420.81,-82782.0000,79533.0900,-4832.75362500,10/12/1946 @ 12:00:00 AM
+15210,"The Terrifying, Deathspike",The Secret Shrine of the Gargoyle Count,23.93,Mind Lead,263.00,241.00,219.09,63383.0000,57620.6700,149959.84823100,10/12/1946 @ 12:00:00 AM
+6901,Spikerivet,Archring Borough,29.70,Violetdream Iron,107.00,414.98,377.25,44402.8600,40365.7500,109944.88717000,10/12/1946 @ 12:00:00 AM
+14861,Flameshiver,The Secret Shrine of the Gargoyle Count,23.93,Angels' Adamant,133.00,51.48,46.80,6846.8400,6224.4000,16199.18773200,10/12/1946 @ 12:00:00 AM

@@ -1,15 +1,15 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-36498,Emberfire,The Fen of the Necromancer,32.21,Vampires' Hammer Emeraldmetal,286.00,93.70,85.18,26798.2000,24361.4800,67638.21292800,10/22/2017 @ 12:00:00 AM
-35253,"Darkzealot, Dawn",The Fen of the Necromancer,32.21,Lycanthropes' Gold,380.00,449.88,408.98,170954.4000,155412.4000,431489.54628000,10/22/2017 @ 12:00:00 AM
-11477,"Lionwatcher, Law",Mahyrst Keep,28.45,Mistgold Of Men,88.00,412.50,375.00,36300.0000,33000.0000,89015.85000000,10/22/2017 @ 12:00:00 AM
-10422,"The Firey, Evilember",The Dungeon of Dismal Terror,44.30,Pearl Mirrorice Steel Of Changelings,142.00,2996.00,302.00,425432.0000,42884.0000,675779.98800000,10/22/2017 @ 12:00:00 AM
-22375,"Goddess of Travel, Lenwenye",The Tower of Sabiesu the Awesome,10.00,Warlocks' Timerot Mithril,245.00,194.65,176.95,47689.2500,43352.7500,100146.20000000,10/22/2017 @ 12:00:00 AM
-22796,Ironbrood,The Tower of Sabiesu the Awesome,10.00,Fleshshock Mercury,74.00,-31.02,-28.20,-2295.4800,-2086.8000,-4820.50800000,10/22/2017 @ 12:00:00 AM
-8099,"The Disinterred, Spikebrood",The Black Barrow of Bery,19.80,Unknowable Mindsilver,117.00,174.90,174.90,20463.3000,20463.3000,49030.06680000,10/22/2017 @ 12:00:00 AM
-32658,"The Skeletal, Spiketerror",North Arcanist's Farthing,3.66,Magicians' Legendary Poison Metal,165.00,-52.81,-48.01,-8713.6500,-7921.6500,-17244.15198000,10/22/2017 @ 12:00:00 AM
-17461,"The Horrorific, Evilfear",The Scoundrel and Flask,45.25,Golems' Stonesapphire Gold Of The Glacier,74.00,176.00,160.00,13024.0000,11840.0000,36114.96000000,10/22/2017 @ 12:00:00 AM
-512,Evilbrood,Eved Castle,28.00,Succubi's Evil Mindzephyr Adamant Of The Desert,206.00,555.09,39.00,114348.5400,8034.0000,156649.65120000,10/22/2017 @ 12:00:00 AM
-29871,"Dawn, Tarot",The Greedy Wench,13.31,Incubi's Glittering Tin Of The Future,192.00,192.96,233.49,37048.3200,44830.0800,92776.41504000,10/22/2017 @ 12:00:00 AM
-4062,"The Evil, Snowflame",The Pirate's Pipe,15.40,Mind Lead,165.00,756.00,199.17,124740.0000,32863.0500,181873.91970000,10/22/2017 @ 12:00:00 AM
-26324,"The Cremator, Blazeflare",Barad Cune,49.21,Warlocks' Timerot Mithril,291.00,194.65,176.95,56643.1500,51492.4500,161349.12876000,10/22/2017 @ 12:00:00 AM
-15857,"Seeker, Fate",The Tower of Aramum,20.00,Shadowhell Mithril,266.00,462.21,420.19,122947.8600,111770.5400,281662.08000000,10/22/2017 @ 12:00:00 AM
+36498,Emberfire,The Fen of the Necromancer,32.21,Vampires' Hammer Emeraldmetal,286.00,93.70,85.18,26798.2000,24361.4800,67638.21292800,10/22/2007 @ 12:00:00 AM
+35253,"Dawn, Darkzealot",The Fen of the Necromancer,32.21,Lycanthropes' Gold,380.00,449.88,408.98,170954.4000,155412.4000,431489.54628000,10/22/2007 @ 12:00:00 AM
+11477,"Law, Lionwatcher",Mahyrst Keep,28.45,Mistgold Of Men,88.00,412.50,375.00,36300.0000,33000.0000,89015.85000000,10/22/2007 @ 12:00:00 AM
+10422,"Evilember, The Firey",The Dungeon of Dismal Terror,44.30,Pearl Mirrorice Steel Of Changelings,142.00,2996.00,302.00,425432.0000,42884.0000,675779.98800000,10/22/2007 @ 12:00:00 AM
+22375,"Lenwenye, Goddess of Travel",The Tower of Sabiesu the Awesome,10.00,Warlocks' Timerot Mithril,245.00,194.65,176.95,47689.2500,43352.7500,100146.20000000,10/22/2007 @ 12:00:00 AM
+22796,Ironbrood,The Tower of Sabiesu the Awesome,10.00,Fleshshock Mercury,74.00,-31.02,-28.20,-2295.4800,-2086.8000,-4820.50800000,10/22/2007 @ 12:00:00 AM
+8099,"Spikebrood, The Disinterred",The Black Barrow of Bery,19.80,Unknowable Mindsilver,117.00,174.90,174.90,20463.3000,20463.3000,49030.06680000,10/22/2007 @ 12:00:00 AM
+32658,"Spiketerror, The Skeletal",North Arcanist's Farthing,3.66,Magicians' Legendary Poison Metal,165.00,-52.81,-48.01,-8713.6500,-7921.6500,-17244.15198000,10/22/2007 @ 12:00:00 AM
+17461,"Evilfear, The Horrorific",The Scoundrel and Flask,45.25,Golems' Stonesapphire Gold Of The Glacier,74.00,176.00,160.00,13024.0000,11840.0000,36114.96000000,10/22/2007 @ 12:00:00 AM
+512,Evilbrood,Eved Castle,28.00,Succubi's Evil Mindzephyr Adamant Of The Desert,206.00,555.09,39.00,114348.5400,8034.0000,156649.65120000,10/22/2007 @ 12:00:00 AM
+29871,"Tarot, Dawn",The Greedy Wench,13.31,Incubi's Glittering Tin Of The Future,192.00,192.96,233.49,37048.3200,44830.0800,92776.41504000,10/22/2007 @ 12:00:00 AM
+4062,"Snowflame, The Evil",The Pirate's Pipe,15.40,Mind Lead,165.00,756.00,199.17,124740.0000,32863.0500,181873.91970000,10/22/2017 @ 12:00:00 AM
+26324,"Blazeflare, The Cremator",Barad Cune,49.21,Warlocks' Timerot Mithril,291.00,194.65,176.95,56643.1500,51492.4500,161349.12876000,10/22/2007 @ 12:00:00 AM
+15857,"Fate, Seeker",The Tower of Aramum,20.00,Shadowhell Mithril,266.00,462.21,420.19,122947.8600,111770.5400,281662.08000000,10/22/2007 @ 12:00:00 AM

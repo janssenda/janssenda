@@ -1,24 +1,24 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-24348,"The Freezer, Shiverflame",The Bastion of Barbos,25.41,Ensorceled Sandmetal Of Spirits,235.00,85.18,77.44,20017.3000,18198.4000,47926.30937000,03/14/2016 @ 12:00:00 AM
-11200,"God of Death, Selik",Mahyrst Keep,28.45,Primordial Plague Mercury Of Legend,172.00,1150.79,67.00,197935.8800,11524.0000,269051.21586000,03/14/2016 @ 12:00:00 AM
-25780,Beamtrap,The Pirate's Pipe,16.94,Starsmoke Bronze Of Life,285.00,-438.00,420.81,-124830.0000,119930.8500,-5729.06601000,03/14/2016 @ 12:00:00 AM
-36545,Emberspawn,The Fen of the Necromancer,32.21,Ensorceled Sandmetal Of Spirits,202.00,85.18,93.70,17206.3600,18927.4000,47772.44409600,03/14/2016 @ 12:00:00 AM
-1497,"Jester, Seraph",The Warrior and Flagon,9.00,Glittering Orichalcum,191.00,2056.00,330.00,392696.0000,63030.0000,496741.34000000,03/14/2016 @ 12:00:00 AM
-34152,"The Machine, Wheelbolt",Barad Cune,49.21,Unspeakable Rotsoul Mithril Of Souls,83.00,370.26,336.60,30731.5800,27937.8000,87540.58189800,03/14/2016 @ 12:00:00 AM
-34317,"Lionwatcher, Law",Reheath Stronghold,39.60,Warlocks' Timerot Mithril,216.00,194.65,194.65,42044.4000,42044.4000,117387.96480000,03/14/2016 @ 12:00:00 AM
-35570,"Godwarlock, Sunrise",The Fortress of the Lich Queen,22.79,Yellow Mistearth Copper,151.00,287.98,261.80,43484.9800,39531.8000,101936.30416200,03/14/2016 @ 12:00:00 AM
-20378,Emberspawn,The Greedy Wench,13.31,Fairies' Supreme Mistsmoke Lead Of The Future,252.00,499.73,499.73,125931.9600,125931.9600,285387.00775200,03/14/2016 @ 12:00:00 AM
-22925,"Lionwatcher, Law",Moor Village,11.32,Forgotten Mithril,242.00,545.71,496.10,132061.8200,120056.2000,280657.77986400,03/14/2016 @ 12:00:00 AM
-30180,"Lord of Death, Addon",The Greedy Wench,13.31,Heavenly Dreamsilver Of The Night,282.00,719.00,314.60,202758.0000,88717.2000,330270.54912000,03/14/2016 @ 12:00:00 AM
-31494,"God of War, Ingwenel",The Bastion of Gothmog of Udun,-2.66,Pearl Mirrorice Steel Of Changelings,181.00,365.42,365.42,66141.0200,66141.0200,128763.33773600,03/14/2016 @ 12:00:00 AM
-20826,"Felldrake, Magus",The Tomb of Hellish Ruin,36.30,Vampires' Fang Emeraldsilver,276.00,2033.69,80.84,561298.4400,22311.8400,795460.81164000,03/14/2016 @ 12:00:00 AM
-29336,"The Blade, Steelterror",The Citadel of Alammius,32.67,Fleshshock Mercury,97.00,-31.02,-28.20,-3008.9400,-2735.4000,-7621.01587800,03/14/2016 @ 12:00:00 AM
-18665,Cinderember,The Dancing Minstrel,39.62,Undeads' Mind Orichalcum Of The Twilight,114.00,1169.00,331.54,133266.0000,37795.5600,238836.15007200,03/14/2016 @ 12:00:00 AM
-6345,"God of Love, Prusu",The Barrow of Terrible Horror,27.39,Violetdream Iron,330.00,414.98,377.25,136943.4000,124492.5000,333043.19301000,03/14/2016 @ 12:00:00 AM
-6523,Bronzespawn,Archring Borough,29.70,Trolls' Rubymercury Of The Sunset,286.00,2733.00,443.00,781638.0000,126698.0000,1178111.79200000,03/14/2016 @ 12:00:00 AM
-17804,"The Mechanical, Snarepiston",Bergfison's Deep,16.00,Poison Adamant,237.00,110.96,100.87,26297.5200,23906.1900,58236.30360000,03/14/2016 @ 12:00:00 AM
-15350,"The Grasping, Nailpiston",The Dungeon of Merciless Woe,3.61,Shadowhell Mithril,220.00,462.21,420.19,101686.2000,92441.8000,201136.02080000,03/14/2016 @ 12:00:00 AM
-14171,"Tombreaper, Rouge",North Arcanist's Farthing,2.75,Mind Lead,221.00,241.00,219.09,53261.0000,48418.8900,104476.08697500,03/14/2016 @ 12:00:00 AM
-37010,"Lord of the Sea, Penur",The Greedy Wench,13.31,Ghouls' Imperial Soulzephyr Mithril Of The Seas,44.00,318.23,318.23,14002.1200,14002.1200,31731.60434400,03/14/2016 @ 12:00:00 AM
-13187,Bronzespawn,Dysley Stronghold,35.51,Sapphire Mindlead,183.00,-44.77,-40.70,-8192.9100,-7448.1000,-21195.13265100,03/14/2016 @ 12:00:00 AM
-14518,"Drakecaster, Sephiroth",Noble's Village,5.43,Sphinxes' Unknown Poisongold Of The Future,203.00,3971.47,14.30,806208.4100,2902.9000,853046.05413300,03/14/2016 @ 12:00:00 AM
+24348,"Shiverflame, The Freezer",The Bastion of Barbos,25.41,Ensorceled Sandmetal Of Spirits,235.00,85.18,77.44,20017.3000,18198.4000,47926.30937000,03/14/2006 @ 12:00:00 AM
+11200,"Selik, God of Death",Mahyrst Keep,28.45,Primordial Plague Mercury Of Legend,172.00,1150.79,67.00,197935.8800,11524.0000,269051.21586000,03/14/2006 @ 12:00:00 AM
+25780,Beamtrap,The Pirate's Pipe,16.94,Starsmoke Bronze Of Life,285.00,-438.00,420.81,-124830.0000,119930.8500,-5729.06601000,03/14/2006 @ 12:00:00 AM
+36545,Emberspawn,The Fen of the Necromancer,32.21,Ensorceled Sandmetal Of Spirits,202.00,85.18,93.70,17206.3600,18927.4000,47772.44409600,03/14/2006 @ 12:00:00 AM
+1497,"Seraph, Jester",The Warrior and Flagon,9.00,Glittering Orichalcum,191.00,2056.00,330.00,392696.0000,63030.0000,496741.34000000,03/14/2006 @ 12:00:00 AM
+34152,"Wheelbolt, The Machine",Barad Cune,49.21,Unspeakable Rotsoul Mithril Of Souls,83.00,370.26,336.60,30731.5800,27937.8000,87540.58189800,03/14/2016 @ 12:00:00 AM
+34317,"Law, Lionwatcher",Reheath Stronghold,39.60,Warlocks' Timerot Mithril,216.00,194.65,194.65,42044.4000,42044.4000,117387.96480000,03/14/2006 @ 12:00:00 AM
+35570,"Sunrise, Godwarlock",The Fortress of the Lich Queen,22.79,Yellow Mistearth Copper,151.00,287.98,261.80,43484.9800,39531.8000,101936.30416200,03/14/2016 @ 12:00:00 AM
+20378,Emberspawn,The Greedy Wench,13.31,Fairies' Supreme Mistsmoke Lead Of The Future,252.00,499.73,499.73,125931.9600,125931.9600,285387.00775200,03/14/2006 @ 12:00:00 AM
+22925,"Law, Lionwatcher",Moor Village,11.32,Forgotten Mithril,242.00,545.71,496.10,132061.8200,120056.2000,280657.77986400,03/14/2006 @ 12:00:00 AM
+30180,"Addon, Lord of Death",The Greedy Wench,13.31,Heavenly Dreamsilver Of The Night,282.00,719.00,314.60,202758.0000,88717.2000,330270.54912000,03/14/2006 @ 12:00:00 AM
+31494,"Ingwenel, God of War",The Bastion of Gothmog of Udun,-2.66,Pearl Mirrorice Steel Of Changelings,181.00,365.42,365.42,66141.0200,66141.0200,128763.33773600,03/14/2006 @ 12:00:00 AM
+20826,"Magus, Felldrake",The Tomb of Hellish Ruin,36.30,Vampires' Fang Emeraldsilver,276.00,2033.69,80.84,561298.4400,22311.8400,795460.81164000,03/14/2006 @ 12:00:00 AM
+29336,"Steelterror, The Blade",The Citadel of Alammius,32.67,Fleshshock Mercury,97.00,-31.02,-28.20,-3008.9400,-2735.4000,-7621.01587800,03/14/2006 @ 12:00:00 AM
+18665,Cinderember,The Dancing Minstrel,39.62,Undeads' Mind Orichalcum Of The Twilight,114.00,1169.00,331.54,133266.0000,37795.5600,238836.15007200,03/14/2006 @ 12:00:00 AM
+6345,"Prusu, God of Love",The Barrow of Terrible Horror,27.39,Violetdream Iron,330.00,414.98,377.25,136943.4000,124492.5000,333043.19301000,03/14/2006 @ 12:00:00 AM
+6523,Bronzespawn,Archring Borough,29.70,Trolls' Rubymercury Of The Sunset,286.00,2733.00,443.00,781638.0000,126698.0000,1178111.79200000,03/14/2006 @ 12:00:00 AM
+17804,"Snarepiston, The Mechanical",Bergfison's Deep,16.00,Poison Adamant,237.00,110.96,100.87,26297.5200,23906.1900,58236.30360000,03/14/2006 @ 12:00:00 AM
+15350,"Nailpiston, The Grasping",The Dungeon of Merciless Woe,3.61,Shadowhell Mithril,220.00,462.21,420.19,101686.2000,92441.8000,201136.02080000,03/14/2006 @ 12:00:00 AM
+14171,"Rouge, Tombreaper",North Arcanist's Farthing,2.75,Mind Lead,221.00,241.00,219.09,53261.0000,48418.8900,104476.08697500,03/14/2006 @ 12:00:00 AM
+37010,"Penur, Lord of the Sea",The Greedy Wench,13.31,Ghouls' Imperial Soulzephyr Mithril Of The Seas,44.00,318.23,318.23,14002.1200,14002.1200,31731.60434400,03/14/2006 @ 12:00:00 AM
+13187,Bronzespawn,Dysley Stronghold,35.51,Sapphire Mindlead,183.00,-44.77,-40.70,-8192.9100,-7448.1000,-21195.13265100,03/14/2006 @ 12:00:00 AM
+14518,"Sephiroth, Drakecaster",Noble's Village,5.43,Sphinxes' Unknown Poisongold Of The Future,203.00,3971.47,14.30,806208.4100,2902.9000,853046.05413300,03/14/2006 @ 12:00:00 AM

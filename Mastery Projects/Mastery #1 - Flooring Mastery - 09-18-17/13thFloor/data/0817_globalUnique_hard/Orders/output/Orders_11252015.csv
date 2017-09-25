@@ -1,19 +1,19 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-40,"Tomblion, Shadow",Gawold Castle,9.35,Magicians' Legendary Poison Metal,218.00,3615.00,-48.01,788070.0000,-10466.1800,850309.77717000,11/25/2015 @ 12:00:00 AM
-24435,"Bladewitch, Zeal",Eved Castle,30.80,Foul Ice Bronze Of Life,118.00,292.82,266.20,34552.7600,31411.6000,86281.38288000,11/25/2015 @ 12:00:00 AM
-2574,"Knightseraph, Lance",Pewold Keep,29.00,Forgotten Mithril,67.00,3909.75,451.00,261953.2500,30217.0000,376899.62250000,11/25/2015 @ 12:00:00 AM
-2896,"The Firey, Evilember",The Cracked Chalice,-4.37,Violetdream Iron,286.00,2680.00,377.25,766480.0000,107893.5000,836163.37805000,11/25/2015 @ 12:00:00 AM
-12971,"The Frigid, Icechill",Gili's Delve,35.89,Foulopal Copper Of The Skies,172.00,201.66,201.66,34685.5200,34685.5200,94268.30625600,11/25/2015 @ 12:00:00 AM
-22802,"Lady of Vengeance, Zepul",The Tower of Sabiesu the Awesome,10.00,Fleshshock Mercury,233.00,-31.02,-28.20,-7227.6600,-6570.6000,-15178.08600000,11/25/2015 @ 12:00:00 AM
-32411,"The Grasping, Nettool",Hafeld Keep,47.59,Grayplatinum,237.00,2548.00,104.94,603876.0000,24870.7800,927967.37260200,11/25/2015 @ 12:00:00 AM
-30317,"The Machine, Wheelbolt",The Tower of Sabiesu the Awesome,10.00,Heavenly Dreamsilver Of The Night,133.00,719.00,314.60,95627.0000,41841.8000,151215.68000000,11/25/2015 @ 12:00:00 AM
-16123,Springcoil,The Pirate's Pipe,16.94,Swordbronze,317.00,333.30,303.00,105656.1000,96051.0000,235876.28274000,11/25/2015 @ 12:00:00 AM
-30569,"Mist, Claw",The Broken Arrow,17.60,Witchs' Forbidden Rockrainbow Bronze,257.00,245.63,245.63,63126.9100,63126.9100,148474.49232000,11/25/2015 @ 12:00:00 AM
-5052,Spikecrank,Archring Borough,27.00,Forgotten Mithril,216.00,3909.75,451.00,844506.0000,97416.0000,1196240.94000000,11/25/2015 @ 12:00:00 AM
-791,"Veil, Bane",Reyny Keep,-3.35,Unknown Fatelightning Steel Of The Glacier,98.00,305.86,109.00,29974.2800,10682.0000,39294.29462000,11/25/2015 @ 12:00:00 AM
-16469,"Lord of the Sun, Maglioneth",The Secret Shrine of the Gargoyle Count,23.93,Vampires' Hammer Emeraldmetal,241.00,77.44,77.44,18663.0400,18663.0400,46258.21094400,11/25/2015 @ 12:00:00 AM
-6718,"Tombreaper, Rouge",The Dismal Marsh,27.00,Violetdream Iron,127.00,414.98,377.25,52702.4600,47910.7500,127778.77670000,11/25/2015 @ 12:00:00 AM
-26467,"Rougehate, Rune",The Chuallanto Jungle,11.00,Shadowhell Mithril,118.00,462.21,420.19,54540.7800,49582.4200,115576.75200000,11/25/2015 @ 12:00:00 AM
-3220,"Tsunami, Seraphim",The Khazahol Crags,20.68,Succubi's Evil Mindzephyr Adamant Of The Desert,235.00,555.09,42.90,130446.1500,10081.5000,169588.76802000,11/25/2015 @ 12:00:00 AM
-5936,"The Disinterred, Spikebrood",The Bastion of the Vampire Duke,34.45,Venom Jewelmetal Of The Desert,113.00,701.92,167.16,79316.9600,18889.0800,132038.02078000,11/25/2015 @ 12:00:00 AM
-4663,"The Machine, Evilcoil",Eved Castle,28.00,Incubi's Iron Of The Dawn,205.00,-431.08,159.08,-88371.4000,32611.4000,-71372.80000000,11/25/2015 @ 12:00:00 AM
+40,"Tomblion, Shadow",Gawold Castle,9.35,Magicians' Legendary Poison Metal,218.00,3615.00,-48.01,788070.0000,-10466.1800,850309.77717000,11/25/1945 @ 12:00:00 AM
+24435,"Bladewitch, Zeal",Eved Castle,30.80,Foul Ice Bronze Of Life,118.00,292.82,266.20,34552.7600,31411.6000,86281.38288000,11/25/1945 @ 12:00:00 AM
+2574,"Knightseraph, Lance",Pewold Keep,29.00,Forgotten Mithril,67.00,3909.75,451.00,261953.2500,30217.0000,376899.62250000,11/25/1945 @ 12:00:00 AM
+2896,"The Firey, Evilember",The Cracked Chalice,-4.37,Violetdream Iron,286.00,2680.00,377.25,766480.0000,107893.5000,836163.37805000,11/25/1945 @ 12:00:00 AM
+12971,"The Frigid, Icechill",Gili's Delve,35.89,Foulopal Copper Of The Skies,172.00,201.66,201.66,34685.5200,34685.5200,94268.30625600,11/25/1945 @ 12:00:00 AM
+22802,"Lady of Vengeance, Zepul",The Tower of Sabiesu the Awesome,10.00,Fleshshock Mercury,233.00,-31.02,-28.20,-7227.6600,-6570.6000,-15178.08600000,11/25/1945 @ 12:00:00 AM
+32411,"The Grasping, Nettool",Hafeld Keep,47.59,Grayplatinum,237.00,2548.00,104.94,603876.0000,24870.7800,927967.37260200,11/25/1945 @ 12:00:00 AM
+30317,"The Machine, Wheelbolt",The Tower of Sabiesu the Awesome,10.00,Heavenly Dreamsilver Of The Night,133.00,719.00,314.60,95627.0000,41841.8000,151215.68000000,11/25/1945 @ 12:00:00 AM
+16123,Springcoil,The Pirate's Pipe,16.94,Swordbronze,317.00,333.30,303.00,105656.1000,96051.0000,235876.28274000,11/25/1945 @ 12:00:00 AM
+30569,"Mist, Claw",The Broken Arrow,17.60,Witchs' Forbidden Rockrainbow Bronze,257.00,245.63,245.63,63126.9100,63126.9100,148474.49232000,11/25/1945 @ 12:00:00 AM
+5052,Spikecrank,Archring Borough,27.00,Forgotten Mithril,216.00,3909.75,451.00,844506.0000,97416.0000,1196240.94000000,11/25/1945 @ 12:00:00 AM
+791,"Veil, Bane",Reyny Keep,-3.35,Unknown Fatelightning Steel Of The Glacier,98.00,305.86,109.00,29974.2800,10682.0000,39294.29462000,11/25/1945 @ 12:00:00 AM
+16469,"Lord of the Sun, Maglioneth",The Secret Shrine of the Gargoyle Count,23.93,Vampires' Hammer Emeraldmetal,241.00,77.44,77.44,18663.0400,18663.0400,46258.21094400,11/25/1945 @ 12:00:00 AM
+6718,"Tombreaper, Rouge",The Dismal Marsh,27.00,Violetdream Iron,127.00,414.98,377.25,52702.4600,47910.7500,127778.77670000,11/25/1945 @ 12:00:00 AM
+26467,"Rougehate, Rune",The Chuallanto Jungle,11.00,Shadowhell Mithril,118.00,462.21,420.19,54540.7800,49582.4200,115576.75200000,11/25/1945 @ 12:00:00 AM
+3220,"Tsunami, Seraphim",The Khazahol Crags,20.68,Succubi's Evil Mindzephyr Adamant Of The Desert,235.00,555.09,42.90,130446.1500,10081.5000,169588.76802000,11/25/1945 @ 12:00:00 AM
+5936,"The Disinterred, Spikebrood",The Bastion of the Vampire Duke,34.45,Venom Jewelmetal Of The Desert,113.00,701.92,167.16,79316.9600,18889.0800,132038.02078000,11/25/1945 @ 12:00:00 AM
+4663,"The Machine, Evilcoil",Eved Castle,28.00,Incubi's Iron Of The Dawn,205.00,-431.08,159.08,-88371.4000,32611.4000,-71372.80000000,11/25/1945 @ 12:00:00 AM

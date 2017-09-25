@@ -1,23 +1,23 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-2517,"Amberslayer, Flora",Pewold Keep,29.00,Glowpearl Adamant Of Spirits,145.00,-111.88,216.40,-16222.6000,31378.0000,19550.46600000,08/31/2016 @ 12:00:00 AM
-1240,"The Terrifying, Deathspike",Reyny Keep,-3.35,Zephyr Adamant,126.00,481.77,-40.13,60703.0200,-5056.3800,53782.47756000,08/31/2016 @ 12:00:00 AM
-11512,"Godseeker, Cult",The Fortress of the Lich Queen,18.84,Violetstone Tin Of Death,236.00,2091.85,20.90,493676.6000,4932.4000,592546.93560000,08/31/2016 @ 12:00:00 AM
-11807,"Goddess of Knowledge, Ahah",Citadel Ward,4.40,Emerald Orichalcum,156.00,1957.00,129.81,305292.0000,20250.3600,339866.22384000,08/31/2016 @ 12:00:00 AM
-21559,"God of Resurrection, Gadriel",Reyny Keep,-3.35,Yellow Mistearth Copper,70.00,287.98,261.80,20158.6000,18326.0000,37195.36590000,08/31/2016 @ 12:00:00 AM
-34852,"Tombreaper, Rouge",The Bastion of the Vampire Duke,45.86,Grayplatinum,172.00,2548.00,115.43,438256.0000,19853.9600,668199.18765600,08/31/2016 @ 12:00:00 AM
-31301,"Claw, Slayer",Hafeld Keep,47.59,Warlocks' Timerot Mithril,136.00,194.65,194.65,26472.4000,26472.4000,78141.23032000,08/31/2016 @ 12:00:00 AM
-20778,"God of Animals, Byzou",Gena's Hold,5.85,Fairies' Supreme Mistsmoke Lead Of The Future,62.00,499.73,499.73,30983.2600,30983.2600,65591.56142000,08/31/2016 @ 12:00:00 AM
-29229,"Lord of Nightmares, Iran",Bifar's Deep,12.21,Heavenly Dreamsilver Of The Night,242.00,719.00,314.60,173998.0000,76133.2000,280672.21952000,08/31/2016 @ 12:00:00 AM
-262,"The Horrorific, Evilfear",Bergfison's Deep,16.00,Meteoric Dustzephyr Orichalcum,131.00,3549.00,2.00,464919.0000,262.0000,539609.96000000,08/31/2016 @ 12:00:00 AM
-30389,"God of Love, Prusu",The Tower of Sabiesu the Awesome,10.00,White Platinum,246.00,101.02,91.84,24850.9200,22592.6400,52187.91600000,08/31/2016 @ 12:00:00 AM
-30338,"Lord of Animals, Suriel",The Greedy Wench,13.31,Swordbronze,265.00,403.29,366.63,106871.8500,97156.9500,231185.03328000,08/31/2016 @ 12:00:00 AM
-323,"God of Love, Prusu",The Bastion of Sthasu the Gruesome,40.00,Stone Soulsteel Of The Skies,191.00,3459.15,340.58,660697.6500,65050.7800,1016047.80200000,08/31/2016 @ 12:00:00 AM
-6319,"The Unspeakable, Scarechain",Khali's Delve,1.18,Hidden Shadowice Lead,307.00,3068.90,-15.00,942152.3000,-4605.0000,948610.35814000,08/31/2016 @ 12:00:00 AM
-16322,Springsprocket,The Pirate's Pipe,16.94,Incubi's Iron Of The Dawn,253.00,174.99,174.99,44272.4700,44272.4700,103544.45283600,08/31/2016 @ 12:00:00 AM
-758,"Goddess of the Earth, Gono",The Fen of the Necromancer,20.00,Magicians' Legendary Poison Metal,153.00,3615.00,-48.01,553095.0000,-7345.5300,654899.36400000,08/31/2016 @ 12:00:00 AM
-15533,Freezebrood,The Tower of Aramum,20.00,Sirens' Rockgold,131.00,306.13,306.13,40103.0300,40103.0300,96247.27200000,08/31/2016 @ 12:00:00 AM
-28828,"Brand, Lightning",The Citadel of Alammius,32.67,Hidden Shadowice Lead,230.00,-16.50,-16.50,-3795.0000,-3795.0000,-10069.65300000,08/31/2016 @ 12:00:00 AM
-27568,"Wolf, Jericho",The Bastion of Gothmog of Udun,-2.42,Sprites' Transcendent Mud Lead Of The South,1.00,3338.65,267.08,3338.6500,267.0800,3518.47133400,08/31/2016 @ 12:00:00 AM
-5869,"Amberslayer, Flora",Pawic Keep,31.90,Undeads' Mind Orichalcum Of The Twilight,186.00,1169.00,301.40,217434.0000,56060.4000,360739.11360000,08/31/2016 @ 12:00:00 AM
-13257,"Mist, Claw",The Hunter and Rose,39.60,Magicians' Legendary Poison Metal,105.00,-52.81,-48.01,-5545.0500,-5041.0500,-14778.19560000,08/31/2016 @ 12:00:00 AM
-26709,Chainnail,Reheath Stronghold,39.60,Heavenly Dreamsilver Of The Night,119.00,719.00,314.60,85561.0000,37437.4000,171705.76640000,08/31/2016 @ 12:00:00 AM
+2517,"Flora, Amberslayer",Pewold Keep,29.00,Glowpearl Adamant Of Spirits,145.00,-111.88,216.40,-16222.6000,31378.0000,19550.46600000,08/31/2006 @ 12:00:00 AM
+1240,"Deathspike, The Terrifying",Reyny Keep,-3.35,Zephyr Adamant,126.00,481.77,-40.13,60703.0200,-5056.3800,53782.47756000,08/31/2006 @ 12:00:00 AM
+11512,"Cult, Godseeker",The Fortress of the Lich Queen,18.84,Violetstone Tin Of Death,236.00,2091.85,20.90,493676.6000,4932.4000,592546.93560000,08/31/2006 @ 12:00:00 AM
+11807,"Ahah, Goddess of Knowledge",Citadel Ward,4.40,Emerald Orichalcum,156.00,1957.00,129.81,305292.0000,20250.3600,339866.22384000,08/31/2006 @ 12:00:00 AM
+21559,"Gadriel, God of Resurrection",Reyny Keep,-3.35,Yellow Mistearth Copper,70.00,287.98,261.80,20158.6000,18326.0000,37195.36590000,08/31/2006 @ 12:00:00 AM
+34852,"Rouge, Tombreaper",The Bastion of the Vampire Duke,45.86,Grayplatinum,172.00,2548.00,115.43,438256.0000,19853.9600,668199.18765600,08/31/2006 @ 12:00:00 AM
+31301,"Slayer, Claw",Hafeld Keep,47.59,Warlocks' Timerot Mithril,136.00,194.65,194.65,26472.4000,26472.4000,78141.23032000,08/31/2006 @ 12:00:00 AM
+20778,"Byzou, God of Animals",Gena's Hold,5.85,Fairies' Supreme Mistsmoke Lead Of The Future,62.00,499.73,499.73,30983.2600,30983.2600,65591.56142000,08/31/2006 @ 12:00:00 AM
+29229,"Iran, Lord of Nightmares",Bifar's Deep,12.21,Heavenly Dreamsilver Of The Night,242.00,719.00,314.60,173998.0000,76133.2000,280672.21952000,08/31/2006 @ 12:00:00 AM
+262,"Evilfear, The Horrorific",Bergfison's Deep,16.00,Meteoric Dustzephyr Orichalcum,131.00,3549.00,2.00,464919.0000,262.0000,539609.96000000,08/31/2006 @ 12:00:00 AM
+30389,"Prusu, God of Love",The Tower of Sabiesu the Awesome,10.00,White Platinum,246.00,101.02,91.84,24850.9200,22592.6400,52187.91600000,08/31/2006 @ 12:00:00 AM
+30338,"Suriel, Lord of Animals",The Greedy Wench,13.31,Swordbronze,265.00,403.29,366.63,106871.8500,97156.9500,231185.03328000,08/31/2006 @ 12:00:00 AM
+323,"Prusu, God of Love",The Bastion of Sthasu the Gruesome,40.00,Stone Soulsteel Of The Skies,191.00,3459.15,340.58,660697.6500,65050.7800,1016047.80200000,08/31/2006 @ 12:00:00 AM
+6319,"Scarechain, The Unspeakable",Khali's Delve,1.18,Hidden Shadowice Lead,307.00,3068.90,-15.00,942152.3000,-4605.0000,948610.35814000,08/31/2006 @ 12:00:00 AM
+16322,Springsprocket,The Pirate's Pipe,16.94,Incubi's Iron Of The Dawn,253.00,174.99,174.99,44272.4700,44272.4700,103544.45283600,08/31/2006 @ 12:00:00 AM
+758,"Gono, Goddess of the Earth",The Fen of the Necromancer,20.00,Magicians' Legendary Poison Metal,153.00,3615.00,-48.01,553095.0000,-7345.5300,654899.36400000,08/31/2006 @ 12:00:00 AM
+15533,Freezebrood,The Tower of Aramum,20.00,Sirens' Rockgold,131.00,306.13,306.13,40103.0300,40103.0300,96247.27200000,08/31/2006 @ 12:00:00 AM
+28828,"Lightning, Brand",The Citadel of Alammius,32.67,Hidden Shadowice Lead,230.00,-16.50,-16.50,-3795.0000,-3795.0000,-10069.65300000,08/31/2006 @ 12:00:00 AM
+27568,"Jericho, Wolf",The Bastion of Gothmog of Udun,-2.42,Sprites' Transcendent Mud Lead Of The South,1.00,3338.65,267.08,3338.6500,267.0800,3518.47133400,08/31/2006 @ 12:00:00 AM
+5869,"Flora, Amberslayer",Pawic Keep,31.90,Undeads' Mind Orichalcum Of The Twilight,186.00,1169.00,301.40,217434.0000,56060.4000,360739.11360000,08/31/2006 @ 12:00:00 AM
+13257,"Claw, Mist",The Hunter and Rose,39.60,Magicians' Legendary Poison Metal,105.00,-52.81,-48.01,-5545.0500,-5041.0500,-14778.19560000,08/31/2006 @ 12:00:00 AM
+26709,Chainnail,Reheath Stronghold,39.60,Heavenly Dreamsilver Of The Night,119.00,719.00,314.60,85561.0000,37437.4000,171705.76640000,08/31/2006 @ 12:00:00 AM

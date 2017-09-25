@@ -1,16 +1,16 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-25727,"God of Fate, Uriel",North Arcanist's Farthing,3.03,Unspeakable Rotsoul Mithril Of Souls,235.00,370.26,336.60,87011.1000,79101.0000,171145.29663000,09/15/2017 @ 12:00:00 AM
-22167,Spikesnare,The Tower of Sabiesu the Awesome,10.00,Fleshshock Mercury,165.00,-31.02,-28.20,-5118.3000,-4653.0000,-10748.43000000,09/15/2017 @ 12:00:00 AM
-11721,"The Grasping, Nailpiston",The Broken Shield,12.00,Primordial Plague Mercury Of Legend,183.00,1150.79,67.00,210594.5700,12261.0000,249598.23840000,09/15/2017 @ 12:00:00 AM
-33099,"Lord of Nightmares, Iran",Pewold Keep,29.00,Mind Lead,136.00,241.00,219.09,32776.0000,29796.2400,80718.18960000,09/15/2017 @ 12:00:00 AM
-8002,"The Cold, Burnfreeze",Gawold Castle,10.29,Zephyr Adamant,202.00,481.77,-44.14,97317.5400,-8916.2800,97497.74965400,09/15/2017 @ 12:00:00 AM
-19488,Deathbrood,The Bastion of Barbos,25.41,Trolls' Mist Poisonplatinum Of The Twilight,159.00,484.62,440.56,77054.5800,70049.0400,184482.64984200,09/15/2017 @ 12:00:00 AM
-891,"Knightseraph, Lance",Palace Farthing,13.00,Unknown Fatelightning Steel Of The Glacier,60.00,305.86,109.00,18351.6000,6540.0000,28127.50800000,09/15/2017 @ 12:00:00 AM
-17856,"Amberslayer, Flora",The Bastion of the Vampire Duke,37.90,Mithril Of The Tropics,104.00,276.72,251.56,28778.8800,26162.2400,75763.80448000,09/15/2017 @ 12:00:00 AM
-15251,"Godseeker, Cult",The Secret Shrine of the Gargoyle Count,23.93,Fleshshock Mercury,310.00,-31.02,-28.20,-9616.2000,-8742.0000,-22751.31726000,09/15/2017 @ 12:00:00 AM
-15324,"The Horrorific, Evilfear",The Tower of Aramum,20.00,Sirens' Rockgold,56.00,306.13,306.13,17143.2800,17143.2800,41143.87200000,09/15/2017 @ 12:00:00 AM
-29979,Spikerivet,The Tower of Sabiesu the Awesome,10.00,White Platinum,132.00,101.02,91.84,13334.6400,12122.8800,28003.27200000,09/15/2017 @ 12:00:00 AM
-6834,"Ivycaster, Fate",Khali's Delve,1.18,Phantasmal Tin Of The Swamps,151.00,3207.64,305.00,484353.6400,46055.0000,536667.46195200,09/15/2017 @ 12:00:00 AM
-15724,"Mystery, Lord",The Fortress of Asmamur,-2.66,Golems' Stonesapphire Gold Of The Glacier,164.00,176.00,160.00,28864.0000,26240.0000,53638.23360000,09/15/2017 @ 12:00:00 AM
-12185,"Lord of Animals, Suriel",Gifeld Castle,27.28,Fairies' Supreme Mistsmoke Lead Of The Future,282.00,2622.69,454.30,739598.5800,128112.6000,1104422.78990400,09/15/2017 @ 12:00:00 AM
-13553,"The Evil, Snowflame",The Citadel of Alammius,27.00,Primordial Plague Mercury Of Legend,334.00,73.70,67.00,24615.8000,22378.0000,59682.12600000,09/15/2017 @ 12:00:00 AM
+25727,"Uriel, God of Fate",North Arcanist's Farthing,3.03,Unspeakable Rotsoul Mithril Of Souls,235.00,370.26,336.60,87011.1000,79101.0000,171145.29663000,09/15/2007 @ 12:00:00 AM
+22167,Spikesnare,The Tower of Sabiesu the Awesome,10.00,Fleshshock Mercury,165.00,-31.02,-28.20,-5118.3000,-4653.0000,-10748.43000000,09/15/2007 @ 12:00:00 AM
+11721,"Nailpiston, The Grasping",The Broken Shield,12.00,Primordial Plague Mercury Of Legend,183.00,1150.79,67.00,210594.5700,12261.0000,249598.23840000,09/15/2007 @ 12:00:00 AM
+33099,"Iran, Lord of Nightmares",Pewold Keep,29.00,Mind Lead,136.00,241.00,219.09,32776.0000,29796.2400,80718.18960000,09/15/2007 @ 12:00:00 AM
+8002,"Burnfreeze, The Cold",Gawold Castle,10.29,Zephyr Adamant,202.00,481.77,-44.14,97317.5400,-8916.2800,97497.74965400,09/15/2007 @ 12:00:00 AM
+19488,Deathbrood,The Bastion of Barbos,25.41,Trolls' Mist Poisonplatinum Of The Twilight,159.00,484.62,440.56,77054.5800,70049.0400,184482.64984200,09/15/2007 @ 12:00:00 AM
+891,"Lance, Knightseraph",Palace Farthing,13.00,Unknown Fatelightning Steel Of The Glacier,60.00,305.86,109.00,18351.6000,6540.0000,28127.50800000,09/15/2007 @ 12:00:00 AM
+17856,"Flora, Amberslayer",The Bastion of the Vampire Duke,37.90,Mithril Of The Tropics,104.00,276.72,251.56,28778.8800,26162.2400,75763.80448000,09/15/2007 @ 12:00:00 AM
+15251,"Cult, Godseeker",The Secret Shrine of the Gargoyle Count,23.93,Fleshshock Mercury,310.00,-31.02,-28.20,-9616.2000,-8742.0000,-22751.31726000,09/15/2007 @ 12:00:00 AM
+15324,"Evilfear, The Horrorific",The Tower of Aramum,20.00,Sirens' Rockgold,56.00,306.13,306.13,17143.2800,17143.2800,41143.87200000,09/15/2007 @ 12:00:00 AM
+29979,Spikerivet,The Tower of Sabiesu the Awesome,10.00,White Platinum,132.00,101.02,91.84,13334.6400,12122.8800,28003.27200000,09/15/2007 @ 12:00:00 AM
+6834,"Fate, Ivycaster",Khali's Delve,1.18,Phantasmal Tin Of The Swamps,151.00,3207.64,305.00,484353.6400,46055.0000,536667.46195200,09/15/2007 @ 12:00:00 AM
+15724,"Lord, Mystery",The Fortress of Asmamur,-2.66,Golems' Stonesapphire Gold Of The Glacier,164.00,176.00,160.00,28864.0000,26240.0000,53638.23360000,09/15/2007 @ 12:00:00 AM
+12185,"Suriel, Lord of Animals",Gifeld Castle,27.28,Fairies' Supreme Mistsmoke Lead Of The Future,282.00,2622.69,454.30,739598.5800,128112.6000,1104422.78990400,09/15/2007 @ 12:00:00 AM
+13553,"Snowflame, The Evil",The Citadel of Alammius,27.00,Primordial Plague Mercury Of Legend,334.00,73.70,67.00,24615.8000,22378.0000,59682.12600000,09/15/2007 @ 12:00:00 AM

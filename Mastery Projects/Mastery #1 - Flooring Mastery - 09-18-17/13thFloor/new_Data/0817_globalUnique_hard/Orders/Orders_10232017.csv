@@ -1,14 +1,14 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-1018,Evilbrood,The Fortress of Asmamur,-2.00,Yellow Mistearth Copper,327.00,3587.00,238.00,1172949.0000,77826.0000,1225759.50000000,10/23/2017 @ 12:00:00 AM
-24867,"Lawslayer, Valentine",Eved Castle,30.80,Foul Ice Bronze Of Life,102.00,292.82,266.20,29867.6400,27152.4000,74582.21232000,10/23/2017 @ 12:00:00 AM
-19210,"The Blade, Steelterror",The Bastion of Barbos,25.41,Toxic Mistlead Of The Past,224.00,396.06,396.06,88717.4400,88717.4400,222521.08300800,10/23/2017 @ 12:00:00 AM
-21961,"Ivycaster, Fate",The Tomb of Hellish Ruin,36.30,Violetdream Iron,354.00,502.13,456.48,177754.0200,161593.9200,462531.24222000,10/23/2017 @ 12:00:00 AM
-31438,"Lonedrake, Clash",Noble's Village,6.57,Grayplatinum,269.00,2548.00,104.94,685412.0000,28228.8600,760527.06450200,10/23/2017 @ 12:00:00 AM
-20714,"Roguemist, Rouge",Gena's Hold,5.85,Sirens' Rockgold,251.00,336.74,336.74,84521.7400,84521.7400,178932.52358000,10/23/2017 @ 12:00:00 AM
-8913,"Brand, Lightning",Gena's Hold,4.40,Unknowable Mindsilver,332.00,174.90,174.90,58066.8000,58066.8000,121243.47840000,10/23/2017 @ 12:00:00 AM
-7862,"The Evil, Burnchill",The Bastion of Sthasu the Gruesome,40.00,Sirens' Rockgold,150.00,306.13,278.30,45919.5000,41745.0000,122730.30000000,10/23/2017 @ 12:00:00 AM
-974,Beamtrap,The Bloody Wand,1.98,Violetstone Tin Of Death,157.00,2091.85,19.00,328420.4500,2983.0000,337965.23831000,10/23/2017 @ 12:00:00 AM
-17963,"Godseeker, Cult",Kada's Deep,8.42,Ghostly Soul Adamant,54.00,414.70,377.00,22393.8000,20358.0000,46351.50156000,10/23/2017 @ 12:00:00 AM
-28930,Spikesnare,The Nulukkhath Spires,28.99,Unknown Fatelightning Steel Of The Glacier,197.00,145.08,159.59,28580.7600,31439.2300,77419.78510100,10/23/2017 @ 12:00:00 AM
-37337,"Darkzealot, Dawn",The Greedy Wench,13.31,Stone Soulsteel Of The Skies,179.00,453.31,453.31,81142.4900,81142.4900,183885.11083800,10/23/2017 @ 12:00:00 AM
-14784,"Knightseraph, Lance",Dysley Stronghold,35.51,Lycanthropes' Gold,229.00,371.80,338.00,85142.2000,77402.0000,220263.64542000,10/23/2017 @ 12:00:00 AM
+1018,Evilbrood,The Fortress of Asmamur,-2.00,Yellow Mistearth Copper,327.00,3587.00,238.00,1172949.0000,77826.0000,1225759.50000000,10/23/2007 @ 12:00:00 AM
+24867,"Valentine, Lawslayer",Eved Castle,30.80,Foul Ice Bronze Of Life,102.00,292.82,266.20,29867.6400,27152.4000,74582.21232000,10/23/2007 @ 12:00:00 AM
+19210,"Steelterror, The Blade",The Bastion of Barbos,25.41,Toxic Mistlead Of The Past,224.00,396.06,396.06,88717.4400,88717.4400,222521.08300800,10/23/2007 @ 12:00:00 AM
+21961,"Fate, Ivycaster",The Tomb of Hellish Ruin,36.30,Violetdream Iron,354.00,502.13,456.48,177754.0200,161593.9200,462531.24222000,10/23/2007 @ 12:00:00 AM
+31438,"Clash, Lonedrake",Noble's Village,6.57,Grayplatinum,269.00,2548.00,104.94,685412.0000,28228.8600,760527.06450200,10/23/2007 @ 12:00:00 AM
+20714,"Rouge, Roguemist",Gena's Hold,5.85,Sirens' Rockgold,251.00,336.74,336.74,84521.7400,84521.7400,178932.52358000,10/23/2007 @ 12:00:00 AM
+8913,"Lightning, Brand",Gena's Hold,4.40,Unknowable Mindsilver,332.00,174.90,174.90,58066.8000,58066.8000,121243.47840000,10/23/2007 @ 12:00:00 AM
+7862,"Burnchill, The Evil",The Bastion of Sthasu the Gruesome,40.00,Sirens' Rockgold,150.00,306.13,278.30,45919.5000,41745.0000,122730.30000000,10/23/2007 @ 12:00:00 AM
+974,Beamtrap,The Bloody Wand,1.98,Violetstone Tin Of Death,157.00,2091.85,19.00,328420.4500,2983.0000,337965.23831000,10/23/2007 @ 12:00:00 AM
+17963,"Cult, Godseeker",Kada's Deep,8.42,Ghostly Soul Adamant,54.00,414.70,377.00,22393.8000,20358.0000,46351.50156000,10/23/2007 @ 12:00:00 AM
+28930,Spikesnare,The Nulukkhath Spires,28.99,Unknown Fatelightning Steel Of The Glacier,197.00,145.08,159.59,28580.7600,31439.2300,77419.78510100,10/23/2007 @ 12:00:00 AM
+37337,"Dawn, Darkzealot",The Greedy Wench,13.31,Stone Soulsteel Of The Skies,179.00,453.31,453.31,81142.4900,81142.4900,183885.11083800,10/23/2007 @ 12:00:00 AM
+14784,"Lance, Knightseraph",Dysley Stronghold,35.51,Lycanthropes' Gold,229.00,371.80,338.00,85142.2000,77402.0000,220263.64542000,10/23/2007 @ 12:00:00 AM

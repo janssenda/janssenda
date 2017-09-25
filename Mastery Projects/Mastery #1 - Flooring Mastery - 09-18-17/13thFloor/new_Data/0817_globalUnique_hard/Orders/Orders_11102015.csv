@@ -1,22 +1,22 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-1027,"Lonedrake, Clash",The Fen of the Necromancer,20.00,Yellow Mistearth Copper,127.00,3587.00,238.00,455549.0000,30226.0000,582930.00000000,11/10/2015 @ 12:00:00 AM
-12724,Bolttrap,Bifar's Deep,10.09,Dragons' Poison Glitterflesh Steel Of The North,129.00,742.00,82.50,95718.0000,10642.5000,117092.27445000,11/10/2015 @ 12:00:00 AM
-35409,"Lord of the Sea, Penur",Citadel Ward,4.40,Yellow Mistearth Copper,165.00,287.98,261.80,47516.7000,43197.0000,94705.10280000,11/10/2015 @ 12:00:00 AM
-22147,"The Mechanical, Snarepiston",The Nulukkhath Spires,28.99,Fog Lavaplatinum Of Life,184.00,560.35,509.41,103104.4000,93731.4400,253898.55001600,11/10/2015 @ 12:00:00 AM
-2885,"Goddess of Knowledge, Baltha",The Cracked Chalice,-4.37,Emerald Orichalcum,339.00,1957.00,118.01,663423.0000,40005.3900,672688.56935700,11/10/2015 @ 12:00:00 AM
-10272,"Felldrake, Magus",The Secret Shrine of the Gargoyle Count,21.75,Pearl Mirrorice Steel Of Changelings,52.00,2996.00,302.00,155792.0000,15704.0000,208796.38000000,11/10/2015 @ 12:00:00 AM
-10542,"God of War, Ingwenel",Reheath Stronghold,39.60,Fairies' Supreme Mistsmoke Lead Of The Future,80.00,2622.69,454.30,209815.2000,36344.0000,343638.24320000,11/10/2015 @ 12:00:00 AM
-32371,"Runetomb, Song",North Arcanist's Farthing,3.66,Unspeakable Rotsoul Mithril Of Souls,232.00,370.26,336.60,85900.3200,78091.2000,169993.60963200,11/10/2015 @ 12:00:00 AM
-18280,"Wolf, Jericho",The Citadel of Alammius,29.70,Meteoric Mirrormuck Orichalcum Of The Forests,357.00,491.62,405.35,175508.3400,144709.9500,415323.12213000,11/10/2015 @ 12:00:00 AM
-33970,Metalghoul,Barad Cune,49.21,Poison Adamant,243.00,110.96,100.87,26963.2800,24511.4100,76805.38494900,11/10/2015 @ 12:00:00 AM
-17372,"The Chiller, Blazefreeze",The Scoundrel and Flask,45.25,Golems' Stonesapphire Gold Of The Glacier,111.00,176.00,160.00,19536.0000,17760.0000,54172.44000000,11/10/2015 @ 12:00:00 AM
-20912,"God of Resurrection, Gadriel",Moor Village,11.32,Sirens' Rockgold,245.00,336.74,336.74,82501.3000,82501.3000,183680.89432000,11/10/2015 @ 12:00:00 AM
-29793,"Godwarlock, Sunrise",The Tower of Sabiesu the Awesome,10.00,Heavenly Dreamsilver Of The Night,122.00,719.00,314.60,87718.0000,38381.2000,138709.12000000,11/10/2015 @ 12:00:00 AM
-27132,"Lord of Animals, Suriel",The Bastion of Gothmog of Udun,-2.42,Sprites' Transcendent Mud Lead Of The South,271.00,3338.65,267.08,904774.1500,72378.6800,953505.73151400,11/10/2015 @ 12:00:00 AM
-26092,"The Trapper, Boltcrank",Archfane District,15.29,Sapphire Mindlead,113.00,-44.77,-49.25,-5059.0100,-5565.2500,-12248.70935400,11/10/2015 @ 12:00:00 AM
-30950,"The Unspeakable, Scarechain",The Nulukkhath Spires,28.99,Foulopal Copper Of The Skies,83.00,221.83,221.83,18411.8900,18411.8900,47498.99382200,11/10/2015 @ 12:00:00 AM
-4315,Bolttrap,Kada's Deep,7.65,Muck Orichalcum Of Ogres,289.00,2080.00,97.93,601120.0000,28301.7700,677572.53540500,11/10/2015 @ 12:00:00 AM
-5724,"Knightseraph, Lance",Pawic Keep,31.90,Mithril Of Legend,221.00,169.17,186.09,37386.5700,41125.8900,103557.93474000,11/10/2015 @ 12:00:00 AM
-14407,Metalghoul,Gena's Hold,5.85,Vampires' Hammer Emeraldmetal,147.00,77.44,70.40,11383.6800,10348.8000,23003.83008000,11/10/2015 @ 12:00:00 AM
-37248,"The Machine, Wheelbolt",The Greedy Wench,13.31,Stone Soulsteel Of The Skies,208.00,453.31,453.31,94288.4800,94288.4800,213676.55337600,11/10/2015 @ 12:00:00 AM
-13350,"Tombreaper, Rouge",The Lewd King,41.80,Trolls' Mist Poisonplatinum Of The Twilight,284.00,440.56,400.51,125119.0400,113744.8400,338708.98184000,11/10/2015 @ 12:00:00 AM
+1027,"Clash, Lonedrake",The Fen of the Necromancer,20.00,Yellow Mistearth Copper,127.00,3587.00,238.00,455549.0000,30226.0000,582930.00000000,11/10/2005 @ 12:00:00 AM
+12724,Bolttrap,Bifar's Deep,10.09,Dragons' Poison Glitterflesh Steel Of The North,129.00,742.00,82.50,95718.0000,10642.5000,117092.27445000,11/10/2005 @ 12:00:00 AM
+35409,"Penur, Lord of the Sea",Citadel Ward,4.40,Yellow Mistearth Copper,165.00,287.98,261.80,47516.7000,43197.0000,94705.10280000,11/10/2005 @ 12:00:00 AM
+22147,"Snarepiston, The Mechanical",The Nulukkhath Spires,28.99,Fog Lavaplatinum Of Life,184.00,560.35,509.41,103104.4000,93731.4400,253898.55001600,11/10/2005 @ 12:00:00 AM
+2885,"Baltha, Goddess of Knowledge",The Cracked Chalice,-4.37,Emerald Orichalcum,339.00,1957.00,118.01,663423.0000,40005.3900,672688.56935700,11/10/2005 @ 12:00:00 AM
+10272,"Magus, Felldrake",The Secret Shrine of the Gargoyle Count,21.75,Pearl Mirrorice Steel Of Changelings,52.00,2996.00,302.00,155792.0000,15704.0000,208796.38000000,11/10/2005 @ 12:00:00 AM
+10542,"Ingwenel, God of War",Reheath Stronghold,39.60,Fairies' Supreme Mistsmoke Lead Of The Future,80.00,2622.69,454.30,209815.2000,36344.0000,343638.24320000,11/10/2005 @ 12:00:00 AM
+32371,"Song, Runetomb",North Arcanist's Farthing,3.66,Unspeakable Rotsoul Mithril Of Souls,232.00,370.26,336.60,85900.3200,78091.2000,169993.60963200,11/10/2015 @ 12:00:00 AM
+18280,"Jericho, Wolf",The Citadel of Alammius,29.70,Meteoric Mirrormuck Orichalcum Of The Forests,357.00,491.62,405.35,175508.3400,144709.9500,415323.12213000,11/10/2005 @ 12:00:00 AM
+33970,Metalghoul,Barad Cune,49.21,Poison Adamant,243.00,110.96,100.87,26963.2800,24511.4100,76805.38494900,11/10/2005 @ 12:00:00 AM
+17372,"Blazefreeze, The Chiller",The Scoundrel and Flask,45.25,Golems' Stonesapphire Gold Of The Glacier,111.00,176.00,160.00,19536.0000,17760.0000,54172.44000000,11/10/2005 @ 12:00:00 AM
+20912,"Gadriel, God of Resurrection",Moor Village,11.32,Sirens' Rockgold,245.00,336.74,336.74,82501.3000,82501.3000,183680.89432000,11/10/2015 @ 12:00:00 AM
+27132,"Suriel, Lord of Animals",The Bastion of Gothmog of Udun,-2.42,Sprites' Transcendent Mud Lead Of The South,271.00,3338.65,267.08,904774.1500,72378.6800,953505.73151400,11/10/2005 @ 12:00:00 AM
+29793,"Sunrise, Godwarlock",The Tower of Sabiesu the Awesome,10.00,Heavenly Dreamsilver Of The Night,122.00,719.00,314.60,87718.0000,38381.2000,138709.12000000,11/10/2005 @ 12:00:00 AM
+26092,"Boltcrank, The Trapper",Archfane District,15.29,Sapphire Mindlead,113.00,-44.77,-49.25,-5059.0100,-5565.2500,-12248.70935400,11/10/2005 @ 12:00:00 AM
+30950,"Scarechain, The Unspeakable",The Nulukkhath Spires,28.99,Foulopal Copper Of The Skies,83.00,221.83,221.83,18411.8900,18411.8900,47498.99382200,11/10/2005 @ 12:00:00 AM
+4315,Bolttrap,Kada's Deep,7.65,Muck Orichalcum Of Ogres,289.00,2080.00,97.93,601120.0000,28301.7700,677572.53540500,11/10/2005 @ 12:00:00 AM
+5724,"Lance, Knightseraph",Pawic Keep,31.90,Mithril Of Legend,221.00,169.17,186.09,37386.5700,41125.8900,103557.93474000,11/10/2005 @ 12:00:00 AM
+14407,Metalghoul,Gena's Hold,5.85,Vampires' Hammer Emeraldmetal,147.00,77.44,70.40,11383.6800,10348.8000,23003.83008000,11/10/2005 @ 12:00:00 AM
+37248,"Wheelbolt, The Machine",The Greedy Wench,13.31,Stone Soulsteel Of The Skies,208.00,453.31,453.31,94288.4800,94288.4800,213676.55337600,11/10/2005 @ 12:00:00 AM
+13350,"Rouge, Tombreaper",The Lewd King,41.80,Trolls' Mist Poisonplatinum Of The Twilight,284.00,440.56,400.51,125119.0400,113744.8400,338708.98184000,11/10/2015 @ 12:00:00 AM

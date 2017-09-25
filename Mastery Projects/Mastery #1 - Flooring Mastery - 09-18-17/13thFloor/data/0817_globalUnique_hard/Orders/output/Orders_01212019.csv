@@ -1,17 +1,17 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-2387,"Wind, Maverick",The Bloody Wand,1.98,Magic Adamant,203.00,-190.00,72.13,-38570.0000,14642.3900,-24401.37667800,01/21/2019 @ 12:00:00 AM
-13903,"God of Death, Avriel",The Secret Catacombs of Ulfang the Black,28.82,Negative Rockglitter Mercury Of Trolls,370.00,3502.00,214.17,1295740.0000,79242.9000,1771252.97178000,01/21/2019 @ 12:00:00 AM
-23829,"Wind, Maverick",Fellfen Keep,38.00,Toxic Mistlead Of The Past,126.00,396.06,396.06,49903.5600,49903.5600,137733.82560000,01/21/2019 @ 12:00:00 AM
-11827,"The Binder, Springpulley",Reyny Keep,-3.35,Djinni's Evil Sandobsidian Steel Of The Future,327.00,140.58,140.58,45969.6600,45969.6600,88859.35278000,01/21/2019 @ 12:00:00 AM
-22607,"Tombreaper, Rouge",The Nulukkhath Spires,28.99,Fleshshock Mercury,97.00,-31.02,-28.20,-3008.9400,-2735.4000,-7409.62416600,01/21/2019 @ 12:00:00 AM
-33452,"Tomblion, Shadow",The Archer and Scroll,60.12,Fairies' Supreme Mistsmoke Lead Of The Future,212.00,499.73,549.70,105942.7600,116536.4000,356233.63099200,01/21/2019 @ 12:00:00 AM
-20358,Metalbrood,Dysley Stronghold,35.51,Magicians' Legendary Poison Metal,117.00,-52.81,-48.01,-6178.7700,-5617.1700,-15984.67829400,01/21/2019 @ 12:00:00 AM
-9902,"The Cremator, Blazeflare",Castle Village,39.07,Timeiron,139.00,3255.00,-16.25,452445.0000,-2258.7500,626074.01787500,01/21/2019 @ 12:00:00 AM
-655,Ironbrood,The Beggar and Cask,25.10,Ghostly Soul Adamant,252.00,411.00,377.00,103572.0000,95004.0000,248418.57600000,01/21/2019 @ 12:00:00 AM
-28338,"Goddess of Trickery, Alik",The Chuallanto Jungle,11.00,Negative Rockglitter Mercury Of Trolls,181.00,235.59,214.17,42641.7900,38764.7700,90361.28160000,01/21/2019 @ 12:00:00 AM
-29631,"Amberslayer, Flora",Bifar's Deep,12.21,Unknown Fatelightning Steel Of The Glacier,118.00,145.08,159.59,17119.4400,18831.6200,40340.68442600,01/21/2019 @ 12:00:00 AM
-7753,"The Blade, Steelterror",Archring Borough,29.70,Trolls' Mist Poisonplatinum Of The Twilight,281.00,329.00,400.51,92449.0000,112543.3100,265875.02607000,01/21/2019 @ 12:00:00 AM
-16574,Cinderember,Reyny Keep,-3.35,Tritons' Time Stoneiron Of Legend,191.00,341.59,341.59,65243.6900,65243.6900,126116.05277000,01/21/2019 @ 12:00:00 AM
-28874,"Dire, Wind",The Nulukkhath Spires,28.99,Fleshshock Mercury,181.00,-31.02,-28.20,-5614.6200,-5104.2000,-13826.20591800,01/21/2019 @ 12:00:00 AM
-16964,"God of Animals, Byzou",North Arcanist's Farthing,2.75,Golems' Stonesapphire Gold Of The Glacier,146.00,176.00,160.00,25696.0000,23360.0000,50405.04000000,01/21/2019 @ 12:00:00 AM
-3221,"Rougehate, Rune",Cawold Castle,35.00,Litches' Fatal Mithril Of The Past,150.00,3822.00,13.00,573300.0000,1950.0000,776587.50000000,01/21/2019 @ 12:00:00 AM
+2387,"Wind, Maverick",The Bloody Wand,1.98,Magic Adamant,203.00,-190.00,72.13,-38570.0000,14642.3900,-24401.37667800,01/21/1949 @ 12:00:00 AM
+13903,"God of Death, Avriel",The Secret Catacombs of Ulfang the Black,28.82,Negative Rockglitter Mercury Of Trolls,370.00,3502.00,214.17,1295740.0000,79242.9000,1771252.97178000,01/21/1949 @ 12:00:00 AM
+23829,"Wind, Maverick",Fellfen Keep,38.00,Toxic Mistlead Of The Past,126.00,396.06,396.06,49903.5600,49903.5600,137733.82560000,01/21/1949 @ 12:00:00 AM
+11827,"The Binder, Springpulley",Reyny Keep,-3.35,Djinni's Evil Sandobsidian Steel Of The Future,327.00,140.58,140.58,45969.6600,45969.6600,88859.35278000,01/21/1949 @ 12:00:00 AM
+22607,"Tombreaper, Rouge",The Nulukkhath Spires,28.99,Fleshshock Mercury,97.00,-31.02,-28.20,-3008.9400,-2735.4000,-7409.62416600,01/21/1949 @ 12:00:00 AM
+33452,"Tomblion, Shadow",The Archer and Scroll,60.12,Fairies' Supreme Mistsmoke Lead Of The Future,212.00,499.73,549.70,105942.7600,116536.4000,356233.63099200,01/21/1949 @ 12:00:00 AM
+20358,Metalbrood,Dysley Stronghold,35.51,Magicians' Legendary Poison Metal,117.00,-52.81,-48.01,-6178.7700,-5617.1700,-15984.67829400,01/21/1949 @ 12:00:00 AM
+9902,"The Cremator, Blazeflare",Castle Village,39.07,Timeiron,139.00,3255.00,-16.25,452445.0000,-2258.7500,626074.01787500,01/21/1949 @ 12:00:00 AM
+655,Ironbrood,The Beggar and Cask,25.10,Ghostly Soul Adamant,252.00,411.00,377.00,103572.0000,95004.0000,248418.57600000,01/21/1949 @ 12:00:00 AM
+28338,"Goddess of Trickery, Alik",The Chuallanto Jungle,11.00,Negative Rockglitter Mercury Of Trolls,181.00,235.59,214.17,42641.7900,38764.7700,90361.28160000,01/21/1949 @ 12:00:00 AM
+29631,"Amberslayer, Flora",Bifar's Deep,12.21,Unknown Fatelightning Steel Of The Glacier,118.00,145.08,159.59,17119.4400,18831.6200,40340.68442600,01/21/1949 @ 12:00:00 AM
+7753,"The Blade, Steelterror",Archring Borough,29.70,Trolls' Mist Poisonplatinum Of The Twilight,281.00,329.00,400.51,92449.0000,112543.3100,265875.02607000,01/21/1949 @ 12:00:00 AM
+16574,Cinderember,Reyny Keep,-3.35,Tritons' Time Stoneiron Of Legend,191.00,341.59,341.59,65243.6900,65243.6900,126116.05277000,01/21/1949 @ 12:00:00 AM
+28874,"Dire, Wind",The Nulukkhath Spires,28.99,Fleshshock Mercury,181.00,-31.02,-28.20,-5614.6200,-5104.2000,-13826.20591800,01/21/1949 @ 12:00:00 AM
+16964,"God of Animals, Byzou",North Arcanist's Farthing,2.75,Golems' Stonesapphire Gold Of The Glacier,146.00,176.00,160.00,25696.0000,23360.0000,50405.04000000,01/21/1949 @ 12:00:00 AM
+3221,"Rougehate, Rune",Cawold Castle,35.00,Litches' Fatal Mithril Of The Past,150.00,3822.00,13.00,573300.0000,1950.0000,776587.50000000,01/21/1949 @ 12:00:00 AM

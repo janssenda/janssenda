@@ -1,13 +1,13 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-12851,"The Unspeakable, Scarechain",Archfane District,15.29,Dragons' Poison Glitterflesh Steel Of The North,33.00,742.00,82.50,24486.0000,2722.5000,31368.67965000,05/11/2018 @ 12:00:00 AM
-10421,"Lord of the Sea, Penur",Arcanist's Farthing,29.00,Phantasmal Smokezephyr Mercury Of Men,307.00,211.20,192.00,64838.4000,58944.0000,159679.29600000,05/11/2018 @ 12:00:00 AM
-22443,"Goddess of the Earth, Gono",Pewold Keep,29.00,Shadowhell Mithril,191.00,462.21,420.19,88282.1100,80256.2900,217414.53600000,05/11/2018 @ 12:00:00 AM
-20020,"The Mechanical, Snarepiston",The Forsaken Hive of Galima the Mighty,0.39,Fairies' Supreme Mistsmoke Lead Of The Future,296.00,499.73,499.73,147920.0800,147920.0800,296993.93662400,05/11/2018 @ 12:00:00 AM
-1902,Spikespawn,The Tower of Sheshbazzu,4.00,Fog Lavaplatinum Of Life,146.00,2232.00,463.10,325872.0000,67612.6000,409223.98400000,05/11/2018 @ 12:00:00 AM
-22909,Deathbrood,Moor Village,11.32,Fleshshock Mercury,221.00,-31.02,-28.20,-6855.4200,-6232.2000,-14569.13858400,05/11/2018 @ 12:00:00 AM
-31436,"The Trapper, Boltcrank",The Bastion of Gothmog of Udun,-2.66,Fairies' Supreme Mistsmoke Lead Of The Future,95.00,499.73,549.70,47474.3500,52221.5000,97043.94039000,05/11/2018 @ 12:00:00 AM
-27073,"Angelchild, Harmony",Reheath Stronghold,39.60,Swordbronze,189.00,403.29,366.63,76221.8100,69293.0700,203138.77248000,05/11/2018 @ 12:00:00 AM
-28486,"The Machine, Evilcoil",The Fortress of Akkun the Grim,27.03,Stone Soulsteel Of The Skies,135.00,453.31,412.10,61196.8500,55633.5000,148409.59360500,05/11/2018 @ 12:00:00 AM
-995,"God of Resurrection, Gadriel",The Citadel of Lord Greywulf,19.00,Ghostly Magic Adamant,136.00,901.35,45.00,122583.6000,6120.0000,153157.28400000,05/11/2018 @ 12:00:00 AM
-5491,"The Mechanical, Snarepiston",The Bastion of the Vampire Duke,34.45,Unholy Poison Copper Of The Mountains,295.00,4312.00,68.97,1272040.0000,20346.1500,1737613.17867500,05/11/2018 @ 12:00:00 AM
-26515,"The Binder, Springpulley",Citadel Ward,4.40,Muck Orichalcum Of Ogres,195.00,143.37,130.34,27957.1500,25416.3000,55721.88180000,05/11/2018 @ 12:00:00 AM
+12851,"Scarechain, The Unspeakable",Archfane District,15.29,Dragons' Poison Glitterflesh Steel Of The North,33.00,742.00,82.50,24486.0000,2722.5000,31368.67965000,05/11/2008 @ 12:00:00 AM
+10421,"Penur, Lord of the Sea",Arcanist's Farthing,29.00,Phantasmal Smokezephyr Mercury Of Men,307.00,211.20,192.00,64838.4000,58944.0000,159679.29600000,05/11/2008 @ 12:00:00 AM
+22443,"Gono, Goddess of the Earth",Pewold Keep,29.00,Shadowhell Mithril,191.00,462.21,420.19,88282.1100,80256.2900,217414.53600000,05/11/2008 @ 12:00:00 AM
+20020,"Snarepiston, The Mechanical",The Forsaken Hive of Galima the Mighty,0.39,Fairies' Supreme Mistsmoke Lead Of The Future,296.00,499.73,499.73,147920.0800,147920.0800,296993.93662400,05/11/2008 @ 12:00:00 AM
+1902,Spikespawn,The Tower of Sheshbazzu,4.00,Fog Lavaplatinum Of Life,146.00,2232.00,463.10,325872.0000,67612.6000,409223.98400000,05/11/2008 @ 12:00:00 AM
+22909,Deathbrood,Moor Village,11.32,Fleshshock Mercury,221.00,-31.02,-28.20,-6855.4200,-6232.2000,-14569.13858400,05/11/2008 @ 12:00:00 AM
+31436,"Boltcrank, The Trapper",The Bastion of Gothmog of Udun,-2.66,Fairies' Supreme Mistsmoke Lead Of The Future,95.00,499.73,549.70,47474.3500,52221.5000,97043.94039000,05/11/2008 @ 12:00:00 AM
+27073,"Harmony, Angelchild",Reheath Stronghold,39.60,Swordbronze,189.00,403.29,366.63,76221.8100,69293.0700,203138.77248000,05/11/2008 @ 12:00:00 AM
+28486,"Evilcoil, The Machine",The Fortress of Akkun the Grim,27.03,Stone Soulsteel Of The Skies,135.00,453.31,412.10,61196.8500,55633.5000,148409.59360500,05/11/2008 @ 12:00:00 AM
+995,"Gadriel, God of Resurrection",The Citadel of Lord Greywulf,19.00,Ghostly Magic Adamant,136.00,901.35,45.00,122583.6000,6120.0000,153157.28400000,05/11/2008 @ 12:00:00 AM
+5491,"Snarepiston, The Mechanical",The Bastion of the Vampire Duke,34.45,Unholy Poison Copper Of The Mountains,295.00,4312.00,68.97,1272040.0000,20346.1500,1737613.17867500,05/11/2008 @ 12:00:00 AM
+26515,"Springpulley, The Binder",Citadel Ward,4.40,Muck Orichalcum Of Ogres,195.00,143.37,130.34,27957.1500,25416.3000,55721.88180000,05/11/2008 @ 12:00:00 AM

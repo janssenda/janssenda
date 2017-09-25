@@ -20,14 +20,14 @@ import org.junit.Test;
  */
 public class OrderDaoDataPrep {
 
-    String dir = "./data/0817_globalUnique_hard";
+    String dir = "./new_Data/0817_globalUnique_hard";
     String dirSub = dir + "/Orders/output/";
 
     ConsoleTextViewImpl view = new ConsoleTextViewImpl(new UserIoConsoleColorImpl());
 
     FileHandler fileHandler = new dataPrepHandler(dirSub);
 
-    OrderDaoImpl orderDao = new OrderDaoImpl(dir, fileHandler);
+    OrderDaoImpl orderDao = new OrderDaoImpl(dirSub, fileHandler);
 //    StateDataDaoImpl stateDao = new StateDataDaoImpl(dir, dirSub);
 //    ProductDataDaoImpl productDao = new ProductDataDaoImpl(dir, dirSub);
 
@@ -48,7 +48,8 @@ public class OrderDaoDataPrep {
 
         
         orderMap.forEach((k, v) -> {
-            v.get(0).setRevisionDate(v.get(0).getDate().atStartOfDay());
+            v.get(0).setRevisionDate(v.get(0).getRevisionDate().minusYears(10));
+            System.out.println(v.get(0).getRevisionDate().toString());
         });
         
         fileHandler.writeAllOrdersSplitFilesByDate(orderMap, dirSub + "");

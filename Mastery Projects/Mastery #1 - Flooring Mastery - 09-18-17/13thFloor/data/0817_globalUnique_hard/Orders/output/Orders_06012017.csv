@@ -1,15 +1,15 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-36491,"Angelchild, Harmony",The Fen of the Necromancer,32.21,Ensorceled Sandmetal Of Spirits,285.00,85.18,93.70,24276.3000,26704.5000,67401.71568000,06/01/2017 @ 12:00:00 AM
-35810,Emberfire,Bifar's Deep,12.21,Lycanthropes' Gold,238.00,449.88,408.98,107071.4400,97337.2400,229366.97982800,06/01/2017 @ 12:00:00 AM
-21170,Emberspawn,The Tomb of Hellish Ruin,36.30,Fairies' Supreme Mistsmoke Lead Of The Future,89.00,499.73,499.73,44475.9700,44475.9700,121241.49422000,06/01/2017 @ 12:00:00 AM
-20338,"The Mechanical, Snarepiston",Dysley Stronghold,35.51,Shadow Metal,266.00,1606.00,298.00,427196.0000,79268.0000,686309.36640000,06/01/2017 @ 12:00:00 AM
-293,Spikecrank,The Dungeon of Merciless Woe,3.61,Unicorns' Fatal Magma Metal Of The Ocean,258.00,903.00,23.00,232974.0000,5934.0000,247532.57880000,06/01/2017 @ 12:00:00 AM
-18505,Emberfire,The Khazahol Crags,22.75,Unicorns' Fatal Magma Metal Of The Ocean,162.00,25.30,23.00,4098.6000,3726.0000,9604.69650000,06/01/2017 @ 12:00:00 AM
-8734,"Roguemist, Rouge",Reheath Stronghold,39.60,Unknowable Mindsilver,178.00,174.90,174.90,31132.2000,31132.2000,86921.10240000,06/01/2017 @ 12:00:00 AM
-27031,"Mist, Claw",Reheath Stronghold,39.60,Heavenly Dreamsilver Of The Night,329.00,719.00,314.60,236551.0000,103503.4000,474715.94240000,06/01/2017 @ 12:00:00 AM
-5170,Graveterror,Grori's Deep,27.50,Sirens' Rockgold,95.00,306.13,278.30,29082.3500,26438.5000,70789.08375000,06/01/2017 @ 12:00:00 AM
-5455,Emberspawn,Grori's Deep,27.50,God-touched Greengem Platinum,309.00,2181.36,188.14,674040.2400,58135.2600,933523.76250000,06/01/2017 @ 12:00:00 AM
-13074,"Bladewitch, Zeal",The Tomb of Hellish Ruin,33.00,White Platinum,75.00,83.49,91.84,6261.7500,6888.0000,17489.16750000,06/01/2017 @ 12:00:00 AM
-5707,"Goddess of Knowledge, Ahah",Khali's Delve,1.07,Venom Jewelmetal Of The Desert,248.00,701.92,167.16,174076.1600,41455.6800,217838.03068800,06/01/2017 @ 12:00:00 AM
-4474,"The Machine, Wheelbolt",The Secret Catacombs of Ulfang the Black,28.82,Yellow Mistearth Copper,341.00,3587.00,261.80,1223167.0000,89273.8000,1690686.23856000,06/01/2017 @ 12:00:00 AM
-14493,Chainnail,Noble's Village,5.43,Sphinxes' Unknown Poisongold Of The Future,164.00,3971.47,14.30,651321.0800,2345.2000,689160.35900400,06/01/2017 @ 12:00:00 AM
+36491,"Angelchild, Harmony",The Fen of the Necromancer,32.21,Ensorceled Sandmetal Of Spirits,285.00,85.18,93.70,24276.3000,26704.5000,67401.71568000,06/01/1947 @ 12:00:00 AM
+35810,Emberfire,Bifar's Deep,12.21,Lycanthropes' Gold,238.00,449.88,408.98,107071.4400,97337.2400,229366.97982800,06/01/1947 @ 12:00:00 AM
+21170,Emberspawn,The Tomb of Hellish Ruin,36.30,Fairies' Supreme Mistsmoke Lead Of The Future,89.00,499.73,499.73,44475.9700,44475.9700,121241.49422000,06/01/1947 @ 12:00:00 AM
+20338,"The Mechanical, Snarepiston",Dysley Stronghold,35.51,Shadow Metal,266.00,1606.00,298.00,427196.0000,79268.0000,686309.36640000,06/01/1947 @ 12:00:00 AM
+293,Spikecrank,The Dungeon of Merciless Woe,3.61,Unicorns' Fatal Magma Metal Of The Ocean,258.00,903.00,23.00,232974.0000,5934.0000,247532.57880000,06/01/1947 @ 12:00:00 AM
+18505,Emberfire,The Khazahol Crags,22.75,Unicorns' Fatal Magma Metal Of The Ocean,162.00,25.30,23.00,4098.6000,3726.0000,9604.69650000,06/01/1947 @ 12:00:00 AM
+8734,"Roguemist, Rouge",Reheath Stronghold,39.60,Unknowable Mindsilver,178.00,174.90,174.90,31132.2000,31132.2000,86921.10240000,06/01/1947 @ 12:00:00 AM
+27031,"Mist, Claw",Reheath Stronghold,39.60,Heavenly Dreamsilver Of The Night,329.00,719.00,314.60,236551.0000,103503.4000,474715.94240000,06/01/1947 @ 12:00:00 AM
+5170,Graveterror,Grori's Deep,27.50,Sirens' Rockgold,95.00,306.13,278.30,29082.3500,26438.5000,70789.08375000,06/01/1947 @ 12:00:00 AM
+5455,Emberspawn,Grori's Deep,27.50,God-touched Greengem Platinum,309.00,2181.36,188.14,674040.2400,58135.2600,933523.76250000,06/01/1947 @ 12:00:00 AM
+13074,"Bladewitch, Zeal",The Tomb of Hellish Ruin,33.00,White Platinum,75.00,83.49,91.84,6261.7500,6888.0000,17489.16750000,06/01/1947 @ 12:00:00 AM
+5707,"Goddess of Knowledge, Ahah",Khali's Delve,1.07,Venom Jewelmetal Of The Desert,248.00,701.92,167.16,174076.1600,41455.6800,217838.03068800,06/01/1947 @ 12:00:00 AM
+4474,"The Machine, Wheelbolt",The Secret Catacombs of Ulfang the Black,28.82,Yellow Mistearth Copper,341.00,3587.00,261.80,1223167.0000,89273.8000,1690686.23856000,06/01/1947 @ 12:00:00 AM
+14493,Chainnail,Noble's Village,5.43,Sphinxes' Unknown Poisongold Of The Future,164.00,3971.47,14.30,651321.0800,2345.2000,689160.35900400,06/01/1947 @ 12:00:00 AM

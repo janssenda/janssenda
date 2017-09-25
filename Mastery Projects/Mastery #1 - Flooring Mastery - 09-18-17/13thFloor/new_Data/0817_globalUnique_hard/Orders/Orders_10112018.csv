@@ -1,16 +1,16 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-12414,"Godwarlock, Sunrise",Hafeld Keep,47.59,Emerald Orichalcum,201.00,1957.00,129.81,393357.0000,26091.8100,619064.49867900,10/11/2018 @ 12:00:00 AM
-36375,"The Evil, Burnchill",The Fen of the Necromancer,32.21,Phantasmal Tin Of The Swamps,66.00,405.96,369.05,26793.3600,24357.3000,67626.28758600,10/11/2018 @ 12:00:00 AM
-12782,"The Disinterred, Spikebrood",Noble's Village,5.43,Spirits' Living Wordhammer Tin Of The Trees,143.00,3897.55,128.70,557349.6500,18404.1000,607017.17862500,10/11/2018 @ 12:00:00 AM
-2849,"The Binder, Springpulley",Cawold Castle,35.00,Zephyr Adamant,8.00,481.77,-40.13,3854.1600,-321.0400,4769.71200000,10/11/2018 @ 12:00:00 AM
-33440,"The Constructed, Snaretool",Pewold Keep,29.00,Forgotten Mithril,168.00,600.28,545.71,100847.0400,91679.2800,248358.95280000,10/11/2018 @ 12:00:00 AM
-21470,"God of Death, Avriel",Grori's Deep,30.25,Yellow Mistearth Copper,260.00,287.98,261.80,74874.8000,68068.0000,186182.99700000,10/11/2018 @ 12:00:00 AM
-33991,"God of Resurrection, Gadriel",Barad Cune,49.21,Primordial Plague Mercury Of Legend,107.00,73.70,67.00,7885.9000,7169.0000,22463.41629000,10/11/2018 @ 12:00:00 AM
-20893,Flameshiver,Gena's Hold,5.85,Unknowable Mindsilver,244.00,174.90,174.90,42675.6000,42675.6000,90344.24520000,10/11/2018 @ 12:00:00 AM
-31769,Bolttrap,Noble's Village,6.57,Grayplatinum,146.00,2548.00,104.94,372008.0000,15321.2400,412776.77106800,10/11/2018 @ 12:00:00 AM
-28663,"Rougehate, Rune",The Chuallanto Jungle,11.00,Stone Soulsteel Of The Skies,109.00,453.31,412.10,49410.7900,44918.9000,104705.95590000,10/11/2018 @ 12:00:00 AM
-26300,"Roguemist, Rouge",The Pirate's Pipe,16.94,Grayplatinum,86.00,2548.00,104.94,219128.0000,9024.8400,266801.93109600,10/11/2018 @ 12:00:00 AM
-37050,"Lady of Fire, Nelalwe",The Greedy Wench,13.31,Stone Soulsteel Of The Skies,222.00,453.31,453.31,100634.8200,100634.8200,228058.62908400,10/11/2018 @ 12:00:00 AM
-27832,"Godwarlock, Sunrise",The Bastion of Gothmog of Udun,-2.42,Sprites' Transcendent Mud Lead Of The South,92.00,3338.65,267.08,307155.8000,24571.3600,323699.36272800,10/11/2018 @ 12:00:00 AM
-14593,"God of Fate, Sielach",Gili's Delve,35.89,Mind Lead,254.00,241.00,219.09,61214.0000,55648.8600,158804.94045400,10/11/2018 @ 12:00:00 AM
-26681,"Dawn, Tarot",Bifar's Deep,12.21,Swordbronze,67.00,403.29,366.63,27020.4300,24564.2100,57883.12454400,10/11/2018 @ 12:00:00 AM
+12414,"Sunrise, Godwarlock",Hafeld Keep,47.59,Emerald Orichalcum,201.00,1957.00,129.81,393357.0000,26091.8100,619064.49867900,10/11/2008 @ 12:00:00 AM
+36375,"Burnchill, The Evil",The Fen of the Necromancer,32.21,Phantasmal Tin Of The Swamps,66.00,405.96,369.05,26793.3600,24357.3000,67626.28758600,10/11/2008 @ 12:00:00 AM
+12782,"Spikebrood, The Disinterred",Noble's Village,5.43,Spirits' Living Wordhammer Tin Of The Trees,143.00,3897.55,128.70,557349.6500,18404.1000,607017.17862500,10/11/2008 @ 12:00:00 AM
+2849,"Springpulley, The Binder",Cawold Castle,35.00,Zephyr Adamant,8.00,481.77,-40.13,3854.1600,-321.0400,4769.71200000,10/11/2008 @ 12:00:00 AM
+33440,"Snaretool, The Constructed",Pewold Keep,29.00,Forgotten Mithril,168.00,600.28,545.71,100847.0400,91679.2800,248358.95280000,10/11/2008 @ 12:00:00 AM
+21470,"Avriel, God of Death",Grori's Deep,30.25,Yellow Mistearth Copper,260.00,287.98,261.80,74874.8000,68068.0000,186182.99700000,10/11/2008 @ 12:00:00 AM
+33991,"Gadriel, God of Resurrection",Barad Cune,49.21,Primordial Plague Mercury Of Legend,107.00,73.70,67.00,7885.9000,7169.0000,22463.41629000,10/11/2008 @ 12:00:00 AM
+20893,Flameshiver,Gena's Hold,5.85,Unknowable Mindsilver,244.00,174.90,174.90,42675.6000,42675.6000,90344.24520000,10/11/2008 @ 12:00:00 AM
+31769,Bolttrap,Noble's Village,6.57,Grayplatinum,146.00,2548.00,104.94,372008.0000,15321.2400,412776.77106800,10/11/2008 @ 12:00:00 AM
+28663,"Rune, Rougehate",The Chuallanto Jungle,11.00,Stone Soulsteel Of The Skies,109.00,453.31,412.10,49410.7900,44918.9000,104705.95590000,10/11/2008 @ 12:00:00 AM
+26300,"Rouge, Roguemist",The Pirate's Pipe,16.94,Grayplatinum,86.00,2548.00,104.94,219128.0000,9024.8400,266801.93109600,10/11/2008 @ 12:00:00 AM
+37050,"Nelalwe, Lady of Fire",The Greedy Wench,13.31,Stone Soulsteel Of The Skies,222.00,453.31,453.31,100634.8200,100634.8200,228058.62908400,10/11/2008 @ 12:00:00 AM
+27832,"Sunrise, Godwarlock",The Bastion of Gothmog of Udun,-2.42,Sprites' Transcendent Mud Lead Of The South,92.00,3338.65,267.08,307155.8000,24571.3600,323699.36272800,10/11/2008 @ 12:00:00 AM
+14593,"Sielach, God of Fate",Gili's Delve,35.89,Mind Lead,254.00,241.00,219.09,61214.0000,55648.8600,158804.94045400,10/11/2008 @ 12:00:00 AM
+26681,"Tarot, Dawn",Bifar's Deep,12.21,Swordbronze,67.00,403.29,366.63,27020.4300,24564.2100,57883.12454400,10/11/2008 @ 12:00:00 AM

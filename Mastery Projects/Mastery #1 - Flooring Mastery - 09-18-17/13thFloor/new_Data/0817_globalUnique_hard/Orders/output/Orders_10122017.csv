@@ -1,13 +1,13 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-35108,"The Grasping, Nettool",Barad Kesa,6.17,Yellow Mistearth Copper,288.00,287.98,261.80,82938.2400,75398.4000,168106.01068800,10/12/2017 @ 12:00:00 AM
-12817,"Anchor, Rose",Bergfison's Deep,16.00,Spirits' Living Wordhammer Tin Of The Trees,89.00,3897.55,128.70,346881.9500,11454.3000,415670.05000000,10/12/2017 @ 12:00:00 AM
-24835,"Seeker, Fate",Bifar's Deep,12.21,Ensorceled Sandmetal Of Spirits,201.00,85.18,77.44,17121.1800,15565.4400,36677.65630200,10/12/2017 @ 12:00:00 AM
-36810,"Runetomb, Song",The Fen of the Necromancer,32.21,Grayplatinum,311.00,2548.00,115.43,792428.0000,35898.7300,1095130.76973300,10/12/2017 @ 12:00:00 AM
-21790,"The Cadaverous, Chainblade",Citadel Ward,4.40,Yellow Mistearth Copper,237.00,287.98,261.80,68251.2600,62046.6000,136030.96584000,10/12/2017 @ 12:00:00 AM
-17057,"Anchor, Rose",Gena's Hold,5.85,Grayplatinum,66.00,2548.00,104.94,168168.0000,6926.0400,185337.04134000,10/12/2017 @ 12:00:00 AM
-30175,"God of Death, Selik",The Greedy Wench,13.31,White Platinum,290.00,101.02,91.84,29295.8000,26633.6000,63373.60314000,10/12/2017 @ 12:00:00 AM
-8834,Chainnail,Gena's Hold,4.40,Meteoric Mirrormuck Orichalcum Of The Forests,269.00,491.62,368.50,132245.7800,99126.5000,241552.66032000,10/12/2017 @ 12:00:00 AM
-6354,Bonescare,The Drunken Thief,18.41,Golems' Stonesapphire Gold Of The Glacier,245.00,589.00,160.00,144305.0000,39200.0000,217288.27050000,10/12/2017 @ 12:00:00 AM
-27291,"Seeker, Fate",The Bastion of Gothmog of Udun,-2.42,Sprites' Transcendent Mud Lead Of The South,116.00,3338.65,267.08,387283.4000,30981.2800,408142.67474400,10/12/2017 @ 12:00:00 AM
-29837,"Jackalguard, Gale",The Tower of Sabiesu the Awesome,10.00,Heavenly Dreamsilver Of The Night,221.00,719.00,314.60,158899.0000,69526.6000,251268.16000000,10/12/2017 @ 12:00:00 AM
-14366,"Darkzealot, Dawn",Gena's Hold,5.85,Mind Lead,144.00,241.00,219.09,34704.0000,31548.9600,70128.75816000,10/12/2017 @ 12:00:00 AM
+35108,"Nettool, The Grasping",Barad Kesa,6.17,Yellow Mistearth Copper,288.00,287.98,261.80,82938.2400,75398.4000,168106.01068800,10/12/2007 @ 12:00:00 AM
+12817,"Rose, Anchor",Bergfison's Deep,16.00,Spirits' Living Wordhammer Tin Of The Trees,89.00,3897.55,128.70,346881.9500,11454.3000,415670.05000000,10/12/2007 @ 12:00:00 AM
+24835,"Fate, Seeker",Bifar's Deep,12.21,Ensorceled Sandmetal Of Spirits,201.00,85.18,77.44,17121.1800,15565.4400,36677.65630200,10/12/2007 @ 12:00:00 AM
+36810,"Song, Runetomb",The Fen of the Necromancer,32.21,Grayplatinum,311.00,2548.00,115.43,792428.0000,35898.7300,1095130.76973300,10/12/2007 @ 12:00:00 AM
+21790,"Chainblade, The Cadaverous",Citadel Ward,4.40,Yellow Mistearth Copper,237.00,287.98,261.80,68251.2600,62046.6000,136030.96584000,10/12/2007 @ 12:00:00 AM
+17057,"Rose, Anchor",Gena's Hold,5.85,Grayplatinum,66.00,2548.00,104.94,168168.0000,6926.0400,185337.04134000,10/12/2007 @ 12:00:00 AM
+30175,"Selik, God of Death",The Greedy Wench,13.31,White Platinum,290.00,101.02,91.84,29295.8000,26633.6000,63373.60314000,10/12/2007 @ 12:00:00 AM
+8834,Chainnail,Gena's Hold,4.40,Meteoric Mirrormuck Orichalcum Of The Forests,269.00,491.62,368.50,132245.7800,99126.5000,241552.66032000,10/12/2007 @ 12:00:00 AM
+6354,Bonescare,The Drunken Thief,18.41,Golems' Stonesapphire Gold Of The Glacier,245.00,589.00,160.00,144305.0000,39200.0000,217288.27050000,10/12/2007 @ 12:00:00 AM
+27291,"Fate, Seeker",The Bastion of Gothmog of Udun,-2.42,Sprites' Transcendent Mud Lead Of The South,116.00,3338.65,267.08,387283.4000,30981.2800,408142.67474400,10/12/2007 @ 12:00:00 AM
+29837,"Gale, Jackalguard",The Tower of Sabiesu the Awesome,10.00,Heavenly Dreamsilver Of The Night,221.00,719.00,314.60,158899.0000,69526.6000,251268.16000000,10/12/2007 @ 12:00:00 AM
+14366,"Dawn, Darkzealot",Gena's Hold,5.85,Mind Lead,144.00,241.00,219.09,34704.0000,31548.9600,70128.75816000,10/12/2007 @ 12:00:00 AM

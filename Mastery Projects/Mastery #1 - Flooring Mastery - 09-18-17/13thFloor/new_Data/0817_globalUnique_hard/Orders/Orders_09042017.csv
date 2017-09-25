@@ -1,28 +1,28 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-25656,"The Living Device, Mecharig",The Fortress of Akkun the Grim,27.03,Phantasmal Smokezephyr Mercury Of Men,137.00,211.20,192.00,28934.4000,26304.0000,70169.33952000,09/04/2017 @ 12:00:00 AM
-36475,"The Chiller, Blazefreeze",The Fen of the Necromancer,32.21,Vampires' Hammer Emeraldmetal,344.00,93.70,85.18,32232.8000,29301.9200,81355.05331200,09/04/2017 @ 12:00:00 AM
-24590,"God of Fate, Sielach",Bifar's Deep,12.21,Ensorceled Sandmetal Of Spirits,57.00,85.18,77.44,4855.2600,4414.0800,10401.12641400,09/04/2017 @ 12:00:00 AM
-11373,Ironbrood,The Fortress of Asmamur,-2.42,Phantasmal Lead,148.00,21.92,19.93,3244.1600,2949.6400,6043.91004000,09/04/2017 @ 12:00:00 AM
-34288,Springcoil,Barad Cune,49.21,Warlocks' Timerot Mithril,263.00,194.65,194.65,51192.9500,51192.9500,152770.00139000,09/04/2017 @ 12:00:00 AM
-10493,"Tomblion, Shadow",Reheath Stronghold,39.60,Pearl Mirrorice Steel Of Changelings,140.00,2996.00,302.00,419440.0000,42280.0000,644561.12000000,09/04/2017 @ 12:00:00 AM
-21338,"Darkzealot, Dawn",North Arcanist's Farthing,3.03,Starsmoke Bronze Of Life,155.00,-438.00,420.81,-67890.0000,65225.5500,-2745.18283500,09/04/2017 @ 12:00:00 AM
-33419,Bronzespike,Pewold Keep,29.00,Mind Lead,167.00,241.00,219.09,40247.0000,36588.0300,99117.18870000,09/04/2017 @ 12:00:00 AM
-9257,Wheelspawn,Reheath Stronghold,39.60,Primordial Plague Mercury Of Legend,180.00,1150.79,67.00,207142.2000,12060.0000,306006.27120000,09/04/2017 @ 12:00:00 AM
-8160,"Goddess of the Earth, Gono",The Drunken Thief,18.41,Zephyr Adamant,181.00,481.77,-44.14,87200.3700,-7989.3400,93793.78062300,09/04/2017 @ 12:00:00 AM
-31269,"Rougehate, Rune",Hafeld Keep,47.59,Grayplatinum,181.00,2548.00,104.94,461188.0000,18994.1400,708700.82042600,09/04/2017 @ 12:00:00 AM
-8507,"Knightclaw, Sunset",Gawold Castle,10.29,Unicorns' Fatal Magma Metal Of The Ocean,211.00,903.00,23.00,190533.0000,4853.0000,215491.21940000,09/04/2017 @ 12:00:00 AM
-31686,Spikesnare,Hafeld Keep,47.59,Fairies' Supreme Mistsmoke Lead Of The Future,196.00,499.73,549.70,97947.0800,107741.2000,303575.33245200,09/04/2017 @ 12:00:00 AM
-6057,Springcoil,The Bastion of the Vampire Duke,34.45,Vampires' Hammer Emeraldmetal,192.00,77.44,70.40,14868.4800,13516.8000,38164.00896000,09/04/2017 @ 12:00:00 AM
-17576,Springsprocket,Kada's Deep,8.42,Poison Adamant,217.00,110.96,100.87,24078.3200,21888.7900,49837.54066200,09/04/2017 @ 12:00:00 AM
-28458,"Godseeker, Cult",The Fortress of Akkun the Grim,27.03,Negative Rockglitter Mercury Of Trolls,365.00,235.59,214.17,85990.3500,78172.0500,208535.49672000,09/04/2017 @ 12:00:00 AM
-26082,"Spiritraven, Bedlam",The Dungeon of Merciless Woe,3.97,Sapphire Mindlead,251.00,-44.77,-49.25,-11237.2700,-12361.7500,-24535.90109400,09/04/2017 @ 12:00:00 AM
-4063,"Gust, Shadow",The Forsaken Hive of Galima the Mighty,0.39,Timeiron,289.00,3255.00,-14.77,940695.0000,-4268.5300,940078.53323300,09/04/2017 @ 12:00:00 AM
-28698,"Lord of the Sun, Maglioneth",The Chuallanto Jungle,11.00,Negative Rockglitter Mercury Of Trolls,301.00,235.59,214.17,70912.5900,64465.1700,150269.31360000,09/04/2017 @ 12:00:00 AM
-26151,"Roguemist, Rouge",Citadel Ward,4.40,Unspeakable Rotsoul Mithril Of Souls,268.00,370.26,336.60,99229.6800,90208.8000,197773.77312000,09/04/2017 @ 12:00:00 AM
-16799,"The Grasping, Nettool",Gena's Hold,5.85,Plague Tin,366.00,465.25,422.95,170281.5000,154799.7000,344098.45020000,09/04/2017 @ 12:00:00 AM
-15930,"The Binder, Springpulley",The Dungeon of Merciless Woe,3.61,Djinni's Mind Fogiron,170.00,57.23,52.03,9729.1000,8845.1000,19244.72862000,09/04/2017 @ 12:00:00 AM
-15874,"The Cremator, Blazeflare",The Tower of Aramum,20.00,Starsmoke Bronze Of Life,324.00,-438.00,420.81,-141912.0000,136342.4400,-6683.47200000,09/04/2017 @ 12:00:00 AM
-15845,"God of Fate, Sielach",The Dungeon of Merciless Woe,3.61,Starsmoke Bronze Of Life,117.00,-438.00,420.81,-51246.0000,49234.7700,-2083.83540300,09/04/2017 @ 12:00:00 AM
-13362,"Mistmidnight, Tiger",Kada's Deep,8.42,Nymphs' Luminous Rotmercury Of The Skies,83.00,335.50,369.05,27846.5000,30631.1500,63401.46813000,09/04/2017 @ 12:00:00 AM
-13342,"Lord of the Sun, Maglioneth",Dysley Stronghold,35.51,Poison Adamant,136.00,110.96,100.87,15090.5600,13718.3200,39038.91328800,09/04/2017 @ 12:00:00 AM
-25494,"Roguemist, Rouge",The Fortress of the Lich Queen,20.72,Mind Lead,300.00,241.00,219.09,72300.0000,65727.0000,166626.19440000,09/04/2017 @ 12:00:00 AM
+25656,"Mecharig, The Living Device",The Fortress of Akkun the Grim,27.03,Phantasmal Smokezephyr Mercury Of Men,137.00,211.20,192.00,28934.4000,26304.0000,70169.33952000,09/04/2007 @ 12:00:00 AM
+36475,"Blazefreeze, The Chiller",The Fen of the Necromancer,32.21,Vampires' Hammer Emeraldmetal,344.00,93.70,85.18,32232.8000,29301.9200,81355.05331200,09/04/2007 @ 12:00:00 AM
+24590,"Sielach, God of Fate",Bifar's Deep,12.21,Ensorceled Sandmetal Of Spirits,57.00,85.18,77.44,4855.2600,4414.0800,10401.12641400,09/04/2017 @ 12:00:00 AM
+11373,Ironbrood,The Fortress of Asmamur,-2.42,Phantasmal Lead,148.00,21.92,19.93,3244.1600,2949.6400,6043.91004000,09/04/2007 @ 12:00:00 AM
+34288,Springcoil,Barad Cune,49.21,Warlocks' Timerot Mithril,263.00,194.65,194.65,51192.9500,51192.9500,152770.00139000,09/04/2007 @ 12:00:00 AM
+10493,"Shadow, Tomblion",Reheath Stronghold,39.60,Pearl Mirrorice Steel Of Changelings,140.00,2996.00,302.00,419440.0000,42280.0000,644561.12000000,09/04/2007 @ 12:00:00 AM
+21338,"Dawn, Darkzealot",North Arcanist's Farthing,3.03,Starsmoke Bronze Of Life,155.00,-438.00,420.81,-67890.0000,65225.5500,-2745.18283500,09/04/2007 @ 12:00:00 AM
+33419,Bronzespike,Pewold Keep,29.00,Mind Lead,167.00,241.00,219.09,40247.0000,36588.0300,99117.18870000,09/04/2007 @ 12:00:00 AM
+9257,Wheelspawn,Reheath Stronghold,39.60,Primordial Plague Mercury Of Legend,180.00,1150.79,67.00,207142.2000,12060.0000,306006.27120000,09/04/2007 @ 12:00:00 AM
+8160,"Gono, Goddess of the Earth",The Drunken Thief,18.41,Zephyr Adamant,181.00,481.77,-44.14,87200.3700,-7989.3400,93793.78062300,09/04/2007 @ 12:00:00 AM
+31269,"Rune, Rougehate",Hafeld Keep,47.59,Grayplatinum,181.00,2548.00,104.94,461188.0000,18994.1400,708700.82042600,09/04/2007 @ 12:00:00 AM
+8507,"Sunset, Knightclaw",Gawold Castle,10.29,Unicorns' Fatal Magma Metal Of The Ocean,211.00,903.00,23.00,190533.0000,4853.0000,215491.21940000,09/04/2007 @ 12:00:00 AM
+31686,Spikesnare,Hafeld Keep,47.59,Fairies' Supreme Mistsmoke Lead Of The Future,196.00,499.73,549.70,97947.0800,107741.2000,303575.33245200,09/04/2007 @ 12:00:00 AM
+6057,Springcoil,The Bastion of the Vampire Duke,34.45,Vampires' Hammer Emeraldmetal,192.00,77.44,70.40,14868.4800,13516.8000,38164.00896000,09/04/2007 @ 12:00:00 AM
+17576,Springsprocket,Kada's Deep,8.42,Poison Adamant,217.00,110.96,100.87,24078.3200,21888.7900,49837.54066200,09/04/2007 @ 12:00:00 AM
+28458,"Cult, Godseeker",The Fortress of Akkun the Grim,27.03,Negative Rockglitter Mercury Of Trolls,365.00,235.59,214.17,85990.3500,78172.0500,208535.49672000,09/04/2017 @ 12:00:00 AM
+26082,"Bedlam, Spiritraven",The Dungeon of Merciless Woe,3.97,Sapphire Mindlead,251.00,-44.77,-49.25,-11237.2700,-12361.7500,-24535.90109400,09/04/2007 @ 12:00:00 AM
+4063,"Shadow, Gust",The Forsaken Hive of Galima the Mighty,0.39,Timeiron,289.00,3255.00,-14.77,940695.0000,-4268.5300,940078.53323300,09/04/2007 @ 12:00:00 AM
+28698,"Maglioneth, Lord of the Sun",The Chuallanto Jungle,11.00,Negative Rockglitter Mercury Of Trolls,301.00,235.59,214.17,70912.5900,64465.1700,150269.31360000,09/04/2007 @ 12:00:00 AM
+26151,"Rouge, Roguemist",Citadel Ward,4.40,Unspeakable Rotsoul Mithril Of Souls,268.00,370.26,336.60,99229.6800,90208.8000,197773.77312000,09/04/2007 @ 12:00:00 AM
+16799,"Nettool, The Grasping",Gena's Hold,5.85,Plague Tin,366.00,465.25,422.95,170281.5000,154799.7000,344098.45020000,09/04/2007 @ 12:00:00 AM
+15930,"Springpulley, The Binder",The Dungeon of Merciless Woe,3.61,Djinni's Mind Fogiron,170.00,57.23,52.03,9729.1000,8845.1000,19244.72862000,09/04/2007 @ 12:00:00 AM
+15874,"Blazeflare, The Cremator",The Tower of Aramum,20.00,Starsmoke Bronze Of Life,324.00,-438.00,420.81,-141912.0000,136342.4400,-6683.47200000,09/04/2007 @ 12:00:00 AM
+15845,"Sielach, God of Fate",The Dungeon of Merciless Woe,3.61,Starsmoke Bronze Of Life,117.00,-438.00,420.81,-51246.0000,49234.7700,-2083.83540300,09/04/2007 @ 12:00:00 AM
+13362,"Tiger, Mistmidnight",Kada's Deep,8.42,Nymphs' Luminous Rotmercury Of The Skies,83.00,335.50,369.05,27846.5000,30631.1500,63401.46813000,09/04/2007 @ 12:00:00 AM
+13342,"Maglioneth, Lord of the Sun",Dysley Stronghold,35.51,Poison Adamant,136.00,110.96,100.87,15090.5600,13718.3200,39038.91328800,09/04/2007 @ 12:00:00 AM
+25494,"Rouge, Roguemist",The Fortress of the Lich Queen,20.72,Mind Lead,300.00,241.00,219.09,72300.0000,65727.0000,166626.19440000,09/04/2007 @ 12:00:00 AM

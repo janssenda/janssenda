@@ -1,15 +1,15 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-23024,"The Grasping, Nailpiston",Moor Village,11.32,Planar Mudtin Of Trolls,135.00,191.40,174.00,25839.0000,23490.0000,54913.04280000,11/03/2015 @ 12:00:00 AM
-24337,Spikesnare,The Bastion of Barbos,25.41,Ensorceled Sandmetal Of Spirits,232.00,85.18,77.44,19761.7600,17966.0800,47314.48414400,11/03/2015 @ 12:00:00 AM
-35147,"Lord of Plague, Alas",Barad Kesa,6.17,Ghouls' Imperial Soulzephyr Mithril Of The Seas,245.00,318.23,318.23,77966.3500,77966.3500,165553.74759000,11/03/2015 @ 12:00:00 AM
-12460,"Rougehate, Rune",The Nulukkhath Spires,28.99,Zephyr Adamant,203.00,481.77,-44.14,97799.3100,-8960.4200,114593.28421100,11/03/2015 @ 12:00:00 AM
-36600,"Godwarlock, Sunrise",The Fen of the Necromancer,32.21,Ensorceled Sandmetal Of Spirits,333.00,85.18,93.70,28364.9400,31202.1000,78753.58358400,11/03/2015 @ 12:00:00 AM
-12843,"The Machine, Evilcoil",Bergfison's Deep,16.00,Djinni's Mind Fogiron,144.00,57.23,52.03,8241.1200,7492.3200,18250.79040000,11/03/2015 @ 12:00:00 AM
-12974,"The Mechanical, Snarepiston",Bifar's Deep,10.09,Vampires' Fang Emeraldsilver,142.00,2033.69,80.84,288783.9800,11479.2800,330559.82293400,11/03/2015 @ 12:00:00 AM
-2904,Emberfire,The Lazy Sage,21.93,Violetdream Iron,208.00,2680.00,377.25,557440.0000,78468.0000,775362.62440000,11/03/2015 @ 12:00:00 AM
-33854,"Lord of Plague, Alas",Mahyrst Keep,31.30,Unspeakable Rotsoul Mithril Of Souls,203.00,370.26,336.60,75162.7800,68329.8000,188405.75754000,11/03/2015 @ 12:00:00 AM
-8329,"Bladewitch, Zeal",The Drunken Thief,18.41,Unicorns' Fatal Magma Metal Of The Ocean,45.00,903.00,23.00,40635.0000,1035.0000,49341.44700000,11/03/2015 @ 12:00:00 AM
-33918,Emberfire,The Cuitamba Jungle,46.75,Primordial Plague Mercury Of Legend,105.00,73.70,67.00,7738.5000,7035.0000,21680.11125000,11/03/2015 @ 12:00:00 AM
-25386,Beamtrap,Weke Tower,47.19,Primordial Mud Orichalcum,263.00,1113.00,20.57,292719.0000,5409.9100,438815.94262900,11/03/2015 @ 12:00:00 AM
-25483,"The Unspeakable, Scarechain",The Pirate's Pipe,16.94,Djinni's Mind Fogiron,141.00,57.23,57.23,8069.4300,8069.4300,18872.78288400,11/03/2015 @ 12:00:00 AM
-4906,"God of Death, Avriel",Grori's Deep,27.50,Negative Rockglitter Mercury Of Trolls,61.00,3502.00,194.70,213622.0000,11876.7000,287510.84250000,11/03/2015 @ 12:00:00 AM
+23024,"The Grasping, Nailpiston",Moor Village,11.32,Planar Mudtin Of Trolls,135.00,191.40,174.00,25839.0000,23490.0000,54913.04280000,11/03/1945 @ 12:00:00 AM
+24337,Spikesnare,The Bastion of Barbos,25.41,Ensorceled Sandmetal Of Spirits,232.00,85.18,77.44,19761.7600,17966.0800,47314.48414400,11/03/1945 @ 12:00:00 AM
+35147,"Lord of Plague, Alas",Barad Kesa,6.17,Ghouls' Imperial Soulzephyr Mithril Of The Seas,245.00,318.23,318.23,77966.3500,77966.3500,165553.74759000,11/03/1945 @ 12:00:00 AM
+12460,"Rougehate, Rune",The Nulukkhath Spires,28.99,Zephyr Adamant,203.00,481.77,-44.14,97799.3100,-8960.4200,114593.28421100,11/03/1945 @ 12:00:00 AM
+36600,"Godwarlock, Sunrise",The Fen of the Necromancer,32.21,Ensorceled Sandmetal Of Spirits,333.00,85.18,93.70,28364.9400,31202.1000,78753.58358400,11/03/1945 @ 12:00:00 AM
+12843,"The Machine, Evilcoil",Bergfison's Deep,16.00,Djinni's Mind Fogiron,144.00,57.23,52.03,8241.1200,7492.3200,18250.79040000,11/03/1945 @ 12:00:00 AM
+12974,"The Mechanical, Snarepiston",Bifar's Deep,10.09,Vampires' Fang Emeraldsilver,142.00,2033.69,80.84,288783.9800,11479.2800,330559.82293400,11/03/1945 @ 12:00:00 AM
+2904,Emberfire,The Lazy Sage,21.93,Violetdream Iron,208.00,2680.00,377.25,557440.0000,78468.0000,775362.62440000,11/03/1945 @ 12:00:00 AM
+33854,"Lord of Plague, Alas",Mahyrst Keep,31.30,Unspeakable Rotsoul Mithril Of Souls,203.00,370.26,336.60,75162.7800,68329.8000,188405.75754000,11/03/1945 @ 12:00:00 AM
+8329,"Bladewitch, Zeal",The Drunken Thief,18.41,Unicorns' Fatal Magma Metal Of The Ocean,45.00,903.00,23.00,40635.0000,1035.0000,49341.44700000,11/03/1945 @ 12:00:00 AM
+33918,Emberfire,The Cuitamba Jungle,46.75,Primordial Plague Mercury Of Legend,105.00,73.70,67.00,7738.5000,7035.0000,21680.11125000,11/03/1945 @ 12:00:00 AM
+25386,Beamtrap,Weke Tower,47.19,Primordial Mud Orichalcum,263.00,1113.00,20.57,292719.0000,5409.9100,438815.94262900,11/03/1945 @ 12:00:00 AM
+25483,"The Unspeakable, Scarechain",The Pirate's Pipe,16.94,Djinni's Mind Fogiron,141.00,57.23,57.23,8069.4300,8069.4300,18872.78288400,11/03/1945 @ 12:00:00 AM
+4906,"God of Death, Avriel",Grori's Deep,27.50,Negative Rockglitter Mercury Of Trolls,61.00,3502.00,194.70,213622.0000,11876.7000,287510.84250000,11/03/1945 @ 12:00:00 AM

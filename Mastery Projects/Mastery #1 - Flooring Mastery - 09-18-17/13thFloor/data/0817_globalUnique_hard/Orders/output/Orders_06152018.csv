@@ -1,17 +1,17 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-3653,"Darkzealot, Dawn",Noble's Village,4.49,Forgotten Mithril,258.00,3909.75,451.00,1008715.5000,116358.0000,1175589.30015000,06/15/2018 @ 12:00:00 AM
-23911,"Drakecaster, Sephiroth",The Scoundrel and Flask,45.25,Tritons' Time Stoneiron Of Legend,200.00,341.59,375.75,68318.0000,75150.0000,208387.27000000,06/15/2018 @ 12:00:00 AM
-32216,Metalghoul,The Chuallanto Jungle,11.00,Grayplatinum,326.00,2548.00,104.94,830648.0000,34210.4400,959992.86840000,06/15/2018 @ 12:00:00 AM
-20192,"God of Death, Avriel",Eved Castle,30.80,Unknowable Mindsilver,142.00,174.90,174.90,24835.8000,24835.8000,64970.45280000,06/15/2018 @ 12:00:00 AM
-18216,"Lord of Death, Addon",Peley Keep,20.92,Undeads' Mind Orichalcum Of The Twilight,107.00,1169.00,331.54,125083.0000,35474.7800,194146.46757600,06/15/2018 @ 12:00:00 AM
-20592,"Godwarlock, Sunrise",Arcanist's Farthing,29.00,Vampires' Fang Emeraldsilver,207.00,2033.69,80.84,420973.8300,16733.8800,564642.94590000,06/15/2018 @ 12:00:00 AM
-32857,"The Chiller, Blazefreeze",The Bastion of the Lich Tyrant,8.64,Fairies' Supreme Mistsmoke Lead Of The Future,247.00,499.73,549.70,123433.3100,135775.9000,281604.88574400,06/15/2018 @ 12:00:00 AM
-18707,"God of Love, Prusu",The Dancing Minstrel,39.62,Phantasmal Tin Of The Swamps,272.00,3207.64,335.50,872478.0800,91256.0000,1345565.52249600,06/15/2018 @ 12:00:00 AM
-28223,"Gust, Shadow",The Bastion of the Vampire Duke,45.86,Vampires' Fang Emeraldsilver,281.00,2033.69,80.84,571466.8900,22716.0400,866675.22169800,06/15/2018 @ 12:00:00 AM
-15286,"The Machine, Evilcoil",The Fortress of Akkun the Grim,27.03,Mind Lead,169.00,241.00,219.09,40729.0000,37026.2100,98772.44326300,06/15/2018 @ 12:00:00 AM
-903,"Rougehate, Rune",Palace Farthing,13.00,Zephyr Adamant,148.00,481.77,-40.13,71301.9600,-5939.2400,73859.87360000,06/15/2018 @ 12:00:00 AM
-26208,"God of Resurrection, Gadriel",The Pirate's Pipe,16.94,Warlocks' Timerot Mithril,196.00,194.65,176.95,38151.4000,34682.2000,85171.61184000,06/15/2018 @ 12:00:00 AM
-37083,Flameshiver,The Greedy Wench,13.31,Stone Soulsteel Of The Skies,274.00,453.31,453.31,124206.9400,124206.9400,281477.76742800,06/15/2018 @ 12:00:00 AM
-4564,"Runetomb, Song",Pawic Keep,31.90,Incubi's Iron Of The Dawn,359.00,-431.08,159.08,-154757.7200,57109.7200,-128797.71200000,06/15/2018 @ 12:00:00 AM
-12209,"Lonedrake, Clash",Castle Village,42.98,Zephyr Adamant,41.00,481.77,-44.14,19752.5700,-1809.7400,25654.65833400,06/15/2018 @ 12:00:00 AM
-24109,Chainnail,The Dungeon of Merciless Woe,3.97,Incubi's Glittering Tin Of The Future,244.00,192.96,212.26,47082.2400,51791.4400,102798.96509600,06/15/2018 @ 12:00:00 AM
+3653,"Darkzealot, Dawn",Noble's Village,4.49,Forgotten Mithril,258.00,3909.75,451.00,1008715.5000,116358.0000,1175589.30015000,06/15/1948 @ 12:00:00 AM
+23911,"Drakecaster, Sephiroth",The Scoundrel and Flask,45.25,Tritons' Time Stoneiron Of Legend,200.00,341.59,375.75,68318.0000,75150.0000,208387.27000000,06/15/1948 @ 12:00:00 AM
+32216,Metalghoul,The Chuallanto Jungle,11.00,Grayplatinum,326.00,2548.00,104.94,830648.0000,34210.4400,959992.86840000,06/15/1948 @ 12:00:00 AM
+20192,"God of Death, Avriel",Eved Castle,30.80,Unknowable Mindsilver,142.00,174.90,174.90,24835.8000,24835.8000,64970.45280000,06/15/1948 @ 12:00:00 AM
+18216,"Lord of Death, Addon",Peley Keep,20.92,Undeads' Mind Orichalcum Of The Twilight,107.00,1169.00,331.54,125083.0000,35474.7800,194146.46757600,06/15/1978 @ 12:00:00 AM
+20592,"Godwarlock, Sunrise",Arcanist's Farthing,29.00,Vampires' Fang Emeraldsilver,207.00,2033.69,80.84,420973.8300,16733.8800,564642.94590000,06/15/1948 @ 12:00:00 AM
+32857,"The Chiller, Blazefreeze",The Bastion of the Lich Tyrant,8.64,Fairies' Supreme Mistsmoke Lead Of The Future,247.00,499.73,549.70,123433.3100,135775.9000,281604.88574400,06/15/1948 @ 12:00:00 AM
+18707,"God of Love, Prusu",The Dancing Minstrel,39.62,Phantasmal Tin Of The Swamps,272.00,3207.64,335.50,872478.0800,91256.0000,1345565.52249600,06/15/1948 @ 12:00:00 AM
+28223,"Gust, Shadow",The Bastion of the Vampire Duke,45.86,Vampires' Fang Emeraldsilver,281.00,2033.69,80.84,571466.8900,22716.0400,866675.22169800,06/15/1948 @ 12:00:00 AM
+15286,"The Machine, Evilcoil",The Fortress of Akkun the Grim,27.03,Mind Lead,169.00,241.00,219.09,40729.0000,37026.2100,98772.44326300,06/15/1948 @ 12:00:00 AM
+903,"Rougehate, Rune",Palace Farthing,13.00,Zephyr Adamant,148.00,481.77,-40.13,71301.9600,-5939.2400,73859.87360000,06/15/1948 @ 12:00:00 AM
+26208,"God of Resurrection, Gadriel",The Pirate's Pipe,16.94,Warlocks' Timerot Mithril,196.00,194.65,176.95,38151.4000,34682.2000,85171.61184000,06/15/1948 @ 12:00:00 AM
+37083,Flameshiver,The Greedy Wench,13.31,Stone Soulsteel Of The Skies,274.00,453.31,453.31,124206.9400,124206.9400,281477.76742800,06/15/1948 @ 12:00:00 AM
+4564,"Runetomb, Song",Pawic Keep,31.90,Incubi's Iron Of The Dawn,359.00,-431.08,159.08,-154757.7200,57109.7200,-128797.71200000,06/15/1948 @ 12:00:00 AM
+12209,"Lonedrake, Clash",Castle Village,42.98,Zephyr Adamant,41.00,481.77,-44.14,19752.5700,-1809.7400,25654.65833400,06/15/1948 @ 12:00:00 AM
+24109,Chainnail,The Dungeon of Merciless Woe,3.97,Incubi's Glittering Tin Of The Future,244.00,192.96,212.26,47082.2400,51791.4400,102798.96509600,06/15/1978 @ 12:00:00 AM

@@ -1,17 +1,17 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-2301,"The Cremator, Blazeflare",The Forsaken Tomb of Devastation,38.65,Meteoric Mirrormuck Orichalcum Of The Forests,294.00,491.62,368.50,144536.2800,108339.0000,350611.57572000,09/05/2015 @ 12:00:00 AM
-12684,"God of Animals, Byzou",The Tomb of Hellish Ruin,33.00,Incubi's Iron Of The Dawn,202.00,174.99,174.99,35347.9800,35347.9800,94025.62680000,09/05/2015 @ 12:00:00 AM
-11463,"The Horrorific, Evilfear",The Black Barrow of Bery,19.80,Primordial Plague Mercury Of Legend,319.00,1150.79,67.00,367102.0100,21373.0000,465393.06198000,09/05/2015 @ 12:00:00 AM
-24780,"Gust, Shadow",Eved Castle,30.80,Ensorceled Sandmetal Of Spirits,259.00,85.18,77.44,22061.6200,20056.9600,55091.10264000,09/05/2015 @ 12:00:00 AM
-11813,"God of Love, Prusu",Gifeld Castle,27.28,Emerald Orichalcum,61.00,1957.00,129.81,119377.0000,7918.4100,162021.59784800,09/05/2015 @ 12:00:00 AM
-34572,"Lord of Plague, Alas",The Bastion of the Vampire Duke,45.86,Grayplatinum,63.00,2548.00,115.43,160524.0000,7272.0900,244747.37687400,09/05/2015 @ 12:00:00 AM
-10589,"Spiritraven, Bedlam",The Bastion of the Vampire Duke,37.90,Dragons' Poison Glitterflesh Steel Of The North,274.00,742.00,75.00,203308.0000,20550.0000,308700.18200000,09/05/2015 @ 12:00:00 AM
-33469,"Godwarlock, Sunrise",Pewold Keep,29.00,Forgotten Mithril,283.00,600.28,545.71,169879.2400,154435.9300,418366.56930000,09/05/2015 @ 12:00:00 AM
-33573,"The Unspeakable, Terrorghoul",The Archer and Scroll,60.12,Mind Lead,123.00,241.00,219.09,29643.0000,26948.0700,90613.62128400,09/05/2015 @ 12:00:00 AM
-31014,"Goddess of Knowledge, Ahah",Mahyrst Keep,31.30,Foulopal Copper Of The Skies,191.00,221.83,221.83,42369.5300,42369.5300,111262.38578000,09/05/2015 @ 12:00:00 AM
-32579,"Darkzealot, Dawn",Hafeld Keep,47.59,Unspeakable Rotsoul Mithril Of Souls,304.00,370.26,336.60,112559.0400,102326.4000,317149.42089600,09/05/2015 @ 12:00:00 AM
-19618,"God of Love, Prusu",The Bastion of Barbos,25.41,Toxic Mistlead Of The Past,287.00,396.06,396.06,113669.2200,113669.2200,285105.13760400,09/05/2015 @ 12:00:00 AM
-27048,"God of Thieves, Maeglodor",Reheath Stronghold,39.60,Shadowhell Mithril,249.00,462.21,420.19,115090.2900,104627.3100,306725.76960000,09/05/2015 @ 12:00:00 AM
-26183,Bronzespawn,Archfane District,15.29,Grayplatinum,376.00,2548.00,104.94,958048.0000,39457.4400,1150024.02177600,09/05/2015 @ 12:00:00 AM
-26209,"Goddess of Fate, Azah",Barad Cune,49.21,Unspeakable Rotsoul Mithril Of Souls,290.00,370.26,336.60,107375.4000,97614.0000,305864.68374000,09/05/2015 @ 12:00:00 AM
-26513,"Felldrake, Magus",The Chuallanto Jungle,11.00,Foulopal Copper Of The Skies,221.00,221.83,201.66,49024.4300,44566.8600,103886.33190000,09/05/2015 @ 12:00:00 AM
+2301,"The Cremator, Blazeflare",The Forsaken Tomb of Devastation,38.65,Meteoric Mirrormuck Orichalcum Of The Forests,294.00,491.62,368.50,144536.2800,108339.0000,350611.57572000,09/05/1945 @ 12:00:00 AM
+12684,"God of Animals, Byzou",The Tomb of Hellish Ruin,33.00,Incubi's Iron Of The Dawn,202.00,174.99,174.99,35347.9800,35347.9800,94025.62680000,09/05/1945 @ 12:00:00 AM
+11463,"The Horrorific, Evilfear",The Black Barrow of Bery,19.80,Primordial Plague Mercury Of Legend,319.00,1150.79,67.00,367102.0100,21373.0000,465393.06198000,09/05/1945 @ 12:00:00 AM
+24780,"Gust, Shadow",Eved Castle,30.80,Ensorceled Sandmetal Of Spirits,259.00,85.18,77.44,22061.6200,20056.9600,55091.10264000,09/05/1945 @ 12:00:00 AM
+11813,"God of Love, Prusu",Gifeld Castle,27.28,Emerald Orichalcum,61.00,1957.00,129.81,119377.0000,7918.4100,162021.59784800,09/05/1945 @ 12:00:00 AM
+34572,"Lord of Plague, Alas",The Bastion of the Vampire Duke,45.86,Grayplatinum,63.00,2548.00,115.43,160524.0000,7272.0900,244747.37687400,09/05/1945 @ 12:00:00 AM
+10589,"Spiritraven, Bedlam",The Bastion of the Vampire Duke,37.90,Dragons' Poison Glitterflesh Steel Of The North,274.00,742.00,75.00,203308.0000,20550.0000,308700.18200000,09/05/1945 @ 12:00:00 AM
+33469,"Godwarlock, Sunrise",Pewold Keep,29.00,Forgotten Mithril,283.00,600.28,545.71,169879.2400,154435.9300,418366.56930000,09/05/1945 @ 12:00:00 AM
+33573,"The Unspeakable, Terrorghoul",The Archer and Scroll,60.12,Mind Lead,123.00,241.00,219.09,29643.0000,26948.0700,90613.62128400,09/05/1945 @ 12:00:00 AM
+31014,"Goddess of Knowledge, Ahah",Mahyrst Keep,31.30,Foulopal Copper Of The Skies,191.00,221.83,221.83,42369.5300,42369.5300,111262.38578000,09/05/1945 @ 12:00:00 AM
+32579,"Darkzealot, Dawn",Hafeld Keep,47.59,Unspeakable Rotsoul Mithril Of Souls,304.00,370.26,336.60,112559.0400,102326.4000,317149.42089600,09/05/1945 @ 12:00:00 AM
+19618,"God of Love, Prusu",The Bastion of Barbos,25.41,Toxic Mistlead Of The Past,287.00,396.06,396.06,113669.2200,113669.2200,285105.13760400,09/05/1945 @ 12:00:00 AM
+27048,"God of Thieves, Maeglodor",Reheath Stronghold,39.60,Shadowhell Mithril,249.00,462.21,420.19,115090.2900,104627.3100,306725.76960000,09/05/1945 @ 12:00:00 AM
+26183,Bronzespawn,Archfane District,15.29,Grayplatinum,376.00,2548.00,104.94,958048.0000,39457.4400,1150024.02177600,09/05/1945 @ 12:00:00 AM
+26209,"Goddess of Fate, Azah",Barad Cune,49.21,Unspeakable Rotsoul Mithril Of Souls,290.00,370.26,336.60,107375.4000,97614.0000,305864.68374000,09/05/1945 @ 12:00:00 AM
+26513,"Felldrake, Magus",The Chuallanto Jungle,11.00,Foulopal Copper Of The Skies,221.00,221.83,201.66,49024.4300,44566.8600,103886.33190000,09/05/1945 @ 12:00:00 AM

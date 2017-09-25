@@ -1,17 +1,17 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-37780,Beamtrap,The Greedy Wench,13.31,Ghouls' Imperial Soulzephyr Mithril Of The Seas,186.00,318.23,318.23,59190.7800,59190.7800,134138.14563600,02/06/2016 @ 12:00:00 AM
-45,Spikecrank,Eved Castle,28.00,Magicians' Legendary Poison Metal,141.00,3615.00,-48.01,509715.0000,-6769.4100,643770.35520000,02/06/2016 @ 12:00:00 AM
-25772,"Mystery, Lord",The Dungeon of Merciless Woe,3.97,Fleshshock Mercury,342.00,-31.02,-28.20,-10608.8400,-9644.4000,-21057.29362800,02/06/2016 @ 12:00:00 AM
-3845,"Seeker, Fate",The Forsaken Sepulcher of Sorrows,28.51,Trolls' Rubymercury Of The Sunset,285.00,2733.00,443.00,778905.0000,126255.0000,1163221.11600000,02/06/2016 @ 12:00:00 AM
-12672,"Anchor, Rose",Bifar's Deep,10.09,Vampires' Fang Emeraldsilver,97.00,2033.69,80.84,197267.9300,7841.4800,225804.94946900,02/06/2016 @ 12:00:00 AM
-36816,"Runetomb, Song",The Fen of the Necromancer,32.21,Grayplatinum,196.00,2548.00,115.43,499408.0000,22624.2800,690178.87738800,02/06/2016 @ 12:00:00 AM
-34339,"The Frigid, Icechill",Mahyrst Keep,31.30,Warlocks' Timerot Mithril,293.00,194.65,194.65,57032.4500,57032.4500,149767.21370000,02/06/2016 @ 12:00:00 AM
-34721,"Lionwatcher, Law",Barad Kesa,6.17,Grayplatinum,226.00,2548.00,115.43,575848.0000,26087.1800,639074.58060600,02/06/2016 @ 12:00:00 AM
-33465,"Claw, Slayer",Pewold Keep,29.00,Fairies' Supreme Mistsmoke Lead Of The Future,340.00,499.73,549.70,169908.2000,186898.0000,460279.99800000,02/06/2016 @ 12:00:00 AM
-32856,Emberfire,The Bastion of the Lich Tyrant,8.64,Yellow Mistearth Copper,213.00,287.98,261.80,61339.7400,55763.4000,127220.85129600,02/06/2016 @ 12:00:00 AM
-16154,Bolttrap,The Pirate's Pipe,16.94,Tritons' Time Stoneiron Of Legend,51.00,341.59,341.59,17421.0900,17421.0900,40744.44529200,02/06/2016 @ 12:00:00 AM
-8755,Spikerivet,Gena's Hold,4.40,Planar Mudtin Of Trolls,317.00,191.40,174.00,60673.8000,55158.0000,120928.39920000,02/06/2016 @ 12:00:00 AM
-30926,"The Machine, Wheelbolt",The Broken Arrow,17.60,Foulopal Copper Of The Skies,237.00,221.83,221.83,52573.7100,52573.7100,123653.36592000,02/06/2016 @ 12:00:00 AM
-25211,"The Chiller, Chillfire",Gili's Delve,35.89,Ghostly Soul Adamant,113.00,414.70,377.00,46861.1000,42601.0000,121570.04769000,02/06/2016 @ 12:00:00 AM
-15865,"Mistseeker, Grave",The Fortress of Asmamur,-2.66,Imperial Fate Steel,285.00,419.10,381.00,119443.5000,108585.0000,221962.94190000,02/06/2016 @ 12:00:00 AM
-36211,"The Unspeakable, Gravebone",The Fen of the Necromancer,32.21,Ensorceled Sandmetal Of Spirits,340.00,85.18,93.70,28961.2000,31858.0000,80409.06432000,02/06/2016 @ 12:00:00 AM
+37780,Beamtrap,The Greedy Wench,13.31,Ghouls' Imperial Soulzephyr Mithril Of The Seas,186.00,318.23,318.23,59190.7800,59190.7800,134138.14563600,02/06/1946 @ 12:00:00 AM
+45,Spikecrank,Eved Castle,28.00,Magicians' Legendary Poison Metal,141.00,3615.00,-48.01,509715.0000,-6769.4100,643770.35520000,02/06/1946 @ 12:00:00 AM
+25772,"Mystery, Lord",The Dungeon of Merciless Woe,3.97,Fleshshock Mercury,342.00,-31.02,-28.20,-10608.8400,-9644.4000,-21057.29362800,02/06/1946 @ 12:00:00 AM
+3845,"Seeker, Fate",The Forsaken Sepulcher of Sorrows,28.51,Trolls' Rubymercury Of The Sunset,285.00,2733.00,443.00,778905.0000,126255.0000,1163221.11600000,02/06/1946 @ 12:00:00 AM
+12672,"Anchor, Rose",Bifar's Deep,10.09,Vampires' Fang Emeraldsilver,97.00,2033.69,80.84,197267.9300,7841.4800,225804.94946900,02/06/1946 @ 12:00:00 AM
+36816,"Runetomb, Song",The Fen of the Necromancer,32.21,Grayplatinum,196.00,2548.00,115.43,499408.0000,22624.2800,690178.87738800,02/06/1946 @ 12:00:00 AM
+34339,"The Frigid, Icechill",Mahyrst Keep,31.30,Warlocks' Timerot Mithril,293.00,194.65,194.65,57032.4500,57032.4500,149767.21370000,02/06/1946 @ 12:00:00 AM
+34721,"Lionwatcher, Law",Barad Kesa,6.17,Grayplatinum,226.00,2548.00,115.43,575848.0000,26087.1800,639074.58060600,02/06/1946 @ 12:00:00 AM
+33465,"Claw, Slayer",Pewold Keep,29.00,Fairies' Supreme Mistsmoke Lead Of The Future,340.00,499.73,549.70,169908.2000,186898.0000,460279.99800000,02/06/1946 @ 12:00:00 AM
+32856,Emberfire,The Bastion of the Lich Tyrant,8.64,Yellow Mistearth Copper,213.00,287.98,261.80,61339.7400,55763.4000,127220.85129600,02/06/1946 @ 12:00:00 AM
+16154,Bolttrap,The Pirate's Pipe,16.94,Tritons' Time Stoneiron Of Legend,51.00,341.59,341.59,17421.0900,17421.0900,40744.44529200,02/06/1946 @ 12:00:00 AM
+8755,Spikerivet,Gena's Hold,4.40,Planar Mudtin Of Trolls,317.00,191.40,174.00,60673.8000,55158.0000,120928.39920000,02/06/1946 @ 12:00:00 AM
+30926,"The Machine, Wheelbolt",The Broken Arrow,17.60,Foulopal Copper Of The Skies,237.00,221.83,221.83,52573.7100,52573.7100,123653.36592000,02/06/1986 @ 12:00:00 AM
+25211,"The Chiller, Chillfire",Gili's Delve,35.89,Ghostly Soul Adamant,113.00,414.70,377.00,46861.1000,42601.0000,121570.04769000,02/06/1986 @ 12:00:00 AM
+15865,"Mistseeker, Grave",The Fortress of Asmamur,-2.66,Imperial Fate Steel,285.00,419.10,381.00,119443.5000,108585.0000,221962.94190000,02/06/1946 @ 12:00:00 AM
+36211,"The Unspeakable, Gravebone",The Fen of the Necromancer,32.21,Ensorceled Sandmetal Of Spirits,340.00,85.18,93.70,28961.2000,31858.0000,80409.06432000,02/06/1946 @ 12:00:00 AM

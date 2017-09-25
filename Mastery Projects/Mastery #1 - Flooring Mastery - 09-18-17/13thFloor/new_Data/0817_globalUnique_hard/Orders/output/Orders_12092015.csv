@@ -1,20 +1,20 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-1105,"Lady of Vengeance, Zepul",The Shadow Downs,34.00,Zephyr Iron,30.00,2249.71,233.69,67491.3000,7010.7000,99832.68000000,12/09/2015 @ 12:00:00 AM
-2732,"Mistseeker, Grave",The Khazahol Crags,20.68,Warlocks' Timerot Mithril,289.00,725.00,176.95,209525.0000,51138.5500,314568.77214000,12/09/2015 @ 12:00:00 AM
-34340,"The Cadaverous, Chainblade",The Cuitamba Jungle,46.75,Unspeakable Rotsoul Mithril Of Souls,201.00,370.26,336.60,74422.2600,67656.6000,208500.72705000,12/09/2015 @ 12:00:00 AM
-23585,"God of the Lost, Lionare",Reheath Stronghold,39.60,Fleshshock Mercury,205.00,-31.02,-28.20,-6359.1000,-5781.0000,-16947.57960000,12/09/2015 @ 12:00:00 AM
-22459,"Seeker, Fate",Pewold Keep,29.00,Imperial Fate Steel,43.00,419.10,381.00,18021.3000,16383.0000,44381.54700000,12/09/2015 @ 12:00:00 AM
-21445,"God of Resurrection, Gadriel",Reyny Keep,-3.35,Witchs' Forbidden Rockrainbow Bronze,173.00,245.63,245.63,42493.9900,42493.9900,82140.88267000,12/09/2015 @ 12:00:00 AM
-19215,Emberspawn,Weke Tower,47.19,Spirits' Living Wordhammer Tin Of The Trees,330.00,141.57,128.70,46718.1000,42471.0000,131277.43629000,12/09/2015 @ 12:00:00 AM
-19419,"God of Death, Avriel",Gifeld Castle,33.01,Vampires' Fang Emeraldsilver,238.00,2033.69,80.84,484018.2200,19239.9200,669383.65201400,12/09/2015 @ 12:00:00 AM
-19688,"Drakecaster, Sephiroth",The Bastion of Barbos,25.41,Vampires' Fang Emeraldsilver,290.00,2033.69,80.84,589770.1000,23443.6000,769031.30117000,12/09/2015 @ 12:00:00 AM
-33937,"Jackalguard, Gale",Barad Cune,49.21,Warlocks' Timerot Mithril,259.00,194.65,194.65,50414.3500,50414.3500,150446.50327000,12/09/2015 @ 12:00:00 AM
-31771,Spikesnare,Gifeld Castle,33.01,Fairies' Supreme Mistsmoke Lead Of The Future,109.00,499.73,549.70,54470.5700,59917.3000,152147.30588700,12/09/2015 @ 12:00:00 AM
-8870,"Angelchild, Harmony",Gena's Hold,4.40,Unknown Fatelightning Steel Of The Glacier,144.00,119.90,131.89,17265.6000,18992.1600,37853.10144000,12/09/2015 @ 12:00:00 AM
-7567,"The Chiller, Blazefreeze",Noble's Village,4.94,Planar Rainfate Mithril,79.00,179.30,163.00,14164.7000,12877.0000,28377.55998000,12/09/2015 @ 12:00:00 AM
-29828,"Claw, Slayer",The Tower of Sabiesu the Awesome,10.00,Swordbronze,200.00,403.29,366.63,80658.0000,73326.0000,169382.40000000,12/09/2015 @ 12:00:00 AM
-30800,"God of Luck, Ariel",Mahyrst Keep,31.30,Ensorceled Sandmetal Of Spirits,138.00,85.18,77.44,11754.8400,10686.7200,29465.76828000,12/09/2015 @ 12:00:00 AM
-17819,"Dire, Wind",The Bastion of the Vampire Duke,37.90,Starsmoke Bronze Of Life,133.00,-438.00,420.81,-58254.0000,55967.7300,-3152.76633000,12/09/2015 @ 12:00:00 AM
-27656,"Godwarlock, Sunrise",The Bastion of Gothmog of Udun,-2.42,Unknown Fatelightning Steel Of The Glacier,136.00,145.08,159.59,19730.8800,21704.2400,40432.39009600,12/09/2015 @ 12:00:00 AM
-14862,"God of War, Ingwenel",Dysley Stronghold,35.51,Primordial Plague Mercury Of Legend,185.00,73.70,67.00,13634.5000,12395.0000,35272.57545000,12/09/2015 @ 12:00:00 AM
-3596,"The Binder, Springpulley",The Hunter and Rose,39.60,Unknown Fatelightning Steel Of The Glacier,205.00,119.90,109.00,24579.5000,22345.0000,65506.60200000,12/09/2015 @ 12:00:00 AM
+1105,"Zepul, Lady of Vengeance",The Shadow Downs,34.00,Zephyr Iron,30.00,2249.71,233.69,67491.3000,7010.7000,99832.68000000,12/09/2005 @ 12:00:00 AM
+2732,"Grave, Mistseeker",The Khazahol Crags,20.68,Warlocks' Timerot Mithril,289.00,725.00,176.95,209525.0000,51138.5500,314568.77214000,12/09/2005 @ 12:00:00 AM
+34340,"Chainblade, The Cadaverous",The Cuitamba Jungle,46.75,Unspeakable Rotsoul Mithril Of Souls,201.00,370.26,336.60,74422.2600,67656.6000,208500.72705000,12/09/2005 @ 12:00:00 AM
+23585,"Lionare, God of the Lost",Reheath Stronghold,39.60,Fleshshock Mercury,205.00,-31.02,-28.20,-6359.1000,-5781.0000,-16947.57960000,12/09/2005 @ 12:00:00 AM
+22459,"Fate, Seeker",Pewold Keep,29.00,Imperial Fate Steel,43.00,419.10,381.00,18021.3000,16383.0000,44381.54700000,12/09/2005 @ 12:00:00 AM
+21445,"Gadriel, God of Resurrection",Reyny Keep,-3.35,Witchs' Forbidden Rockrainbow Bronze,173.00,245.63,245.63,42493.9900,42493.9900,82140.88267000,12/09/2005 @ 12:00:00 AM
+19215,Emberspawn,Weke Tower,47.19,Spirits' Living Wordhammer Tin Of The Trees,330.00,141.57,128.70,46718.1000,42471.0000,131277.43629000,12/09/2005 @ 12:00:00 AM
+19419,"Avriel, God of Death",Gifeld Castle,33.01,Vampires' Fang Emeraldsilver,238.00,2033.69,80.84,484018.2200,19239.9200,669383.65201400,12/09/2005 @ 12:00:00 AM
+19688,"Sephiroth, Drakecaster",The Bastion of Barbos,25.41,Vampires' Fang Emeraldsilver,290.00,2033.69,80.84,589770.1000,23443.6000,769031.30117000,12/09/2005 @ 12:00:00 AM
+33937,"Gale, Jackalguard",Barad Cune,49.21,Warlocks' Timerot Mithril,259.00,194.65,194.65,50414.3500,50414.3500,150446.50327000,12/09/2005 @ 12:00:00 AM
+31771,Spikesnare,Gifeld Castle,33.01,Fairies' Supreme Mistsmoke Lead Of The Future,109.00,499.73,549.70,54470.5700,59917.3000,152147.30588700,12/09/2005 @ 12:00:00 AM
+8870,"Harmony, Angelchild",Gena's Hold,4.40,Unknown Fatelightning Steel Of The Glacier,144.00,119.90,131.89,17265.6000,18992.1600,37853.10144000,12/09/2005 @ 12:00:00 AM
+7567,"Blazefreeze, The Chiller",Noble's Village,4.94,Planar Rainfate Mithril,79.00,179.30,163.00,14164.7000,12877.0000,28377.55998000,12/09/2005 @ 12:00:00 AM
+29828,"Slayer, Claw",The Tower of Sabiesu the Awesome,10.00,Swordbronze,200.00,403.29,366.63,80658.0000,73326.0000,169382.40000000,12/09/2005 @ 12:00:00 AM
+30800,"Ariel, God of Luck",Mahyrst Keep,31.30,Ensorceled Sandmetal Of Spirits,138.00,85.18,77.44,11754.8400,10686.7200,29465.76828000,12/09/2005 @ 12:00:00 AM
+17819,"Wind, Dire",The Bastion of the Vampire Duke,37.90,Starsmoke Bronze Of Life,133.00,-438.00,420.81,-58254.0000,55967.7300,-3152.76633000,12/09/2005 @ 12:00:00 AM
+27656,"Sunrise, Godwarlock",The Bastion of Gothmog of Udun,-2.42,Unknown Fatelightning Steel Of The Glacier,136.00,145.08,159.59,19730.8800,21704.2400,40432.39009600,12/09/2005 @ 12:00:00 AM
+14862,"Ingwenel, God of War",Dysley Stronghold,35.51,Primordial Plague Mercury Of Legend,185.00,73.70,67.00,13634.5000,12395.0000,35272.57545000,12/09/2005 @ 12:00:00 AM
+3596,"Springpulley, The Binder",The Hunter and Rose,39.60,Unknown Fatelightning Steel Of The Glacier,205.00,119.90,109.00,24579.5000,22345.0000,65506.60200000,12/09/2005 @ 12:00:00 AM

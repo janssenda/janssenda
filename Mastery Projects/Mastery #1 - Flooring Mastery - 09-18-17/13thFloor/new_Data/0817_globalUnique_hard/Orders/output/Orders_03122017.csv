@@ -1,28 +1,28 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-12473,"Mistseeker, Grave",Hafeld Keep,47.59,Djinni's Evil Sandobsidian Steel Of The Future,300.00,140.58,140.58,42174.0000,42174.0000,124489.21320000,03/12/2017 @ 12:00:00 AM
-12452,"The Freezer, Burnbrood",Gifeld Castle,27.28,Emerald Orichalcum,292.00,1957.00,129.81,571444.0000,37904.5200,775578.79625600,03/12/2017 @ 12:00:00 AM
-36424,"The Terrifying, Deathspike",The Fen of the Necromancer,32.21,Heavenly Dreamsilver Of The Night,119.00,719.00,346.06,85561.0000,41181.1400,167565.78329400,03/12/2017 @ 12:00:00 AM
-12660,"Lord of Nightmares, Iran",Bifar's Deep,10.09,White Platinum,170.00,83.49,91.84,14193.3000,15612.8000,32813.53549000,03/12/2017 @ 12:00:00 AM
-10128,"Godseeker, Cult",Archring Borough,29.70,Forgotten Mithril,202.00,3909.75,496.10,789769.5000,100212.2000,1154306.26490000,03/12/2017 @ 12:00:00 AM
-10031,"The Constructed, Snaretool",Gifeld Castle,27.28,Forgotten Mithril,119.00,3909.75,496.10,465260.2500,59035.9000,667324.13972000,03/12/2017 @ 12:00:00 AM
-35554,"Dire, Wind",The Fortress of the Lich Queen,22.79,Lycanthropes' Gold,160.00,449.88,408.98,71980.8000,65436.8000,168735.07104000,03/12/2017 @ 12:00:00 AM
-22210,"Jester, Seraph",Pewold Keep,29.00,Fog Lavaplatinum Of Life,219.00,560.35,509.41,122716.6500,111560.7900,302217.89760000,03/12/2017 @ 12:00:00 AM
-20361,Emberspawn,Dysley Stronghold,35.51,Unknowable Mindsilver,272.00,174.90,174.90,47572.8000,47572.8000,128931.80256000,03/12/2017 @ 12:00:00 AM
-31090,"Tsunami, Seraphim",The Nulukkhath Spires,28.99,Ensorceled Sandmetal Of Spirits,77.00,85.18,77.44,6558.8600,5962.8800,16151.79242600,03/12/2017 @ 12:00:00 AM
-31392,"The Grasping, Nettool",Noble's Village,6.57,Pearl Mirrorice Steel Of Changelings,244.00,365.42,365.42,89162.4800,89162.4800,190040.90987200,03/12/2017 @ 12:00:00 AM
-8316,"Tsunami, Seraphim",Gawold Castle,10.29,Lycanthropes' Gold,193.00,371.80,338.00,71757.4000,65234.0000,151087.81506000,03/12/2017 @ 12:00:00 AM
-17243,"Goddess of Law, Eumyan",Gena's Hold,5.85,Grayplatinum,181.00,2548.00,104.94,461188.0000,18994.1400,508272.79519000,03/12/2017 @ 12:00:00 AM
-307,"Dire, Wind",The Bastion of Sthasu the Gruesome,40.00,Djinni's Evil Sandobsidian Steel Of The Future,120.00,2319.00,127.80,278280.0000,15336.0000,411062.40000000,03/12/2017 @ 12:00:00 AM
-6024,"Jackalguard, Gale",Reheath Stronghold,39.60,Grayplatinum,154.00,2548.00,86.73,392392.0000,13356.4200,566424.79432000,03/12/2017 @ 12:00:00 AM
-18735,"Lord of Nightmares, Iran",The Tower of Sabiesu the Awesome,10.00,Meteoric Mirrormuck Orichalcum Of The Forests,87.00,491.62,405.35,42770.9400,35265.4500,85840.02900000,03/12/2017 @ 12:00:00 AM
-17690,"The Evil, Snowflame",The Bastion of the Vampire Duke,37.90,Ghostly Soul Adamant,78.00,414.70,377.00,32346.6000,29406.0000,85156.83540000,03/12/2017 @ 12:00:00 AM
-6437,"Dawn, Tarot",The Drunken Thief,18.41,Fleshshock Mercury,219.00,-31.02,-28.20,-6793.3800,-6175.8000,-15356.80603800,03/12/2017 @ 12:00:00 AM
-7811,"Lord of Animals, Suriel",The Pirate's Pipe,15.40,Swordbronze,307.00,333.30,303.00,102323.1000,93021.0000,225427.09140000,03/12/2017 @ 12:00:00 AM
+12473,"Grave, Mistseeker",Hafeld Keep,47.59,Djinni's Evil Sandobsidian Steel Of The Future,300.00,140.58,140.58,42174.0000,42174.0000,124489.21320000,03/12/2007 @ 12:00:00 AM
+12452,"Burnbrood, The Freezer",Gifeld Castle,27.28,Emerald Orichalcum,292.00,1957.00,129.81,571444.0000,37904.5200,775578.79625600,03/12/2007 @ 12:00:00 AM
+36424,"Deathspike, The Terrifying",The Fen of the Necromancer,32.21,Heavenly Dreamsilver Of The Night,119.00,719.00,346.06,85561.0000,41181.1400,167565.78329400,03/12/2007 @ 12:00:00 AM
+12660,"Iran, Lord of Nightmares",Bifar's Deep,10.09,White Platinum,170.00,83.49,91.84,14193.3000,15612.8000,32813.53549000,03/12/2007 @ 12:00:00 AM
+10128,"Cult, Godseeker",Archring Borough,29.70,Forgotten Mithril,202.00,3909.75,496.10,789769.5000,100212.2000,1154306.26490000,03/12/2007 @ 12:00:00 AM
+10031,"Snaretool, The Constructed",Gifeld Castle,27.28,Forgotten Mithril,119.00,3909.75,496.10,465260.2500,59035.9000,667324.13972000,03/12/2007 @ 12:00:00 AM
+35554,"Wind, Dire",The Fortress of the Lich Queen,22.79,Lycanthropes' Gold,160.00,449.88,408.98,71980.8000,65436.8000,168735.07104000,03/12/2007 @ 12:00:00 AM
+22210,"Seraph, Jester",Pewold Keep,29.00,Fog Lavaplatinum Of Life,219.00,560.35,509.41,122716.6500,111560.7900,302217.89760000,03/12/2007 @ 12:00:00 AM
+20361,Emberspawn,Dysley Stronghold,35.51,Unknowable Mindsilver,272.00,174.90,174.90,47572.8000,47572.8000,128931.80256000,03/12/2007 @ 12:00:00 AM
+31090,"Seraphim, Tsunami",The Nulukkhath Spires,28.99,Ensorceled Sandmetal Of Spirits,77.00,85.18,77.44,6558.8600,5962.8800,16151.79242600,03/12/2007 @ 12:00:00 AM
+31392,"Nettool, The Grasping",Noble's Village,6.57,Pearl Mirrorice Steel Of Changelings,244.00,365.42,365.42,89162.4800,89162.4800,190040.90987200,03/12/2007 @ 12:00:00 AM
+8316,"Seraphim, Tsunami",Gawold Castle,10.29,Lycanthropes' Gold,193.00,371.80,338.00,71757.4000,65234.0000,151087.81506000,03/12/2007 @ 12:00:00 AM
+17243,"Eumyan, Goddess of Law",Gena's Hold,5.85,Grayplatinum,181.00,2548.00,104.94,461188.0000,18994.1400,508272.79519000,03/12/2007 @ 12:00:00 AM
+307,"Wind, Dire",The Bastion of Sthasu the Gruesome,40.00,Djinni's Evil Sandobsidian Steel Of The Future,120.00,2319.00,127.80,278280.0000,15336.0000,411062.40000000,03/12/2007 @ 12:00:00 AM
+6024,"Gale, Jackalguard",Reheath Stronghold,39.60,Grayplatinum,154.00,2548.00,86.73,392392.0000,13356.4200,566424.79432000,03/12/2007 @ 12:00:00 AM
+18735,"Iran, Lord of Nightmares",The Tower of Sabiesu the Awesome,10.00,Meteoric Mirrormuck Orichalcum Of The Forests,87.00,491.62,405.35,42770.9400,35265.4500,85840.02900000,03/12/2007 @ 12:00:00 AM
+17690,"Snowflame, The Evil",The Bastion of the Vampire Duke,37.90,Ghostly Soul Adamant,78.00,414.70,377.00,32346.6000,29406.0000,85156.83540000,03/12/2007 @ 12:00:00 AM
+6437,"Tarot, Dawn",The Drunken Thief,18.41,Fleshshock Mercury,219.00,-31.02,-28.20,-6793.3800,-6175.8000,-15356.80603800,03/12/2007 @ 12:00:00 AM
+7811,"Suriel, Lord of Animals",The Pirate's Pipe,15.40,Swordbronze,307.00,333.30,303.00,102323.1000,93021.0000,225427.09140000,03/12/2007 @ 12:00:00 AM
 5524,Chainhorror,Pawic Keep,31.90,Tritons' Time Stoneiron Of Legend,61.00,2235.00,310.54,136335.0000,18942.9400,204811.60286000,03/12/2017 @ 12:00:00 AM
-5716,"Tsunami, Seraphim",Reheath Stronghold,39.60,Unholy Poison Copper Of The Mountains,378.00,4312.00,68.97,1629936.0000,26070.6600,2311785.29736000,03/12/2017 @ 12:00:00 AM
-14554,"Amberslayer, Flora",The Broken Arrow,17.60,Vampires' Hammer Emeraldmetal,192.00,77.44,70.40,14868.4800,13516.8000,33381.08928000,03/12/2017 @ 12:00:00 AM
-13236,"The Blade, Steelterror",Gili's Delve,35.89,Starsmoke Bronze Of Life,332.00,-438.00,420.81,-145416.0000,139708.9200,-7755.35101200,03/12/2017 @ 12:00:00 AM
-36219,"Tomblion, Shadow",The Fen of the Necromancer,32.21,Phantasmal Tin Of The Swamps,235.00,405.96,369.05,95400.6000,86726.7500,240790.56943500,03/12/2017 @ 12:00:00 AM
-26868,"Mystery, Lord",Khali's Delve,1.30,Heavenly Dreamsilver Of The Night,174.00,719.00,314.60,125106.0000,54740.4000,182184.40320000,03/12/2017 @ 12:00:00 AM
-13558,"Squallmourner, Storm",Gifeld Castle,30.01,Magicians' Legendary Poison Metal,44.00,-52.81,-48.01,-2323.6400,-2112.4400,-5767.34760800,03/12/2017 @ 12:00:00 AM
-24291,"The Grasping, Nailpiston",Bifar's Deep,12.21,Foul Ice Bronze Of Life,50.00,292.82,266.20,14641.0000,13310.0000,31363.81710000,03/12/2017 @ 12:00:00 AM
+5716,"Seraphim, Tsunami",Reheath Stronghold,39.60,Unholy Poison Copper Of The Mountains,378.00,4312.00,68.97,1629936.0000,26070.6600,2311785.29736000,03/12/2007 @ 12:00:00 AM
+14554,"Flora, Amberslayer",The Broken Arrow,17.60,Vampires' Hammer Emeraldmetal,192.00,77.44,70.40,14868.4800,13516.8000,33381.08928000,03/12/2007 @ 12:00:00 AM
+13236,"Steelterror, The Blade",Gili's Delve,35.89,Starsmoke Bronze Of Life,332.00,-438.00,420.81,-145416.0000,139708.9200,-7755.35101200,03/12/2007 @ 12:00:00 AM
+36219,"Shadow, Tomblion",The Fen of the Necromancer,32.21,Phantasmal Tin Of The Swamps,235.00,405.96,369.05,95400.6000,86726.7500,240790.56943500,03/12/2007 @ 12:00:00 AM
+26868,"Lord, Mystery",Khali's Delve,1.30,Heavenly Dreamsilver Of The Night,174.00,719.00,314.60,125106.0000,54740.4000,182184.40320000,03/12/2007 @ 12:00:00 AM
+13558,"Storm, Squallmourner",Gifeld Castle,30.01,Magicians' Legendary Poison Metal,44.00,-52.81,-48.01,-2323.6400,-2112.4400,-5767.34760800,03/12/2007 @ 12:00:00 AM
+24291,"Nailpiston, The Grasping",Bifar's Deep,12.21,Foul Ice Bronze Of Life,50.00,292.82,266.20,14641.0000,13310.0000,31363.81710000,03/12/2007 @ 12:00:00 AM

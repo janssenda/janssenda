@@ -1,18 +1,18 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-24336,"Lady of Fire, Nelalwe",The Forsaken Sepulcher of Sorrows,31.36,Negative Rockglitter Mercury Of Trolls,278.00,235.59,214.17,65494.0200,59539.2600,164243.71660800,09/27/2018 @ 12:00:00 AM
-23180,"God of Luck, Ariel",Reheath Stronghold,39.60,Forgotten Mithril,165.00,545.71,496.10,90042.1500,81856.5000,239970.51540000,09/27/2018 @ 12:00:00 AM
-3893,Spikecrank,The Khazahol Crags,20.68,Forgotten Mithril,305.00,3909.75,451.00,1192473.7500,137555.0000,1605078.69550000,09/27/2018 @ 12:00:00 AM
-22146,"Godseeker, Cult",The Tower of Sabiesu the Awesome,10.00,Fleshshock Mercury,152.00,-31.02,-28.20,-4715.0400,-4286.4000,-9901.58400000,09/27/2018 @ 12:00:00 AM
-1598,"Tombreaper, Rouge",The Dungeon of Dismal Terror,40.27,Glittering Orichalcum,284.00,2056.00,330.00,583904.0000,93720.0000,950503.18480000,09/27/2018 @ 12:00:00 AM
-1744,Deathbrood,The Warrior and Flagon,9.00,Fog Lavaplatinum Of Life,7.00,2232.00,463.10,15624.0000,3241.7000,20563.61300000,09/27/2018 @ 12:00:00 AM
-22733,Bronzespawn,The Nulukkhath Spires,28.99,Violetdream Iron,180.00,502.13,456.48,90383.4000,82166.4000,222571.98702000,09/27/2018 @ 12:00:00 AM
-32464,"Claw, Slayer",The Bastion of the Lich Tyrant,8.64,Unspeakable Rotsoul Mithril Of Souls,117.00,370.26,336.60,43320.4200,39382.2000,89848.12636800,09/27/2018 @ 12:00:00 AM
-19570,"God of Death, Avriel",Weke Tower,47.19,Foul Ice Bronze Of Life,228.00,292.82,266.20,66762.9600,60693.6000,187603.31066400,09/27/2018 @ 12:00:00 AM
-19531,"Brand, Lightning",The Bastion of Barbos,25.41,Golems' Stonesapphire Gold Of The Glacier,203.00,176.00,160.00,35728.0000,32480.0000,85539.65280000,09/27/2018 @ 12:00:00 AM
-9923,Bronzespike,Castle Village,39.07,Emerald Orichalcum,138.00,1957.00,118.01,270066.0000,16285.3800,398228.86416600,09/27/2018 @ 12:00:00 AM
-4131,"Jackalguard, Gale",The Khazahol Crags,20.68,Primordial Plague Mercury Of Legend,140.00,1150.79,67.00,161110.6000,9380.0000,205748.05608000,09/27/2018 @ 12:00:00 AM
-26326,"The Disinterred, Spikebrood",Moor Village,11.32,Starsmoke Bronze Of Life,67.00,-438.00,420.81,-29346.0000,28194.2700,-1282.10583600,09/27/2018 @ 12:00:00 AM
-27782,"Lord of Animals, Suriel",The Pirate's Pipe,16.94,Vampires' Hammer Emeraldmetal,152.00,93.70,85.18,14242.4000,12947.3600,31795.70534400,09/27/2018 @ 12:00:00 AM
-15896,"Darkzealot, Dawn",The Fortress of Asmamur,-2.66,Imperial Fate Steel,128.00,419.10,381.00,53644.8000,48768.0000,99688.61952000,09/27/2018 @ 12:00:00 AM
-2024,Bolttrap,The Secret Shrine of the Gargoyle Count,19.77,Ghostly Magic Adamant,191.00,49.50,45.00,9454.5000,8595.0000,21617.88615000,09/27/2018 @ 12:00:00 AM
-26789,"Godseeker, Cult",Bifar's Deep,12.21,Swordbronze,291.00,403.29,366.63,117357.3900,106689.3300,251402.82451200,09/27/2018 @ 12:00:00 AM
+24336,"Nelalwe, Lady of Fire",The Forsaken Sepulcher of Sorrows,31.36,Negative Rockglitter Mercury Of Trolls,278.00,235.59,214.17,65494.0200,59539.2600,164243.71660800,09/27/2008 @ 12:00:00 AM
+23180,"Ariel, God of Luck",Reheath Stronghold,39.60,Forgotten Mithril,165.00,545.71,496.10,90042.1500,81856.5000,239970.51540000,09/27/2008 @ 12:00:00 AM
+3893,Spikecrank,The Khazahol Crags,20.68,Forgotten Mithril,305.00,3909.75,451.00,1192473.7500,137555.0000,1605078.69550000,09/27/2008 @ 12:00:00 AM
+22146,"Cult, Godseeker",The Tower of Sabiesu the Awesome,10.00,Fleshshock Mercury,152.00,-31.02,-28.20,-4715.0400,-4286.4000,-9901.58400000,09/27/2008 @ 12:00:00 AM
+1598,"Rouge, Tombreaper",The Dungeon of Dismal Terror,40.27,Glittering Orichalcum,284.00,2056.00,330.00,583904.0000,93720.0000,950503.18480000,09/27/2008 @ 12:00:00 AM
+1744,Deathbrood,The Warrior and Flagon,9.00,Fog Lavaplatinum Of Life,7.00,2232.00,463.10,15624.0000,3241.7000,20563.61300000,09/27/2008 @ 12:00:00 AM
+22733,Bronzespawn,The Nulukkhath Spires,28.99,Violetdream Iron,180.00,502.13,456.48,90383.4000,82166.4000,222571.98702000,09/27/2008 @ 12:00:00 AM
+32464,"Slayer, Claw",The Bastion of the Lich Tyrant,8.64,Unspeakable Rotsoul Mithril Of Souls,117.00,370.26,336.60,43320.4200,39382.2000,89848.12636800,09/27/2008 @ 12:00:00 AM
+19570,"Avriel, God of Death",Weke Tower,47.19,Foul Ice Bronze Of Life,228.00,292.82,266.20,66762.9600,60693.6000,187603.31066400,09/27/2008 @ 12:00:00 AM
+19531,"Lightning, Brand",The Bastion of Barbos,25.41,Golems' Stonesapphire Gold Of The Glacier,203.00,176.00,160.00,35728.0000,32480.0000,85539.65280000,09/27/2008 @ 12:00:00 AM
+9923,Bronzespike,Castle Village,39.07,Emerald Orichalcum,138.00,1957.00,118.01,270066.0000,16285.3800,398228.86416600,09/27/2008 @ 12:00:00 AM
+4131,"Gale, Jackalguard",The Khazahol Crags,20.68,Primordial Plague Mercury Of Legend,140.00,1150.79,67.00,161110.6000,9380.0000,205748.05608000,09/27/2018 @ 12:00:00 AM
+26326,"Spikebrood, The Disinterred",Moor Village,11.32,Starsmoke Bronze Of Life,67.00,-438.00,420.81,-29346.0000,28194.2700,-1282.10583600,09/27/2008 @ 12:00:00 AM
+27782,"Suriel, Lord of Animals",The Pirate's Pipe,16.94,Vampires' Hammer Emeraldmetal,152.00,93.70,85.18,14242.4000,12947.3600,31795.70534400,09/27/2008 @ 12:00:00 AM
+15896,"Dawn, Darkzealot",The Fortress of Asmamur,-2.66,Imperial Fate Steel,128.00,419.10,381.00,53644.8000,48768.0000,99688.61952000,09/27/2008 @ 12:00:00 AM
+2024,Bolttrap,The Secret Shrine of the Gargoyle Count,19.77,Ghostly Magic Adamant,191.00,49.50,45.00,9454.5000,8595.0000,21617.88615000,09/27/2008 @ 12:00:00 AM
+26789,"Cult, Godseeker",Bifar's Deep,12.21,Swordbronze,291.00,403.29,366.63,117357.3900,106689.3300,251402.82451200,09/27/2008 @ 12:00:00 AM

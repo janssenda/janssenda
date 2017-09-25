@@ -1,17 +1,17 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-24851,"The Unspeakable, Scarechain",Bifar's Deep,12.21,Negative Rockglitter Mercury Of Trolls,238.00,235.59,214.17,56070.4200,50972.4600,120112.81564800,10/14/2016 @ 12:00:00 AM
-23668,"Mist, Claw",The Lewd King,45.98,Tritons' Time Stoneiron Of Legend,202.00,341.59,341.59,69001.1800,69001.1800,201455.84512800,10/14/2016 @ 12:00:00 AM
-23925,"Godseeker, Cult",The Scoundrel and Flask,45.25,Unicorns' Fatal Magma Metal Of The Ocean,308.00,25.30,23.00,7792.4000,7084.0000,21607.97100000,10/14/2016 @ 12:00:00 AM
-20362,"The Evil, Burnchill",Kada's Deep,8.42,Shadow Metal,308.00,1606.00,298.00,494648.0000,91784.0000,635809.57440000,10/14/2016 @ 12:00:00 AM
-32293,"The Unspeakable, Terrorghoul",Citadel Ward,4.40,Grayplatinum,174.00,2548.00,104.94,443352.0000,18259.5600,481922.46864000,10/14/2016 @ 12:00:00 AM
-9430,"Tombreaper, Rouge",The Lost Sanctum of Woe,43.20,Unknown Fatelightning Steel Of The Glacier,196.00,119.90,131.89,23500.4000,25850.4400,70670.40288000,10/14/2016 @ 12:00:00 AM
-33852,Spikesnare,The Cuitamba Jungle,46.75,Unspeakable Rotsoul Mithril Of Souls,287.00,370.26,336.60,106264.6200,96604.2000,297709.99335000,10/14/2016 @ 12:00:00 AM
-9612,Flameshiver,The Fortress of the Lich Queen,17.13,Angels' Adamant,328.00,51.48,46.80,16885.4400,15350.4000,37757.83939200,10/14/2016 @ 12:00:00 AM
-17162,"Lord of Animals, Suriel",The Scoundrel and Flask,45.25,Plague Tin,286.00,465.25,422.95,133061.5000,120963.7000,368971.60300000,10/14/2016 @ 12:00:00 AM
-20964,"Knightseraph, Lance",The Tomb of Hellish Ruin,36.30,Unknowable Mindsilver,285.00,174.90,174.90,49846.5000,49846.5000,135881.55900000,10/14/2016 @ 12:00:00 AM
-29536,"God of Resurrection, Gadriel",The Citadel of Alammius,32.67,Hidden Shadowice Lead,99.00,-16.50,-16.50,-1633.5000,-1633.5000,-4334.32890000,10/14/2016 @ 12:00:00 AM
-6398,"Amberslayer, Flora",Archring Borough,29.70,Nymphs' Luminous Rotmercury Of The Skies,202.00,335.50,305.00,67771.0000,61610.0000,167807.15700000,10/14/2016 @ 12:00:00 AM
-28478,Emberfire,The Chuallanto Jungle,11.00,Vampires' Fang Emeraldsilver,286.00,2033.69,80.84,581635.3400,23120.2400,671278.69380000,10/14/2016 @ 12:00:00 AM
-30991,"Knightseraph, Lance",The Tower of Sabiesu the Awesome,10.00,Ensorceled Sandmetal Of Spirits,110.00,85.18,77.44,9369.8000,8518.4000,19677.02000000,10/14/2016 @ 12:00:00 AM
-14305,"Seraphheart, Storm",The Secret Catacombs of Ulfang the Black,28.82,Imperial Fate Steel,221.00,419.10,381.00,92621.1000,84201.0000,227782.22922000,10/14/2016 @ 12:00:00 AM
-3528,"Lady of Vengeance, Zepul",The Pirate's Pipe,15.40,Trolls' Rubymercury Of The Sunset,190.00,2733.00,443.00,519270.0000,84170.0000,696369.76000000,10/14/2016 @ 12:00:00 AM
+24851,"Scarechain, The Unspeakable",Bifar's Deep,12.21,Negative Rockglitter Mercury Of Trolls,238.00,235.59,214.17,56070.4200,50972.4600,120112.81564800,10/14/2006 @ 12:00:00 AM
+23668,"Claw, Mist",The Lewd King,45.98,Tritons' Time Stoneiron Of Legend,202.00,341.59,341.59,69001.1800,69001.1800,201455.84512800,10/14/2006 @ 12:00:00 AM
+23925,"Cult, Godseeker",The Scoundrel and Flask,45.25,Unicorns' Fatal Magma Metal Of The Ocean,308.00,25.30,23.00,7792.4000,7084.0000,21607.97100000,10/14/2006 @ 12:00:00 AM
+20362,"Burnchill, The Evil",Kada's Deep,8.42,Shadow Metal,308.00,1606.00,298.00,494648.0000,91784.0000,635809.57440000,10/14/2006 @ 12:00:00 AM
+32293,"Terrorghoul, The Unspeakable",Citadel Ward,4.40,Grayplatinum,174.00,2548.00,104.94,443352.0000,18259.5600,481922.46864000,10/14/2016 @ 12:00:00 AM
+9430,"Rouge, Tombreaper",The Lost Sanctum of Woe,43.20,Unknown Fatelightning Steel Of The Glacier,196.00,119.90,131.89,23500.4000,25850.4400,70670.40288000,10/14/2006 @ 12:00:00 AM
+33852,Spikesnare,The Cuitamba Jungle,46.75,Unspeakable Rotsoul Mithril Of Souls,287.00,370.26,336.60,106264.6200,96604.2000,297709.99335000,10/14/2006 @ 12:00:00 AM
+9612,Flameshiver,The Fortress of the Lich Queen,17.13,Angels' Adamant,328.00,51.48,46.80,16885.4400,15350.4000,37757.83939200,10/14/2006 @ 12:00:00 AM
+17162,"Suriel, Lord of Animals",The Scoundrel and Flask,45.25,Plague Tin,286.00,465.25,422.95,133061.5000,120963.7000,368971.60300000,10/14/2006 @ 12:00:00 AM
+20964,"Lance, Knightseraph",The Tomb of Hellish Ruin,36.30,Unknowable Mindsilver,285.00,174.90,174.90,49846.5000,49846.5000,135881.55900000,10/14/2016 @ 12:00:00 AM
+29536,"Gadriel, God of Resurrection",The Citadel of Alammius,32.67,Hidden Shadowice Lead,99.00,-16.50,-16.50,-1633.5000,-1633.5000,-4334.32890000,10/14/2016 @ 12:00:00 AM
+6398,"Flora, Amberslayer",Archring Borough,29.70,Nymphs' Luminous Rotmercury Of The Skies,202.00,335.50,305.00,67771.0000,61610.0000,167807.15700000,10/14/2006 @ 12:00:00 AM
+28478,Emberfire,The Chuallanto Jungle,11.00,Vampires' Fang Emeraldsilver,286.00,2033.69,80.84,581635.3400,23120.2400,671278.69380000,10/14/2006 @ 12:00:00 AM
+30991,"Lance, Knightseraph",The Tower of Sabiesu the Awesome,10.00,Ensorceled Sandmetal Of Spirits,110.00,85.18,77.44,9369.8000,8518.4000,19677.02000000,10/14/2006 @ 12:00:00 AM
+14305,"Storm, Seraphheart",The Secret Catacombs of Ulfang the Black,28.82,Imperial Fate Steel,221.00,419.10,381.00,92621.1000,84201.0000,227782.22922000,10/14/2006 @ 12:00:00 AM
+3528,"Zepul, Lady of Vengeance",The Pirate's Pipe,15.40,Trolls' Rubymercury Of The Sunset,190.00,2733.00,443.00,519270.0000,84170.0000,696369.76000000,10/14/2006 @ 12:00:00 AM

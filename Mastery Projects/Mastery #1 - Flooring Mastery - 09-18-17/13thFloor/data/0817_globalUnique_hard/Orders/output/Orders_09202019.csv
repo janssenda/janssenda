@@ -1,15 +1,15 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-36564,"Runetomb, Song",The Fen of the Necromancer,32.21,Phantasmal Tin Of The Swamps,248.00,405.96,369.05,100678.0800,91524.4000,254110.89880800,09/20/2019 @ 12:00:00 AM
-11504,"Veil, Bane",North Arcanist's Farthing,2.50,Shadow Metal,100.00,1606.00,298.00,160600.0000,29800.0000,195160.00000000,09/20/2019 @ 12:00:00 AM
-10177,Emberfire,Grove Farthing,25.00,Forgotten Mithril,273.00,3909.75,496.10,1067361.7500,135435.3000,1503496.31250000,09/20/2019 @ 12:00:00 AM
-32017,"Squallmourner, Storm",The Bastion of Gothmog of Udun,-2.66,Pearl Mirrorice Steel Of Changelings,222.00,365.42,365.42,81123.2400,81123.2400,157930.72363200,09/20/2019 @ 12:00:00 AM
-31082,Beamtrap,The Tower of Sabiesu the Awesome,10.00,Ensorceled Sandmetal Of Spirits,290.00,85.18,77.44,24702.2000,22457.6000,51875.78000000,09/20/2019 @ 12:00:00 AM
-32763,"The Unspeakable, Terrorghoul",Hafeld Keep,47.59,Fairies' Supreme Mistsmoke Lead Of The Future,128.00,499.73,549.70,63965.4400,70361.6000,198253.27833600,09/20/2019 @ 12:00:00 AM
-9965,"The Trapper, Boltcrank",The Fortress of the Lich Queen,17.13,God-touched Greengem Platinum,168.00,2181.36,188.14,366468.4800,31607.5200,466266.41880000,09/20/2019 @ 12:00:00 AM
-16241,"The Unspeakable, Terrorghoul",The Secret Shrine of the Gargoyle Count,23.93,Undeads' Mind Orichalcum Of The Twilight,140.00,1169.00,301.40,163660.0000,42196.0000,255117.34080000,09/20/2019 @ 12:00:00 AM
-17755,"Gust, Shadow",Kada's Deep,8.42,Trolls' Rubymercury Of The Sunset,116.00,487.30,487.30,56526.8000,56526.8000,122572.71312000,09/20/2019 @ 12:00:00 AM
-17915,"The Grasping, Beamsprocket",Bergfison's Deep,16.00,Mithril Of The Tropics,173.00,276.72,251.56,47872.5600,43519.8800,106015.23040000,09/20/2019 @ 12:00:00 AM
-3141,Spikesnare,Cawold Castle,35.00,Witchs' Forbidden Rockrainbow Bronze,193.00,4207.35,223.30,812018.5500,43096.9000,1154405.85750000,09/20/2019 @ 12:00:00 AM
-27770,"Goddess of Knowledge, Baltha",The Bastion of Gothmog of Udun,-2.42,Vampires' Hammer Emeraldmetal,186.00,93.70,85.18,17428.2000,15843.4800,32466.50534400,09/20/2019 @ 12:00:00 AM
-27918,"God of Luck, Ariel",The Pirate's Pipe,16.94,Unknown Fatelightning Steel Of The Glacier,298.00,145.08,159.59,43233.8400,47557.8200,106171.76720400,09/20/2019 @ 12:00:00 AM
-25394,"Goddess of Fate, Azah",Gili's Delve,35.89,Primordial Mud Orichalcum,162.00,1113.00,20.57,180306.0000,3332.3400,249546.14022600,09/20/2019 @ 12:00:00 AM
+36564,"Runetomb, Song",The Fen of the Necromancer,32.21,Phantasmal Tin Of The Swamps,248.00,405.96,369.05,100678.0800,91524.4000,254110.89880800,09/20/1949 @ 12:00:00 AM
+11504,"Veil, Bane",North Arcanist's Farthing,2.50,Shadow Metal,100.00,1606.00,298.00,160600.0000,29800.0000,195160.00000000,09/20/1949 @ 12:00:00 AM
+10177,Emberfire,Grove Farthing,25.00,Forgotten Mithril,273.00,3909.75,496.10,1067361.7500,135435.3000,1503496.31250000,09/20/1949 @ 12:00:00 AM
+32017,"Squallmourner, Storm",The Bastion of Gothmog of Udun,-2.66,Pearl Mirrorice Steel Of Changelings,222.00,365.42,365.42,81123.2400,81123.2400,157930.72363200,09/20/1979 @ 12:00:00 AM
+31082,Beamtrap,The Tower of Sabiesu the Awesome,10.00,Ensorceled Sandmetal Of Spirits,290.00,85.18,77.44,24702.2000,22457.6000,51875.78000000,09/20/1949 @ 12:00:00 AM
+32763,"The Unspeakable, Terrorghoul",Hafeld Keep,47.59,Fairies' Supreme Mistsmoke Lead Of The Future,128.00,499.73,549.70,63965.4400,70361.6000,198253.27833600,09/20/1979 @ 12:00:00 AM
+9965,"The Trapper, Boltcrank",The Fortress of the Lich Queen,17.13,God-touched Greengem Platinum,168.00,2181.36,188.14,366468.4800,31607.5200,466266.41880000,09/20/1949 @ 12:00:00 AM
+16241,"The Unspeakable, Terrorghoul",The Secret Shrine of the Gargoyle Count,23.93,Undeads' Mind Orichalcum Of The Twilight,140.00,1169.00,301.40,163660.0000,42196.0000,255117.34080000,09/20/1949 @ 12:00:00 AM
+17755,"Gust, Shadow",Kada's Deep,8.42,Trolls' Rubymercury Of The Sunset,116.00,487.30,487.30,56526.8000,56526.8000,122572.71312000,09/20/1949 @ 12:00:00 AM
+17915,"The Grasping, Beamsprocket",Bergfison's Deep,16.00,Mithril Of The Tropics,173.00,276.72,251.56,47872.5600,43519.8800,106015.23040000,09/20/1949 @ 12:00:00 AM
+3141,Spikesnare,Cawold Castle,35.00,Witchs' Forbidden Rockrainbow Bronze,193.00,4207.35,223.30,812018.5500,43096.9000,1154405.85750000,09/20/1949 @ 12:00:00 AM
+27770,"Goddess of Knowledge, Baltha",The Bastion of Gothmog of Udun,-2.42,Vampires' Hammer Emeraldmetal,186.00,93.70,85.18,17428.2000,15843.4800,32466.50534400,09/20/1949 @ 12:00:00 AM
+27918,"God of Luck, Ariel",The Pirate's Pipe,16.94,Unknown Fatelightning Steel Of The Glacier,298.00,145.08,159.59,43233.8400,47557.8200,106171.76720400,09/20/1949 @ 12:00:00 AM
+25394,"Goddess of Fate, Azah",Gili's Delve,35.89,Primordial Mud Orichalcum,162.00,1113.00,20.57,180306.0000,3332.3400,249546.14022600,09/20/1949 @ 12:00:00 AM

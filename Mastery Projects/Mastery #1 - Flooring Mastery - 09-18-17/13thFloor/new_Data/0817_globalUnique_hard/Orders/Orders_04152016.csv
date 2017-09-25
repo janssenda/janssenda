@@ -1,15 +1,15 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-11218,"God of Resurrection, Gadriel",The Fen of the Necromancer,20.00,Shadow Metal,146.00,1606.00,298.00,234476.0000,43508.0000,333580.80000000,04/15/2016 @ 12:00:00 AM
-23131,"The Unspeakable, Gravebone",Reheath Stronghold,39.60,Tritons' Time Stoneiron Of Legend,180.00,341.59,341.59,61486.2000,61486.2000,171669.47040000,04/15/2016 @ 12:00:00 AM
-12984,"Gust, Shadow",The Tomb of Hellish Ruin,33.00,Spirits' Living Wordhammer Tin Of The Trees,273.00,3897.55,128.70,1064031.1500,35135.1000,1461891.11250000,04/15/2016 @ 12:00:00 AM
-35883,"Goddess of Knowledge, Baltha",Citadel Ward,4.40,Magicians' Legendary Poison Metal,331.00,-52.81,-48.01,-17480.1100,-15891.3100,-34839.76248000,04/15/2016 @ 12:00:00 AM
-11994,"The Evil, Snowflame",Castle Village,42.98,Fairies' Supreme Mistsmoke Lead Of The Future,38.00,2622.69,454.30,99662.2200,17263.4000,167180.25147600,04/15/2016 @ 12:00:00 AM
-19376,"Wolf, Jericho",Weke Tower,47.19,Vampires' Fang Emeraldsilver,236.00,2033.69,80.84,479950.8400,19078.2400,734520.90285200,04/15/2016 @ 12:00:00 AM
-8584,"Lawslayer, Valentine",The Black Barrow of Bery,19.80,Lycanthropes' Gold,265.00,371.80,338.00,98527.0000,89570.0000,225340.20600000,04/15/2016 @ 12:00:00 AM
-18616,"God of Fate, Sielach",The Khazahol Crags,22.75,Spirits' Living Wordhammer Tin Of The Trees,164.00,141.57,128.70,23217.4800,21106.8000,54408.05370000,04/15/2016 @ 12:00:00 AM
-16340,Spikerivet,North Arcanist's Farthing,2.75,Swordbronze,83.00,333.30,303.00,27663.9000,25149.0000,54265.25475000,04/15/2016 @ 12:00:00 AM
-31966,"The Unspeakable, Gravebone",The Bastion of Gothmog of Udun,-2.66,Pearl Mirrorice Steel Of Changelings,190.00,365.42,365.42,69429.8000,69429.8000,135165.93464000,04/15/2016 @ 12:00:00 AM
-808,"Lady of Fire, Nelalwe",The Citadel of Lord Greywulf,19.00,Meteoric Mirrormuck Orichalcum Of The Forests,184.00,491.62,368.50,90458.0800,67804.0000,188331.87520000,04/15/2016 @ 12:00:00 AM
-16594,"Felldrake, Magus",Reyny Keep,-3.35,Tritons' Time Stoneiron Of Legend,318.00,341.59,341.59,108625.6200,108625.6200,209973.32346000,04/15/2016 @ 12:00:00 AM
-3236,"God of Death, Selik",The Tomb of Gothmog of Udun,11.00,Vampires' Fang Emeraldsilver,331.00,2033.69,80.84,673151.3900,26758.0400,776899.46730000,04/15/2016 @ 12:00:00 AM
-4705,"Darkzealot, Dawn",Kada's Deep,7.65,Grayplatinum,163.00,2548.00,86.73,415324.0000,14136.9900,462314.75573500,04/15/2016 @ 12:00:00 AM
+11218,"Gadriel, God of Resurrection",The Fen of the Necromancer,20.00,Shadow Metal,146.00,1606.00,298.00,234476.0000,43508.0000,333580.80000000,04/15/2006 @ 12:00:00 AM
+23131,"Gravebone, The Unspeakable",Reheath Stronghold,39.60,Tritons' Time Stoneiron Of Legend,180.00,341.59,341.59,61486.2000,61486.2000,171669.47040000,04/15/2006 @ 12:00:00 AM
+12984,"Shadow, Gust",The Tomb of Hellish Ruin,33.00,Spirits' Living Wordhammer Tin Of The Trees,273.00,3897.55,128.70,1064031.1500,35135.1000,1461891.11250000,04/15/2006 @ 12:00:00 AM
+35883,"Baltha, Goddess of Knowledge",Citadel Ward,4.40,Magicians' Legendary Poison Metal,331.00,-52.81,-48.01,-17480.1100,-15891.3100,-34839.76248000,04/15/2006 @ 12:00:00 AM
+11994,"Snowflame, The Evil",Castle Village,42.98,Fairies' Supreme Mistsmoke Lead Of The Future,38.00,2622.69,454.30,99662.2200,17263.4000,167180.25147600,04/15/2006 @ 12:00:00 AM
+19376,"Jericho, Wolf",Weke Tower,47.19,Vampires' Fang Emeraldsilver,236.00,2033.69,80.84,479950.8400,19078.2400,734520.90285200,04/15/2006 @ 12:00:00 AM
+8584,"Valentine, Lawslayer",The Black Barrow of Bery,19.80,Lycanthropes' Gold,265.00,371.80,338.00,98527.0000,89570.0000,225340.20600000,04/15/2006 @ 12:00:00 AM
+18616,"Sielach, God of Fate",The Khazahol Crags,22.75,Spirits' Living Wordhammer Tin Of The Trees,164.00,141.57,128.70,23217.4800,21106.8000,54408.05370000,04/15/2006 @ 12:00:00 AM
+16340,Spikerivet,North Arcanist's Farthing,2.75,Swordbronze,83.00,333.30,303.00,27663.9000,25149.0000,54265.25475000,04/15/2006 @ 12:00:00 AM
+31966,"Gravebone, The Unspeakable",The Bastion of Gothmog of Udun,-2.66,Pearl Mirrorice Steel Of Changelings,190.00,365.42,365.42,69429.8000,69429.8000,135165.93464000,04/15/2006 @ 12:00:00 AM
+808,"Nelalwe, Lady of Fire",The Citadel of Lord Greywulf,19.00,Meteoric Mirrormuck Orichalcum Of The Forests,184.00,491.62,368.50,90458.0800,67804.0000,188331.87520000,04/15/2006 @ 12:00:00 AM
+16594,"Magus, Felldrake",Reyny Keep,-3.35,Tritons' Time Stoneiron Of Legend,318.00,341.59,341.59,108625.6200,108625.6200,209973.32346000,04/15/2006 @ 12:00:00 AM
+3236,"Selik, God of Death",The Tomb of Gothmog of Udun,11.00,Vampires' Fang Emeraldsilver,331.00,2033.69,80.84,673151.3900,26758.0400,776899.46730000,04/15/2006 @ 12:00:00 AM
+4705,"Dawn, Darkzealot",Kada's Deep,7.65,Grayplatinum,163.00,2548.00,86.73,415324.0000,14136.9900,462314.75573500,04/15/2006 @ 12:00:00 AM

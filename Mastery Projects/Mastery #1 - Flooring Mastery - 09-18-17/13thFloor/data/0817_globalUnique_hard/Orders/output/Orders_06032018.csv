@@ -1,16 +1,16 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-1248,"Seeker, Fate",Arcanist's Farthing,29.00,Yellow Mistearth Copper,306.00,3587.00,238.00,1097622.0000,72828.0000,1509880.50000000,06/03/2018 @ 12:00:00 AM
-35216,"The Evil, Flameflare",Barad Kesa,6.17,Yellow Mistearth Copper,310.00,287.98,261.80,89273.8000,81158.0000,180947.44206000,06/03/2018 @ 12:00:00 AM
-12702,"The Unspeakable, Terrorghoul",The Tomb of Hellish Ruin,33.00,Djinni's Mind Fogiron,143.00,57.23,52.03,8183.8900,7440.2900,20780.15940000,06/03/2018 @ 12:00:00 AM
-11550,"The Cold, Burnfreeze",North Arcanist's Farthing,2.50,Zephyr Iron,227.00,282.77,257.06,64188.7900,58352.6200,125604.94525000,06/03/2018 @ 12:00:00 AM
-35606,"Wind, Maverick",Citadel Ward,4.40,Lycanthropes' Gold,187.00,449.88,408.98,84127.5600,76479.2600,167673.52008000,06/03/2018 @ 12:00:00 AM
-10642,Freezebrood,Reheath Stronghold,39.60,Pearl Mirrorice Steel Of Changelings,90.00,2996.00,302.00,269640.0000,27180.0000,414360.72000000,06/03/2018 @ 12:00:00 AM
-10770,"The Firey, Evilember",The Dungeon of Merciless Woe,3.61,Fairies' Supreme Mistsmoke Lead Of The Future,327.00,2622.69,454.30,857619.6300,148556.1000,1042498.67385300,06/03/2018 @ 12:00:00 AM
-32647,"Wolf, Jericho",North Arcanist's Farthing,3.66,Yellow Mistearth Copper,222.00,287.98,261.80,63931.5600,58119.6000,126518.23245600,06/03/2018 @ 12:00:00 AM
-8828,"Mist, Claw",Reheath Stronghold,39.60,Meteoric Mirrormuck Orichalcum Of The Forests,89.00,491.62,368.50,43754.1800,32796.5000,106864.74928000,06/03/2018 @ 12:00:00 AM
-6343,"The Evil, Burnchill",The Dismal Marsh,27.00,Hidden Shadowice Lead,198.00,3068.90,-15.00,607642.2000,-2970.0000,767933.69400000,06/03/2018 @ 12:00:00 AM
-6554,"Darkzealot, Dawn",Archring Borough,29.70,Dragons' Poison Glitterflesh Steel Of The North,347.00,742.00,75.00,257474.0000,26025.0000,367698.20300000,06/03/2018 @ 12:00:00 AM
-933,"Brand, Lightning",The Archer and Blade,15.00,Vampires' Fang Emeraldsilver,109.00,2033.69,80.84,221672.2100,8811.5600,265056.33550000,06/03/2018 @ 12:00:00 AM
-4356,"Lady of Fire, Nelalwe",Noble's Village,4.49,Poison Adamant,233.00,-7.92,178.20,-1845.3600,41520.6000,41456.65827600,06/03/2018 @ 12:00:00 AM
-13087,Beamtrap,Gifeld Castle,30.01,Warlocks' Timerot Mithril,161.00,725.00,176.95,116725.0000,28488.9500,188792.65639500,06/03/2018 @ 12:00:00 AM
-2012,Springcoil,The Bastion of the Lich Tyrant,5.36,Spirits' Living Wordhammer Tin Of The Trees,290.00,3897.55,117.00,1130289.5000,33930.0000,1226621.66520000,06/03/2018 @ 12:00:00 AM
+1248,"Seeker, Fate",Arcanist's Farthing,29.00,Yellow Mistearth Copper,306.00,3587.00,238.00,1097622.0000,72828.0000,1509880.50000000,06/03/1948 @ 12:00:00 AM
+35216,"The Evil, Flameflare",Barad Kesa,6.17,Yellow Mistearth Copper,310.00,287.98,261.80,89273.8000,81158.0000,180947.44206000,06/03/1948 @ 12:00:00 AM
+12702,"The Unspeakable, Terrorghoul",The Tomb of Hellish Ruin,33.00,Djinni's Mind Fogiron,143.00,57.23,52.03,8183.8900,7440.2900,20780.15940000,06/03/1948 @ 12:00:00 AM
+11550,"The Cold, Burnfreeze",North Arcanist's Farthing,2.50,Zephyr Iron,227.00,282.77,257.06,64188.7900,58352.6200,125604.94525000,06/03/1948 @ 12:00:00 AM
+35606,"Wind, Maverick",Citadel Ward,4.40,Lycanthropes' Gold,187.00,449.88,408.98,84127.5600,76479.2600,167673.52008000,06/03/1948 @ 12:00:00 AM
+10642,Freezebrood,Reheath Stronghold,39.60,Pearl Mirrorice Steel Of Changelings,90.00,2996.00,302.00,269640.0000,27180.0000,414360.72000000,06/03/1948 @ 12:00:00 AM
+10770,"The Firey, Evilember",The Dungeon of Merciless Woe,3.61,Fairies' Supreme Mistsmoke Lead Of The Future,327.00,2622.69,454.30,857619.6300,148556.1000,1042498.67385300,06/03/1948 @ 12:00:00 AM
+32647,"Wolf, Jericho",North Arcanist's Farthing,3.66,Yellow Mistearth Copper,222.00,287.98,261.80,63931.5600,58119.6000,126518.23245600,06/03/1948 @ 12:00:00 AM
+8828,"Mist, Claw",Reheath Stronghold,39.60,Meteoric Mirrormuck Orichalcum Of The Forests,89.00,491.62,368.50,43754.1800,32796.5000,106864.74928000,06/03/1948 @ 12:00:00 AM
+6343,"The Evil, Burnchill",The Dismal Marsh,27.00,Hidden Shadowice Lead,198.00,3068.90,-15.00,607642.2000,-2970.0000,767933.69400000,06/03/1948 @ 12:00:00 AM
+6554,"Darkzealot, Dawn",Archring Borough,29.70,Dragons' Poison Glitterflesh Steel Of The North,347.00,742.00,75.00,257474.0000,26025.0000,367698.20300000,06/03/1948 @ 12:00:00 AM
+933,"Brand, Lightning",The Archer and Blade,15.00,Vampires' Fang Emeraldsilver,109.00,2033.69,80.84,221672.2100,8811.5600,265056.33550000,06/03/1978 @ 12:00:00 AM
+4356,"Lady of Fire, Nelalwe",Noble's Village,4.49,Poison Adamant,233.00,-7.92,178.20,-1845.3600,41520.6000,41456.65827600,06/03/1948 @ 12:00:00 AM
+13087,Beamtrap,Gifeld Castle,30.01,Warlocks' Timerot Mithril,161.00,725.00,176.95,116725.0000,28488.9500,188792.65639500,06/03/1948 @ 12:00:00 AM
+2012,Springcoil,The Bastion of the Lich Tyrant,5.36,Spirits' Living Wordhammer Tin Of The Trees,290.00,3897.55,117.00,1130289.5000,33930.0000,1226621.66520000,06/03/1948 @ 12:00:00 AM

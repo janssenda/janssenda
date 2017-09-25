@@ -1,20 +1,20 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-3760,Emberspawn,The Pirate's Pipe,15.40,Mind Lead,131.00,756.00,199.17,99036.0000,26091.2700,144396.86958000,08/14/2018 @ 12:00:00 AM
-36485,"Felldrake, Magus",The Fen of the Necromancer,32.21,Ensorceled Sandmetal Of Spirits,103.00,85.18,93.70,8773.5400,9651.1000,24359.21654400,08/14/2018 @ 12:00:00 AM
-36646,"Amberslayer, Flora",The Fen of the Necromancer,32.21,Heavenly Dreamsilver Of The Night,236.00,719.00,346.06,169684.0000,81670.1600,332315.33493600,08/14/2018 @ 12:00:00 AM
-35286,"Dawn, Tarot",The Nulukkhath Spires,28.99,Ghouls' Imperial Soulzephyr Mithril Of The Seas,155.00,318.23,318.23,49325.6500,49325.6500,127250.31187000,08/14/2018 @ 12:00:00 AM
-1483,"Dawn, Tarot",The Forsaken Delve of Lord Greywulf,15.62,Ghostly Magic Adamant,142.00,49.50,45.00,7029.0000,6390.0000,15515.04780000,08/14/2018 @ 12:00:00 AM
-35629,"The Constructed, Snaretool",The Fen of the Necromancer,32.21,Ghouls' Imperial Soulzephyr Mithril Of The Seas,183.00,318.23,318.23,58236.0900,58236.0900,153987.86917800,08/14/2018 @ 12:00:00 AM
-11824,"The Chiller, Blazefreeze",Citadel Ward,4.40,Foul Ice Bronze Of Life,193.00,292.82,266.20,56514.2600,51376.6000,112638.05784000,08/14/2018 @ 12:00:00 AM
-23813,"Wolf, Jericho",The Dungeon of Merciless Woe,3.97,Incubi's Glittering Tin Of The Future,193.00,192.96,212.26,37241.2800,40966.1800,81312.29616200,08/14/2018 @ 12:00:00 AM
+3760,Emberspawn,The Pirate's Pipe,15.40,Mind Lead,131.00,756.00,199.17,99036.0000,26091.2700,144396.86958000,08/14/2008 @ 12:00:00 AM
+36485,"Magus, Felldrake",The Fen of the Necromancer,32.21,Ensorceled Sandmetal Of Spirits,103.00,85.18,93.70,8773.5400,9651.1000,24359.21654400,08/14/2008 @ 12:00:00 AM
+36646,"Flora, Amberslayer",The Fen of the Necromancer,32.21,Heavenly Dreamsilver Of The Night,236.00,719.00,346.06,169684.0000,81670.1600,332315.33493600,08/14/2008 @ 12:00:00 AM
+35286,"Tarot, Dawn",The Nulukkhath Spires,28.99,Ghouls' Imperial Soulzephyr Mithril Of The Seas,155.00,318.23,318.23,49325.6500,49325.6500,127250.31187000,08/14/2008 @ 12:00:00 AM
+1483,"Tarot, Dawn",The Forsaken Delve of Lord Greywulf,15.62,Ghostly Magic Adamant,142.00,49.50,45.00,7029.0000,6390.0000,15515.04780000,08/14/2008 @ 12:00:00 AM
+35629,"Snaretool, The Constructed",The Fen of the Necromancer,32.21,Ghouls' Imperial Soulzephyr Mithril Of The Seas,183.00,318.23,318.23,58236.0900,58236.0900,153987.86917800,08/14/2008 @ 12:00:00 AM
+11824,"Blazefreeze, The Chiller",Citadel Ward,4.40,Foul Ice Bronze Of Life,193.00,292.82,266.20,56514.2600,51376.6000,112638.05784000,08/14/2008 @ 12:00:00 AM
+23813,"Jericho, Wolf",The Dungeon of Merciless Woe,3.97,Incubi's Glittering Tin Of The Future,193.00,192.96,212.26,37241.2800,40966.1800,81312.29616200,08/14/2008 @ 12:00:00 AM
 34632,Spikerivet,Barad Kesa,6.17,Yellow Mistearth Copper,103.00,287.98,261.80,29661.9400,26965.4000,60121.24687800,08/14/2018 @ 12:00:00 AM
-33863,"Tsunami, Seraphim",Barad Cune,49.21,Swordbronze,179.00,403.29,366.63,72188.9100,65626.7700,205634.77612800,08/14/2018 @ 12:00:00 AM
-21916,"Seraphheart, Storm",Reyny Keep,-3.35,Yellow Mistearth Copper,93.00,287.98,261.80,26782.1400,24347.4000,49416.70041000,08/14/2018 @ 12:00:00 AM
-32792,Emberfire,The Bastion of the Lich Tyrant,8.64,Magicians' Legendary Poison Metal,261.00,-52.81,-48.01,-13783.4100,-12530.6100,-28587.55132800,08/14/2018 @ 12:00:00 AM
-20901,"God of Fate, Uriel",Gena's Hold,5.85,Unknowable Mindsilver,110.00,174.90,174.90,19239.0000,19239.0000,40728.96300000,08/14/2018 @ 12:00:00 AM
-15071,"The Evil, Flameflare",Dysley Stronghold,35.51,Primordial Plague Mercury Of Legend,50.00,73.70,67.00,3685.0000,3350.0000,9533.12850000,08/14/2018 @ 12:00:00 AM
-5161,"Tomblion, Shadow",The Dancing Minstrel,36.02,Phantasmal Smokezephyr Mercury Of Men,153.00,211.20,192.00,32313.6000,29376.0000,83910.19392000,08/14/2018 @ 12:00:00 AM
-30766,"Goddess of Thieves, Melcha",The Nulukkhath Spires,28.99,Foulopal Copper Of The Skies,256.00,221.83,221.83,56788.4800,56788.4800,146502.92070400,08/14/2018 @ 12:00:00 AM
-6937,"Jester, Seraph",The Pirate's Pipe,15.40,Swordbronze,253.00,333.30,303.00,84324.9000,76659.0000,185775.42060000,08/14/2018 @ 12:00:00 AM
-26793,Chainnail,Citadel Ward,4.40,Foulopal Copper Of The Skies,260.00,221.83,201.66,57675.8000,52431.6000,114952.12560000,08/14/2018 @ 12:00:00 AM
-12187,"The Unspeakable, Scarechain",Castle Village,42.98,Violetdream Iron,204.00,414.98,377.25,84655.9200,76959.0000,231077.01261600,08/14/2018 @ 12:00:00 AM
+33863,"Seraphim, Tsunami",Barad Cune,49.21,Swordbronze,179.00,403.29,366.63,72188.9100,65626.7700,205634.77612800,08/14/2008 @ 12:00:00 AM
+21916,"Storm, Seraphheart",Reyny Keep,-3.35,Yellow Mistearth Copper,93.00,287.98,261.80,26782.1400,24347.4000,49416.70041000,08/14/2018 @ 12:00:00 AM
+32792,Emberfire,The Bastion of the Lich Tyrant,8.64,Magicians' Legendary Poison Metal,261.00,-52.81,-48.01,-13783.4100,-12530.6100,-28587.55132800,08/14/2008 @ 12:00:00 AM
+20901,"Uriel, God of Fate",Gena's Hold,5.85,Unknowable Mindsilver,110.00,174.90,174.90,19239.0000,19239.0000,40728.96300000,08/14/2008 @ 12:00:00 AM
+15071,"Flameflare, The Evil",Dysley Stronghold,35.51,Primordial Plague Mercury Of Legend,50.00,73.70,67.00,3685.0000,3350.0000,9533.12850000,08/14/2008 @ 12:00:00 AM
+5161,"Shadow, Tomblion",The Dancing Minstrel,36.02,Phantasmal Smokezephyr Mercury Of Men,153.00,211.20,192.00,32313.6000,29376.0000,83910.19392000,08/14/2008 @ 12:00:00 AM
+30766,"Melcha, Goddess of Thieves",The Nulukkhath Spires,28.99,Foulopal Copper Of The Skies,256.00,221.83,221.83,56788.4800,56788.4800,146502.92070400,08/14/2008 @ 12:00:00 AM
+6937,"Seraph, Jester",The Pirate's Pipe,15.40,Swordbronze,253.00,333.30,303.00,84324.9000,76659.0000,185775.42060000,08/14/2008 @ 12:00:00 AM
+26793,Chainnail,Citadel Ward,4.40,Foulopal Copper Of The Skies,260.00,221.83,201.66,57675.8000,52431.6000,114952.12560000,08/14/2008 @ 12:00:00 AM
+12187,"Scarechain, The Unspeakable",Castle Village,42.98,Violetdream Iron,204.00,414.98,377.25,84655.9200,76959.0000,231077.01261600,08/14/2008 @ 12:00:00 AM

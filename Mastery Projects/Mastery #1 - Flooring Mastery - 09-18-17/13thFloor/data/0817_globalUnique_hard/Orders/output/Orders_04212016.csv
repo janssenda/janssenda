@@ -1,19 +1,19 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-13837,"God of Love, Prusu",Gili's Delve,35.89,Trolls' Mist Poisonplatinum Of The Twilight,194.00,440.56,400.51,85468.6400,77698.9400,221728.42446200,04/21/2016 @ 12:00:00 AM
-23151,"The Cold, Burnfreeze",Moor Village,11.32,Shadowhell Mithril,304.00,462.21,420.19,140511.8400,127737.7600,298615.45472000,04/21/2016 @ 12:00:00 AM
-36534,"The Mechanical, Snarepiston",The Fen of the Necromancer,32.21,Heavenly Dreamsilver Of The Night,264.00,719.00,346.06,189816.0000,91359.8400,371742.57806400,04/21/2016 @ 12:00:00 AM
-34093,"Lord of the Sun, Maglioneth",The Bastion of the Lich Tyrant,8.64,Unicorns' Fatal Magma Metal Of The Ocean,152.00,25.30,27.83,3845.6000,4230.1600,8773.50566400,04/21/2016 @ 12:00:00 AM
-1628,"Roguemist, Rouge",Archring Borough,27.00,Ghostly Magic Adamant,302.00,49.50,45.00,14949.0000,13590.0000,36244.53000000,04/21/2016 @ 12:00:00 AM
-10483,"Brand, Lightning",The Bastion of the Vampire Duke,37.90,Phantasmal Smokezephyr Mercury Of Men,294.00,211.20,192.00,62092.8000,56448.0000,163467.76320000,04/21/2016 @ 12:00:00 AM
-8146,Chainhorror,Lamp Borough,0.00,Starsmoke Bronze Of Life,278.00,-438.00,420.81,-121764.0000,116985.1800,-4778.82000000,04/21/2016 @ 12:00:00 AM
-20565,"Veil, Bane",The Demon and Toad,-1.10,Shadow Metal,348.00,1606.00,298.00,558888.0000,103704.0000,655303.48800000,04/21/2016 @ 12:00:00 AM
-21939,Flameshiver,The Tomb of Hellish Ruin,36.30,Violetdream Iron,235.00,502.13,456.48,118000.5500,107272.8000,307047.57605000,04/21/2016 @ 12:00:00 AM
-19810,"Rougehate, Rune",The Greedy Wench,13.31,Fairies' Supreme Mistsmoke Lead Of The Future,199.00,499.73,499.73,99446.2700,99446.2700,225365.13707400,04/21/2016 @ 12:00:00 AM
-30496,"The Unspeakable, Gravebone",The Tower of Sabiesu the Awesome,10.00,Witchs' Forbidden Rockrainbow Bronze,169.00,245.63,245.63,41511.4700,41511.4700,91325.23400000,04/21/2016 @ 12:00:00 AM
-16169,"Dawn, Tarot",The Bastion of the Lich Tyrant,7.14,Swordbronze,309.00,333.30,303.00,102989.7000,93627.0000,210655.13238000,04/21/2016 @ 12:00:00 AM
-29695,Emberspawn,The Greedy Wench,13.31,Heavenly Dreamsilver Of The Night,198.00,719.00,314.60,142362.0000,62290.8000,231892.08768000,04/21/2016 @ 12:00:00 AM
-5274,"Knightseraph, Lance",The Barrow of Terrible Horror,24.90,Phantasmal Tin Of The Swamps,163.00,3207.64,305.00,522845.3200,49715.0000,715127.83968000,04/21/2016 @ 12:00:00 AM
-5396,"Mistmidnight, Tiger",Dysley Stronghold,32.28,Primordial False Gold,158.00,1383.00,391.27,218514.0000,61820.6600,370826.68824800,04/21/2016 @ 12:00:00 AM
-28689,"Tombreaper, Rouge",The Fortress of Akkun the Grim,27.03,Stone Soulsteel Of The Skies,91.00,453.31,412.10,41251.2100,37501.1000,100039.05939300,04/21/2016 @ 12:00:00 AM
-26152,"The Machine, Evilcoil",Citadel Ward,4.40,Grayplatinum,81.00,2548.00,104.94,206388.0000,8500.1400,224343.21816000,04/21/2016 @ 12:00:00 AM
-37467,"Rougehate, Rune",The Greedy Wench,13.31,Ghouls' Imperial Soulzephyr Mithril Of The Seas,50.00,318.23,318.23,15911.5000,15911.5000,36058.64130000,04/21/2016 @ 12:00:00 AM
+13837,"God of Love, Prusu",Gili's Delve,35.89,Trolls' Mist Poisonplatinum Of The Twilight,194.00,440.56,400.51,85468.6400,77698.9400,221728.42446200,04/21/1986 @ 12:00:00 AM
+23151,"The Cold, Burnfreeze",Moor Village,11.32,Shadowhell Mithril,304.00,462.21,420.19,140511.8400,127737.7600,298615.45472000,04/21/1946 @ 12:00:00 AM
+36534,"The Mechanical, Snarepiston",The Fen of the Necromancer,32.21,Heavenly Dreamsilver Of The Night,264.00,719.00,346.06,189816.0000,91359.8400,371742.57806400,04/21/1946 @ 12:00:00 AM
+34093,"Lord of the Sun, Maglioneth",The Bastion of the Lich Tyrant,8.64,Unicorns' Fatal Magma Metal Of The Ocean,152.00,25.30,27.83,3845.6000,4230.1600,8773.50566400,04/21/1946 @ 12:00:00 AM
+1628,"Roguemist, Rouge",Archring Borough,27.00,Ghostly Magic Adamant,302.00,49.50,45.00,14949.0000,13590.0000,36244.53000000,04/21/1946 @ 12:00:00 AM
+10483,"Brand, Lightning",The Bastion of the Vampire Duke,37.90,Phantasmal Smokezephyr Mercury Of Men,294.00,211.20,192.00,62092.8000,56448.0000,163467.76320000,04/21/1946 @ 12:00:00 AM
+8146,Chainhorror,Lamp Borough,0.00,Starsmoke Bronze Of Life,278.00,-438.00,420.81,-121764.0000,116985.1800,-4778.82000000,04/21/1946 @ 12:00:00 AM
+20565,"Veil, Bane",The Demon and Toad,-1.10,Shadow Metal,348.00,1606.00,298.00,558888.0000,103704.0000,655303.48800000,04/21/1946 @ 12:00:00 AM
+21939,Flameshiver,The Tomb of Hellish Ruin,36.30,Violetdream Iron,235.00,502.13,456.48,118000.5500,107272.8000,307047.57605000,04/21/1946 @ 12:00:00 AM
+19810,"Rougehate, Rune",The Greedy Wench,13.31,Fairies' Supreme Mistsmoke Lead Of The Future,199.00,499.73,499.73,99446.2700,99446.2700,225365.13707400,04/21/1946 @ 12:00:00 AM
+30496,"The Unspeakable, Gravebone",The Tower of Sabiesu the Awesome,10.00,Witchs' Forbidden Rockrainbow Bronze,169.00,245.63,245.63,41511.4700,41511.4700,91325.23400000,04/21/1946 @ 12:00:00 AM
+16169,"Dawn, Tarot",The Bastion of the Lich Tyrant,7.14,Swordbronze,309.00,333.30,303.00,102989.7000,93627.0000,210655.13238000,04/21/1946 @ 12:00:00 AM
+29695,Emberspawn,The Greedy Wench,13.31,Heavenly Dreamsilver Of The Night,198.00,719.00,314.60,142362.0000,62290.8000,231892.08768000,04/21/1946 @ 12:00:00 AM
+5274,"Knightseraph, Lance",The Barrow of Terrible Horror,24.90,Phantasmal Tin Of The Swamps,163.00,3207.64,305.00,522845.3200,49715.0000,715127.83968000,04/21/1946 @ 12:00:00 AM
+5396,"Mistmidnight, Tiger",Dysley Stronghold,32.28,Primordial False Gold,158.00,1383.00,391.27,218514.0000,61820.6600,370826.68824800,04/21/1946 @ 12:00:00 AM
+28689,"Tombreaper, Rouge",The Fortress of Akkun the Grim,27.03,Stone Soulsteel Of The Skies,91.00,453.31,412.10,41251.2100,37501.1000,100039.05939300,04/21/1946 @ 12:00:00 AM
+26152,"The Machine, Evilcoil",Citadel Ward,4.40,Grayplatinum,81.00,2548.00,104.94,206388.0000,8500.1400,224343.21816000,04/21/1946 @ 12:00:00 AM
+37467,"Rougehate, Rune",The Greedy Wench,13.31,Ghouls' Imperial Soulzephyr Mithril Of The Seas,50.00,318.23,318.23,15911.5000,15911.5000,36058.64130000,04/21/1946 @ 12:00:00 AM

@@ -1,21 +1,21 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-35057,Spikecrank,Barad Kesa,6.17,Ghouls' Imperial Soulzephyr Mithril Of The Seas,182.00,318.23,318.23,57917.8600,57917.8600,122982.78392400,12/19/2015 @ 12:00:00 AM
-23134,"Anchor, Rose",The Secret Catacombs of Ulfang the Black,31.70,Planar Mudtin Of Trolls,156.00,191.40,174.00,29858.4000,27144.0000,75072.16080000,12/19/2015 @ 12:00:00 AM
-3866,"The Chiller, Blazefreeze",The Forsaken Delve of Lord Greywulf,15.62,Timeiron,224.00,3255.00,-14.77,729120.0000,-3308.4800,839183.27942400,12/19/2015 @ 12:00:00 AM
-23260,Cinderember,Weke Tower,47.19,Planar Mudtin Of Trolls,217.00,191.40,174.00,41533.8000,37758.0000,116709.60042000,12/19/2015 @ 12:00:00 AM
-21016,"The Grasping, Nailpiston",Gena's Hold,5.85,Plague Tin,181.00,465.25,422.95,84210.2500,76553.9500,170168.90570000,12/19/2015 @ 12:00:00 AM
-10516,"The Living Device, Mecharig",The Bastion of the Vampire Duke,37.90,Tritons' Time Stoneiron Of Legend,68.00,2235.00,310.54,151980.0000,21116.7200,238700.37688000,12/19/2015 @ 12:00:00 AM
-33380,Bonescare,The Archer and Scroll,60.12,Fairies' Supreme Mistsmoke Lead Of The Future,245.00,499.73,549.70,122433.8500,134676.5000,411685.09242000,12/19/2015 @ 12:00:00 AM
-32319,"The Skeletal, Spiketerror",North Arcanist's Farthing,3.66,Magicians' Legendary Poison Metal,187.00,-52.81,-48.01,-9875.4700,-8977.8700,-19543.37224400,12/19/2015 @ 12:00:00 AM
-21736,"Godwarlock, Sunrise",Moor Village,11.32,Witchs' Forbidden Rockrainbow Bronze,206.00,245.63,245.63,50599.7800,50599.7800,112655.35019200,12/19/2015 @ 12:00:00 AM
-9542,Emberfire,Hartshill Ward,40.29,Muck Orichalcum Of Ogres,268.00,2080.00,97.93,557440.0000,26245.2400,818852.02319600,12/19/2015 @ 12:00:00 AM
-29037,"God of the Lost, Lionare",The Citadel of Alammius,32.67,Stone Soulsteel Of The Skies,197.00,453.31,412.10,89302.0700,81183.7000,226183.47105900,12/19/2015 @ 12:00:00 AM
-9742,"Lord of the Sea, Penur",Hartshill Ward,40.29,Emerald Orichalcum,264.00,1957.00,118.01,516648.0000,31154.6400,768512.32365600,12/19/2015 @ 12:00:00 AM
-17839,"Goddess of Knowledge, Baltha",Bergfison's Deep,16.00,Poison Adamant,181.00,110.96,100.87,20083.7600,18257.4700,44475.82680000,12/19/2015 @ 12:00:00 AM
-978,"The Unspeakable, Gravebone",The Citadel of Lord Greywulf,19.00,Starlight Pearldream Bronze,266.00,-494.37,67.00,-131502.4200,17822.0000,-135279.69980000,12/19/2015 @ 12:00:00 AM
-13118,"Felldrake, Magus",The Bastion of the Vampire Duke,37.90,Primordial Plague Mercury Of Legend,101.00,73.70,67.00,7443.7000,6767.0000,19596.55530000,12/19/2015 @ 12:00:00 AM
-37241,Chainnail,The Greedy Wench,13.31,Stone Soulsteel Of The Skies,230.00,453.31,453.31,104261.3000,104261.3000,236276.95806000,12/19/2015 @ 12:00:00 AM
-26816,"Tsunami, Seraphim",Reheath Stronghold,39.60,Heavenly Dreamsilver Of The Night,231.00,719.00,314.60,166089.0000,72672.6000,333311.19360000,12/19/2015 @ 12:00:00 AM
-2177,"Lord of Nightmares, Iran",The Tomb of Hellish Ruin,30.00,Timeiron,210.00,3255.00,-14.77,683550.0000,-3101.7000,884582.79000000,12/19/2015 @ 12:00:00 AM
-3597,Spikesnare,The Broken Shield,12.00,Forgotten Mithril,249.00,3909.75,451.00,973527.7500,112299.0000,1216125.96000000,12/19/2015 @ 12:00:00 AM
-36261,"Lord of Animals, Suriel",The Fen of the Necromancer,32.21,Heavenly Dreamsilver Of The Night,126.00,719.00,346.06,90594.0000,43603.5600,177422.59407600,12/19/2015 @ 12:00:00 AM
+35057,Spikecrank,Barad Kesa,6.17,Ghouls' Imperial Soulzephyr Mithril Of The Seas,182.00,318.23,318.23,57917.8600,57917.8600,122982.78392400,12/19/2005 @ 12:00:00 AM
+23134,"Rose, Anchor",The Secret Catacombs of Ulfang the Black,31.70,Planar Mudtin Of Trolls,156.00,191.40,174.00,29858.4000,27144.0000,75072.16080000,12/19/2005 @ 12:00:00 AM
+3866,"Blazefreeze, The Chiller",The Forsaken Delve of Lord Greywulf,15.62,Timeiron,224.00,3255.00,-14.77,729120.0000,-3308.4800,839183.27942400,12/19/2005 @ 12:00:00 AM
+23260,Cinderember,Weke Tower,47.19,Planar Mudtin Of Trolls,217.00,191.40,174.00,41533.8000,37758.0000,116709.60042000,12/19/2005 @ 12:00:00 AM
+21016,"Nailpiston, The Grasping",Gena's Hold,5.85,Plague Tin,181.00,465.25,422.95,84210.2500,76553.9500,170168.90570000,12/19/2005 @ 12:00:00 AM
+10516,"Mecharig, The Living Device",The Bastion of the Vampire Duke,37.90,Tritons' Time Stoneiron Of Legend,68.00,2235.00,310.54,151980.0000,21116.7200,238700.37688000,12/19/2005 @ 12:00:00 AM
+33380,Bonescare,The Archer and Scroll,60.12,Fairies' Supreme Mistsmoke Lead Of The Future,245.00,499.73,549.70,122433.8500,134676.5000,411685.09242000,12/19/2005 @ 12:00:00 AM
+32319,"Spiketerror, The Skeletal",North Arcanist's Farthing,3.66,Magicians' Legendary Poison Metal,187.00,-52.81,-48.01,-9875.4700,-8977.8700,-19543.37224400,12/19/2005 @ 12:00:00 AM
+21736,"Sunrise, Godwarlock",Moor Village,11.32,Witchs' Forbidden Rockrainbow Bronze,206.00,245.63,245.63,50599.7800,50599.7800,112655.35019200,12/19/2005 @ 12:00:00 AM
+9542,Emberfire,Hartshill Ward,40.29,Muck Orichalcum Of Ogres,268.00,2080.00,97.93,557440.0000,26245.2400,818852.02319600,12/19/2005 @ 12:00:00 AM
+29037,"Lionare, God of the Lost",The Citadel of Alammius,32.67,Stone Soulsteel Of The Skies,197.00,453.31,412.10,89302.0700,81183.7000,226183.47105900,12/19/2005 @ 12:00:00 AM
+9742,"Penur, Lord of the Sea",Hartshill Ward,40.29,Emerald Orichalcum,264.00,1957.00,118.01,516648.0000,31154.6400,768512.32365600,12/19/2005 @ 12:00:00 AM
+17839,"Baltha, Goddess of Knowledge",Bergfison's Deep,16.00,Poison Adamant,181.00,110.96,100.87,20083.7600,18257.4700,44475.82680000,12/19/2005 @ 12:00:00 AM
+978,"Gravebone, The Unspeakable",The Citadel of Lord Greywulf,19.00,Starlight Pearldream Bronze,266.00,-494.37,67.00,-131502.4200,17822.0000,-135279.69980000,12/19/2005 @ 12:00:00 AM
+13118,"Magus, Felldrake",The Bastion of the Vampire Duke,37.90,Primordial Plague Mercury Of Legend,101.00,73.70,67.00,7443.7000,6767.0000,19596.55530000,12/19/2005 @ 12:00:00 AM
+37241,Chainnail,The Greedy Wench,13.31,Stone Soulsteel Of The Skies,230.00,453.31,453.31,104261.3000,104261.3000,236276.95806000,12/19/2005 @ 12:00:00 AM
+26816,"Seraphim, Tsunami",Reheath Stronghold,39.60,Heavenly Dreamsilver Of The Night,231.00,719.00,314.60,166089.0000,72672.6000,333311.19360000,12/19/2005 @ 12:00:00 AM
+2177,"Iran, Lord of Nightmares",The Tomb of Hellish Ruin,30.00,Timeiron,210.00,3255.00,-14.77,683550.0000,-3101.7000,884582.79000000,12/19/2005 @ 12:00:00 AM
+3597,Spikesnare,The Broken Shield,12.00,Forgotten Mithril,249.00,3909.75,451.00,973527.7500,112299.0000,1216125.96000000,12/19/2005 @ 12:00:00 AM
+36261,"Suriel, Lord of Animals",The Fen of the Necromancer,32.21,Heavenly Dreamsilver Of The Night,126.00,719.00,346.06,90594.0000,43603.5600,177422.59407600,12/19/2005 @ 12:00:00 AM

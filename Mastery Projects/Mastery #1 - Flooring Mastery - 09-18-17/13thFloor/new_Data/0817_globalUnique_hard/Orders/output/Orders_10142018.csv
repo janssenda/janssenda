@@ -1,22 +1,22 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-23141,"Lord of the Sun, Maglioneth",Weke Tower,47.19,Tritons' Time Stoneiron Of Legend,184.00,341.59,341.59,62852.5600,62852.5600,185025.36612800,10/14/2018 @ 12:00:00 AM
-35433,Springsprocket,Bifar's Deep,12.21,Yellow Mistearth Copper,88.00,287.98,261.80,25342.2400,23038.4000,54287.91614400,10/14/2018 @ 12:00:00 AM
-10420,"Runetomb, Song",Reheath Stronghold,39.60,Fairies' Supreme Mistsmoke Lead Of The Future,201.00,2622.69,454.30,527160.6900,91314.3000,863391.08604000,10/14/2018 @ 12:00:00 AM
-33341,"The Evil, Snowflame",The Archer and Scroll,60.12,Mind Lead,152.00,241.00,219.09,36632.0000,33301.6800,111977.80841600,10/14/2018 @ 12:00:00 AM
-9126,"Lonedrake, Clash",Reheath Stronghold,39.60,Planar Mudtin Of Trolls,351.00,191.40,174.00,67181.4000,61074.0000,179044.53840000,10/14/2018 @ 12:00:00 AM
-9226,"Knightclaw, Sunset",Barad Kesa,5.10,Djinni's Spectral Shadowlead Of Life,169.00,1718.00,259.12,290342.0000,43791.2800,351174.07728000,10/14/2018 @ 12:00:00 AM
-18207,"Mistmidnight, Tiger",The Tower of Sabiesu the Awesome,10.00,Undeads' Mind Orichalcum Of The Twilight,325.00,1169.00,331.54,379925.0000,107750.5000,536443.05000000,10/14/2018 @ 12:00:00 AM
-8342,"Goddess of Thieves, Melcha",Archtemple District,37.85,Starsmoke Bronze Of Life,222.00,-438.00,420.81,-97236.0000,93419.8200,-5260.60413000,10/14/2018 @ 12:00:00 AM
-157,"The Constructed, Snaretool",The Bastion of the Lich Tyrant,4.87,Meteoric Dustzephyr Orichalcum,344.00,3549.00,2.00,1220856.0000,688.0000,1281033.19280000,10/14/2018 @ 12:00:00 AM
-17236,"Godseeker, Cult",North Arcanist's Farthing,2.75,Grayplatinum,322.00,2548.00,104.94,820456.0000,33790.6800,877738.46370000,10/14/2018 @ 12:00:00 AM
-238,Bolttrap,Gawold Castle,9.35,Ghostly Soul Adamant,316.00,411.00,377.00,129876.0000,119132.0000,272290.24800000,10/14/2018 @ 12:00:00 AM
-19929,"Jackalguard, Gale",Bifar's Deep,11.10,Emerald Orichalcum,114.00,1957.00,142.79,223098.0000,16278.0600,265946.80266000,10/14/2018 @ 12:00:00 AM
-18998,"Veil, Bane",Gifeld Castle,33.01,Trolls' Mist Poisonplatinum Of The Twilight,121.00,484.62,440.56,58639.0200,53307.7600,148900.41207800,10/14/2018 @ 12:00:00 AM
-28568,"Lord of Death, Addon",The Fortress of Akkun the Grim,27.03,Negative Rockglitter Mercury Of Trolls,226.00,235.59,214.17,53243.3400,48402.4200,129120.60892800,10/14/2018 @ 12:00:00 AM
-967,"The Constructed, Snaretool",Reyny Keep,-3.35,Ensorceled Sandmetal Of Spirits,284.00,4149.00,64.00,1178316.0000,18176.0000,1156409.51800000,10/14/2018 @ 12:00:00 AM
-16788,"The Mechanical, Snarepiston",North Arcanist's Farthing,2.75,Plague Tin,158.00,465.25,422.95,73509.5000,66826.1000,144194.82900000,10/14/2018 @ 12:00:00 AM
-14294,Springcoil,Gena's Hold,5.85,Sphinxes' Unknown Poisongold Of The Future,312.00,3971.47,14.30,1239098.6400,4461.6000,1316308.51404000,10/14/2018 @ 12:00:00 AM
-28948,"Gust, Shadow",Bifar's Deep,12.21,Stone Soulsteel Of The Skies,298.00,453.31,412.10,135086.3800,122805.8000,289380.81517800,10/14/2018 @ 12:00:00 AM
-25011,"Goddess of Law, Eumyan",Bifar's Deep,12.21,Negative Rockglitter Mercury Of Trolls,287.00,235.59,214.17,67614.3300,61466.7900,144841.92475200,10/14/2018 @ 12:00:00 AM
-25178,"Tombreaper, Rouge",The Fortress of the Lich Queen,20.72,Mithril Of The Tropics,203.00,276.72,276.72,56174.1600,56174.1600,135626.89190400,10/14/2018 @ 12:00:00 AM
-4649,"Lady of Fire, Nelalwe",Bergfison's Deep,16.00,Trolls' Rubymercury Of The Sunset,183.00,2733.00,443.00,500139.0000,81069.0000,674201.28000000,10/14/2018 @ 12:00:00 AM
+23141,"Maglioneth, Lord of the Sun",Weke Tower,47.19,Tritons' Time Stoneiron Of Legend,184.00,341.59,341.59,62852.5600,62852.5600,185025.36612800,10/14/2008 @ 12:00:00 AM
+35433,Springsprocket,Bifar's Deep,12.21,Yellow Mistearth Copper,88.00,287.98,261.80,25342.2400,23038.4000,54287.91614400,10/14/2008 @ 12:00:00 AM
+10420,"Song, Runetomb",Reheath Stronghold,39.60,Fairies' Supreme Mistsmoke Lead Of The Future,201.00,2622.69,454.30,527160.6900,91314.3000,863391.08604000,10/14/2008 @ 12:00:00 AM
+33341,"Snowflame, The Evil",The Archer and Scroll,60.12,Mind Lead,152.00,241.00,219.09,36632.0000,33301.6800,111977.80841600,10/14/2008 @ 12:00:00 AM
+9126,"Clash, Lonedrake",Reheath Stronghold,39.60,Planar Mudtin Of Trolls,351.00,191.40,174.00,67181.4000,61074.0000,179044.53840000,10/14/2008 @ 12:00:00 AM
+9226,"Sunset, Knightclaw",Barad Kesa,5.10,Djinni's Spectral Shadowlead Of Life,169.00,1718.00,259.12,290342.0000,43791.2800,351174.07728000,10/14/2008 @ 12:00:00 AM
+18207,"Tiger, Mistmidnight",The Tower of Sabiesu the Awesome,10.00,Undeads' Mind Orichalcum Of The Twilight,325.00,1169.00,331.54,379925.0000,107750.5000,536443.05000000,10/14/2008 @ 12:00:00 AM
+8342,"Melcha, Goddess of Thieves",Archtemple District,37.85,Starsmoke Bronze Of Life,222.00,-438.00,420.81,-97236.0000,93419.8200,-5260.60413000,10/14/2008 @ 12:00:00 AM
+157,"Snaretool, The Constructed",The Bastion of the Lich Tyrant,4.87,Meteoric Dustzephyr Orichalcum,344.00,3549.00,2.00,1220856.0000,688.0000,1281033.19280000,10/14/2008 @ 12:00:00 AM
+17236,"Cult, Godseeker",North Arcanist's Farthing,2.75,Grayplatinum,322.00,2548.00,104.94,820456.0000,33790.6800,877738.46370000,10/14/2008 @ 12:00:00 AM
+238,Bolttrap,Gawold Castle,9.35,Ghostly Soul Adamant,316.00,411.00,377.00,129876.0000,119132.0000,272290.24800000,10/14/2008 @ 12:00:00 AM
+19929,"Gale, Jackalguard",Bifar's Deep,11.10,Emerald Orichalcum,114.00,1957.00,142.79,223098.0000,16278.0600,265946.80266000,10/14/2008 @ 12:00:00 AM
+18998,"Bane, Veil",Gifeld Castle,33.01,Trolls' Mist Poisonplatinum Of The Twilight,121.00,484.62,440.56,58639.0200,53307.7600,148900.41207800,10/14/2008 @ 12:00:00 AM
+28568,"Addon, Lord of Death",The Fortress of Akkun the Grim,27.03,Negative Rockglitter Mercury Of Trolls,226.00,235.59,214.17,53243.3400,48402.4200,129120.60892800,10/14/2008 @ 12:00:00 AM
+967,"Snaretool, The Constructed",Reyny Keep,-3.35,Ensorceled Sandmetal Of Spirits,284.00,4149.00,64.00,1178316.0000,18176.0000,1156409.51800000,10/14/2008 @ 12:00:00 AM
+16788,"Snarepiston, The Mechanical",North Arcanist's Farthing,2.75,Plague Tin,158.00,465.25,422.95,73509.5000,66826.1000,144194.82900000,10/14/2008 @ 12:00:00 AM
+14294,Springcoil,Gena's Hold,5.85,Sphinxes' Unknown Poisongold Of The Future,312.00,3971.47,14.30,1239098.6400,4461.6000,1316308.51404000,10/14/2008 @ 12:00:00 AM
+28948,"Shadow, Gust",Bifar's Deep,12.21,Stone Soulsteel Of The Skies,298.00,453.31,412.10,135086.3800,122805.8000,289380.81517800,10/14/2008 @ 12:00:00 AM
+25011,"Eumyan, Goddess of Law",Bifar's Deep,12.21,Negative Rockglitter Mercury Of Trolls,287.00,235.59,214.17,67614.3300,61466.7900,144841.92475200,10/14/2008 @ 12:00:00 AM
+25178,"Rouge, Tombreaper",The Fortress of the Lich Queen,20.72,Mithril Of The Tropics,203.00,276.72,276.72,56174.1600,56174.1600,135626.89190400,10/14/2008 @ 12:00:00 AM
+4649,"Nelalwe, Lady of Fire",Bergfison's Deep,16.00,Trolls' Rubymercury Of The Sunset,183.00,2733.00,443.00,500139.0000,81069.0000,674201.28000000,10/14/2008 @ 12:00:00 AM

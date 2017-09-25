@@ -1,16 +1,16 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-2545,"The Cadaverous, Chainblade",Noble's Village,4.49,Magic Adamant,316.00,-190.00,72.13,-60040.0000,22793.0800,-38919.30670800,10/01/2018 @ 12:00:00 AM
-12712,"The Freezer, Shiverflame",Bifar's Deep,10.09,Incubi's Iron Of The Dawn,219.00,174.99,174.99,38322.8100,38322.8100,84379.16305800,10/01/2018 @ 12:00:00 AM
-35399,"The Unspeakable, Scarechain",The Nulukkhath Spires,28.99,Ghouls' Imperial Soulzephyr Mithril Of The Seas,370.00,318.23,318.23,117745.1000,117745.1000,303758.80898000,10/01/2018 @ 12:00:00 AM
-34201,"The Living Device, Mecharig",Barad Cune,49.21,Toxic Mistlead Of The Past,216.00,435.67,396.06,94104.7200,85548.9600,268061.25592800,10/01/2018 @ 12:00:00 AM
-10157,"Knightseraph, Lance",The Dungeon of Dismal Terror,44.30,God-touched Greengem Platinum,307.00,2181.36,188.14,669677.5200,57758.9800,1049690.86950000,10/01/2018 @ 12:00:00 AM
-10423,Beamtrap,Grori's Deep,27.50,Pearl Mirrorice Steel Of Changelings,339.00,2996.00,302.00,1015644.0000,102378.0000,1425478.05000000,10/01/2018 @ 12:00:00 AM
-35963,"Goddess of Thieves, Melcha",The Nulukkhath Spires,28.99,Magicians' Legendary Poison Metal,273.00,-52.81,-48.01,-14417.1300,-13106.7300,-35503.02701400,10/01/2018 @ 12:00:00 AM
-22906,"God of War, Ingwenel",The Fortress of Akkun the Grim,27.03,Planar Mudtin Of Trolls,285.00,191.40,174.00,54549.0000,49590.0000,132287.77170000,10/01/2018 @ 12:00:00 AM
-8987,"Spiritraven, Bedlam",The Tomb of Hellish Ruin,33.00,Planar Mudtin Of Trolls,97.00,191.40,174.00,18565.8000,16878.0000,47140.25400000,10/01/2018 @ 12:00:00 AM
-7676,"Mistseeker, Grave",The Khazahol Crags,20.68,Trolls' Mist Poisonplatinum Of The Twilight,273.00,329.00,400.51,89817.0000,109339.2300,240341.73836400,10/01/2018 @ 12:00:00 AM
-27184,"The Blade, Scarefear",The Pirate's Pipe,16.94,Unknown Fatelightning Steel Of The Glacier,275.00,145.08,159.59,39897.0000,43887.2500,97977.30195000,10/01/2018 @ 12:00:00 AM
-17962,"Lady of Fire, Nelalwe",The Bastion of the Vampire Duke,37.90,Mithril Of The Tropics,257.00,276.72,251.56,71117.0400,64650.9200,187224.01684000,10/01/2018 @ 12:00:00 AM
-30931,"Lord of Death, Addon",The Nulukkhath Spires,28.99,Witchs' Forbidden Rockrainbow Bronze,186.00,245.63,245.63,45687.1800,45687.1800,117863.78696400,10/01/2018 @ 12:00:00 AM
-25094,Emberfire,Bifar's Deep,12.21,Foul Ice Bronze Of Life,231.00,292.82,266.20,67641.4200,61492.2000,144900.83500200,10/01/2018 @ 12:00:00 AM
-25112,"God of Thieves, Maeglodor",Kada's Deep,8.42,Incubi's Glittering Tin Of The Future,200.00,192.96,233.49,38592.0000,46698.0000,92471.41800000,10/01/2018 @ 12:00:00 AM
+2545,"Chainblade, The Cadaverous",Noble's Village,4.49,Magic Adamant,316.00,-190.00,72.13,-60040.0000,22793.0800,-38919.30670800,10/01/2008 @ 12:00:00 AM
+12712,"Shiverflame, The Freezer",Bifar's Deep,10.09,Incubi's Iron Of The Dawn,219.00,174.99,174.99,38322.8100,38322.8100,84379.16305800,10/01/2008 @ 12:00:00 AM
+35399,"Scarechain, The Unspeakable",The Nulukkhath Spires,28.99,Ghouls' Imperial Soulzephyr Mithril Of The Seas,370.00,318.23,318.23,117745.1000,117745.1000,303758.80898000,10/01/2008 @ 12:00:00 AM
+34201,"Mecharig, The Living Device",Barad Cune,49.21,Toxic Mistlead Of The Past,216.00,435.67,396.06,94104.7200,85548.9600,268061.25592800,10/01/2008 @ 12:00:00 AM
+10157,"Lance, Knightseraph",The Dungeon of Dismal Terror,44.30,God-touched Greengem Platinum,307.00,2181.36,188.14,669677.5200,57758.9800,1049690.86950000,10/01/2008 @ 12:00:00 AM
+10423,Beamtrap,Grori's Deep,27.50,Pearl Mirrorice Steel Of Changelings,339.00,2996.00,302.00,1015644.0000,102378.0000,1425478.05000000,10/01/2008 @ 12:00:00 AM
+35963,"Melcha, Goddess of Thieves",The Nulukkhath Spires,28.99,Magicians' Legendary Poison Metal,273.00,-52.81,-48.01,-14417.1300,-13106.7300,-35503.02701400,10/01/2008 @ 12:00:00 AM
+22906,"Ingwenel, God of War",The Fortress of Akkun the Grim,27.03,Planar Mudtin Of Trolls,285.00,191.40,174.00,54549.0000,49590.0000,132287.77170000,10/01/2008 @ 12:00:00 AM
+8987,"Bedlam, Spiritraven",The Tomb of Hellish Ruin,33.00,Planar Mudtin Of Trolls,97.00,191.40,174.00,18565.8000,16878.0000,47140.25400000,10/01/2008 @ 12:00:00 AM
+7676,"Grave, Mistseeker",The Khazahol Crags,20.68,Trolls' Mist Poisonplatinum Of The Twilight,273.00,329.00,400.51,89817.0000,109339.2300,240341.73836400,10/01/2008 @ 12:00:00 AM
+27184,"Scarefear, The Blade",The Pirate's Pipe,16.94,Unknown Fatelightning Steel Of The Glacier,275.00,145.08,159.59,39897.0000,43887.2500,97977.30195000,10/01/2008 @ 12:00:00 AM
+17962,"Nelalwe, Lady of Fire",The Bastion of the Vampire Duke,37.90,Mithril Of The Tropics,257.00,276.72,251.56,71117.0400,64650.9200,187224.01684000,10/01/2008 @ 12:00:00 AM
+30931,"Addon, Lord of Death",The Nulukkhath Spires,28.99,Witchs' Forbidden Rockrainbow Bronze,186.00,245.63,245.63,45687.1800,45687.1800,117863.78696400,10/01/2008 @ 12:00:00 AM
+25094,Emberfire,Bifar's Deep,12.21,Foul Ice Bronze Of Life,231.00,292.82,266.20,67641.4200,61492.2000,144900.83500200,10/01/2008 @ 12:00:00 AM
+25112,"Maeglodor, God of Thieves",Kada's Deep,8.42,Incubi's Glittering Tin Of The Future,200.00,192.96,233.49,38592.0000,46698.0000,92471.41800000,10/01/2008 @ 12:00:00 AM

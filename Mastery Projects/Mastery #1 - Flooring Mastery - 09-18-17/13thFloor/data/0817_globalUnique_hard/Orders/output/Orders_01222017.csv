@@ -1,16 +1,16 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-3743,"Felldrake, Magus",The Khazahol Crags,20.68,Mind Lead,134.00,756.00,199.17,101304.0000,26688.7800,154461.68690400,01/22/2017 @ 12:00:00 AM
-24556,"Drakecaster, Sephiroth",The Bastion of Barbos,25.41,Ensorceled Sandmetal Of Spirits,318.00,85.18,77.44,27087.2400,24625.9200,64853.47395600,01/22/2017 @ 12:00:00 AM
-12903,"Mistseeker, Grave",The Tomb of Hellish Ruin,33.00,White Platinum,116.00,83.49,91.84,9684.8400,10653.4400,27049.91240000,01/22/2017 @ 12:00:00 AM
-11958,"Goddess of Fate, Azah",The Nulukkhath Spires,28.99,Phantasmal Tin Of The Swamps,290.00,3207.64,305.00,930215.6000,88450.0000,1313976.75744000,01/22/2017 @ 12:00:00 AM
-33299,Cinderember,Pewold Keep,29.00,Undeads' Mind Orichalcum Of The Twilight,102.00,1169.00,364.69,119238.0000,37198.3800,201802.93020000,01/22/2017 @ 12:00:00 AM
-31053,"Seraphheart, Storm",The Tower of Sabiesu the Awesome,10.00,Witchs' Forbidden Rockrainbow Bronze,275.00,245.63,245.63,67548.2500,67548.2500,148606.15000000,01/22/2017 @ 12:00:00 AM
-10944,Bolttrap,Reheath Stronghold,39.60,Phantasmal Smokezephyr Mercury Of Men,288.00,211.20,192.00,60825.6000,55296.0000,162105.75360000,01/22/2017 @ 12:00:00 AM
-29176,"Drakecaster, Sephiroth",The Citadel of Alammius,32.67,Fleshshock Mercury,205.00,-31.02,-28.20,-6359.1000,-5781.0000,-16106.27067000,01/22/2017 @ 12:00:00 AM
-31564,"The Unspeakable, Scarechain",The Demon and Toad,-1.21,Fairies' Supreme Mistsmoke Lead Of The Future,225.00,499.73,549.70,112439.2500,123682.5000,233264.67682500,01/22/2017 @ 12:00:00 AM
-7479,"Runetomb, Song",Gawold Castle,10.29,Trolls' Mist Poisonplatinum Of The Twilight,185.00,329.00,400.51,60865.0000,74094.3500,148846.66711500,01/22/2017 @ 12:00:00 AM
-6305,"Lonedrake, Clash",The Drunken Thief,18.41,Fleshshock Mercury,348.00,-31.02,-28.20,-10794.9600,-9813.6000,-24402.59589600,01/22/2017 @ 12:00:00 AM
-6347,Cinderflame,North Grove Ward,41.80,Hidden Shadowice Lead,210.00,3068.90,-15.00,644469.0000,-3150.0000,909390.34200000,01/22/2017 @ 12:00:00 AM
-15302,"Runetomb, Song",The Secret Shrine of the Gargoyle Count,23.93,Fleshshock Mercury,205.00,-31.02,-28.20,-6359.1000,-5781.0000,-15045.22593000,01/22/2017 @ 12:00:00 AM
-4761,"The Cremator, Blazeflare",Bergfison's Deep,16.00,Nymphs' Luminous Rotmercury Of The Skies,77.00,335.50,305.00,25833.5000,23485.0000,57209.46000000,01/22/2017 @ 12:00:00 AM
-24229,"Squallmourner, Storm",Bifar's Deep,12.21,Unicorns' Fatal Magma Metal Of The Ocean,244.00,25.30,23.00,6173.2000,5612.0000,13224.17292000,01/22/2017 @ 12:00:00 AM
+3743,"Felldrake, Magus",The Khazahol Crags,20.68,Mind Lead,134.00,756.00,199.17,101304.0000,26688.7800,154461.68690400,01/22/1947 @ 12:00:00 AM
+24556,"Drakecaster, Sephiroth",The Bastion of Barbos,25.41,Ensorceled Sandmetal Of Spirits,318.00,85.18,77.44,27087.2400,24625.9200,64853.47395600,01/22/1947 @ 12:00:00 AM
+12903,"Mistseeker, Grave",The Tomb of Hellish Ruin,33.00,White Platinum,116.00,83.49,91.84,9684.8400,10653.4400,27049.91240000,01/22/1947 @ 12:00:00 AM
+11958,"Goddess of Fate, Azah",The Nulukkhath Spires,28.99,Phantasmal Tin Of The Swamps,290.00,3207.64,305.00,930215.6000,88450.0000,1313976.75744000,01/22/1947 @ 12:00:00 AM
+33299,Cinderember,Pewold Keep,29.00,Undeads' Mind Orichalcum Of The Twilight,102.00,1169.00,364.69,119238.0000,37198.3800,201802.93020000,01/22/1987 @ 12:00:00 AM
+31053,"Seraphheart, Storm",The Tower of Sabiesu the Awesome,10.00,Witchs' Forbidden Rockrainbow Bronze,275.00,245.63,245.63,67548.2500,67548.2500,148606.15000000,01/22/1987 @ 12:00:00 AM
+10944,Bolttrap,Reheath Stronghold,39.60,Phantasmal Smokezephyr Mercury Of Men,288.00,211.20,192.00,60825.6000,55296.0000,162105.75360000,01/22/1947 @ 12:00:00 AM
+29176,"Drakecaster, Sephiroth",The Citadel of Alammius,32.67,Fleshshock Mercury,205.00,-31.02,-28.20,-6359.1000,-5781.0000,-16106.27067000,01/22/1947 @ 12:00:00 AM
+31564,"The Unspeakable, Scarechain",The Demon and Toad,-1.21,Fairies' Supreme Mistsmoke Lead Of The Future,225.00,499.73,549.70,112439.2500,123682.5000,233264.67682500,01/22/1947 @ 12:00:00 AM
+7479,"Runetomb, Song",Gawold Castle,10.29,Trolls' Mist Poisonplatinum Of The Twilight,185.00,329.00,400.51,60865.0000,74094.3500,148846.66711500,01/22/1947 @ 12:00:00 AM
+6305,"Lonedrake, Clash",The Drunken Thief,18.41,Fleshshock Mercury,348.00,-31.02,-28.20,-10794.9600,-9813.6000,-24402.59589600,01/22/1947 @ 12:00:00 AM
+6347,Cinderflame,North Grove Ward,41.80,Hidden Shadowice Lead,210.00,3068.90,-15.00,644469.0000,-3150.0000,909390.34200000,01/22/1977 @ 12:00:00 AM
+15302,"Runetomb, Song",The Secret Shrine of the Gargoyle Count,23.93,Fleshshock Mercury,205.00,-31.02,-28.20,-6359.1000,-5781.0000,-15045.22593000,01/22/1947 @ 12:00:00 AM
+4761,"The Cremator, Blazeflare",Bergfison's Deep,16.00,Nymphs' Luminous Rotmercury Of The Skies,77.00,335.50,305.00,25833.5000,23485.0000,57209.46000000,01/22/1947 @ 12:00:00 AM
+24229,"Squallmourner, Storm",Bifar's Deep,12.21,Unicorns' Fatal Magma Metal Of The Ocean,244.00,25.30,23.00,6173.2000,5612.0000,13224.17292000,01/22/1947 @ 12:00:00 AM

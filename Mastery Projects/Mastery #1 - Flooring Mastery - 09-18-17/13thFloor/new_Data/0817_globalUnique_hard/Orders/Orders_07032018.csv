@@ -1,17 +1,17 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-11100,Beamtrap,Mahyrst Keep,28.45,Phantasmal Lead,236.00,21.92,19.93,5173.1200,4703.4800,12686.49270000,07/03/2018 @ 12:00:00 AM
-2716,"Mystery, Lord",The Khazahol Crags,20.68,Emerald Orichalcum,110.00,1957.00,118.01,215270.0000,12981.1000,275453.42748000,07/03/2018 @ 12:00:00 AM
-2989,"Godseeker, Cult",The Lazy Sage,21.93,Litches' Fatal Mithril Of The Past,196.00,3822.00,13.00,749112.0000,2548.0000,916499.03800000,07/03/2018 @ 12:00:00 AM
-35968,"Felldrake, Magus",The Fen of the Necromancer,32.21,Yellow Mistearth Copper,278.00,287.98,261.80,80058.4400,72780.4000,202068.23036400,07/03/2018 @ 12:00:00 AM
-34826,"Brand, Lightning",Barad Kesa,6.17,Ghouls' Imperial Soulzephyr Mithril Of The Seas,239.00,318.23,318.23,76056.9700,76056.9700,161499.37009800,07/03/2018 @ 12:00:00 AM
-8090,"Gust, Shadow",The Grey Plains,39.19,Falserainbow Lead,93.00,872.99,70.18,81188.0700,6526.7400,122090.24403900,07/03/2018 @ 12:00:00 AM
-8486,"Seeker, Fate",The Bastion of Sthasu the Gruesome,40.00,Unicorns' Fatal Magma Metal Of The Ocean,250.00,903.00,23.00,225750.0000,5750.0000,324100.00000000,07/03/2018 @ 12:00:00 AM
-20746,"The Living Device, Mecharig",The Fen of the Necromancer,20.00,Incubi's Iron Of The Dawn,32.00,174.99,174.99,5599.6800,5599.6800,13439.23200000,07/03/2018 @ 12:00:00 AM
-16101,"Drakecaster, Sephiroth",The Pirate's Pipe,16.94,Vampires' Hammer Emeraldmetal,173.00,77.44,77.44,13397.1200,13397.1200,31333.18425600,07/03/2018 @ 12:00:00 AM
-27101,"God of Resurrection, Gadriel",Citadel Ward,4.40,Muck Orichalcum Of Ogres,132.00,143.37,130.34,18924.8400,17204.8800,37719.42768000,07/03/2018 @ 12:00:00 AM
+11100,Beamtrap,Mahyrst Keep,28.45,Phantasmal Lead,236.00,21.92,19.93,5173.1200,4703.4800,12686.49270000,07/03/2008 @ 12:00:00 AM
+2716,"Lord, Mystery",The Khazahol Crags,20.68,Emerald Orichalcum,110.00,1957.00,118.01,215270.0000,12981.1000,275453.42748000,07/03/2008 @ 12:00:00 AM
+2989,"Cult, Godseeker",The Lazy Sage,21.93,Litches' Fatal Mithril Of The Past,196.00,3822.00,13.00,749112.0000,2548.0000,916499.03800000,07/03/2008 @ 12:00:00 AM
+35968,"Magus, Felldrake",The Fen of the Necromancer,32.21,Yellow Mistearth Copper,278.00,287.98,261.80,80058.4400,72780.4000,202068.23036400,07/03/2008 @ 12:00:00 AM
+34826,"Lightning, Brand",Barad Kesa,6.17,Ghouls' Imperial Soulzephyr Mithril Of The Seas,239.00,318.23,318.23,76056.9700,76056.9700,161499.37009800,07/03/2008 @ 12:00:00 AM
+8090,"Shadow, Gust",The Grey Plains,39.19,Falserainbow Lead,93.00,872.99,70.18,81188.0700,6526.7400,122090.24403900,07/03/2008 @ 12:00:00 AM
+8486,"Fate, Seeker",The Bastion of Sthasu the Gruesome,40.00,Unicorns' Fatal Magma Metal Of The Ocean,250.00,903.00,23.00,225750.0000,5750.0000,324100.00000000,07/03/2008 @ 12:00:00 AM
+20746,"Mecharig, The Living Device",The Fen of the Necromancer,20.00,Incubi's Iron Of The Dawn,32.00,174.99,174.99,5599.6800,5599.6800,13439.23200000,07/03/2008 @ 12:00:00 AM
+16101,"Sephiroth, Drakecaster",The Pirate's Pipe,16.94,Vampires' Hammer Emeraldmetal,173.00,77.44,77.44,13397.1200,13397.1200,31333.18425600,07/03/2008 @ 12:00:00 AM
+27101,"Gadriel, God of Resurrection",Citadel Ward,4.40,Muck Orichalcum Of Ogres,132.00,143.37,130.34,18924.8400,17204.8800,37719.42768000,07/03/2008 @ 12:00:00 AM
 932,Bonescare,Reyny Keep,-3.35,Magicians' Legendary Poison Metal,250.00,3615.00,-48.01,903750.0000,-12002.5000,861873.95875000,07/03/2018 @ 12:00:00 AM
-7920,"Lord of the Sun, Maglioneth",The Bastion of Sthasu the Gruesome,40.00,Zephyr Adamant,148.00,481.77,-44.14,71301.9600,-6532.7200,90676.93600000,07/03/2018 @ 12:00:00 AM
-4044,"Lady of Vengeance, Zepul",The Forsaken Delve of Lord Greywulf,15.62,Timeiron,303.00,3255.00,-14.77,986265.0000,-4475.3100,1135145.23957800,07/03/2018 @ 12:00:00 AM
-4141,"Tsunami, Seraphim",The Pirate's Pipe,15.40,Mind Lead,13.00,756.00,199.17,9828.0000,2589.2100,14329.46034000,07/03/2018 @ 12:00:00 AM
-24137,"Lord of Plague, Alas",The Broken Arrow,17.60,Toxic Mistlead Of The Past,235.00,396.06,396.06,93074.1000,93074.1000,218910.28320000,07/03/2018 @ 12:00:00 AM
-26741,"Runetomb, Song",Reheath Stronghold,39.60,Foulopal Copper Of The Skies,79.00,221.83,201.66,17524.5700,15931.1400,46704.17116000,07/03/2018 @ 12:00:00 AM
+7920,"Maglioneth, Lord of the Sun",The Bastion of Sthasu the Gruesome,40.00,Zephyr Adamant,148.00,481.77,-44.14,71301.9600,-6532.7200,90676.93600000,07/03/2008 @ 12:00:00 AM
+4044,"Zepul, Lady of Vengeance",The Forsaken Delve of Lord Greywulf,15.62,Timeiron,303.00,3255.00,-14.77,986265.0000,-4475.3100,1135145.23957800,07/03/2008 @ 12:00:00 AM
+4141,"Seraphim, Tsunami",The Pirate's Pipe,15.40,Mind Lead,13.00,756.00,199.17,9828.0000,2589.2100,14329.46034000,07/03/2008 @ 12:00:00 AM
+24137,"Alas, Lord of Plague",The Broken Arrow,17.60,Toxic Mistlead Of The Past,235.00,396.06,396.06,93074.1000,93074.1000,218910.28320000,07/03/2008 @ 12:00:00 AM
+26741,"Song, Runetomb",Reheath Stronghold,39.60,Foulopal Copper Of The Skies,79.00,221.83,201.66,17524.5700,15931.1400,46704.17116000,07/03/2008 @ 12:00:00 AM

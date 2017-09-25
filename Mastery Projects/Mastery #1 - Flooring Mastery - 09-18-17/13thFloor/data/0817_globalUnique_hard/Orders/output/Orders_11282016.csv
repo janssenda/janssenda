@@ -1,20 +1,20 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-12548,"The Cadaverous, Chainblade",The Tomb of Hellish Ruin,33.00,Spirits' Living Wordhammer Tin Of The Trees,201.00,3897.55,128.70,783407.5500,25868.7000,1076337.41250000,11/28/2016 @ 12:00:00 AM
-36857,"Goddess of the Earth, Gono",The Fen of the Necromancer,32.21,Phantasmal Tin Of The Swamps,156.00,405.96,369.05,63329.7600,57571.8000,159843.95247600,11/28/2016 @ 12:00:00 AM
-34608,"Rougehate, Rune",Barad Kesa,6.17,Sprites' Transcendent Mud Lead Of The South,230.00,3338.65,267.08,767889.5000,61428.4000,880486.81443000,11/28/2016 @ 12:00:00 AM
-19030,"Mist, Claw",Mahyrst Keep,31.30,Vampires' Fang Emeraldsilver,163.00,2033.69,80.84,331491.4700,13176.9200,452549.59607000,11/28/2016 @ 12:00:00 AM
-32280,"The Blade, Steelterror",The Fen of the Necromancer,29.28,Magicians' Legendary Poison Metal,74.00,-52.81,-48.01,-3907.9400,-3552.7400,-9645.16710400,11/28/2016 @ 12:00:00 AM
-9209,"The Terrifying, Deathspike",The Tomb of Hellish Ruin,33.00,Djinni's Spectral Shadowlead Of Life,262.00,1718.00,259.12,450116.0000,67889.4400,688947.23520000,11/28/2016 @ 12:00:00 AM
-19314,"God of Resurrection, Gadriel",The Bastion of Barbos,25.41,Emerald Orichalcum,218.00,1957.00,129.81,426626.0000,28298.5800,570520.91577800,11/28/2016 @ 12:00:00 AM
-9392,"Brand, Lightning",The Tomb of Hellish Ruin,33.00,Primordial Plague Mercury Of Legend,142.00,1150.79,67.00,163412.1800,9514.0000,229991.81940000,11/28/2016 @ 12:00:00 AM
-8112,"The Evil, Burnchill",The Bastion of Sthasu the Gruesome,40.00,Zephyr Adamant,146.00,481.77,-44.14,70338.4200,-6444.4400,89451.57200000,11/28/2016 @ 12:00:00 AM
-33855,"Lord of Death, Addon",Barad Cune,49.21,Toxic Mistlead Of The Past,326.00,435.67,396.06,142028.4200,129115.5600,404573.93255800,11/28/2016 @ 12:00:00 AM
-30062,"Knightseraph, Lance",The Greedy Wench,13.31,White Platinum,234.00,101.02,91.84,23638.6800,21490.5600,51135.94184400,11/28/2016 @ 12:00:00 AM
-7141,Springsprocket,Noble's Village,4.94,Planar Mudtin Of Trolls,39.00,3529.02,174.00,137631.7800,6786.0000,151552.01833200,11/28/2016 @ 12:00:00 AM
-16220,"Wind, Maverick",North Arcanist's Farthing,2.75,Incubi's Iron Of The Dawn,200.00,174.99,174.99,34998.0000,34998.0000,71920.89000000,11/28/2016 @ 12:00:00 AM
-15060,"Mistseeker, Grave",The Fortress of Akkun the Grim,27.03,Angels' Adamant,289.00,51.48,46.80,14877.7200,13525.2000,36080.22927600,11/28/2016 @ 12:00:00 AM
-15368,"Brand, Lightning",The Fortress of Asmamur,-2.66,Starsmoke Bronze Of Life,293.00,-438.00,420.81,-128334.0000,123297.3300,-4902.69457800,11/28/2016 @ 12:00:00 AM
-14253,"Mystery, Lord",Gena's Hold,5.85,Mind Lead,290.00,241.00,219.09,69890.0000,63536.1000,141231.52685000,11/28/2016 @ 12:00:00 AM
-28927,"The Grasping, Nettool",The Nulukkhath Spires,28.99,Unknown Fatelightning Steel Of The Glacier,242.00,145.08,159.59,35109.3600,38620.7800,95104.50758600,11/28/2016 @ 12:00:00 AM
-27675,"Spiritraven, Bedlam",The Bastion of Gothmog of Udun,-2.42,Sprites' Transcendent Mud Lead Of The South,98.00,3338.65,267.08,327187.7000,26173.8400,344810.19073200,11/28/2016 @ 12:00:00 AM
-4861,"The Cremator, Blazeflare",Shainan's Hold,43.67,Fairies' Supreme Mistsmoke Lead Of The Future,143.00,2622.69,413.00,375044.6700,59059.0000,623676.74268900,11/28/2016 @ 12:00:00 AM
+12548,"The Cadaverous, Chainblade",The Tomb of Hellish Ruin,33.00,Spirits' Living Wordhammer Tin Of The Trees,201.00,3897.55,128.70,783407.5500,25868.7000,1076337.41250000,11/28/1946 @ 12:00:00 AM
+36857,"Goddess of the Earth, Gono",The Fen of the Necromancer,32.21,Phantasmal Tin Of The Swamps,156.00,405.96,369.05,63329.7600,57571.8000,159843.95247600,11/28/1946 @ 12:00:00 AM
+34608,"Rougehate, Rune",Barad Kesa,6.17,Sprites' Transcendent Mud Lead Of The South,230.00,3338.65,267.08,767889.5000,61428.4000,880486.81443000,11/28/1946 @ 12:00:00 AM
+19030,"Mist, Claw",Mahyrst Keep,31.30,Vampires' Fang Emeraldsilver,163.00,2033.69,80.84,331491.4700,13176.9200,452549.59607000,11/28/1976 @ 12:00:00 AM
+32280,"The Blade, Steelterror",The Fen of the Necromancer,29.28,Magicians' Legendary Poison Metal,74.00,-52.81,-48.01,-3907.9400,-3552.7400,-9645.16710400,11/28/1946 @ 12:00:00 AM
+9209,"The Terrifying, Deathspike",The Tomb of Hellish Ruin,33.00,Djinni's Spectral Shadowlead Of Life,262.00,1718.00,259.12,450116.0000,67889.4400,688947.23520000,11/28/1946 @ 12:00:00 AM
+19314,"God of Resurrection, Gadriel",The Bastion of Barbos,25.41,Emerald Orichalcum,218.00,1957.00,129.81,426626.0000,28298.5800,570520.91577800,11/28/1946 @ 12:00:00 AM
+9392,"Brand, Lightning",The Tomb of Hellish Ruin,33.00,Primordial Plague Mercury Of Legend,142.00,1150.79,67.00,163412.1800,9514.0000,229991.81940000,11/28/1946 @ 12:00:00 AM
+8112,"The Evil, Burnchill",The Bastion of Sthasu the Gruesome,40.00,Zephyr Adamant,146.00,481.77,-44.14,70338.4200,-6444.4400,89451.57200000,11/28/1946 @ 12:00:00 AM
+33855,"Lord of Death, Addon",Barad Cune,49.21,Toxic Mistlead Of The Past,326.00,435.67,396.06,142028.4200,129115.5600,404573.93255800,11/28/1946 @ 12:00:00 AM
+30062,"Knightseraph, Lance",The Greedy Wench,13.31,White Platinum,234.00,101.02,91.84,23638.6800,21490.5600,51135.94184400,11/28/1946 @ 12:00:00 AM
+7141,Springsprocket,Noble's Village,4.94,Planar Mudtin Of Trolls,39.00,3529.02,174.00,137631.7800,6786.0000,151552.01833200,11/28/1946 @ 12:00:00 AM
+16220,"Wind, Maverick",North Arcanist's Farthing,2.75,Incubi's Iron Of The Dawn,200.00,174.99,174.99,34998.0000,34998.0000,71920.89000000,11/28/1946 @ 12:00:00 AM
+15060,"Mistseeker, Grave",The Fortress of Akkun the Grim,27.03,Angels' Adamant,289.00,51.48,46.80,14877.7200,13525.2000,36080.22927600,11/28/1946 @ 12:00:00 AM
+15368,"Brand, Lightning",The Fortress of Asmamur,-2.66,Starsmoke Bronze Of Life,293.00,-438.00,420.81,-128334.0000,123297.3300,-4902.69457800,11/28/1946 @ 12:00:00 AM
+14253,"Mystery, Lord",Gena's Hold,5.85,Mind Lead,290.00,241.00,219.09,69890.0000,63536.1000,141231.52685000,11/28/1946 @ 12:00:00 AM
+28927,"The Grasping, Nettool",The Nulukkhath Spires,28.99,Unknown Fatelightning Steel Of The Glacier,242.00,145.08,159.59,35109.3600,38620.7800,95104.50758600,11/28/1946 @ 12:00:00 AM
+27675,"Spiritraven, Bedlam",The Bastion of Gothmog of Udun,-2.42,Sprites' Transcendent Mud Lead Of The South,98.00,3338.65,267.08,327187.7000,26173.8400,344810.19073200,11/28/1946 @ 12:00:00 AM
+4861,"The Cremator, Blazeflare",Shainan's Hold,43.67,Fairies' Supreme Mistsmoke Lead Of The Future,143.00,2622.69,413.00,375044.6700,59059.0000,623676.74268900,11/28/1946 @ 12:00:00 AM

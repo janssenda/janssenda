@@ -1,17 +1,17 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-2388,"The Blade, Scarefear",The Pirate's Pipe,15.40,Stone Soulsteel Of The Skies,226.00,3459.15,340.58,781767.9000,76971.0800,990984.78292000,04/16/2017 @ 12:00:00 AM
-13739,"The Skeletal, Spiketerror",Gifeld Castle,30.01,Pearl Mirrorice Steel Of Changelings,287.00,332.20,302.00,95341.4000,86674.0000,236638.22154000,04/16/2017 @ 12:00:00 AM
-23086,"Brand, Lightning",The Fortress of Akkun the Grim,27.03,Shadowhell Mithril,269.00,462.21,420.19,124334.4900,113031.1100,301525.52168000,04/16/2017 @ 12:00:00 AM
-12677,Springsprocket,Noble's Village,5.43,God-touched Greengem Platinum,220.00,206.95,206.95,45529.0000,45529.0000,96002.44940000,04/16/2017 @ 12:00:00 AM
-13951,"Goddess of Law, Eumyan",North Arcanist's Farthing,2.75,Vampires' Hammer Emeraldmetal,158.00,77.44,70.40,12235.5200,11123.2000,24001.08480000,04/16/2017 @ 12:00:00 AM
-11400,"Godwarlock, Sunrise",The Black Barrow of Bery,19.80,Shadow Metal,176.00,1606.00,298.00,282656.0000,52448.0000,401454.59200000,04/16/2017 @ 12:00:00 AM
-1476,Emberfire,The Broken Arrow,16.00,Glittering Orichalcum,129.00,2056.00,330.00,265224.0000,42570.0000,357041.04000000,04/16/2017 @ 12:00:00 AM
-23843,Gravebone,Fellfen Keep,38.00,Toxic Mistlead Of The Past,254.00,396.06,396.06,100599.2400,100599.2400,277653.90240000,04/16/2017 @ 12:00:00 AM
-22895,"Godwarlock, Sunrise",Moor Village,11.32,Tritons' Time Stoneiron Of Legend,201.00,341.59,341.59,68659.5900,68659.5900,152863.71117600,04/16/2017 @ 12:00:00 AM
-20694,"Mistmidnight, Tiger",Mahyrst Keep,31.30,Plague Tin,321.00,465.25,422.95,149345.2500,135766.9500,374352.31860000,04/16/2017 @ 12:00:00 AM
-30776,"Gust, Shadow",The Nulukkhath Spires,28.99,Foulopal Copper Of The Skies,153.00,221.83,221.83,33939.9900,33939.9900,87558.38620200,04/16/2017 @ 12:00:00 AM
-15117,"The Cremator, Blazeflare",Dysley Stronghold,35.51,Golems' Stonesapphire Gold Of The Glacier,143.00,176.00,160.00,25168.0000,22880.0000,65109.84480000,04/16/2017 @ 12:00:00 AM
-27295,"Rougehate, Rune",The Bastion of Gothmog of Udun,-2.42,Vampires' Hammer Emeraldmetal,240.00,93.70,85.18,22488.0000,20443.2000,41892.26496000,04/16/2017 @ 12:00:00 AM
-12204,Flameshiver,The Nulukkhath Spires,28.99,Mistgold Of Men,85.00,412.50,375.00,35062.5000,31875.0000,86342.68125000,04/16/2017 @ 12:00:00 AM
-24124,"Bladewitch, Zeal",The Scoundrel and Flask,45.25,Unicorns' Fatal Magma Metal Of The Ocean,312.00,25.30,23.00,7893.6000,7176.0000,21888.59400000,04/16/2017 @ 12:00:00 AM
-3584,Bronzespike,The Fortress of Gama,3.00,Forgotten Mithril,220.00,3909.75,451.00,860145.0000,99220.0000,988145.95000000,04/16/2017 @ 12:00:00 AM
+2388,"Scarefear, The Blade",The Pirate's Pipe,15.40,Stone Soulsteel Of The Skies,226.00,3459.15,340.58,781767.9000,76971.0800,990984.78292000,04/16/2007 @ 12:00:00 AM
+13739,"Spiketerror, The Skeletal",Gifeld Castle,30.01,Pearl Mirrorice Steel Of Changelings,287.00,332.20,302.00,95341.4000,86674.0000,236638.22154000,04/16/2007 @ 12:00:00 AM
+23086,"Lightning, Brand",The Fortress of Akkun the Grim,27.03,Shadowhell Mithril,269.00,462.21,420.19,124334.4900,113031.1100,301525.52168000,04/16/2017 @ 12:00:00 AM
+12677,Springsprocket,Noble's Village,5.43,God-touched Greengem Platinum,220.00,206.95,206.95,45529.0000,45529.0000,96002.44940000,04/16/2007 @ 12:00:00 AM
+13951,"Eumyan, Goddess of Law",North Arcanist's Farthing,2.75,Vampires' Hammer Emeraldmetal,158.00,77.44,70.40,12235.5200,11123.2000,24001.08480000,04/16/2007 @ 12:00:00 AM
+11400,"Sunrise, Godwarlock",The Black Barrow of Bery,19.80,Shadow Metal,176.00,1606.00,298.00,282656.0000,52448.0000,401454.59200000,04/16/2007 @ 12:00:00 AM
+1476,Emberfire,The Broken Arrow,16.00,Glittering Orichalcum,129.00,2056.00,330.00,265224.0000,42570.0000,357041.04000000,04/16/2007 @ 12:00:00 AM
+23843,Gravebone,Fellfen Keep,38.00,Toxic Mistlead Of The Past,254.00,396.06,396.06,100599.2400,100599.2400,277653.90240000,04/16/2007 @ 12:00:00 AM
+22895,"Sunrise, Godwarlock",Moor Village,11.32,Tritons' Time Stoneiron Of Legend,201.00,341.59,341.59,68659.5900,68659.5900,152863.71117600,04/16/2007 @ 12:00:00 AM
+20694,"Tiger, Mistmidnight",Mahyrst Keep,31.30,Plague Tin,321.00,465.25,422.95,149345.2500,135766.9500,374352.31860000,04/16/2007 @ 12:00:00 AM
+30776,"Shadow, Gust",The Nulukkhath Spires,28.99,Foulopal Copper Of The Skies,153.00,221.83,221.83,33939.9900,33939.9900,87558.38620200,04/16/2007 @ 12:00:00 AM
+15117,"Blazeflare, The Cremator",Dysley Stronghold,35.51,Golems' Stonesapphire Gold Of The Glacier,143.00,176.00,160.00,25168.0000,22880.0000,65109.84480000,04/16/2007 @ 12:00:00 AM
+27295,"Rune, Rougehate",The Bastion of Gothmog of Udun,-2.42,Vampires' Hammer Emeraldmetal,240.00,93.70,85.18,22488.0000,20443.2000,41892.26496000,04/16/2007 @ 12:00:00 AM
+12204,Flameshiver,The Nulukkhath Spires,28.99,Mistgold Of Men,85.00,412.50,375.00,35062.5000,31875.0000,86342.68125000,04/16/2007 @ 12:00:00 AM
+24124,"Zeal, Bladewitch",The Scoundrel and Flask,45.25,Unicorns' Fatal Magma Metal Of The Ocean,312.00,25.30,23.00,7893.6000,7176.0000,21888.59400000,04/16/2007 @ 12:00:00 AM
+3584,Bronzespike,The Fortress of Gama,3.00,Forgotten Mithril,220.00,3909.75,451.00,860145.0000,99220.0000,988145.95000000,04/16/2007 @ 12:00:00 AM

@@ -1,15 +1,15 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-35772,Metalbrood,The Fen of the Necromancer,32.21,Magicians' Legendary Poison Metal,271.00,-52.81,-48.01,-14311.5100,-13010.7100,-36122.70706200,07/26/2018 @ 12:00:00 AM
-1898,"Felldrake, Magus",The Archer and Blade,15.00,Foul Ice Bronze Of Life,284.00,-378.00,242.00,-107352.0000,68728.0000,-44417.60000000,07/26/2018 @ 12:00:00 AM
-22730,"Jackalguard, Gale",The Tower of Sabiesu the Awesome,10.00,Violetdream Iron,152.00,502.13,456.48,76323.7600,69384.9600,160279.59200000,07/26/2018 @ 12:00:00 AM
-20295,"Veil, Bane",The Lewd King,45.98,Unknowable Mindsilver,290.00,174.90,174.90,50721.0000,50721.0000,148085.03160000,07/26/2018 @ 12:00:00 AM
-34951,"Wolf, Jericho",The Bastion of the Vampire Duke,45.86,Sprites' Transcendent Mud Lead Of The South,183.00,3338.65,267.08,610972.9500,48875.6400,962455.15337400,07/26/2018 @ 12:00:00 AM
-31073,Beamtrap,Mahyrst Keep,31.30,Foulopal Copper Of The Skies,96.00,221.83,221.83,21295.6800,21295.6800,55922.45568000,07/26/2018 @ 12:00:00 AM
-20721,Deathbrood,Mahyrst Keep,31.30,Poison Adamant,242.00,110.96,100.87,26852.3200,24410.5400,67308.13518000,07/26/2018 @ 12:00:00 AM
-29298,"Tomblion, Shadow",Bifar's Deep,12.21,Hidden Shadowice Lead,197.00,-16.50,-16.50,-3250.5000,-3250.5000,-7294.77210000,07/26/2018 @ 12:00:00 AM
-31822,"God of Death, Selik",Weke Tower,47.19,Pearl Mirrorice Steel Of Changelings,267.00,365.42,365.42,97567.1400,97567.1400,287218.14673200,07/26/2018 @ 12:00:00 AM
-16388,"The Disinterred, Spikebrood",North Arcanist's Farthing,2.75,Tritons' Time Stoneiron Of Legend,91.00,341.59,341.59,31084.6900,31084.6900,63879.03795000,07/26/2018 @ 12:00:00 AM
-6453,"God of Animals, Byzou",The Wizard's House,20.00,Dragons' Poison Glitterflesh Steel Of The North,153.00,742.00,75.00,113526.0000,11475.0000,150001.20000000,07/26/2018 @ 12:00:00 AM
-5190,"Spiritraven, Bedlam",The Barrow of Terrible Horror,24.90,Negative Rockglitter Mercury Of Trolls,188.00,3502.00,194.70,658376.0000,36603.6000,868029.52040000,07/26/2018 @ 12:00:00 AM
-30851,"The Freezer, Burnbrood",The Fortress of Akkun the Grim,27.03,Foulopal Copper Of The Skies,265.00,221.83,221.83,58784.9500,58784.9500,149349.04397000,07/26/2018 @ 12:00:00 AM
-12266,"Veil, Bane",The Citadel of Tattena the Sinister,22.39,Phantasmal Tin Of The Swamps,153.00,3207.64,305.00,490768.9200,46665.0000,657765.37468800,07/26/2018 @ 12:00:00 AM
+35772,Metalbrood,The Fen of the Necromancer,32.21,Magicians' Legendary Poison Metal,271.00,-52.81,-48.01,-14311.5100,-13010.7100,-36122.70706200,07/26/1948 @ 12:00:00 AM
+1898,"Felldrake, Magus",The Archer and Blade,15.00,Foul Ice Bronze Of Life,284.00,-378.00,242.00,-107352.0000,68728.0000,-44417.60000000,07/26/1978 @ 12:00:00 AM
+22730,"Jackalguard, Gale",The Tower of Sabiesu the Awesome,10.00,Violetdream Iron,152.00,502.13,456.48,76323.7600,69384.9600,160279.59200000,07/26/1948 @ 12:00:00 AM
+20295,"Veil, Bane",The Lewd King,45.98,Unknowable Mindsilver,290.00,174.90,174.90,50721.0000,50721.0000,148085.03160000,07/26/1948 @ 12:00:00 AM
+34951,"Wolf, Jericho",The Bastion of the Vampire Duke,45.86,Sprites' Transcendent Mud Lead Of The South,183.00,3338.65,267.08,610972.9500,48875.6400,962455.15337400,07/26/1948 @ 12:00:00 AM
+31073,Beamtrap,Mahyrst Keep,31.30,Foulopal Copper Of The Skies,96.00,221.83,221.83,21295.6800,21295.6800,55922.45568000,07/26/1948 @ 12:00:00 AM
+20721,Deathbrood,Mahyrst Keep,31.30,Poison Adamant,242.00,110.96,100.87,26852.3200,24410.5400,67308.13518000,07/26/1948 @ 12:00:00 AM
+29298,"Tomblion, Shadow",Bifar's Deep,12.21,Hidden Shadowice Lead,197.00,-16.50,-16.50,-3250.5000,-3250.5000,-7294.77210000,07/26/1948 @ 12:00:00 AM
+31822,"God of Death, Selik",Weke Tower,47.19,Pearl Mirrorice Steel Of Changelings,267.00,365.42,365.42,97567.1400,97567.1400,287218.14673200,07/26/1948 @ 12:00:00 AM
+16388,"The Disinterred, Spikebrood",North Arcanist's Farthing,2.75,Tritons' Time Stoneiron Of Legend,91.00,341.59,341.59,31084.6900,31084.6900,63879.03795000,07/26/1948 @ 12:00:00 AM
+6453,"God of Animals, Byzou",The Wizard's House,20.00,Dragons' Poison Glitterflesh Steel Of The North,153.00,742.00,75.00,113526.0000,11475.0000,150001.20000000,07/26/1948 @ 12:00:00 AM
+5190,"Spiritraven, Bedlam",The Barrow of Terrible Horror,24.90,Negative Rockglitter Mercury Of Trolls,188.00,3502.00,194.70,658376.0000,36603.6000,868029.52040000,07/26/1948 @ 12:00:00 AM
+30851,"The Freezer, Burnbrood",The Fortress of Akkun the Grim,27.03,Foulopal Copper Of The Skies,265.00,221.83,221.83,58784.9500,58784.9500,149349.04397000,07/26/1948 @ 12:00:00 AM
+12266,"Veil, Bane",The Citadel of Tattena the Sinister,22.39,Phantasmal Tin Of The Swamps,153.00,3207.64,305.00,490768.9200,46665.0000,657765.37468800,07/26/1948 @ 12:00:00 AM

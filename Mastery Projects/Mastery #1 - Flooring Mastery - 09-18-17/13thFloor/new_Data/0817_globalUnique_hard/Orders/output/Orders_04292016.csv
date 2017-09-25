@@ -1,20 +1,20 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-11029,"Lord of the Sun, Maglioneth",The Fen of the Necromancer,20.00,Mistgold Of Men,24.00,412.50,375.00,9900.0000,9000.0000,22680.00000000,04/29/2016 @ 12:00:00 AM
-37840,"Anchor, Rose",The Greedy Wench,13.31,Ghouls' Imperial Soulzephyr Mithril Of The Seas,103.00,318.23,318.23,32777.6900,32777.6900,74280.80107800,04/29/2016 @ 12:00:00 AM
-23294,"The Trapper, Boltcrank",Moor Village,11.32,Tritons' Time Stoneiron Of Legend,251.00,341.59,341.59,85739.0900,85739.0900,190889.50997600,04/29/2016 @ 12:00:00 AM
+11029,"Maglioneth, Lord of the Sun",The Fen of the Necromancer,20.00,Mistgold Of Men,24.00,412.50,375.00,9900.0000,9000.0000,22680.00000000,04/29/2006 @ 12:00:00 AM
+37840,"Rose, Anchor",The Greedy Wench,13.31,Ghouls' Imperial Soulzephyr Mithril Of The Seas,103.00,318.23,318.23,32777.6900,32777.6900,74280.80107800,04/29/2006 @ 12:00:00 AM
+23294,"Boltcrank, The Trapper",Moor Village,11.32,Tritons' Time Stoneiron Of Legend,251.00,341.59,341.59,85739.0900,85739.0900,190889.50997600,04/29/2006 @ 12:00:00 AM
 12796,Springsprocket,The Tomb of Hellish Ruin,33.00,God-touched Greengem Platinum,60.00,206.95,206.95,12417.0000,12417.0000,33029.22000000,04/29/2016 @ 12:00:00 AM
-36681,"The Freezer, Shiverflame",The Fen of the Necromancer,32.21,Heavenly Dreamsilver Of The Night,177.00,719.00,346.06,127263.0000,61252.6200,249236.50120200,04/29/2016 @ 12:00:00 AM
-35570,"The Evil, Snowflame",The Fen of the Necromancer,32.21,Yellow Mistearth Copper,57.00,287.98,261.80,16414.8600,14922.6000,41431.25586600,04/29/2016 @ 12:00:00 AM
-35692,"Seeker, Fate",The Fen of the Necromancer,32.21,Magicians' Legendary Poison Metal,98.00,-52.81,-48.01,-5175.3800,-4704.9800,-13062.82395600,04/29/2016 @ 12:00:00 AM
-1765,Emberfire,The Forsaken Delve of Lord Greywulf,15.62,Foul Ice Bronze Of Life,242.00,-378.00,242.00,-91476.0000,58564.0000,-38052.85440000,04/29/2016 @ 12:00:00 AM
-19060,"Goddess of Fate, Azah",Weke Tower,47.19,Golems' Stonesapphire Gold Of The Glacier,206.00,176.00,160.00,36256.0000,32960.0000,101879.03040000,04/29/2016 @ 12:00:00 AM
-30056,"Goddess of Fate, Azah",The Greedy Wench,13.31,Heavenly Dreamsilver Of The Night,52.00,719.00,314.60,37388.0000,16359.2000,60900.95232000,04/29/2016 @ 12:00:00 AM
-18390,Gravebone,Gili's Delve,35.89,Undeads' Mind Orichalcum Of The Twilight,165.00,1169.00,331.54,192885.0000,54704.1000,336448.82799000,04/29/2016 @ 12:00:00 AM
-16621,"Lord of Nightmares, Iran",The Bastion of the Lich Tyrant,7.14,Undeads' Mind Orichalcum Of The Twilight,105.00,1169.00,301.40,122745.0000,31647.0000,165415.58880000,04/29/2016 @ 12:00:00 AM
-26014,Evilbrood,The Pirate's Pipe,16.94,Fleshshock Mercury,106.00,-31.02,-28.20,-3288.1200,-2989.2000,-7340.69800800,04/29/2016 @ 12:00:00 AM
-26120,"Lord of Death, Addon",Archfane District,15.29,Toxic Mistlead Of The Past,253.00,396.06,396.06,100203.1800,100203.1800,231048.49244400,04/29/2016 @ 12:00:00 AM
-14283,"Lawslayer, Valentine",The Archer and Scroll,49.68,Mithril Of The Tropics,108.00,251.56,251.56,27168.4800,27168.4800,81331.56172800,04/29/2016 @ 12:00:00 AM
-14549,"The Skeletal, Spiketerror",Gena's Hold,5.85,Djinni's Evil Sandobsidian Steel Of The Future,34.00,140.58,140.58,4779.7200,4779.7200,10118.66724000,04/29/2016 @ 12:00:00 AM
-4600,"Knightseraph, Lance",Eved Castle,28.00,Incubi's Glittering Tin Of The Future,221.00,4393.29,175.42,970917.0900,38767.8200,1292396.68480000,04/29/2016 @ 12:00:00 AM
-13435,"Lord of Nightmares, Iran",The Hunter and Rose,39.60,Warlocks' Timerot Mithril,212.00,725.00,176.95,153700.0000,37513.4000,266933.90640000,04/29/2016 @ 12:00:00 AM
-24186,"Godseeker, Cult",Bifar's Deep,12.21,Djinni's Mind Fogiron,288.00,57.23,57.23,16482.2400,16482.2400,36989.44300800,04/29/2016 @ 12:00:00 AM
+36681,"Shiverflame, The Freezer",The Fen of the Necromancer,32.21,Heavenly Dreamsilver Of The Night,177.00,719.00,346.06,127263.0000,61252.6200,249236.50120200,04/29/2006 @ 12:00:00 AM
+35570,"Snowflame, The Evil",The Fen of the Necromancer,32.21,Yellow Mistearth Copper,57.00,287.98,261.80,16414.8600,14922.6000,41431.25586600,04/29/2006 @ 12:00:00 AM
+35692,"Fate, Seeker",The Fen of the Necromancer,32.21,Magicians' Legendary Poison Metal,98.00,-52.81,-48.01,-5175.3800,-4704.9800,-13062.82395600,04/29/2006 @ 12:00:00 AM
+1765,Emberfire,The Forsaken Delve of Lord Greywulf,15.62,Foul Ice Bronze Of Life,242.00,-378.00,242.00,-91476.0000,58564.0000,-38052.85440000,04/29/2006 @ 12:00:00 AM
+19060,"Azah, Goddess of Fate",Weke Tower,47.19,Golems' Stonesapphire Gold Of The Glacier,206.00,176.00,160.00,36256.0000,32960.0000,101879.03040000,04/29/2006 @ 12:00:00 AM
+30056,"Azah, Goddess of Fate",The Greedy Wench,13.31,Heavenly Dreamsilver Of The Night,52.00,719.00,314.60,37388.0000,16359.2000,60900.95232000,04/29/2006 @ 12:00:00 AM
+18390,Gravebone,Gili's Delve,35.89,Undeads' Mind Orichalcum Of The Twilight,165.00,1169.00,331.54,192885.0000,54704.1000,336448.82799000,04/29/2006 @ 12:00:00 AM
+16621,"Iran, Lord of Nightmares",The Bastion of the Lich Tyrant,7.14,Undeads' Mind Orichalcum Of The Twilight,105.00,1169.00,301.40,122745.0000,31647.0000,165415.58880000,04/29/2006 @ 12:00:00 AM
+26014,Evilbrood,The Pirate's Pipe,16.94,Fleshshock Mercury,106.00,-31.02,-28.20,-3288.1200,-2989.2000,-7340.69800800,04/29/2006 @ 12:00:00 AM
+26120,"Addon, Lord of Death",Archfane District,15.29,Toxic Mistlead Of The Past,253.00,396.06,396.06,100203.1800,100203.1800,231048.49244400,04/29/2006 @ 12:00:00 AM
+14283,"Valentine, Lawslayer",The Archer and Scroll,49.68,Mithril Of The Tropics,108.00,251.56,251.56,27168.4800,27168.4800,81331.56172800,04/29/2016 @ 12:00:00 AM
+14549,"Spiketerror, The Skeletal",Gena's Hold,5.85,Djinni's Evil Sandobsidian Steel Of The Future,34.00,140.58,140.58,4779.7200,4779.7200,10118.66724000,04/29/2006 @ 12:00:00 AM
+4600,"Lance, Knightseraph",Eved Castle,28.00,Incubi's Glittering Tin Of The Future,221.00,4393.29,175.42,970917.0900,38767.8200,1292396.68480000,04/29/2016 @ 12:00:00 AM
+13435,"Iran, Lord of Nightmares",The Hunter and Rose,39.60,Warlocks' Timerot Mithril,212.00,725.00,176.95,153700.0000,37513.4000,266933.90640000,04/29/2006 @ 12:00:00 AM
+24186,"Cult, Godseeker",Bifar's Deep,12.21,Djinni's Mind Fogiron,288.00,57.23,57.23,16482.2400,16482.2400,36989.44300800,04/29/2006 @ 12:00:00 AM

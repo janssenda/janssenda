@@ -1,19 +1,19 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-2360,Ironbrood,The Bloody Wand,1.98,Forgotten Mithril,22.00,3909.75,451.00,86014.5000,9922.0000,97836.04270000,01/29/2017 @ 12:00:00 AM
-13773,"Godwarlock, Sunrise",The Citadel of Alammius,27.00,Starsmoke Bronze Of Life,104.00,-438.00,420.81,-45552.0000,43764.2400,-2270.45520000,01/29/2017 @ 12:00:00 AM
-1151,"Goddess of Trickery, Alik",The Citadel of Lord Greywulf,19.00,Falserainbow Lead,149.00,872.99,58.00,130075.5100,8642.0000,165073.83690000,01/29/2017 @ 12:00:00 AM
-10234,"Godseeker, Cult",The Pirate's Pipe,15.40,Emerald Orichalcum,142.00,1957.00,118.01,277894.0000,16757.4200,340027.73868000,01/29/2017 @ 12:00:00 AM
-23763,"The Constructed, Snaretool",Fellfen Keep,38.00,Unicorns' Fatal Magma Metal Of The Ocean,88.00,25.30,23.00,2226.4000,2024.0000,5865.55200000,01/29/2017 @ 12:00:00 AM
-23863,"The Cold, Burnfreeze",The Dungeon of Merciless Woe,3.97,Tritons' Time Stoneiron Of Legend,271.00,341.59,375.75,92570.8900,101828.2500,202116.78585800,01/29/2017 @ 12:00:00 AM
-19136,Springsprocket,Weke Tower,47.19,Toxic Mistlead Of The Past,268.00,396.06,396.06,106144.0800,106144.0800,312466.94270400,01/29/2017 @ 12:00:00 AM
-31285,Spikespawn,Noble's Village,6.57,Fairies' Supreme Mistsmoke Lead Of The Future,219.00,499.73,549.70,109440.8700,120384.3000,244924.68366900,01/29/2017 @ 12:00:00 AM
-19634,"Lord of the Sun, Maglioneth",The Bastion of Barbos,25.41,Toxic Mistlead Of The Past,193.00,396.06,396.06,76439.5800,76439.5800,191725.75455600,01/29/2017 @ 12:00:00 AM
-142,"God of Protection, Finarfin",The Dungeon of Merciless Woe,3.61,Emerald Orichalcum,215.00,1957.00,118.01,420755.0000,25372.1500,462232.34011500,01/29/2017 @ 12:00:00 AM
-19992,"Godseeker, Cult",Dysley Stronghold,35.51,Shadow Metal,285.00,1606.00,298.00,457710.0000,84930.0000,735331.46400000,01/29/2017 @ 12:00:00 AM
-30568,"The Unspeakable, Gravebone",The Fortress of Akkun the Grim,27.03,Witchs' Forbidden Rockrainbow Bronze,249.00,245.63,245.63,61161.8700,61161.8700,155387.84692200,01/29/2017 @ 12:00:00 AM
-31876,"Felldrake, Magus",Hafeld Keep,47.59,Pearl Mirrorice Steel Of Changelings,45.00,365.42,365.42,16443.9000,16443.9000,48539.10402000,01/29/2017 @ 12:00:00 AM
-31945,Cinderember,The Bastion of Gothmog of Udun,-2.66,Fairies' Supreme Mistsmoke Lead Of The Future,300.00,499.73,549.70,149919.0000,164910.0000,306454.54860000,01/29/2017 @ 12:00:00 AM
-16543,"Anchor, Rose",The Fortress of Akkun the Grim,27.03,Lycanthropes' Gold,129.00,371.80,338.00,47962.2000,43602.0000,116314.00326000,01/29/2017 @ 12:00:00 AM
-7963,"Brand, Lightning",Archtemple District,37.85,Phantasmal Smokezephyr Mercury Of Men,214.00,211.20,192.00,45196.8000,41088.0000,118943.59680000,01/29/2017 @ 12:00:00 AM
-4250,Spikespawn,Pawic Keep,31.90,Sphinxes' Unknown Poisongold Of The Future,273.00,3971.47,14.30,1084211.3100,3903.9000,1435223.96199000,01/29/2017 @ 12:00:00 AM
-27771,"Darkzealot, Dawn",The Pirate's Pipe,16.94,Vampires' Hammer Emeraldmetal,151.00,93.70,85.18,14148.7000,12862.1800,31586.52307200,01/29/2017 @ 12:00:00 AM
+2360,Ironbrood,The Bloody Wand,1.98,Forgotten Mithril,22.00,3909.75,451.00,86014.5000,9922.0000,97836.04270000,01/29/1947 @ 12:00:00 AM
+13773,"Godwarlock, Sunrise",The Citadel of Alammius,27.00,Starsmoke Bronze Of Life,104.00,-438.00,420.81,-45552.0000,43764.2400,-2270.45520000,01/29/1947 @ 12:00:00 AM
+1151,"Goddess of Trickery, Alik",The Citadel of Lord Greywulf,19.00,Falserainbow Lead,149.00,872.99,58.00,130075.5100,8642.0000,165073.83690000,01/29/1947 @ 12:00:00 AM
+10234,"Godseeker, Cult",The Pirate's Pipe,15.40,Emerald Orichalcum,142.00,1957.00,118.01,277894.0000,16757.4200,340027.73868000,01/29/1987 @ 12:00:00 AM
+23763,"The Constructed, Snaretool",Fellfen Keep,38.00,Unicorns' Fatal Magma Metal Of The Ocean,88.00,25.30,23.00,2226.4000,2024.0000,5865.55200000,01/29/1977 @ 12:00:00 AM
+23863,"The Cold, Burnfreeze",The Dungeon of Merciless Woe,3.97,Tritons' Time Stoneiron Of Legend,271.00,341.59,375.75,92570.8900,101828.2500,202116.78585800,01/29/1947 @ 12:00:00 AM
+19136,Springsprocket,Weke Tower,47.19,Toxic Mistlead Of The Past,268.00,396.06,396.06,106144.0800,106144.0800,312466.94270400,01/29/1947 @ 12:00:00 AM
+31285,Spikespawn,Noble's Village,6.57,Fairies' Supreme Mistsmoke Lead Of The Future,219.00,499.73,549.70,109440.8700,120384.3000,244924.68366900,01/29/1947 @ 12:00:00 AM
+19634,"Lord of the Sun, Maglioneth",The Bastion of Barbos,25.41,Toxic Mistlead Of The Past,193.00,396.06,396.06,76439.5800,76439.5800,191725.75455600,01/29/1947 @ 12:00:00 AM
+142,"God of Protection, Finarfin",The Dungeon of Merciless Woe,3.61,Emerald Orichalcum,215.00,1957.00,118.01,420755.0000,25372.1500,462232.34011500,01/29/1947 @ 12:00:00 AM
+19992,"Godseeker, Cult",Dysley Stronghold,35.51,Shadow Metal,285.00,1606.00,298.00,457710.0000,84930.0000,735331.46400000,01/29/1947 @ 12:00:00 AM
+30568,"The Unspeakable, Gravebone",The Fortress of Akkun the Grim,27.03,Witchs' Forbidden Rockrainbow Bronze,249.00,245.63,245.63,61161.8700,61161.8700,155387.84692200,01/29/1947 @ 12:00:00 AM
+31876,"Felldrake, Magus",Hafeld Keep,47.59,Pearl Mirrorice Steel Of Changelings,45.00,365.42,365.42,16443.9000,16443.9000,48539.10402000,01/29/1987 @ 12:00:00 AM
+31945,Cinderember,The Bastion of Gothmog of Udun,-2.66,Fairies' Supreme Mistsmoke Lead Of The Future,300.00,499.73,549.70,149919.0000,164910.0000,306454.54860000,01/29/1987 @ 12:00:00 AM
+16543,"Anchor, Rose",The Fortress of Akkun the Grim,27.03,Lycanthropes' Gold,129.00,371.80,338.00,47962.2000,43602.0000,116314.00326000,01/29/1947 @ 12:00:00 AM
+7963,"Brand, Lightning",Archtemple District,37.85,Phantasmal Smokezephyr Mercury Of Men,214.00,211.20,192.00,45196.8000,41088.0000,118943.59680000,01/29/1947 @ 12:00:00 AM
+4250,Spikespawn,Pawic Keep,31.90,Sphinxes' Unknown Poisongold Of The Future,273.00,3971.47,14.30,1084211.3100,3903.9000,1435223.96199000,01/29/1947 @ 12:00:00 AM
+27771,"Darkzealot, Dawn",The Pirate's Pipe,16.94,Vampires' Hammer Emeraldmetal,151.00,93.70,85.18,14148.7000,12862.1800,31586.52307200,01/29/1947 @ 12:00:00 AM

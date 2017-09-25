@@ -1,16 +1,16 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-1398,"God of Love, Prusu",The Warrior and Flagon,9.00,Glittering Orichalcum,213.00,2056.00,330.00,437928.0000,70290.0000,553957.62000000,07/01/2018 @ 12:00:00 AM
-33347,"Goddess of Knowledge, Baltha",Pewold Keep,29.00,Undeads' Mind Orichalcum Of The Twilight,161.00,1169.00,364.69,188209.0000,58715.0900,318532.07610000,07/01/2018 @ 12:00:00 AM
-21299,"The Evil, Burnchill",Reyny Keep,-3.35,Witchs' Forbidden Rockrainbow Bronze,195.00,245.63,245.63,47897.8500,47897.8500,92586.54405000,07/01/2018 @ 12:00:00 AM
-32101,"Lady of Fire, Nelalwe",The Demon and Toad,-1.21,Pearl Mirrorice Steel Of Changelings,219.00,365.42,365.42,80026.9800,80026.9800,158117.30708400,07/01/2018 @ 12:00:00 AM
-34864,"Drakecaster, Sephiroth",Barad Kesa,6.17,Ghouls' Imperial Soulzephyr Mithril Of The Seas,259.00,318.23,318.23,82421.5700,82421.5700,175013.96173800,07/01/2018 @ 12:00:00 AM
-32265,"God of Death, Avriel",North Arcanist's Farthing,3.66,Grayplatinum,181.00,2548.00,104.94,461188.0000,18994.1400,497756.80632400,07/01/2018 @ 12:00:00 AM
-8059,"God of Resurrection, Gadriel",The Grey Plains,39.19,Unicorns' Fatal Magma Metal Of The Ocean,304.00,903.00,23.00,274512.0000,6992.0000,391825.41760000,07/01/2018 @ 12:00:00 AM
-9404,Graveterror,The Lost Crypts of Sorrows,2.20,Primordial Plague Mercury Of Legend,289.00,1150.79,67.00,332578.3100,19363.0000,359684.01882000,07/01/2018 @ 12:00:00 AM
-8268,"Squallmourner, Storm",The Black Barrow of Bery,19.80,Phantasmal Smokezephyr Mercury Of Men,249.00,211.20,192.00,52588.8000,47808.0000,120275.36640000,07/01/2018 @ 12:00:00 AM
-19621,Gravebone,Weke Tower,47.19,Foul Ice Bronze Of Life,266.00,292.82,266.20,77890.1200,70809.2000,218870.52910800,07/01/2018 @ 12:00:00 AM
-18445,"The Disinterred, Spikebrood",Barad Cune,49.21,Spirits' Living Wordhammer Tin Of The Trees,194.00,141.57,128.70,27464.5800,24967.8000,78234.35419800,07/01/2018 @ 12:00:00 AM
-19723,Freezebrood,Eved Castle,30.80,Shadow Metal,139.00,1606.00,298.00,223234.0000,41422.0000,346170.04800000,07/01/2018 @ 12:00:00 AM
-28092,"Goddess of Knowledge, Ahah",Barad Kesa,5.61,Stone Soulsteel Of The Skies,168.00,453.31,412.10,76156.0800,69232.8000,153545.19616800,07/01/2018 @ 12:00:00 AM
-16649,"Goddess of Knowledge, Baltha",Khali's Delve,1.18,Lycanthropes' Gold,49.00,371.80,338.00,18218.2000,16562.0000,35190.60636000,07/01/2018 @ 12:00:00 AM
-25509,Graveterror,Gili's Delve,35.89,Incubi's Iron Of The Dawn,211.00,192.49,174.99,40615.3900,36922.8900,105366.76869200,07/01/2018 @ 12:00:00 AM
+1398,"God of Love, Prusu",The Warrior and Flagon,9.00,Glittering Orichalcum,213.00,2056.00,330.00,437928.0000,70290.0000,553957.62000000,07/01/1948 @ 12:00:00 AM
+33347,"Goddess of Knowledge, Baltha",Pewold Keep,29.00,Undeads' Mind Orichalcum Of The Twilight,161.00,1169.00,364.69,188209.0000,58715.0900,318532.07610000,07/01/1948 @ 12:00:00 AM
+21299,"The Evil, Burnchill",Reyny Keep,-3.35,Witchs' Forbidden Rockrainbow Bronze,195.00,245.63,245.63,47897.8500,47897.8500,92586.54405000,07/01/1978 @ 12:00:00 AM
+32101,"Lady of Fire, Nelalwe",The Demon and Toad,-1.21,Pearl Mirrorice Steel Of Changelings,219.00,365.42,365.42,80026.9800,80026.9800,158117.30708400,07/01/1948 @ 12:00:00 AM
+34864,"Drakecaster, Sephiroth",Barad Kesa,6.17,Ghouls' Imperial Soulzephyr Mithril Of The Seas,259.00,318.23,318.23,82421.5700,82421.5700,175013.96173800,07/01/1948 @ 12:00:00 AM
+32265,"God of Death, Avriel",North Arcanist's Farthing,3.66,Grayplatinum,181.00,2548.00,104.94,461188.0000,18994.1400,497756.80632400,07/01/1948 @ 12:00:00 AM
+8059,"God of Resurrection, Gadriel",The Grey Plains,39.19,Unicorns' Fatal Magma Metal Of The Ocean,304.00,903.00,23.00,274512.0000,6992.0000,391825.41760000,07/01/1948 @ 12:00:00 AM
+9404,Graveterror,The Lost Crypts of Sorrows,2.20,Primordial Plague Mercury Of Legend,289.00,1150.79,67.00,332578.3100,19363.0000,359684.01882000,07/01/1948 @ 12:00:00 AM
+8268,"Squallmourner, Storm",The Black Barrow of Bery,19.80,Phantasmal Smokezephyr Mercury Of Men,249.00,211.20,192.00,52588.8000,47808.0000,120275.36640000,07/01/1948 @ 12:00:00 AM
+19621,Gravebone,Weke Tower,47.19,Foul Ice Bronze Of Life,266.00,292.82,266.20,77890.1200,70809.2000,218870.52910800,07/01/1978 @ 12:00:00 AM
+18445,"The Disinterred, Spikebrood",Barad Cune,49.21,Spirits' Living Wordhammer Tin Of The Trees,194.00,141.57,128.70,27464.5800,24967.8000,78234.35419800,07/01/1948 @ 12:00:00 AM
+19723,Freezebrood,Eved Castle,30.80,Shadow Metal,139.00,1606.00,298.00,223234.0000,41422.0000,346170.04800000,07/01/1948 @ 12:00:00 AM
+28092,"Goddess of Knowledge, Ahah",Barad Kesa,5.61,Stone Soulsteel Of The Skies,168.00,453.31,412.10,76156.0800,69232.8000,153545.19616800,07/01/1948 @ 12:00:00 AM
+16649,"Goddess of Knowledge, Baltha",Khali's Delve,1.18,Lycanthropes' Gold,49.00,371.80,338.00,18218.2000,16562.0000,35190.60636000,07/01/1948 @ 12:00:00 AM
+25509,Graveterror,Gili's Delve,35.89,Incubi's Iron Of The Dawn,211.00,192.49,174.99,40615.3900,36922.8900,105366.76869200,07/01/1948 @ 12:00:00 AM

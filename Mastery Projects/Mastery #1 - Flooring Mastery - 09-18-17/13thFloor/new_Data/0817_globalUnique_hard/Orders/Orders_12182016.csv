@@ -1,14 +1,14 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-33009,"Goddess of the Earth, Gono",Pewold Keep,29.00,Mind Lead,61.00,241.00,219.09,14701.0000,13364.4900,36204.48210000,12/18/2016 @ 12:00:00 AM
-22463,"God of Death, Avriel",Pewold Keep,29.00,Fog Lavaplatinum Of Life,178.00,560.35,509.41,99742.3000,90674.9800,245638.29120000,12/18/2016 @ 12:00:00 AM
-23918,"Brand, Lightning",The Forsaken Sepulcher of Sorrows,31.36,Tritons' Time Stoneiron Of Legend,41.00,341.59,375.75,14005.1900,15405.7500,38634.21078400,12/18/2016 @ 12:00:00 AM
-30013,"God of Death, Selik",The Tower of Sabiesu the Awesome,10.00,Incubi's Glittering Tin Of The Future,163.00,192.96,233.49,31452.4800,38058.8700,76462.48500000,12/18/2016 @ 12:00:00 AM
-18612,Deathbrood,The Dancing Minstrel,39.62,Phantasmal Tin Of The Swamps,139.00,3207.64,335.50,445861.9600,46634.5000,687623.55745200,12/18/2016 @ 12:00:00 AM
+33009,"Gono, Goddess of the Earth",Pewold Keep,29.00,Mind Lead,61.00,241.00,219.09,14701.0000,13364.4900,36204.48210000,12/18/2006 @ 12:00:00 AM
+22463,"Avriel, God of Death",Pewold Keep,29.00,Fog Lavaplatinum Of Life,178.00,560.35,509.41,99742.3000,90674.9800,245638.29120000,12/18/2016 @ 12:00:00 AM
+23918,"Lightning, Brand",The Forsaken Sepulcher of Sorrows,31.36,Tritons' Time Stoneiron Of Legend,41.00,341.59,375.75,14005.1900,15405.7500,38634.21078400,12/18/2006 @ 12:00:00 AM
+30013,"Selik, God of Death",The Tower of Sabiesu the Awesome,10.00,Incubi's Glittering Tin Of The Future,163.00,192.96,233.49,31452.4800,38058.8700,76462.48500000,12/18/2006 @ 12:00:00 AM
+18612,Deathbrood,The Dancing Minstrel,39.62,Phantasmal Tin Of The Swamps,139.00,3207.64,335.50,445861.9600,46634.5000,687623.55745200,12/18/2006 @ 12:00:00 AM
 16470,Bronzespawn,Gili's Delve,35.89,Tritons' Time Stoneiron Of Legend,326.00,341.59,341.59,111358.3400,111358.3400,302649.69645200,12/18/2016 @ 12:00:00 AM
-29774,"The Cold, Burnfreeze",The Tower of Sabiesu the Awesome,10.00,Incubi's Glittering Tin Of The Future,266.00,192.96,233.49,51327.3600,62108.3400,124779.27000000,12/18/2016 @ 12:00:00 AM
-27474,"God of Fate, Sielach",The Bastion of Gothmog of Udun,-2.42,Vampires' Hammer Emeraldmetal,171.00,93.70,85.18,16022.7000,14565.7800,29848.23878400,12/18/2016 @ 12:00:00 AM
-15956,Wheelspawn,The Dungeon of Merciless Woe,3.61,Starsmoke Bronze Of Life,207.00,-438.00,420.81,-90666.0000,87107.6700,-3686.78571300,12/18/2016 @ 12:00:00 AM
-37336,"Gust, Shadow",The Greedy Wench,13.31,Ghouls' Imperial Soulzephyr Mithril Of The Seas,186.00,318.23,318.23,59190.7800,59190.7800,134138.14563600,12/18/2016 @ 12:00:00 AM
-13436,Deathbrood,The Hunter and Rose,39.60,Magicians' Legendary Poison Metal,209.00,-52.81,-48.01,-11037.2900,-10034.0900,-29415.64648000,12/18/2016 @ 12:00:00 AM
-4855,"Roguemist, Rouge",Shainan's Hold,43.67,Sphinxes' Unknown Poisongold Of The Future,191.00,3971.47,14.30,758550.7700,2731.3000,1093733.94996900,12/18/2016 @ 12:00:00 AM
-4958,"Amberslayer, Flora",The Cracked Chalice,-4.81,God-touched Greengem Platinum,124.00,2181.36,188.14,270488.6400,23329.3600,279685.35420000,12/18/2016 @ 12:00:00 AM
+29774,"Burnfreeze, The Cold",The Tower of Sabiesu the Awesome,10.00,Incubi's Glittering Tin Of The Future,266.00,192.96,233.49,51327.3600,62108.3400,124779.27000000,12/18/2006 @ 12:00:00 AM
+27474,"Sielach, God of Fate",The Bastion of Gothmog of Udun,-2.42,Vampires' Hammer Emeraldmetal,171.00,93.70,85.18,16022.7000,14565.7800,29848.23878400,12/18/2006 @ 12:00:00 AM
+15956,Wheelspawn,The Dungeon of Merciless Woe,3.61,Starsmoke Bronze Of Life,207.00,-438.00,420.81,-90666.0000,87107.6700,-3686.78571300,12/18/2006 @ 12:00:00 AM
+37336,"Shadow, Gust",The Greedy Wench,13.31,Ghouls' Imperial Soulzephyr Mithril Of The Seas,186.00,318.23,318.23,59190.7800,59190.7800,134138.14563600,12/18/2006 @ 12:00:00 AM
+13436,Deathbrood,The Hunter and Rose,39.60,Magicians' Legendary Poison Metal,209.00,-52.81,-48.01,-11037.2900,-10034.0900,-29415.64648000,12/18/2006 @ 12:00:00 AM
+4855,"Rouge, Roguemist",Shainan's Hold,43.67,Sphinxes' Unknown Poisongold Of The Future,191.00,3971.47,14.30,758550.7700,2731.3000,1093733.94996900,12/18/2006 @ 12:00:00 AM
+4958,"Flora, Amberslayer",The Cracked Chalice,-4.81,God-touched Greengem Platinum,124.00,2181.36,188.14,270488.6400,23329.3600,279685.35420000,12/18/2006 @ 12:00:00 AM

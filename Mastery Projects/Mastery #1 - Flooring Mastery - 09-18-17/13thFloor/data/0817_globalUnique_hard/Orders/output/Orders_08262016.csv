@@ -1,18 +1,18 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-35056,"Goddess of Thieves, Melcha",The Bastion of the Vampire Duke,45.86,Grayplatinum,199.00,2548.00,115.43,507052.0000,22970.5700,773090.92060200,08/26/2016 @ 12:00:00 AM
-2484,"The Evil, Burnchill",The Bloody Wand,1.98,Magic Adamant,239.00,-190.00,72.13,-45410.0000,17239.0700,-28728.71441400,08/26/2016 @ 12:00:00 AM
-2596,"God of Death, Selik",Mahyrst Keep,28.45,Forgotten Mithril,110.00,3909.75,451.00,430072.5000,49610.0000,616152.17125000,08/26/2016 @ 12:00:00 AM
-2703,"Dawn, Tarot",The Khazahol Crags,20.68,Emerald Orichalcum,249.00,1957.00,118.01,487293.0000,29384.4900,623526.39493200,08/26/2016 @ 12:00:00 AM
-34462,"The Grasping, Nailpiston",The Cuitamba Jungle,46.75,Warlocks' Timerot Mithril,140.00,194.65,194.65,27251.0000,27251.0000,79981.68500000,08/26/2016 @ 12:00:00 AM
-20030,"Felldrake, Magus",Reyny Keep,-3.35,Unknowable Mindsilver,254.00,174.90,174.90,44424.6000,44424.6000,85872.75180000,08/26/2016 @ 12:00:00 AM
-8028,"Lionwatcher, Law",The Black Barrow of Bery,19.80,Unknowable Mindsilver,110.00,174.90,174.90,19239.0000,19239.0000,46096.64400000,08/26/2016 @ 12:00:00 AM
-30027,"The Cadaverous, Chainblade",The Greedy Wench,13.31,Incubi's Glittering Tin Of The Future,99.00,192.96,233.49,19103.0400,23115.5100,47837.83900500,08/26/2016 @ 12:00:00 AM
-32874,"Godseeker, Cult",The Bastion of the Lich Tyrant,8.64,Fairies' Supreme Mistsmoke Lead Of The Future,214.00,499.73,549.70,106942.2200,117635.8000,243981.56092800,08/26/2016 @ 12:00:00 AM
-31773,"Lord of the Sea, Penur",The Demon and Toad,-1.21,Planar Mudtin Of Trolls,89.00,191.40,174.00,17034.6000,15486.0000,32127.10074000,08/26/2016 @ 12:00:00 AM
-15069,Bonescare,The Fortress of Akkun the Grim,27.03,Angels' Adamant,193.00,51.48,46.80,9935.6400,9032.4000,24095.10121200,08/26/2016 @ 12:00:00 AM
-30689,Ironbrood,The Tower of Sabiesu the Awesome,10.00,Witchs' Forbidden Rockrainbow Bronze,16.00,245.63,245.63,3930.0800,3930.0800,8646.17600000,08/26/2016 @ 12:00:00 AM
-17717,"Ivycaster, Fate",Hartshill Ward,48.75,Shadow Metal,236.00,1606.00,298.00,379016.0000,70328.0000,668399.20000000,08/26/2016 @ 12:00:00 AM
-15106,Cinderflame,The Secret Catacombs of Ulfang the Black,28.82,Fleshshock Mercury,178.00,-31.02,-28.20,-5521.5600,-5019.6000,-13579.12231200,08/26/2016 @ 12:00:00 AM
-26136,Beamtrap,Citadel Ward,4.40,Grayplatinum,377.00,2548.00,104.94,960596.0000,39562.3800,1044165.34872000,08/26/2016 @ 12:00:00 AM
-24076,Bronzespike,The Scoundrel and Flask,45.25,Incubi's Glittering Tin Of The Future,353.00,192.96,212.26,68114.8800,74927.7800,207769.46365000,08/26/2016 @ 12:00:00 AM
-3518,"Anchor, Rose",The Fortress of Gama,3.00,Primordial Plague Mercury Of Legend,382.00,1150.79,67.00,439601.7800,25594.0000,479151.65340000,08/26/2016 @ 12:00:00 AM
+35056,"Goddess of Thieves, Melcha",The Bastion of the Vampire Duke,45.86,Grayplatinum,199.00,2548.00,115.43,507052.0000,22970.5700,773090.92060200,08/26/1946 @ 12:00:00 AM
+2484,"The Evil, Burnchill",The Bloody Wand,1.98,Magic Adamant,239.00,-190.00,72.13,-45410.0000,17239.0700,-28728.71441400,08/26/1946 @ 12:00:00 AM
+2596,"God of Death, Selik",Mahyrst Keep,28.45,Forgotten Mithril,110.00,3909.75,451.00,430072.5000,49610.0000,616152.17125000,08/26/1946 @ 12:00:00 AM
+2703,"Dawn, Tarot",The Khazahol Crags,20.68,Emerald Orichalcum,249.00,1957.00,118.01,487293.0000,29384.4900,623526.39493200,08/26/1946 @ 12:00:00 AM
+34462,"The Grasping, Nailpiston",The Cuitamba Jungle,46.75,Warlocks' Timerot Mithril,140.00,194.65,194.65,27251.0000,27251.0000,79981.68500000,08/26/1986 @ 12:00:00 AM
+20030,"Felldrake, Magus",Reyny Keep,-3.35,Unknowable Mindsilver,254.00,174.90,174.90,44424.6000,44424.6000,85872.75180000,08/26/1946 @ 12:00:00 AM
+8028,"Lionwatcher, Law",The Black Barrow of Bery,19.80,Unknowable Mindsilver,110.00,174.90,174.90,19239.0000,19239.0000,46096.64400000,08/26/1946 @ 12:00:00 AM
+30027,"The Cadaverous, Chainblade",The Greedy Wench,13.31,Incubi's Glittering Tin Of The Future,99.00,192.96,233.49,19103.0400,23115.5100,47837.83900500,08/26/1946 @ 12:00:00 AM
+32874,"Godseeker, Cult",The Bastion of the Lich Tyrant,8.64,Fairies' Supreme Mistsmoke Lead Of The Future,214.00,499.73,549.70,106942.2200,117635.8000,243981.56092800,08/26/1946 @ 12:00:00 AM
+31773,"Lord of the Sea, Penur",The Demon and Toad,-1.21,Planar Mudtin Of Trolls,89.00,191.40,174.00,17034.6000,15486.0000,32127.10074000,08/26/1946 @ 12:00:00 AM
+15069,Bonescare,The Fortress of Akkun the Grim,27.03,Angels' Adamant,193.00,51.48,46.80,9935.6400,9032.4000,24095.10121200,08/26/1986 @ 12:00:00 AM
+30689,Ironbrood,The Tower of Sabiesu the Awesome,10.00,Witchs' Forbidden Rockrainbow Bronze,16.00,245.63,245.63,3930.0800,3930.0800,8646.17600000,08/26/1946 @ 12:00:00 AM
+17717,"Ivycaster, Fate",Hartshill Ward,48.75,Shadow Metal,236.00,1606.00,298.00,379016.0000,70328.0000,668399.20000000,08/26/1946 @ 12:00:00 AM
+15106,Cinderflame,The Secret Catacombs of Ulfang the Black,28.82,Fleshshock Mercury,178.00,-31.02,-28.20,-5521.5600,-5019.6000,-13579.12231200,08/26/1946 @ 12:00:00 AM
+26136,Beamtrap,Citadel Ward,4.40,Grayplatinum,377.00,2548.00,104.94,960596.0000,39562.3800,1044165.34872000,08/26/1986 @ 12:00:00 AM
+24076,Bronzespike,The Scoundrel and Flask,45.25,Incubi's Glittering Tin Of The Future,353.00,192.96,212.26,68114.8800,74927.7800,207769.46365000,08/26/1946 @ 12:00:00 AM
+3518,"Anchor, Rose",The Fortress of Gama,3.00,Primordial Plague Mercury Of Legend,382.00,1150.79,67.00,439601.7800,25594.0000,479151.65340000,08/26/1946 @ 12:00:00 AM

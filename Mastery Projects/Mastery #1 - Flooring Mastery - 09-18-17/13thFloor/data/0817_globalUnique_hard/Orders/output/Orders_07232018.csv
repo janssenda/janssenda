@@ -1,18 +1,18 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-12722,"Roguemist, Rouge",Gili's Delve,35.89,Foulopal Copper Of The Skies,125.00,201.66,201.66,25207.5000,25207.5000,68508.94350000,07/23/2018 @ 12:00:00 AM
-10082,"Goddess of Law, Eumyan",Castle Village,39.07,Timeiron,279.00,3255.00,-16.25,908145.0000,-4533.7500,1256652.16537500,07/23/2018 @ 12:00:00 AM
-36997,"Amberslayer, Flora",The Greedy Wench,13.31,Ghouls' Imperial Soulzephyr Mithril Of The Seas,193.00,318.23,318.23,61418.3900,61418.3900,139186.35541800,07/23/2018 @ 12:00:00 AM
-2910,"Amberslayer, Flora",The Tomb of Gothmog of Udun,11.00,Falserainbow Lead,368.00,872.99,70.18,321260.3200,25826.2400,385266.08160000,07/23/2018 @ 12:00:00 AM
-20615,"Mystery, Lord",Arcanist's Farthing,29.00,Negative Rockglitter Mercury Of Trolls,310.00,3502.00,214.17,1085620.0000,66392.7000,1486096.38300000,07/23/2018 @ 12:00:00 AM
-19809,"The Terrifying, Deathspike",Fellfen Keep,38.00,Emerald Orichalcum,64.00,1957.00,142.79,125248.0000,9138.5600,185453.45280000,07/23/2018 @ 12:00:00 AM
-17390,"Lord of the Sea, Penur",Gena's Hold,5.85,Golems' Stonesapphire Gold Of The Glacier,236.00,176.00,160.00,41536.0000,37760.0000,83934.81600000,07/23/2018 @ 12:00:00 AM
-7704,Beamtrap,The Bastion of the Lich Tyrant,6.49,Sapphire Mindlead,292.00,-44.77,-40.70,-13072.8400,-11884.4000,-26576.96487600,07/23/2018 @ 12:00:00 AM
-17720,"Goddess of Law, Eumyan",Bergfison's Deep,16.00,Ghostly Soul Adamant,244.00,414.70,377.00,101186.8000,91988.0000,224082.76800000,07/23/2018 @ 12:00:00 AM
-17888,"The Cremator, Blazeflare",The Bastion of the Vampire Duke,37.90,Ghostly Soul Adamant,172.00,414.70,377.00,71328.4000,64844.0000,187781.73960000,07/23/2018 @ 12:00:00 AM
-15397,Metalbrood,The Dungeon of Merciless Woe,3.61,Shadowhell Mithril,226.00,462.21,420.19,104459.4600,94962.9400,206621.54864000,07/23/2018 @ 12:00:00 AM
-4245,"God of Protection, Finarfin",Hartshill Ward,40.29,Violetdream Iron,222.00,2680.00,377.25,594960.0000,83749.5000,952161.55755000,07/23/2018 @ 12:00:00 AM
-27627,"God of Thieves, Maeglodor",The Pirate's Pipe,16.94,Vampires' Hammer Emeraldmetal,126.00,93.70,85.18,11806.2000,10732.6800,26356.96627200,07/23/2018 @ 12:00:00 AM
-12068,"Veil, Bane",Hafeld Keep,47.59,Sirens' Rockgold,146.00,306.13,278.30,44694.9800,40631.8000,125933.79460200,07/23/2018 @ 12:00:00 AM
-3598,"Felldrake, Magus",The Black Barrow of Zago the Possessed,12.34,Primordial Plague Mercury Of Legend,187.00,1150.79,67.00,215197.7300,12529.0000,255828.20848200,07/23/2018 @ 12:00:00 AM
-37574,"Runetomb, Song",The Greedy Wench,13.31,Stone Soulsteel Of The Skies,140.00,453.31,453.31,63463.4000,63463.4000,143820.75708000,07/23/2018 @ 12:00:00 AM
-14882,"Goddess of Travel, Lenwenye",The Secret Catacombs of Ulfang the Black,28.82,Golems' Stonesapphire Gold Of The Glacier,134.00,176.00,160.00,23584.0000,21440.0000,57999.91680000,07/23/2018 @ 12:00:00 AM
+12722,"Roguemist, Rouge",Gili's Delve,35.89,Foulopal Copper Of The Skies,125.00,201.66,201.66,25207.5000,25207.5000,68508.94350000,07/23/1978 @ 12:00:00 AM
+10082,"Goddess of Law, Eumyan",Castle Village,39.07,Timeiron,279.00,3255.00,-16.25,908145.0000,-4533.7500,1256652.16537500,07/23/1948 @ 12:00:00 AM
+36997,"Amberslayer, Flora",The Greedy Wench,13.31,Ghouls' Imperial Soulzephyr Mithril Of The Seas,193.00,318.23,318.23,61418.3900,61418.3900,139186.35541800,07/23/1948 @ 12:00:00 AM
+2910,"Amberslayer, Flora",The Tomb of Gothmog of Udun,11.00,Falserainbow Lead,368.00,872.99,70.18,321260.3200,25826.2400,385266.08160000,07/23/1948 @ 12:00:00 AM
+20615,"Mystery, Lord",Arcanist's Farthing,29.00,Negative Rockglitter Mercury Of Trolls,310.00,3502.00,214.17,1085620.0000,66392.7000,1486096.38300000,07/23/1948 @ 12:00:00 AM
+19809,"The Terrifying, Deathspike",Fellfen Keep,38.00,Emerald Orichalcum,64.00,1957.00,142.79,125248.0000,9138.5600,185453.45280000,07/23/1978 @ 12:00:00 AM
+17390,"Lord of the Sea, Penur",Gena's Hold,5.85,Golems' Stonesapphire Gold Of The Glacier,236.00,176.00,160.00,41536.0000,37760.0000,83934.81600000,07/23/1948 @ 12:00:00 AM
+7704,Beamtrap,The Bastion of the Lich Tyrant,6.49,Sapphire Mindlead,292.00,-44.77,-40.70,-13072.8400,-11884.4000,-26576.96487600,07/23/1948 @ 12:00:00 AM
+17720,"Goddess of Law, Eumyan",Bergfison's Deep,16.00,Ghostly Soul Adamant,244.00,414.70,377.00,101186.8000,91988.0000,224082.76800000,07/23/1948 @ 12:00:00 AM
+17888,"The Cremator, Blazeflare",The Bastion of the Vampire Duke,37.90,Ghostly Soul Adamant,172.00,414.70,377.00,71328.4000,64844.0000,187781.73960000,07/23/1948 @ 12:00:00 AM
+15397,Metalbrood,The Dungeon of Merciless Woe,3.61,Shadowhell Mithril,226.00,462.21,420.19,104459.4600,94962.9400,206621.54864000,07/23/1948 @ 12:00:00 AM
+4245,"God of Protection, Finarfin",Hartshill Ward,40.29,Violetdream Iron,222.00,2680.00,377.25,594960.0000,83749.5000,952161.55755000,07/23/1948 @ 12:00:00 AM
+27627,"God of Thieves, Maeglodor",The Pirate's Pipe,16.94,Vampires' Hammer Emeraldmetal,126.00,93.70,85.18,11806.2000,10732.6800,26356.96627200,07/23/1948 @ 12:00:00 AM
+12068,"Veil, Bane",Hafeld Keep,47.59,Sirens' Rockgold,146.00,306.13,278.30,44694.9800,40631.8000,125933.79460200,07/23/1948 @ 12:00:00 AM
+3598,"Felldrake, Magus",The Black Barrow of Zago the Possessed,12.34,Primordial Plague Mercury Of Legend,187.00,1150.79,67.00,215197.7300,12529.0000,255828.20848200,07/23/1948 @ 12:00:00 AM
+37574,"Runetomb, Song",The Greedy Wench,13.31,Stone Soulsteel Of The Skies,140.00,453.31,453.31,63463.4000,63463.4000,143820.75708000,07/23/1948 @ 12:00:00 AM
+14882,"Goddess of Travel, Lenwenye",The Secret Catacombs of Ulfang the Black,28.82,Golems' Stonesapphire Gold Of The Glacier,134.00,176.00,160.00,23584.0000,21440.0000,57999.91680000,07/23/1948 @ 12:00:00 AM

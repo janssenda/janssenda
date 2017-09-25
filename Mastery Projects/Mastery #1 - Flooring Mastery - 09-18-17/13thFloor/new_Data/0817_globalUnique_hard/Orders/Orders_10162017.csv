@@ -1,23 +1,23 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-24636,"The Terrifying, Deathspike",Bifar's Deep,12.21,Ensorceled Sandmetal Of Spirits,157.00,85.18,77.44,13373.2600,12158.0800,28648.71661400,10/16/2017 @ 12:00:00 AM
-10066,"Spiritraven, Bedlam",Gifeld Castle,27.28,Emerald Orichalcum,248.00,1957.00,118.01,485336.0000,29266.4800,654986.03654400,10/16/2017 @ 12:00:00 AM
-33049,"The Machine, Wheelbolt",The Archer and Scroll,60.12,Forgotten Mithril,82.00,600.28,545.71,49222.9600,44748.2200,150466.65341600,10/16/2017 @ 12:00:00 AM
-33189,"The Binder, Springpulley",The Archer and Scroll,60.12,Fairies' Supreme Mistsmoke Lead Of The Future,76.00,499.73,549.70,37979.4800,41777.2000,127706.39601600,10/16/2017 @ 12:00:00 AM
-9101,"Mist, Claw",The Demon and Toad,-1.10,Djinni's Spectral Shadowlead Of Life,214.00,1718.00,259.12,367652.0000,55451.6800,418449.53952000,10/16/2017 @ 12:00:00 AM
-31053,Cinderflame,The Nulukkhath Spires,28.99,Ensorceled Sandmetal Of Spirits,272.00,85.18,77.44,23168.9600,21063.6800,57055.68233600,10/16/2017 @ 12:00:00 AM
-9459,"The Horrorific, Evilfear",Barad Kesa,5.10,Unknowable Mindsilver,204.00,174.90,174.90,35679.6000,35679.6000,74998.51920000,10/16/2017 @ 12:00:00 AM
-21843,"Spiritraven, Bedlam",Moor Village,11.32,Witchs' Forbidden Rockrainbow Bronze,110.00,245.63,245.63,27019.3000,27019.3000,60155.76952000,10/16/2017 @ 12:00:00 AM
-9524,"Seraphheart, Storm",The Pirate's Pipe,15.40,Forgotten Mithril,116.00,3909.75,496.10,453531.0000,57547.6000,589784.70440000,10/16/2017 @ 12:00:00 AM
-19981,Spikesnare,The Lewd King,45.98,Fairies' Supreme Mistsmoke Lead Of The Future,141.00,499.73,499.73,70461.9300,70461.9300,205720.65082800,10/16/2017 @ 12:00:00 AM
-32929,"Goddess of Thieves, Melcha",The Archer and Scroll,60.12,Fairies' Supreme Mistsmoke Lead Of The Future,270.00,499.73,549.70,134927.1000,148419.0000,453693.77532000,10/16/2017 @ 12:00:00 AM
-8859,"Dawn, Tarot",The Lost Sanctum of Woe,43.20,Primordial Plague Mercury Of Legend,336.00,1150.79,67.00,386665.4400,22512.0000,585942.09408000,10/16/2017 @ 12:00:00 AM
-17573,"The Disinterred, Spikebrood",The Bastion of the Vampire Duke,37.90,Ghostly Soul Adamant,265.00,414.70,377.00,109895.5000,99905.0000,289314.88950000,10/16/2017 @ 12:00:00 AM
-17524,"Roguemist, Rouge",Hartshill Ward,48.75,Poison Adamant,320.00,110.96,100.87,35507.2000,32278.4000,100831.08000000,10/16/2017 @ 12:00:00 AM
-31834,Spikecrank,Gifeld Castle,33.01,Fairies' Supreme Mistsmoke Lead Of The Future,169.00,499.73,549.70,84454.3700,92899.3000,235898.11646700,10/16/2017 @ 12:00:00 AM
-15159,"Dawn, Tarot",The Fortress of Akkun the Grim,27.03,Angels' Adamant,194.00,51.48,46.80,9987.1200,9079.2000,24219.94629600,10/16/2017 @ 12:00:00 AM
-6954,"The Chiller, Blazefreeze",Noble's Village,4.94,Swordbronze,69.00,333.30,303.00,22997.7000,20907.0000,46073.59218000,10/16/2017 @ 12:00:00 AM
-25314,"Goddess of Travel, Lenwenye",Weke Tower,47.19,Incubi's Iron Of The Dawn,358.00,192.49,174.99,68911.4200,62646.4200,193639.98469600,10/16/2017 @ 12:00:00 AM
-24074,"Gust, Shadow",The Lewd King,45.98,Djinni's Mind Fogiron,195.00,57.23,57.23,11159.8500,11159.8500,32582.29806000,10/16/2017 @ 12:00:00 AM
-24031,"Bladewitch, Zeal",The Broken Arrow,17.60,Unicorns' Fatal Magma Metal Of The Ocean,172.00,25.30,23.00,4351.6000,3956.0000,9769.73760000,10/16/2017 @ 12:00:00 AM
-25510,"Drakecaster, Sephiroth",Gili's Delve,35.89,Djinni's Mind Fogiron,333.00,57.23,57.23,19057.5900,19057.5900,51794.71810200,10/16/2017 @ 12:00:00 AM
-3540,"Goddess of Fate, Azah",Kada's Deep,7.65,Ensorceled Sandmetal Of Spirits,195.00,70.40,64.00,13728.0000,12480.0000,28212.91200000,10/16/2017 @ 12:00:00 AM
+24636,"Deathspike, The Terrifying",Bifar's Deep,12.21,Ensorceled Sandmetal Of Spirits,157.00,85.18,77.44,13373.2600,12158.0800,28648.71661400,10/16/2007 @ 12:00:00 AM
+10066,"Bedlam, Spiritraven",Gifeld Castle,27.28,Emerald Orichalcum,248.00,1957.00,118.01,485336.0000,29266.4800,654986.03654400,10/16/2007 @ 12:00:00 AM
+33049,"Wheelbolt, The Machine",The Archer and Scroll,60.12,Forgotten Mithril,82.00,600.28,545.71,49222.9600,44748.2200,150466.65341600,10/16/2007 @ 12:00:00 AM
+33189,"Springpulley, The Binder",The Archer and Scroll,60.12,Fairies' Supreme Mistsmoke Lead Of The Future,76.00,499.73,549.70,37979.4800,41777.2000,127706.39601600,10/16/2007 @ 12:00:00 AM
+9101,"Claw, Mist",The Demon and Toad,-1.10,Djinni's Spectral Shadowlead Of Life,214.00,1718.00,259.12,367652.0000,55451.6800,418449.53952000,10/16/2007 @ 12:00:00 AM
+31053,Cinderflame,The Nulukkhath Spires,28.99,Ensorceled Sandmetal Of Spirits,272.00,85.18,77.44,23168.9600,21063.6800,57055.68233600,10/16/2007 @ 12:00:00 AM
+9459,"Evilfear, The Horrorific",Barad Kesa,5.10,Unknowable Mindsilver,204.00,174.90,174.90,35679.6000,35679.6000,74998.51920000,10/16/2007 @ 12:00:00 AM
+21843,"Bedlam, Spiritraven",Moor Village,11.32,Witchs' Forbidden Rockrainbow Bronze,110.00,245.63,245.63,27019.3000,27019.3000,60155.76952000,10/16/2007 @ 12:00:00 AM
+9524,"Storm, Seraphheart",The Pirate's Pipe,15.40,Forgotten Mithril,116.00,3909.75,496.10,453531.0000,57547.6000,589784.70440000,10/16/2007 @ 12:00:00 AM
+19981,Spikesnare,The Lewd King,45.98,Fairies' Supreme Mistsmoke Lead Of The Future,141.00,499.73,499.73,70461.9300,70461.9300,205720.65082800,10/16/2007 @ 12:00:00 AM
+32929,"Melcha, Goddess of Thieves",The Archer and Scroll,60.12,Fairies' Supreme Mistsmoke Lead Of The Future,270.00,499.73,549.70,134927.1000,148419.0000,453693.77532000,10/16/2007 @ 12:00:00 AM
+8859,"Tarot, Dawn",The Lost Sanctum of Woe,43.20,Primordial Plague Mercury Of Legend,336.00,1150.79,67.00,386665.4400,22512.0000,585942.09408000,10/16/2007 @ 12:00:00 AM
+17573,"Spikebrood, The Disinterred",The Bastion of the Vampire Duke,37.90,Ghostly Soul Adamant,265.00,414.70,377.00,109895.5000,99905.0000,289314.88950000,10/16/2007 @ 12:00:00 AM
+17524,"Rouge, Roguemist",Hartshill Ward,48.75,Poison Adamant,320.00,110.96,100.87,35507.2000,32278.4000,100831.08000000,10/16/2007 @ 12:00:00 AM
+31834,Spikecrank,Gifeld Castle,33.01,Fairies' Supreme Mistsmoke Lead Of The Future,169.00,499.73,549.70,84454.3700,92899.3000,235898.11646700,10/16/2007 @ 12:00:00 AM
+15159,"Tarot, Dawn",The Fortress of Akkun the Grim,27.03,Angels' Adamant,194.00,51.48,46.80,9987.1200,9079.2000,24219.94629600,10/16/2007 @ 12:00:00 AM
+6954,"Blazefreeze, The Chiller",Noble's Village,4.94,Swordbronze,69.00,333.30,303.00,22997.7000,20907.0000,46073.59218000,10/16/2007 @ 12:00:00 AM
+25314,"Lenwenye, Goddess of Travel",Weke Tower,47.19,Incubi's Iron Of The Dawn,358.00,192.49,174.99,68911.4200,62646.4200,193639.98469600,10/16/2007 @ 12:00:00 AM
+24074,"Shadow, Gust",The Lewd King,45.98,Djinni's Mind Fogiron,195.00,57.23,57.23,11159.8500,11159.8500,32582.29806000,10/16/2007 @ 12:00:00 AM
+24031,"Zeal, Bladewitch",The Broken Arrow,17.60,Unicorns' Fatal Magma Metal Of The Ocean,172.00,25.30,23.00,4351.6000,3956.0000,9769.73760000,10/16/2017 @ 12:00:00 AM
+25510,"Sephiroth, Drakecaster",Gili's Delve,35.89,Djinni's Mind Fogiron,333.00,57.23,57.23,19057.5900,19057.5900,51794.71810200,10/16/2017 @ 12:00:00 AM
+3540,"Azah, Goddess of Fate",Kada's Deep,7.65,Ensorceled Sandmetal Of Spirits,195.00,70.40,64.00,13728.0000,12480.0000,28212.91200000,10/16/2007 @ 12:00:00 AM

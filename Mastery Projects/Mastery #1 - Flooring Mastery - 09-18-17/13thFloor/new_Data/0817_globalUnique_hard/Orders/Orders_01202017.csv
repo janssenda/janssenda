@@ -1,26 +1,26 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-1281,"The Chiller, Blazefreeze",The Citadel of Lord Greywulf,19.00,Zephyr Iron,240.00,2249.71,233.69,539930.4000,56085.6000,709259.04000000,01/20/2017 @ 12:00:00 AM
-1550,"Goddess of Travel, Lenwenye",The Forsaken Delve of Lord Greywulf,15.62,Spirits' Living Wordhammer Tin Of The Trees,161.00,3897.55,117.00,627505.5500,18837.0000,747301.25631000,01/20/2017 @ 12:00:00 AM
-35634,"Lord of the Sea, Penur",The Nulukkhath Spires,28.99,Vampires' Fang Emeraldsilver,286.00,2033.69,88.92,581635.3400,25431.1200,783055.02675400,01/20/2017 @ 12:00:00 AM
-1667,"The Blade, Steelterror",The Secret Shrine of the Gargoyle Count,19.77,Ghostly Magic Adamant,179.00,49.50,45.00,8860.5000,8055.0000,20259.69435000,01/20/2017 @ 12:00:00 AM
-11720,"Amberslayer, Flora",North Arcanist's Farthing,2.50,Pearl Mirrorice Steel Of Changelings,96.00,2996.00,302.00,287616.0000,28992.0000,324523.20000000,01/20/2017 @ 12:00:00 AM
-1798,"Bladewitch, Zeal",The Bastion of the Lich Tyrant,5.36,Fog Lavaplatinum Of Life,165.00,2232.00,463.10,368280.0000,76411.5000,468526.96440000,01/20/2017 @ 12:00:00 AM
-35974,"Spiritraven, Bedlam",The Fen of the Necromancer,32.21,Yellow Mistearth Copper,157.00,287.98,261.80,45212.8600,41102.6000,114117.66966600,01/20/2017 @ 12:00:00 AM
+1281,"Blazefreeze, The Chiller",The Citadel of Lord Greywulf,19.00,Zephyr Iron,240.00,2249.71,233.69,539930.4000,56085.6000,709259.04000000,01/20/2007 @ 12:00:00 AM
+1550,"Lenwenye, Goddess of Travel",The Forsaken Delve of Lord Greywulf,15.62,Spirits' Living Wordhammer Tin Of The Trees,161.00,3897.55,117.00,627505.5500,18837.0000,747301.25631000,01/20/2007 @ 12:00:00 AM
+35634,"Penur, Lord of the Sea",The Nulukkhath Spires,28.99,Vampires' Fang Emeraldsilver,286.00,2033.69,88.92,581635.3400,25431.1200,783055.02675400,01/20/2007 @ 12:00:00 AM
+1667,"Steelterror, The Blade",The Secret Shrine of the Gargoyle Count,19.77,Ghostly Magic Adamant,179.00,49.50,45.00,8860.5000,8055.0000,20259.69435000,01/20/2007 @ 12:00:00 AM
+11720,"Flora, Amberslayer",North Arcanist's Farthing,2.50,Pearl Mirrorice Steel Of Changelings,96.00,2996.00,302.00,287616.0000,28992.0000,324523.20000000,01/20/2007 @ 12:00:00 AM
+1798,"Zeal, Bladewitch",The Bastion of the Lich Tyrant,5.36,Fog Lavaplatinum Of Life,165.00,2232.00,463.10,368280.0000,76411.5000,468526.96440000,01/20/2007 @ 12:00:00 AM
+35974,"Bedlam, Spiritraven",The Fen of the Necromancer,32.21,Yellow Mistearth Copper,157.00,287.98,261.80,45212.8600,41102.6000,114117.66966600,01/20/2007 @ 12:00:00 AM
 10733,Gravebone,The Drunken Thief,18.41,Dragons' Poison Glitterflesh Steel Of The North,237.00,742.00,75.00,175854.0000,17775.0000,229276.09890000,01/20/2017 @ 12:00:00 AM
-19395,Spikesnare,Gifeld Castle,33.01,Golems' Stonesapphire Gold Of The Glacier,291.00,176.00,160.00,51216.0000,46560.0000,130051.85760000,01/20/2017 @ 12:00:00 AM
-33830,"The Disinterred, Spikebrood",The Bastion of the Lich Tyrant,8.64,Unspeakable Rotsoul Mithril Of Souls,283.00,370.26,336.60,104783.5800,95257.8000,217324.95523200,01/20/2017 @ 12:00:00 AM
-8379,"The Cremator, Blazeflare",Lamp Borough,0.00,Lycanthropes' Gold,161.00,371.80,338.00,59859.8000,54418.0000,114277.80000000,01/20/2017 @ 12:00:00 AM
-29223,Springsprocket,The Citadel of Alammius,32.67,Unknown Fatelightning Steel Of The Glacier,184.00,145.08,159.59,26694.7200,29364.5600,74373.84677600,01/20/2017 @ 12:00:00 AM
-31656,"Dawn, Tarot",Gifeld Castle,33.01,Fairies' Supreme Mistsmoke Lead Of The Future,320.00,499.73,549.70,159913.6000,175904.0000,446670.98976000,01/20/2017 @ 12:00:00 AM
-28070,Evilbrood,The Fortress of Akkun the Grim,27.03,Undeads' Mind Orichalcum Of The Twilight,108.00,1169.00,364.69,126252.0000,39386.5200,210410.61195600,01/20/2017 @ 12:00:00 AM
-32964,"Lord of Plague, Alas",Pewold Keep,29.00,Mind Lead,147.00,241.00,219.09,35427.0000,32206.2300,87246.86670000,01/20/2017 @ 12:00:00 AM
-28100,"The Unspeakable, Terrorghoul",Barad Cune,49.21,Negative Rockglitter Mercury Of Trolls,280.00,235.59,214.17,65965.2000,59967.6000,187904.33088000,01/20/2017 @ 12:00:00 AM
-17568,"Lionwatcher, Law",Kada's Deep,8.42,Mithril Of The Tropics,98.00,276.72,251.56,27118.5600,24652.8800,56130.59524800,01/20/2017 @ 12:00:00 AM
-27233,Spikespawn,The Pirate's Pipe,16.94,Unknown Fatelightning Steel Of The Glacier,329.00,145.08,159.59,47731.3200,52505.1100,117216.48124200,01/20/2017 @ 12:00:00 AM
-4112,"The Horrorific, Evilfear",The Fortress of Akkun the Grim,27.03,Falserainbow Lead,263.00,872.99,70.18,229596.3700,18457.3400,315102.62781300,01/20/2017 @ 12:00:00 AM
-15466,"Gust, Shadow",The Tower of Aramum,20.00,Djinni's Mind Fogiron,137.00,57.23,52.03,7840.5100,7128.1100,17962.34400000,01/20/2017 @ 12:00:00 AM
-25024,Freezebrood,Eved Castle,30.80,Ensorceled Sandmetal Of Spirits,227.00,85.18,77.44,19335.8600,17578.8800,48284.47992000,01/20/2017 @ 12:00:00 AM
-5855,"The Evil, Flameflare",The Bastion of the Vampire Duke,34.45,Grayplatinum,183.00,2548.00,86.73,466284.0000,15871.5900,648258.19075500,01/20/2017 @ 12:00:00 AM
-5916,Spikerivet,The Warrior and Flagon,9.00,Dragons' Poison Glitterflesh Steel Of The North,245.00,742.00,75.00,181790.0000,18375.0000,218179.85000000,01/20/2017 @ 12:00:00 AM
-2015,"Tombreaper, Rouge",The Warrior and Flagon,9.00,Ghostly Magic Adamant,239.00,49.50,45.00,11830.5000,10755.0000,24618.19500000,01/20/2017 @ 12:00:00 AM
-36239,"The Unspeakable, Scarechain",The Fen of the Necromancer,32.21,Phantasmal Tin Of The Swamps,187.00,405.96,369.05,75914.5200,69012.3500,191607.81482700,01/20/2017 @ 12:00:00 AM
+19395,Spikesnare,Gifeld Castle,33.01,Golems' Stonesapphire Gold Of The Glacier,291.00,176.00,160.00,51216.0000,46560.0000,130051.85760000,01/20/2007 @ 12:00:00 AM
+33830,"Spikebrood, The Disinterred",The Bastion of the Lich Tyrant,8.64,Unspeakable Rotsoul Mithril Of Souls,283.00,370.26,336.60,104783.5800,95257.8000,217324.95523200,01/20/2007 @ 12:00:00 AM
+8379,"Blazeflare, The Cremator",Lamp Borough,0.00,Lycanthropes' Gold,161.00,371.80,338.00,59859.8000,54418.0000,114277.80000000,01/20/2007 @ 12:00:00 AM
+29223,Springsprocket,The Citadel of Alammius,32.67,Unknown Fatelightning Steel Of The Glacier,184.00,145.08,159.59,26694.7200,29364.5600,74373.84677600,01/20/2007 @ 12:00:00 AM
+31656,"Tarot, Dawn",Gifeld Castle,33.01,Fairies' Supreme Mistsmoke Lead Of The Future,320.00,499.73,549.70,159913.6000,175904.0000,446670.98976000,01/20/2007 @ 12:00:00 AM
+28070,Evilbrood,The Fortress of Akkun the Grim,27.03,Undeads' Mind Orichalcum Of The Twilight,108.00,1169.00,364.69,126252.0000,39386.5200,210410.61195600,01/20/2007 @ 12:00:00 AM
+32964,"Alas, Lord of Plague",Pewold Keep,29.00,Mind Lead,147.00,241.00,219.09,35427.0000,32206.2300,87246.86670000,01/20/2007 @ 12:00:00 AM
+28100,"Terrorghoul, The Unspeakable",Barad Cune,49.21,Negative Rockglitter Mercury Of Trolls,280.00,235.59,214.17,65965.2000,59967.6000,187904.33088000,01/20/2007 @ 12:00:00 AM
+17568,"Law, Lionwatcher",Kada's Deep,8.42,Mithril Of The Tropics,98.00,276.72,251.56,27118.5600,24652.8800,56130.59524800,01/20/2017 @ 12:00:00 AM
+27233,Spikespawn,The Pirate's Pipe,16.94,Unknown Fatelightning Steel Of The Glacier,329.00,145.08,159.59,47731.3200,52505.1100,117216.48124200,01/20/2007 @ 12:00:00 AM
+4112,"Evilfear, The Horrorific",The Fortress of Akkun the Grim,27.03,Falserainbow Lead,263.00,872.99,70.18,229596.3700,18457.3400,315102.62781300,01/20/2007 @ 12:00:00 AM
+15466,"Shadow, Gust",The Tower of Aramum,20.00,Djinni's Mind Fogiron,137.00,57.23,52.03,7840.5100,7128.1100,17962.34400000,01/20/2007 @ 12:00:00 AM
+25024,Freezebrood,Eved Castle,30.80,Ensorceled Sandmetal Of Spirits,227.00,85.18,77.44,19335.8600,17578.8800,48284.47992000,01/20/2007 @ 12:00:00 AM
+5855,"Flameflare, The Evil",The Bastion of the Vampire Duke,34.45,Grayplatinum,183.00,2548.00,86.73,466284.0000,15871.5900,648258.19075500,01/20/2007 @ 12:00:00 AM
+5916,Spikerivet,The Warrior and Flagon,9.00,Dragons' Poison Glitterflesh Steel Of The North,245.00,742.00,75.00,181790.0000,18375.0000,218179.85000000,01/20/2007 @ 12:00:00 AM
+2015,"Rouge, Tombreaper",The Warrior and Flagon,9.00,Ghostly Magic Adamant,239.00,49.50,45.00,11830.5000,10755.0000,24618.19500000,01/20/2007 @ 12:00:00 AM
+36239,"Scarechain, The Unspeakable",The Fen of the Necromancer,32.21,Phantasmal Tin Of The Swamps,187.00,405.96,369.05,75914.5200,69012.3500,191607.81482700,01/20/2007 @ 12:00:00 AM

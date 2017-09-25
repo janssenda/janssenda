@@ -1,17 +1,17 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-11604,Ironbrood,The Fortress of the Lich Queen,18.84,Swordbronze,161.00,333.30,303.00,53661.3000,48783.0000,121744.80612000,03/02/2017 @ 12:00:00 AM
-36988,"Veil, Bane",The Greedy Wench,13.31,Stone Soulsteel Of The Skies,107.00,453.31,453.31,48504.1700,48504.1700,109920.15005400,03/02/2017 @ 12:00:00 AM
-35821,"Godseeker, Cult",The Fen of the Necromancer,32.21,Vampires' Fang Emeraldsilver,196.00,2033.69,88.92,398603.2400,17428.3200,550035.32547600,03/02/2017 @ 12:00:00 AM
-21322,"Brand, Lightning",Citadel Ward,4.40,Witchs' Forbidden Rockrainbow Bronze,235.00,245.63,245.63,57723.0500,57723.0500,120525.72840000,03/02/2017 @ 12:00:00 AM
-18058,"Mist, Claw",Hartshill Ward,48.75,Ghostly Soul Adamant,280.00,414.70,377.00,116116.0000,105560.0000,329743.05000000,03/02/2017 @ 12:00:00 AM
-16031,"The Blade, Scarefear",The Dungeon of Merciless Woe,3.61,Shadowhell Mithril,194.00,462.21,420.19,89668.7400,81516.8600,177365.40016000,03/02/2017 @ 12:00:00 AM
-28095,"God of Protection, Finarfin",The Bastion of the Vampire Duke,45.86,Vampires' Fang Emeraldsilver,138.00,2033.69,80.84,280649.2200,11155.9200,425626.97720400,03/02/2017 @ 12:00:00 AM
-32960,"Seraphheart, Storm",Pewold Keep,29.00,Undeads' Mind Orichalcum Of The Twilight,176.00,1169.00,364.69,205744.0000,64185.4400,348208.97760000,03/02/2017 @ 12:00:00 AM
-28172,"Lord of Plague, Alas",The Fortress of Akkun the Grim,27.03,Undeads' Mind Orichalcum Of The Twilight,279.00,1169.00,364.69,326151.0000,101748.5100,543560.74755300,03/02/2017 @ 12:00:00 AM
-30412,"Brand, Lightning",The Tower of Sabiesu the Awesome,10.00,Swordbronze,96.00,403.29,366.63,38715.8400,35196.4800,81303.55200000,03/02/2017 @ 12:00:00 AM
-28432,"Squallmourner, Storm",Barad Cune,49.21,Vampires' Fang Emeraldsilver,74.00,2033.69,80.84,150493.0600,5982.1600,233476.67576200,03/02/2017 @ 12:00:00 AM
-15209,"God of Luck, Ariel",The Fortress of Akkun the Grim,27.03,Mind Lead,209.00,241.00,219.09,50369.0000,45789.8100,122150.53634300,03/02/2017 @ 12:00:00 AM
-17993,Flameshiver,The Bastion of the Vampire Duke,37.90,Starsmoke Bronze Of Life,33.00,-438.00,420.81,-14454.0000,13886.7300,-782.26533000,03/02/2017 @ 12:00:00 AM
-15465,"Dawn, Tarot",The Tower of Aramum,20.00,Imperial Fate Steel,140.00,419.10,381.00,58674.0000,53340.0000,134416.80000000,03/02/2017 @ 12:00:00 AM
-6856,"Mist, Claw",The Drunken Thief,18.41,Trolls' Rubymercury Of The Sunset,218.00,2733.00,443.00,595794.0000,96574.0000,819832.94880000,03/02/2017 @ 12:00:00 AM
-3556,"God of Resurrection, Gadriel",The Khazahol Crags,20.68,Primordial Plague Mercury Of Legend,106.00,1150.79,67.00,121983.7400,7102.0000,155780.67103200,03/02/2017 @ 12:00:00 AM
+11604,Ironbrood,The Fortress of the Lich Queen,18.84,Swordbronze,161.00,333.30,303.00,53661.3000,48783.0000,121744.80612000,03/02/2007 @ 12:00:00 AM
+36988,"Bane, Veil",The Greedy Wench,13.31,Stone Soulsteel Of The Skies,107.00,453.31,453.31,48504.1700,48504.1700,109920.15005400,03/02/2007 @ 12:00:00 AM
+35821,"Cult, Godseeker",The Fen of the Necromancer,32.21,Vampires' Fang Emeraldsilver,196.00,2033.69,88.92,398603.2400,17428.3200,550035.32547600,03/02/2007 @ 12:00:00 AM
+21322,"Lightning, Brand",Citadel Ward,4.40,Witchs' Forbidden Rockrainbow Bronze,235.00,245.63,245.63,57723.0500,57723.0500,120525.72840000,03/02/2007 @ 12:00:00 AM
+18058,"Claw, Mist",Hartshill Ward,48.75,Ghostly Soul Adamant,280.00,414.70,377.00,116116.0000,105560.0000,329743.05000000,03/02/2007 @ 12:00:00 AM
+16031,"Scarefear, The Blade",The Dungeon of Merciless Woe,3.61,Shadowhell Mithril,194.00,462.21,420.19,89668.7400,81516.8600,177365.40016000,03/02/2007 @ 12:00:00 AM
+28095,"Finarfin, God of Protection",The Bastion of the Vampire Duke,45.86,Vampires' Fang Emeraldsilver,138.00,2033.69,80.84,280649.2200,11155.9200,425626.97720400,03/02/2007 @ 12:00:00 AM
+32960,"Storm, Seraphheart",Pewold Keep,29.00,Undeads' Mind Orichalcum Of The Twilight,176.00,1169.00,364.69,205744.0000,64185.4400,348208.97760000,03/02/2007 @ 12:00:00 AM
+28172,"Alas, Lord of Plague",The Fortress of Akkun the Grim,27.03,Undeads' Mind Orichalcum Of The Twilight,279.00,1169.00,364.69,326151.0000,101748.5100,543560.74755300,03/02/2007 @ 12:00:00 AM
+30412,"Lightning, Brand",The Tower of Sabiesu the Awesome,10.00,Swordbronze,96.00,403.29,366.63,38715.8400,35196.4800,81303.55200000,03/02/2007 @ 12:00:00 AM
+28432,"Storm, Squallmourner",Barad Cune,49.21,Vampires' Fang Emeraldsilver,74.00,2033.69,80.84,150493.0600,5982.1600,233476.67576200,03/02/2007 @ 12:00:00 AM
+15209,"Ariel, God of Luck",The Fortress of Akkun the Grim,27.03,Mind Lead,209.00,241.00,219.09,50369.0000,45789.8100,122150.53634300,03/02/2007 @ 12:00:00 AM
+17993,Flameshiver,The Bastion of the Vampire Duke,37.90,Starsmoke Bronze Of Life,33.00,-438.00,420.81,-14454.0000,13886.7300,-782.26533000,03/02/2007 @ 12:00:00 AM
+15465,"Tarot, Dawn",The Tower of Aramum,20.00,Imperial Fate Steel,140.00,419.10,381.00,58674.0000,53340.0000,134416.80000000,03/02/2007 @ 12:00:00 AM
+6856,"Claw, Mist",The Drunken Thief,18.41,Trolls' Rubymercury Of The Sunset,218.00,2733.00,443.00,595794.0000,96574.0000,819832.94880000,03/02/2007 @ 12:00:00 AM
+3556,"Gadriel, God of Resurrection",The Khazahol Crags,20.68,Primordial Plague Mercury Of Legend,106.00,1150.79,67.00,121983.7400,7102.0000,155780.67103200,03/02/2007 @ 12:00:00 AM

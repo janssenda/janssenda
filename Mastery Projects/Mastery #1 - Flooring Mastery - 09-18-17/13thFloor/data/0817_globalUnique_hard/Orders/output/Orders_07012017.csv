@@ -1,20 +1,20 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-24426,"God of Resurrection, Gadriel",The Bastion of Barbos,25.41,Ensorceled Sandmetal Of Spirits,92.00,85.18,77.44,7836.5600,7124.4800,18762.64026400,07/01/2017 @ 12:00:00 AM
-2553,Cinderember,The Tower of Sabiesu the Awesome,10.00,Magicians' Legendary Poison Metal,189.00,-52.81,-48.01,-9981.0900,-9073.8900,-20960.47800000,07/01/2017 @ 12:00:00 AM
-23250,"Gust, Shadow",Reheath Stronghold,39.60,Tritons' Time Stoneiron Of Legend,218.00,341.59,341.59,74466.6200,74466.6200,207910.80304000,07/01/2017 @ 12:00:00 AM
-10032,"The Cadaverous, Chainblade",The Pirate's Pipe,15.40,Emerald Orichalcum,202.00,1957.00,118.01,395314.0000,23838.0200,483701.43108000,07/01/2017 @ 12:00:00 AM
-10167,"Wind, Maverick",Grove Farthing,25.00,Emerald Orichalcum,140.00,1957.00,118.01,273980.0000,16521.4000,363126.75000000,07/01/2017 @ 12:00:00 AM
-23675,"Goddess of Trickery, Alik",Reheath Stronghold,39.60,Planar Mudtin Of Trolls,192.00,191.40,174.00,36748.8000,33408.0000,97938.89280000,07/01/2017 @ 12:00:00 AM
-35607,"Goddess of Fate, Azah",The Fen of the Necromancer,32.21,Yellow Mistearth Copper,311.00,287.98,261.80,89561.7800,81419.8000,226054.74691800,07/01/2017 @ 12:00:00 AM
-23758,"Bladewitch, Zeal",Bifar's Deep,12.21,Djinni's Mind Fogiron,271.00,57.23,57.23,15509.3300,15509.3300,34806.03838600,07/01/2017 @ 12:00:00 AM
-33192,"The Unspeakable, Terrorghoul",Pewold Keep,29.00,Undeads' Mind Orichalcum Of The Twilight,234.00,1169.00,364.69,273546.0000,85337.4600,462959.66340000,07/01/2017 @ 12:00:00 AM
-21462,"Gust, Shadow",Reyny Keep,-3.35,Witchs' Forbidden Rockrainbow Bronze,147.00,245.63,245.63,36107.6100,36107.6100,69796.01013000,07/01/2017 @ 12:00:00 AM
-21785,Graveterror,Reyny Keep,-3.35,Yellow Mistearth Copper,205.00,287.98,261.80,59035.9000,53669.0000,108929.28585000,07/01/2017 @ 12:00:00 AM
-20748,Deathbrood,Mahyrst Keep,31.30,Plague Tin,268.00,465.25,422.95,124687.0000,113350.6000,312543.36880000,07/01/2017 @ 12:00:00 AM
-18576,"Lady of Vengeance, Zepul",The Dancing Minstrel,39.62,Toxic Mistlead Of The Past,92.00,396.06,396.06,36437.5200,36437.5200,101748.13084800,07/01/2017 @ 12:00:00 AM
-18550,"Tombreaper, Rouge",The Tomb of Hellish Ruin,36.30,Lycanthropes' Gold,113.00,371.80,338.00,42013.4000,38194.0000,109322.68620000,07/01/2017 @ 12:00:00 AM
-6074,"Mystery, Lord",Pawic Keep,31.90,Undeads' Mind Orichalcum Of The Twilight,134.00,1169.00,301.40,156646.0000,40387.6000,259887.31840000,07/01/2017 @ 12:00:00 AM
-29755,"Tomblion, Shadow",The Greedy Wench,13.31,Incubi's Glittering Tin Of The Future,243.00,192.96,233.49,46889.2800,56738.0700,117420.15028500,07/01/2017 @ 12:00:00 AM
-27299,Bonescare,The Bastion of Gothmog of Udun,-2.42,Sprites' Transcendent Mud Lead Of The South,213.00,3338.65,267.08,711132.4500,56888.0400,749434.39414200,07/01/2017 @ 12:00:00 AM
-4053,"God of Fate, Sielach",The Cuitamba Jungle,42.50,Primordial Plague Mercury Of Legend,351.00,1150.79,67.00,403927.2900,23517.0000,609108.11325000,07/01/2017 @ 12:00:00 AM
-4896,"God of Resurrection, Gadriel",Gena's Hold,4.00,Negative Rockglitter Mercury Of Trolls,179.00,3502.00,194.70,626858.0000,34851.3000,688177.67200000,07/01/2017 @ 12:00:00 AM
+24426,"God of Resurrection, Gadriel",The Bastion of Barbos,25.41,Ensorceled Sandmetal Of Spirits,92.00,85.18,77.44,7836.5600,7124.4800,18762.64026400,07/01/1947 @ 12:00:00 AM
+2553,Cinderember,The Tower of Sabiesu the Awesome,10.00,Magicians' Legendary Poison Metal,189.00,-52.81,-48.01,-9981.0900,-9073.8900,-20960.47800000,07/01/1947 @ 12:00:00 AM
+23250,"Gust, Shadow",Reheath Stronghold,39.60,Tritons' Time Stoneiron Of Legend,218.00,341.59,341.59,74466.6200,74466.6200,207910.80304000,07/01/1947 @ 12:00:00 AM
+10032,"The Cadaverous, Chainblade",The Pirate's Pipe,15.40,Emerald Orichalcum,202.00,1957.00,118.01,395314.0000,23838.0200,483701.43108000,07/01/1947 @ 12:00:00 AM
+10167,"Wind, Maverick",Grove Farthing,25.00,Emerald Orichalcum,140.00,1957.00,118.01,273980.0000,16521.4000,363126.75000000,07/01/1947 @ 12:00:00 AM
+23675,"Goddess of Trickery, Alik",Reheath Stronghold,39.60,Planar Mudtin Of Trolls,192.00,191.40,174.00,36748.8000,33408.0000,97938.89280000,07/01/1947 @ 12:00:00 AM
+35607,"Goddess of Fate, Azah",The Fen of the Necromancer,32.21,Yellow Mistearth Copper,311.00,287.98,261.80,89561.7800,81419.8000,226054.74691800,07/01/1947 @ 12:00:00 AM
+23758,"Bladewitch, Zeal",Bifar's Deep,12.21,Djinni's Mind Fogiron,271.00,57.23,57.23,15509.3300,15509.3300,34806.03838600,07/01/1947 @ 12:00:00 AM
+33192,"The Unspeakable, Terrorghoul",Pewold Keep,29.00,Undeads' Mind Orichalcum Of The Twilight,234.00,1169.00,364.69,273546.0000,85337.4600,462959.66340000,07/01/1947 @ 12:00:00 AM
+21462,"Gust, Shadow",Reyny Keep,-3.35,Witchs' Forbidden Rockrainbow Bronze,147.00,245.63,245.63,36107.6100,36107.6100,69796.01013000,07/01/1947 @ 12:00:00 AM
+21785,Graveterror,Reyny Keep,-3.35,Yellow Mistearth Copper,205.00,287.98,261.80,59035.9000,53669.0000,108929.28585000,07/01/1947 @ 12:00:00 AM
+20748,Deathbrood,Mahyrst Keep,31.30,Plague Tin,268.00,465.25,422.95,124687.0000,113350.6000,312543.36880000,07/01/1987 @ 12:00:00 AM
+18576,"Lady of Vengeance, Zepul",The Dancing Minstrel,39.62,Toxic Mistlead Of The Past,92.00,396.06,396.06,36437.5200,36437.5200,101748.13084800,07/01/1947 @ 12:00:00 AM
+18550,"Tombreaper, Rouge",The Tomb of Hellish Ruin,36.30,Lycanthropes' Gold,113.00,371.80,338.00,42013.4000,38194.0000,109322.68620000,07/01/1947 @ 12:00:00 AM
+6074,"Mystery, Lord",Pawic Keep,31.90,Undeads' Mind Orichalcum Of The Twilight,134.00,1169.00,301.40,156646.0000,40387.6000,259887.31840000,07/01/1947 @ 12:00:00 AM
+29755,"Tomblion, Shadow",The Greedy Wench,13.31,Incubi's Glittering Tin Of The Future,243.00,192.96,233.49,46889.2800,56738.0700,117420.15028500,07/01/1947 @ 12:00:00 AM
+27299,Bonescare,The Bastion of Gothmog of Udun,-2.42,Sprites' Transcendent Mud Lead Of The South,213.00,3338.65,267.08,711132.4500,56888.0400,749434.39414200,07/01/1947 @ 12:00:00 AM
+4053,"God of Fate, Sielach",The Cuitamba Jungle,42.50,Primordial Plague Mercury Of Legend,351.00,1150.79,67.00,403927.2900,23517.0000,609108.11325000,07/01/1947 @ 12:00:00 AM
+4896,"God of Resurrection, Gadriel",Gena's Hold,4.00,Negative Rockglitter Mercury Of Trolls,179.00,3502.00,194.70,626858.0000,34851.3000,688177.67200000,07/01/1947 @ 12:00:00 AM

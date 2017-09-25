@@ -1,16 +1,16 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-37744,"Goddess of Knowledge, Baltha",The Greedy Wench,13.31,Ghouls' Imperial Soulzephyr Mithril Of The Seas,243.00,318.23,318.23,77329.8900,77329.8900,175244.99671800,10/24/2017 @ 12:00:00 AM
-1302,"Darkzealot, Dawn",The Fortress of Asmamur,-2.00,Zephyr Adamant,157.00,481.77,-40.13,75637.8900,-6300.4100,67950.73040000,10/24/2017 @ 12:00:00 AM
-24860,Springcoil,The Bastion of Barbos,25.41,Foul Ice Bronze Of Life,161.00,292.82,266.20,47144.0200,42858.2000,112871.78410200,10/24/2017 @ 12:00:00 AM
-11845,"Anchor, Rose",The Citadel of Tattena the Sinister,22.39,Incubi's Iron Of The Dawn,205.00,174.99,159.08,35872.9500,32611.4000,83817.99596500,10/24/2017 @ 12:00:00 AM
-34763,"Claw, Slayer",Barad Kesa,6.17,Grayplatinum,50.00,2548.00,115.43,127400.0000,5771.5000,141388.18155000,10/24/2017 @ 12:00:00 AM
-20278,"God of Resurrection, Gadriel",Dysley Stronghold,35.51,Unknowable Mindsilver,99.00,174.90,174.90,17315.1000,17315.1000,46927.38402000,10/24/2017 @ 12:00:00 AM
-9265,"The Evil, Flameflare",Love Keep,40.56,Djinni's Spectral Shadowlead Of Life,246.00,1718.00,259.12,422628.0000,63743.5200,683643.80851200,10/24/2017 @ 12:00:00 AM
-20335,"God of Fate, Uriel",Bifar's Deep,11.10,Shadow Metal,159.00,1606.00,298.00,255354.0000,47382.0000,336339.69600000,10/24/2017 @ 12:00:00 AM
-21775,"The Evil, Snowflame",The Bastion of Gothmog of Udun,-2.42,Starsmoke Bronze Of Life,229.00,-438.00,420.81,-100302.0000,96365.4900,-3841.24645800,10/24/2017 @ 12:00:00 AM
-32414,"The Evil, Snowflame",Hafeld Keep,47.59,Negative Rockglitter Mercury Of Trolls,147.00,235.59,214.17,34631.7300,31482.9900,97578.71524800,10/24/2017 @ 12:00:00 AM
-30256,"Goddess of the Earth, Gono",The Tower of Sabiesu the Awesome,10.00,Incubi's Glittering Tin Of The Future,237.00,192.96,233.49,45731.5200,55337.1300,111175.51500000,10/24/2017 @ 12:00:00 AM
-28164,Bronzespawn,Bifar's Deep,12.21,Vampires' Fang Emeraldsilver,204.00,2033.69,80.84,414872.7600,16491.3600,484033.67905200,10/24/2017 @ 12:00:00 AM
-31716,Springsprocket,Weke Tower,47.19,Warlocks' Timerot Mithril,161.00,194.65,194.65,31338.6500,31338.6500,92254.71787000,10/24/2017 @ 12:00:00 AM
-5169,Metalghoul,Archring Borough,27.00,Forgotten Mithril,270.00,3909.75,451.00,1055632.5000,121770.0000,1495301.17500000,10/24/2017 @ 12:00:00 AM
-26796,"Lionwatcher, Law",Gili's Delve,35.89,Shadowhell Mithril,135.00,462.21,420.19,62398.3500,56725.6500,161877.60360000,10/24/2017 @ 12:00:00 AM
+37744,"Goddess of Knowledge, Baltha",The Greedy Wench,13.31,Ghouls' Imperial Soulzephyr Mithril Of The Seas,243.00,318.23,318.23,77329.8900,77329.8900,175244.99671800,10/24/1947 @ 12:00:00 AM
+1302,"Darkzealot, Dawn",The Fortress of Asmamur,-2.00,Zephyr Adamant,157.00,481.77,-40.13,75637.8900,-6300.4100,67950.73040000,10/24/1947 @ 12:00:00 AM
+24860,Springcoil,The Bastion of Barbos,25.41,Foul Ice Bronze Of Life,161.00,292.82,266.20,47144.0200,42858.2000,112871.78410200,10/24/1947 @ 12:00:00 AM
+11845,"Anchor, Rose",The Citadel of Tattena the Sinister,22.39,Incubi's Iron Of The Dawn,205.00,174.99,159.08,35872.9500,32611.4000,83817.99596500,10/24/1947 @ 12:00:00 AM
+34763,"Claw, Slayer",Barad Kesa,6.17,Grayplatinum,50.00,2548.00,115.43,127400.0000,5771.5000,141388.18155000,10/24/1947 @ 12:00:00 AM
+20278,"God of Resurrection, Gadriel",Dysley Stronghold,35.51,Unknowable Mindsilver,99.00,174.90,174.90,17315.1000,17315.1000,46927.38402000,10/24/1947 @ 12:00:00 AM
+9265,"The Evil, Flameflare",Love Keep,40.56,Djinni's Spectral Shadowlead Of Life,246.00,1718.00,259.12,422628.0000,63743.5200,683643.80851200,10/24/1947 @ 12:00:00 AM
+20335,"God of Fate, Uriel",Bifar's Deep,11.10,Shadow Metal,159.00,1606.00,298.00,255354.0000,47382.0000,336339.69600000,10/24/1947 @ 12:00:00 AM
+21775,"The Evil, Snowflame",The Bastion of Gothmog of Udun,-2.42,Starsmoke Bronze Of Life,229.00,-438.00,420.81,-100302.0000,96365.4900,-3841.24645800,10/24/1947 @ 12:00:00 AM
+32414,"The Evil, Snowflame",Hafeld Keep,47.59,Negative Rockglitter Mercury Of Trolls,147.00,235.59,214.17,34631.7300,31482.9900,97578.71524800,10/24/1947 @ 12:00:00 AM
+30256,"Goddess of the Earth, Gono",The Tower of Sabiesu the Awesome,10.00,Incubi's Glittering Tin Of The Future,237.00,192.96,233.49,45731.5200,55337.1300,111175.51500000,10/24/1947 @ 12:00:00 AM
+28164,Bronzespawn,Bifar's Deep,12.21,Vampires' Fang Emeraldsilver,204.00,2033.69,80.84,414872.7600,16491.3600,484033.67905200,10/24/1947 @ 12:00:00 AM
+31716,Springsprocket,Weke Tower,47.19,Warlocks' Timerot Mithril,161.00,194.65,194.65,31338.6500,31338.6500,92254.71787000,10/24/1947 @ 12:00:00 AM
+5169,Metalghoul,Archring Borough,27.00,Forgotten Mithril,270.00,3909.75,451.00,1055632.5000,121770.0000,1495301.17500000,10/24/1947 @ 12:00:00 AM
+26796,"Lionwatcher, Law",Gili's Delve,35.89,Shadowhell Mithril,135.00,462.21,420.19,62398.3500,56725.6500,161877.60360000,10/24/1947 @ 12:00:00 AM

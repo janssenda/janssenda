@@ -1,18 +1,18 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-2340,Chainnail,The Dismal Marsh,27.00,Magic Adamant,236.00,-190.00,72.13,-44840.0000,17022.6800,-35327.99640000,03/03/2017 @ 12:00:00 AM
-2391,"Dire, Wind",Pewold Keep,29.00,Undeads' Mind Orichalcum Of The Twilight,279.00,1169.00,274.00,326151.0000,76446.0000,519350.13000000,03/03/2017 @ 12:00:00 AM
-23082,"Reaper, Dagger",The Lewd King,45.98,Planar Mudtin Of Trolls,323.00,191.40,174.00,61822.2000,56202.0000,172291.72716000,03/03/2017 @ 12:00:00 AM
-37841,"God of Resurrection, Gadriel",The Greedy Wench,13.31,Ghouls' Imperial Soulzephyr Mithril Of The Seas,204.00,318.23,318.23,64918.9200,64918.9200,147119.25650400,03/03/2017 @ 12:00:00 AM
-23557,Freezebrood,The Fortress of Akkun the Grim,27.03,Planar Mudtin Of Trolls,27.00,191.40,174.00,5167.8000,4698.0000,12532.52574000,03/03/2017 @ 12:00:00 AM
-35525,"The Unspeakable, Scarechain",Bifar's Deep,12.21,Lycanthropes' Gold,237.00,449.88,408.98,106621.5600,96928.2600,228403.25302200,03/03/2017 @ 12:00:00 AM
-33637,"Seeker, Fate",The Archer and Scroll,60.12,Fairies' Supreme Mistsmoke Lead Of The Future,141.00,499.73,549.70,70461.9300,77507.7000,236928.97155600,03/03/2017 @ 12:00:00 AM
-32304,"God of Thieves, Maeglodor",The Chuallanto Jungle,11.00,Fairies' Supreme Mistsmoke Lead Of The Future,224.00,499.73,549.70,111939.5200,123132.8000,260930.27520000,03/03/2017 @ 12:00:00 AM
-21623,"The Unspeakable, Terrorghoul",North Arcanist's Farthing,3.03,Starsmoke Bronze Of Life,205.00,-438.00,420.81,-89790.0000,86266.0500,-3630.72568500,03/03/2017 @ 12:00:00 AM
-30293,"Lord of the Sea, Penur",The Tower of Sabiesu the Awesome,10.00,Swordbronze,131.00,403.29,366.63,52830.9900,48028.5300,110945.47200000,03/03/2017 @ 12:00:00 AM
-466,"The Frigid, Icechill",Gili's Delve,35.89,Emerald Orichalcum,167.00,1957.00,118.01,326819.0000,19707.6700,470895.09186300,03/03/2017 @ 12:00:00 AM
-15043,Gravebone,The Secret Shrine of the Gargoyle Count,23.93,Fleshshock Mercury,103.00,-31.02,-28.20,-3195.0600,-2904.6000,-7559.30863800,03/03/2017 @ 12:00:00 AM
-6373,"Dawn, Tarot",Khali's Delve,1.18,Shadowhell Mithril,97.00,462.21,420.19,44834.3700,40758.4300,86602.79504000,03/03/2017 @ 12:00:00 AM
-25156,"Roguemist, Rouge",Weke Tower,47.19,Ghostly Soul Adamant,337.00,414.70,377.00,139753.9000,127049.0000,392707.18851000,03/03/2017 @ 12:00:00 AM
-37391,"Wolf, Jericho",The Greedy Wench,13.31,Stone Soulsteel Of The Skies,157.00,453.31,453.31,71169.6700,71169.6700,161284.70615400,03/03/2017 @ 12:00:00 AM
-2161,"God of the Lost, Lionare",Mahyrst Keep,28.45,Magic Adamant,181.00,-190.00,72.13,-34390.0000,13055.5300,-27404.12671500,03/03/2017 @ 12:00:00 AM
-13431,"Godseeker, Cult",Khali's Delve,1.18,Primordial Plague Mercury Of Legend,363.00,73.70,67.00,26753.1000,24321.0000,51676.77438000,03/03/2017 @ 12:00:00 AM
+2340,Chainnail,The Dismal Marsh,27.00,Magic Adamant,236.00,-190.00,72.13,-44840.0000,17022.6800,-35327.99640000,03/03/1947 @ 12:00:00 AM
+2391,"Dire, Wind",Pewold Keep,29.00,Undeads' Mind Orichalcum Of The Twilight,279.00,1169.00,274.00,326151.0000,76446.0000,519350.13000000,03/03/1947 @ 12:00:00 AM
+23082,"Reaper, Dagger",The Lewd King,45.98,Planar Mudtin Of Trolls,323.00,191.40,174.00,61822.2000,56202.0000,172291.72716000,03/03/1947 @ 12:00:00 AM
+37841,"God of Resurrection, Gadriel",The Greedy Wench,13.31,Ghouls' Imperial Soulzephyr Mithril Of The Seas,204.00,318.23,318.23,64918.9200,64918.9200,147119.25650400,03/03/1947 @ 12:00:00 AM
+23557,Freezebrood,The Fortress of Akkun the Grim,27.03,Planar Mudtin Of Trolls,27.00,191.40,174.00,5167.8000,4698.0000,12532.52574000,03/03/1947 @ 12:00:00 AM
+35525,"The Unspeakable, Scarechain",Bifar's Deep,12.21,Lycanthropes' Gold,237.00,449.88,408.98,106621.5600,96928.2600,228403.25302200,03/03/1947 @ 12:00:00 AM
+33637,"Seeker, Fate",The Archer and Scroll,60.12,Fairies' Supreme Mistsmoke Lead Of The Future,141.00,499.73,549.70,70461.9300,77507.7000,236928.97155600,03/03/1947 @ 12:00:00 AM
+32304,"God of Thieves, Maeglodor",The Chuallanto Jungle,11.00,Fairies' Supreme Mistsmoke Lead Of The Future,224.00,499.73,549.70,111939.5200,123132.8000,260930.27520000,03/03/1947 @ 12:00:00 AM
+21623,"The Unspeakable, Terrorghoul",North Arcanist's Farthing,3.03,Starsmoke Bronze Of Life,205.00,-438.00,420.81,-89790.0000,86266.0500,-3630.72568500,03/03/1947 @ 12:00:00 AM
+30293,"Lord of the Sea, Penur",The Tower of Sabiesu the Awesome,10.00,Swordbronze,131.00,403.29,366.63,52830.9900,48028.5300,110945.47200000,03/03/1947 @ 12:00:00 AM
+466,"The Frigid, Icechill",Gili's Delve,35.89,Emerald Orichalcum,167.00,1957.00,118.01,326819.0000,19707.6700,470895.09186300,03/03/1987 @ 12:00:00 AM
+15043,Gravebone,The Secret Shrine of the Gargoyle Count,23.93,Fleshshock Mercury,103.00,-31.02,-28.20,-3195.0600,-2904.6000,-7559.30863800,03/03/1947 @ 12:00:00 AM
+6373,"Dawn, Tarot",Khali's Delve,1.18,Shadowhell Mithril,97.00,462.21,420.19,44834.3700,40758.4300,86602.79504000,03/03/1947 @ 12:00:00 AM
+25156,"Roguemist, Rouge",Weke Tower,47.19,Ghostly Soul Adamant,337.00,414.70,377.00,139753.9000,127049.0000,392707.18851000,03/03/1947 @ 12:00:00 AM
+37391,"Wolf, Jericho",The Greedy Wench,13.31,Stone Soulsteel Of The Skies,157.00,453.31,453.31,71169.6700,71169.6700,161284.70615400,03/03/1947 @ 12:00:00 AM
+2161,"God of the Lost, Lionare",Mahyrst Keep,28.45,Magic Adamant,181.00,-190.00,72.13,-34390.0000,13055.5300,-27404.12671500,03/03/1947 @ 12:00:00 AM
+13431,"Godseeker, Cult",Khali's Delve,1.18,Primordial Plague Mercury Of Legend,363.00,73.70,67.00,26753.1000,24321.0000,51676.77438000,03/03/1947 @ 12:00:00 AM

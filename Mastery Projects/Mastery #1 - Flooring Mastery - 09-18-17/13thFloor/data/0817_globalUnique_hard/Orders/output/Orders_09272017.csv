@@ -1,18 +1,18 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-24313,"Goddess of Knowledge, Baltha",Bifar's Deep,12.21,Foul Ice Bronze Of Life,305.00,292.82,266.20,89310.1000,81191.0000,191319.28431000,09/27/2017 @ 12:00:00 AM
-14999,"God of Resurrection, Gadriel",The Fortress of Akkun the Grim,27.03,Fleshshock Mercury,177.00,-31.02,-28.20,-5490.5400,-4991.4000,-13315.20838200,09/27/2017 @ 12:00:00 AM
-2631,"God of Luck, Ariel",The Bloody Wand,1.98,Stone Soulsteel Of The Skies,371.00,3459.15,340.58,1283344.6500,126355.1800,1437611.88663400,09/27/2017 @ 12:00:00 AM
-10344,"God of Resurrection, Gadriel",Arcanist's Farthing,29.00,Tritons' Time Stoneiron Of Legend,173.00,2235.00,310.54,386655.0000,53723.4200,568088.16180000,09/27/2017 @ 12:00:00 AM
-33054,"Darkzealot, Dawn",The Archer and Scroll,60.12,Mind Lead,297.00,241.00,219.09,71577.0000,65069.7300,218798.74407600,09/27/2017 @ 12:00:00 AM
-10866,"God of Luck, Ariel",Kada's Deep,7.65,Tritons' Time Stoneiron Of Legend,103.00,2235.00,310.54,230205.0000,31985.6200,282248.20243000,09/27/2017 @ 12:00:00 AM
-33563,"Rougehate, Rune",The Archer and Scroll,60.12,Mind Lead,214.00,241.00,219.09,51574.0000,46885.2600,157652.96711200,09/27/2017 @ 12:00:00 AM
-34877,"God of Luck, Ariel",Barad Kesa,6.17,Ghouls' Imperial Soulzephyr Mithril Of The Seas,365.00,318.23,318.23,116153.9500,116153.9500,246641.29743000,09/27/2017 @ 12:00:00 AM
-8013,"Wind, Maverick",Lamp Borough,0.00,Unicorns' Fatal Magma Metal Of The Ocean,269.00,903.00,23.00,242907.0000,6187.0000,249094.00000000,09/27/2017 @ 12:00:00 AM
-9750,"Knightseraph, Lance",Archring Borough,29.70,God-touched Greengem Platinum,94.00,2181.36,188.14,205047.8400,17685.1600,288884.70100000,09/27/2017 @ 12:00:00 AM
-9772,"Tombreaper, Rouge",The Pirate's Pipe,15.40,God-touched Greengem Platinum,237.00,2181.36,188.14,516982.3200,44589.1800,648053.51100000,09/27/2017 @ 12:00:00 AM
-30377,Bonescare,The Greedy Wench,13.31,White Platinum,205.00,101.02,91.84,20709.1000,18827.2000,44798.58153000,09/27/2017 @ 12:00:00 AM
-32969,"Lord of Death, Addon",The Archer and Scroll,60.12,Forgotten Mithril,315.00,600.28,545.71,189088.2000,171898.6500,578012.14422000,09/27/2017 @ 12:00:00 AM
-28499,"Lady of Vengeance, Zepul",Barad Kesa,5.61,Vampires' Fang Emeraldsilver,195.00,2033.69,80.84,396569.5500,15763.8000,435465.25093500,09/27/2017 @ 12:00:00 AM
-29794,"Jester, Seraph",The Greedy Wench,13.31,White Platinum,266.00,101.02,91.84,26871.3200,24429.4400,58128.89115600,09/27/2017 @ 12:00:00 AM
-15781,"The Freezer, Shiverflame",The Dungeon of Merciless Woe,3.61,Starsmoke Bronze Of Life,90.00,-438.00,420.81,-39420.0000,37872.9000,-1602.95031000,09/27/2017 @ 12:00:00 AM
-3265,"Drakecaster, Sephiroth",The Archer and Scroll,45.16,Zephyr Adamant,110.00,481.77,-40.13,52994.7000,-4414.3000,70519.30864000,09/27/2017 @ 12:00:00 AM
+24313,"Goddess of Knowledge, Baltha",Bifar's Deep,12.21,Foul Ice Bronze Of Life,305.00,292.82,266.20,89310.1000,81191.0000,191319.28431000,09/27/1947 @ 12:00:00 AM
+14999,"God of Resurrection, Gadriel",The Fortress of Akkun the Grim,27.03,Fleshshock Mercury,177.00,-31.02,-28.20,-5490.5400,-4991.4000,-13315.20838200,09/27/1947 @ 12:00:00 AM
+2631,"God of Luck, Ariel",The Bloody Wand,1.98,Stone Soulsteel Of The Skies,371.00,3459.15,340.58,1283344.6500,126355.1800,1437611.88663400,09/27/1947 @ 12:00:00 AM
+10344,"God of Resurrection, Gadriel",Arcanist's Farthing,29.00,Tritons' Time Stoneiron Of Legend,173.00,2235.00,310.54,386655.0000,53723.4200,568088.16180000,09/27/1947 @ 12:00:00 AM
+33054,"Darkzealot, Dawn",The Archer and Scroll,60.12,Mind Lead,297.00,241.00,219.09,71577.0000,65069.7300,218798.74407600,09/27/1947 @ 12:00:00 AM
+10866,"God of Luck, Ariel",Kada's Deep,7.65,Tritons' Time Stoneiron Of Legend,103.00,2235.00,310.54,230205.0000,31985.6200,282248.20243000,09/27/1947 @ 12:00:00 AM
+33563,"Rougehate, Rune",The Archer and Scroll,60.12,Mind Lead,214.00,241.00,219.09,51574.0000,46885.2600,157652.96711200,09/27/1947 @ 12:00:00 AM
+34877,"God of Luck, Ariel",Barad Kesa,6.17,Ghouls' Imperial Soulzephyr Mithril Of The Seas,365.00,318.23,318.23,116153.9500,116153.9500,246641.29743000,09/27/1947 @ 12:00:00 AM
+8013,"Wind, Maverick",Lamp Borough,0.00,Unicorns' Fatal Magma Metal Of The Ocean,269.00,903.00,23.00,242907.0000,6187.0000,249094.00000000,09/27/1947 @ 12:00:00 AM
+9750,"Knightseraph, Lance",Archring Borough,29.70,God-touched Greengem Platinum,94.00,2181.36,188.14,205047.8400,17685.1600,288884.70100000,09/27/1947 @ 12:00:00 AM
+9772,"Tombreaper, Rouge",The Pirate's Pipe,15.40,God-touched Greengem Platinum,237.00,2181.36,188.14,516982.3200,44589.1800,648053.51100000,09/27/1947 @ 12:00:00 AM
+30377,Bonescare,The Greedy Wench,13.31,White Platinum,205.00,101.02,91.84,20709.1000,18827.2000,44798.58153000,09/27/1947 @ 12:00:00 AM
+32969,"Lord of Death, Addon",The Archer and Scroll,60.12,Forgotten Mithril,315.00,600.28,545.71,189088.2000,171898.6500,578012.14422000,09/27/1947 @ 12:00:00 AM
+28499,"Lady of Vengeance, Zepul",Barad Kesa,5.61,Vampires' Fang Emeraldsilver,195.00,2033.69,80.84,396569.5500,15763.8000,435465.25093500,09/27/1947 @ 12:00:00 AM
+29794,"Jester, Seraph",The Greedy Wench,13.31,White Platinum,266.00,101.02,91.84,26871.3200,24429.4400,58128.89115600,09/27/1947 @ 12:00:00 AM
+15781,"The Freezer, Shiverflame",The Dungeon of Merciless Woe,3.61,Starsmoke Bronze Of Life,90.00,-438.00,420.81,-39420.0000,37872.9000,-1602.95031000,09/27/1947 @ 12:00:00 AM
+3265,"Drakecaster, Sephiroth",The Archer and Scroll,45.16,Zephyr Adamant,110.00,481.77,-40.13,52994.7000,-4414.3000,70519.30864000,09/27/1947 @ 12:00:00 AM

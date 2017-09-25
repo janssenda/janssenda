@@ -1,23 +1,23 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-13701,"Mistmidnight, Tiger",The Bastion of the Vampire Duke,37.90,Nymphs' Luminous Rotmercury Of The Skies,252.00,335.50,369.05,84546.0000,93000.6000,244836.76140000,02/24/2016 @ 12:00:00 AM
-3787,"The Frigid, Icechill",The Broken Shield,12.00,Forgotten Mithril,195.00,3909.75,451.00,762401.2500,87945.0000,952387.80000000,02/24/2016 @ 12:00:00 AM
-3789,Bolttrap,The Hunter and Rose,39.60,Primordial Plague Mercury Of Legend,78.00,1150.79,67.00,89761.6200,5226.0000,132602.71752000,02/24/2016 @ 12:00:00 AM
-11193,"God of Protection, Finarfin",The Broken Shield,12.00,Mistgold Of Men,145.00,412.50,375.00,59812.5000,54375.0000,127890.00000000,02/24/2016 @ 12:00:00 AM
-36459,"Knightseraph, Lance",The Fen of the Necromancer,32.21,Grayplatinum,104.00,2548.00,115.43,264992.0000,12004.7200,366217.36351200,02/24/2016 @ 12:00:00 AM
-12899,"The Freezer, Shiverflame",The Tomb of Hellish Ruin,33.00,God-touched Greengem Platinum,283.00,206.95,206.95,58566.8500,58566.8500,155787.82100000,02/24/2016 @ 12:00:00 AM
-10270,Cinderember,Archfane District,15.29,Dragons' Poison Glitterflesh Steel Of The North,209.00,742.00,75.00,155078.0000,15675.0000,196861.13370000,02/24/2016 @ 12:00:00 AM
-1701,Cinderember,The Dungeon of Dismal Terror,40.27,Negative Mercury,106.00,4115.00,68.00,436190.0000,7208.0000,621954.37460000,02/24/2016 @ 12:00:00 AM
-35891,"Runetomb, Song",The Fen of the Necromancer,32.21,Lycanthropes' Gold,225.00,449.88,408.98,101223.0000,92020.5000,255487.23135000,02/24/2016 @ 12:00:00 AM
-22588,"Godseeker, Cult",The Nulukkhath Spires,28.99,Fog Lavaplatinum Of Life,285.00,560.35,509.41,159699.7500,145181.8500,393266.77584000,02/24/2016 @ 12:00:00 AM
-22639,"Goddess of Knowledge, Baltha",The Tomb of Hellish Ruin,36.30,Fleshshock Mercury,343.00,-31.02,-28.20,-10639.8600,-9672.6000,-27685.88298000,02/24/2016 @ 12:00:00 AM
-32246,"Lord of Nightmares, Iran",The Bastion of the Lich Tyrant,8.64,Unspeakable Rotsoul Mithril Of Souls,98.00,370.26,336.60,36285.4800,32986.8000,75257.40499200,02/24/2016 @ 12:00:00 AM
-31023,"Runetomb, Song",Mahyrst Keep,31.30,Foulopal Copper Of The Skies,351.00,221.83,221.83,77862.3300,77862.3300,204466.47858000,02/24/2016 @ 12:00:00 AM
-9498,"The Unspeakable, Scarechain",Castle Village,39.07,Muck Orichalcum Of Ogres,76.00,2080.00,97.93,158080.0000,7442.6800,230192.39107600,02/24/2016 @ 12:00:00 AM
-28174,"Goddess of Knowledge, Ahah",Barad Cune,49.21,Vampires' Fang Emeraldsilver,304.00,2033.69,80.84,618241.7600,24575.3600,959147.42475200,02/24/2016 @ 12:00:00 AM
-30490,"God of Fate, Sielach",The Broken Arrow,17.60,Witchs' Forbidden Rockrainbow Bronze,205.00,245.63,245.63,50354.1500,50354.1500,118432.96080000,02/24/2016 @ 12:00:00 AM
-31748,"Dawn, Tarot",Weke Tower,47.19,Fairies' Supreme Mistsmoke Lead Of The Future,147.00,499.73,549.70,73460.3100,80805.9000,227064.43449900,02/24/2016 @ 12:00:00 AM
-17686,"Spiritraven, Bedlam",The Bastion of the Vampire Duke,37.90,Trolls' Rubymercury Of The Sunset,97.00,487.30,487.30,47268.1000,47268.1000,130365.41980000,02/24/2016 @ 12:00:00 AM
-29668,"Darkzealot, Dawn",The Tower of Sabiesu the Awesome,10.00,Incubi's Glittering Tin Of The Future,259.00,192.96,233.49,49976.6400,60473.9100,121495.60500000,02/24/2016 @ 12:00:00 AM
-4278,"Runetomb, Song",Eved Castle,28.00,Fairies' Supreme Mistsmoke Lead Of The Future,131.00,2622.69,413.00,343572.3900,54103.0000,509024.49920000,02/24/2016 @ 12:00:00 AM
-26350,"God of Luck, Ariel",The Pirate's Pipe,16.94,Grayplatinum,47.00,2548.00,104.94,119756.0000,4932.1800,145810.35769200,02/24/2016 @ 12:00:00 AM
-3533,"Veil, Bane",The Broken Shield,12.00,Mind Lead,136.00,756.00,199.17,102816.0000,27087.1200,145491.49440000,02/24/2016 @ 12:00:00 AM
+13701,"Tiger, Mistmidnight",The Bastion of the Vampire Duke,37.90,Nymphs' Luminous Rotmercury Of The Skies,252.00,335.50,369.05,84546.0000,93000.6000,244836.76140000,02/24/2006 @ 12:00:00 AM
+3787,"Icechill, The Frigid",The Broken Shield,12.00,Forgotten Mithril,195.00,3909.75,451.00,762401.2500,87945.0000,952387.80000000,02/24/2006 @ 12:00:00 AM
+3789,Bolttrap,The Hunter and Rose,39.60,Primordial Plague Mercury Of Legend,78.00,1150.79,67.00,89761.6200,5226.0000,132602.71752000,02/24/2006 @ 12:00:00 AM
+11193,"Finarfin, God of Protection",The Broken Shield,12.00,Mistgold Of Men,145.00,412.50,375.00,59812.5000,54375.0000,127890.00000000,02/24/2006 @ 12:00:00 AM
+36459,"Lance, Knightseraph",The Fen of the Necromancer,32.21,Grayplatinum,104.00,2548.00,115.43,264992.0000,12004.7200,366217.36351200,02/24/2006 @ 12:00:00 AM
+12899,"Shiverflame, The Freezer",The Tomb of Hellish Ruin,33.00,God-touched Greengem Platinum,283.00,206.95,206.95,58566.8500,58566.8500,155787.82100000,02/24/2006 @ 12:00:00 AM
+10270,Cinderember,Archfane District,15.29,Dragons' Poison Glitterflesh Steel Of The North,209.00,742.00,75.00,155078.0000,15675.0000,196861.13370000,02/24/2006 @ 12:00:00 AM
+1701,Cinderember,The Dungeon of Dismal Terror,40.27,Negative Mercury,106.00,4115.00,68.00,436190.0000,7208.0000,621954.37460000,02/24/2006 @ 12:00:00 AM
+35891,"Song, Runetomb",The Fen of the Necromancer,32.21,Lycanthropes' Gold,225.00,449.88,408.98,101223.0000,92020.5000,255487.23135000,02/24/2006 @ 12:00:00 AM
+22588,"Cult, Godseeker",The Nulukkhath Spires,28.99,Fog Lavaplatinum Of Life,285.00,560.35,509.41,159699.7500,145181.8500,393266.77584000,02/24/2006 @ 12:00:00 AM
+22639,"Baltha, Goddess of Knowledge",The Tomb of Hellish Ruin,36.30,Fleshshock Mercury,343.00,-31.02,-28.20,-10639.8600,-9672.6000,-27685.88298000,02/24/2006 @ 12:00:00 AM
+32246,"Iran, Lord of Nightmares",The Bastion of the Lich Tyrant,8.64,Unspeakable Rotsoul Mithril Of Souls,98.00,370.26,336.60,36285.4800,32986.8000,75257.40499200,02/24/2006 @ 12:00:00 AM
+31023,"Song, Runetomb",Mahyrst Keep,31.30,Foulopal Copper Of The Skies,351.00,221.83,221.83,77862.3300,77862.3300,204466.47858000,02/24/2006 @ 12:00:00 AM
+9498,"Scarechain, The Unspeakable",Castle Village,39.07,Muck Orichalcum Of Ogres,76.00,2080.00,97.93,158080.0000,7442.6800,230192.39107600,02/24/2006 @ 12:00:00 AM
+28174,"Ahah, Goddess of Knowledge",Barad Cune,49.21,Vampires' Fang Emeraldsilver,304.00,2033.69,80.84,618241.7600,24575.3600,959147.42475200,02/24/2006 @ 12:00:00 AM
+30490,"Sielach, God of Fate",The Broken Arrow,17.60,Witchs' Forbidden Rockrainbow Bronze,205.00,245.63,245.63,50354.1500,50354.1500,118432.96080000,02/24/2006 @ 12:00:00 AM
+31748,"Tarot, Dawn",Weke Tower,47.19,Fairies' Supreme Mistsmoke Lead Of The Future,147.00,499.73,549.70,73460.3100,80805.9000,227064.43449900,02/24/2006 @ 12:00:00 AM
+17686,"Bedlam, Spiritraven",The Bastion of the Vampire Duke,37.90,Trolls' Rubymercury Of The Sunset,97.00,487.30,487.30,47268.1000,47268.1000,130365.41980000,02/24/2006 @ 12:00:00 AM
+29668,"Dawn, Darkzealot",The Tower of Sabiesu the Awesome,10.00,Incubi's Glittering Tin Of The Future,259.00,192.96,233.49,49976.6400,60473.9100,121495.60500000,02/24/2006 @ 12:00:00 AM
+4278,"Song, Runetomb",Eved Castle,28.00,Fairies' Supreme Mistsmoke Lead Of The Future,131.00,2622.69,413.00,343572.3900,54103.0000,509024.49920000,02/24/2006 @ 12:00:00 AM
+26350,"Ariel, God of Luck",The Pirate's Pipe,16.94,Grayplatinum,47.00,2548.00,104.94,119756.0000,4932.1800,145810.35769200,02/24/2006 @ 12:00:00 AM
+3533,"Bane, Veil",The Broken Shield,12.00,Mind Lead,136.00,756.00,199.17,102816.0000,27087.1200,145491.49440000,02/24/2006 @ 12:00:00 AM

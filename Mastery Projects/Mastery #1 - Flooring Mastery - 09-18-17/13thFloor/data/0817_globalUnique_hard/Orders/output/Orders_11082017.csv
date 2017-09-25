@@ -1,17 +1,17 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-35185,"Mystery, Lord",The Bastion of the Vampire Duke,45.86,Sprites' Transcendent Mud Lead Of The South,106.00,3338.65,267.08,353896.9000,28310.4800,557487.68446800,11/08/2017 @ 12:00:00 AM
-36644,Gravebone,The Fen of the Necromancer,32.21,Phantasmal Tin Of The Swamps,152.00,405.96,369.05,61705.9200,56095.6000,155745.38959200,11/08/2017 @ 12:00:00 AM
-10463,"Goddess of Knowledge, Baltha",Gena's Hold,4.84,Dragons' Poison Glitterflesh Steel Of The North,94.00,742.00,75.00,69748.0000,7050.0000,80515.02320000,11/08/2017 @ 12:00:00 AM
-9198,"Lord of the Sun, Maglioneth",The Black Barrow of Bery,19.80,Unknowable Mindsilver,209.00,174.90,174.90,36554.1000,36554.1000,87583.62360000,11/08/2017 @ 12:00:00 AM
-22891,"Lonedrake, Clash",The Secret Catacombs of Ulfang the Black,31.70,Shadowhell Mithril,152.00,462.21,420.19,70255.9200,63868.8800,176642.36160000,11/08/2017 @ 12:00:00 AM
-33624,"Goddess of Knowledge, Baltha",The Archer and Scroll,60.12,Undeads' Mind Orichalcum Of The Twilight,121.00,1169.00,364.69,141449.0000,44127.4900,297145.07578800,11/08/2017 @ 12:00:00 AM
-21766,"Seeker, Fate",Reyny Keep,-3.35,Starsmoke Bronze Of Life,159.00,-438.00,420.81,-69642.0000,66908.7900,-2641.64746500,11/08/2017 @ 12:00:00 AM
-18118,"The Disinterred, Spikebrood",The Khazahol Crags,22.75,Venom Jewelmetal Of The Desert,378.00,701.92,222.50,265325.7600,84105.0000,428926.25790000,11/08/2017 @ 12:00:00 AM
-20521,Graveterror,Bifar's Deep,11.10,Shadow Metal,234.00,1606.00,298.00,375804.0000,69732.0000,494990.49600000,11/08/2017 @ 12:00:00 AM
-19951,Chainhorror,The Demon and Toad,-1.10,Unknowable Mindsilver,163.00,174.90,174.90,28508.7000,28508.7000,56390.20860000,11/08/2017 @ 12:00:00 AM
-28186,"God of War, Ingwenel",The Bastion of the Vampire Duke,45.86,Vampires' Fang Emeraldsilver,256.00,2033.69,80.84,520624.6400,20695.0400,789568.88524800,11/08/2017 @ 12:00:00 AM
-27067,Emberspawn,The Chuallanto Jungle,11.00,Foulopal Copper Of The Skies,190.00,221.83,201.66,42147.7000,38315.4000,89314.04100000,11/08/2017 @ 12:00:00 AM
-16461,"Wolf, Jericho",The Secret Shrine of the Gargoyle Count,23.93,Vampires' Hammer Emeraldmetal,34.00,77.44,77.44,2632.9600,2632.9600,6526.05465600,11/08/2017 @ 12:00:00 AM
-6944,"Lord of the Sea, Penur",The Citadel of Tattena the Sinister,22.39,Planar Mudtin Of Trolls,137.00,3529.02,174.00,483475.7400,23838.0000,620901.28638600,11/08/2017 @ 12:00:00 AM
-12031,"Lord of the Sea, Penur",The Nulukkhath Spires,28.99,Foul Ice Bronze Of Life,290.00,292.82,266.20,84917.8000,77198.0000,209113.17042000,11/08/2017 @ 12:00:00 AM
-26644,"The Blade, Scarefear",Reheath Stronghold,39.60,Shadowhell Mithril,166.00,462.21,420.19,76726.8600,69751.5400,204483.84640000,11/08/2017 @ 12:00:00 AM
+35185,"Mystery, Lord",The Bastion of the Vampire Duke,45.86,Sprites' Transcendent Mud Lead Of The South,106.00,3338.65,267.08,353896.9000,28310.4800,557487.68446800,11/08/1947 @ 12:00:00 AM
+36644,Gravebone,The Fen of the Necromancer,32.21,Phantasmal Tin Of The Swamps,152.00,405.96,369.05,61705.9200,56095.6000,155745.38959200,11/08/1947 @ 12:00:00 AM
+10463,"Goddess of Knowledge, Baltha",Gena's Hold,4.84,Dragons' Poison Glitterflesh Steel Of The North,94.00,742.00,75.00,69748.0000,7050.0000,80515.02320000,11/08/1947 @ 12:00:00 AM
+9198,"Lord of the Sun, Maglioneth",The Black Barrow of Bery,19.80,Unknowable Mindsilver,209.00,174.90,174.90,36554.1000,36554.1000,87583.62360000,11/08/1947 @ 12:00:00 AM
+22891,"Lonedrake, Clash",The Secret Catacombs of Ulfang the Black,31.70,Shadowhell Mithril,152.00,462.21,420.19,70255.9200,63868.8800,176642.36160000,11/08/1977 @ 12:00:00 AM
+33624,"Goddess of Knowledge, Baltha",The Archer and Scroll,60.12,Undeads' Mind Orichalcum Of The Twilight,121.00,1169.00,364.69,141449.0000,44127.4900,297145.07578800,11/08/1947 @ 12:00:00 AM
+21766,"Seeker, Fate",Reyny Keep,-3.35,Starsmoke Bronze Of Life,159.00,-438.00,420.81,-69642.0000,66908.7900,-2641.64746500,11/08/1947 @ 12:00:00 AM
+18118,"The Disinterred, Spikebrood",The Khazahol Crags,22.75,Venom Jewelmetal Of The Desert,378.00,701.92,222.50,265325.7600,84105.0000,428926.25790000,11/08/1947 @ 12:00:00 AM
+20521,Graveterror,Bifar's Deep,11.10,Shadow Metal,234.00,1606.00,298.00,375804.0000,69732.0000,494990.49600000,11/08/1947 @ 12:00:00 AM
+19951,Chainhorror,The Demon and Toad,-1.10,Unknowable Mindsilver,163.00,174.90,174.90,28508.7000,28508.7000,56390.20860000,11/08/1947 @ 12:00:00 AM
+28186,"God of War, Ingwenel",The Bastion of the Vampire Duke,45.86,Vampires' Fang Emeraldsilver,256.00,2033.69,80.84,520624.6400,20695.0400,789568.88524800,11/08/1947 @ 12:00:00 AM
+27067,Emberspawn,The Chuallanto Jungle,11.00,Foulopal Copper Of The Skies,190.00,221.83,201.66,42147.7000,38315.4000,89314.04100000,11/08/1947 @ 12:00:00 AM
+16461,"Wolf, Jericho",The Secret Shrine of the Gargoyle Count,23.93,Vampires' Hammer Emeraldmetal,34.00,77.44,77.44,2632.9600,2632.9600,6526.05465600,11/08/1947 @ 12:00:00 AM
+6944,"Lord of the Sea, Penur",The Citadel of Tattena the Sinister,22.39,Planar Mudtin Of Trolls,137.00,3529.02,174.00,483475.7400,23838.0000,620901.28638600,11/08/1947 @ 12:00:00 AM
+12031,"Lord of the Sea, Penur",The Nulukkhath Spires,28.99,Foul Ice Bronze Of Life,290.00,292.82,266.20,84917.8000,77198.0000,209113.17042000,11/08/1947 @ 12:00:00 AM
+26644,"The Blade, Scarefear",Reheath Stronghold,39.60,Shadowhell Mithril,166.00,462.21,420.19,76726.8600,69751.5400,204483.84640000,11/08/1947 @ 12:00:00 AM

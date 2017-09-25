@@ -294,7 +294,7 @@ public class ConsoleTextViewImpl {
         
         io.print(StringUtil.padStr("Order Number", width[0])
                 + StringUtil.padStr("Date", width[1])
-                + StringUtil.padStr("Name", width[2]+2)
+                + StringUtil.padStr("Name", width[2])
                 + StringUtil.padStr("State", width[3]+2)
                 + StringUtil.padStr("Type", width[4]+2)
                 + StringUtil.padStr("Area", width[5])

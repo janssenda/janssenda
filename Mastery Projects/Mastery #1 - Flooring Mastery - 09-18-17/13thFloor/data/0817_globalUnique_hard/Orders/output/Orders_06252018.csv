@@ -1,18 +1,18 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-3777,"The Binder, Springpulley",The Khazahol Crags,20.68,Timeiron,317.00,3255.00,-14.77,1031835.0000,-4682.0900,1239568.13178800,06/25/2018 @ 12:00:00 AM
-37802,"Jester, Seraph",The Greedy Wench,13.31,Stone Soulsteel Of The Skies,365.00,453.31,453.31,165458.1500,165458.1500,374961.25953000,06/25/2018 @ 12:00:00 AM
-22103,Chainnail,The Tower of Sabiesu the Awesome,10.00,Warlocks' Timerot Mithril,193.00,194.65,176.95,37567.4500,34151.3500,78890.68000000,06/25/2018 @ 12:00:00 AM
-1501,"The Horrorific, Evilfear",The Dungeon of Dismal Terror,40.27,Negative Mercury,81.00,4115.00,68.00,333315.0000,5508.0000,475267.02210000,06/25/2018 @ 12:00:00 AM
-34273,"Brand, Lightning",The Bastion of the Lich Tyrant,8.64,Toxic Mistlead Of The Past,250.00,435.67,396.06,108917.5000,99015.0000,225897.86800000,06/25/2018 @ 12:00:00 AM
-33364,"Roguemist, Rouge",The Archer and Scroll,60.12,Mind Lead,130.00,241.00,219.09,31330.0000,28481.7000,95770.49404000,06/25/2018 @ 12:00:00 AM
-19144,"The Evil, Snowflame",Weke Tower,47.19,Vampires' Fang Emeraldsilver,220.00,2033.69,80.84,447411.8000,17784.8000,684722.87554000,06/25/2018 @ 12:00:00 AM
-32206,"Brand, Lightning",The Chuallanto Jungle,11.00,Magicians' Legendary Poison Metal,178.00,-52.81,-48.01,-9400.1800,-8545.7800,-19920.01560000,06/25/2018 @ 12:00:00 AM
-20229,"Brand, Lightning",The Forsaken Hive of Galima the Mighty,0.39,Fairies' Supreme Mistsmoke Lead Of The Future,254.00,499.73,499.73,126931.4200,126931.4200,254852.90507600,06/25/2018 @ 12:00:00 AM
-33523,Bolttrap,The Archer and Scroll,60.12,Undeads' Mind Orichalcum Of The Twilight,73.00,1169.00,364.69,85337.0000,26622.3700,179269.34324400,06/25/2018 @ 12:00:00 AM
-21580,"Lord of the Sea, Penur",North Arcanist's Farthing,3.03,Yellow Mistearth Copper,141.00,287.98,261.80,40605.1800,36913.8000,79867.80509400,06/25/2018 @ 12:00:00 AM
-17173,"Wolf, Jericho",Gena's Hold,5.85,Warlocks' Timerot Mithril,93.00,725.00,176.95,67425.0000,16456.3500,88788.40897500,06/25/2018 @ 12:00:00 AM
-700,"The Frigid, Icechill",Reyny Keep,-3.35,Unknown Fatelightning Steel Of The Glacier,203.00,305.86,109.00,62089.5800,22127.0000,81395.32457000,06/25/2018 @ 12:00:00 AM
-14141,"Tomblion, Shadow",Noble's Village,5.43,Imperial Fate Steel,192.00,419.10,381.00,80467.2000,73152.0000,161960.72256000,06/25/2018 @ 12:00:00 AM
-27655,Graveterror,The Pirate's Pipe,16.94,Sprites' Transcendent Mud Lead Of The South,156.00,3338.65,267.08,520829.4000,41664.4800,657780.34327200,06/25/2018 @ 12:00:00 AM
-2080,"Anchor, Rose",The Pirate's Pipe,15.40,Timeiron,244.00,3255.00,-14.77,794220.0000,-3603.8800,912371.00248000,06/25/2018 @ 12:00:00 AM
-4797,"Amberslayer, Flora",Shainan's Hold,43.67,Trolls' Rubymercury Of The Sunset,281.00,2733.00,443.00,767973.0000,124483.0000,1282191.53520000,06/25/2018 @ 12:00:00 AM
+3777,"The Binder, Springpulley",The Khazahol Crags,20.68,Timeiron,317.00,3255.00,-14.77,1031835.0000,-4682.0900,1239568.13178800,06/25/1978 @ 12:00:00 AM
+37802,"Jester, Seraph",The Greedy Wench,13.31,Stone Soulsteel Of The Skies,365.00,453.31,453.31,165458.1500,165458.1500,374961.25953000,06/25/1948 @ 12:00:00 AM
+22103,Chainnail,The Tower of Sabiesu the Awesome,10.00,Warlocks' Timerot Mithril,193.00,194.65,176.95,37567.4500,34151.3500,78890.68000000,06/25/1948 @ 12:00:00 AM
+1501,"The Horrorific, Evilfear",The Dungeon of Dismal Terror,40.27,Negative Mercury,81.00,4115.00,68.00,333315.0000,5508.0000,475267.02210000,06/25/1948 @ 12:00:00 AM
+34273,"Brand, Lightning",The Bastion of the Lich Tyrant,8.64,Toxic Mistlead Of The Past,250.00,435.67,396.06,108917.5000,99015.0000,225897.86800000,06/25/1948 @ 12:00:00 AM
+33364,"Roguemist, Rouge",The Archer and Scroll,60.12,Mind Lead,130.00,241.00,219.09,31330.0000,28481.7000,95770.49404000,06/25/1948 @ 12:00:00 AM
+19144,"The Evil, Snowflame",Weke Tower,47.19,Vampires' Fang Emeraldsilver,220.00,2033.69,80.84,447411.8000,17784.8000,684722.87554000,06/25/1948 @ 12:00:00 AM
+32206,"Brand, Lightning",The Chuallanto Jungle,11.00,Magicians' Legendary Poison Metal,178.00,-52.81,-48.01,-9400.1800,-8545.7800,-19920.01560000,06/25/1948 @ 12:00:00 AM
+20229,"Brand, Lightning",The Forsaken Hive of Galima the Mighty,0.39,Fairies' Supreme Mistsmoke Lead Of The Future,254.00,499.73,499.73,126931.4200,126931.4200,254852.90507600,06/25/1978 @ 12:00:00 AM
+33523,Bolttrap,The Archer and Scroll,60.12,Undeads' Mind Orichalcum Of The Twilight,73.00,1169.00,364.69,85337.0000,26622.3700,179269.34324400,06/25/1948 @ 12:00:00 AM
+21580,"Lord of the Sea, Penur",North Arcanist's Farthing,3.03,Yellow Mistearth Copper,141.00,287.98,261.80,40605.1800,36913.8000,79867.80509400,06/25/1948 @ 12:00:00 AM
+17173,"Wolf, Jericho",Gena's Hold,5.85,Warlocks' Timerot Mithril,93.00,725.00,176.95,67425.0000,16456.3500,88788.40897500,06/25/1948 @ 12:00:00 AM
+700,"The Frigid, Icechill",Reyny Keep,-3.35,Unknown Fatelightning Steel Of The Glacier,203.00,305.86,109.00,62089.5800,22127.0000,81395.32457000,06/25/1948 @ 12:00:00 AM
+14141,"Tomblion, Shadow",Noble's Village,5.43,Imperial Fate Steel,192.00,419.10,381.00,80467.2000,73152.0000,161960.72256000,06/25/1948 @ 12:00:00 AM
+27655,Graveterror,The Pirate's Pipe,16.94,Sprites' Transcendent Mud Lead Of The South,156.00,3338.65,267.08,520829.4000,41664.4800,657780.34327200,06/25/1978 @ 12:00:00 AM
+2080,"Anchor, Rose",The Pirate's Pipe,15.40,Timeiron,244.00,3255.00,-14.77,794220.0000,-3603.8800,912371.00248000,06/25/1948 @ 12:00:00 AM
+4797,"Amberslayer, Flora",Shainan's Hold,43.67,Trolls' Rubymercury Of The Sunset,281.00,2733.00,443.00,767973.0000,124483.0000,1282191.53520000,06/25/1948 @ 12:00:00 AM

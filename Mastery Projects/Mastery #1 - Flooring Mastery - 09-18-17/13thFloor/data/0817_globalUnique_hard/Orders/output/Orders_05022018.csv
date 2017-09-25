@@ -1,15 +1,15 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-36337,"God of the Lost, Lionare",The Fen of the Necromancer,32.21,Ensorceled Sandmetal Of Spirits,93.00,85.18,93.70,7921.7400,8714.1000,21994.24406400,05/02/2018 @ 12:00:00 AM
-36767,"The Binder, Springpulley",The Fen of the Necromancer,32.21,Ensorceled Sandmetal Of Spirits,260.00,85.18,93.70,22146.8000,24362.0000,61489.28448000,05/02/2018 @ 12:00:00 AM
-12900,"Goddess of Knowledge, Baltha",Gili's Delve,35.89,Djinni's Mind Fogiron,262.00,57.23,52.03,14994.2600,13631.8600,38900.03446800,05/02/2018 @ 12:00:00 AM
-34350,"The Terrifying, Deathspike",Reheath Stronghold,39.60,Swordbronze,245.00,403.29,366.63,98806.0500,89824.3500,263328.03840000,05/02/2018 @ 12:00:00 AM
-23937,"The Machine, Wheelbolt",The Forsaken Sepulcher of Sorrows,31.36,Toxic Mistlead Of The Past,191.00,396.06,396.06,75647.4600,75647.4600,198741.00691200,05/02/2018 @ 12:00:00 AM
-21289,Freezebrood,North Arcanist's Farthing,3.03,Witchs' Forbidden Rockrainbow Bronze,175.00,245.63,245.63,42985.2500,42985.2500,88575.40615000,05/02/2018 @ 12:00:00 AM
-297,"Lonedrake, Clash",The Bastion of the Lich Tyrant,4.87,Unknown Fatelightning Steel Of The Glacier,71.00,305.86,109.00,21716.0600,7739.0000,30889.52142200,05/02/2018 @ 12:00:00 AM
-20854,"God of Death, Avriel",Mahyrst Keep,31.30,Incubi's Iron Of The Dawn,88.00,174.99,174.99,15399.1200,15399.1200,40438.08912000,05/02/2018 @ 12:00:00 AM
-20844,"The Terrifying, Deathspike",Mahyrst Keep,31.30,Incubi's Iron Of The Dawn,198.00,174.99,174.99,34648.0200,34648.0200,90985.70052000,05/02/2018 @ 12:00:00 AM
-15327,"God of Death, Avriel",The Fortress of Asmamur,-2.66,Imperial Fate Steel,93.00,419.10,381.00,38976.3000,35433.0000,72430.01262000,05/02/2018 @ 12:00:00 AM
-15440,"God of Resurrection, Gadriel",The Dungeon of Merciless Woe,3.61,Sirens' Rockgold,167.00,306.13,306.13,51123.7100,51123.7100,105938.55186200,05/02/2018 @ 12:00:00 AM
-14341,"Mystery, Lord",Noble's Village,5.43,Djinni's Evil Sandobsidian Steel Of The Future,183.00,140.58,140.58,25726.1400,25726.1400,54246.13880400,05/02/2018 @ 12:00:00 AM
-26563,Emberspawn,Bifar's Deep,12.21,Muck Orichalcum Of Ogres,116.00,143.37,130.34,16630.9200,15119.4400,35627.07895600,05/02/2018 @ 12:00:00 AM
-26956,"The Evil, Burnchill",Reheath Stronghold,39.60,Heavenly Dreamsilver Of The Night,366.00,719.00,314.60,263154.0000,115143.6000,528103.44960000,05/02/2018 @ 12:00:00 AM
+36337,"God of the Lost, Lionare",The Fen of the Necromancer,32.21,Ensorceled Sandmetal Of Spirits,93.00,85.18,93.70,7921.7400,8714.1000,21994.24406400,05/02/1948 @ 12:00:00 AM
+36767,"The Binder, Springpulley",The Fen of the Necromancer,32.21,Ensorceled Sandmetal Of Spirits,260.00,85.18,93.70,22146.8000,24362.0000,61489.28448000,05/02/1948 @ 12:00:00 AM
+12900,"Goddess of Knowledge, Baltha",Gili's Delve,35.89,Djinni's Mind Fogiron,262.00,57.23,52.03,14994.2600,13631.8600,38900.03446800,05/02/1948 @ 12:00:00 AM
+34350,"The Terrifying, Deathspike",Reheath Stronghold,39.60,Swordbronze,245.00,403.29,366.63,98806.0500,89824.3500,263328.03840000,05/02/1948 @ 12:00:00 AM
+23937,"The Machine, Wheelbolt",The Forsaken Sepulcher of Sorrows,31.36,Toxic Mistlead Of The Past,191.00,396.06,396.06,75647.4600,75647.4600,198741.00691200,05/02/1948 @ 12:00:00 AM
+21289,Freezebrood,North Arcanist's Farthing,3.03,Witchs' Forbidden Rockrainbow Bronze,175.00,245.63,245.63,42985.2500,42985.2500,88575.40615000,05/02/1948 @ 12:00:00 AM
+297,"Lonedrake, Clash",The Bastion of the Lich Tyrant,4.87,Unknown Fatelightning Steel Of The Glacier,71.00,305.86,109.00,21716.0600,7739.0000,30889.52142200,05/02/1948 @ 12:00:00 AM
+20854,"God of Death, Avriel",Mahyrst Keep,31.30,Incubi's Iron Of The Dawn,88.00,174.99,174.99,15399.1200,15399.1200,40438.08912000,05/02/1948 @ 12:00:00 AM
+20844,"The Terrifying, Deathspike",Mahyrst Keep,31.30,Incubi's Iron Of The Dawn,198.00,174.99,174.99,34648.0200,34648.0200,90985.70052000,05/02/1948 @ 12:00:00 AM
+15327,"God of Death, Avriel",The Fortress of Asmamur,-2.66,Imperial Fate Steel,93.00,419.10,381.00,38976.3000,35433.0000,72430.01262000,05/02/1988 @ 12:00:00 AM
+15440,"God of Resurrection, Gadriel",The Dungeon of Merciless Woe,3.61,Sirens' Rockgold,167.00,306.13,306.13,51123.7100,51123.7100,105938.55186200,05/02/1948 @ 12:00:00 AM
+14341,"Mystery, Lord",Noble's Village,5.43,Djinni's Evil Sandobsidian Steel Of The Future,183.00,140.58,140.58,25726.1400,25726.1400,54246.13880400,05/02/1948 @ 12:00:00 AM
+26563,Emberspawn,Bifar's Deep,12.21,Muck Orichalcum Of Ogres,116.00,143.37,130.34,16630.9200,15119.4400,35627.07895600,05/02/1948 @ 12:00:00 AM
+26956,"The Evil, Burnchill",Reheath Stronghold,39.60,Heavenly Dreamsilver Of The Night,366.00,719.00,314.60,263154.0000,115143.6000,528103.44960000,05/02/1948 @ 12:00:00 AM

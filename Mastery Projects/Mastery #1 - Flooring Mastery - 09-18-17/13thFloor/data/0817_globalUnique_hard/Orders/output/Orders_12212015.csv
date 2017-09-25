@@ -1,21 +1,21 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-2464,Bronzespawn,Mahyrst Keep,28.45,Magicians' Legendary Poison Metal,244.00,-52.81,-48.01,-12885.6400,-11714.4400,-31598.80276000,12/21/2015 @ 12:00:00 AM
-74,"The Mechanical, Snarepiston",The Dungeon of Merciless Woe,3.61,Shadow Metal,240.00,1606.00,298.00,385440.0000,71520.0000,473456.25600000,12/21/2015 @ 12:00:00 AM
-35503,"Mistmidnight, Tiger",The Fortress of the Lich Queen,22.79,Magicians' Legendary Poison Metal,268.00,-52.81,-48.01,-14153.0800,-12866.6800,-33177.56330400,12/21/2015 @ 12:00:00 AM
-2847,"Lonedrake, Clash",Cawold Castle,35.00,Violetdream Iron,337.00,2680.00,377.25,903160.0000,127133.2500,1390895.88750000,12/21/2015 @ 12:00:00 AM
-23670,"Amberslayer, Flora",Moor Village,11.32,Planar Mudtin Of Trolls,199.00,191.40,174.00,38088.6000,34626.0000,80945.89272000,12/21/2015 @ 12:00:00 AM
-22305,"The Mechanical, Snarepiston",The Nulukkhath Spires,28.99,Primordial Mud Orichalcum,79.00,1113.00,20.57,87927.0000,1625.0300,115513.16349700,12/21/2015 @ 12:00:00 AM
-11740,Evilbrood,Love Keep,40.56,Zephyr Adamant,269.00,481.77,-44.14,129596.1300,-11873.6600,165470.70383200,12/21/2015 @ 12:00:00 AM
-35878,"The Grasping, Nettool",The Fortress of the Lich Queen,22.79,Magicians' Legendary Poison Metal,164.00,-52.81,-48.01,-8660.8400,-7873.6400,-20302.68799200,12/21/2015 @ 12:00:00 AM
-21239,"The Chiller, Chillfire",The Tomb of Hellish Ruin,36.30,Starsmoke Bronze Of Life,198.00,-438.00,420.81,-86724.0000,83320.3800,-4639.13406000,12/21/2015 @ 12:00:00 AM
-23871,"Amberslayer, Flora",The Dungeon of Merciless Woe,3.97,Unicorns' Fatal Magma Metal Of The Ocean,130.00,25.30,23.00,3289.0000,2990.0000,6528.27630000,12/21/2015 @ 12:00:00 AM
-21516,"The Chiller, Chillfire",Moor Village,11.32,Starsmoke Bronze Of Life,179.00,-438.00,420.81,-78402.0000,75324.9900,-3425.32753200,12/21/2015 @ 12:00:00 AM
-34969,"Veil, Bane",The Bastion of the Vampire Duke,45.86,Ghouls' Imperial Soulzephyr Mithril Of The Seas,168.00,318.23,318.23,53462.6400,53462.6400,155961.21340800,12/21/2015 @ 12:00:00 AM
-21611,"Ivycaster, Fate",Grori's Deep,30.25,Yellow Mistearth Copper,140.00,287.98,261.80,40317.2000,36652.0000,100252.38300000,12/21/2015 @ 12:00:00 AM
-17389,"Rougehate, Rune",The Scoundrel and Flask,45.25,Grayplatinum,179.00,2548.00,104.94,456092.0000,18784.2600,689757.76765000,12/21/2015 @ 12:00:00 AM
-18758,"God of Death, Avriel",The Khazahol Crags,22.75,Meteoric Mirrormuck Orichalcum Of The Forests,177.00,491.62,405.35,87016.7400,71746.9500,194882.42947500,12/21/2015 @ 12:00:00 AM
-17661,"God of Death, Avriel",Bergfison's Deep,16.00,Trolls' Rubymercury Of The Sunset,377.00,487.30,487.30,183712.1000,183712.1000,426212.07200000,12/21/2015 @ 12:00:00 AM
-6615,Spikerivet,North Grove Ward,41.80,Glittering Orichalcum,316.00,2056.00,330.00,649696.0000,104280.0000,1069137.96800000,12/21/2015 @ 12:00:00 AM
-3211,"The Firey, Evilember",The Fortress of the Lich Queen,17.13,Violetdream Iron,299.00,2680.00,377.25,801320.0000,112797.7500,1070706.12057500,12/21/2015 @ 12:00:00 AM
-25525,Ironbrood,Gili's Delve,35.89,Incubi's Iron Of The Dawn,31.00,192.49,174.99,5967.1900,5424.6900,15480.42573200,12/21/2015 @ 12:00:00 AM
-37598,"Goddess of Travel, Lenwenye",The Greedy Wench,13.31,Ghouls' Imperial Soulzephyr Mithril Of The Seas,156.00,318.23,318.23,49643.8800,49643.8800,112502.96085600,12/21/2015 @ 12:00:00 AM
+2464,Bronzespawn,Mahyrst Keep,28.45,Magicians' Legendary Poison Metal,244.00,-52.81,-48.01,-12885.6400,-11714.4400,-31598.80276000,12/21/1945 @ 12:00:00 AM
+74,"The Mechanical, Snarepiston",The Dungeon of Merciless Woe,3.61,Shadow Metal,240.00,1606.00,298.00,385440.0000,71520.0000,473456.25600000,12/21/1945 @ 12:00:00 AM
+35503,"Mistmidnight, Tiger",The Fortress of the Lich Queen,22.79,Magicians' Legendary Poison Metal,268.00,-52.81,-48.01,-14153.0800,-12866.6800,-33177.56330400,12/21/1945 @ 12:00:00 AM
+2847,"Lonedrake, Clash",Cawold Castle,35.00,Violetdream Iron,337.00,2680.00,377.25,903160.0000,127133.2500,1390895.88750000,12/21/1945 @ 12:00:00 AM
+23670,"Amberslayer, Flora",Moor Village,11.32,Planar Mudtin Of Trolls,199.00,191.40,174.00,38088.6000,34626.0000,80945.89272000,12/21/1945 @ 12:00:00 AM
+22305,"The Mechanical, Snarepiston",The Nulukkhath Spires,28.99,Primordial Mud Orichalcum,79.00,1113.00,20.57,87927.0000,1625.0300,115513.16349700,12/21/1945 @ 12:00:00 AM
+11740,Evilbrood,Love Keep,40.56,Zephyr Adamant,269.00,481.77,-44.14,129596.1300,-11873.6600,165470.70383200,12/21/1985 @ 12:00:00 AM
+35878,"The Grasping, Nettool",The Fortress of the Lich Queen,22.79,Magicians' Legendary Poison Metal,164.00,-52.81,-48.01,-8660.8400,-7873.6400,-20302.68799200,12/21/1985 @ 12:00:00 AM
+21239,"The Chiller, Chillfire",The Tomb of Hellish Ruin,36.30,Starsmoke Bronze Of Life,198.00,-438.00,420.81,-86724.0000,83320.3800,-4639.13406000,12/21/1945 @ 12:00:00 AM
+23871,"Amberslayer, Flora",The Dungeon of Merciless Woe,3.97,Unicorns' Fatal Magma Metal Of The Ocean,130.00,25.30,23.00,3289.0000,2990.0000,6528.27630000,12/21/1945 @ 12:00:00 AM
+21516,"The Chiller, Chillfire",Moor Village,11.32,Starsmoke Bronze Of Life,179.00,-438.00,420.81,-78402.0000,75324.9900,-3425.32753200,12/21/1945 @ 12:00:00 AM
+34969,"Veil, Bane",The Bastion of the Vampire Duke,45.86,Ghouls' Imperial Soulzephyr Mithril Of The Seas,168.00,318.23,318.23,53462.6400,53462.6400,155961.21340800,12/21/1945 @ 12:00:00 AM
+21611,"Ivycaster, Fate",Grori's Deep,30.25,Yellow Mistearth Copper,140.00,287.98,261.80,40317.2000,36652.0000,100252.38300000,12/21/1945 @ 12:00:00 AM
+17389,"Rougehate, Rune",The Scoundrel and Flask,45.25,Grayplatinum,179.00,2548.00,104.94,456092.0000,18784.2600,689757.76765000,12/21/1945 @ 12:00:00 AM
+18758,"God of Death, Avriel",The Khazahol Crags,22.75,Meteoric Mirrormuck Orichalcum Of The Forests,177.00,491.62,405.35,87016.7400,71746.9500,194882.42947500,12/21/1945 @ 12:00:00 AM
+17661,"God of Death, Avriel",Bergfison's Deep,16.00,Trolls' Rubymercury Of The Sunset,377.00,487.30,487.30,183712.1000,183712.1000,426212.07200000,12/21/1945 @ 12:00:00 AM
+6615,Spikerivet,North Grove Ward,41.80,Glittering Orichalcum,316.00,2056.00,330.00,649696.0000,104280.0000,1069137.96800000,12/21/1945 @ 12:00:00 AM
+3211,"The Firey, Evilember",The Fortress of the Lich Queen,17.13,Violetdream Iron,299.00,2680.00,377.25,801320.0000,112797.7500,1070706.12057500,12/21/1945 @ 12:00:00 AM
+25525,Ironbrood,Gili's Delve,35.89,Incubi's Iron Of The Dawn,31.00,192.49,174.99,5967.1900,5424.6900,15480.42573200,12/21/1945 @ 12:00:00 AM
+37598,"Goddess of Travel, Lenwenye",The Greedy Wench,13.31,Ghouls' Imperial Soulzephyr Mithril Of The Seas,156.00,318.23,318.23,49643.8800,49643.8800,112502.96085600,12/21/1945 @ 12:00:00 AM

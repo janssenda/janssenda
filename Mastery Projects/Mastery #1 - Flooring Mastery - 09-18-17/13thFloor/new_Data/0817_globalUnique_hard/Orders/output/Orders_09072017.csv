@@ -1,25 +1,25 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-9,"Jackalguard, Gale",Gili's Delve,35.89,Shadow Metal,33.00,1606.00,298.00,52998.0000,9834.0000,85382.40480000,09/07/2017 @ 12:00:00 AM
-26977,"Mist, Claw",Gili's Delve,35.89,Muck Orichalcum Of Ogres,144.00,143.37,130.34,20645.2800,18768.9600,53560.01073600,09/07/2017 @ 12:00:00 AM
-35115,"Brand, Lightning",Barad Kesa,6.17,Ghouls' Imperial Soulzephyr Mithril Of The Seas,276.00,318.23,318.23,87831.4800,87831.4800,186501.36463200,09/07/2017 @ 12:00:00 AM
-24684,"Knightseraph, Lance",Bifar's Deep,12.21,Negative Rockglitter Mercury Of Trolls,247.00,235.59,214.17,58190.7300,52899.9900,124654.89691200,09/07/2017 @ 12:00:00 AM
-10199,"The Trapper, Boltcrank",The Pirate's Pipe,15.40,Emerald Orichalcum,193.00,1957.00,118.01,377701.0000,22775.9300,462150.37722000,09/07/2017 @ 12:00:00 AM
-12946,"The Chiller, Blazefreeze",Gili's Delve,35.89,Incubi's Iron Of The Dawn,160.00,174.99,174.99,27998.4000,27998.4000,76094.05152000,09/07/2017 @ 12:00:00 AM
-23762,Flameshiver,The Scoundrel and Flask,45.25,Tritons' Time Stoneiron Of Legend,179.00,341.59,375.75,61144.6100,67259.2500,186506.60665000,09/07/2017 @ 12:00:00 AM
-35858,"Dawn, Tarot",The Fortress of the Lich Queen,22.79,Magicians' Legendary Poison Metal,239.00,-52.81,-48.01,-12621.5900,-11474.3900,-29587.45384200,09/07/2017 @ 12:00:00 AM
-10689,"Godwarlock, Sunrise",Arcanist's Farthing,29.00,Fairies' Supreme Mistsmoke Lead Of The Future,246.00,2622.69,454.30,645181.7400,111757.8000,976452.00660000,09/07/2017 @ 12:00:00 AM
-32173,"Roguemist, Rouge",Citadel Ward,4.40,Negative Rockglitter Mercury Of Trolls,149.00,235.59,214.17,35102.9100,31911.3300,69962.86656000,09/07/2017 @ 12:00:00 AM
-8111,"Seeker, Fate",The Bastion of Sthasu the Gruesome,40.00,Starsmoke Bronze Of Life,238.00,-438.00,420.81,-104244.0000,100152.7800,-5727.70800000,09/07/2017 @ 12:00:00 AM
-17034,"Wolf, Jericho",North Arcanist's Farthing,2.75,Warlocks' Timerot Mithril,152.00,725.00,176.95,110200.0000,26896.4000,140866.55100000,09/07/2017 @ 12:00:00 AM
-30068,"Amberslayer, Flora",The Tower of Sabiesu the Awesome,10.00,Swordbronze,159.00,403.29,366.63,64123.1100,58294.1700,134659.00800000,09/07/2017 @ 12:00:00 AM
-17090,"Goddess of the Earth, Gono",The Scoundrel and Flask,45.25,Incubi's Glittering Tin Of The Future,27.00,192.96,212.26,5209.9200,5731.0200,15891.71535000,09/07/2017 @ 12:00:00 AM
-32706,Chainnail,The Bastion of the Lich Tyrant,8.64,Fairies' Supreme Mistsmoke Lead Of The Future,150.00,499.73,549.70,74959.5000,82455.0000,171015.11280000,09/07/2017 @ 12:00:00 AM
-20847,Emberfire,Mahyrst Keep,31.30,Negative Rockglitter Mercury Of Trolls,153.00,3502.00,214.17,535806.0000,32768.0100,746537.67513000,09/07/2017 @ 12:00:00 AM
-28113,"Runetomb, Song",The Chuallanto Jungle,11.00,Negative Rockglitter Mercury Of Trolls,199.00,235.59,214.17,46882.4100,42619.8300,99347.48640000,09/07/2017 @ 12:00:00 AM
-7543,"The Terrifying, Deathspike",Archring Borough,29.70,Sirens' Rockgold,156.00,306.13,278.30,47756.2800,43414.8000,118248.89076000,09/07/2017 @ 12:00:00 AM
-29875,"God of Resurrection, Gadriel",The Greedy Wench,13.31,Heavenly Dreamsilver Of The Night,174.00,719.00,314.60,125106.0000,54740.4000,203783.95584000,09/07/2017 @ 12:00:00 AM
-28610,"Gust, Shadow",Bifar's Deep,12.21,Vampires' Fang Emeraldsilver,114.00,2033.69,80.84,231840.6600,9215.7600,270489.40888200,09/07/2017 @ 12:00:00 AM
-30942,"Seeker, Fate",Mahyrst Keep,31.30,Foulopal Copper Of The Skies,204.00,221.83,221.83,45253.3200,45253.3200,118835.21832000,09/07/2017 @ 12:00:00 AM
-28829,"Amberslayer, Flora",The Nulukkhath Spires,28.99,Stone Soulsteel Of The Skies,265.00,453.31,412.10,120127.1500,109206.5000,295817.47513500,09/07/2017 @ 12:00:00 AM
-5642,"Lord of the Sun, Maglioneth",The Warrior and Flagon,9.00,Venom Jewelmetal Of The Desert,98.00,701.92,167.16,68788.1600,16381.6800,92835.12560000,09/07/2017 @ 12:00:00 AM
-2274,Cinderflame,Pewold Keep,29.00,Glowpearl Adamant Of Spirits,179.00,-111.88,216.40,-20026.5200,38735.6000,24134.71320000,09/07/2017 @ 12:00:00 AM
+9,"Gale, Jackalguard",Gili's Delve,35.89,Shadow Metal,33.00,1606.00,298.00,52998.0000,9834.0000,85382.40480000,09/07/2007 @ 12:00:00 AM
+26977,"Claw, Mist",Gili's Delve,35.89,Muck Orichalcum Of Ogres,144.00,143.37,130.34,20645.2800,18768.9600,53560.01073600,09/07/2007 @ 12:00:00 AM
+35115,"Lightning, Brand",Barad Kesa,6.17,Ghouls' Imperial Soulzephyr Mithril Of The Seas,276.00,318.23,318.23,87831.4800,87831.4800,186501.36463200,09/07/2007 @ 12:00:00 AM
+24684,"Lance, Knightseraph",Bifar's Deep,12.21,Negative Rockglitter Mercury Of Trolls,247.00,235.59,214.17,58190.7300,52899.9900,124654.89691200,09/07/2007 @ 12:00:00 AM
+10199,"Boltcrank, The Trapper",The Pirate's Pipe,15.40,Emerald Orichalcum,193.00,1957.00,118.01,377701.0000,22775.9300,462150.37722000,09/07/2007 @ 12:00:00 AM
+12946,"Blazefreeze, The Chiller",Gili's Delve,35.89,Incubi's Iron Of The Dawn,160.00,174.99,174.99,27998.4000,27998.4000,76094.05152000,09/07/2007 @ 12:00:00 AM
+23762,Flameshiver,The Scoundrel and Flask,45.25,Tritons' Time Stoneiron Of Legend,179.00,341.59,375.75,61144.6100,67259.2500,186506.60665000,09/07/2007 @ 12:00:00 AM
+35858,"Tarot, Dawn",The Fortress of the Lich Queen,22.79,Magicians' Legendary Poison Metal,239.00,-52.81,-48.01,-12621.5900,-11474.3900,-29587.45384200,09/07/2007 @ 12:00:00 AM
+10689,"Sunrise, Godwarlock",Arcanist's Farthing,29.00,Fairies' Supreme Mistsmoke Lead Of The Future,246.00,2622.69,454.30,645181.7400,111757.8000,976452.00660000,09/07/2007 @ 12:00:00 AM
+32173,"Rouge, Roguemist",Citadel Ward,4.40,Negative Rockglitter Mercury Of Trolls,149.00,235.59,214.17,35102.9100,31911.3300,69962.86656000,09/07/2007 @ 12:00:00 AM
+8111,"Fate, Seeker",The Bastion of Sthasu the Gruesome,40.00,Starsmoke Bronze Of Life,238.00,-438.00,420.81,-104244.0000,100152.7800,-5727.70800000,09/07/2007 @ 12:00:00 AM
+17034,"Jericho, Wolf",North Arcanist's Farthing,2.75,Warlocks' Timerot Mithril,152.00,725.00,176.95,110200.0000,26896.4000,140866.55100000,09/07/2007 @ 12:00:00 AM
+30068,"Flora, Amberslayer",The Tower of Sabiesu the Awesome,10.00,Swordbronze,159.00,403.29,366.63,64123.1100,58294.1700,134659.00800000,09/07/2007 @ 12:00:00 AM
+17090,"Gono, Goddess of the Earth",The Scoundrel and Flask,45.25,Incubi's Glittering Tin Of The Future,27.00,192.96,212.26,5209.9200,5731.0200,15891.71535000,09/07/2007 @ 12:00:00 AM
+32706,Chainnail,The Bastion of the Lich Tyrant,8.64,Fairies' Supreme Mistsmoke Lead Of The Future,150.00,499.73,549.70,74959.5000,82455.0000,171015.11280000,09/07/2007 @ 12:00:00 AM
+20847,Emberfire,Mahyrst Keep,31.30,Negative Rockglitter Mercury Of Trolls,153.00,3502.00,214.17,535806.0000,32768.0100,746537.67513000,09/07/2007 @ 12:00:00 AM
+28113,"Song, Runetomb",The Chuallanto Jungle,11.00,Negative Rockglitter Mercury Of Trolls,199.00,235.59,214.17,46882.4100,42619.8300,99347.48640000,09/07/2007 @ 12:00:00 AM
+7543,"Deathspike, The Terrifying",Archring Borough,29.70,Sirens' Rockgold,156.00,306.13,278.30,47756.2800,43414.8000,118248.89076000,09/07/2007 @ 12:00:00 AM
+29875,"Gadriel, God of Resurrection",The Greedy Wench,13.31,Heavenly Dreamsilver Of The Night,174.00,719.00,314.60,125106.0000,54740.4000,203783.95584000,09/07/2007 @ 12:00:00 AM
+28610,"Shadow, Gust",Bifar's Deep,12.21,Vampires' Fang Emeraldsilver,114.00,2033.69,80.84,231840.6600,9215.7600,270489.40888200,09/07/2007 @ 12:00:00 AM
+30942,"Fate, Seeker",Mahyrst Keep,31.30,Foulopal Copper Of The Skies,204.00,221.83,221.83,45253.3200,45253.3200,118835.21832000,09/07/2007 @ 12:00:00 AM
+28829,"Flora, Amberslayer",The Nulukkhath Spires,28.99,Stone Soulsteel Of The Skies,265.00,453.31,412.10,120127.1500,109206.5000,295817.47513500,09/07/2007 @ 12:00:00 AM
+5642,"Maglioneth, Lord of the Sun",The Warrior and Flagon,9.00,Venom Jewelmetal Of The Desert,98.00,701.92,167.16,68788.1600,16381.6800,92835.12560000,09/07/2007 @ 12:00:00 AM
+2274,Cinderflame,Pewold Keep,29.00,Glowpearl Adamant Of Spirits,179.00,-111.88,216.40,-20026.5200,38735.6000,24134.71320000,09/07/2007 @ 12:00:00 AM

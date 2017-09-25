@@ -1,21 +1,21 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-36556,"Claw, Slayer",The Fen of the Necromancer,32.21,Phantasmal Tin Of The Swamps,86.00,405.96,369.05,34912.5600,31738.3000,88119.10200600,02/08/2018 @ 12:00:00 AM
-10230,"Rougehate, Rune",Grove Farthing,25.00,Muck Orichalcum Of Ogres,172.00,2080.00,97.93,357760.0000,16843.9600,468254.95000000,02/08/2018 @ 12:00:00 AM
-23512,"Anchor, Rose",Reheath Stronghold,39.60,Fleshshock Mercury,207.00,-31.02,-28.20,-6421.1400,-5837.4000,-17112.92184000,02/08/2018 @ 12:00:00 AM
-2835,"Angelchild, Harmony",The Fortress of the Lich Queen,17.13,Succubi's Evil Mindzephyr Adamant Of The Desert,227.00,555.09,42.90,126005.4300,9738.3000,158996.63094900,02/08/2018 @ 12:00:00 AM
-2936,"The Machine, Wheelbolt",Cawold Castle,35.00,Violetdream Iron,182.00,2680.00,377.25,487760.0000,68659.5000,751166.32500000,02/08/2018 @ 12:00:00 AM
-22978,Ironbrood,Moor Village,11.32,Planar Mudtin Of Trolls,194.00,191.40,174.00,37131.6000,33756.0000,78912.07632000,02/08/2018 @ 12:00:00 AM
-20376,"Knightseraph, Lance",Dysley Stronghold,35.51,Fairies' Supreme Mistsmoke Lead Of The Future,200.00,499.73,499.73,99946.0000,99946.0000,270873.64920000,02/08/2018 @ 12:00:00 AM
-19485,"Ivycaster, Fate",Weke Tower,47.19,Unspeakable Rotsoul Mithril Of Souls,135.00,370.26,336.60,49985.1000,45441.0000,140457.67659000,02/08/2018 @ 12:00:00 AM
-33796,"Dawn, Tarot",The Bastion of the Lich Tyrant,8.64,Primordial Plague Mercury Of Legend,142.00,73.70,67.00,10465.4000,9514.0000,21705.62016000,02/08/2018 @ 12:00:00 AM
-31338,"Roguemist, Rouge",Gifeld Castle,33.01,Warlocks' Timerot Mithril,197.00,194.65,194.65,38346.0500,38346.0500,102008.16221000,02/08/2018 @ 12:00:00 AM
-9714,"Dawn, Tarot",The Dungeon of Dismal Terror,44.30,Undeads' Mind Orichalcum Of The Twilight,19.00,1169.00,301.40,22211.0000,5726.6000,40313.95680000,02/08/2018 @ 12:00:00 AM
-29258,"Mistseeker, Grave",Bifar's Deep,12.21,Fleshshock Mercury,199.00,-31.02,-28.20,-6172.9800,-5611.8000,-13223.70163800,02/08/2018 @ 12:00:00 AM
-19890,"The Grasping, Beamsprocket",Fellfen Keep,38.00,Magicians' Legendary Poison Metal,376.00,-52.81,-48.01,-19856.5600,-18051.7600,-52313.48160000,02/08/2018 @ 12:00:00 AM
-8679,"The Chiller, Blazefreeze",The Tower of Aces the Accursed,-3.34,Djinni's Spectral Shadowlead Of Life,333.00,1718.00,259.12,572094.0000,86286.9600,636391.03593600,02/08/2018 @ 12:00:00 AM
-29606,"The Grasping, Nettool",The Citadel of Alammius,32.67,Unknown Fatelightning Steel Of The Glacier,228.00,145.08,159.59,33078.2400,36386.5200,92158.89709200,02/08/2018 @ 12:00:00 AM
-5250,Bonescare,Shainan's Hold,43.67,Negative Rockglitter Mercury Of Trolls,162.00,3502.00,194.70,567324.0000,31541.4000,860389.92018000,02/08/2018 @ 12:00:00 AM
-6627,"Seraphheart, Storm",The Lost Sanctum of Woe,43.20,Phantasmal Tin Of The Swamps,269.00,3207.64,305.00,862855.1600,82045.0000,1353097.02912000,02/08/2018 @ 12:00:00 AM
-28759,"Rougehate, Rune",The Fortress of Akkun the Grim,27.03,Undeads' Mind Orichalcum Of The Twilight,203.00,1169.00,364.69,237307.0000,74032.0700,395494.02062100,02/08/2018 @ 12:00:00 AM
-25072,"Veil, Bane",The Forsaken Sepulcher of Sorrows,31.36,Foul Ice Bronze Of Life,192.00,292.82,266.20,56221.4400,51110.4000,140991.10502400,02/08/2018 @ 12:00:00 AM
-26587,"Ivycaster, Fate",Citadel Ward,4.40,Shadowhell Mithril,62.00,462.21,420.19,28657.0200,26051.7800,57115.98720000,02/08/2018 @ 12:00:00 AM
+36556,"Claw, Slayer",The Fen of the Necromancer,32.21,Phantasmal Tin Of The Swamps,86.00,405.96,369.05,34912.5600,31738.3000,88119.10200600,02/08/1948 @ 12:00:00 AM
+10230,"Rougehate, Rune",Grove Farthing,25.00,Muck Orichalcum Of Ogres,172.00,2080.00,97.93,357760.0000,16843.9600,468254.95000000,02/08/1948 @ 12:00:00 AM
+23512,"Anchor, Rose",Reheath Stronghold,39.60,Fleshshock Mercury,207.00,-31.02,-28.20,-6421.1400,-5837.4000,-17112.92184000,02/08/1948 @ 12:00:00 AM
+2835,"Angelchild, Harmony",The Fortress of the Lich Queen,17.13,Succubi's Evil Mindzephyr Adamant Of The Desert,227.00,555.09,42.90,126005.4300,9738.3000,158996.63094900,02/08/1978 @ 12:00:00 AM
+2936,"The Machine, Wheelbolt",Cawold Castle,35.00,Violetdream Iron,182.00,2680.00,377.25,487760.0000,68659.5000,751166.32500000,02/08/1948 @ 12:00:00 AM
+22978,Ironbrood,Moor Village,11.32,Planar Mudtin Of Trolls,194.00,191.40,174.00,37131.6000,33756.0000,78912.07632000,02/08/1948 @ 12:00:00 AM
+20376,"Knightseraph, Lance",Dysley Stronghold,35.51,Fairies' Supreme Mistsmoke Lead Of The Future,200.00,499.73,499.73,99946.0000,99946.0000,270873.64920000,02/08/1948 @ 12:00:00 AM
+19485,"Ivycaster, Fate",Weke Tower,47.19,Unspeakable Rotsoul Mithril Of Souls,135.00,370.26,336.60,49985.1000,45441.0000,140457.67659000,02/08/1948 @ 12:00:00 AM
+33796,"Dawn, Tarot",The Bastion of the Lich Tyrant,8.64,Primordial Plague Mercury Of Legend,142.00,73.70,67.00,10465.4000,9514.0000,21705.62016000,02/08/1948 @ 12:00:00 AM
+31338,"Roguemist, Rouge",Gifeld Castle,33.01,Warlocks' Timerot Mithril,197.00,194.65,194.65,38346.0500,38346.0500,102008.16221000,02/08/1948 @ 12:00:00 AM
+9714,"Dawn, Tarot",The Dungeon of Dismal Terror,44.30,Undeads' Mind Orichalcum Of The Twilight,19.00,1169.00,301.40,22211.0000,5726.6000,40313.95680000,02/08/1978 @ 12:00:00 AM
+29258,"Mistseeker, Grave",Bifar's Deep,12.21,Fleshshock Mercury,199.00,-31.02,-28.20,-6172.9800,-5611.8000,-13223.70163800,02/08/1978 @ 12:00:00 AM
+19890,"The Grasping, Beamsprocket",Fellfen Keep,38.00,Magicians' Legendary Poison Metal,376.00,-52.81,-48.01,-19856.5600,-18051.7600,-52313.48160000,02/08/1948 @ 12:00:00 AM
+8679,"The Chiller, Blazefreeze",The Tower of Aces the Accursed,-3.34,Djinni's Spectral Shadowlead Of Life,333.00,1718.00,259.12,572094.0000,86286.9600,636391.03593600,02/08/1948 @ 12:00:00 AM
+29606,"The Grasping, Nettool",The Citadel of Alammius,32.67,Unknown Fatelightning Steel Of The Glacier,228.00,145.08,159.59,33078.2400,36386.5200,92158.89709200,02/08/1948 @ 12:00:00 AM
+5250,Bonescare,Shainan's Hold,43.67,Negative Rockglitter Mercury Of Trolls,162.00,3502.00,194.70,567324.0000,31541.4000,860389.92018000,02/08/1948 @ 12:00:00 AM
+6627,"Seraphheart, Storm",The Lost Sanctum of Woe,43.20,Phantasmal Tin Of The Swamps,269.00,3207.64,305.00,862855.1600,82045.0000,1353097.02912000,02/08/1948 @ 12:00:00 AM
+28759,"Rougehate, Rune",The Fortress of Akkun the Grim,27.03,Undeads' Mind Orichalcum Of The Twilight,203.00,1169.00,364.69,237307.0000,74032.0700,395494.02062100,02/08/1988 @ 12:00:00 AM
+25072,"Veil, Bane",The Forsaken Sepulcher of Sorrows,31.36,Foul Ice Bronze Of Life,192.00,292.82,266.20,56221.4400,51110.4000,140991.10502400,02/08/1948 @ 12:00:00 AM
+26587,"Ivycaster, Fate",Citadel Ward,4.40,Shadowhell Mithril,62.00,462.21,420.19,28657.0200,26051.7800,57115.98720000,02/08/1948 @ 12:00:00 AM

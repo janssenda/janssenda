@@ -1,14 +1,14 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-11066,"God of Death, Avriel",North Arcanist's Farthing,2.50,Lycanthropes' Gold,334.00,371.80,338.00,124181.2000,112892.0000,243000.03000000,01/06/2017 @ 12:00:00 AM
-35095,"Darkzealot, Dawn",Barad Kesa,6.17,Sprites' Transcendent Mud Lead Of The South,243.00,3338.65,267.08,811291.9500,64900.4400,930253.46046300,01/06/2017 @ 12:00:00 AM
-24625,Spikesnare,The Bastion of Barbos,25.41,Negative Rockglitter Mercury Of Trolls,158.00,235.59,214.17,37223.2200,33838.8600,89118.95452800,01/06/2017 @ 12:00:00 AM
-24754,"The Constructed, Snaretool",The Bastion of Barbos,25.41,Negative Rockglitter Mercury Of Trolls,229.00,235.59,214.17,53950.1100,49044.9300,129166.07966400,01/06/2017 @ 12:00:00 AM
-36730,Metalbrood,The Fen of the Necromancer,32.21,Grayplatinum,182.00,2548.00,115.43,463736.0000,21008.2600,640880.38614600,01/06/2017 @ 12:00:00 AM
-34011,"The Firey, Evilember",The Bastion of the Lich Tyrant,8.64,Unicorns' Fatal Magma Metal Of The Ocean,175.00,25.30,27.83,4427.5000,4870.2500,10101.07560000,01/06/2017 @ 12:00:00 AM
-12913,Chainhorror,Bifar's Deep,10.09,Incubi's Iron Of The Dawn,216.00,174.99,174.99,37797.8400,37797.8400,83223.28411200,01/06/2017 @ 12:00:00 AM
-22443,"Brand, Lightning",The Tower of Sabiesu the Awesome,10.00,Fleshshock Mercury,333.00,-31.02,-28.20,-10329.6600,-9390.6000,-21692.28600000,01/06/2017 @ 12:00:00 AM
-23870,"Drakecaster, Sephiroth",The Forsaken Sepulcher of Sorrows,31.36,Phantasmal Tin Of The Swamps,272.00,405.96,369.05,110421.1200,100381.6000,276910.45299200,01/06/2017 @ 12:00:00 AM
-34851,"Claw, Slayer",The Bastion of the Vampire Duke,45.86,Sprites' Transcendent Mud Lead Of The South,198.00,3338.65,267.08,661052.7000,52881.8400,1041344.92004400,01/06/2017 @ 12:00:00 AM
-31859,"God of the Lost, Lionare",The Demon and Toad,-1.21,Pearl Mirrorice Steel Of Changelings,352.00,365.42,365.42,128627.8400,128627.8400,254142.88627200,01/06/2017 @ 12:00:00 AM
-16919,"Lady of Fire, Nelalwe",Gena's Hold,5.85,Warlocks' Timerot Mithril,284.00,725.00,176.95,205900.0000,50253.8000,271138.79730000,01/06/2017 @ 12:00:00 AM
-37318,Cinderflame,The Greedy Wench,13.31,Stone Soulsteel Of The Skies,178.00,453.31,453.31,80689.1800,80689.1800,182857.81971600,01/06/2017 @ 12:00:00 AM
+11066,"Avriel, God of Death",North Arcanist's Farthing,2.50,Lycanthropes' Gold,334.00,371.80,338.00,124181.2000,112892.0000,243000.03000000,01/06/2007 @ 12:00:00 AM
+35095,"Dawn, Darkzealot",Barad Kesa,6.17,Sprites' Transcendent Mud Lead Of The South,243.00,3338.65,267.08,811291.9500,64900.4400,930253.46046300,01/06/2007 @ 12:00:00 AM
+24625,Spikesnare,The Bastion of Barbos,25.41,Negative Rockglitter Mercury Of Trolls,158.00,235.59,214.17,37223.2200,33838.8600,89118.95452800,01/06/2007 @ 12:00:00 AM
+24754,"Snaretool, The Constructed",The Bastion of Barbos,25.41,Negative Rockglitter Mercury Of Trolls,229.00,235.59,214.17,53950.1100,49044.9300,129166.07966400,01/06/2007 @ 12:00:00 AM
+36730,Metalbrood,The Fen of the Necromancer,32.21,Grayplatinum,182.00,2548.00,115.43,463736.0000,21008.2600,640880.38614600,01/06/2007 @ 12:00:00 AM
+34011,"Evilember, The Firey",The Bastion of the Lich Tyrant,8.64,Unicorns' Fatal Magma Metal Of The Ocean,175.00,25.30,27.83,4427.5000,4870.2500,10101.07560000,01/06/2007 @ 12:00:00 AM
+12913,Chainhorror,Bifar's Deep,10.09,Incubi's Iron Of The Dawn,216.00,174.99,174.99,37797.8400,37797.8400,83223.28411200,01/06/2007 @ 12:00:00 AM
+22443,"Lightning, Brand",The Tower of Sabiesu the Awesome,10.00,Fleshshock Mercury,333.00,-31.02,-28.20,-10329.6600,-9390.6000,-21692.28600000,01/06/2017 @ 12:00:00 AM
+23870,"Sephiroth, Drakecaster",The Forsaken Sepulcher of Sorrows,31.36,Phantasmal Tin Of The Swamps,272.00,405.96,369.05,110421.1200,100381.6000,276910.45299200,01/06/2007 @ 12:00:00 AM
+34851,"Slayer, Claw",The Bastion of the Vampire Duke,45.86,Sprites' Transcendent Mud Lead Of The South,198.00,3338.65,267.08,661052.7000,52881.8400,1041344.92004400,01/06/2007 @ 12:00:00 AM
+31859,"Lionare, God of the Lost",The Demon and Toad,-1.21,Pearl Mirrorice Steel Of Changelings,352.00,365.42,365.42,128627.8400,128627.8400,254142.88627200,01/06/2007 @ 12:00:00 AM
+16919,"Nelalwe, Lady of Fire",Gena's Hold,5.85,Warlocks' Timerot Mithril,284.00,725.00,176.95,205900.0000,50253.8000,271138.79730000,01/06/2007 @ 12:00:00 AM
+37318,Cinderflame,The Greedy Wench,13.31,Stone Soulsteel Of The Skies,178.00,453.31,453.31,80689.1800,80689.1800,182857.81971600,01/06/2007 @ 12:00:00 AM

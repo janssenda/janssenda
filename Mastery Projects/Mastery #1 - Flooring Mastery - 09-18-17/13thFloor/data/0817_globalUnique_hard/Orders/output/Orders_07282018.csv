@@ -1,14 +1,14 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-23020,"Godwarlock, Sunrise",The Secret Catacombs of Ulfang the Black,31.70,Planar Mudtin Of Trolls,204.00,191.40,174.00,39045.6000,35496.0000,98171.28720000,07/28/2018 @ 12:00:00 AM
-12531,Bonescare,Bergfison's Deep,16.00,Foulopal Copper Of The Skies,344.00,201.66,201.66,69371.0400,69371.0400,160940.81280000,07/28/2018 @ 12:00:00 AM
-25781,Chainhorror,North Arcanist's Farthing,3.03,Grayplatinum,319.00,2548.00,104.94,812812.0000,33475.8600,871930.38215800,07/28/2018 @ 12:00:00 AM
-10043,"Goddess of the Earth, Gono",The Pirate's Pipe,15.40,Emerald Orichalcum,231.00,1957.00,118.01,452067.0000,27260.3100,553143.71574000,07/28/2018 @ 12:00:00 AM
-11595,"The Machine, Wheelbolt",The Fortress of the Lich Queen,18.84,Mistgold Of Men,156.00,412.50,375.00,64350.0000,58500.0000,145994.94000000,07/28/2018 @ 12:00:00 AM
-21028,Graveterror,The Fen of the Necromancer,20.00,Plague Tin,133.00,465.25,422.95,61878.2500,56252.3500,141756.72000000,07/28/2018 @ 12:00:00 AM
-11932,"Wind, Maverick",Castle Village,42.98,Sirens' Rockgold,103.00,306.13,278.30,31531.3900,28664.9000,86068.65544200,07/28/2018 @ 12:00:00 AM
-16069,"The Evil, Burnchill",The Bastion of the Lich Tyrant,7.14,Undeads' Mind Orichalcum Of The Twilight,177.00,1169.00,301.40,206913.0000,53347.8000,278843.42112000,07/28/2018 @ 12:00:00 AM
-30617,"Claw, Slayer",The Fortress of Akkun the Grim,27.03,Witchs' Forbidden Rockrainbow Bronze,116.00,245.63,245.63,28493.0800,28493.0800,72389.51904800,07/28/2018 @ 12:00:00 AM
-6783,"Seeker, Fate",North Grove Ward,41.80,Dragons' Poison Glitterflesh Steel Of The North,341.00,742.00,75.00,253022.0000,25575.0000,395050.54600000,07/28/2018 @ 12:00:00 AM
-28851,"Lord of Death, Addon",The Nulukkhath Spires,28.99,Unknown Fatelightning Steel Of The Glacier,267.00,145.08,159.59,38736.3600,42610.5300,104929.35341100,07/28/2018 @ 12:00:00 AM
-4446,"Drakecaster, Sephiroth",The Tower of Sabiesu the Awesome,10.00,Nymphs' Luminous Rotmercury Of The Skies,91.00,335.50,305.00,30530.5000,27755.0000,64114.05000000,07/28/2018 @ 12:00:00 AM
-24153,"The Mechanical, Snarepiston",The Forsaken Sepulcher of Sorrows,31.36,Djinni's Mind Fogiron,186.00,57.23,57.23,10644.7800,10644.7800,27965.96601600,07/28/2018 @ 12:00:00 AM
+23020,"Godwarlock, Sunrise",The Secret Catacombs of Ulfang the Black,31.70,Planar Mudtin Of Trolls,204.00,191.40,174.00,39045.6000,35496.0000,98171.28720000,07/28/1948 @ 12:00:00 AM
+12531,Bonescare,Bergfison's Deep,16.00,Foulopal Copper Of The Skies,344.00,201.66,201.66,69371.0400,69371.0400,160940.81280000,07/28/1948 @ 12:00:00 AM
+25781,Chainhorror,North Arcanist's Farthing,3.03,Grayplatinum,319.00,2548.00,104.94,812812.0000,33475.8600,871930.38215800,07/28/1948 @ 12:00:00 AM
+10043,"Goddess of the Earth, Gono",The Pirate's Pipe,15.40,Emerald Orichalcum,231.00,1957.00,118.01,452067.0000,27260.3100,553143.71574000,07/28/1948 @ 12:00:00 AM
+11595,"The Machine, Wheelbolt",The Fortress of the Lich Queen,18.84,Mistgold Of Men,156.00,412.50,375.00,64350.0000,58500.0000,145994.94000000,07/28/1948 @ 12:00:00 AM
+21028,Graveterror,The Fen of the Necromancer,20.00,Plague Tin,133.00,465.25,422.95,61878.2500,56252.3500,141756.72000000,07/28/1978 @ 12:00:00 AM
+11932,"Wind, Maverick",Castle Village,42.98,Sirens' Rockgold,103.00,306.13,278.30,31531.3900,28664.9000,86068.65544200,07/28/1948 @ 12:00:00 AM
+16069,"The Evil, Burnchill",The Bastion of the Lich Tyrant,7.14,Undeads' Mind Orichalcum Of The Twilight,177.00,1169.00,301.40,206913.0000,53347.8000,278843.42112000,07/28/1948 @ 12:00:00 AM
+30617,"Claw, Slayer",The Fortress of Akkun the Grim,27.03,Witchs' Forbidden Rockrainbow Bronze,116.00,245.63,245.63,28493.0800,28493.0800,72389.51904800,07/28/1978 @ 12:00:00 AM
+6783,"Seeker, Fate",North Grove Ward,41.80,Dragons' Poison Glitterflesh Steel Of The North,341.00,742.00,75.00,253022.0000,25575.0000,395050.54600000,07/28/1948 @ 12:00:00 AM
+28851,"Lord of Death, Addon",The Nulukkhath Spires,28.99,Unknown Fatelightning Steel Of The Glacier,267.00,145.08,159.59,38736.3600,42610.5300,104929.35341100,07/28/1948 @ 12:00:00 AM
+4446,"Drakecaster, Sephiroth",The Tower of Sabiesu the Awesome,10.00,Nymphs' Luminous Rotmercury Of The Skies,91.00,335.50,305.00,30530.5000,27755.0000,64114.05000000,07/28/1948 @ 12:00:00 AM
+24153,"The Mechanical, Snarepiston",The Forsaken Sepulcher of Sorrows,31.36,Djinni's Mind Fogiron,186.00,57.23,57.23,10644.7800,10644.7800,27965.96601600,07/28/1948 @ 12:00:00 AM

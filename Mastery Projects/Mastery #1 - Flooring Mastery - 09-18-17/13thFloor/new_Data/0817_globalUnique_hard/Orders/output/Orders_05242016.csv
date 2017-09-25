@@ -1,13 +1,13 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-23085,"Lord of Plague, Alas",The Secret Catacombs of Ulfang the Black,31.70,Fleshshock Mercury,210.00,-31.02,-28.20,-6514.2000,-5922.0000,-16378.47540000,05/24/2016 @ 12:00:00 AM
-2411,"Roguemist, Rouge",Mahyrst Keep,28.45,Undeads' Mind Orichalcum Of The Twilight,159.00,1169.00,274.00,185871.0000,43566.0000,294711.82650000,05/24/2016 @ 12:00:00 AM
-23623,"The Binder, Springpulley",Reheath Stronghold,39.60,Forgotten Mithril,162.00,545.71,496.10,88405.0200,80368.2000,235607.41512000,05/24/2016 @ 12:00:00 AM
-10530,Spikespawn,The Dungeon of Merciless Woe,3.61,Phantasmal Smokezephyr Mercury Of Men,224.00,211.20,192.00,47308.8000,43008.0000,93577.23648000,05/24/2016 @ 12:00:00 AM
-18728,"Tombreaper, Rouge",Barad Cune,49.21,Spirits' Living Wordhammer Tin Of The Trees,372.00,141.57,128.70,52664.0400,47876.4000,150016.39052400,05/24/2016 @ 12:00:00 AM
-8928,"Gust, Shadow",Gena's Hold,4.40,Primordial Plague Mercury Of Legend,227.00,1150.79,67.00,261229.3300,15209.0000,288601.61652000,05/24/2016 @ 12:00:00 AM
-28457,"The Chiller, Blazefreeze",The Bastion of the Vampire Duke,45.86,Vampires' Fang Emeraldsilver,194.00,2033.69,80.84,394535.8600,15682.9600,598345.17085200,05/24/2016 @ 12:00:00 AM
-16699,"The Binder, Springpulley",The Scoundrel and Flask,45.25,Grayplatinum,343.00,2548.00,104.94,873964.0000,35994.4200,1321714.60505000,05/24/2016 @ 12:00:00 AM
-4293,"Felldrake, Magus",The Tower of Sabiesu the Awesome,10.00,Fairies' Supreme Mistsmoke Lead Of The Future,289.00,2622.69,413.00,757957.4100,119357.0000,965045.85100000,05/24/2016 @ 12:00:00 AM
-15650,Metalbrood,The Tower of Aramum,20.00,Shadowhell Mithril,198.00,462.21,420.19,91517.5800,83197.6200,209658.24000000,05/24/2016 @ 12:00:00 AM
-14741,"Felldrake, Magus",The Secret Shrine of the Gargoyle Count,23.93,Mind Lead,113.00,241.00,219.09,27233.0000,24757.1700,64431.41768100,05/24/2016 @ 12:00:00 AM
-25639,"Drakecaster, Sephiroth",Gili's Delve,35.89,Djinni's Mind Fogiron,242.00,57.23,57.23,13849.6600,13849.6600,37640.60594800,05/24/2016 @ 12:00:00 AM
+23085,"Alas, Lord of Plague",The Secret Catacombs of Ulfang the Black,31.70,Fleshshock Mercury,210.00,-31.02,-28.20,-6514.2000,-5922.0000,-16378.47540000,05/24/2016 @ 12:00:00 AM
+2411,"Rouge, Roguemist",Mahyrst Keep,28.45,Undeads' Mind Orichalcum Of The Twilight,159.00,1169.00,274.00,185871.0000,43566.0000,294711.82650000,05/24/2006 @ 12:00:00 AM
+23623,"Springpulley, The Binder",Reheath Stronghold,39.60,Forgotten Mithril,162.00,545.71,496.10,88405.0200,80368.2000,235607.41512000,05/24/2006 @ 12:00:00 AM
+10530,Spikespawn,The Dungeon of Merciless Woe,3.61,Phantasmal Smokezephyr Mercury Of Men,224.00,211.20,192.00,47308.8000,43008.0000,93577.23648000,05/24/2006 @ 12:00:00 AM
+18728,"Rouge, Tombreaper",Barad Cune,49.21,Spirits' Living Wordhammer Tin Of The Trees,372.00,141.57,128.70,52664.0400,47876.4000,150016.39052400,05/24/2006 @ 12:00:00 AM
+8928,"Shadow, Gust",Gena's Hold,4.40,Primordial Plague Mercury Of Legend,227.00,1150.79,67.00,261229.3300,15209.0000,288601.61652000,05/24/2006 @ 12:00:00 AM
+28457,"Blazefreeze, The Chiller",The Bastion of the Vampire Duke,45.86,Vampires' Fang Emeraldsilver,194.00,2033.69,80.84,394535.8600,15682.9600,598345.17085200,05/24/2006 @ 12:00:00 AM
+16699,"Springpulley, The Binder",The Scoundrel and Flask,45.25,Grayplatinum,343.00,2548.00,104.94,873964.0000,35994.4200,1321714.60505000,05/24/2006 @ 12:00:00 AM
+4293,"Magus, Felldrake",The Tower of Sabiesu the Awesome,10.00,Fairies' Supreme Mistsmoke Lead Of The Future,289.00,2622.69,413.00,757957.4100,119357.0000,965045.85100000,05/24/2006 @ 12:00:00 AM
+15650,Metalbrood,The Tower of Aramum,20.00,Shadowhell Mithril,198.00,462.21,420.19,91517.5800,83197.6200,209658.24000000,05/24/2006 @ 12:00:00 AM
+14741,"Magus, Felldrake",The Secret Shrine of the Gargoyle Count,23.93,Mind Lead,113.00,241.00,219.09,27233.0000,24757.1700,64431.41768100,05/24/2006 @ 12:00:00 AM
+25639,"Sephiroth, Drakecaster",Gili's Delve,35.89,Djinni's Mind Fogiron,242.00,57.23,57.23,13849.6600,13849.6600,37640.60594800,05/24/2006 @ 12:00:00 AM

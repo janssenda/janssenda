@@ -1,21 +1,21 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-1092,"Mystery, Lord",Reyny Keep,-3.35,Yellow Mistearth Copper,236.00,3587.00,238.00,846532.0000,56168.0000,872459.55000000,11/21/2015 @ 12:00:00 AM
-2449,Deathbrood,The Tomb of Hellish Ruin,30.00,Magicians' Legendary Poison Metal,317.00,-52.81,-48.01,-16740.7700,-15219.1700,-41547.92200000,11/21/2015 @ 12:00:00 AM
-36548,"Amberslayer, Flora",The Fen of the Necromancer,32.21,Grayplatinum,172.00,2548.00,115.43,438256.0000,19853.9600,605667.17811600,11/21/2015 @ 12:00:00 AM
-10233,"Jackalguard, Gale",Grove Farthing,25.00,Emerald Orichalcum,112.00,1957.00,118.01,219184.0000,13217.1200,290501.40000000,11/21/2015 @ 12:00:00 AM
-12972,"The Evil, Snowflame",Archfane District,15.29,Dragons' Poison Glitterflesh Steel Of The North,191.00,742.00,82.50,141722.0000,15757.5000,181558.11555000,11/21/2015 @ 12:00:00 AM
-11858,"Jester, Seraph",Castle Village,42.98,Zephyr Adamant,208.00,481.77,-44.14,100208.1600,-9181.1200,130150.46179200,11/21/2015 @ 12:00:00 AM
-19225,"Amberslayer, Flora",Gifeld Castle,33.01,Trolls' Mist Poisonplatinum Of The Twilight,241.00,484.62,440.56,116793.4200,106174.9600,296570.24223800,11/21/2015 @ 12:00:00 AM
-32223,"Godwarlock, Sunrise",The Fen of the Necromancer,29.28,Fairies' Supreme Mistsmoke Lead Of The Future,244.00,499.73,549.70,121934.1200,134126.8000,331035.55737600,11/21/2015 @ 12:00:00 AM
-31385,"Goddess of Law, Eumyan",Hafeld Keep,47.59,Warlocks' Timerot Mithril,127.00,194.65,194.65,24720.5500,24720.5500,72970.11949000,11/21/2015 @ 12:00:00 AM
-492,"Knightclaw, Sunset",Gili's Delve,35.89,Stone Soulsteel Of The Skies,338.00,3459.15,340.58,1169192.7000,115116.0400,1745247.14678600,11/21/2015 @ 12:00:00 AM
-29585,"The Chiller, Chillfire",Bifar's Deep,12.21,Heavenly Dreamsilver Of The Night,169.00,719.00,314.60,121511.0000,53167.4000,196006.63264000,11/21/2015 @ 12:00:00 AM
-563,"Wolf, Jericho",The Beggar and Cask,25.10,Unknown Fatelightning Steel Of The Glacier,186.00,305.86,109.00,56889.9600,20274.0000,96532.11396000,11/21/2015 @ 12:00:00 AM
-8923,"The Blade, Steelterror",The Tower of Aces the Accursed,-3.34,Djinni's Spectral Shadowlead Of Life,327.00,1718.00,259.12,561786.0000,84732.2400,624924.53078400,11/21/2015 @ 12:00:00 AM
-7627,"Roguemist, Rouge",Noble's Village,4.94,Swordbronze,141.00,333.30,303.00,46995.3000,42723.0000,94150.38402000,11/21/2015 @ 12:00:00 AM
-16491,"God of Fate, Uriel",Khali's Delve,1.18,Tritons' Time Stoneiron Of Legend,238.00,341.59,341.59,81298.4200,81298.4200,164515.48271200,11/21/2015 @ 12:00:00 AM
-15431,"Godwarlock, Sunrise",The Tower of Aramum,20.00,Imperial Fate Steel,166.00,419.10,381.00,69570.6000,63246.0000,159379.92000000,11/21/2015 @ 12:00:00 AM
-14478,"Veil, Bane",Gili's Delve,35.89,Negative Rockglitter Mercury Of Trolls,226.00,3502.00,214.17,791452.0000,48402.4200,1141278.17133800,11/21/2015 @ 12:00:00 AM
-3278,"Knightseraph, Lance",The Cracked Chalice,-4.37,Succubi's Evil Mindzephyr Adamant Of The Desert,53.00,555.09,42.90,29419.7700,2273.7000,30308.46536100,11/21/2015 @ 12:00:00 AM
-26839,"Lady of Fire, Nelalwe",Reheath Stronghold,39.60,Heavenly Dreamsilver Of The Night,163.00,719.00,314.60,117197.0000,51279.8000,235193.61280000,11/21/2015 @ 12:00:00 AM
-13606,"The Grasping, Nailpiston",The Lewd King,41.80,Warlocks' Timerot Mithril,328.00,725.00,176.95,237800.0000,58039.6000,419500.55280000,11/21/2015 @ 12:00:00 AM
+1092,"Lord, Mystery",Reyny Keep,-3.35,Yellow Mistearth Copper,236.00,3587.00,238.00,846532.0000,56168.0000,872459.55000000,11/21/2005 @ 12:00:00 AM
+2449,Deathbrood,The Tomb of Hellish Ruin,30.00,Magicians' Legendary Poison Metal,317.00,-52.81,-48.01,-16740.7700,-15219.1700,-41547.92200000,11/21/2005 @ 12:00:00 AM
+36548,"Flora, Amberslayer",The Fen of the Necromancer,32.21,Grayplatinum,172.00,2548.00,115.43,438256.0000,19853.9600,605667.17811600,11/21/2005 @ 12:00:00 AM
+10233,"Gale, Jackalguard",Grove Farthing,25.00,Emerald Orichalcum,112.00,1957.00,118.01,219184.0000,13217.1200,290501.40000000,11/21/2005 @ 12:00:00 AM
+12972,"Snowflame, The Evil",Archfane District,15.29,Dragons' Poison Glitterflesh Steel Of The North,191.00,742.00,82.50,141722.0000,15757.5000,181558.11555000,11/21/2005 @ 12:00:00 AM
+11858,"Seraph, Jester",Castle Village,42.98,Zephyr Adamant,208.00,481.77,-44.14,100208.1600,-9181.1200,130150.46179200,11/21/2005 @ 12:00:00 AM
+19225,"Flora, Amberslayer",Gifeld Castle,33.01,Trolls' Mist Poisonplatinum Of The Twilight,241.00,484.62,440.56,116793.4200,106174.9600,296570.24223800,11/21/2005 @ 12:00:00 AM
+32223,"Sunrise, Godwarlock",The Fen of the Necromancer,29.28,Fairies' Supreme Mistsmoke Lead Of The Future,244.00,499.73,549.70,121934.1200,134126.8000,331035.55737600,11/21/2005 @ 12:00:00 AM
+31385,"Eumyan, Goddess of Law",Hafeld Keep,47.59,Warlocks' Timerot Mithril,127.00,194.65,194.65,24720.5500,24720.5500,72970.11949000,11/21/2005 @ 12:00:00 AM
+492,"Sunset, Knightclaw",Gili's Delve,35.89,Stone Soulsteel Of The Skies,338.00,3459.15,340.58,1169192.7000,115116.0400,1745247.14678600,11/21/2005 @ 12:00:00 AM
+29585,"Chillfire, The Chiller",Bifar's Deep,12.21,Heavenly Dreamsilver Of The Night,169.00,719.00,314.60,121511.0000,53167.4000,196006.63264000,11/21/2015 @ 12:00:00 AM
+563,"Jericho, Wolf",The Beggar and Cask,25.10,Unknown Fatelightning Steel Of The Glacier,186.00,305.86,109.00,56889.9600,20274.0000,96532.11396000,11/21/2005 @ 12:00:00 AM
+8923,"Steelterror, The Blade",The Tower of Aces the Accursed,-3.34,Djinni's Spectral Shadowlead Of Life,327.00,1718.00,259.12,561786.0000,84732.2400,624924.53078400,11/21/2015 @ 12:00:00 AM
+7627,"Rouge, Roguemist",Noble's Village,4.94,Swordbronze,141.00,333.30,303.00,46995.3000,42723.0000,94150.38402000,11/21/2005 @ 12:00:00 AM
+16491,"Uriel, God of Fate",Khali's Delve,1.18,Tritons' Time Stoneiron Of Legend,238.00,341.59,341.59,81298.4200,81298.4200,164515.48271200,11/21/2005 @ 12:00:00 AM
+15431,"Sunrise, Godwarlock",The Tower of Aramum,20.00,Imperial Fate Steel,166.00,419.10,381.00,69570.6000,63246.0000,159379.92000000,11/21/2005 @ 12:00:00 AM
+14478,"Bane, Veil",Gili's Delve,35.89,Negative Rockglitter Mercury Of Trolls,226.00,3502.00,214.17,791452.0000,48402.4200,1141278.17133800,11/21/2005 @ 12:00:00 AM
+3278,"Lance, Knightseraph",The Cracked Chalice,-4.37,Succubi's Evil Mindzephyr Adamant Of The Desert,53.00,555.09,42.90,29419.7700,2273.7000,30308.46536100,11/21/2005 @ 12:00:00 AM
+26839,"Nelalwe, Lady of Fire",Reheath Stronghold,39.60,Heavenly Dreamsilver Of The Night,163.00,719.00,314.60,117197.0000,51279.8000,235193.61280000,11/21/2015 @ 12:00:00 AM
+13606,"Nailpiston, The Grasping",The Lewd King,41.80,Warlocks' Timerot Mithril,328.00,725.00,176.95,237800.0000,58039.6000,419500.55280000,11/21/2005 @ 12:00:00 AM

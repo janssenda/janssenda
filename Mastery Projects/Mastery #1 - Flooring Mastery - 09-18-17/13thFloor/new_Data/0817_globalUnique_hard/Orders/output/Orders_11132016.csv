@@ -1,26 +1,26 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-24430,"Goddess of Law, Eumyan",The Bastion of Barbos,25.41,Ensorceled Sandmetal Of Spirits,254.00,85.18,77.44,21635.7200,19669.7600,51801.20246800,11/13/2016 @ 12:00:00 AM
-11664,"Gust, Shadow",The Fortress of Asmamur,-2.42,Phantasmal Lead,211.00,21.92,19.93,4625.1200,4205.2300,8616.65553000,11/13/2016 @ 12:00:00 AM
-1684,"Seeker, Fate",The Secret Shrine of the Gargoyle Count,19.77,Mithril Of The Tropics,184.00,1565.76,189.00,288099.8400,34776.0000,386708.39356800,11/13/2016 @ 12:00:00 AM
-22648,"Dire, Wind",The Tomb of Hellish Ruin,36.30,Primordial Mud Orichalcum,103.00,1113.00,20.57,114639.0000,2118.7100,159140.75873000,11/13/2016 @ 12:00:00 AM
-21358,"Darkzealot, Dawn",North Arcanist's Farthing,3.03,Witchs' Forbidden Rockrainbow Bronze,118.00,245.63,245.63,28984.3400,28984.3400,59725.13100400,11/13/2016 @ 12:00:00 AM
-34734,"Darkzealot, Dawn",The Bastion of the Vampire Duke,45.86,Grayplatinum,212.00,2548.00,115.43,540176.0000,24471.1600,823594.34757600,11/13/2016 @ 12:00:00 AM
-22916,"Knightclaw, Sunset",Moor Village,11.32,Shadowhell Mithril,351.00,462.21,420.19,162235.7100,147486.6900,344782.97568000,11/13/2016 @ 12:00:00 AM
-19686,"Felldrake, Magus",Gifeld Castle,33.01,Grayplatinum,210.00,2548.00,104.94,535080.0000,22037.4000,741021.85374000,11/13/2016 @ 12:00:00 AM
-31391,"The Evil, Snowflame",Hafeld Keep,47.59,Fairies' Supreme Mistsmoke Lead Of The Future,193.00,499.73,549.70,96447.8900,106092.1000,298928.77124100,11/13/2016 @ 12:00:00 AM
-30160,"The Frigid, Icechill",The Greedy Wench,13.31,Incubi's Glittering Tin Of The Future,190.00,192.96,233.49,36662.4000,44363.1000,91809.99405000,11/13/2016 @ 12:00:00 AM
-7429,"Goddess of Travel, Lenwenye",The Khazahol Crags,20.68,Sapphire Mindlead,307.00,-44.77,-40.70,-13744.3900,-12494.9000,-31665.57517200,11/13/2016 @ 12:00:00 AM
-30565,"Mistmidnight, Tiger",The Broken Arrow,17.60,Witchs' Forbidden Rockrainbow Bronze,166.00,245.63,245.63,40774.5800,40774.5800,95901.81216000,11/13/2016 @ 12:00:00 AM
-6318,"Roguemist, Rouge",The Chuallanto Jungle,10.00,Glittering Orichalcum,258.00,2056.00,330.00,530448.0000,85140.0000,677146.80000000,11/13/2016 @ 12:00:00 AM
-18919,"God of Love, Prusu",Mahyrst Keep,31.30,Vampires' Fang Emeraldsilver,145.00,2033.69,80.84,294885.0500,11721.8000,402574.79405000,11/13/2016 @ 12:00:00 AM
-17651,"Runetomb, Song",Hartshill Ward,48.75,Starsmoke Bronze Of Life,320.00,-438.00,420.81,-140160.0000,134659.2000,-8182.44000000,11/13/2016 @ 12:00:00 AM
-27391,"God of Fate, Uriel",The Pirate's Pipe,16.94,Vampires' Hammer Emeraldmetal,154.00,93.70,85.18,14429.8000,13117.7200,32214.06988800,11/13/2016 @ 12:00:00 AM
-6812,"Gust, Shadow",The Drunken Thief,18.41,Shadowhell Mithril,156.00,462.21,420.19,72104.7600,65549.6400,162996.57504000,11/13/2016 @ 12:00:00 AM
-27520,"The Machine, Wheelbolt",The Pirate's Pipe,16.94,Sprites' Transcendent Mud Lead Of The South,170.00,3338.65,267.08,567570.5000,45403.6000,716811.91254000,11/13/2016 @ 12:00:00 AM
-25130,"Lonedrake, Clash",The Fortress of the Lich Queen,20.72,Mithril Of The Tropics,334.00,276.72,276.72,92424.4800,92424.4800,223149.66451200,11/13/2016 @ 12:00:00 AM
-37261,"The Horrorific, Evilfear",The Greedy Wench,13.31,Stone Soulsteel Of The Skies,334.00,453.31,453.31,151405.5400,151405.5400,343115.23474800,11/13/2016 @ 12:00:00 AM
-3519,"God of Resurrection, Gadriel",Noble's Village,4.49,Falserainbow Lead,152.00,872.99,70.18,132694.4800,10667.3600,149798.78661600,11/13/2016 @ 12:00:00 AM
-4863,"Wolf, Jericho",Pawic Keep,31.90,Nymphs' Luminous Rotmercury Of The Skies,237.00,335.50,305.00,79513.5000,72285.0000,200222.22150000,11/13/2016 @ 12:00:00 AM
-14975,Emberfire,The Secret Shrine of the Gargoyle Count,23.93,Golems' Stonesapphire Gold Of The Glacier,171.00,176.00,160.00,30096.0000,27360.0000,71205.22080000,11/13/2016 @ 12:00:00 AM
-36241,Graveterror,The Fen of the Necromancer,32.21,Phantasmal Tin Of The Swamps,358.00,405.96,369.05,145333.6800,132119.9000,366821.37811800,11/13/2016 @ 12:00:00 AM
-25539,Wheelspawn,Weke Tower,47.19,Incubi's Glittering Tin Of The Future,244.00,192.96,233.49,47082.2400,56971.5600,153156.78822000,11/13/2016 @ 12:00:00 AM
+24430,"Eumyan, Goddess of Law",The Bastion of Barbos,25.41,Ensorceled Sandmetal Of Spirits,254.00,85.18,77.44,21635.7200,19669.7600,51801.20246800,11/13/2006 @ 12:00:00 AM
+11664,"Shadow, Gust",The Fortress of Asmamur,-2.42,Phantasmal Lead,211.00,21.92,19.93,4625.1200,4205.2300,8616.65553000,11/13/2006 @ 12:00:00 AM
+1684,"Fate, Seeker",The Secret Shrine of the Gargoyle Count,19.77,Mithril Of The Tropics,184.00,1565.76,189.00,288099.8400,34776.0000,386708.39356800,11/13/2006 @ 12:00:00 AM
+22648,"Wind, Dire",The Tomb of Hellish Ruin,36.30,Primordial Mud Orichalcum,103.00,1113.00,20.57,114639.0000,2118.7100,159140.75873000,11/13/2006 @ 12:00:00 AM
+21358,"Dawn, Darkzealot",North Arcanist's Farthing,3.03,Witchs' Forbidden Rockrainbow Bronze,118.00,245.63,245.63,28984.3400,28984.3400,59725.13100400,11/13/2006 @ 12:00:00 AM
+34734,"Dawn, Darkzealot",The Bastion of the Vampire Duke,45.86,Grayplatinum,212.00,2548.00,115.43,540176.0000,24471.1600,823594.34757600,11/13/2006 @ 12:00:00 AM
+22916,"Sunset, Knightclaw",Moor Village,11.32,Shadowhell Mithril,351.00,462.21,420.19,162235.7100,147486.6900,344782.97568000,11/13/2006 @ 12:00:00 AM
+19686,"Magus, Felldrake",Gifeld Castle,33.01,Grayplatinum,210.00,2548.00,104.94,535080.0000,22037.4000,741021.85374000,11/13/2006 @ 12:00:00 AM
+31391,"Snowflame, The Evil",Hafeld Keep,47.59,Fairies' Supreme Mistsmoke Lead Of The Future,193.00,499.73,549.70,96447.8900,106092.1000,298928.77124100,11/13/2006 @ 12:00:00 AM
+30160,"Icechill, The Frigid",The Greedy Wench,13.31,Incubi's Glittering Tin Of The Future,190.00,192.96,233.49,36662.4000,44363.1000,91809.99405000,11/13/2016 @ 12:00:00 AM
+7429,"Lenwenye, Goddess of Travel",The Khazahol Crags,20.68,Sapphire Mindlead,307.00,-44.77,-40.70,-13744.3900,-12494.9000,-31665.57517200,11/13/2006 @ 12:00:00 AM
+30565,"Tiger, Mistmidnight",The Broken Arrow,17.60,Witchs' Forbidden Rockrainbow Bronze,166.00,245.63,245.63,40774.5800,40774.5800,95901.81216000,11/13/2006 @ 12:00:00 AM
+6318,"Rouge, Roguemist",The Chuallanto Jungle,10.00,Glittering Orichalcum,258.00,2056.00,330.00,530448.0000,85140.0000,677146.80000000,11/13/2006 @ 12:00:00 AM
+18919,"Prusu, God of Love",Mahyrst Keep,31.30,Vampires' Fang Emeraldsilver,145.00,2033.69,80.84,294885.0500,11721.8000,402574.79405000,11/13/2006 @ 12:00:00 AM
+17651,"Song, Runetomb",Hartshill Ward,48.75,Starsmoke Bronze Of Life,320.00,-438.00,420.81,-140160.0000,134659.2000,-8182.44000000,11/13/2006 @ 12:00:00 AM
+27391,"Uriel, God of Fate",The Pirate's Pipe,16.94,Vampires' Hammer Emeraldmetal,154.00,93.70,85.18,14429.8000,13117.7200,32214.06988800,11/13/2006 @ 12:00:00 AM
+6812,"Shadow, Gust",The Drunken Thief,18.41,Shadowhell Mithril,156.00,462.21,420.19,72104.7600,65549.6400,162996.57504000,11/13/2006 @ 12:00:00 AM
+27520,"Wheelbolt, The Machine",The Pirate's Pipe,16.94,Sprites' Transcendent Mud Lead Of The South,170.00,3338.65,267.08,567570.5000,45403.6000,716811.91254000,11/13/2006 @ 12:00:00 AM
+25130,"Clash, Lonedrake",The Fortress of the Lich Queen,20.72,Mithril Of The Tropics,334.00,276.72,276.72,92424.4800,92424.4800,223149.66451200,11/13/2006 @ 12:00:00 AM
+37261,"Evilfear, The Horrorific",The Greedy Wench,13.31,Stone Soulsteel Of The Skies,334.00,453.31,453.31,151405.5400,151405.5400,343115.23474800,11/13/2006 @ 12:00:00 AM
+3519,"Gadriel, God of Resurrection",Noble's Village,4.49,Falserainbow Lead,152.00,872.99,70.18,132694.4800,10667.3600,149798.78661600,11/13/2006 @ 12:00:00 AM
+4863,"Jericho, Wolf",Pawic Keep,31.90,Nymphs' Luminous Rotmercury Of The Skies,237.00,335.50,305.00,79513.5000,72285.0000,200222.22150000,11/13/2006 @ 12:00:00 AM
+14975,Emberfire,The Secret Shrine of the Gargoyle Count,23.93,Golems' Stonesapphire Gold Of The Glacier,171.00,176.00,160.00,30096.0000,27360.0000,71205.22080000,11/13/2006 @ 12:00:00 AM
+36241,Graveterror,The Fen of the Necromancer,32.21,Phantasmal Tin Of The Swamps,358.00,405.96,369.05,145333.6800,132119.9000,366821.37811800,11/13/2006 @ 12:00:00 AM
+25539,Wheelspawn,Weke Tower,47.19,Incubi's Glittering Tin Of The Future,244.00,192.96,233.49,47082.2400,56971.5600,153156.78822000,11/13/2006 @ 12:00:00 AM

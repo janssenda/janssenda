@@ -1,16 +1,16 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-12526,"The Grasping, Beamsprocket",Bifar's Deep,10.09,White Platinum,274.00,83.49,91.84,22876.2600,25164.1600,52887.69837800,04/30/2017 @ 12:00:00 AM
-11372,Beamtrap,The Black Barrow of Bery,19.80,Primordial Plague Mercury Of Legend,148.00,1150.79,67.00,170316.9200,9916.0000,215919.03816000,04/30/2017 @ 12:00:00 AM
-10255,"God of Death, Avriel",The Dungeon of Dismal Terror,44.30,Timeiron,173.00,3255.00,-16.25,563115.0000,-2811.2500,808518.31125000,04/30/2017 @ 12:00:00 AM
+12526,"Beamsprocket, The Grasping",Bifar's Deep,10.09,White Platinum,274.00,83.49,91.84,22876.2600,25164.1600,52887.69837800,04/30/2007 @ 12:00:00 AM
+11372,Beamtrap,The Black Barrow of Bery,19.80,Primordial Plague Mercury Of Legend,148.00,1150.79,67.00,170316.9200,9916.0000,215919.03816000,04/30/2007 @ 12:00:00 AM
+10255,"Avriel, God of Death",The Dungeon of Dismal Terror,44.30,Timeiron,173.00,3255.00,-16.25,563115.0000,-2811.2500,808518.31125000,04/30/2007 @ 12:00:00 AM
 22183,Spikespawn,Pewold Keep,29.00,Primordial Mud Orichalcum,162.00,1113.00,20.57,180306.0000,3332.3400,236893.45860000,04/30/2017 @ 12:00:00 AM
-34695,"Tsunami, Seraphim",The Bastion of the Vampire Duke,45.86,Sprites' Transcendent Mud Lead Of The South,183.00,3338.65,267.08,610972.9500,48875.6400,962455.15337400,04/30/2017 @ 12:00:00 AM
-34672,"The Unspeakable, Gravebone",Barad Kesa,6.17,Ghouls' Imperial Soulzephyr Mithril Of The Seas,350.00,318.23,318.23,111380.5000,111380.5000,236505.35370000,04/30/2017 @ 12:00:00 AM
-20013,"Tombreaper, Rouge",Reyny Keep,-3.35,Shadow Metal,206.00,1606.00,298.00,330836.0000,61388.0000,379084.49600000,04/30/2017 @ 12:00:00 AM
-29333,"The Firey, Evilember",Bifar's Deep,12.21,Heavenly Dreamsilver Of The Night,245.00,719.00,314.60,176155.0000,77077.0000,284151.62720000,04/30/2017 @ 12:00:00 AM
-16333,"Wolf, Jericho",The Tower of Aramum,20.00,Undeads' Mind Orichalcum Of The Twilight,212.00,1169.00,301.40,247828.0000,63896.8000,374069.76000000,04/30/2017 @ 12:00:00 AM
-16800,"The Mechanical, Snarepiston",The Scoundrel and Flask,45.25,Incubi's Glittering Tin Of The Future,121.00,192.96,212.26,23348.1600,25683.4600,71218.42805000,04/30/2017 @ 12:00:00 AM
-14557,"Brand, Lightning",The Broken Arrow,17.60,Mind Lead,209.00,241.00,219.09,50369.0000,45789.8100,113082.76056000,04/30/2017 @ 12:00:00 AM
-3371,"Felldrake, Magus",The Archer and Scroll,45.16,Unknowable Mindsilver,229.00,34.00,159.00,7786.0000,36411.0000,64156.36520000,04/30/2017 @ 12:00:00 AM
-24003,Spikespawn,The Broken Arrow,17.60,Toxic Mistlead Of The Past,283.00,396.06,396.06,112084.9800,112084.9800,263623.87296000,04/30/2017 @ 12:00:00 AM
-25301,"Mistseeker, Grave",Kada's Deep,8.42,Mithril Of The Tropics,151.00,276.72,276.72,41784.7200,41784.7200,90605.98684800,04/30/2017 @ 12:00:00 AM
-36175,"The Evil, Snowflame",The Fen of the Necromancer,32.21,Grayplatinum,380.00,2548.00,115.43,968240.0000,43863.4000,1338101.90514000,04/30/2017 @ 12:00:00 AM
+34695,"Seraphim, Tsunami",The Bastion of the Vampire Duke,45.86,Sprites' Transcendent Mud Lead Of The South,183.00,3338.65,267.08,610972.9500,48875.6400,962455.15337400,04/30/2007 @ 12:00:00 AM
+34672,"Gravebone, The Unspeakable",Barad Kesa,6.17,Ghouls' Imperial Soulzephyr Mithril Of The Seas,350.00,318.23,318.23,111380.5000,111380.5000,236505.35370000,04/30/2007 @ 12:00:00 AM
+20013,"Rouge, Tombreaper",Reyny Keep,-3.35,Shadow Metal,206.00,1606.00,298.00,330836.0000,61388.0000,379084.49600000,04/30/2007 @ 12:00:00 AM
+29333,"Evilember, The Firey",Bifar's Deep,12.21,Heavenly Dreamsilver Of The Night,245.00,719.00,314.60,176155.0000,77077.0000,284151.62720000,04/30/2007 @ 12:00:00 AM
+16333,"Jericho, Wolf",The Tower of Aramum,20.00,Undeads' Mind Orichalcum Of The Twilight,212.00,1169.00,301.40,247828.0000,63896.8000,374069.76000000,04/30/2007 @ 12:00:00 AM
+16800,"Snarepiston, The Mechanical",The Scoundrel and Flask,45.25,Incubi's Glittering Tin Of The Future,121.00,192.96,212.26,23348.1600,25683.4600,71218.42805000,04/30/2007 @ 12:00:00 AM
+14557,"Lightning, Brand",The Broken Arrow,17.60,Mind Lead,209.00,241.00,219.09,50369.0000,45789.8100,113082.76056000,04/30/2007 @ 12:00:00 AM
+3371,"Magus, Felldrake",The Archer and Scroll,45.16,Unknowable Mindsilver,229.00,34.00,159.00,7786.0000,36411.0000,64156.36520000,04/30/2007 @ 12:00:00 AM
+24003,Spikespawn,The Broken Arrow,17.60,Toxic Mistlead Of The Past,283.00,396.06,396.06,112084.9800,112084.9800,263623.87296000,04/30/2007 @ 12:00:00 AM
+25301,"Grave, Mistseeker",Kada's Deep,8.42,Mithril Of The Tropics,151.00,276.72,276.72,41784.7200,41784.7200,90605.98684800,04/30/2007 @ 12:00:00 AM
+36175,"Snowflame, The Evil",The Fen of the Necromancer,32.21,Grayplatinum,380.00,2548.00,115.43,968240.0000,43863.4000,1338101.90514000,04/30/2007 @ 12:00:00 AM

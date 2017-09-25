@@ -1,20 +1,20 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-35161,Evilbrood,The Bastion of the Vampire Duke,45.86,Grayplatinum,207.00,2548.00,115.43,527436.0000,23894.0100,804169.95258600,09/17/2016 @ 12:00:00 AM
-11339,Spikerivet,The Black Barrow of Bery,19.80,Swordbronze,235.00,333.30,303.00,78325.5000,71205.0000,179137.53900000,09/17/2016 @ 12:00:00 AM
-36972,"Reaper, Dagger",The Fen of the Necromancer,32.21,Phantasmal Tin Of The Swamps,284.00,405.96,369.05,115292.6400,104810.2000,290997.96476400,09/17/2016 @ 12:00:00 AM
-23859,"God of Fate, Uriel",Fellfen Keep,38.00,Toxic Mistlead Of The Past,21.00,396.06,396.06,8317.2600,8317.2600,22955.63760000,09/17/2016 @ 12:00:00 AM
-21313,"Felldrake, Magus",The Bastion of Gothmog of Udun,-2.42,Starsmoke Bronze Of Life,155.00,-438.00,420.81,-67890.0000,65225.5500,-2599.97031000,09/17/2016 @ 12:00:00 AM
-32327,"Lionwatcher, Law",The Bastion of the Lich Tyrant,8.64,Yellow Mistearth Copper,138.00,287.98,261.80,39741.2400,36128.4000,82424.77689600,09/17/2016 @ 12:00:00 AM
-32781,"Drakecaster, Sephiroth",Hafeld Keep,47.59,Unspeakable Rotsoul Mithril Of Souls,126.00,370.26,336.60,46652.7600,42411.6000,131450.08892400,09/17/2016 @ 12:00:00 AM
-19768,Springsprocket,Eved Castle,30.80,Unknowable Mindsilver,153.00,174.90,174.90,26759.7000,26759.7000,70003.37520000,09/17/2016 @ 12:00:00 AM
-32801,"The Unspeakable, Terrorghoul",The Bastion of the Lich Tyrant,8.64,Fairies' Supreme Mistsmoke Lead Of The Future,253.00,499.73,549.70,126431.6900,139074.1000,288445.49025600,09/17/2016 @ 12:00:00 AM
-17436,"The Frigid, Icechill",The Scoundrel and Flask,45.25,Grayplatinum,259.00,2548.00,104.94,659932.0000,27179.4600,998029.39565000,09/17/2016 @ 12:00:00 AM
-16284,"Dawn, Tarot",The Fortress of Akkun the Grim,27.03,Tritons' Time Stoneiron Of Legend,164.00,341.59,341.59,56020.7600,56020.7600,142326.34285600,09/17/2016 @ 12:00:00 AM
-27060,"Brand, Lightning",Gili's Delve,35.89,Foulopal Copper Of The Skies,143.00,221.83,201.66,31721.6900,28837.3800,82293.72022300,09/17/2016 @ 12:00:00 AM
-26207,"Spiritraven, Bedlam",The Dungeon of Merciless Woe,3.97,Unspeakable Rotsoul Mithril Of Souls,243.00,370.26,336.60,89973.1800,81793.8000,178586.12910600,09/17/2016 @ 12:00:00 AM
-26277,"The Freezer, Shiverflame",North Arcanist's Farthing,3.03,Unspeakable Rotsoul Mithril Of Souls,253.00,370.26,336.60,93675.7800,85159.8000,184254.29807400,09/17/2016 @ 12:00:00 AM
-3084,Bolttrap,The Lazy Sage,21.93,Succubi's Evil Mindzephyr Adamant Of The Desert,52.00,555.09,42.90,28864.6800,2230.8000,37914.71876400,09/17/2016 @ 12:00:00 AM
-15684,"Knightclaw, Sunset",The Dungeon of Merciless Woe,3.61,Djinni's Mind Fogiron,171.00,57.23,52.03,9786.3300,8897.1300,19357.93290600,09/17/2016 @ 12:00:00 AM
-4405,"Goddess of Fate, Azah",The Secret Catacombs of Ulfang the Black,28.82,Violetdream Iron,134.00,2680.00,377.25,359120.0000,50551.5000,527738.82630000,09/17/2016 @ 12:00:00 AM
-37441,"God of War, Ingwenel",The Greedy Wench,13.31,Stone Soulsteel Of The Skies,35.00,453.31,453.31,15865.8500,15865.8500,35955.18927000,09/17/2016 @ 12:00:00 AM
-3570,Springsprocket,The Khazahol Crags,20.68,Forgotten Mithril,236.00,3909.75,451.00,922701.0000,106436.0000,1241962.53160000,09/17/2016 @ 12:00:00 AM
+35161,Evilbrood,The Bastion of the Vampire Duke,45.86,Grayplatinum,207.00,2548.00,115.43,527436.0000,23894.0100,804169.95258600,09/17/1946 @ 12:00:00 AM
+11339,Spikerivet,The Black Barrow of Bery,19.80,Swordbronze,235.00,333.30,303.00,78325.5000,71205.0000,179137.53900000,09/17/1946 @ 12:00:00 AM
+36972,"Reaper, Dagger",The Fen of the Necromancer,32.21,Phantasmal Tin Of The Swamps,284.00,405.96,369.05,115292.6400,104810.2000,290997.96476400,09/17/1946 @ 12:00:00 AM
+23859,"God of Fate, Uriel",Fellfen Keep,38.00,Toxic Mistlead Of The Past,21.00,396.06,396.06,8317.2600,8317.2600,22955.63760000,09/17/1976 @ 12:00:00 AM
+21313,"Felldrake, Magus",The Bastion of Gothmog of Udun,-2.42,Starsmoke Bronze Of Life,155.00,-438.00,420.81,-67890.0000,65225.5500,-2599.97031000,09/17/1946 @ 12:00:00 AM
+32327,"Lionwatcher, Law",The Bastion of the Lich Tyrant,8.64,Yellow Mistearth Copper,138.00,287.98,261.80,39741.2400,36128.4000,82424.77689600,09/17/1946 @ 12:00:00 AM
+32781,"Drakecaster, Sephiroth",Hafeld Keep,47.59,Unspeakable Rotsoul Mithril Of Souls,126.00,370.26,336.60,46652.7600,42411.6000,131450.08892400,09/17/1946 @ 12:00:00 AM
+19768,Springsprocket,Eved Castle,30.80,Unknowable Mindsilver,153.00,174.90,174.90,26759.7000,26759.7000,70003.37520000,09/17/1946 @ 12:00:00 AM
+32801,"The Unspeakable, Terrorghoul",The Bastion of the Lich Tyrant,8.64,Fairies' Supreme Mistsmoke Lead Of The Future,253.00,499.73,549.70,126431.6900,139074.1000,288445.49025600,09/17/1946 @ 12:00:00 AM
+17436,"The Frigid, Icechill",The Scoundrel and Flask,45.25,Grayplatinum,259.00,2548.00,104.94,659932.0000,27179.4600,998029.39565000,09/17/1946 @ 12:00:00 AM
+16284,"Dawn, Tarot",The Fortress of Akkun the Grim,27.03,Tritons' Time Stoneiron Of Legend,164.00,341.59,341.59,56020.7600,56020.7600,142326.34285600,09/17/1946 @ 12:00:00 AM
+27060,"Brand, Lightning",Gili's Delve,35.89,Foulopal Copper Of The Skies,143.00,221.83,201.66,31721.6900,28837.3800,82293.72022300,09/17/1946 @ 12:00:00 AM
+26207,"Spiritraven, Bedlam",The Dungeon of Merciless Woe,3.97,Unspeakable Rotsoul Mithril Of Souls,243.00,370.26,336.60,89973.1800,81793.8000,178586.12910600,09/17/1976 @ 12:00:00 AM
+26277,"The Freezer, Shiverflame",North Arcanist's Farthing,3.03,Unspeakable Rotsoul Mithril Of Souls,253.00,370.26,336.60,93675.7800,85159.8000,184254.29807400,09/17/1946 @ 12:00:00 AM
+3084,Bolttrap,The Lazy Sage,21.93,Succubi's Evil Mindzephyr Adamant Of The Desert,52.00,555.09,42.90,28864.6800,2230.8000,37914.71876400,09/17/1946 @ 12:00:00 AM
+15684,"Knightclaw, Sunset",The Dungeon of Merciless Woe,3.61,Djinni's Mind Fogiron,171.00,57.23,52.03,9786.3300,8897.1300,19357.93290600,09/17/1946 @ 12:00:00 AM
+4405,"Goddess of Fate, Azah",The Secret Catacombs of Ulfang the Black,28.82,Violetdream Iron,134.00,2680.00,377.25,359120.0000,50551.5000,527738.82630000,09/17/1946 @ 12:00:00 AM
+37441,"God of War, Ingwenel",The Greedy Wench,13.31,Stone Soulsteel Of The Skies,35.00,453.31,453.31,15865.8500,15865.8500,35955.18927000,09/17/1946 @ 12:00:00 AM
+3570,Springsprocket,The Khazahol Crags,20.68,Forgotten Mithril,236.00,3909.75,451.00,922701.0000,106436.0000,1241962.53160000,09/17/1946 @ 12:00:00 AM

@@ -1,21 +1,21 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-23213,"God of Death, Avriel",Reheath Stronghold,39.60,Planar Mudtin Of Trolls,194.00,191.40,174.00,37131.6000,33756.0000,98959.08960000,10/05/2017 @ 12:00:00 AM
-11353,"Knightclaw, Sunset",The Fen of the Necromancer,20.00,Mistgold Of Men,142.00,412.50,375.00,58575.0000,53250.0000,134190.00000000,10/05/2017 @ 12:00:00 AM
-10373,"God of the Lost, Lionare",Reheath Stronghold,39.60,Pearl Mirrorice Steel Of Changelings,186.00,2996.00,302.00,557256.0000,56172.0000,856345.48800000,10/05/2017 @ 12:00:00 AM
-35732,"Claw, Slayer",The Fen of the Necromancer,32.21,Violetdream Iron,212.00,502.13,502.13,106451.5600,106451.5600,281479.21495200,10/05/2017 @ 12:00:00 AM
-10957,"Lady of Fire, Nelalwe",The Dungeon of Dismal Terror,44.30,Phantasmal Smokezephyr Mercury Of Men,91.00,211.20,192.00,19219.2000,17472.0000,52945.40160000,10/05/2017 @ 12:00:00 AM
+23213,"Avriel, God of Death",Reheath Stronghold,39.60,Planar Mudtin Of Trolls,194.00,191.40,174.00,37131.6000,33756.0000,98959.08960000,10/05/2007 @ 12:00:00 AM
+11353,"Sunset, Knightclaw",The Fen of the Necromancer,20.00,Mistgold Of Men,142.00,412.50,375.00,58575.0000,53250.0000,134190.00000000,10/05/2007 @ 12:00:00 AM
+10373,"Lionare, God of the Lost",Reheath Stronghold,39.60,Pearl Mirrorice Steel Of Changelings,186.00,2996.00,302.00,557256.0000,56172.0000,856345.48800000,10/05/2007 @ 12:00:00 AM
+35732,"Slayer, Claw",The Fen of the Necromancer,32.21,Violetdream Iron,212.00,502.13,502.13,106451.5600,106451.5600,281479.21495200,10/05/2007 @ 12:00:00 AM
+10957,"Nelalwe, Lady of Fire",The Dungeon of Dismal Terror,44.30,Phantasmal Smokezephyr Mercury Of Men,91.00,211.20,192.00,19219.2000,17472.0000,52945.40160000,10/05/2007 @ 12:00:00 AM
 18046,Flameshiver,The Bastion of the Vampire Duke,37.90,Starsmoke Bronze Of Life,217.00,-438.00,420.81,-95046.0000,91315.7700,-5143.98717000,10/05/2017 @ 12:00:00 AM
-33726,"Seeker, Fate",The Archer and Scroll,60.12,Fairies' Supreme Mistsmoke Lead Of The Future,230.00,499.73,549.70,114937.9000,126431.0000,386479.88268000,10/05/2017 @ 12:00:00 AM
-17067,"God of Resurrection, Gadriel",The Scoundrel and Flask,45.25,Golems' Stonesapphire Gold Of The Glacier,80.00,176.00,160.00,14080.0000,12800.0000,39043.20000000,10/05/2017 @ 12:00:00 AM
-33923,"Wolf, Jericho",Barad Cune,49.21,Unspeakable Rotsoul Mithril Of Souls,236.00,370.26,336.60,87381.3600,79437.6000,248910.57021600,10/05/2017 @ 12:00:00 AM
-19607,"The Freezer, Burnbrood",The Bastion of Barbos,25.41,Toxic Mistlead Of The Past,288.00,396.06,396.06,114065.2800,114065.2800,286098.53529600,10/05/2017 @ 12:00:00 AM
-30283,"Lady of Fire, Nelalwe",The Greedy Wench,13.31,White Platinum,70.00,101.02,91.84,7071.4000,6428.8000,15297.07662000,10/05/2017 @ 12:00:00 AM
-8631,"The Freezer, Shiverflame",The Grey Plains,39.19,Unknowable Mindsilver,220.00,174.90,174.90,38478.0000,38478.0000,107115.05640000,10/05/2017 @ 12:00:00 AM
-8728,Chainnail,Reheath Stronghold,39.60,Unknown Fatelightning Steel Of The Glacier,277.00,119.90,131.89,33212.3000,36533.5300,97365.17868000,10/05/2017 @ 12:00:00 AM
-3060,Bolttrap,The Tomb of Gothmog of Udun,11.00,Falserainbow Lead,53.00,872.99,70.18,46268.4700,3719.5400,55486.69110000,10/05/2017 @ 12:00:00 AM
-27864,"Lord of the Sun, Maglioneth",The Bastion of Gothmog of Udun,-2.42,Unknown Fatelightning Steel Of The Glacier,39.00,145.08,159.59,5658.1200,6224.0100,11594.58245400,10/05/2017 @ 12:00:00 AM
-26841,"Goddess of the Earth, Gono",Gili's Delve,35.89,Swordbronze,118.00,403.29,366.63,47588.2200,43262.3400,123456.82598400,10/05/2017 @ 12:00:00 AM
-25425,"The Evil, Flameflare",Kada's Deep,8.42,Mithril Of The Tropics,223.00,276.72,276.72,61708.5600,61708.5600,133808.84150400,10/05/2017 @ 12:00:00 AM
-12127,"God of Resurrection, Gadriel",Hafeld Keep,47.59,Foul Ice Bronze Of Life,316.00,292.82,266.20,92531.1200,84119.2000,260718.20728800,10/05/2017 @ 12:00:00 AM
-13618,"Amberslayer, Flora",The Hunter and Rose,39.60,Nymphs' Luminous Rotmercury Of The Skies,294.00,335.50,369.05,98637.0000,108500.7000,289164.22920000,10/05/2017 @ 12:00:00 AM
-3614,"The Freezer, Burnbrood",The Hunter and Rose,39.60,Timeiron,149.00,3255.00,-14.77,484995.0000,-2200.7300,673980.80092000,10/05/2017 @ 12:00:00 AM
+33726,"Fate, Seeker",The Archer and Scroll,60.12,Fairies' Supreme Mistsmoke Lead Of The Future,230.00,499.73,549.70,114937.9000,126431.0000,386479.88268000,10/05/2007 @ 12:00:00 AM
+17067,"Gadriel, God of Resurrection",The Scoundrel and Flask,45.25,Golems' Stonesapphire Gold Of The Glacier,80.00,176.00,160.00,14080.0000,12800.0000,39043.20000000,10/05/2007 @ 12:00:00 AM
+33923,"Jericho, Wolf",Barad Cune,49.21,Unspeakable Rotsoul Mithril Of Souls,236.00,370.26,336.60,87381.3600,79437.6000,248910.57021600,10/05/2007 @ 12:00:00 AM
+19607,"Burnbrood, The Freezer",The Bastion of Barbos,25.41,Toxic Mistlead Of The Past,288.00,396.06,396.06,114065.2800,114065.2800,286098.53529600,10/05/2007 @ 12:00:00 AM
+30283,"Nelalwe, Lady of Fire",The Greedy Wench,13.31,White Platinum,70.00,101.02,91.84,7071.4000,6428.8000,15297.07662000,10/05/2007 @ 12:00:00 AM
+8631,"Shiverflame, The Freezer",The Grey Plains,39.19,Unknowable Mindsilver,220.00,174.90,174.90,38478.0000,38478.0000,107115.05640000,10/05/2007 @ 12:00:00 AM
+8728,Chainnail,Reheath Stronghold,39.60,Unknown Fatelightning Steel Of The Glacier,277.00,119.90,131.89,33212.3000,36533.5300,97365.17868000,10/05/2007 @ 12:00:00 AM
+3060,Bolttrap,The Tomb of Gothmog of Udun,11.00,Falserainbow Lead,53.00,872.99,70.18,46268.4700,3719.5400,55486.69110000,10/05/2007 @ 12:00:00 AM
+27864,"Maglioneth, Lord of the Sun",The Bastion of Gothmog of Udun,-2.42,Unknown Fatelightning Steel Of The Glacier,39.00,145.08,159.59,5658.1200,6224.0100,11594.58245400,10/05/2007 @ 12:00:00 AM
+26841,"Gono, Goddess of the Earth",Gili's Delve,35.89,Swordbronze,118.00,403.29,366.63,47588.2200,43262.3400,123456.82598400,10/05/2007 @ 12:00:00 AM
+25425,"Flameflare, The Evil",Kada's Deep,8.42,Mithril Of The Tropics,223.00,276.72,276.72,61708.5600,61708.5600,133808.84150400,10/05/2007 @ 12:00:00 AM
+12127,"Gadriel, God of Resurrection",Hafeld Keep,47.59,Foul Ice Bronze Of Life,316.00,292.82,266.20,92531.1200,84119.2000,260718.20728800,10/05/2007 @ 12:00:00 AM
+13618,"Flora, Amberslayer",The Hunter and Rose,39.60,Nymphs' Luminous Rotmercury Of The Skies,294.00,335.50,369.05,98637.0000,108500.7000,289164.22920000,10/05/2007 @ 12:00:00 AM
+3614,"Burnbrood, The Freezer",The Hunter and Rose,39.60,Timeiron,149.00,3255.00,-14.77,484995.0000,-2200.7300,673980.80092000,10/05/2007 @ 12:00:00 AM

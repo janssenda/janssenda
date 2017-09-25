@@ -1,20 +1,20 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-12368,"Mystery, Lord",The Nulukkhath Spires,28.99,Mistgold Of Men,326.00,412.50,375.00,134475.0000,122250.0000,331149.57750000,11/10/2016 @ 12:00:00 AM
-25983,"The Horrorific, Evilfear",Archfane District,15.29,Toxic Mistlead Of The Past,284.00,396.06,396.06,112481.0400,112481.0400,259358.78203200,11/10/2016 @ 12:00:00 AM
-36628,"The Disinterred, Spikebrood",The Fen of the Necromancer,32.21,Vampires' Hammer Emeraldmetal,335.00,93.70,85.18,31389.5000,28535.3000,79226.57808000,11/10/2016 @ 12:00:00 AM
-35275,"Wolf, Jericho",Citadel Ward,4.40,Vampires' Fang Emeraldsilver,136.00,2033.69,88.92,276581.8400,12093.1200,301376.65824000,11/10/2016 @ 12:00:00 AM
-3981,"Brand, Lightning",The Fortress of Akkun the Grim,27.03,Falserainbow Lead,116.00,872.99,70.18,101266.8400,8140.8800,138980.62671600,11/10/2016 @ 12:00:00 AM
-34139,"The Cremator, Blazeflare",Barad Cune,49.21,Swordbronze,200.00,403.29,366.63,80658.0000,73326.0000,229759.52640000,11/10/2016 @ 12:00:00 AM
-10434,"Goddess of Trickery, Alik",Gena's Hold,4.84,Pearl Mirrorice Steel Of Changelings,317.00,2996.00,302.00,949732.0000,95734.0000,1096066.55440000,11/10/2016 @ 12:00:00 AM
-35870,"The Terrifying, Deathspike",The Fortress of the Lich Queen,22.79,Yellow Mistearth Copper,227.00,287.98,261.80,65371.4600,59428.6000,153241.99367400,11/10/2016 @ 12:00:00 AM
-20306,"Godseeker, Cult",Bifar's Deep,11.10,Shadow Metal,209.00,1606.00,298.00,335654.0000,62282.0000,442106.89600000,11/10/2016 @ 12:00:00 AM
-7137,Cinderember,Archfane District,15.29,Planar Mudtin Of Trolls,220.00,3529.02,174.00,776384.4000,38280.0000,939226.58676000,11/10/2016 @ 12:00:00 AM
-29576,"Dawn, Tarot",The Nulukkhath Spires,28.99,Heavenly Dreamsilver Of The Night,150.00,719.00,314.60,107850.0000,47190.0000,199986.09600000,11/10/2016 @ 12:00:00 AM
-18820,"Rougehate, Rune",Weke Tower,47.19,Foul Ice Bronze Of Life,337.00,292.82,266.20,98680.3400,89709.4000,277290.85830600,11/10/2016 @ 12:00:00 AM
-18955,"Lawslayer, Valentine",Gifeld Castle,33.01,Foul Ice Bronze Of Life,60.00,292.82,266.20,17569.2000,15972.0000,44613.15012000,11/10/2016 @ 12:00:00 AM
-7803,"Felldrake, Magus",The Khazahol Crags,20.68,Vampires' Hammer Emeraldmetal,262.00,77.44,70.40,20289.2800,18444.8000,46744.28774400,11/10/2016 @ 12:00:00 AM
-3069,"God of Resurrection, Gadriel",The Cracked Chalice,-4.37,Vampires' Fang Emeraldsilver,112.00,2033.69,80.84,227773.2800,9054.0800,226478.00436800,11/10/2016 @ 12:00:00 AM
-28918,"Ivycaster, Fate",The Nulukkhath Spires,28.99,Hidden Shadowice Lead,220.00,-16.50,-16.50,-3630.0000,-3630.0000,-9364.67400000,11/10/2016 @ 12:00:00 AM
-13178,"Wolf, Jericho",The Citadel of Alammius,27.00,Starsmoke Bronze Of Life,140.00,-438.00,420.81,-61320.0000,58913.4000,-3056.38200000,11/10/2016 @ 12:00:00 AM
-3268,"Tsunami, Seraphim",The Fortress of the Lich Queen,17.13,Unknowable Mindsilver,140.00,34.00,159.00,4760.0000,22260.0000,31648.52600000,11/10/2016 @ 12:00:00 AM
-26769,"The Chiller, Blazefreeze",Gili's Delve,35.89,Heavenly Dreamsilver Of The Night,267.00,719.00,314.60,191973.0000,83998.2000,375017.26368000,11/10/2016 @ 12:00:00 AM
+12368,"Mystery, Lord",The Nulukkhath Spires,28.99,Mistgold Of Men,326.00,412.50,375.00,134475.0000,122250.0000,331149.57750000,11/10/1946 @ 12:00:00 AM
+25983,"The Horrorific, Evilfear",Archfane District,15.29,Toxic Mistlead Of The Past,284.00,396.06,396.06,112481.0400,112481.0400,259358.78203200,11/10/1946 @ 12:00:00 AM
+36628,"The Disinterred, Spikebrood",The Fen of the Necromancer,32.21,Vampires' Hammer Emeraldmetal,335.00,93.70,85.18,31389.5000,28535.3000,79226.57808000,11/10/1946 @ 12:00:00 AM
+35275,"Wolf, Jericho",Citadel Ward,4.40,Vampires' Fang Emeraldsilver,136.00,2033.69,88.92,276581.8400,12093.1200,301376.65824000,11/10/1946 @ 12:00:00 AM
+3981,"Brand, Lightning",The Fortress of Akkun the Grim,27.03,Falserainbow Lead,116.00,872.99,70.18,101266.8400,8140.8800,138980.62671600,11/10/1986 @ 12:00:00 AM
+34139,"The Cremator, Blazeflare",Barad Cune,49.21,Swordbronze,200.00,403.29,366.63,80658.0000,73326.0000,229759.52640000,11/10/1946 @ 12:00:00 AM
+10434,"Goddess of Trickery, Alik",Gena's Hold,4.84,Pearl Mirrorice Steel Of Changelings,317.00,2996.00,302.00,949732.0000,95734.0000,1096066.55440000,11/10/1976 @ 12:00:00 AM
+35870,"The Terrifying, Deathspike",The Fortress of the Lich Queen,22.79,Yellow Mistearth Copper,227.00,287.98,261.80,65371.4600,59428.6000,153241.99367400,11/10/1946 @ 12:00:00 AM
+20306,"Godseeker, Cult",Bifar's Deep,11.10,Shadow Metal,209.00,1606.00,298.00,335654.0000,62282.0000,442106.89600000,11/10/1946 @ 12:00:00 AM
+7137,Cinderember,Archfane District,15.29,Planar Mudtin Of Trolls,220.00,3529.02,174.00,776384.4000,38280.0000,939226.58676000,11/10/1946 @ 12:00:00 AM
+29576,"Dawn, Tarot",The Nulukkhath Spires,28.99,Heavenly Dreamsilver Of The Night,150.00,719.00,314.60,107850.0000,47190.0000,199986.09600000,11/10/1946 @ 12:00:00 AM
+18820,"Rougehate, Rune",Weke Tower,47.19,Foul Ice Bronze Of Life,337.00,292.82,266.20,98680.3400,89709.4000,277290.85830600,11/10/1946 @ 12:00:00 AM
+18955,"Lawslayer, Valentine",Gifeld Castle,33.01,Foul Ice Bronze Of Life,60.00,292.82,266.20,17569.2000,15972.0000,44613.15012000,11/10/1946 @ 12:00:00 AM
+7803,"Felldrake, Magus",The Khazahol Crags,20.68,Vampires' Hammer Emeraldmetal,262.00,77.44,70.40,20289.2800,18444.8000,46744.28774400,11/10/1946 @ 12:00:00 AM
+3069,"God of Resurrection, Gadriel",The Cracked Chalice,-4.37,Vampires' Fang Emeraldsilver,112.00,2033.69,80.84,227773.2800,9054.0800,226478.00436800,11/10/1946 @ 12:00:00 AM
+28918,"Ivycaster, Fate",The Nulukkhath Spires,28.99,Hidden Shadowice Lead,220.00,-16.50,-16.50,-3630.0000,-3630.0000,-9364.67400000,11/10/1946 @ 12:00:00 AM
+13178,"Wolf, Jericho",The Citadel of Alammius,27.00,Starsmoke Bronze Of Life,140.00,-438.00,420.81,-61320.0000,58913.4000,-3056.38200000,11/10/1946 @ 12:00:00 AM
+3268,"Tsunami, Seraphim",The Fortress of the Lich Queen,17.13,Unknowable Mindsilver,140.00,34.00,159.00,4760.0000,22260.0000,31648.52600000,11/10/1946 @ 12:00:00 AM
+26769,"The Chiller, Blazefreeze",Gili's Delve,35.89,Heavenly Dreamsilver Of The Night,267.00,719.00,314.60,191973.0000,83998.2000,375017.26368000,11/10/1946 @ 12:00:00 AM

@@ -1,17 +1,17 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-12543,"Runetomb, Song",Bergfison's Deep,16.00,Dragons' Poison Glitterflesh Steel Of The North,63.00,742.00,82.50,46746.0000,5197.5000,60254.46000000,02/21/2016 @ 12:00:00 AM
-2861,"Goddess of Fate, Azah",The Fortress of the Lich Queen,17.13,Emerald Orichalcum,324.00,1957.00,118.01,634068.0000,38235.2400,787468.78501200,02/21/2016 @ 12:00:00 AM
-22400,Flameshiver,The Nulukkhath Spires,28.99,Violetdream Iron,232.00,502.13,456.48,116494.1600,105903.3600,286870.56104800,02/21/2016 @ 12:00:00 AM
-22469,"Gust, Shadow",The Nulukkhath Spires,28.99,Warlocks' Timerot Mithril,91.00,194.65,176.95,17713.1500,16102.4500,43618.74244000,02/21/2016 @ 12:00:00 AM
-23756,"The Cremator, Blazeflare",Fellfen Keep,38.00,Incubi's Glittering Tin Of The Future,355.00,192.96,212.26,68500.8000,75352.3000,198517.27800000,02/21/2016 @ 12:00:00 AM
-34490,Springcoil,The Cuitamba Jungle,46.75,Unspeakable Rotsoul Mithril Of Souls,103.00,370.26,336.60,38136.7800,34669.8000,106843.65615000,02/21/2016 @ 12:00:00 AM
-21463,"Rougehate, Rune",Grori's Deep,30.25,Witchs' Forbidden Rockrainbow Bronze,282.00,245.63,245.63,69267.6600,69267.6600,180442.25430000,02/21/2016 @ 12:00:00 AM
-21519,"Lord of Animals, Suriel",Citadel Ward,4.40,Starsmoke Bronze Of Life,101.00,-438.00,420.81,-44238.0000,42501.8100,-1812.58236000,02/21/2016 @ 12:00:00 AM
-21741,"God of Fate, Sielach",Reyny Keep,-3.35,Starsmoke Bronze Of Life,174.00,-438.00,420.81,-76212.0000,73220.9400,-2890.85949000,02/21/2016 @ 12:00:00 AM
-18347,"Spiritraven, Bedlam",Gili's Delve,35.89,Spirits' Living Wordhammer Tin Of The Trees,169.00,141.57,128.70,23925.3300,21750.3000,62068.61360700,02/21/2016 @ 12:00:00 AM
-20856,"The Evil, Flameflare",The Tomb of Hellish Ruin,36.30,Starsmoke Bronze Of Life,99.00,-438.00,420.81,-43362.0000,41660.1900,-2319.56703000,02/21/2016 @ 12:00:00 AM
-780,"Godwarlock, Sunrise",The Fen of the Necromancer,20.00,Unknown Fatelightning Steel Of The Glacier,116.00,305.86,109.00,35479.7600,12644.0000,57748.51200000,02/21/2016 @ 12:00:00 AM
-16433,Springsprocket,The Bastion of the Lich Tyrant,7.14,Incubi's Iron Of The Dawn,215.00,174.99,174.99,37622.8500,37622.8500,80618.24298000,02/21/2016 @ 12:00:00 AM
-15568,"Tombreaper, Rouge",The Dungeon of Merciless Woe,3.61,Imperial Fate Steel,138.00,419.10,381.00,57835.8000,52578.0000,114399.73818000,02/21/2016 @ 12:00:00 AM
-5970,"The Skeletal, Spiketerror",The Bastion of the Vampire Duke,34.45,Vampires' Hammer Emeraldmetal,207.00,77.44,70.40,16030.0800,14572.8000,41145.57216000,02/21/2016 @ 12:00:00 AM
-14968,"Tsunami, Seraphim",The Fortress of Akkun the Grim,27.03,Golems' Stonesapphire Gold Of The Glacier,169.00,176.00,160.00,29744.0000,27040.0000,72132.71520000,02/21/2016 @ 12:00:00 AM
+12543,"Runetomb, Song",Bergfison's Deep,16.00,Dragons' Poison Glitterflesh Steel Of The North,63.00,742.00,82.50,46746.0000,5197.5000,60254.46000000,02/21/1986 @ 12:00:00 AM
+2861,"Goddess of Fate, Azah",The Fortress of the Lich Queen,17.13,Emerald Orichalcum,324.00,1957.00,118.01,634068.0000,38235.2400,787468.78501200,02/21/1986 @ 12:00:00 AM
+22400,Flameshiver,The Nulukkhath Spires,28.99,Violetdream Iron,232.00,502.13,456.48,116494.1600,105903.3600,286870.56104800,02/21/1946 @ 12:00:00 AM
+22469,"Gust, Shadow",The Nulukkhath Spires,28.99,Warlocks' Timerot Mithril,91.00,194.65,176.95,17713.1500,16102.4500,43618.74244000,02/21/1946 @ 12:00:00 AM
+23756,"The Cremator, Blazeflare",Fellfen Keep,38.00,Incubi's Glittering Tin Of The Future,355.00,192.96,212.26,68500.8000,75352.3000,198517.27800000,02/21/1946 @ 12:00:00 AM
+34490,Springcoil,The Cuitamba Jungle,46.75,Unspeakable Rotsoul Mithril Of Souls,103.00,370.26,336.60,38136.7800,34669.8000,106843.65615000,02/21/1946 @ 12:00:00 AM
+21463,"Rougehate, Rune",Grori's Deep,30.25,Witchs' Forbidden Rockrainbow Bronze,282.00,245.63,245.63,69267.6600,69267.6600,180442.25430000,02/21/1986 @ 12:00:00 AM
+21519,"Lord of Animals, Suriel",Citadel Ward,4.40,Starsmoke Bronze Of Life,101.00,-438.00,420.81,-44238.0000,42501.8100,-1812.58236000,02/21/1946 @ 12:00:00 AM
+21741,"God of Fate, Sielach",Reyny Keep,-3.35,Starsmoke Bronze Of Life,174.00,-438.00,420.81,-76212.0000,73220.9400,-2890.85949000,02/21/1996 @ 12:00:00 AM
+18347,"Spiritraven, Bedlam",Gili's Delve,35.89,Spirits' Living Wordhammer Tin Of The Trees,169.00,141.57,128.70,23925.3300,21750.3000,62068.61360700,02/21/1946 @ 12:00:00 AM
+20856,"The Evil, Flameflare",The Tomb of Hellish Ruin,36.30,Starsmoke Bronze Of Life,99.00,-438.00,420.81,-43362.0000,41660.1900,-2319.56703000,02/21/1946 @ 12:00:00 AM
+780,"Godwarlock, Sunrise",The Fen of the Necromancer,20.00,Unknown Fatelightning Steel Of The Glacier,116.00,305.86,109.00,35479.7600,12644.0000,57748.51200000,02/21/1946 @ 12:00:00 AM
+16433,Springsprocket,The Bastion of the Lich Tyrant,7.14,Incubi's Iron Of The Dawn,215.00,174.99,174.99,37622.8500,37622.8500,80618.24298000,02/21/1946 @ 12:00:00 AM
+15568,"Tombreaper, Rouge",The Dungeon of Merciless Woe,3.61,Imperial Fate Steel,138.00,419.10,381.00,57835.8000,52578.0000,114399.73818000,02/21/1946 @ 12:00:00 AM
+5970,"The Skeletal, Spiketerror",The Bastion of the Vampire Duke,34.45,Vampires' Hammer Emeraldmetal,207.00,77.44,70.40,16030.0800,14572.8000,41145.57216000,02/21/1986 @ 12:00:00 AM
+14968,"Tsunami, Seraphim",The Fortress of Akkun the Grim,27.03,Golems' Stonesapphire Gold Of The Glacier,169.00,176.00,160.00,29744.0000,27040.0000,72132.71520000,02/21/1946 @ 12:00:00 AM

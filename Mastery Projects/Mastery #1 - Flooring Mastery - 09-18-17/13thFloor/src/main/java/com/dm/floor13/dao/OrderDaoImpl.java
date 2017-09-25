@@ -227,7 +227,7 @@ public class OrderDaoImpl implements OrderDao {
             throws FileIOException,
             BackupFileException {
 
-        FileHandler orderHandler = new FileHandler(orderDir);
+        
         orderHandler.writeSingleOrder(orderList, orderDir + path + "/");
 
     }

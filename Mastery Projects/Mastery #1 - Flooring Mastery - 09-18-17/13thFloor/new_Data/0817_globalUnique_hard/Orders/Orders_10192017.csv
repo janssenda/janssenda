@@ -1,16 +1,16 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-3861,"The Machine, Evilcoil",Arcanist's Farthing,29.00,Falserainbow Lead,333.00,872.99,70.18,290705.6700,23369.9400,405157.53690000,10/19/2017 @ 12:00:00 AM
-21286,"Anchor, Rose",The Tomb of Hellish Ruin,36.30,Vampires' Fang Emeraldsilver,232.00,2033.69,80.84,471816.0800,18754.8800,668648.21848000,10/19/2017 @ 12:00:00 AM
-33582,"God of Fate, Sielach",The Archer and Scroll,60.12,Forgotten Mithril,241.00,600.28,545.71,144667.4800,131516.1100,442225.16430800,10/19/2017 @ 12:00:00 AM
-32388,"The Horrorific, Evilfear",The Chuallanto Jungle,11.00,Unspeakable Rotsoul Mithril Of Souls,278.00,370.26,336.60,102932.2800,93574.8000,218122.85880000,10/19/2017 @ 12:00:00 AM
-33851,"Veil, Bane",The Bastion of the Lich Tyrant,8.64,Swordbronze,239.00,403.29,366.63,96386.3100,87624.5700,199909.42003200,10/19/2017 @ 12:00:00 AM
-30023,"Mystery, Lord",The Greedy Wench,13.31,Incubi's Glittering Tin Of The Future,129.00,192.96,233.49,24891.8400,30120.2100,62334.15385500,10/19/2017 @ 12:00:00 AM
-9947,Cinderflame,Grove Farthing,25.00,Timeiron,240.00,3255.00,-16.25,781200.0000,-3900.0000,971625.00000000,10/19/2017 @ 12:00:00 AM
-474,"Veil, Bane",The Bastion of the Lich Tyrant,4.87,Magicians' Legendary Poison Metal,194.00,3615.00,-48.01,701310.0000,-9313.9400,725696.26812200,10/19/2017 @ 12:00:00 AM
-6180,"God of Luck, Ariel",Reyny Keep,-3.35,Violetdream Iron,117.00,414.98,377.25,48552.6600,44138.2500,89585.76451500,10/19/2017 @ 12:00:00 AM
-18946,"The Freezer, Shiverflame",Weke Tower,47.19,Foul Ice Bronze Of Life,208.00,292.82,266.20,60906.5600,55369.6000,171146.87990400,10/19/2017 @ 12:00:00 AM
-29918,"Tombreaper, Rouge",The Tower of Sabiesu the Awesome,10.00,White Platinum,315.00,101.02,91.84,31821.3000,28929.6000,66825.99000000,10/19/2017 @ 12:00:00 AM
-26140,Springcoil,Citadel Ward,4.40,Unspeakable Rotsoul Mithril Of Souls,59.00,370.26,336.60,21845.3400,19859.4000,43539.74856000,10/19/2017 @ 12:00:00 AM
-27742,"Seraphheart, Storm",The Pirate's Pipe,16.94,Vampires' Hammer Emeraldmetal,96.00,93.70,85.18,8995.2000,8177.2800,20081.49811200,10/19/2017 @ 12:00:00 AM
-25148,"Amberslayer, Flora",The Pirate's Pipe,16.94,Planar Mudtin Of Trolls,282.00,191.40,174.00,53974.8000,49068.0000,120498.25032000,10/19/2017 @ 12:00:00 AM
-15984,"The Horrorific, Evilfear",The Fortress of Asmamur,-2.66,Djinni's Mind Fogiron,114.00,57.23,52.03,6524.2200,5931.4200,12124.31997600,10/19/2017 @ 12:00:00 AM
+3861,"Evilcoil, The Machine",Arcanist's Farthing,29.00,Falserainbow Lead,333.00,872.99,70.18,290705.6700,23369.9400,405157.53690000,10/19/2007 @ 12:00:00 AM
+21286,"Rose, Anchor",The Tomb of Hellish Ruin,36.30,Vampires' Fang Emeraldsilver,232.00,2033.69,80.84,471816.0800,18754.8800,668648.21848000,10/19/2007 @ 12:00:00 AM
+33582,"Sielach, God of Fate",The Archer and Scroll,60.12,Forgotten Mithril,241.00,600.28,545.71,144667.4800,131516.1100,442225.16430800,10/19/2007 @ 12:00:00 AM
+32388,"Evilfear, The Horrorific",The Chuallanto Jungle,11.00,Unspeakable Rotsoul Mithril Of Souls,278.00,370.26,336.60,102932.2800,93574.8000,218122.85880000,10/19/2007 @ 12:00:00 AM
+33851,"Bane, Veil",The Bastion of the Lich Tyrant,8.64,Swordbronze,239.00,403.29,366.63,96386.3100,87624.5700,199909.42003200,10/19/2007 @ 12:00:00 AM
+30023,"Lord, Mystery",The Greedy Wench,13.31,Incubi's Glittering Tin Of The Future,129.00,192.96,233.49,24891.8400,30120.2100,62334.15385500,10/19/2007 @ 12:00:00 AM
+9947,Cinderflame,Grove Farthing,25.00,Timeiron,240.00,3255.00,-16.25,781200.0000,-3900.0000,971625.00000000,10/19/2007 @ 12:00:00 AM
+474,"Bane, Veil",The Bastion of the Lich Tyrant,4.87,Magicians' Legendary Poison Metal,194.00,3615.00,-48.01,701310.0000,-9313.9400,725696.26812200,10/19/2007 @ 12:00:00 AM
+6180,"Ariel, God of Luck",Reyny Keep,-3.35,Violetdream Iron,117.00,414.98,377.25,48552.6600,44138.2500,89585.76451500,10/19/2007 @ 12:00:00 AM
+18946,"Shiverflame, The Freezer",Weke Tower,47.19,Foul Ice Bronze Of Life,208.00,292.82,266.20,60906.5600,55369.6000,171146.87990400,10/19/2007 @ 12:00:00 AM
+29918,"Rouge, Tombreaper",The Tower of Sabiesu the Awesome,10.00,White Platinum,315.00,101.02,91.84,31821.3000,28929.6000,66825.99000000,10/19/2007 @ 12:00:00 AM
+26140,Springcoil,Citadel Ward,4.40,Unspeakable Rotsoul Mithril Of Souls,59.00,370.26,336.60,21845.3400,19859.4000,43539.74856000,10/19/2007 @ 12:00:00 AM
+27742,"Storm, Seraphheart",The Pirate's Pipe,16.94,Vampires' Hammer Emeraldmetal,96.00,93.70,85.18,8995.2000,8177.2800,20081.49811200,10/19/2007 @ 12:00:00 AM
+25148,"Flora, Amberslayer",The Pirate's Pipe,16.94,Planar Mudtin Of Trolls,282.00,191.40,174.00,53974.8000,49068.0000,120498.25032000,10/19/2007 @ 12:00:00 AM
+15984,"Evilfear, The Horrorific",The Fortress of Asmamur,-2.66,Djinni's Mind Fogiron,114.00,57.23,52.03,6524.2200,5931.4200,12124.31997600,10/19/2007 @ 12:00:00 AM

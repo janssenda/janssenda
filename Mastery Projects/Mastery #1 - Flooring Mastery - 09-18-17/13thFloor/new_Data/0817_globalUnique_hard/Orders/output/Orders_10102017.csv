@@ -1,17 +1,17 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-35254,"Tsunami, Seraphim",Bifar's Deep,12.21,Violetdream Iron,221.00,502.13,502.13,110970.7300,110970.7300,249040.51226600,10/10/2017 @ 12:00:00 AM
-11639,"Goddess of Travel, Lenwenye",The Black Barrow of Bery,19.80,Violetstone Tin Of Death,158.00,2091.85,20.90,330512.3000,3302.2000,399909.77100000,10/10/2017 @ 12:00:00 AM
-35956,"Bladewitch, Zeal",Bifar's Deep,12.21,Magicians' Legendary Poison Metal,230.00,-52.81,-48.01,-12146.3000,-11042.3000,-26019.92806000,10/10/2017 @ 12:00:00 AM
-18043,"The Evil, Burnchill",The Bastion of the Vampire Duke,37.90,Starsmoke Bronze Of Life,272.00,-438.00,420.81,-119136.0000,114460.3200,-6447.76272000,10/10/2017 @ 12:00:00 AM
-31002,Gravebone,The Nulukkhath Spires,28.99,Ensorceled Sandmetal Of Spirits,149.00,85.18,77.44,12691.8200,11538.5600,31254.76716200,10/10/2017 @ 12:00:00 AM
-33790,"Claw, Slayer",Barad Cune,49.21,Swordbronze,323.00,403.29,366.63,130262.6700,118421.4900,371061.63513600,10/10/2017 @ 12:00:00 AM
-16058,"Tsunami, Seraphim",Gili's Delve,35.89,Tritons' Time Stoneiron Of Legend,162.00,341.59,341.59,55337.5800,55337.5800,150396.47492400,10/10/2017 @ 12:00:00 AM
-368,"Brand, Lightning",The Dungeon of Merciless Woe,3.61,Ghostly Soul Adamant,287.00,411.00,377.00,117957.0000,108199.0000,234320.23160000,10/10/2017 @ 12:00:00 AM
-8701,"The Unspeakable, Scarechain",Gena's Hold,4.40,Djinni's Spectral Shadowlead Of Life,156.00,1718.00,259.12,268008.0000,40422.7200,322001.67168000,10/10/2017 @ 12:00:00 AM
-5083,"Wind, Maverick",The Barrow of Terrible Horror,24.90,Phantasmal Tin Of The Swamps,40.00,3207.64,305.00,128305.6000,12200.0000,175491.49440000,10/10/2017 @ 12:00:00 AM
-805,"Mist, Claw",The Shadow Downs,34.00,Zephyr Iron,61.00,2249.71,233.69,137232.3100,14255.0900,202993.11600000,10/10/2017 @ 12:00:00 AM
-28645,"The Cremator, Blazeflare",The Bastion of the Vampire Duke,45.86,Undeads' Mind Orichalcum Of The Twilight,156.00,1169.00,364.69,182364.0000,56891.6400,348978.27650400,10/10/2017 @ 12:00:00 AM
-26200,"God of Death, Selik",Archfane District,15.29,Tin Of The Tundra,199.00,4121.00,397.25,820079.0000,79052.7500,1036608.99457500,10/10/2017 @ 12:00:00 AM
-15632,"God of the Lost, Lionare",The Dungeon of Merciless Woe,3.61,Shadowhell Mithril,280.00,462.21,420.19,129418.8000,117653.2000,255991.29920000,10/10/2017 @ 12:00:00 AM
-14468,"Angelchild, Harmony",Gili's Delve,35.89,Sphinxes' Unknown Poisongold Of The Future,57.00,3971.47,14.30,226373.7900,815.1000,308726.98262100,10/10/2017 @ 12:00:00 AM
-13288,Spikespawn,Dysley Stronghold,35.51,Nymphs' Luminous Rotmercury Of The Skies,37.00,335.50,369.05,12413.5000,13654.8500,35325.22108500,10/10/2017 @ 12:00:00 AM
+35254,"Seraphim, Tsunami",Bifar's Deep,12.21,Violetdream Iron,221.00,502.13,502.13,110970.7300,110970.7300,249040.51226600,10/10/2007 @ 12:00:00 AM
+11639,"Lenwenye, Goddess of Travel",The Black Barrow of Bery,19.80,Violetstone Tin Of Death,158.00,2091.85,20.90,330512.3000,3302.2000,399909.77100000,10/10/2007 @ 12:00:00 AM
+35956,"Zeal, Bladewitch",Bifar's Deep,12.21,Magicians' Legendary Poison Metal,230.00,-52.81,-48.01,-12146.3000,-11042.3000,-26019.92806000,10/10/2007 @ 12:00:00 AM
+18043,"Burnchill, The Evil",The Bastion of the Vampire Duke,37.90,Starsmoke Bronze Of Life,272.00,-438.00,420.81,-119136.0000,114460.3200,-6447.76272000,10/10/2007 @ 12:00:00 AM
+31002,Gravebone,The Nulukkhath Spires,28.99,Ensorceled Sandmetal Of Spirits,149.00,85.18,77.44,12691.8200,11538.5600,31254.76716200,10/10/2007 @ 12:00:00 AM
+33790,"Slayer, Claw",Barad Cune,49.21,Swordbronze,323.00,403.29,366.63,130262.6700,118421.4900,371061.63513600,10/10/2007 @ 12:00:00 AM
+16058,"Seraphim, Tsunami",Gili's Delve,35.89,Tritons' Time Stoneiron Of Legend,162.00,341.59,341.59,55337.5800,55337.5800,150396.47492400,10/10/2007 @ 12:00:00 AM
+368,"Lightning, Brand",The Dungeon of Merciless Woe,3.61,Ghostly Soul Adamant,287.00,411.00,377.00,117957.0000,108199.0000,234320.23160000,10/10/2007 @ 12:00:00 AM
+8701,"Scarechain, The Unspeakable",Gena's Hold,4.40,Djinni's Spectral Shadowlead Of Life,156.00,1718.00,259.12,268008.0000,40422.7200,322001.67168000,10/10/2007 @ 12:00:00 AM
+5083,"Maverick, Wind",The Barrow of Terrible Horror,24.90,Phantasmal Tin Of The Swamps,40.00,3207.64,305.00,128305.6000,12200.0000,175491.49440000,10/10/2007 @ 12:00:00 AM
+805,"Claw, Mist",The Shadow Downs,34.00,Zephyr Iron,61.00,2249.71,233.69,137232.3100,14255.0900,202993.11600000,10/10/2007 @ 12:00:00 AM
+28645,"Blazeflare, The Cremator",The Bastion of the Vampire Duke,45.86,Undeads' Mind Orichalcum Of The Twilight,156.00,1169.00,364.69,182364.0000,56891.6400,348978.27650400,10/10/2007 @ 12:00:00 AM
+26200,"Selik, God of Death",Archfane District,15.29,Tin Of The Tundra,199.00,4121.00,397.25,820079.0000,79052.7500,1036608.99457500,10/10/2007 @ 12:00:00 AM
+15632,"Lionare, God of the Lost",The Dungeon of Merciless Woe,3.61,Shadowhell Mithril,280.00,462.21,420.19,129418.8000,117653.2000,255991.29920000,10/10/2007 @ 12:00:00 AM
+14468,"Harmony, Angelchild",Gili's Delve,35.89,Sphinxes' Unknown Poisongold Of The Future,57.00,3971.47,14.30,226373.7900,815.1000,308726.98262100,10/10/2017 @ 12:00:00 AM
+13288,Spikespawn,Dysley Stronghold,35.51,Nymphs' Luminous Rotmercury Of The Skies,37.00,335.50,369.05,12413.5000,13654.8500,35325.22108500,10/10/2007 @ 12:00:00 AM

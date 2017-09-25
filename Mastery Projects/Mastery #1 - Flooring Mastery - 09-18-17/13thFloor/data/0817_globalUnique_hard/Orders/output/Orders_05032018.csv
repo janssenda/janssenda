@@ -1,19 +1,19 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-1083,"Reaper, Dagger",Dysley Stronghold,32.28,Unknown Fatelightning Steel Of The Glacier,295.00,305.86,109.00,90228.7000,32155.0000,161889.15836000,05/03/2018 @ 12:00:00 AM
-24354,"Goddess of Thieves, Melcha",Eved Castle,30.80,Ensorceled Sandmetal Of Spirits,88.00,85.18,77.44,7495.8400,6814.7200,18718.21248000,05/03/2018 @ 12:00:00 AM
-12527,"Godseeker, Cult",Bergfison's Deep,16.00,Foulopal Copper Of The Skies,269.00,201.66,201.66,54246.5400,54246.5400,125851.97280000,05/03/2018 @ 12:00:00 AM
-2528,"God of Resurrection, Gadriel",Mahyrst Keep,28.45,Falserainbow Lead,207.00,872.99,63.80,180708.9300,13206.6000,249084.49828500,05/03/2018 @ 12:00:00 AM
-24560,Gravebone,Bifar's Deep,12.21,Negative Rockglitter Mercury Of Trolls,247.00,235.59,214.17,58190.7300,52899.9900,124654.89691200,05/03/2018 @ 12:00:00 AM
-2946,"Godseeker, Cult",Cawold Castle,35.00,Warlocks' Timerot Mithril,329.00,725.00,176.95,238525.0000,58216.5500,400601.09250000,05/03/2018 @ 12:00:00 AM
-11815,Spikerivet,The Tomb of Hellish Ruin,33.00,Violetdream Iron,266.00,414.98,377.25,110384.6800,100348.5000,280275.12940000,05/03/2018 @ 12:00:00 AM
-10855,Spikesnare,The Chuallanto Jungle,10.00,Tritons' Time Stoneiron Of Legend,223.00,2235.00,310.54,498405.0000,69250.4200,624420.96200000,05/03/2018 @ 12:00:00 AM
-20416,"Goddess of Travel, Lenwenye",Fellfen Keep,38.00,Shadow Metal,295.00,1606.00,298.00,473770.0000,87910.0000,775118.40000000,05/03/2018 @ 12:00:00 AM
-29383,"God of Death, Avriel",Bifar's Deep,12.21,Unknown Fatelightning Steel Of The Glacier,265.00,145.08,159.59,38446.2000,42291.3500,90595.60485500,05/03/2018 @ 12:00:00 AM
-8638,"Ivycaster, Fate",The Tomb of Hellish Ruin,33.00,Planar Mudtin Of Trolls,170.00,191.40,174.00,32538.0000,29580.0000,82616.94000000,05/03/2018 @ 12:00:00 AM
-7319,"Seeker, Fate",Archfane District,15.29,Sirens' Rockgold,242.00,306.13,278.30,74083.4600,67348.6000,163057.02197400,05/03/2018 @ 12:00:00 AM
-6537,"Drakecaster, Sephiroth",The Drunken Thief,18.41,Violetdream Iron,230.00,414.98,377.25,95445.4000,86767.5000,215758.29489000,05/03/2018 @ 12:00:00 AM
-27360,"Dire, Wind",The Pirate's Pipe,16.94,Sprites' Transcendent Mud Lead Of The South,220.00,3338.65,267.08,734503.0000,58757.6000,927638.94564000,05/03/2018 @ 12:00:00 AM
-4375,"Tsunami, Seraphim",Kada's Deep,7.65,Yellow Mistearth Copper,118.00,3587.00,261.80,423266.0000,30892.4000,488901.51760000,05/03/2018 @ 12:00:00 AM
-14509,"Mist, Claw",Noble's Village,5.43,Vampires' Hammer Emeraldmetal,36.00,77.44,70.40,2787.8400,2534.4000,5611.23763200,05/03/2018 @ 12:00:00 AM
-26601,Metalbrood,Reheath Stronghold,39.60,Muck Orichalcum Of Ogres,250.00,143.37,130.34,35842.5000,32585.0000,95524.79000000,05/03/2018 @ 12:00:00 AM
-4596,Metalghoul,Kada's Deep,7.65,Violetdream Iron,260.00,2680.00,377.25,696800.0000,98085.0000,855693.70250000,05/03/2018 @ 12:00:00 AM
+1083,"Reaper, Dagger",Dysley Stronghold,32.28,Unknown Fatelightning Steel Of The Glacier,295.00,305.86,109.00,90228.7000,32155.0000,161889.15836000,05/03/1948 @ 12:00:00 AM
+24354,"Goddess of Thieves, Melcha",Eved Castle,30.80,Ensorceled Sandmetal Of Spirits,88.00,85.18,77.44,7495.8400,6814.7200,18718.21248000,05/03/1948 @ 12:00:00 AM
+12527,"Godseeker, Cult",Bergfison's Deep,16.00,Foulopal Copper Of The Skies,269.00,201.66,201.66,54246.5400,54246.5400,125851.97280000,05/03/1978 @ 12:00:00 AM
+2528,"God of Resurrection, Gadriel",Mahyrst Keep,28.45,Falserainbow Lead,207.00,872.99,63.80,180708.9300,13206.6000,249084.49828500,05/03/1948 @ 12:00:00 AM
+24560,Gravebone,Bifar's Deep,12.21,Negative Rockglitter Mercury Of Trolls,247.00,235.59,214.17,58190.7300,52899.9900,124654.89691200,05/03/1948 @ 12:00:00 AM
+2946,"Godseeker, Cult",Cawold Castle,35.00,Warlocks' Timerot Mithril,329.00,725.00,176.95,238525.0000,58216.5500,400601.09250000,05/03/1948 @ 12:00:00 AM
+11815,Spikerivet,The Tomb of Hellish Ruin,33.00,Violetdream Iron,266.00,414.98,377.25,110384.6800,100348.5000,280275.12940000,05/03/1948 @ 12:00:00 AM
+10855,Spikesnare,The Chuallanto Jungle,10.00,Tritons' Time Stoneiron Of Legend,223.00,2235.00,310.54,498405.0000,69250.4200,624420.96200000,05/03/1948 @ 12:00:00 AM
+20416,"Goddess of Travel, Lenwenye",Fellfen Keep,38.00,Shadow Metal,295.00,1606.00,298.00,473770.0000,87910.0000,775118.40000000,05/03/1988 @ 12:00:00 AM
+29383,"God of Death, Avriel",Bifar's Deep,12.21,Unknown Fatelightning Steel Of The Glacier,265.00,145.08,159.59,38446.2000,42291.3500,90595.60485500,05/03/1978 @ 12:00:00 AM
+8638,"Ivycaster, Fate",The Tomb of Hellish Ruin,33.00,Planar Mudtin Of Trolls,170.00,191.40,174.00,32538.0000,29580.0000,82616.94000000,05/03/1948 @ 12:00:00 AM
+7319,"Seeker, Fate",Archfane District,15.29,Sirens' Rockgold,242.00,306.13,278.30,74083.4600,67348.6000,163057.02197400,05/03/1948 @ 12:00:00 AM
+6537,"Drakecaster, Sephiroth",The Drunken Thief,18.41,Violetdream Iron,230.00,414.98,377.25,95445.4000,86767.5000,215758.29489000,05/03/1948 @ 12:00:00 AM
+27360,"Dire, Wind",The Pirate's Pipe,16.94,Sprites' Transcendent Mud Lead Of The South,220.00,3338.65,267.08,734503.0000,58757.6000,927638.94564000,05/03/1948 @ 12:00:00 AM
+4375,"Tsunami, Seraphim",Kada's Deep,7.65,Yellow Mistearth Copper,118.00,3587.00,261.80,423266.0000,30892.4000,488901.51760000,05/03/1948 @ 12:00:00 AM
+14509,"Mist, Claw",Noble's Village,5.43,Vampires' Hammer Emeraldmetal,36.00,77.44,70.40,2787.8400,2534.4000,5611.23763200,05/03/1948 @ 12:00:00 AM
+26601,Metalbrood,Reheath Stronghold,39.60,Muck Orichalcum Of Ogres,250.00,143.37,130.34,35842.5000,32585.0000,95524.79000000,05/03/1948 @ 12:00:00 AM
+4596,Metalghoul,Kada's Deep,7.65,Violetdream Iron,260.00,2680.00,377.25,696800.0000,98085.0000,855693.70250000,05/03/1948 @ 12:00:00 AM

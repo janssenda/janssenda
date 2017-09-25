@@ -1,20 +1,20 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-1042,"Godwarlock, Sunrise",Palace Farthing,13.00,Planar Mudtin Of Trolls,164.00,3529.02,174.00,578759.2800,28536.0000,686243.66640000,06/28/2016 @ 12:00:00 AM
-25826,"God of War, Ingwenel",The Dungeon of Merciless Woe,3.97,Fleshshock Mercury,331.00,-31.02,-28.20,-10267.6200,-9334.2000,-20380.01225400,06/28/2016 @ 12:00:00 AM
-36484,"Mystery, Lord",The Fen of the Necromancer,32.21,Phantasmal Tin Of The Swamps,198.00,405.96,369.05,80380.0800,73071.9000,202878.86275800,06/28/2016 @ 12:00:00 AM
-13976,"God of Thieves, Maeglodor",Gili's Delve,35.89,Imperial Fate Steel,70.00,419.10,381.00,29337.0000,26670.0000,76107.91230000,06/28/2016 @ 12:00:00 AM
-23267,"Gust, Shadow",The Secret Catacombs of Ulfang the Black,31.70,Fleshshock Mercury,260.00,-31.02,-28.20,-8065.2000,-7332.0000,-20278.11240000,06/28/2016 @ 12:00:00 AM
-12781,"Gust, Shadow",Bifar's Deep,10.09,Spirits' Living Wordhammer Tin Of The Trees,38.00,3897.55,128.70,148106.9000,4890.6000,168434.94775000,06/28/2016 @ 12:00:00 AM
-10294,"Godseeker, Cult",Grori's Deep,27.50,Dragons' Poison Glitterflesh Steel Of The North,156.00,742.00,75.00,115752.0000,11700.0000,162501.30000000,06/28/2016 @ 12:00:00 AM
-21206,"Godwarlock, Sunrise",The Tomb of Hellish Ruin,36.30,Poison Adamant,262.00,110.96,100.87,29071.5200,26427.9400,75645.76398000,06/28/2016 @ 12:00:00 AM
-8027,"Roguemist, Rouge",Lamp Borough,0.00,Fleshshock Mercury,350.00,-31.02,-28.20,-10857.0000,-9870.0000,-20727.00000000,06/28/2016 @ 12:00:00 AM
-18234,Cinderember,The Tower of Sabiesu the Awesome,10.00,Undeads' Mind Orichalcum Of The Twilight,135.00,1169.00,331.54,157815.0000,44757.9000,222830.19000000,06/28/2016 @ 12:00:00 AM
-29131,"The Grasping, Nettool",Bifar's Deep,12.21,Stone Soulsteel Of The Skies,285.00,453.31,412.10,129193.3500,117448.5000,276756.81988500,06/28/2016 @ 12:00:00 AM
-365,"Lady of Vengeance, Zepul",The Dungeon of Merciless Woe,3.61,Meteoric Dustzephyr Orichalcum,252.00,3549.00,2.00,894348.0000,504.0000,927156.15720000,06/28/2016 @ 12:00:00 AM
-27103,Emberfire,The Pirate's Pipe,16.94,Vampires' Hammer Emeraldmetal,150.00,93.70,85.18,14055.0000,12777.0000,31377.34080000,06/28/2016 @ 12:00:00 AM
-6797,"Lord of Animals, Suriel",The Lost Sanctum of Woe,43.20,Golems' Stonesapphire Gold Of The Glacier,142.00,589.00,160.00,83638.0000,22720.0000,152304.65600000,06/28/2016 @ 12:00:00 AM
-4336,"Rougehate, Rune",Bergfison's Deep,16.00,Tin Of The Tundra,175.00,4121.00,361.14,721175.0000,63199.5000,909874.42000000,06/28/2016 @ 12:00:00 AM
-3067,"Lord of the Sun, Maglioneth",The Fortress of the Lich Queen,17.13,Falserainbow Lead,335.00,872.99,70.18,292451.6500,23510.3000,370086.23203500,06/28/2016 @ 12:00:00 AM
-13234,"Lord of Animals, Suriel",The Lewd King,41.80,Primordial Plague Mercury Of Legend,208.00,73.70,67.00,15329.6000,13936.0000,41498.62080000,06/28/2016 @ 12:00:00 AM
-37343,"Mystery, Lord",The Greedy Wench,13.31,Ghouls' Imperial Soulzephyr Mithril Of The Seas,196.00,318.23,318.23,62373.0800,62373.0800,141349.87389600,06/28/2016 @ 12:00:00 AM
-25488,"Dire, Wind",Weke Tower,47.19,Primordial Mud Orichalcum,190.00,1113.00,20.57,211470.0000,3908.3000,317015.31977000,06/28/2016 @ 12:00:00 AM
+1042,"Godwarlock, Sunrise",Palace Farthing,13.00,Planar Mudtin Of Trolls,164.00,3529.02,174.00,578759.2800,28536.0000,686243.66640000,06/28/1946 @ 12:00:00 AM
+25826,"God of War, Ingwenel",The Dungeon of Merciless Woe,3.97,Fleshshock Mercury,331.00,-31.02,-28.20,-10267.6200,-9334.2000,-20380.01225400,06/28/1946 @ 12:00:00 AM
+36484,"Mystery, Lord",The Fen of the Necromancer,32.21,Phantasmal Tin Of The Swamps,198.00,405.96,369.05,80380.0800,73071.9000,202878.86275800,06/28/1946 @ 12:00:00 AM
+13976,"God of Thieves, Maeglodor",Gili's Delve,35.89,Imperial Fate Steel,70.00,419.10,381.00,29337.0000,26670.0000,76107.91230000,06/28/1946 @ 12:00:00 AM
+23267,"Gust, Shadow",The Secret Catacombs of Ulfang the Black,31.70,Fleshshock Mercury,260.00,-31.02,-28.20,-8065.2000,-7332.0000,-20278.11240000,06/28/1946 @ 12:00:00 AM
+12781,"Gust, Shadow",Bifar's Deep,10.09,Spirits' Living Wordhammer Tin Of The Trees,38.00,3897.55,128.70,148106.9000,4890.6000,168434.94775000,06/28/1946 @ 12:00:00 AM
+10294,"Godseeker, Cult",Grori's Deep,27.50,Dragons' Poison Glitterflesh Steel Of The North,156.00,742.00,75.00,115752.0000,11700.0000,162501.30000000,06/28/1946 @ 12:00:00 AM
+21206,"Godwarlock, Sunrise",The Tomb of Hellish Ruin,36.30,Poison Adamant,262.00,110.96,100.87,29071.5200,26427.9400,75645.76398000,06/28/1946 @ 12:00:00 AM
+8027,"Roguemist, Rouge",Lamp Borough,0.00,Fleshshock Mercury,350.00,-31.02,-28.20,-10857.0000,-9870.0000,-20727.00000000,06/28/1946 @ 12:00:00 AM
+18234,Cinderember,The Tower of Sabiesu the Awesome,10.00,Undeads' Mind Orichalcum Of The Twilight,135.00,1169.00,331.54,157815.0000,44757.9000,222830.19000000,06/28/1986 @ 12:00:00 AM
+29131,"The Grasping, Nettool",Bifar's Deep,12.21,Stone Soulsteel Of The Skies,285.00,453.31,412.10,129193.3500,117448.5000,276756.81988500,06/28/1946 @ 12:00:00 AM
+365,"Lady of Vengeance, Zepul",The Dungeon of Merciless Woe,3.61,Meteoric Dustzephyr Orichalcum,252.00,3549.00,2.00,894348.0000,504.0000,927156.15720000,06/28/1946 @ 12:00:00 AM
+27103,Emberfire,The Pirate's Pipe,16.94,Vampires' Hammer Emeraldmetal,150.00,93.70,85.18,14055.0000,12777.0000,31377.34080000,06/28/1946 @ 12:00:00 AM
+6797,"Lord of Animals, Suriel",The Lost Sanctum of Woe,43.20,Golems' Stonesapphire Gold Of The Glacier,142.00,589.00,160.00,83638.0000,22720.0000,152304.65600000,06/28/1946 @ 12:00:00 AM
+4336,"Rougehate, Rune",Bergfison's Deep,16.00,Tin Of The Tundra,175.00,4121.00,361.14,721175.0000,63199.5000,909874.42000000,06/28/1986 @ 12:00:00 AM
+3067,"Lord of the Sun, Maglioneth",The Fortress of the Lich Queen,17.13,Falserainbow Lead,335.00,872.99,70.18,292451.6500,23510.3000,370086.23203500,06/28/1986 @ 12:00:00 AM
+13234,"Lord of Animals, Suriel",The Lewd King,41.80,Primordial Plague Mercury Of Legend,208.00,73.70,67.00,15329.6000,13936.0000,41498.62080000,06/28/1946 @ 12:00:00 AM
+37343,"Mystery, Lord",The Greedy Wench,13.31,Ghouls' Imperial Soulzephyr Mithril Of The Seas,196.00,318.23,318.23,62373.0800,62373.0800,141349.87389600,06/28/1946 @ 12:00:00 AM
+25488,"Dire, Wind",Weke Tower,47.19,Primordial Mud Orichalcum,190.00,1113.00,20.57,211470.0000,3908.3000,317015.31977000,06/28/1986 @ 12:00:00 AM

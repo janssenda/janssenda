@@ -1,14 +1,14 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-12445,"The Blade, Scarefear",Love Keep,40.56,Sprites' Transcendent Mud Lead Of The South,228.00,3338.65,242.80,761212.2000,55358.4000,1147771.63536000,09/11/2017 @ 12:00:00 AM
-23046,"Tombreaper, Rouge",Weke Tower,47.19,Tritons' Time Stoneiron Of Legend,190.00,341.59,341.59,64902.1000,64902.1000,191058.80198000,09/11/2017 @ 12:00:00 AM
-13677,"God of Love, Prusu",The Lewd King,41.80,Primordial Plague Mercury Of Legend,196.00,73.70,67.00,14445.2000,13132.0000,39104.46960000,09/11/2017 @ 12:00:00 AM
-36666,"Ivycaster, Fate",The Fen of the Necromancer,32.21,Phantasmal Tin Of The Swamps,301.00,405.96,369.05,122193.9600,111084.0500,308416.85702100,09/11/2017 @ 12:00:00 AM
-35446,"God of Resurrection, Gadriel",Bifar's Deep,12.21,Yellow Mistearth Copper,121.00,287.98,261.80,34845.5800,31677.8000,74645.88469800,09/11/2017 @ 12:00:00 AM
-33318,"Roguemist, Rouge",Pewold Keep,29.00,Fairies' Supreme Mistsmoke Lead Of The Future,241.00,499.73,549.70,120434.9300,132477.7000,326257.29270000,09/11/2017 @ 12:00:00 AM
-33575,"Tombreaper, Rouge",Pewold Keep,29.00,Forgotten Mithril,233.00,600.28,545.71,139865.2400,127150.4300,344450.21430000,09/11/2017 @ 12:00:00 AM
-30243,"The Machine, Evilcoil",The Greedy Wench,13.31,Heavenly Dreamsilver Of The Night,108.00,719.00,314.60,77652.0000,33976.8000,126486.59328000,09/11/2017 @ 12:00:00 AM
-7875,"Tombreaper, Rouge",The Forsaken Hive of Galima the Mighty,0.39,Vampires' Hammer Emeraldmetal,156.00,77.44,70.40,12080.6400,10982.4000,23152.98585600,09/11/2017 @ 12:00:00 AM
-15227,Freezebrood,The Secret Shrine of the Gargoyle Count,23.93,Angels' Adamant,70.00,51.48,46.80,3603.6000,3276.0000,8525.88828000,09/11/2017 @ 12:00:00 AM
-28679,"Brand, Lightning",Barad Cune,49.21,Undeads' Mind Orichalcum Of The Twilight,295.00,1169.00,364.69,344855.0000,107583.5500,675083.56045500,09/11/2017 @ 12:00:00 AM
-26523,"Anchor, Rose",Reheath Stronghold,39.60,Shadowhell Mithril,187.00,462.21,420.19,86433.2700,78575.5300,230352.28480000,09/11/2017 @ 12:00:00 AM
-5970,"Jester, Seraph",Khali's Delve,1.07,Mind Lead,314.00,219.09,199.17,68794.2600,62539.3800,132738.90994800,09/11/2017 @ 12:00:00 AM
+12445,"Scarefear, The Blade",Love Keep,40.56,Sprites' Transcendent Mud Lead Of The South,228.00,3338.65,242.80,761212.2000,55358.4000,1147771.63536000,09/11/2007 @ 12:00:00 AM
+23046,"Rouge, Tombreaper",Weke Tower,47.19,Tritons' Time Stoneiron Of Legend,190.00,341.59,341.59,64902.1000,64902.1000,191058.80198000,09/11/2007 @ 12:00:00 AM
+13677,"Prusu, God of Love",The Lewd King,41.80,Primordial Plague Mercury Of Legend,196.00,73.70,67.00,14445.2000,13132.0000,39104.46960000,09/11/2007 @ 12:00:00 AM
+36666,"Fate, Ivycaster",The Fen of the Necromancer,32.21,Phantasmal Tin Of The Swamps,301.00,405.96,369.05,122193.9600,111084.0500,308416.85702100,09/11/2007 @ 12:00:00 AM
+35446,"Gadriel, God of Resurrection",Bifar's Deep,12.21,Yellow Mistearth Copper,121.00,287.98,261.80,34845.5800,31677.8000,74645.88469800,09/11/2007 @ 12:00:00 AM
+33318,"Rouge, Roguemist",Pewold Keep,29.00,Fairies' Supreme Mistsmoke Lead Of The Future,241.00,499.73,549.70,120434.9300,132477.7000,326257.29270000,09/11/2007 @ 12:00:00 AM
+33575,"Rouge, Tombreaper",Pewold Keep,29.00,Forgotten Mithril,233.00,600.28,545.71,139865.2400,127150.4300,344450.21430000,09/11/2007 @ 12:00:00 AM
+30243,"Evilcoil, The Machine",The Greedy Wench,13.31,Heavenly Dreamsilver Of The Night,108.00,719.00,314.60,77652.0000,33976.8000,126486.59328000,09/11/2007 @ 12:00:00 AM
+7875,"Rouge, Tombreaper",The Forsaken Hive of Galima the Mighty,0.39,Vampires' Hammer Emeraldmetal,156.00,77.44,70.40,12080.6400,10982.4000,23152.98585600,09/11/2007 @ 12:00:00 AM
+15227,Freezebrood,The Secret Shrine of the Gargoyle Count,23.93,Angels' Adamant,70.00,51.48,46.80,3603.6000,3276.0000,8525.88828000,09/11/2007 @ 12:00:00 AM
+28679,"Lightning, Brand",Barad Cune,49.21,Undeads' Mind Orichalcum Of The Twilight,295.00,1169.00,364.69,344855.0000,107583.5500,675083.56045500,09/11/2007 @ 12:00:00 AM
+26523,"Rose, Anchor",Reheath Stronghold,39.60,Shadowhell Mithril,187.00,462.21,420.19,86433.2700,78575.5300,230352.28480000,09/11/2007 @ 12:00:00 AM
+5970,"Seraph, Jester",Khali's Delve,1.07,Mind Lead,314.00,219.09,199.17,68794.2600,62539.3800,132738.90994800,09/11/2007 @ 12:00:00 AM

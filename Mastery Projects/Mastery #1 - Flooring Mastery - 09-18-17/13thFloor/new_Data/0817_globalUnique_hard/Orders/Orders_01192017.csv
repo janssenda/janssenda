@@ -1,22 +1,22 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-36328,"Roguemist, Rouge",The Fen of the Necromancer,32.21,Vampires' Hammer Emeraldmetal,331.00,93.70,85.18,31014.7000,28194.5800,78280.58908800,01/19/2017 @ 12:00:00 AM
-1280,"Wolf, Jericho",Reyny Keep,-3.35,Ghostly Magic Adamant,206.00,901.35,45.00,185678.1000,9270.0000,188417.33865000,01/19/2017 @ 12:00:00 AM
-11672,"Squallmourner, Storm",Mahyrst Keep,28.45,Imperial Fate Steel,110.00,419.10,381.00,46101.0000,41910.0000,113050.12950000,01/19/2017 @ 12:00:00 AM
-1652,Springcoil,The Bastion of the Lich Tyrant,5.36,Fog Lavaplatinum Of Life,13.00,2232.00,463.10,29016.0000,6020.3000,36914.24568000,01/19/2017 @ 12:00:00 AM
+36328,"Rouge, Roguemist",The Fen of the Necromancer,32.21,Vampires' Hammer Emeraldmetal,331.00,93.70,85.18,31014.7000,28194.5800,78280.58908800,01/19/2007 @ 12:00:00 AM
+1280,"Jericho, Wolf",Reyny Keep,-3.35,Ghostly Magic Adamant,206.00,901.35,45.00,185678.1000,9270.0000,188417.33865000,01/19/2007 @ 12:00:00 AM
+11672,"Storm, Squallmourner",Mahyrst Keep,28.45,Imperial Fate Steel,110.00,419.10,381.00,46101.0000,41910.0000,113050.12950000,01/19/2007 @ 12:00:00 AM
+1652,Springcoil,The Bastion of the Lich Tyrant,5.36,Fog Lavaplatinum Of Life,13.00,2232.00,463.10,29016.0000,6020.3000,36914.24568000,01/19/2007 @ 12:00:00 AM
 35930,Chainnail,The Fortress of the Lich Queen,22.79,Yellow Mistearth Copper,170.00,287.98,261.80,48956.6000,44506.0000,114762.72654000,01/19/2017 @ 12:00:00 AM
-21513,"Felldrake, Magus",Citadel Ward,4.40,Witchs' Forbidden Rockrainbow Bronze,242.00,245.63,245.63,59442.4600,59442.4600,124115.85648000,01/19/2017 @ 12:00:00 AM
-34805,"The Evil, Burnchill",Barad Kesa,6.17,Ghouls' Imperial Soulzephyr Mithril Of The Seas,214.00,318.23,318.23,68101.2200,68101.2200,144606.13054800,01/19/2017 @ 12:00:00 AM
-32339,"God of Fate, Sielach",North Arcanist's Farthing,3.66,Fairies' Supreme Mistsmoke Lead Of The Future,30.00,499.73,549.70,14991.9000,16491.0000,32635.17414000,01/19/2017 @ 12:00:00 AM
-18344,Spikesnare,Peley Keep,20.92,Undeads' Mind Orichalcum Of The Twilight,319.00,1169.00,331.54,372911.0000,105761.2600,578810.49679200,01/19/2017 @ 12:00:00 AM
-21922,"The Frigid, Icechill",Grori's Deep,30.25,Yellow Mistearth Copper,280.00,287.98,261.80,80634.4000,73304.0000,200504.76600000,01/19/2017 @ 12:00:00 AM
-5064,"Mistseeker, Grave",Gena's Hold,4.00,Sirens' Rockgold,235.00,306.13,278.30,71940.5500,65400.5000,142834.69200000,01/19/2017 @ 12:00:00 AM
-30999,Emberfire,The Fortress of Akkun the Grim,27.03,Foulopal Copper Of The Skies,83.00,221.83,221.83,18411.8900,18411.8900,46777.24773400,01/19/2017 @ 12:00:00 AM
-14198,"Lord of Nightmares, Iran",North Arcanist's Farthing,2.75,Mind Lead,208.00,241.00,219.09,50128.0000,45570.7200,98330.43480000,01/19/2017 @ 12:00:00 AM
-26249,"Lord of Death, Addon",North Arcanist's Farthing,3.03,Unspeakable Rotsoul Mithril Of Souls,99.00,370.26,336.60,36655.7400,33323.4000,72099.50794200,01/19/2017 @ 12:00:00 AM
-13029,"God of Protection, Finarfin",Noble's Village,5.43,White Platinum,257.00,83.49,91.84,21456.9300,23602.8800,47506.55768300,01/19/2017 @ 12:00:00 AM
-13107,"The Living Device, Mecharig",Dysley Stronghold,35.51,Sapphire Mindlead,195.00,-44.77,-40.70,-8730.1500,-7936.5000,-22584.97741500,01/19/2017 @ 12:00:00 AM
-3232,"Dawn, Tarot",The Fortress of the Lich Queen,17.13,Warlocks' Timerot Mithril,213.00,725.00,176.95,154425.0000,37690.3500,225024.70945500,01/19/2017 @ 12:00:00 AM
-25212,"Tombreaper, Rouge",Kada's Deep,8.42,Incubi's Iron Of The Dawn,302.00,192.49,174.99,58131.9800,52846.9800,120323.38843200,01/19/2017 @ 12:00:00 AM
-26688,"The Cremator, Blazeflare",Reheath Stronghold,39.60,Swordbronze,170.00,403.29,366.63,68559.3000,62327.1000,182717.41440000,01/19/2017 @ 12:00:00 AM
-4789,"Seeker, Fate",Hartshill Ward,40.29,Incubi's Glittering Tin Of The Future,86.00,4393.29,175.42,377822.9400,15086.1200,551212.12027400,01/19/2017 @ 12:00:00 AM
-12305,"Claw, Slayer",Hafeld Keep,47.59,Incubi's Iron Of The Dawn,186.00,174.99,159.08,32548.1400,29588.8800,91708.02781800,01/19/2017 @ 12:00:00 AM
+21513,"Magus, Felldrake",Citadel Ward,4.40,Witchs' Forbidden Rockrainbow Bronze,242.00,245.63,245.63,59442.4600,59442.4600,124115.85648000,01/19/2007 @ 12:00:00 AM
+34805,"Burnchill, The Evil",Barad Kesa,6.17,Ghouls' Imperial Soulzephyr Mithril Of The Seas,214.00,318.23,318.23,68101.2200,68101.2200,144606.13054800,01/19/2007 @ 12:00:00 AM
+32339,"Sielach, God of Fate",North Arcanist's Farthing,3.66,Fairies' Supreme Mistsmoke Lead Of The Future,30.00,499.73,549.70,14991.9000,16491.0000,32635.17414000,01/19/2007 @ 12:00:00 AM
+18344,Spikesnare,Peley Keep,20.92,Undeads' Mind Orichalcum Of The Twilight,319.00,1169.00,331.54,372911.0000,105761.2600,578810.49679200,01/19/2007 @ 12:00:00 AM
+21922,"Icechill, The Frigid",Grori's Deep,30.25,Yellow Mistearth Copper,280.00,287.98,261.80,80634.4000,73304.0000,200504.76600000,01/19/2007 @ 12:00:00 AM
+5064,"Grave, Mistseeker",Gena's Hold,4.00,Sirens' Rockgold,235.00,306.13,278.30,71940.5500,65400.5000,142834.69200000,01/19/2007 @ 12:00:00 AM
+30999,Emberfire,The Fortress of Akkun the Grim,27.03,Foulopal Copper Of The Skies,83.00,221.83,221.83,18411.8900,18411.8900,46777.24773400,01/19/2007 @ 12:00:00 AM
+14198,"Iran, Lord of Nightmares",North Arcanist's Farthing,2.75,Mind Lead,208.00,241.00,219.09,50128.0000,45570.7200,98330.43480000,01/19/2007 @ 12:00:00 AM
+26249,"Addon, Lord of Death",North Arcanist's Farthing,3.03,Unspeakable Rotsoul Mithril Of Souls,99.00,370.26,336.60,36655.7400,33323.4000,72099.50794200,01/19/2007 @ 12:00:00 AM
+13029,"Finarfin, God of Protection",Noble's Village,5.43,White Platinum,257.00,83.49,91.84,21456.9300,23602.8800,47506.55768300,01/19/2007 @ 12:00:00 AM
+13107,"Mecharig, The Living Device",Dysley Stronghold,35.51,Sapphire Mindlead,195.00,-44.77,-40.70,-8730.1500,-7936.5000,-22584.97741500,01/19/2007 @ 12:00:00 AM
+3232,"Tarot, Dawn",The Fortress of the Lich Queen,17.13,Warlocks' Timerot Mithril,213.00,725.00,176.95,154425.0000,37690.3500,225024.70945500,01/19/2007 @ 12:00:00 AM
+25212,"Rouge, Tombreaper",Kada's Deep,8.42,Incubi's Iron Of The Dawn,302.00,192.49,174.99,58131.9800,52846.9800,120323.38843200,01/19/2007 @ 12:00:00 AM
+26688,"Blazeflare, The Cremator",Reheath Stronghold,39.60,Swordbronze,170.00,403.29,366.63,68559.3000,62327.1000,182717.41440000,01/19/2007 @ 12:00:00 AM
+4789,"Fate, Seeker",Hartshill Ward,40.29,Incubi's Glittering Tin Of The Future,86.00,4393.29,175.42,377822.9400,15086.1200,551212.12027400,01/19/2007 @ 12:00:00 AM
+12305,"Slayer, Claw",Hafeld Keep,47.59,Incubi's Iron Of The Dawn,186.00,174.99,159.08,32548.1400,29588.8800,91708.02781800,01/19/2007 @ 12:00:00 AM

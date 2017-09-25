@@ -1,23 +1,23 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-22,"Goddess of Thieves, Melcha",Gili's Delve,35.89,Incubi's Mirrorfog Iron Of The Ocean,111.00,768.03,421.32,85251.3300,46766.5200,179399.05636500,05/07/2017 @ 12:00:00 AM
-3979,Spikecrank,The Forsaken Sepulcher of Sorrows,28.51,Unknown Fatelightning Steel Of The Glacier,296.00,119.90,109.00,35490.4000,32264.0000,87071.17944000,05/07/2017 @ 12:00:00 AM
-10057,Deathbrood,Archring Borough,29.70,Forgotten Mithril,132.00,3909.75,496.10,516087.0000,65485.2000,754299.14340000,05/07/2017 @ 12:00:00 AM
-11482,"The Unspeakable, Gravebone",The Black Barrow of Bery,19.80,Violetdream Iron,28.00,414.98,377.25,11619.4400,10563.0000,26574.56312000,05/07/2017 @ 12:00:00 AM
-23662,"Mistmidnight, Tiger",Moor Village,11.32,Fleshshock Mercury,386.00,-31.02,-28.20,-11973.7200,-10885.2000,-25446.54974400,05/07/2017 @ 12:00:00 AM
-22327,Deathbrood,The Tomb of Hellish Ruin,36.30,Warlocks' Timerot Mithril,246.00,194.65,176.95,47883.9000,43529.7000,124596.73680000,05/07/2017 @ 12:00:00 AM
-23836,"Lord of the Sea, Penur",The Broken Arrow,17.60,Phantasmal Tin Of The Swamps,218.00,405.96,369.05,88499.2800,80452.9000,198687.76368000,05/07/2017 @ 12:00:00 AM
-32521,"Godwarlock, Sunrise",The Chuallanto Jungle,11.00,Grayplatinum,81.00,2548.00,104.94,206388.0000,8500.1400,238525.83540000,05/07/2017 @ 12:00:00 AM
-32791,"The Evil, Snowflame",The Bastion of the Lich Tyrant,8.64,Negative Rockglitter Mercury Of Trolls,221.00,235.59,214.17,52065.3900,47331.5700,107984.85734400,05/07/2017 @ 12:00:00 AM
-9743,"Dawn, Tarot",Gifeld Castle,27.28,Timeiron,341.00,3255.00,-16.25,1109955.0000,-5541.2500,1405697.82100000,05/07/2017 @ 12:00:00 AM
-28043,"Gust, Shadow",Bifar's Deep,12.21,Negative Rockglitter Mercury Of Trolls,220.00,235.59,214.17,51829.8000,47117.4000,111028.65312000,05/07/2017 @ 12:00:00 AM
-9906,"Dawn, Tarot",Hartshill Ward,40.29,God-touched Greengem Platinum,184.00,2181.36,188.14,401370.2400,34617.7600,611647.56520000,05/07/2017 @ 12:00:00 AM
-379,"Gust, Shadow",The Dungeon of Merciless Woe,3.61,Incubi's Mirrorfog Iron Of The Ocean,257.00,768.03,421.32,197383.7100,108279.2400,316697.38249500,05/07/2017 @ 12:00:00 AM
-16006,"Drakecaster, Sephiroth",The Fortress of Asmamur,-2.66,Shadowhell Mithril,254.00,462.21,420.19,117401.3400,106728.2600,218167.75264000,05/07/2017 @ 12:00:00 AM
-19932,Chainnail,Kada's Deep,8.42,Emerald Orichalcum,292.00,1957.00,142.79,571444.0000,41694.6800,664764.95685600,05/07/2017 @ 12:00:00 AM
-28175,Spikecrank,Barad Cune,49.21,Vampires' Fang Emeraldsilver,199.00,2033.69,80.84,404704.3100,16087.1600,627862.95238700,05/07/2017 @ 12:00:00 AM
-751,Spikecrank,Palace Farthing,13.00,Zephyr Adamant,301.00,481.77,-40.13,145012.7700,-12079.1300,150215.01320000,05/07/2017 @ 12:00:00 AM
-16572,"God of Thieves, Maeglodor",The Pirate's Pipe,16.94,Tritons' Time Stoneiron Of Legend,181.00,341.59,341.59,61827.7900,61827.7900,144602.83525200,05/07/2017 @ 12:00:00 AM
-26150,"The Unspeakable, Terrorghoul",Archfane District,15.29,Unspeakable Rotsoul Mithril Of Souls,160.00,370.26,336.60,59241.6000,53856.0000,130390.22304000,05/07/2017 @ 12:00:00 AM
-15760,"Amberslayer, Flora",The Tower of Aramum,20.00,Starsmoke Bronze Of Life,147.00,-438.00,420.81,-64386.0000,61859.0700,-3032.31600000,05/07/2017 @ 12:00:00 AM
-36003,Spikesnare,Citadel Ward,4.40,Yellow Mistearth Copper,343.00,287.98,261.80,98777.1400,89797.4000,196871.81976000,05/07/2017 @ 12:00:00 AM
-13445,"God of Animals, Byzou",Dysley Stronghold,35.51,Primordial Plague Mercury Of Legend,169.00,73.70,67.00,12455.3000,11323.0000,32221.97433000,05/07/2017 @ 12:00:00 AM
+22,"Melcha, Goddess of Thieves",Gili's Delve,35.89,Incubi's Mirrorfog Iron Of The Ocean,111.00,768.03,421.32,85251.3300,46766.5200,179399.05636500,05/07/2007 @ 12:00:00 AM
+3979,Spikecrank,The Forsaken Sepulcher of Sorrows,28.51,Unknown Fatelightning Steel Of The Glacier,296.00,119.90,109.00,35490.4000,32264.0000,87071.17944000,05/07/2007 @ 12:00:00 AM
+10057,Deathbrood,Archring Borough,29.70,Forgotten Mithril,132.00,3909.75,496.10,516087.0000,65485.2000,754299.14340000,05/07/2007 @ 12:00:00 AM
+11482,"Gravebone, The Unspeakable",The Black Barrow of Bery,19.80,Violetdream Iron,28.00,414.98,377.25,11619.4400,10563.0000,26574.56312000,05/07/2017 @ 12:00:00 AM
+23662,"Tiger, Mistmidnight",Moor Village,11.32,Fleshshock Mercury,386.00,-31.02,-28.20,-11973.7200,-10885.2000,-25446.54974400,05/07/2007 @ 12:00:00 AM
+22327,Deathbrood,The Tomb of Hellish Ruin,36.30,Warlocks' Timerot Mithril,246.00,194.65,176.95,47883.9000,43529.7000,124596.73680000,05/07/2007 @ 12:00:00 AM
+23836,"Penur, Lord of the Sea",The Broken Arrow,17.60,Phantasmal Tin Of The Swamps,218.00,405.96,369.05,88499.2800,80452.9000,198687.76368000,05/07/2007 @ 12:00:00 AM
+32521,"Sunrise, Godwarlock",The Chuallanto Jungle,11.00,Grayplatinum,81.00,2548.00,104.94,206388.0000,8500.1400,238525.83540000,05/07/2007 @ 12:00:00 AM
+32791,"Snowflame, The Evil",The Bastion of the Lich Tyrant,8.64,Negative Rockglitter Mercury Of Trolls,221.00,235.59,214.17,52065.3900,47331.5700,107984.85734400,05/07/2007 @ 12:00:00 AM
+9743,"Tarot, Dawn",Gifeld Castle,27.28,Timeiron,341.00,3255.00,-16.25,1109955.0000,-5541.2500,1405697.82100000,05/07/2007 @ 12:00:00 AM
+28043,"Shadow, Gust",Bifar's Deep,12.21,Negative Rockglitter Mercury Of Trolls,220.00,235.59,214.17,51829.8000,47117.4000,111028.65312000,05/07/2007 @ 12:00:00 AM
+9906,"Tarot, Dawn",Hartshill Ward,40.29,God-touched Greengem Platinum,184.00,2181.36,188.14,401370.2400,34617.7600,611647.56520000,05/07/2007 @ 12:00:00 AM
+379,"Shadow, Gust",The Dungeon of Merciless Woe,3.61,Incubi's Mirrorfog Iron Of The Ocean,257.00,768.03,421.32,197383.7100,108279.2400,316697.38249500,05/07/2007 @ 12:00:00 AM
+16006,"Sephiroth, Drakecaster",The Fortress of Asmamur,-2.66,Shadowhell Mithril,254.00,462.21,420.19,117401.3400,106728.2600,218167.75264000,05/07/2007 @ 12:00:00 AM
+19932,Chainnail,Kada's Deep,8.42,Emerald Orichalcum,292.00,1957.00,142.79,571444.0000,41694.6800,664764.95685600,05/07/2007 @ 12:00:00 AM
+28175,Spikecrank,Barad Cune,49.21,Vampires' Fang Emeraldsilver,199.00,2033.69,80.84,404704.3100,16087.1600,627862.95238700,05/07/2007 @ 12:00:00 AM
+751,Spikecrank,Palace Farthing,13.00,Zephyr Adamant,301.00,481.77,-40.13,145012.7700,-12079.1300,150215.01320000,05/07/2007 @ 12:00:00 AM
+16572,"Maeglodor, God of Thieves",The Pirate's Pipe,16.94,Tritons' Time Stoneiron Of Legend,181.00,341.59,341.59,61827.7900,61827.7900,144602.83525200,05/07/2007 @ 12:00:00 AM
+26150,"Terrorghoul, The Unspeakable",Archfane District,15.29,Unspeakable Rotsoul Mithril Of Souls,160.00,370.26,336.60,59241.6000,53856.0000,130390.22304000,05/07/2007 @ 12:00:00 AM
+15760,"Flora, Amberslayer",The Tower of Aramum,20.00,Starsmoke Bronze Of Life,147.00,-438.00,420.81,-64386.0000,61859.0700,-3032.31600000,05/07/2007 @ 12:00:00 AM
+36003,Spikesnare,Citadel Ward,4.40,Yellow Mistearth Copper,343.00,287.98,261.80,98777.1400,89797.4000,196871.81976000,05/07/2007 @ 12:00:00 AM
+13445,"Byzou, God of Animals",Dysley Stronghold,35.51,Primordial Plague Mercury Of Legend,169.00,73.70,67.00,12455.3000,11323.0000,32221.97433000,05/07/2017 @ 12:00:00 AM

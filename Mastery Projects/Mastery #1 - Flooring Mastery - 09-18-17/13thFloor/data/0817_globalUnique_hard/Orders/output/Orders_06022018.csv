@@ -1,23 +1,23 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-23047,"Tombreaper, Rouge",Reheath Stronghold,39.60,Tritons' Time Stoneiron Of Legend,233.00,341.59,341.59,79590.4700,79590.4700,222216.59224000,06/02/2018 @ 12:00:00 AM
-11179,Ironbrood,The Fortress of Asmamur,-2.42,Violetstone Tin Of Death,139.00,2091.85,20.90,290767.1500,2905.1000,286565.38155000,06/02/2018 @ 12:00:00 AM
-24457,"Seeker, Fate",The Forsaken Sepulcher of Sorrows,31.36,Negative Rockglitter Mercury Of Trolls,294.00,235.59,214.17,69263.4600,62965.9800,173696.59238400,06/02/2018 @ 12:00:00 AM
-24807,"Tsunami, Seraphim",Eved Castle,30.80,Negative Rockglitter Mercury Of Trolls,208.00,235.59,214.17,49002.7200,44547.3600,122363.50464000,06/02/2018 @ 12:00:00 AM
-11594,"Seeker, Fate",The Broken Shield,12.00,Lycanthropes' Gold,47.00,371.80,338.00,17474.6000,15886.0000,37363.87200000,06/02/2018 @ 12:00:00 AM
-34728,"Goddess of the Earth, Gono",Barad Kesa,6.17,Grayplatinum,70.00,2548.00,115.43,178360.0000,8080.1000,197943.45417000,06/02/2018 @ 12:00:00 AM
-10731,"Runetomb, Song",The Secret Shrine of the Gargoyle Count,21.75,Dragons' Poison Glitterflesh Steel Of The North,148.00,742.00,75.00,109816.0000,11100.0000,147215.23000000,06/02/2018 @ 12:00:00 AM
-21506,"Angelchild, Harmony",North Arcanist's Farthing,3.03,Starsmoke Bronze Of Life,302.00,-438.00,420.81,-132276.0000,127084.6200,-5348.67881400,06/02/2018 @ 12:00:00 AM
-33617,"Godseeker, Cult",The Archer and Scroll,60.12,Undeads' Mind Orichalcum Of The Twilight,68.00,1169.00,364.69,79492.0000,24798.9200,166990.62110400,06/02/2018 @ 12:00:00 AM
-31018,"The Chiller, Blazefreeze",Mahyrst Keep,31.30,Foulopal Copper Of The Skies,336.00,221.83,221.83,74534.8800,74534.8800,195728.59488000,06/02/2018 @ 12:00:00 AM
-8291,"Ivycaster, Fate",Archtemple District,37.85,Unknowable Mindsilver,303.00,174.90,174.90,52994.7000,52994.7000,146106.38790000,06/02/2018 @ 12:00:00 AM
-18335,"The Mechanical, Snarepiston",Gili's Delve,35.89,Spirits' Living Wordhammer Tin Of The Trees,281.00,141.57,128.70,39781.1700,36164.7000,103202.84274300,06/02/2018 @ 12:00:00 AM
-33920,"Anchor, Rose",Reheath Stronghold,39.60,Warlocks' Timerot Mithril,124.00,194.65,194.65,24136.6000,24136.6000,67389.38720000,06/02/2018 @ 12:00:00 AM
-18772,"Goddess of Fate, Azah",Mahyrst Keep,31.30,Trolls' Mist Poisonplatinum Of The Twilight,277.00,484.62,440.56,134239.7400,122035.1200,336488.89118000,06/02/2018 @ 12:00:00 AM
-5063,"Godseeker, Cult",The Cracked Chalice,-4.81,Forgotten Mithril,182.00,3909.75,451.00,711574.5000,82082.0000,755481.62235000,06/02/2018 @ 12:00:00 AM
-6488,"Jester, Seraph",The Wizard's House,20.00,Fleshshock Mercury,214.00,-31.02,-28.20,-6638.2800,-6034.8000,-15207.69600000,06/02/2018 @ 12:00:00 AM
-15219,Spikecrank,The Secret Shrine of the Gargoyle Count,23.93,Angels' Adamant,259.00,51.48,46.80,13333.3200,12121.2000,31545.78663600,06/02/2018 @ 12:00:00 AM
-14085,"Wolf, Jericho",Gena's Hold,5.85,Phantasmal Smokezephyr Mercury Of Men,232.00,211.20,192.00,48998.4000,44544.0000,99014.63040000,06/02/2018 @ 12:00:00 AM
-6681,"The Disinterred, Spikebrood",Archring Borough,29.70,Trolls' Rubymercury Of The Sunset,223.00,2733.00,443.00,609459.0000,98789.0000,918597.65600000,06/02/2018 @ 12:00:00 AM
-27649,"Bladewitch, Zeal",The Pirate's Pipe,16.94,Vampires' Hammer Emeraldmetal,282.00,93.70,85.18,26423.4000,24020.7600,58989.40070400,06/02/2018 @ 12:00:00 AM
-37185,"Seeker, Fate",The Greedy Wench,13.31,Ghouls' Imperial Soulzephyr Mithril Of The Seas,74.00,318.23,318.23,23549.0200,23549.0200,53366.78912400,06/02/2018 @ 12:00:00 AM
-27948,"Seeker, Fate",Barad Kesa,5.61,Negative Rockglitter Mercury Of Trolls,188.00,235.59,214.17,44290.9200,40263.9600,89298.40876800,06/02/2018 @ 12:00:00 AM
+23047,"Tombreaper, Rouge",Reheath Stronghold,39.60,Tritons' Time Stoneiron Of Legend,233.00,341.59,341.59,79590.4700,79590.4700,222216.59224000,06/02/1948 @ 12:00:00 AM
+11179,Ironbrood,The Fortress of Asmamur,-2.42,Violetstone Tin Of Death,139.00,2091.85,20.90,290767.1500,2905.1000,286565.38155000,06/02/1948 @ 12:00:00 AM
+24457,"Seeker, Fate",The Forsaken Sepulcher of Sorrows,31.36,Negative Rockglitter Mercury Of Trolls,294.00,235.59,214.17,69263.4600,62965.9800,173696.59238400,06/02/1948 @ 12:00:00 AM
+24807,"Tsunami, Seraphim",Eved Castle,30.80,Negative Rockglitter Mercury Of Trolls,208.00,235.59,214.17,49002.7200,44547.3600,122363.50464000,06/02/1948 @ 12:00:00 AM
+11594,"Seeker, Fate",The Broken Shield,12.00,Lycanthropes' Gold,47.00,371.80,338.00,17474.6000,15886.0000,37363.87200000,06/02/1948 @ 12:00:00 AM
+34728,"Goddess of the Earth, Gono",Barad Kesa,6.17,Grayplatinum,70.00,2548.00,115.43,178360.0000,8080.1000,197943.45417000,06/02/1948 @ 12:00:00 AM
+10731,"Runetomb, Song",The Secret Shrine of the Gargoyle Count,21.75,Dragons' Poison Glitterflesh Steel Of The North,148.00,742.00,75.00,109816.0000,11100.0000,147215.23000000,06/02/1948 @ 12:00:00 AM
+21506,"Angelchild, Harmony",North Arcanist's Farthing,3.03,Starsmoke Bronze Of Life,302.00,-438.00,420.81,-132276.0000,127084.6200,-5348.67881400,06/02/1948 @ 12:00:00 AM
+33617,"Godseeker, Cult",The Archer and Scroll,60.12,Undeads' Mind Orichalcum Of The Twilight,68.00,1169.00,364.69,79492.0000,24798.9200,166990.62110400,06/02/1948 @ 12:00:00 AM
+31018,"The Chiller, Blazefreeze",Mahyrst Keep,31.30,Foulopal Copper Of The Skies,336.00,221.83,221.83,74534.8800,74534.8800,195728.59488000,06/02/1948 @ 12:00:00 AM
+8291,"Ivycaster, Fate",Archtemple District,37.85,Unknowable Mindsilver,303.00,174.90,174.90,52994.7000,52994.7000,146106.38790000,06/02/1948 @ 12:00:00 AM
+18335,"The Mechanical, Snarepiston",Gili's Delve,35.89,Spirits' Living Wordhammer Tin Of The Trees,281.00,141.57,128.70,39781.1700,36164.7000,103202.84274300,06/02/1948 @ 12:00:00 AM
+33920,"Anchor, Rose",Reheath Stronghold,39.60,Warlocks' Timerot Mithril,124.00,194.65,194.65,24136.6000,24136.6000,67389.38720000,06/02/1948 @ 12:00:00 AM
+18772,"Goddess of Fate, Azah",Mahyrst Keep,31.30,Trolls' Mist Poisonplatinum Of The Twilight,277.00,484.62,440.56,134239.7400,122035.1200,336488.89118000,06/02/1948 @ 12:00:00 AM
+5063,"Godseeker, Cult",The Cracked Chalice,-4.81,Forgotten Mithril,182.00,3909.75,451.00,711574.5000,82082.0000,755481.62235000,06/02/1988 @ 12:00:00 AM
+6488,"Jester, Seraph",The Wizard's House,20.00,Fleshshock Mercury,214.00,-31.02,-28.20,-6638.2800,-6034.8000,-15207.69600000,06/02/1948 @ 12:00:00 AM
+15219,Spikecrank,The Secret Shrine of the Gargoyle Count,23.93,Angels' Adamant,259.00,51.48,46.80,13333.3200,12121.2000,31545.78663600,06/02/1948 @ 12:00:00 AM
+14085,"Wolf, Jericho",Gena's Hold,5.85,Phantasmal Smokezephyr Mercury Of Men,232.00,211.20,192.00,48998.4000,44544.0000,99014.63040000,06/02/1948 @ 12:00:00 AM
+6681,"The Disinterred, Spikebrood",Archring Borough,29.70,Trolls' Rubymercury Of The Sunset,223.00,2733.00,443.00,609459.0000,98789.0000,918597.65600000,06/02/1948 @ 12:00:00 AM
+27649,"Bladewitch, Zeal",The Pirate's Pipe,16.94,Vampires' Hammer Emeraldmetal,282.00,93.70,85.18,26423.4000,24020.7600,58989.40070400,06/02/1978 @ 12:00:00 AM
+37185,"Seeker, Fate",The Greedy Wench,13.31,Ghouls' Imperial Soulzephyr Mithril Of The Seas,74.00,318.23,318.23,23549.0200,23549.0200,53366.78912400,06/02/1948 @ 12:00:00 AM
+27948,"Seeker, Fate",Barad Kesa,5.61,Negative Rockglitter Mercury Of Trolls,188.00,235.59,214.17,44290.9200,40263.9600,89298.40876800,06/02/1948 @ 12:00:00 AM

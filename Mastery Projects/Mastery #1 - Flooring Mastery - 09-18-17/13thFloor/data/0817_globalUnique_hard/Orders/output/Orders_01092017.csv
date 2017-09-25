@@ -1,22 +1,22 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-3710,Chainnail,The Pirate's Pipe,15.40,Falserainbow Lead,96.00,872.99,70.18,83807.0400,6737.2800,104488.14528000,01/09/2017 @ 12:00:00 AM
-13791,"Reaper, Dagger",Khali's Delve,1.18,Poison Adamant,312.00,110.96,100.87,34619.5200,31471.4400,66870.83332800,01/09/2017 @ 12:00:00 AM
-23332,"Tsunami, Seraphim",The Secret Catacombs of Ulfang the Black,31.70,Forgotten Mithril,118.00,545.71,496.10,64393.7800,58539.8000,161903.52486000,01/09/2017 @ 12:00:00 AM
-13973,"Wolf, Jericho",Noble's Village,5.43,Phantasmal Smokezephyr Mercury Of Men,169.00,211.20,192.00,35692.8000,32448.0000,71840.84544000,01/09/2017 @ 12:00:00 AM
-23268,"Lady of Vengeance, Zepul",The Secret Catacombs of Ulfang the Black,31.70,Planar Mudtin Of Trolls,89.00,191.40,174.00,17034.6000,15486.0000,42829.63020000,01/09/2017 @ 12:00:00 AM
-35224,"The Machine, Wheelbolt",The Fortress of the Lich Queen,22.79,Lycanthropes' Gold,113.00,449.88,408.98,50836.4400,46214.7400,119169.14392200,01/09/2017 @ 12:00:00 AM
-22081,"Jester, Seraph",The Nulukkhath Spires,28.99,Imperial Fate Steel,215.00,419.10,381.00,90106.5000,81915.0000,221890.53285000,01/09/2017 @ 12:00:00 AM
-21060,"God of Thieves, Maeglodor",Arcanist's Farthing,29.00,Grayplatinum,102.00,2548.00,104.94,259896.0000,10703.8800,349073.84520000,01/09/2017 @ 12:00:00 AM
-21200,"The Evil, Flameflare",The Tomb of Hellish Ruin,36.30,Poison Adamant,247.00,110.96,100.87,27407.1200,24914.8900,71314.89963000,01/09/2017 @ 12:00:00 AM
-8026,"The Grasping, Nettool",The Grey Plains,39.19,Phantasmal Smokezephyr Mercury Of Men,205.00,211.20,192.00,43296.0000,39360.0000,115048.88640000,01/09/2017 @ 12:00:00 AM
-8041,"Mist, Claw",The Drunken Thief,18.41,Unicorns' Fatal Magma Metal Of The Ocean,180.00,903.00,23.00,162540.0000,4140.0000,197365.78800000,01/09/2017 @ 12:00:00 AM
-8284,"The Grasping, Nettool",The Grey Plains,39.19,Falserainbow Lead,211.00,872.99,70.18,184200.8900,14807.9800,277000.44615300,01/09/2017 @ 12:00:00 AM
-7018,"The Living Device, Mecharig",The Citadel of Tattena the Sinister,22.39,Unicorns' Fatal Magma Metal Of The Ocean,181.00,903.00,23.00,163443.0000,4163.0000,205132.98340000,01/09/2017 @ 12:00:00 AM
-7214,"Lord of Plague, Alas",Noble's Village,4.94,Sirens' Rockgold,143.00,306.13,278.30,43776.5900,39796.9000,87702.02040600,01/09/2017 @ 12:00:00 AM
-28159,"Brand, Lightning",Bifar's Deep,12.21,Stone Soulsteel Of The Skies,201.00,453.31,412.10,91115.3100,82832.1000,195186.38876100,01/09/2017 @ 12:00:00 AM
-31731,"Seeker, Fate",Hafeld Keep,47.59,Warlocks' Timerot Mithril,165.00,194.65,194.65,32117.2500,32117.2500,94803.69855000,01/09/2017 @ 12:00:00 AM
-7675,"The Freezer, Shiverflame",Barad Kesa,5.10,Sapphire Mindlead,149.00,-44.77,-40.70,-6670.7300,-6064.3000,-13384.51653000,01/09/2017 @ 12:00:00 AM
-962,"Mistseeker, Grave",The Citadel of Lord Greywulf,19.00,Vampires' Fang Emeraldsilver,196.00,2033.69,80.84,398603.2400,15844.6400,493192.97720000,01/09/2017 @ 12:00:00 AM
-27362,"The Disinterred, Spikebrood",The Pirate's Pipe,16.94,Sprites' Transcendent Mud Lead Of The South,175.00,3338.65,267.08,584263.7500,46739.0000,737894.61585000,01/09/2017 @ 12:00:00 AM
-37260,"Dire, Wind",The Greedy Wench,13.31,Stone Soulsteel Of The Skies,148.00,453.31,453.31,67089.8800,67089.8800,152039.08605600,01/09/2017 @ 12:00:00 AM
-25540,Spikespawn,Kada's Deep,8.42,Incubi's Iron Of The Dawn,192.00,192.49,174.99,36958.0800,33598.0800,76496.98867200,01/09/2017 @ 12:00:00 AM
+3710,Chainnail,The Pirate's Pipe,15.40,Falserainbow Lead,96.00,872.99,70.18,83807.0400,6737.2800,104488.14528000,01/09/1947 @ 12:00:00 AM
+13791,"Reaper, Dagger",Khali's Delve,1.18,Poison Adamant,312.00,110.96,100.87,34619.5200,31471.4400,66870.83332800,01/09/1947 @ 12:00:00 AM
+23332,"Tsunami, Seraphim",The Secret Catacombs of Ulfang the Black,31.70,Forgotten Mithril,118.00,545.71,496.10,64393.7800,58539.8000,161903.52486000,01/09/1947 @ 12:00:00 AM
+13973,"Wolf, Jericho",Noble's Village,5.43,Phantasmal Smokezephyr Mercury Of Men,169.00,211.20,192.00,35692.8000,32448.0000,71840.84544000,01/09/1947 @ 12:00:00 AM
+23268,"Lady of Vengeance, Zepul",The Secret Catacombs of Ulfang the Black,31.70,Planar Mudtin Of Trolls,89.00,191.40,174.00,17034.6000,15486.0000,42829.63020000,01/09/1947 @ 12:00:00 AM
+35224,"The Machine, Wheelbolt",The Fortress of the Lich Queen,22.79,Lycanthropes' Gold,113.00,449.88,408.98,50836.4400,46214.7400,119169.14392200,01/09/1947 @ 12:00:00 AM
+22081,"Jester, Seraph",The Nulukkhath Spires,28.99,Imperial Fate Steel,215.00,419.10,381.00,90106.5000,81915.0000,221890.53285000,01/09/1947 @ 12:00:00 AM
+21060,"God of Thieves, Maeglodor",Arcanist's Farthing,29.00,Grayplatinum,102.00,2548.00,104.94,259896.0000,10703.8800,349073.84520000,01/09/1947 @ 12:00:00 AM
+21200,"The Evil, Flameflare",The Tomb of Hellish Ruin,36.30,Poison Adamant,247.00,110.96,100.87,27407.1200,24914.8900,71314.89963000,01/09/1947 @ 12:00:00 AM
+8026,"The Grasping, Nettool",The Grey Plains,39.19,Phantasmal Smokezephyr Mercury Of Men,205.00,211.20,192.00,43296.0000,39360.0000,115048.88640000,01/09/1947 @ 12:00:00 AM
+8041,"Mist, Claw",The Drunken Thief,18.41,Unicorns' Fatal Magma Metal Of The Ocean,180.00,903.00,23.00,162540.0000,4140.0000,197365.78800000,01/09/1947 @ 12:00:00 AM
+8284,"The Grasping, Nettool",The Grey Plains,39.19,Falserainbow Lead,211.00,872.99,70.18,184200.8900,14807.9800,277000.44615300,01/09/1947 @ 12:00:00 AM
+7018,"The Living Device, Mecharig",The Citadel of Tattena the Sinister,22.39,Unicorns' Fatal Magma Metal Of The Ocean,181.00,903.00,23.00,163443.0000,4163.0000,205132.98340000,01/09/1947 @ 12:00:00 AM
+7214,"Lord of Plague, Alas",Noble's Village,4.94,Sirens' Rockgold,143.00,306.13,278.30,43776.5900,39796.9000,87702.02040600,01/09/1947 @ 12:00:00 AM
+28159,"Brand, Lightning",Bifar's Deep,12.21,Stone Soulsteel Of The Skies,201.00,453.31,412.10,91115.3100,82832.1000,195186.38876100,01/09/1947 @ 12:00:00 AM
+31731,"Seeker, Fate",Hafeld Keep,47.59,Warlocks' Timerot Mithril,165.00,194.65,194.65,32117.2500,32117.2500,94803.69855000,01/09/1947 @ 12:00:00 AM
+7675,"The Freezer, Shiverflame",Barad Kesa,5.10,Sapphire Mindlead,149.00,-44.77,-40.70,-6670.7300,-6064.3000,-13384.51653000,01/09/1987 @ 12:00:00 AM
+962,"Mistseeker, Grave",The Citadel of Lord Greywulf,19.00,Vampires' Fang Emeraldsilver,196.00,2033.69,80.84,398603.2400,15844.6400,493192.97720000,01/09/1947 @ 12:00:00 AM
+27362,"The Disinterred, Spikebrood",The Pirate's Pipe,16.94,Sprites' Transcendent Mud Lead Of The South,175.00,3338.65,267.08,584263.7500,46739.0000,737894.61585000,01/09/1947 @ 12:00:00 AM
+37260,"Dire, Wind",The Greedy Wench,13.31,Stone Soulsteel Of The Skies,148.00,453.31,453.31,67089.8800,67089.8800,152039.08605600,01/09/1947 @ 12:00:00 AM
+25540,Spikespawn,Kada's Deep,8.42,Incubi's Iron Of The Dawn,192.00,192.49,174.99,36958.0800,33598.0800,76496.98867200,01/09/1947 @ 12:00:00 AM

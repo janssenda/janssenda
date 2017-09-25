@@ -1,16 +1,16 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-24537,"God of Death, Avriel",The Forsaken Sepulcher of Sorrows,31.36,Ensorceled Sandmetal Of Spirits,195.00,85.18,77.44,16610.1000,15100.8000,41655.43824000,09/03/2016 @ 12:00:00 AM
-12539,"The Grasping, Nailpiston",The Tomb of Hellish Ruin,33.00,Dragons' Poison Glitterflesh Steel Of The North,34.00,742.00,82.50,25228.0000,2805.0000,37283.89000000,09/03/2016 @ 12:00:00 AM
-24567,"Lady of Fire, Nelalwe",Bifar's Deep,12.21,Foul Ice Bronze Of Life,201.00,292.82,266.20,58856.8200,53506.2000,126082.54474200,09/03/2016 @ 12:00:00 AM
-3955,"Dawn, Tarot",The Fortress of Akkun the Grim,27.03,Forgotten Mithril,79.00,3909.75,451.00,308870.2500,35629.0000,437617.39727500,09/03/2016 @ 12:00:00 AM
-11705,"The Living Device, Mecharig",The Fortress of the Lich Queen,18.84,Mistgold Of Men,268.00,412.50,375.00,110550.0000,100500.0000,250811.82000000,09/03/2016 @ 12:00:00 AM
-21435,Bronzespawn,Reyny Keep,-3.35,Witchs' Forbidden Rockrainbow Bronze,351.00,245.63,245.63,86216.1300,86216.1300,166655.77929000,09/03/2016 @ 12:00:00 AM
-31146,"Lady of Vengeance, Zepul",The Fortress of Akkun the Grim,27.03,Ensorceled Sandmetal Of Spirits,199.00,85.18,77.44,16950.8200,15410.5600,41108.66101400,09/03/2016 @ 12:00:00 AM
-21950,"Lord of Death, Addon",Pewold Keep,29.00,Warlocks' Timerot Mithril,322.00,194.65,176.95,62677.3000,56977.9000,154355.20800000,09/03/2016 @ 12:00:00 AM
-28229,"Mystery, Lord",Barad Kesa,5.61,Vampires' Fang Emeraldsilver,139.00,2033.69,80.84,282682.9100,11236.7600,310408.56348700,09/03/2016 @ 12:00:00 AM
-29696,"Goddess of Trickery, Alik",The Greedy Wench,13.31,Incubi's Glittering Tin Of The Future,218.00,192.96,233.49,42065.2800,50900.8200,105339.88791000,09/03/2016 @ 12:00:00 AM
-809,"Goddess of Knowledge, Ahah",The Citadel of Lord Greywulf,19.00,Falserainbow Lead,312.00,872.99,58.00,272372.8800,18096.0000,345657.96720000,09/03/2016 @ 12:00:00 AM
-16501,"Lord of Nightmares, Iran",The Bastion of the Lich Tyrant,7.14,Lycanthropes' Gold,139.00,371.80,338.00,51680.2000,46982.0000,105706.68108000,09/03/2016 @ 12:00:00 AM
-933,"Mistseeker, Grave",Reyny Keep,-3.35,Meteoric Mirrormuck Orichalcum Of The Forests,193.00,491.62,368.50,94882.6600,71120.5000,160442.05414000,09/03/2016 @ 12:00:00 AM
+24537,"Avriel, God of Death",The Forsaken Sepulcher of Sorrows,31.36,Ensorceled Sandmetal Of Spirits,195.00,85.18,77.44,16610.1000,15100.8000,41655.43824000,09/03/2006 @ 12:00:00 AM
+12539,"Nailpiston, The Grasping",The Tomb of Hellish Ruin,33.00,Dragons' Poison Glitterflesh Steel Of The North,34.00,742.00,82.50,25228.0000,2805.0000,37283.89000000,09/03/2006 @ 12:00:00 AM
+24567,"Nelalwe, Lady of Fire",Bifar's Deep,12.21,Foul Ice Bronze Of Life,201.00,292.82,266.20,58856.8200,53506.2000,126082.54474200,09/03/2006 @ 12:00:00 AM
+3955,"Tarot, Dawn",The Fortress of Akkun the Grim,27.03,Forgotten Mithril,79.00,3909.75,451.00,308870.2500,35629.0000,437617.39727500,09/03/2006 @ 12:00:00 AM
+11705,"Mecharig, The Living Device",The Fortress of the Lich Queen,18.84,Mistgold Of Men,268.00,412.50,375.00,110550.0000,100500.0000,250811.82000000,09/03/2006 @ 12:00:00 AM
+21435,Bronzespawn,Reyny Keep,-3.35,Witchs' Forbidden Rockrainbow Bronze,351.00,245.63,245.63,86216.1300,86216.1300,166655.77929000,09/03/2006 @ 12:00:00 AM
+31146,"Zepul, Lady of Vengeance",The Fortress of Akkun the Grim,27.03,Ensorceled Sandmetal Of Spirits,199.00,85.18,77.44,16950.8200,15410.5600,41108.66101400,09/03/2006 @ 12:00:00 AM
+21950,"Addon, Lord of Death",Pewold Keep,29.00,Warlocks' Timerot Mithril,322.00,194.65,176.95,62677.3000,56977.9000,154355.20800000,09/03/2006 @ 12:00:00 AM
+28229,"Lord, Mystery",Barad Kesa,5.61,Vampires' Fang Emeraldsilver,139.00,2033.69,80.84,282682.9100,11236.7600,310408.56348700,09/03/2006 @ 12:00:00 AM
+29696,"Alik, Goddess of Trickery",The Greedy Wench,13.31,Incubi's Glittering Tin Of The Future,218.00,192.96,233.49,42065.2800,50900.8200,105339.88791000,09/03/2016 @ 12:00:00 AM
+809,"Ahah, Goddess of Knowledge",The Citadel of Lord Greywulf,19.00,Falserainbow Lead,312.00,872.99,58.00,272372.8800,18096.0000,345657.96720000,09/03/2006 @ 12:00:00 AM
+16501,"Iran, Lord of Nightmares",The Bastion of the Lich Tyrant,7.14,Lycanthropes' Gold,139.00,371.80,338.00,51680.2000,46982.0000,105706.68108000,09/03/2006 @ 12:00:00 AM
+933,"Grave, Mistseeker",Reyny Keep,-3.35,Meteoric Mirrormuck Orichalcum Of The Forests,193.00,491.62,368.50,94882.6600,71120.5000,160442.05414000,09/03/2016 @ 12:00:00 AM
 15324,Emberspawn,The Fortress of Asmamur,-2.66,Sirens' Rockgold,262.00,306.13,306.13,80206.0600,80206.0600,156145.15760800,09/03/2016 @ 12:00:00 AM
-27957,"Goddess of Fate, Azah",Barad Kesa,5.61,Stone Soulsteel Of The Skies,155.00,453.31,412.10,70263.0500,63875.5000,141663.72265500,09/03/2016 @ 12:00:00 AM
+27957,"Azah, Goddess of Fate",Barad Kesa,5.61,Stone Soulsteel Of The Skies,155.00,453.31,412.10,70263.0500,63875.5000,141663.72265500,09/03/2006 @ 12:00:00 AM

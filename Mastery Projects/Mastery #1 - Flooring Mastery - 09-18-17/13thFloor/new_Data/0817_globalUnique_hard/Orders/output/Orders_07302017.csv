@@ -1,19 +1,19 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-3874,"Mist, Claw",The Hunter and Rose,39.60,Ensorceled Sandmetal Of Spirits,156.00,70.40,64.00,10982.4000,9984.0000,29269.09440000,07/30/2017 @ 12:00:00 AM
-13900,Spikesnare,The Secret Catacombs of Ulfang the Black,28.82,Mind Lead,210.00,241.00,219.09,50610.0000,46008.9000,124464.46698000,07/30/2017 @ 12:00:00 AM
-1341,"Tomblion, Shadow",The Secret Shrine of the Gargoyle Count,19.77,Ghostly Magic Adamant,232.00,49.50,45.00,11484.0000,10440.0000,26258.37480000,07/30/2017 @ 12:00:00 AM
-35541,"Godwarlock, Sunrise",The Fortress of the Lich Queen,22.79,Vampires' Fang Emeraldsilver,209.00,2033.69,88.92,425041.2100,18584.2800,544727.73917100,07/30/2017 @ 12:00:00 AM
-33131,"God of Luck, Ariel",The Archer and Scroll,60.12,Fairies' Supreme Mistsmoke Lead Of The Future,330.00,499.73,549.70,164910.9000,181401.0000,554514.61428000,07/30/2017 @ 12:00:00 AM
-35736,"Goddess of Law, Eumyan",Citadel Ward,4.40,Yellow Mistearth Copper,355.00,287.98,261.80,102232.9000,92939.0000,203759.46360000,07/30/2017 @ 12:00:00 AM
-10649,"Wolf, Jericho",The Drunken Thief,18.41,Phantasmal Smokezephyr Mercury Of Men,56.00,211.20,192.00,11827.2000,10752.0000,26736.03072000,07/30/2017 @ 12:00:00 AM
-1956,Emberspawn,The Secret Shrine of the Gargoyle Count,19.77,Foul Ice Bronze Of Life,235.00,-378.00,242.00,-88830.0000,56870.0000,-38278.49200000,07/30/2017 @ 12:00:00 AM
-33482,"Drakecaster, Sephiroth",The Archer and Scroll,60.12,Fairies' Supreme Mistsmoke Lead Of The Future,180.00,499.73,549.70,89951.4000,98946.0000,302462.51688000,07/30/2017 @ 12:00:00 AM
-31588,"Lord of the Sun, Maglioneth",The Bastion of Gothmog of Udun,-2.66,Planar Mudtin Of Trolls,176.00,191.40,174.00,33686.4000,30624.0000,62599.74336000,07/30/2017 @ 12:00:00 AM
-8808,"God of the Lost, Lionare",The Tower of Aces the Accursed,-3.34,Unknowable Mindsilver,189.00,174.90,174.90,33056.1000,33056.1000,63904.05252000,07/30/2017 @ 12:00:00 AM
-7974,"The Unspeakable, Terrorghoul",The Hunter and Rose,39.60,Falserainbow Lead,241.00,872.99,70.18,210390.5900,16913.3800,317316.34212000,07/30/2017 @ 12:00:00 AM
-17977,Cinderflame,The Bastion of the Vampire Duke,37.90,Poison Adamant,317.00,110.96,100.87,35174.3200,31975.7900,92600.00169000,07/30/2017 @ 12:00:00 AM
-4270,"The Cadaverous, Chainblade",Bergfison's Deep,16.00,Litches' Fatal Mithril Of The Past,244.00,3822.00,13.00,932568.0000,3172.0000,1085458.40000000,07/30/2017 @ 12:00:00 AM
-37218,"Knightclaw, Sunset",The Greedy Wench,13.31,Ghouls' Imperial Soulzephyr Mithril Of The Seas,277.00,318.23,318.23,88149.7100,88149.7100,199764.87280200,07/30/2017 @ 12:00:00 AM
-37223,"Mystery, Lord",The Greedy Wench,13.31,Stone Soulsteel Of The Skies,174.00,453.31,453.31,78875.9400,78875.9400,178748.65522800,07/30/2017 @ 12:00:00 AM
-13372,"Tombreaper, Rouge",The Citadel of Alammius,27.00,Warlocks' Timerot Mithril,125.00,725.00,176.95,90625.0000,22118.7500,143184.56250000,07/30/2017 @ 12:00:00 AM
-24092,"The Trapper, Boltcrank",Bifar's Deep,12.21,Incubi's Glittering Tin Of The Future,184.00,192.96,212.26,35504.6400,39055.8400,83664.31460800,07/30/2017 @ 12:00:00 AM
+3874,"Claw, Mist",The Hunter and Rose,39.60,Ensorceled Sandmetal Of Spirits,156.00,70.40,64.00,10982.4000,9984.0000,29269.09440000,07/30/2007 @ 12:00:00 AM
+13900,Spikesnare,The Secret Catacombs of Ulfang the Black,28.82,Mind Lead,210.00,241.00,219.09,50610.0000,46008.9000,124464.46698000,07/30/2007 @ 12:00:00 AM
+1341,"Shadow, Tomblion",The Secret Shrine of the Gargoyle Count,19.77,Ghostly Magic Adamant,232.00,49.50,45.00,11484.0000,10440.0000,26258.37480000,07/30/2007 @ 12:00:00 AM
+35541,"Sunrise, Godwarlock",The Fortress of the Lich Queen,22.79,Vampires' Fang Emeraldsilver,209.00,2033.69,88.92,425041.2100,18584.2800,544727.73917100,07/30/2007 @ 12:00:00 AM
+33131,"Ariel, God of Luck",The Archer and Scroll,60.12,Fairies' Supreme Mistsmoke Lead Of The Future,330.00,499.73,549.70,164910.9000,181401.0000,554514.61428000,07/30/2007 @ 12:00:00 AM
+35736,"Eumyan, Goddess of Law",Citadel Ward,4.40,Yellow Mistearth Copper,355.00,287.98,261.80,102232.9000,92939.0000,203759.46360000,07/30/2007 @ 12:00:00 AM
+10649,"Jericho, Wolf",The Drunken Thief,18.41,Phantasmal Smokezephyr Mercury Of Men,56.00,211.20,192.00,11827.2000,10752.0000,26736.03072000,07/30/2007 @ 12:00:00 AM
+1956,Emberspawn,The Secret Shrine of the Gargoyle Count,19.77,Foul Ice Bronze Of Life,235.00,-378.00,242.00,-88830.0000,56870.0000,-38278.49200000,07/30/2007 @ 12:00:00 AM
+33482,"Sephiroth, Drakecaster",The Archer and Scroll,60.12,Fairies' Supreme Mistsmoke Lead Of The Future,180.00,499.73,549.70,89951.4000,98946.0000,302462.51688000,07/30/2007 @ 12:00:00 AM
+31588,"Maglioneth, Lord of the Sun",The Bastion of Gothmog of Udun,-2.66,Planar Mudtin Of Trolls,176.00,191.40,174.00,33686.4000,30624.0000,62599.74336000,07/30/2007 @ 12:00:00 AM
+8808,"Lionare, God of the Lost",The Tower of Aces the Accursed,-3.34,Unknowable Mindsilver,189.00,174.90,174.90,33056.1000,33056.1000,63904.05252000,07/30/2007 @ 12:00:00 AM
+7974,"Terrorghoul, The Unspeakable",The Hunter and Rose,39.60,Falserainbow Lead,241.00,872.99,70.18,210390.5900,16913.3800,317316.34212000,07/30/2007 @ 12:00:00 AM
+17977,Cinderflame,The Bastion of the Vampire Duke,37.90,Poison Adamant,317.00,110.96,100.87,35174.3200,31975.7900,92600.00169000,07/30/2007 @ 12:00:00 AM
+4270,"Chainblade, The Cadaverous",Bergfison's Deep,16.00,Litches' Fatal Mithril Of The Past,244.00,3822.00,13.00,932568.0000,3172.0000,1085458.40000000,07/30/2007 @ 12:00:00 AM
+37218,"Sunset, Knightclaw",The Greedy Wench,13.31,Ghouls' Imperial Soulzephyr Mithril Of The Seas,277.00,318.23,318.23,88149.7100,88149.7100,199764.87280200,07/30/2007 @ 12:00:00 AM
+37223,"Lord, Mystery",The Greedy Wench,13.31,Stone Soulsteel Of The Skies,174.00,453.31,453.31,78875.9400,78875.9400,178748.65522800,07/30/2007 @ 12:00:00 AM
+13372,"Rouge, Tombreaper",The Citadel of Alammius,27.00,Warlocks' Timerot Mithril,125.00,725.00,176.95,90625.0000,22118.7500,143184.56250000,07/30/2007 @ 12:00:00 AM
+24092,"Boltcrank, The Trapper",Bifar's Deep,12.21,Incubi's Glittering Tin Of The Future,184.00,192.96,212.26,35504.6400,39055.8400,83664.31460800,07/30/2007 @ 12:00:00 AM

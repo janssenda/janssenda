@@ -438,22 +438,20 @@ public class dataPrepHandler extends FileHandler {
     private String outputFormat(Order order) {
         Product p = order.getProduct();
         String name;
-        
-        if (!order.getLastName().equals("")){
+
+        if (!order.getLastName().equals("")) {
             name = "\"" + order.getLastName() + ", " + order.getFirstName() + "\"";
         } else {
-             name = order.getFirstName();
+            name = order.getFirstName();
         }
 
         return (order.getOrderNumber() + DELIMITER
                 //+ order.getDate().format(DateTimeFormatter.ofPattern(DATEFORMAT)) + DELIMITER
                 + name + DELIMITER
-               
                 + order.getState().getStateCode() + DELIMITER
                 + order.getState().getTaxrate().toString() + DELIMITER
                 + p.getProductName() + DELIMITER
-                + order.getArea().toString() + DELIMITER                
-                
+                + order.getArea().toString() + DELIMITER
                 + p.getCostpersqft().toString() + DELIMITER
                 + p.getLaborpersqft().toString() + DELIMITER
                 + order.getMaterialCost().toString() + DELIMITER
@@ -530,7 +528,7 @@ public class dataPrepHandler extends FileHandler {
 
         try {
             d = LocalDate.parse(fileNameTokens[1], DateTimeFormatter.ofPattern("MMddyyyy"));
-            drev = d.atStartOfDay();
+
             //drev = LocalDateTime.parse(fileNameTokens[1], DateTimeFormatter.ofPattern("MMddyyyy"));
         } catch (Exception e) {
             throw new FileSkipException("Error reading file: empty or corrupt ");
@@ -578,14 +576,13 @@ public class dataPrepHandler extends FileHandler {
                         if (nameSplit.length > 1) {
                             String name = "";
                             for (int i = 1; i < nameSplit.length; i++) {
-                                name = name + " " + nameSplit[i]; 
+                                name = name + " " + nameSplit[i];
                             }
                             currentOrder.setLastName(name);
                         } else {
                             currentOrder.setLastName("");
                         }
-                        
-                        
+
                     }
 
                     if (!isOrderNumber(currentTokens[0], orderNumberLength)) {
@@ -600,6 +597,7 @@ public class dataPrepHandler extends FileHandler {
 
                     currentOrder.setState(st);
                     currentOrder.setDate(d);
+                    drev = LocalDateTime.parse(currentTokens[11 + offset], DateTimeFormatter.ofPattern(REVDATEFORMAT));
 
                     currentOrder.setArea(new BigDecimal(currentTokens[5 + offset]));
                     currentOrder.setRevisionDate(drev);

@@ -1,17 +1,17 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-35033,Cinderflame,Barad Kesa,6.17,Sprites' Transcendent Mud Lead Of The South,156.00,3338.65,267.08,520829.4000,41664.4800,597199.75239600,08/16/2018 @ 12:00:00 AM
-24335,"Reaper, Dagger",The Bastion of Barbos,25.41,Foul Ice Bronze Of Life,299.00,292.82,266.20,87553.1800,79593.8000,209619.02761800,08/16/2018 @ 12:00:00 AM
-37760,"Roguemist, Rouge",The Greedy Wench,13.31,Ghouls' Imperial Soulzephyr Mithril Of The Seas,198.00,318.23,318.23,63009.5400,63009.5400,142792.21954800,08/16/2018 @ 12:00:00 AM
-23339,Springsprocket,The Secret Catacombs of Ulfang the Black,31.70,Forgotten Mithril,168.00,545.71,496.10,91679.2800,83344.8000,230506.71336000,08/16/2018 @ 12:00:00 AM
-24898,"Lord of Animals, Suriel",The Bastion of Barbos,25.41,Negative Rockglitter Mercury Of Trolls,211.00,235.59,214.17,49709.4900,45189.8700,119013.28737600,08/16/2018 @ 12:00:00 AM
-10482,"The Frigid, Icechill",Arcanist's Farthing,29.00,Fairies' Supreme Mistsmoke Lead Of The Future,136.00,2622.69,454.30,356685.8400,61784.8000,539827.12560000,08/16/2018 @ 12:00:00 AM
-19439,"The Grasping, Nettool",The Bastion of Barbos,25.41,Unspeakable Rotsoul Mithril Of Souls,224.00,370.26,336.60,82938.2400,75398.4000,198569.98022400,08/16/2018 @ 12:00:00 AM
-31426,"The Mechanical, Snarepiston",Gifeld Castle,33.01,Planar Mudtin Of Trolls,184.00,191.40,174.00,35217.6000,32016.0000,89427.41136000,08/16/2018 @ 12:00:00 AM
-185,"Jackalguard, Gale",The Beggar and Cask,25.10,Incubi's Mirrorfog Iron Of The Ocean,301.00,768.03,421.32,231177.0300,126817.3200,447850.93185000,08/16/2018 @ 12:00:00 AM
-29253,"Squallmourner, Storm",The Citadel of Alammius,32.67,Fleshshock Mercury,210.00,-31.02,-28.20,-6514.2000,-5922.0000,-16499.10654000,08/16/2018 @ 12:00:00 AM
-29301,"The Trapper, Boltcrank",Bifar's Deep,12.21,Fleshshock Mercury,81.00,-31.02,-28.20,-2512.6200,-2284.2000,-5382.51172200,08/16/2018 @ 12:00:00 AM
-703,"Jackalguard, Gale",The Fortress of Asmamur,-2.00,Falserainbow Lead,67.00,872.99,58.00,58490.3300,3886.0000,61128.80340000,08/16/2018 @ 12:00:00 AM
-15153,"Seraphheart, Storm",The Fortress of Akkun the Grim,27.03,Mind Lead,286.00,241.00,219.09,68926.0000,62659.7400,167153.36552200,08/16/2018 @ 12:00:00 AM
-16716,Spikesnare,Gena's Hold,5.85,Plague Tin,67.00,465.25,422.95,31171.7500,28337.6500,62990.69990000,08/16/2018 @ 12:00:00 AM
-6836,"The Grasping, Nailpiston",The Wizard's House,20.00,Glittering Orichalcum,236.00,2056.00,330.00,485216.0000,77880.0000,675715.20000000,08/16/2018 @ 12:00:00 AM
-16846,Bonescare,The Scoundrel and Flask,45.25,Plague Tin,197.00,465.25,422.95,91654.2500,83321.1500,254151.76850000,08/16/2018 @ 12:00:00 AM
+35033,Cinderflame,Barad Kesa,6.17,Sprites' Transcendent Mud Lead Of The South,156.00,3338.65,267.08,520829.4000,41664.4800,597199.75239600,08/16/1948 @ 12:00:00 AM
+24335,"Reaper, Dagger",The Bastion of Barbos,25.41,Foul Ice Bronze Of Life,299.00,292.82,266.20,87553.1800,79593.8000,209619.02761800,08/16/1948 @ 12:00:00 AM
+37760,"Roguemist, Rouge",The Greedy Wench,13.31,Ghouls' Imperial Soulzephyr Mithril Of The Seas,198.00,318.23,318.23,63009.5400,63009.5400,142792.21954800,08/16/1948 @ 12:00:00 AM
+23339,Springsprocket,The Secret Catacombs of Ulfang the Black,31.70,Forgotten Mithril,168.00,545.71,496.10,91679.2800,83344.8000,230506.71336000,08/16/1948 @ 12:00:00 AM
+24898,"Lord of Animals, Suriel",The Bastion of Barbos,25.41,Negative Rockglitter Mercury Of Trolls,211.00,235.59,214.17,49709.4900,45189.8700,119013.28737600,08/16/1978 @ 12:00:00 AM
+10482,"The Frigid, Icechill",Arcanist's Farthing,29.00,Fairies' Supreme Mistsmoke Lead Of The Future,136.00,2622.69,454.30,356685.8400,61784.8000,539827.12560000,08/16/1948 @ 12:00:00 AM
+19439,"The Grasping, Nettool",The Bastion of Barbos,25.41,Unspeakable Rotsoul Mithril Of Souls,224.00,370.26,336.60,82938.2400,75398.4000,198569.98022400,08/16/1948 @ 12:00:00 AM
+31426,"The Mechanical, Snarepiston",Gifeld Castle,33.01,Planar Mudtin Of Trolls,184.00,191.40,174.00,35217.6000,32016.0000,89427.41136000,08/16/1948 @ 12:00:00 AM
+185,"Jackalguard, Gale",The Beggar and Cask,25.10,Incubi's Mirrorfog Iron Of The Ocean,301.00,768.03,421.32,231177.0300,126817.3200,447850.93185000,08/16/1948 @ 12:00:00 AM
+29253,"Squallmourner, Storm",The Citadel of Alammius,32.67,Fleshshock Mercury,210.00,-31.02,-28.20,-6514.2000,-5922.0000,-16499.10654000,08/16/1948 @ 12:00:00 AM
+29301,"The Trapper, Boltcrank",Bifar's Deep,12.21,Fleshshock Mercury,81.00,-31.02,-28.20,-2512.6200,-2284.2000,-5382.51172200,08/16/1948 @ 12:00:00 AM
+703,"Jackalguard, Gale",The Fortress of Asmamur,-2.00,Falserainbow Lead,67.00,872.99,58.00,58490.3300,3886.0000,61128.80340000,08/16/1948 @ 12:00:00 AM
+15153,"Seraphheart, Storm",The Fortress of Akkun the Grim,27.03,Mind Lead,286.00,241.00,219.09,68926.0000,62659.7400,167153.36552200,08/16/1948 @ 12:00:00 AM
+16716,Spikesnare,Gena's Hold,5.85,Plague Tin,67.00,465.25,422.95,31171.7500,28337.6500,62990.69990000,08/16/1948 @ 12:00:00 AM
+6836,"The Grasping, Nailpiston",The Wizard's House,20.00,Glittering Orichalcum,236.00,2056.00,330.00,485216.0000,77880.0000,675715.20000000,08/16/1948 @ 12:00:00 AM
+16846,Bonescare,The Scoundrel and Flask,45.25,Plague Tin,197.00,465.25,422.95,91654.2500,83321.1500,254151.76850000,08/16/1948 @ 12:00:00 AM

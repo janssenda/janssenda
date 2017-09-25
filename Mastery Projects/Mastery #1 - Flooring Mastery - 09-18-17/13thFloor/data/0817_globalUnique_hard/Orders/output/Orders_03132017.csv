@@ -1,17 +1,17 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-11039,"The Cold, Burnfreeze",Mahyrst Keep,28.45,Shadow Metal,131.00,1606.00,298.00,210386.0000,39038.0000,320385.12800000,03/13/2017 @ 12:00:00 AM
-12456,"Rougehate, Rune",The Citadel of Tattena the Sinister,22.39,Zephyr Adamant,64.00,481.77,-44.14,30833.2800,-2824.9600,34279.38284800,03/13/2017 @ 12:00:00 AM
-25912,"Goddess of Thieves, Melcha",The Dungeon of Merciless Woe,3.97,Fleshshock Mercury,95.00,-31.02,-28.20,-2946.9000,-2679.0000,-5849.24823000,03/13/2017 @ 12:00:00 AM
-24578,"Godseeker, Cult",The Bastion of Barbos,25.41,Negative Rockglitter Mercury Of Trolls,321.00,235.59,214.17,75624.3900,68748.5700,181058.12913600,03/13/2017 @ 12:00:00 AM
-10059,Bronzespawn,Gifeld Castle,27.28,Undeads' Mind Orichalcum Of The Twilight,127.00,1169.00,301.40,148463.0000,38277.8000,237683.69024000,03/13/2017 @ 12:00:00 AM
-22350,Gravebone,The Nulukkhath Spires,28.99,Imperial Fate Steel,236.00,419.10,381.00,98907.6000,89916.0000,243563.56164000,03/13/2017 @ 12:00:00 AM
-9116,Spikesnare,The Tomb of Hellish Ruin,33.00,Planar Mudtin Of Trolls,186.00,191.40,174.00,35600.4000,32364.0000,90392.65200000,03/13/2017 @ 12:00:00 AM
-32199,Evilbrood,Hafeld Keep,47.59,Fairies' Supreme Mistsmoke Lead Of The Future,276.00,499.73,549.70,137925.4800,151717.2000,427483.63141200,03/13/2017 @ 12:00:00 AM
-8370,"God of Death, Avriel",Lamp Borough,0.00,Falserainbow Lead,163.00,872.99,70.18,142297.3700,11439.3400,153736.71000000,03/13/2017 @ 12:00:00 AM
-20762,"Goddess of Fate, Azah",Moor Village,11.32,Plague Tin,127.00,465.25,422.95,59086.7500,53714.6500,125570.51848000,03/13/2017 @ 12:00:00 AM
-9850,"Tomblion, Shadow",Grove Farthing,25.00,Emerald Orichalcum,309.00,1957.00,118.01,604713.0000,36465.0900,801472.61250000,03/13/2017 @ 12:00:00 AM
-20828,"Mistmidnight, Tiger",The Fen of the Necromancer,20.00,Fairies' Supreme Mistsmoke Lead Of The Future,48.00,499.73,499.73,23987.0400,23987.0400,57568.89600000,03/13/2017 @ 12:00:00 AM
-16199,"Lord of Death, Addon",The Pirate's Pipe,16.94,Vampires' Hammer Emeraldmetal,183.00,77.44,77.44,14171.5200,14171.5200,33144.35097600,03/13/2017 @ 12:00:00 AM
-4332,"Squallmourner, Storm",Kada's Deep,7.65,Muck Orichalcum Of Ogres,355.00,2080.00,97.93,738400.0000,34765.1500,832312.28397500,03/13/2017 @ 12:00:00 AM
-13153,"Goddess of Fate, Azah",The Hunter and Rose,39.60,Primordial Plague Mercury Of Legend,83.00,73.70,67.00,6117.1000,5561.0000,16302.62760000,03/13/2017 @ 12:00:00 AM
-25355,"Seeker, Fate",The Fortress of the Lich Queen,20.72,Mind Lead,219.00,241.00,219.09,52779.0000,47980.7100,121637.12191200,03/13/2017 @ 12:00:00 AM
+11039,"The Cold, Burnfreeze",Mahyrst Keep,28.45,Shadow Metal,131.00,1606.00,298.00,210386.0000,39038.0000,320385.12800000,03/13/1947 @ 12:00:00 AM
+12456,"Rougehate, Rune",The Citadel of Tattena the Sinister,22.39,Zephyr Adamant,64.00,481.77,-44.14,30833.2800,-2824.9600,34279.38284800,03/13/1947 @ 12:00:00 AM
+25912,"Goddess of Thieves, Melcha",The Dungeon of Merciless Woe,3.97,Fleshshock Mercury,95.00,-31.02,-28.20,-2946.9000,-2679.0000,-5849.24823000,03/13/1947 @ 12:00:00 AM
+24578,"Godseeker, Cult",The Bastion of Barbos,25.41,Negative Rockglitter Mercury Of Trolls,321.00,235.59,214.17,75624.3900,68748.5700,181058.12913600,03/13/1947 @ 12:00:00 AM
+10059,Bronzespawn,Gifeld Castle,27.28,Undeads' Mind Orichalcum Of The Twilight,127.00,1169.00,301.40,148463.0000,38277.8000,237683.69024000,03/13/1947 @ 12:00:00 AM
+22350,Gravebone,The Nulukkhath Spires,28.99,Imperial Fate Steel,236.00,419.10,381.00,98907.6000,89916.0000,243563.56164000,03/13/1947 @ 12:00:00 AM
+9116,Spikesnare,The Tomb of Hellish Ruin,33.00,Planar Mudtin Of Trolls,186.00,191.40,174.00,35600.4000,32364.0000,90392.65200000,03/13/1947 @ 12:00:00 AM
+32199,Evilbrood,Hafeld Keep,47.59,Fairies' Supreme Mistsmoke Lead Of The Future,276.00,499.73,549.70,137925.4800,151717.2000,427483.63141200,03/13/1947 @ 12:00:00 AM
+8370,"God of Death, Avriel",Lamp Borough,0.00,Falserainbow Lead,163.00,872.99,70.18,142297.3700,11439.3400,153736.71000000,03/13/1947 @ 12:00:00 AM
+20762,"Goddess of Fate, Azah",Moor Village,11.32,Plague Tin,127.00,465.25,422.95,59086.7500,53714.6500,125570.51848000,03/13/1947 @ 12:00:00 AM
+9850,"Tomblion, Shadow",Grove Farthing,25.00,Emerald Orichalcum,309.00,1957.00,118.01,604713.0000,36465.0900,801472.61250000,03/13/1947 @ 12:00:00 AM
+20828,"Mistmidnight, Tiger",The Fen of the Necromancer,20.00,Fairies' Supreme Mistsmoke Lead Of The Future,48.00,499.73,499.73,23987.0400,23987.0400,57568.89600000,03/13/1947 @ 12:00:00 AM
+16199,"Lord of Death, Addon",The Pirate's Pipe,16.94,Vampires' Hammer Emeraldmetal,183.00,77.44,77.44,14171.5200,14171.5200,33144.35097600,03/13/1947 @ 12:00:00 AM
+4332,"Squallmourner, Storm",Kada's Deep,7.65,Muck Orichalcum Of Ogres,355.00,2080.00,97.93,738400.0000,34765.1500,832312.28397500,03/13/1947 @ 12:00:00 AM
+13153,"Goddess of Fate, Azah",The Hunter and Rose,39.60,Primordial Plague Mercury Of Legend,83.00,73.70,67.00,6117.1000,5561.0000,16302.62760000,03/13/1947 @ 12:00:00 AM
+25355,"Seeker, Fate",The Fortress of the Lich Queen,20.72,Mind Lead,219.00,241.00,219.09,52779.0000,47980.7100,121637.12191200,03/13/1947 @ 12:00:00 AM

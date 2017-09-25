@@ -1,13 +1,13 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-2798,"The Evil, Burnchill",The Tomb of Gothmog of Udun,11.00,Warlocks' Timerot Mithril,241.00,725.00,176.95,174725.0000,42644.9500,241280.64450000,03/27/2018 @ 12:00:00 AM
-22162,"The Evil, Snowflame",The Tower of Sabiesu the Awesome,10.00,Fog Lavaplatinum Of Life,21.00,560.35,509.41,11767.3500,10697.6100,24711.45600000,03/27/2018 @ 12:00:00 AM
-10503,"Wolf, Jericho",Grori's Deep,27.50,Dragons' Poison Glitterflesh Steel Of The North,162.00,742.00,75.00,120204.0000,12150.0000,168751.35000000,03/27/2018 @ 12:00:00 AM
-10560,"The Cremator, Blazeflare",Grori's Deep,27.50,Dragons' Poison Glitterflesh Steel Of The North,220.00,742.00,75.00,163240.0000,16500.0000,229168.50000000,03/27/2018 @ 12:00:00 AM
-10614,"God of Fate, Sielach",Archfane District,15.29,Phantasmal Smokezephyr Mercury Of Men,137.00,211.20,192.00,28934.4000,26304.0000,63684.35136000,03/27/2018 @ 12:00:00 AM
-21608,"Mystery, Lord",Grori's Deep,30.25,Witchs' Forbidden Rockrainbow Bronze,176.00,245.63,245.63,43230.8800,43230.8800,112616.44240000,03/27/2018 @ 12:00:00 AM
-8632,Emberfire,The Bastion of Sthasu the Gruesome,40.00,Zephyr Adamant,60.00,481.77,-44.14,28906.2000,-2648.4000,36760.92000000,03/27/2018 @ 12:00:00 AM
-15085,"Roguemist, Rouge",Dysley Stronghold,35.51,Lycanthropes' Gold,220.00,371.80,338.00,81796.0000,74360.0000,211606.99560000,03/27/2018 @ 12:00:00 AM
-5025,"Goddess of Knowledge, Baltha",Archring Borough,27.00,Primordial False Gold,310.00,1383.00,391.27,428730.0000,121293.7000,698530.09900000,03/27/2018 @ 12:00:00 AM
-14398,Evilbrood,The Secret Catacombs of Ulfang the Black,28.82,Mind Lead,105.00,241.00,219.09,25305.0000,23004.4500,62232.23349000,03/27/2018 @ 12:00:00 AM
-37262,"The Grasping, Beamsprocket",The Greedy Wench,13.31,Ghouls' Imperial Soulzephyr Mithril Of The Seas,147.00,318.23,318.23,46779.8100,46779.8100,106012.40542200,03/27/2018 @ 12:00:00 AM
-37398,"The Disinterred, Spikebrood",The Greedy Wench,13.31,Stone Soulsteel Of The Skies,211.00,453.31,453.31,95648.4100,95648.4100,216758.42674200,03/27/2018 @ 12:00:00 AM
+2798,"The Evil, Burnchill",The Tomb of Gothmog of Udun,11.00,Warlocks' Timerot Mithril,241.00,725.00,176.95,174725.0000,42644.9500,241280.64450000,03/27/1948 @ 12:00:00 AM
+22162,"The Evil, Snowflame",The Tower of Sabiesu the Awesome,10.00,Fog Lavaplatinum Of Life,21.00,560.35,509.41,11767.3500,10697.6100,24711.45600000,03/27/1978 @ 12:00:00 AM
+10503,"Wolf, Jericho",Grori's Deep,27.50,Dragons' Poison Glitterflesh Steel Of The North,162.00,742.00,75.00,120204.0000,12150.0000,168751.35000000,03/27/1948 @ 12:00:00 AM
+10560,"The Cremator, Blazeflare",Grori's Deep,27.50,Dragons' Poison Glitterflesh Steel Of The North,220.00,742.00,75.00,163240.0000,16500.0000,229168.50000000,03/27/1948 @ 12:00:00 AM
+10614,"God of Fate, Sielach",Archfane District,15.29,Phantasmal Smokezephyr Mercury Of Men,137.00,211.20,192.00,28934.4000,26304.0000,63684.35136000,03/27/1948 @ 12:00:00 AM
+21608,"Mystery, Lord",Grori's Deep,30.25,Witchs' Forbidden Rockrainbow Bronze,176.00,245.63,245.63,43230.8800,43230.8800,112616.44240000,03/27/1948 @ 12:00:00 AM
+8632,Emberfire,The Bastion of Sthasu the Gruesome,40.00,Zephyr Adamant,60.00,481.77,-44.14,28906.2000,-2648.4000,36760.92000000,03/27/1948 @ 12:00:00 AM
+15085,"Roguemist, Rouge",Dysley Stronghold,35.51,Lycanthropes' Gold,220.00,371.80,338.00,81796.0000,74360.0000,211606.99560000,03/27/1948 @ 12:00:00 AM
+5025,"Goddess of Knowledge, Baltha",Archring Borough,27.00,Primordial False Gold,310.00,1383.00,391.27,428730.0000,121293.7000,698530.09900000,03/27/1948 @ 12:00:00 AM
+14398,Evilbrood,The Secret Catacombs of Ulfang the Black,28.82,Mind Lead,105.00,241.00,219.09,25305.0000,23004.4500,62232.23349000,03/27/1948 @ 12:00:00 AM
+37262,"The Grasping, Beamsprocket",The Greedy Wench,13.31,Ghouls' Imperial Soulzephyr Mithril Of The Seas,147.00,318.23,318.23,46779.8100,46779.8100,106012.40542200,03/27/1948 @ 12:00:00 AM
+37398,"The Disinterred, Spikebrood",The Greedy Wench,13.31,Stone Soulsteel Of The Skies,211.00,453.31,453.31,95648.4100,95648.4100,216758.42674200,03/27/1978 @ 12:00:00 AM

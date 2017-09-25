@@ -1,21 +1,21 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-36507,"The Constructed, Snaretool",The Fen of the Necromancer,32.21,Phantasmal Tin Of The Swamps,232.00,405.96,369.05,94182.7200,85619.6000,237716.64727200,04/30/2018 @ 12:00:00 AM
-36416,Springcoil,The Fen of the Necromancer,32.21,Vampires' Hammer Emeraldmetal,204.00,93.70,85.18,19114.8000,17376.7200,48245.43859200,04/30/2018 @ 12:00:00 AM
-12661,"Amberslayer, Flora",The Tomb of Hellish Ruin,33.00,Incubi's Iron Of The Dawn,57.00,174.99,174.99,9974.4300,9974.4300,26531.98380000,04/30/2018 @ 12:00:00 AM
-21132,"The Terrifying, Deathspike",The Fen of the Necromancer,20.00,Poison Adamant,244.00,110.96,100.87,27074.2400,24612.2800,62023.82400000,04/30/2018 @ 12:00:00 AM
-22433,Wheelspawn,The Tomb of Hellish Ruin,36.30,Primordial Mud Orichalcum,303.00,1113.00,20.57,337239.0000,6232.7100,468151.94073000,04/30/2018 @ 12:00:00 AM
-23931,"Rougehate, Rune",The Forsaken Sepulcher of Sorrows,31.36,Incubi's Glittering Tin Of The Future,25.00,192.96,212.26,4824.0000,5306.5000,13307.42480000,04/30/2018 @ 12:00:00 AM
-34680,"The Grasping, Beamsprocket",The Bastion of the Vampire Duke,45.86,Yellow Mistearth Copper,175.00,287.98,261.80,50396.5000,45815.0000,140334.09390000,04/30/2018 @ 12:00:00 AM
-1935,"The Constructed, Snaretool",The Broken Arrow,16.00,Ghostly Magic Adamant,126.00,49.50,45.00,6237.0000,5670.0000,13812.12000000,04/30/2018 @ 12:00:00 AM
-18119,"Goddess of Knowledge, Baltha",The Tower of Sabiesu the Awesome,10.00,Meteoric Mirrormuck Orichalcum Of The Forests,200.00,491.62,405.35,98324.0000,81070.0000,197333.40000000,04/30/2018 @ 12:00:00 AM
-31181,"Jester, Seraph",The Bastion of Gothmog of Udun,-2.66,Fairies' Supreme Mistsmoke Lead Of The Future,115.00,499.73,549.70,57468.9500,63215.5000,117474.24363000,04/30/2018 @ 12:00:00 AM
-9691,Cinderember,The Fortress of the Lich Queen,17.13,Angels' Adamant,275.00,51.48,46.80,14157.0000,12870.0000,31656.72510000,04/30/2018 @ 12:00:00 AM
-8544,Chainhorror,The Drunken Thief,18.41,Falserainbow Lead,271.00,872.99,70.18,236580.2900,19018.7800,302654.85878700,04/30/2018 @ 12:00:00 AM
-5264,"Tsunami, Seraphim",Gena's Hold,4.00,Unspeakable Rotsoul Mithril Of Souls,315.00,2076.95,306.00,654239.2500,96390.0000,780654.42000000,04/30/2018 @ 12:00:00 AM
-7979,"Felldrake, Magus",The Bastion of Sthasu the Gruesome,40.00,Unicorns' Fatal Magma Metal Of The Ocean,110.00,903.00,23.00,99330.0000,2530.0000,142604.00000000,04/30/2018 @ 12:00:00 AM
-25061,"Rougehate, Rune",Eved Castle,30.80,Ensorceled Sandmetal Of Spirits,200.00,85.18,77.44,17036.0000,15488.0000,42541.39200000,04/30/2018 @ 12:00:00 AM
-13154,"God of the Lost, Lionare",Gili's Delve,35.89,Poison Adamant,283.00,110.96,100.87,31401.6800,28546.2100,81463.18772100,04/30/2018 @ 12:00:00 AM
-13258,Gravebone,The Hunter and Rose,39.60,Starsmoke Bronze Of Life,264.00,-438.00,420.81,-115632.0000,111093.8400,-6335.27136000,04/30/2018 @ 12:00:00 AM
-14566,"Godseeker, Cult",Gili's Delve,35.89,Sphinxes' Unknown Poisongold Of The Future,180.00,3971.47,14.30,714864.6000,2574.0000,974927.31354000,04/30/2018 @ 12:00:00 AM
-37263,"Seraphheart, Storm",The Greedy Wench,13.31,Stone Soulsteel Of The Skies,105.00,453.31,453.31,47597.5500,47597.5500,107865.56781000,04/30/2018 @ 12:00:00 AM
-24276,"The Evil, Burnchill",Eved Castle,30.80,Foul Ice Bronze Of Life,104.00,292.82,266.20,30453.2800,27684.8000,76044.60864000,04/30/2018 @ 12:00:00 AM
+36507,"Snaretool, The Constructed",The Fen of the Necromancer,32.21,Phantasmal Tin Of The Swamps,232.00,405.96,369.05,94182.7200,85619.6000,237716.64727200,04/30/2008 @ 12:00:00 AM
+36416,Springcoil,The Fen of the Necromancer,32.21,Vampires' Hammer Emeraldmetal,204.00,93.70,85.18,19114.8000,17376.7200,48245.43859200,04/30/2008 @ 12:00:00 AM
+12661,"Flora, Amberslayer",The Tomb of Hellish Ruin,33.00,Incubi's Iron Of The Dawn,57.00,174.99,174.99,9974.4300,9974.4300,26531.98380000,04/30/2008 @ 12:00:00 AM
+21132,"Deathspike, The Terrifying",The Fen of the Necromancer,20.00,Poison Adamant,244.00,110.96,100.87,27074.2400,24612.2800,62023.82400000,04/30/2008 @ 12:00:00 AM
+22433,Wheelspawn,The Tomb of Hellish Ruin,36.30,Primordial Mud Orichalcum,303.00,1113.00,20.57,337239.0000,6232.7100,468151.94073000,04/30/2008 @ 12:00:00 AM
+23931,"Rune, Rougehate",The Forsaken Sepulcher of Sorrows,31.36,Incubi's Glittering Tin Of The Future,25.00,192.96,212.26,4824.0000,5306.5000,13307.42480000,04/30/2008 @ 12:00:00 AM
+34680,"Beamsprocket, The Grasping",The Bastion of the Vampire Duke,45.86,Yellow Mistearth Copper,175.00,287.98,261.80,50396.5000,45815.0000,140334.09390000,04/30/2008 @ 12:00:00 AM
+1935,"Snaretool, The Constructed",The Broken Arrow,16.00,Ghostly Magic Adamant,126.00,49.50,45.00,6237.0000,5670.0000,13812.12000000,04/30/2008 @ 12:00:00 AM
+18119,"Baltha, Goddess of Knowledge",The Tower of Sabiesu the Awesome,10.00,Meteoric Mirrormuck Orichalcum Of The Forests,200.00,491.62,405.35,98324.0000,81070.0000,197333.40000000,04/30/2008 @ 12:00:00 AM
+31181,"Seraph, Jester",The Bastion of Gothmog of Udun,-2.66,Fairies' Supreme Mistsmoke Lead Of The Future,115.00,499.73,549.70,57468.9500,63215.5000,117474.24363000,04/30/2008 @ 12:00:00 AM
+9691,Cinderember,The Fortress of the Lich Queen,17.13,Angels' Adamant,275.00,51.48,46.80,14157.0000,12870.0000,31656.72510000,04/30/2008 @ 12:00:00 AM
+8544,Chainhorror,The Drunken Thief,18.41,Falserainbow Lead,271.00,872.99,70.18,236580.2900,19018.7800,302654.85878700,04/30/2008 @ 12:00:00 AM
+5264,"Seraphim, Tsunami",Gena's Hold,4.00,Unspeakable Rotsoul Mithril Of Souls,315.00,2076.95,306.00,654239.2500,96390.0000,780654.42000000,04/30/2008 @ 12:00:00 AM
+7979,"Magus, Felldrake",The Bastion of Sthasu the Gruesome,40.00,Unicorns' Fatal Magma Metal Of The Ocean,110.00,903.00,23.00,99330.0000,2530.0000,142604.00000000,04/30/2008 @ 12:00:00 AM
+25061,"Rune, Rougehate",Eved Castle,30.80,Ensorceled Sandmetal Of Spirits,200.00,85.18,77.44,17036.0000,15488.0000,42541.39200000,04/30/2008 @ 12:00:00 AM
+13154,"Lionare, God of the Lost",Gili's Delve,35.89,Poison Adamant,283.00,110.96,100.87,31401.6800,28546.2100,81463.18772100,04/30/2008 @ 12:00:00 AM
+13258,Gravebone,The Hunter and Rose,39.60,Starsmoke Bronze Of Life,264.00,-438.00,420.81,-115632.0000,111093.8400,-6335.27136000,04/30/2008 @ 12:00:00 AM
+14566,"Cult, Godseeker",Gili's Delve,35.89,Sphinxes' Unknown Poisongold Of The Future,180.00,3971.47,14.30,714864.6000,2574.0000,974927.31354000,04/30/2008 @ 12:00:00 AM
+37263,"Storm, Seraphheart",The Greedy Wench,13.31,Stone Soulsteel Of The Skies,105.00,453.31,453.31,47597.5500,47597.5500,107865.56781000,04/30/2008 @ 12:00:00 AM
+24276,"Burnchill, The Evil",Eved Castle,30.80,Foul Ice Bronze Of Life,104.00,292.82,266.20,30453.2800,27684.8000,76044.60864000,04/30/2008 @ 12:00:00 AM

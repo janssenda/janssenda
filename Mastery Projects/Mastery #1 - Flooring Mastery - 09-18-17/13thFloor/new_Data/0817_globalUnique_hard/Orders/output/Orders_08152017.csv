@@ -1,21 +1,21 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-11111,Cinderember,North Arcanist's Farthing,2.50,Violetdream Iron,162.00,414.98,377.25,67226.7600,61114.5000,131549.79150000,08/15/2017 @ 12:00:00 AM
-25670,"Goddess of Fate, Azah",The Fortress of the Lich Queen,20.72,Mithril Of The Tropics,198.00,276.72,276.72,54790.5600,54790.5600,132286.32806400,08/15/2017 @ 12:00:00 AM
-24502,Bolttrap,The Bastion of Barbos,25.41,Negative Rockglitter Mercury Of Trolls,201.00,235.59,214.17,47353.5900,43048.1700,113372.84721600,08/15/2017 @ 12:00:00 AM
+11111,Cinderember,North Arcanist's Farthing,2.50,Violetdream Iron,162.00,414.98,377.25,67226.7600,61114.5000,131549.79150000,08/15/2007 @ 12:00:00 AM
+25670,"Azah, Goddess of Fate",The Fortress of the Lich Queen,20.72,Mithril Of The Tropics,198.00,276.72,276.72,54790.5600,54790.5600,132286.32806400,08/15/2007 @ 12:00:00 AM
+24502,Bolttrap,The Bastion of Barbos,25.41,Negative Rockglitter Mercury Of Trolls,201.00,235.59,214.17,47353.5900,43048.1700,113372.84721600,08/15/2007 @ 12:00:00 AM
 13987,Cinderflame,The Archer and Scroll,49.68,Imperial Fate Steel,334.00,419.10,381.00,139979.4000,127254.0000,399994.95312000,08/15/2017 @ 12:00:00 AM
-23422,"Tsunami, Seraphim",Weke Tower,47.19,Tritons' Time Stoneiron Of Legend,145.00,341.59,341.59,49530.5500,49530.5500,145808.03309000,08/15/2017 @ 12:00:00 AM
-36861,Cinderember,The Fen of the Necromancer,32.21,Heavenly Dreamsilver Of The Night,222.00,719.00,346.06,159618.0000,76825.3200,312601.71337200,08/15/2017 @ 12:00:00 AM
-22183,Metalbrood,The Tower of Sabiesu the Awesome,10.00,Warlocks' Timerot Mithril,237.00,194.65,176.95,46132.0500,41937.1500,96876.12000000,08/15/2017 @ 12:00:00 AM
-11833,"The Skeletal, Spiketerror",Gifeld Castle,27.28,Incubi's Iron Of The Dawn,101.00,174.99,159.08,17673.9900,16067.0800,42945.63389600,08/15/2017 @ 12:00:00 AM
-11959,"Drakecaster, Sephiroth",Reyny Keep,-3.35,Fog Lavaplatinum Of Life,276.00,2232.00,509.41,616032.0000,140597.1600,731282.08314000,08/15/2017 @ 12:00:00 AM
-33261,"Tombreaper, Rouge",Pewold Keep,29.00,Fairies' Supreme Mistsmoke Lead Of The Future,253.00,499.73,549.70,126431.6900,139074.1000,342502.46910000,08/15/2017 @ 12:00:00 AM
-33530,"Runetomb, Song",Pewold Keep,29.00,Undeads' Mind Orichalcum Of The Twilight,235.00,1169.00,364.69,274715.0000,85702.1500,464938.12350000,08/15/2017 @ 12:00:00 AM
-29225,"Lord of Animals, Suriel",The Nulukkhath Spires,28.99,Unknown Fatelightning Steel Of The Glacier,176.00,145.08,159.59,25534.0800,28087.8400,69166.91460800,08/15/2017 @ 12:00:00 AM
-261,Gravebone,The Bastion of the Lich Tyrant,4.87,Swordbronze,338.00,-377.00,303.00,-127426.0000,102414.0000,-26230.08440000,08/15/2017 @ 12:00:00 AM
-18502,"Goddess of Fate, Azah",The Dancing Minstrel,39.62,Meteoric Mirrormuck Orichalcum Of The Forests,195.00,491.62,405.35,95865.9000,79043.2500,244208.15523000,08/15/2017 @ 12:00:00 AM
-37181,"God of Protection, Finarfin",The Greedy Wench,13.31,Ghouls' Imperial Soulzephyr Mithril Of The Seas,269.00,318.23,318.23,85603.8700,85603.8700,193995.49019400,08/15/2017 @ 12:00:00 AM
-36010,"Brand, Lightning",Bifar's Deep,12.21,Ghouls' Imperial Soulzephyr Mithril Of The Seas,254.00,318.23,318.23,80830.4200,80830.4200,181399.62856400,08/15/2017 @ 12:00:00 AM
-26824,"Mistmidnight, Tiger",Reheath Stronghold,39.60,Heavenly Dreamsilver Of The Night,323.00,719.00,314.60,232237.0000,101615.8000,466058.50880000,08/15/2017 @ 12:00:00 AM
-2233,"Dire, Wind",Pewold Keep,29.00,Falserainbow Lead,135.00,872.99,63.80,117853.6500,8613.0000,163141.97850000,08/15/2017 @ 12:00:00 AM
-13642,"Knightseraph, Lance",Khali's Delve,1.18,Primordial Plague Mercury Of Legend,53.00,73.70,67.00,3906.1000,3551.0000,7545.09378000,08/15/2017 @ 12:00:00 AM
-26867,"Knightseraph, Lance",The Chuallanto Jungle,11.00,Muck Orichalcum Of Ogres,267.00,143.37,130.34,38279.7900,34800.7800,81119.43270000,08/15/2017 @ 12:00:00 AM
+23422,"Seraphim, Tsunami",Weke Tower,47.19,Tritons' Time Stoneiron Of Legend,145.00,341.59,341.59,49530.5500,49530.5500,145808.03309000,08/15/2007 @ 12:00:00 AM
+36861,Cinderember,The Fen of the Necromancer,32.21,Heavenly Dreamsilver Of The Night,222.00,719.00,346.06,159618.0000,76825.3200,312601.71337200,08/15/2007 @ 12:00:00 AM
+22183,Metalbrood,The Tower of Sabiesu the Awesome,10.00,Warlocks' Timerot Mithril,237.00,194.65,176.95,46132.0500,41937.1500,96876.12000000,08/15/2007 @ 12:00:00 AM
+11833,"Spiketerror, The Skeletal",Gifeld Castle,27.28,Incubi's Iron Of The Dawn,101.00,174.99,159.08,17673.9900,16067.0800,42945.63389600,08/15/2007 @ 12:00:00 AM
+11959,"Sephiroth, Drakecaster",Reyny Keep,-3.35,Fog Lavaplatinum Of Life,276.00,2232.00,509.41,616032.0000,140597.1600,731282.08314000,08/15/2007 @ 12:00:00 AM
+33261,"Rouge, Tombreaper",Pewold Keep,29.00,Fairies' Supreme Mistsmoke Lead Of The Future,253.00,499.73,549.70,126431.6900,139074.1000,342502.46910000,08/15/2007 @ 12:00:00 AM
+33530,"Song, Runetomb",Pewold Keep,29.00,Undeads' Mind Orichalcum Of The Twilight,235.00,1169.00,364.69,274715.0000,85702.1500,464938.12350000,08/15/2007 @ 12:00:00 AM
+29225,"Suriel, Lord of Animals",The Nulukkhath Spires,28.99,Unknown Fatelightning Steel Of The Glacier,176.00,145.08,159.59,25534.0800,28087.8400,69166.91460800,08/15/2007 @ 12:00:00 AM
+261,Gravebone,The Bastion of the Lich Tyrant,4.87,Swordbronze,338.00,-377.00,303.00,-127426.0000,102414.0000,-26230.08440000,08/15/2007 @ 12:00:00 AM
+18502,"Azah, Goddess of Fate",The Dancing Minstrel,39.62,Meteoric Mirrormuck Orichalcum Of The Forests,195.00,491.62,405.35,95865.9000,79043.2500,244208.15523000,08/15/2007 @ 12:00:00 AM
+37181,"Finarfin, God of Protection",The Greedy Wench,13.31,Ghouls' Imperial Soulzephyr Mithril Of The Seas,269.00,318.23,318.23,85603.8700,85603.8700,193995.49019400,08/15/2007 @ 12:00:00 AM
+36010,"Lightning, Brand",Bifar's Deep,12.21,Ghouls' Imperial Soulzephyr Mithril Of The Seas,254.00,318.23,318.23,80830.4200,80830.4200,181399.62856400,08/15/2017 @ 12:00:00 AM
+26824,"Tiger, Mistmidnight",Reheath Stronghold,39.60,Heavenly Dreamsilver Of The Night,323.00,719.00,314.60,232237.0000,101615.8000,466058.50880000,08/15/2007 @ 12:00:00 AM
+2233,"Wind, Dire",Pewold Keep,29.00,Falserainbow Lead,135.00,872.99,63.80,117853.6500,8613.0000,163141.97850000,08/15/2007 @ 12:00:00 AM
+13642,"Lance, Knightseraph",Khali's Delve,1.18,Primordial Plague Mercury Of Legend,53.00,73.70,67.00,3906.1000,3551.0000,7545.09378000,08/15/2007 @ 12:00:00 AM
+26867,"Lance, Knightseraph",The Chuallanto Jungle,11.00,Muck Orichalcum Of Ogres,267.00,143.37,130.34,38279.7900,34800.7800,81119.43270000,08/15/2017 @ 12:00:00 AM

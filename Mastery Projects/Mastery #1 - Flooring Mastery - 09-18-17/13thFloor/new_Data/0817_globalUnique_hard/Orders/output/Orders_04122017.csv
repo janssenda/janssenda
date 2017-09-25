@@ -1,20 +1,20 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-25718,"Goddess of the Earth, Gono",The Fortress of Akkun the Grim,27.03,Primordial Mud Orichalcum,149.00,1113.00,20.57,165837.0000,3064.9300,214556.12167900,04/12/2017 @ 12:00:00 AM
-36686,"God of Death, Selik",The Fen of the Necromancer,32.21,Grayplatinum,170.00,2548.00,115.43,433160.0000,19623.1000,598624.53651000,04/12/2017 @ 12:00:00 AM
-10269,"Godwarlock, Sunrise",Gena's Hold,4.84,Dragons' Poison Glitterflesh Steel Of The North,49.00,742.00,75.00,36358.0000,3675.0000,41970.59720000,04/12/2017 @ 12:00:00 AM
-24868,"The Cremator, Blazeflare",Eved Castle,30.80,Ensorceled Sandmetal Of Spirits,211.00,85.18,77.44,17972.9800,16339.8400,44881.16856000,04/12/2017 @ 12:00:00 AM
-11646,"Godseeker, Cult",North Arcanist's Farthing,2.50,Swordbronze,245.00,333.30,303.00,81658.5000,74235.0000,159790.83750000,04/12/2017 @ 12:00:00 AM
-35861,"The Evil, Snowflame",Citadel Ward,4.40,Lycanthropes' Gold,190.00,449.88,408.98,85477.2000,77706.2000,170363.46960000,04/12/2017 @ 12:00:00 AM
-34961,"The Grasping, Nailpiston",Barad Kesa,6.17,Ghouls' Imperial Soulzephyr Mithril Of The Seas,21.00,318.23,318.23,6682.8300,6682.8300,14190.32122200,04/12/2017 @ 12:00:00 AM
-18005,"Godwarlock, Sunrise",The Bastion of the Vampire Duke,37.90,Shadow Metal,137.00,1606.00,298.00,220022.0000,40826.0000,359709.39200000,04/12/2017 @ 12:00:00 AM
-7407,"The Frigid, Icechill",The Bastion of the Vampire Duke,34.45,Planar Rainfate Mithril,219.00,179.30,163.00,39266.7000,35697.0000,100788.69465000,04/12/2017 @ 12:00:00 AM
-30553,"Jackalguard, Gale",The Tower of Sabiesu the Awesome,10.00,Ensorceled Sandmetal Of Spirits,19.00,85.18,77.44,1618.4200,1471.3600,3398.75800000,04/12/2017 @ 12:00:00 AM
-31869,"The Grasping, Beamsprocket",The Demon and Toad,-1.21,Pearl Mirrorice Steel Of Changelings,260.00,365.42,365.42,95009.2000,95009.2000,187719.17736000,04/12/2017 @ 12:00:00 AM
-31922,"Rougehate, Rune",The Demon and Toad,-1.21,Planar Mudtin Of Trolls,90.00,191.40,174.00,17226.0000,15660.0000,32488.07940000,04/12/2017 @ 12:00:00 AM
-6482,"Seeker, Fate",The Shadow Downs,34.00,Glittering Orichalcum,317.00,2056.00,330.00,651752.0000,104610.0000,1013525.08000000,04/12/2017 @ 12:00:00 AM
-30788,"Goddess of the Earth, Gono",Mahyrst Keep,31.30,Ensorceled Sandmetal Of Spirits,203.00,85.18,77.44,17291.5400,15720.3200,43344.57218000,04/12/2017 @ 12:00:00 AM
-811,Springcoil,Arcanist's Farthing,29.00,Starlight Pearldream Bronze,245.00,-494.37,67.00,-121120.6500,16415.0000,-135070.28850000,04/12/2017 @ 12:00:00 AM
-14025,Bronzespawn,The Archer and Scroll,49.68,Vampires' Hammer Emeraldmetal,255.00,77.44,70.40,19747.2000,17952.0000,56428.16256000,04/12/2017 @ 12:00:00 AM
-4450,"God of Death, Selik",Eved Castle,28.00,Violetdream Iron,312.00,2680.00,377.25,836160.0000,117702.0000,1220943.36000000,04/12/2017 @ 12:00:00 AM
-4773,"Gust, Shadow",Pawic Keep,31.90,Poison Adamant,89.00,-7.92,178.20,-704.8800,15859.8000,19989.33948000,04/12/2017 @ 12:00:00 AM
-14810,Bolttrap,The Secret Shrine of the Gargoyle Count,23.93,Fleshshock Mercury,308.00,-31.02,-28.20,-9554.1600,-8685.6000,-22604.53456800,04/12/2017 @ 12:00:00 AM
+25718,"Gono, Goddess of the Earth",The Fortress of Akkun the Grim,27.03,Primordial Mud Orichalcum,149.00,1113.00,20.57,165837.0000,3064.9300,214556.12167900,04/12/2007 @ 12:00:00 AM
+36686,"Selik, God of Death",The Fen of the Necromancer,32.21,Grayplatinum,170.00,2548.00,115.43,433160.0000,19623.1000,598624.53651000,04/12/2017 @ 12:00:00 AM
+10269,"Sunrise, Godwarlock",Gena's Hold,4.84,Dragons' Poison Glitterflesh Steel Of The North,49.00,742.00,75.00,36358.0000,3675.0000,41970.59720000,04/12/2007 @ 12:00:00 AM
+24868,"Blazeflare, The Cremator",Eved Castle,30.80,Ensorceled Sandmetal Of Spirits,211.00,85.18,77.44,17972.9800,16339.8400,44881.16856000,04/12/2007 @ 12:00:00 AM
+11646,"Cult, Godseeker",North Arcanist's Farthing,2.50,Swordbronze,245.00,333.30,303.00,81658.5000,74235.0000,159790.83750000,04/12/2007 @ 12:00:00 AM
+35861,"Snowflame, The Evil",Citadel Ward,4.40,Lycanthropes' Gold,190.00,449.88,408.98,85477.2000,77706.2000,170363.46960000,04/12/2007 @ 12:00:00 AM
+34961,"Nailpiston, The Grasping",Barad Kesa,6.17,Ghouls' Imperial Soulzephyr Mithril Of The Seas,21.00,318.23,318.23,6682.8300,6682.8300,14190.32122200,04/12/2007 @ 12:00:00 AM
+18005,"Sunrise, Godwarlock",The Bastion of the Vampire Duke,37.90,Shadow Metal,137.00,1606.00,298.00,220022.0000,40826.0000,359709.39200000,04/12/2007 @ 12:00:00 AM
+7407,"Icechill, The Frigid",The Bastion of the Vampire Duke,34.45,Planar Rainfate Mithril,219.00,179.30,163.00,39266.7000,35697.0000,100788.69465000,04/12/2007 @ 12:00:00 AM
+30553,"Gale, Jackalguard",The Tower of Sabiesu the Awesome,10.00,Ensorceled Sandmetal Of Spirits,19.00,85.18,77.44,1618.4200,1471.3600,3398.75800000,04/12/2007 @ 12:00:00 AM
+31869,"Beamsprocket, The Grasping",The Demon and Toad,-1.21,Pearl Mirrorice Steel Of Changelings,260.00,365.42,365.42,95009.2000,95009.2000,187719.17736000,04/12/2007 @ 12:00:00 AM
+31922,"Rune, Rougehate",The Demon and Toad,-1.21,Planar Mudtin Of Trolls,90.00,191.40,174.00,17226.0000,15660.0000,32488.07940000,04/12/2007 @ 12:00:00 AM
+6482,"Fate, Seeker",The Shadow Downs,34.00,Glittering Orichalcum,317.00,2056.00,330.00,651752.0000,104610.0000,1013525.08000000,04/12/2007 @ 12:00:00 AM
+30788,"Gono, Goddess of the Earth",Mahyrst Keep,31.30,Ensorceled Sandmetal Of Spirits,203.00,85.18,77.44,17291.5400,15720.3200,43344.57218000,04/12/2007 @ 12:00:00 AM
+811,Springcoil,Arcanist's Farthing,29.00,Starlight Pearldream Bronze,245.00,-494.37,67.00,-121120.6500,16415.0000,-135070.28850000,04/12/2007 @ 12:00:00 AM
+14025,Bronzespawn,The Archer and Scroll,49.68,Vampires' Hammer Emeraldmetal,255.00,77.44,70.40,19747.2000,17952.0000,56428.16256000,04/12/2007 @ 12:00:00 AM
+4450,"Selik, God of Death",Eved Castle,28.00,Violetdream Iron,312.00,2680.00,377.25,836160.0000,117702.0000,1220943.36000000,04/12/2007 @ 12:00:00 AM
+4773,"Shadow, Gust",Pawic Keep,31.90,Poison Adamant,89.00,-7.92,178.20,-704.8800,15859.8000,19989.33948000,04/12/2007 @ 12:00:00 AM
+14810,Bolttrap,The Secret Shrine of the Gargoyle Count,23.93,Fleshshock Mercury,308.00,-31.02,-28.20,-9554.1600,-8685.6000,-22604.53456800,04/12/2007 @ 12:00:00 AM

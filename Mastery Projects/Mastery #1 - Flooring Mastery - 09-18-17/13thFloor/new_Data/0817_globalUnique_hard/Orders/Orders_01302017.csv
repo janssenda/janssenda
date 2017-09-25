@@ -1,22 +1,22 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-13775,"The Skeletal, Spiketerror",Dysley Stronghold,35.51,Sapphire Mindlead,180.00,-44.77,-40.70,-8058.6000,-7326.0000,-20847.67146000,01/30/2017 @ 12:00:00 AM
-23074,"The Living Device, Mecharig",The Lewd King,45.98,Tritons' Time Stoneiron Of Legend,122.00,341.59,341.59,41673.9800,41673.9800,121671.35200800,01/30/2017 @ 12:00:00 AM
-1104,Beamtrap,The Bloody Wand,1.98,Ensorceled Sandmetal Of Spirits,293.00,4149.00,64.00,1215657.0000,18752.0000,1258850.29820000,01/30/2017 @ 12:00:00 AM
-23333,"Angelchild, Harmony",Moor Village,11.32,Fleshshock Mercury,195.00,-31.02,-28.20,-6048.9000,-5499.0000,-12855.12228000,01/30/2017 @ 12:00:00 AM
-2637,"The Chiller, Blazefreeze",Pewold Keep,29.00,Meteoric Mirrormuck Orichalcum Of The Forests,198.00,491.62,368.50,97340.7600,72963.0000,219691.85040000,01/30/2017 @ 12:00:00 AM
-34245,Flameshiver,Barad Cune,49.21,Unicorns' Fatal Magma Metal Of The Ocean,182.00,25.30,27.83,4604.6000,5065.0600,14428.09968600,01/30/2017 @ 12:00:00 AM
-22427,"Rougehate, Rune",The Tower of Sabiesu the Awesome,10.00,Violetdream Iron,188.00,502.13,456.48,94400.4400,85818.2400,198240.54800000,01/30/2017 @ 12:00:00 AM
-32402,"The Freezer, Burnbrood",Hafeld Keep,47.59,Yellow Mistearth Copper,161.00,287.98,261.80,46364.7800,42149.8000,130638.66862200,01/30/2017 @ 12:00:00 AM
-19599,"The Machine, Evilcoil",Mahyrst Keep,31.30,Grayplatinum,354.00,2548.00,104.94,901992.0000,37148.7600,1233091.81788000,01/30/2017 @ 12:00:00 AM
-19539,"The Disinterred, Spikebrood",Gifeld Castle,33.01,Trolls' Mist Poisonplatinum Of The Twilight,297.00,484.62,440.56,143932.1400,130846.3200,365482.82964600,01/30/2017 @ 12:00:00 AM
-32601,"The Unspeakable, Gravebone",The Fen of the Necromancer,29.28,Unspeakable Rotsoul Mithril Of Souls,331.00,370.26,336.60,122556.0600,111414.6000,302477.26924800,01/30/2017 @ 12:00:00 AM
-18537,"Goddess of the Earth, Gono",The Tower of Sabiesu the Awesome,10.00,Lycanthropes' Gold,95.00,371.80,338.00,35321.0000,32110.0000,74174.10000000,01/30/2017 @ 12:00:00 AM
-19928,"Seeker, Fate",The Lewd King,45.98,Shadow Metal,127.00,1606.00,298.00,203962.0000,37846.0000,352991.31840000,01/30/2017 @ 12:00:00 AM
-29487,"Felldrake, Magus",The Nulukkhath Spires,28.99,Stone Soulsteel Of The Skies,234.00,453.31,412.10,106074.5400,96431.4000,261212.41200600,01/30/2017 @ 12:00:00 AM
-28251,"The Evil, Snowflame",Barad Kesa,5.61,Vampires' Fang Emeraldsilver,130.00,2033.69,80.84,264379.7000,10509.2000,290310.16729000,01/30/2017 @ 12:00:00 AM
-31995,Spikespawn,Noble's Village,6.57,Fairies' Supreme Mistsmoke Lead Of The Future,233.00,499.73,549.70,116437.0900,128080.1000,260581.96938300,01/30/2017 @ 12:00:00 AM
-30714,Spikerivet,Mahyrst Keep,31.30,Witchs' Forbidden Rockrainbow Bronze,86.00,245.63,245.63,21124.1800,21124.1800,55472.09668000,01/30/2017 @ 12:00:00 AM
-26110,Wheelspawn,Moor Village,11.32,Fleshshock Mercury,295.00,-31.02,-28.20,-9150.9000,-8319.0000,-19447.49268000,01/30/2017 @ 12:00:00 AM
-4213,Chainhorror,The Pirate's Pipe,15.40,Primordial Plague Mercury Of Legend,295.00,1150.79,67.00,339483.0500,19765.0000,414572.24970000,01/30/2017 @ 12:00:00 AM
-3136,"Anchor, Rose",The Fortress of the Lich Queen,17.13,Zephyr Adamant,84.00,481.77,-40.13,40468.6800,-3370.9200,43452.60628800,01/30/2017 @ 12:00:00 AM
-2266,Bolttrap,Pewold Keep,29.00,Magic Adamant,340.00,-190.00,72.13,-64600.0000,24524.2000,-51697.78200000,01/30/2017 @ 12:00:00 AM
+13775,"Spiketerror, The Skeletal",Dysley Stronghold,35.51,Sapphire Mindlead,180.00,-44.77,-40.70,-8058.6000,-7326.0000,-20847.67146000,01/30/2007 @ 12:00:00 AM
+23074,"Mecharig, The Living Device",The Lewd King,45.98,Tritons' Time Stoneiron Of Legend,122.00,341.59,341.59,41673.9800,41673.9800,121671.35200800,01/30/2007 @ 12:00:00 AM
+1104,Beamtrap,The Bloody Wand,1.98,Ensorceled Sandmetal Of Spirits,293.00,4149.00,64.00,1215657.0000,18752.0000,1258850.29820000,01/30/2007 @ 12:00:00 AM
+23333,"Harmony, Angelchild",Moor Village,11.32,Fleshshock Mercury,195.00,-31.02,-28.20,-6048.9000,-5499.0000,-12855.12228000,01/30/2007 @ 12:00:00 AM
+2637,"Blazefreeze, The Chiller",Pewold Keep,29.00,Meteoric Mirrormuck Orichalcum Of The Forests,198.00,491.62,368.50,97340.7600,72963.0000,219691.85040000,01/30/2007 @ 12:00:00 AM
+34245,Flameshiver,Barad Cune,49.21,Unicorns' Fatal Magma Metal Of The Ocean,182.00,25.30,27.83,4604.6000,5065.0600,14428.09968600,01/30/2007 @ 12:00:00 AM
+22427,"Rune, Rougehate",The Tower of Sabiesu the Awesome,10.00,Violetdream Iron,188.00,502.13,456.48,94400.4400,85818.2400,198240.54800000,01/30/2017 @ 12:00:00 AM
+32402,"Burnbrood, The Freezer",Hafeld Keep,47.59,Yellow Mistearth Copper,161.00,287.98,261.80,46364.7800,42149.8000,130638.66862200,01/30/2007 @ 12:00:00 AM
+19599,"Evilcoil, The Machine",Mahyrst Keep,31.30,Grayplatinum,354.00,2548.00,104.94,901992.0000,37148.7600,1233091.81788000,01/30/2007 @ 12:00:00 AM
+19539,"Spikebrood, The Disinterred",Gifeld Castle,33.01,Trolls' Mist Poisonplatinum Of The Twilight,297.00,484.62,440.56,143932.1400,130846.3200,365482.82964600,01/30/2007 @ 12:00:00 AM
+32601,"Gravebone, The Unspeakable",The Fen of the Necromancer,29.28,Unspeakable Rotsoul Mithril Of Souls,331.00,370.26,336.60,122556.0600,111414.6000,302477.26924800,01/30/2007 @ 12:00:00 AM
+18537,"Gono, Goddess of the Earth",The Tower of Sabiesu the Awesome,10.00,Lycanthropes' Gold,95.00,371.80,338.00,35321.0000,32110.0000,74174.10000000,01/30/2007 @ 12:00:00 AM
+19928,"Fate, Seeker",The Lewd King,45.98,Shadow Metal,127.00,1606.00,298.00,203962.0000,37846.0000,352991.31840000,01/30/2007 @ 12:00:00 AM
+29487,"Magus, Felldrake",The Nulukkhath Spires,28.99,Stone Soulsteel Of The Skies,234.00,453.31,412.10,106074.5400,96431.4000,261212.41200600,01/30/2007 @ 12:00:00 AM
+28251,"Snowflame, The Evil",Barad Kesa,5.61,Vampires' Fang Emeraldsilver,130.00,2033.69,80.84,264379.7000,10509.2000,290310.16729000,01/30/2007 @ 12:00:00 AM
+31995,Spikespawn,Noble's Village,6.57,Fairies' Supreme Mistsmoke Lead Of The Future,233.00,499.73,549.70,116437.0900,128080.1000,260581.96938300,01/30/2007 @ 12:00:00 AM
+30714,Spikerivet,Mahyrst Keep,31.30,Witchs' Forbidden Rockrainbow Bronze,86.00,245.63,245.63,21124.1800,21124.1800,55472.09668000,01/30/2007 @ 12:00:00 AM
+26110,Wheelspawn,Moor Village,11.32,Fleshshock Mercury,295.00,-31.02,-28.20,-9150.9000,-8319.0000,-19447.49268000,01/30/2007 @ 12:00:00 AM
+4213,Chainhorror,The Pirate's Pipe,15.40,Primordial Plague Mercury Of Legend,295.00,1150.79,67.00,339483.0500,19765.0000,414572.24970000,01/30/2007 @ 12:00:00 AM
+3136,"Rose, Anchor",The Fortress of the Lich Queen,17.13,Zephyr Adamant,84.00,481.77,-40.13,40468.6800,-3370.9200,43452.60628800,01/30/2007 @ 12:00:00 AM
+2266,Bolttrap,Pewold Keep,29.00,Magic Adamant,340.00,-190.00,72.13,-64600.0000,24524.2000,-51697.78200000,01/30/2007 @ 12:00:00 AM

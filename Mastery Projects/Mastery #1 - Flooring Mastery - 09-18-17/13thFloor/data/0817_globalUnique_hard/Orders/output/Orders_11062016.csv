@@ -1,16 +1,16 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-11129,"God of Death, Selik",The Broken Shield,12.00,Imperial Fate Steel,247.00,419.10,381.00,103517.7000,94107.0000,221339.66400000,11/06/2016 @ 12:00:00 AM
-11126,"Goddess of Trickery, Alik",The Broken Shield,12.00,Zephyr Iron,201.00,282.77,257.06,56836.7700,51669.0600,121526.52960000,11/06/2016 @ 12:00:00 AM
-35217,"Amberslayer, Flora",The Fortress of the Lich Queen,22.79,Vampires' Fang Emeraldsilver,154.00,2033.69,88.92,313188.2600,13693.6800,401378.33412600,11/06/2016 @ 12:00:00 AM
-12580,"Goddess of Travel, Lenwenye",Gili's Delve,35.89,Incubi's Iron Of The Dawn,217.00,174.99,174.99,37972.8300,37972.8300,103202.55737400,11/06/2016 @ 12:00:00 AM
-22329,"Drakecaster, Sephiroth",The Nulukkhath Spires,28.99,Fleshshock Mercury,229.00,-31.02,-28.20,-7103.5800,-6457.8000,-17492.82406200,11/06/2016 @ 12:00:00 AM
-19071,"God of Death, Avriel",Weke Tower,47.19,Grayplatinum,120.00,2548.00,104.94,305760.0000,12592.8000,468583.48632000,11/06/2016 @ 12:00:00 AM
-29160,"Knightclaw, Sunset",The Nulukkhath Spires,28.99,Unknown Fatelightning Steel Of The Glacier,278.00,145.08,159.59,40332.2400,44366.0200,109252.28557400,11/06/2016 @ 12:00:00 AM
-28188,"Felldrake, Magus",Barad Cune,49.21,Vampires' Fang Emeraldsilver,233.00,2033.69,80.84,473849.7700,18835.7200,735136.01962900,11/06/2016 @ 12:00:00 AM
-27008,Flameshiver,Bifar's Deep,12.21,Swordbronze,212.00,403.29,366.63,85497.4800,77725.5600,183152.57318400,11/06/2016 @ 12:00:00 AM
-30708,Chainnail,The Broken Arrow,17.60,Foulopal Copper Of The Skies,143.00,221.83,221.83,31721.6900,31721.6900,74609.41488000,11/06/2016 @ 12:00:00 AM
-27345,"Tombreaper, Rouge",The Pirate's Pipe,16.94,Sprites' Transcendent Mud Lead Of The South,208.00,3338.65,267.08,694439.2000,55552.6400,877040.45769600,11/06/2016 @ 12:00:00 AM
-5675,Spikerivet,Reheath Stronghold,39.60,Tritons' Time Stoneiron Of Legend,254.00,2235.00,310.54,567690.0000,78877.1600,902607.75536000,11/06/2016 @ 12:00:00 AM
-4415,"The Grasping, Beamsprocket",The Tower of Sabiesu the Awesome,10.00,Litches' Fatal Mithril Of The Past,273.00,3822.00,13.00,1043406.0000,3549.0000,1151650.50000000,11/06/2016 @ 12:00:00 AM
-15875,Flameshiver,The Dungeon of Merciless Woe,3.61,Starsmoke Bronze Of Life,113.00,-438.00,420.81,-49494.0000,47551.5300,-2012.59316700,11/06/2016 @ 12:00:00 AM
-2048,"Lord of Nightmares, Iran",The Dungeon of Dismal Terror,40.27,Fog Lavaplatinum Of Life,263.00,2232.00,463.10,587016.0000,121795.3000,994249.61051000,11/06/2016 @ 12:00:00 AM
+11129,"God of Death, Selik",The Broken Shield,12.00,Imperial Fate Steel,247.00,419.10,381.00,103517.7000,94107.0000,221339.66400000,11/06/1946 @ 12:00:00 AM
+11126,"Goddess of Trickery, Alik",The Broken Shield,12.00,Zephyr Iron,201.00,282.77,257.06,56836.7700,51669.0600,121526.52960000,11/06/1946 @ 12:00:00 AM
+35217,"Amberslayer, Flora",The Fortress of the Lich Queen,22.79,Vampires' Fang Emeraldsilver,154.00,2033.69,88.92,313188.2600,13693.6800,401378.33412600,11/06/1946 @ 12:00:00 AM
+12580,"Goddess of Travel, Lenwenye",Gili's Delve,35.89,Incubi's Iron Of The Dawn,217.00,174.99,174.99,37972.8300,37972.8300,103202.55737400,11/06/1946 @ 12:00:00 AM
+22329,"Drakecaster, Sephiroth",The Nulukkhath Spires,28.99,Fleshshock Mercury,229.00,-31.02,-28.20,-7103.5800,-6457.8000,-17492.82406200,11/06/1946 @ 12:00:00 AM
+19071,"God of Death, Avriel",Weke Tower,47.19,Grayplatinum,120.00,2548.00,104.94,305760.0000,12592.8000,468583.48632000,11/06/1946 @ 12:00:00 AM
+29160,"Knightclaw, Sunset",The Nulukkhath Spires,28.99,Unknown Fatelightning Steel Of The Glacier,278.00,145.08,159.59,40332.2400,44366.0200,109252.28557400,11/06/1946 @ 12:00:00 AM
+28188,"Felldrake, Magus",Barad Cune,49.21,Vampires' Fang Emeraldsilver,233.00,2033.69,80.84,473849.7700,18835.7200,735136.01962900,11/06/1946 @ 12:00:00 AM
+27008,Flameshiver,Bifar's Deep,12.21,Swordbronze,212.00,403.29,366.63,85497.4800,77725.5600,183152.57318400,11/06/1946 @ 12:00:00 AM
+30708,Chainnail,The Broken Arrow,17.60,Foulopal Copper Of The Skies,143.00,221.83,221.83,31721.6900,31721.6900,74609.41488000,11/06/1946 @ 12:00:00 AM
+27345,"Tombreaper, Rouge",The Pirate's Pipe,16.94,Sprites' Transcendent Mud Lead Of The South,208.00,3338.65,267.08,694439.2000,55552.6400,877040.45769600,11/06/1946 @ 12:00:00 AM
+5675,Spikerivet,Reheath Stronghold,39.60,Tritons' Time Stoneiron Of Legend,254.00,2235.00,310.54,567690.0000,78877.1600,902607.75536000,11/06/1946 @ 12:00:00 AM
+4415,"The Grasping, Beamsprocket",The Tower of Sabiesu the Awesome,10.00,Litches' Fatal Mithril Of The Past,273.00,3822.00,13.00,1043406.0000,3549.0000,1151650.50000000,11/06/1946 @ 12:00:00 AM
+15875,Flameshiver,The Dungeon of Merciless Woe,3.61,Starsmoke Bronze Of Life,113.00,-438.00,420.81,-49494.0000,47551.5300,-2012.59316700,11/06/1946 @ 12:00:00 AM
+2048,"Lord of Nightmares, Iran",The Dungeon of Dismal Terror,40.27,Fog Lavaplatinum Of Life,263.00,2232.00,463.10,587016.0000,121795.3000,994249.61051000,11/06/1946 @ 12:00:00 AM

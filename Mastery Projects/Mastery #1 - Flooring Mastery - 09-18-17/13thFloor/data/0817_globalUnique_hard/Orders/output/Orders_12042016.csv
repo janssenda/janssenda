@@ -1,14 +1,14 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-37738,Emberspawn,The Greedy Wench,13.31,Stone Soulsteel Of The Skies,110.00,453.31,453.31,49864.1000,49864.1000,113002.02342000,12/04/2016 @ 12:00:00 AM
-12685,Emberspawn,The Tomb of Hellish Ruin,33.00,Dragons' Poison Glitterflesh Steel Of The North,293.00,742.00,82.50,217406.0000,24172.5000,321299.40500000,12/04/2016 @ 12:00:00 AM
-25964,"The Machine, Evilcoil",North Arcanist's Farthing,3.03,Fleshshock Mercury,282.00,-31.02,-28.20,-8747.6400,-7952.4000,-17206.05121200,12/04/2016 @ 12:00:00 AM
-12861,Gravebone,Bergfison's Deep,16.00,White Platinum,159.00,83.49,91.84,13274.9100,14602.5600,32337.86520000,12/04/2016 @ 12:00:00 AM
-11782,Spikerivet,Castle Village,42.98,Violetdream Iron,314.00,414.98,377.25,130303.7200,118456.5000,355677.36255600,12/04/2016 @ 12:00:00 AM
-32160,Graveterror,The Bastion of the Lich Tyrant,8.64,Unspeakable Rotsoul Mithril Of Souls,232.00,370.26,336.60,85900.3200,78091.2000,178160.38732800,12/04/2016 @ 12:00:00 AM
-7136,Spikesnare,The Citadel of Tattena the Sinister,22.39,Unicorns' Fatal Magma Metal Of The Ocean,226.00,903.00,23.00,204078.0000,5198.0000,256132.89640000,12/04/2016 @ 12:00:00 AM
-16035,Springcoil,The Fortress of Asmamur,-2.66,Sirens' Rockgold,202.00,306.13,306.13,61838.2600,61838.2600,120386.72456800,12/04/2016 @ 12:00:00 AM
-20910,Spikespawn,Gena's Hold,5.85,Vampires' Fang Emeraldsilver,142.00,2033.69,80.84,288783.9800,11479.2800,317828.66071000,12/04/2016 @ 12:00:00 AM
-7712,Springcoil,Archring Borough,29.70,Planar Mudtin Of Trolls,72.00,3529.02,174.00,254089.4400,12528.0000,345802.81968000,12/04/2016 @ 12:00:00 AM
-14259,"Godwarlock, Sunrise",Gena's Hold,5.85,Sphinxes' Unknown Poisongold Of The Future,219.00,3971.47,14.30,869751.9300,3131.7000,923947.32235500,12/04/2016 @ 12:00:00 AM
-14572,"God of Luck, Ariel",North Arcanist's Farthing,2.75,Mind Lead,202.00,241.00,219.09,48682.0000,44256.1800,95493.97995000,12/04/2016 @ 12:00:00 AM
-37390,"The Grasping, Nailpiston",The Greedy Wench,13.31,Stone Soulsteel Of The Skies,211.00,453.31,453.31,95648.4100,95648.4100,216758.42674200,12/04/2016 @ 12:00:00 AM
+37738,Emberspawn,The Greedy Wench,13.31,Stone Soulsteel Of The Skies,110.00,453.31,453.31,49864.1000,49864.1000,113002.02342000,12/04/1946 @ 12:00:00 AM
+12685,Emberspawn,The Tomb of Hellish Ruin,33.00,Dragons' Poison Glitterflesh Steel Of The North,293.00,742.00,82.50,217406.0000,24172.5000,321299.40500000,12/04/1946 @ 12:00:00 AM
+25964,"The Machine, Evilcoil",North Arcanist's Farthing,3.03,Fleshshock Mercury,282.00,-31.02,-28.20,-8747.6400,-7952.4000,-17206.05121200,12/04/1946 @ 12:00:00 AM
+12861,Gravebone,Bergfison's Deep,16.00,White Platinum,159.00,83.49,91.84,13274.9100,14602.5600,32337.86520000,12/04/1946 @ 12:00:00 AM
+11782,Spikerivet,Castle Village,42.98,Violetdream Iron,314.00,414.98,377.25,130303.7200,118456.5000,355677.36255600,12/04/1946 @ 12:00:00 AM
+32160,Graveterror,The Bastion of the Lich Tyrant,8.64,Unspeakable Rotsoul Mithril Of Souls,232.00,370.26,336.60,85900.3200,78091.2000,178160.38732800,12/04/1946 @ 12:00:00 AM
+7136,Spikesnare,The Citadel of Tattena the Sinister,22.39,Unicorns' Fatal Magma Metal Of The Ocean,226.00,903.00,23.00,204078.0000,5198.0000,256132.89640000,12/04/1946 @ 12:00:00 AM
+16035,Springcoil,The Fortress of Asmamur,-2.66,Sirens' Rockgold,202.00,306.13,306.13,61838.2600,61838.2600,120386.72456800,12/04/1946 @ 12:00:00 AM
+20910,Spikespawn,Gena's Hold,5.85,Vampires' Fang Emeraldsilver,142.00,2033.69,80.84,288783.9800,11479.2800,317828.66071000,12/04/1946 @ 12:00:00 AM
+7712,Springcoil,Archring Borough,29.70,Planar Mudtin Of Trolls,72.00,3529.02,174.00,254089.4400,12528.0000,345802.81968000,12/04/1946 @ 12:00:00 AM
+14259,"Godwarlock, Sunrise",Gena's Hold,5.85,Sphinxes' Unknown Poisongold Of The Future,219.00,3971.47,14.30,869751.9300,3131.7000,923947.32235500,12/04/1946 @ 12:00:00 AM
+14572,"God of Luck, Ariel",North Arcanist's Farthing,2.75,Mind Lead,202.00,241.00,219.09,48682.0000,44256.1800,95493.97995000,12/04/1946 @ 12:00:00 AM
+37390,"The Grasping, Nailpiston",The Greedy Wench,13.31,Stone Soulsteel Of The Skies,211.00,453.31,453.31,95648.4100,95648.4100,216758.42674200,12/04/1986 @ 12:00:00 AM

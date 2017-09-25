@@ -1,20 +1,20 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-25862,"Rougehate, Rune",The Dungeon of Merciless Woe,3.97,Grayplatinum,331.00,2548.00,104.94,843388.0000,34735.1400,912984.62865800,09/12/2017 @ 12:00:00 AM
-36446,Springcoil,The Fen of the Necromancer,32.21,Ensorceled Sandmetal Of Spirits,101.00,85.18,93.70,8603.1800,9463.7000,23886.22204800,09/12/2017 @ 12:00:00 AM
-2564,"Wolf, Jericho",Noble's Village,4.49,Magic Adamant,47.00,-190.00,72.13,-8930.0000,3390.1100,-5788.63106100,09/12/2017 @ 12:00:00 AM
-35209,"Bladewitch, Zeal",The Bastion of the Vampire Duke,45.86,Yellow Mistearth Copper,222.00,287.98,261.80,63931.5600,58119.6000,178023.82197600,09/12/2017 @ 12:00:00 AM
-34795,"Rougehate, Rune",The Bastion of the Vampire Duke,45.86,Sprites' Transcendent Mud Lead Of The South,152.00,3338.65,267.08,507474.8000,40596.1600,799416.30225600,09/12/2017 @ 12:00:00 AM
-9121,"The Evil, Snowflame",Reheath Stronghold,39.60,Unknowable Mindsilver,193.00,174.90,174.90,33755.7000,33755.7000,94245.91440000,09/12/2017 @ 12:00:00 AM
-22833,Spikecrank,Pewold Keep,29.00,Primordial Mud Orichalcum,216.00,1113.00,20.57,240408.0000,4443.1200,315857.94480000,09/12/2017 @ 12:00:00 AM
-33771,"Gust, Shadow",Barad Cune,49.21,Toxic Mistlead Of The Past,194.00,435.67,396.06,84519.9800,76835.6400,240758.72060200,09/12/2017 @ 12:00:00 AM
-21701,"Runetomb, Song",Moor Village,11.32,Starsmoke Bronze Of Life,232.00,-438.00,420.81,-101616.0000,97627.9200,-4439.53065600,09/12/2017 @ 12:00:00 AM
-21997,"Wolf, Jericho",The Tomb of Hellish Ruin,36.30,Violetdream Iron,258.00,502.13,456.48,129549.5400,117771.8400,337099.04094000,09/12/2017 @ 12:00:00 AM
-17279,"Tsunami, Seraphim",The Scoundrel and Flask,45.25,Golems' Stonesapphire Gold Of The Glacier,186.00,176.00,160.00,32736.0000,29760.0000,90775.44000000,09/12/2017 @ 12:00:00 AM
-28327,"Veil, Bane",Barad Kesa,5.61,Undeads' Mind Orichalcum Of The Twilight,216.00,1169.00,364.69,252504.0000,78773.0400,349861.68194400,09/12/2017 @ 12:00:00 AM
-17658,"Angelchild, Harmony",The Bastion of the Vampire Duke,37.90,Ghostly Soul Adamant,244.00,414.70,377.00,101186.8000,91988.0000,266388.04920000,09/12/2017 @ 12:00:00 AM
-28788,"Tombreaper, Rouge",The Chuallanto Jungle,11.00,Negative Rockglitter Mercury Of Trolls,258.00,235.59,214.17,60782.2200,55255.8600,128802.26880000,09/12/2017 @ 12:00:00 AM
-16937,"Lady of Fire, Nelalwe",Gena's Hold,5.85,Golems' Stonesapphire Gold Of The Glacier,91.00,176.00,160.00,16016.0000,14560.0000,32364.69600000,09/12/2017 @ 12:00:00 AM
-25032,"Tsunami, Seraphim",Bifar's Deep,12.21,Foul Ice Bronze Of Life,141.00,292.82,266.20,41287.6200,37534.2000,88445.96422200,09/12/2017 @ 12:00:00 AM
-4746,"The Freezer, Burnbrood",Eved Castle,28.00,Incubi's Glittering Tin Of The Future,154.00,4393.29,175.42,676566.6600,27014.6800,900584.11520000,09/12/2017 @ 12:00:00 AM
-2134,"Gust, Shadow",The Tower of Sabiesu the Awesome,10.00,Falserainbow Lead,169.00,872.99,63.80,147535.3100,10782.2000,174149.26100000,09/12/2017 @ 12:00:00 AM
-24267,"The Machine, Wheelbolt",Eved Castle,30.80,Negative Rockglitter Mercury Of Trolls,334.00,235.59,214.17,78687.0600,71532.7800,196487.55072000,09/12/2017 @ 12:00:00 AM
+25862,"Rune, Rougehate",The Dungeon of Merciless Woe,3.97,Grayplatinum,331.00,2548.00,104.94,843388.0000,34735.1400,912984.62865800,09/12/2007 @ 12:00:00 AM
+36446,Springcoil,The Fen of the Necromancer,32.21,Ensorceled Sandmetal Of Spirits,101.00,85.18,93.70,8603.1800,9463.7000,23886.22204800,09/12/2007 @ 12:00:00 AM
+2564,"Jericho, Wolf",Noble's Village,4.49,Magic Adamant,47.00,-190.00,72.13,-8930.0000,3390.1100,-5788.63106100,09/12/2007 @ 12:00:00 AM
+35209,"Zeal, Bladewitch",The Bastion of the Vampire Duke,45.86,Yellow Mistearth Copper,222.00,287.98,261.80,63931.5600,58119.6000,178023.82197600,09/12/2007 @ 12:00:00 AM
+34795,"Rune, Rougehate",The Bastion of the Vampire Duke,45.86,Sprites' Transcendent Mud Lead Of The South,152.00,3338.65,267.08,507474.8000,40596.1600,799416.30225600,09/12/2007 @ 12:00:00 AM
+9121,"Snowflame, The Evil",Reheath Stronghold,39.60,Unknowable Mindsilver,193.00,174.90,174.90,33755.7000,33755.7000,94245.91440000,09/12/2007 @ 12:00:00 AM
+22833,Spikecrank,Pewold Keep,29.00,Primordial Mud Orichalcum,216.00,1113.00,20.57,240408.0000,4443.1200,315857.94480000,09/12/2007 @ 12:00:00 AM
+33771,"Shadow, Gust",Barad Cune,49.21,Toxic Mistlead Of The Past,194.00,435.67,396.06,84519.9800,76835.6400,240758.72060200,09/12/2007 @ 12:00:00 AM
+21701,"Song, Runetomb",Moor Village,11.32,Starsmoke Bronze Of Life,232.00,-438.00,420.81,-101616.0000,97627.9200,-4439.53065600,09/12/2007 @ 12:00:00 AM
+21997,"Jericho, Wolf",The Tomb of Hellish Ruin,36.30,Violetdream Iron,258.00,502.13,456.48,129549.5400,117771.8400,337099.04094000,09/12/2007 @ 12:00:00 AM
+17279,"Seraphim, Tsunami",The Scoundrel and Flask,45.25,Golems' Stonesapphire Gold Of The Glacier,186.00,176.00,160.00,32736.0000,29760.0000,90775.44000000,09/12/2007 @ 12:00:00 AM
+28327,"Bane, Veil",Barad Kesa,5.61,Undeads' Mind Orichalcum Of The Twilight,216.00,1169.00,364.69,252504.0000,78773.0400,349861.68194400,09/12/2017 @ 12:00:00 AM
+17658,"Harmony, Angelchild",The Bastion of the Vampire Duke,37.90,Ghostly Soul Adamant,244.00,414.70,377.00,101186.8000,91988.0000,266388.04920000,09/12/2007 @ 12:00:00 AM
+28788,"Rouge, Tombreaper",The Chuallanto Jungle,11.00,Negative Rockglitter Mercury Of Trolls,258.00,235.59,214.17,60782.2200,55255.8600,128802.26880000,09/12/2007 @ 12:00:00 AM
+16937,"Nelalwe, Lady of Fire",Gena's Hold,5.85,Golems' Stonesapphire Gold Of The Glacier,91.00,176.00,160.00,16016.0000,14560.0000,32364.69600000,09/12/2007 @ 12:00:00 AM
+25032,"Seraphim, Tsunami",Bifar's Deep,12.21,Foul Ice Bronze Of Life,141.00,292.82,266.20,41287.6200,37534.2000,88445.96422200,09/12/2007 @ 12:00:00 AM
+4746,"Burnbrood, The Freezer",Eved Castle,28.00,Incubi's Glittering Tin Of The Future,154.00,4393.29,175.42,676566.6600,27014.6800,900584.11520000,09/12/2007 @ 12:00:00 AM
+2134,"Shadow, Gust",The Tower of Sabiesu the Awesome,10.00,Falserainbow Lead,169.00,872.99,63.80,147535.3100,10782.2000,174149.26100000,09/12/2007 @ 12:00:00 AM
+24267,"Wheelbolt, The Machine",Eved Castle,30.80,Negative Rockglitter Mercury Of Trolls,334.00,235.59,214.17,78687.0600,71532.7800,196487.55072000,09/12/2007 @ 12:00:00 AM

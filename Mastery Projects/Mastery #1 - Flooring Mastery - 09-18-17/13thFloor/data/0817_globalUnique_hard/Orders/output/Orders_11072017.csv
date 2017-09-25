@@ -1,24 +1,24 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-4985,Springcoil,The Cracked Chalice,-4.81,Phantasmal Smokezephyr Mercury Of Men,264.00,211.20,192.00,55756.8000,50688.0000,101324.80512000,11/07/2017 @ 12:00:00 AM
-35151,Springcoil,Barad Kesa,6.17,Grayplatinum,309.00,2548.00,115.43,787332.0000,35667.8700,873778.96197900,11/07/2017 @ 12:00:00 AM
-25913,"God of Death, Avriel",Citadel Ward,4.40,Fleshshock Mercury,330.00,-31.02,-28.20,-10236.6000,-9306.0000,-20402.47440000,11/07/2017 @ 12:00:00 AM
-12734,"Dawn, Tarot",Bifar's Deep,10.09,Incubi's Iron Of The Dawn,335.00,174.99,174.99,58621.6500,58621.6500,129073.14897000,11/07/2017 @ 12:00:00 AM
-2727,"Anchor, Rose",The Fortress of the Lich Queen,17.13,Zephyr Adamant,292.00,481.77,-40.13,140676.8400,-11717.9600,151049.53614400,11/07/2017 @ 12:00:00 AM
-12807,"Godseeker, Cult",Noble's Village,5.43,Incubi's Iron Of The Dawn,90.00,174.99,174.99,15749.1000,15749.1000,33208.55226000,11/07/2017 @ 12:00:00 AM
-12872,"God of Love, Prusu",Bergfison's Deep,16.00,Incubi's Iron Of The Dawn,196.00,174.99,174.99,34298.0400,34298.0400,79571.45280000,11/07/2017 @ 12:00:00 AM
-23822,"Godwarlock, Sunrise",The Scoundrel and Flask,45.25,Djinni's Mind Fogiron,83.00,57.23,57.23,4750.0900,4750.0900,13799.01145000,11/07/2017 @ 12:00:00 AM
-1909,"Tombreaper, Rouge",The Nulukkhath Spires,28.99,Glittering Orichalcum,114.00,2056.00,330.00,234384.0000,37620.0000,350857.95960000,11/07/2017 @ 12:00:00 AM
-19083,"The Evil, Flameflare",Weke Tower,47.19,Spirits' Living Wordhammer Tin Of The Trees,132.00,141.57,128.70,18687.2400,16988.4000,52510.97451600,11/07/2017 @ 12:00:00 AM
-33638,"The Grasping, Nailpiston",The Archer and Scroll,60.12,Forgotten Mithril,62.00,600.28,545.71,37217.3600,33834.0200,113767.46965600,11/07/2017 @ 12:00:00 AM
-31172,Metalghoul,Hafeld Keep,47.59,Pearl Mirrorice Steel Of Changelings,91.00,365.42,365.42,33253.2200,33253.2200,98156.85479600,11/07/2017 @ 12:00:00 AM
-19552,Freezebrood,Gifeld Castle,33.01,Grayplatinum,57.00,2548.00,104.94,145236.0000,5981.5800,201134.50315800,11/07/2017 @ 12:00:00 AM
-21832,"Godseeker, Cult",The Bastion of Gothmog of Udun,-2.42,Yellow Mistearth Copper,330.00,287.98,261.80,95033.4000,86394.0000,177036.85692000,11/07/2017 @ 12:00:00 AM
-17256,"Goddess of Travel, Lenwenye",North Arcanist's Farthing,2.75,Plague Tin,128.00,465.25,422.95,59552.0000,54137.6000,116816.06400000,11/07/2017 @ 12:00:00 AM
-5014,"Dawn, Tarot",Archring Borough,27.00,Sirens' Rockgold,268.00,306.13,278.30,82042.8400,74584.4000,198916.59480000,11/07/2017 @ 12:00:00 AM
-6499,"Seraphheart, Storm",North Grove Ward,41.80,Fleshshock Mercury,221.00,-31.02,-28.20,-6855.4200,-6232.2000,-18558.24516000,11/07/2017 @ 12:00:00 AM
-5329,"Wolf, Jericho",The Barrow of Terrible Horror,24.90,Unknowable Mindsilver,88.00,174.90,159.00,15391.2000,13992.0000,36699.61680000,11/07/2017 @ 12:00:00 AM
-30952,"Roguemist, Rouge",The Broken Arrow,17.60,Witchs' Forbidden Rockrainbow Bronze,146.00,245.63,245.63,35861.9800,35861.9800,84347.37696000,11/07/2017 @ 12:00:00 AM
-25244,"Lawslayer, Valentine",Weke Tower,47.19,Phantasmal Smokezephyr Mercury Of Men,319.00,211.20,192.00,67372.8000,61248.0000,189316.95552000,11/07/2017 @ 12:00:00 AM
-26723,Evilbrood,Khali's Delve,1.30,Foulopal Copper Of The Skies,218.00,221.83,201.66,48358.9400,43961.8800,93520.99066000,11/07/2017 @ 12:00:00 AM
-14953,Graveterror,Dysley Stronghold,35.51,Golems' Stonesapphire Gold Of The Glacier,162.00,176.00,160.00,28512.0000,25920.0000,73760.80320000,11/07/2017 @ 12:00:00 AM
-4922,Emberspawn,Grori's Deep,27.50,Sirens' Rockgold,279.00,306.13,278.30,85410.2700,77645.7000,207896.36175000,11/07/2017 @ 12:00:00 AM
+4985,Springcoil,The Cracked Chalice,-4.81,Phantasmal Smokezephyr Mercury Of Men,264.00,211.20,192.00,55756.8000,50688.0000,101324.80512000,11/07/1947 @ 12:00:00 AM
+35151,Springcoil,Barad Kesa,6.17,Grayplatinum,309.00,2548.00,115.43,787332.0000,35667.8700,873778.96197900,11/07/1947 @ 12:00:00 AM
+25913,"God of Death, Avriel",Citadel Ward,4.40,Fleshshock Mercury,330.00,-31.02,-28.20,-10236.6000,-9306.0000,-20402.47440000,11/07/1947 @ 12:00:00 AM
+12734,"Dawn, Tarot",Bifar's Deep,10.09,Incubi's Iron Of The Dawn,335.00,174.99,174.99,58621.6500,58621.6500,129073.14897000,11/07/1947 @ 12:00:00 AM
+2727,"Anchor, Rose",The Fortress of the Lich Queen,17.13,Zephyr Adamant,292.00,481.77,-40.13,140676.8400,-11717.9600,151049.53614400,11/07/1947 @ 12:00:00 AM
+12807,"Godseeker, Cult",Noble's Village,5.43,Incubi's Iron Of The Dawn,90.00,174.99,174.99,15749.1000,15749.1000,33208.55226000,11/07/1947 @ 12:00:00 AM
+12872,"God of Love, Prusu",Bergfison's Deep,16.00,Incubi's Iron Of The Dawn,196.00,174.99,174.99,34298.0400,34298.0400,79571.45280000,11/07/1947 @ 12:00:00 AM
+23822,"Godwarlock, Sunrise",The Scoundrel and Flask,45.25,Djinni's Mind Fogiron,83.00,57.23,57.23,4750.0900,4750.0900,13799.01145000,11/07/1947 @ 12:00:00 AM
+1909,"Tombreaper, Rouge",The Nulukkhath Spires,28.99,Glittering Orichalcum,114.00,2056.00,330.00,234384.0000,37620.0000,350857.95960000,11/07/1947 @ 12:00:00 AM
+19083,"The Evil, Flameflare",Weke Tower,47.19,Spirits' Living Wordhammer Tin Of The Trees,132.00,141.57,128.70,18687.2400,16988.4000,52510.97451600,11/07/1947 @ 12:00:00 AM
+33638,"The Grasping, Nailpiston",The Archer and Scroll,60.12,Forgotten Mithril,62.00,600.28,545.71,37217.3600,33834.0200,113767.46965600,11/07/1947 @ 12:00:00 AM
+31172,Metalghoul,Hafeld Keep,47.59,Pearl Mirrorice Steel Of Changelings,91.00,365.42,365.42,33253.2200,33253.2200,98156.85479600,11/07/1947 @ 12:00:00 AM
+19552,Freezebrood,Gifeld Castle,33.01,Grayplatinum,57.00,2548.00,104.94,145236.0000,5981.5800,201134.50315800,11/07/1947 @ 12:00:00 AM
+21832,"Godseeker, Cult",The Bastion of Gothmog of Udun,-2.42,Yellow Mistearth Copper,330.00,287.98,261.80,95033.4000,86394.0000,177036.85692000,11/07/1947 @ 12:00:00 AM
+17256,"Goddess of Travel, Lenwenye",North Arcanist's Farthing,2.75,Plague Tin,128.00,465.25,422.95,59552.0000,54137.6000,116816.06400000,11/07/1987 @ 12:00:00 AM
+5014,"Dawn, Tarot",Archring Borough,27.00,Sirens' Rockgold,268.00,306.13,278.30,82042.8400,74584.4000,198916.59480000,11/07/1947 @ 12:00:00 AM
+6499,"Seraphheart, Storm",North Grove Ward,41.80,Fleshshock Mercury,221.00,-31.02,-28.20,-6855.4200,-6232.2000,-18558.24516000,11/07/1947 @ 12:00:00 AM
+5329,"Wolf, Jericho",The Barrow of Terrible Horror,24.90,Unknowable Mindsilver,88.00,174.90,159.00,15391.2000,13992.0000,36699.61680000,11/07/1947 @ 12:00:00 AM
+30952,"Roguemist, Rouge",The Broken Arrow,17.60,Witchs' Forbidden Rockrainbow Bronze,146.00,245.63,245.63,35861.9800,35861.9800,84347.37696000,11/07/1947 @ 12:00:00 AM
+25244,"Lawslayer, Valentine",Weke Tower,47.19,Phantasmal Smokezephyr Mercury Of Men,319.00,211.20,192.00,67372.8000,61248.0000,189316.95552000,11/07/1947 @ 12:00:00 AM
+26723,Evilbrood,Khali's Delve,1.30,Foulopal Copper Of The Skies,218.00,221.83,201.66,48358.9400,43961.8800,93520.99066000,11/07/1947 @ 12:00:00 AM
+14953,Graveterror,Dysley Stronghold,35.51,Golems' Stonesapphire Gold Of The Glacier,162.00,176.00,160.00,28512.0000,25920.0000,73760.80320000,11/07/1947 @ 12:00:00 AM
+4922,Emberspawn,Grori's Deep,27.50,Sirens' Rockgold,279.00,306.13,278.30,85410.2700,77645.7000,207896.36175000,11/07/1947 @ 12:00:00 AM

@@ -1,18 +1,18 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-11183,"The Frigid, Icechill",The Fen of the Necromancer,20.00,Phantasmal Lead,302.00,21.92,19.93,6619.8400,6018.8600,15166.44000000,02/02/2017 @ 12:00:00 AM
-3873,"Goddess of Thieves, Melcha",The Forsaken Hive of Galima the Mighty,0.39,Ensorceled Sandmetal Of Spirits,147.00,70.40,64.00,10348.8000,9408.0000,19833.85152000,02/02/2017 @ 12:00:00 AM
-11352,"Lord of the Sun, Maglioneth",The Fortress of Asmamur,-2.42,Violetstone Tin Of Death,302.00,2091.85,20.90,631738.7000,6311.8000,622609.67790000,02/02/2017 @ 12:00:00 AM
-12707,"Veil, Bane",Gili's Delve,35.89,God-touched Greengem Platinum,166.00,206.95,206.95,34353.7000,34353.7000,93366.48586000,02/02/2017 @ 12:00:00 AM
-1849,"Felldrake, Magus",The Dungeon of Dismal Terror,40.27,Foul Ice Bronze Of Life,200.00,-378.00,242.00,-75600.0000,48400.0000,-38153.44000000,02/02/2017 @ 12:00:00 AM
-20055,"God of War, Ingwenel",The Lewd King,45.98,Fairies' Supreme Mistsmoke Lead Of The Future,145.00,499.73,499.73,72460.8500,72460.8500,211556.69766000,02/02/2017 @ 12:00:00 AM
-21680,"Squallmourner, Storm",Moor Village,11.32,Witchs' Forbidden Rockrainbow Bronze,350.00,245.63,245.63,85970.5000,85970.5000,191404.72120000,02/02/2017 @ 12:00:00 AM
-9584,"Wolf, Jericho",The Fortress of the Lich Queen,17.13,Muck Orichalcum Of Ogres,155.00,2080.00,97.93,322400.0000,15179.1500,395406.45839500,02/02/2017 @ 12:00:00 AM
-32635,Flameshiver,The Chuallanto Jungle,11.00,Negative Rockglitter Mercury Of Trolls,213.00,235.59,214.17,50180.6700,45618.2100,106336.75680000,02/02/2017 @ 12:00:00 AM
-20911,Bonescare,Gena's Hold,5.85,Starsmoke Bronze Of Life,104.00,-438.00,420.81,-45552.0000,43764.2400,-1892.34396000,02/02/2017 @ 12:00:00 AM
-7719,"Godwarlock, Sunrise",Gawold Castle,10.29,Planar Mudtin Of Trolls,279.00,3529.02,174.00,984596.5800,48546.0000,1139452.95148200,02/02/2017 @ 12:00:00 AM
-29789,"Goddess of Knowledge, Baltha",The Tower of Sabiesu the Awesome,10.00,Swordbronze,335.00,403.29,366.63,135102.1500,122821.0500,283715.52000000,02/02/2017 @ 12:00:00 AM
-28465,Springcoil,The Chuallanto Jungle,11.00,Vampires' Fang Emeraldsilver,179.00,2033.69,80.84,364030.5100,14470.3600,420135.96570000,02/02/2017 @ 12:00:00 AM
-29748,"God of Fate, Sielach",The Greedy Wench,13.31,Heavenly Dreamsilver Of The Night,132.00,719.00,314.60,94908.0000,41527.2000,154594.72512000,02/02/2017 @ 12:00:00 AM
-14169,"Darkzealot, Dawn",Noble's Village,5.43,Mithril Of The Tropics,122.00,251.56,251.56,30690.3200,30690.3200,64713.60875200,02/02/2017 @ 12:00:00 AM
-14435,"The Frigid, Icechill",North Arcanist's Farthing,2.75,Imperial Fate Steel,215.00,419.10,381.00,90106.5000,81915.0000,176752.09125000,02/02/2017 @ 12:00:00 AM
-4756,Emberspawn,Kada's Deep,7.65,Incubi's Iron Of The Dawn,72.00,-431.08,159.08,-31037.7600,11453.7600,-21082.17600000,02/02/2017 @ 12:00:00 AM
+11183,"The Frigid, Icechill",The Fen of the Necromancer,20.00,Phantasmal Lead,302.00,21.92,19.93,6619.8400,6018.8600,15166.44000000,02/02/1947 @ 12:00:00 AM
+3873,"Goddess of Thieves, Melcha",The Forsaken Hive of Galima the Mighty,0.39,Ensorceled Sandmetal Of Spirits,147.00,70.40,64.00,10348.8000,9408.0000,19833.85152000,02/02/1947 @ 12:00:00 AM
+11352,"Lord of the Sun, Maglioneth",The Fortress of Asmamur,-2.42,Violetstone Tin Of Death,302.00,2091.85,20.90,631738.7000,6311.8000,622609.67790000,02/02/1947 @ 12:00:00 AM
+12707,"Veil, Bane",Gili's Delve,35.89,God-touched Greengem Platinum,166.00,206.95,206.95,34353.7000,34353.7000,93366.48586000,02/02/1947 @ 12:00:00 AM
+1849,"Felldrake, Magus",The Dungeon of Dismal Terror,40.27,Foul Ice Bronze Of Life,200.00,-378.00,242.00,-75600.0000,48400.0000,-38153.44000000,02/02/1947 @ 12:00:00 AM
+20055,"God of War, Ingwenel",The Lewd King,45.98,Fairies' Supreme Mistsmoke Lead Of The Future,145.00,499.73,499.73,72460.8500,72460.8500,211556.69766000,02/02/1947 @ 12:00:00 AM
+21680,"Squallmourner, Storm",Moor Village,11.32,Witchs' Forbidden Rockrainbow Bronze,350.00,245.63,245.63,85970.5000,85970.5000,191404.72120000,02/02/1947 @ 12:00:00 AM
+9584,"Wolf, Jericho",The Fortress of the Lich Queen,17.13,Muck Orichalcum Of Ogres,155.00,2080.00,97.93,322400.0000,15179.1500,395406.45839500,02/02/1987 @ 12:00:00 AM
+32635,Flameshiver,The Chuallanto Jungle,11.00,Negative Rockglitter Mercury Of Trolls,213.00,235.59,214.17,50180.6700,45618.2100,106336.75680000,02/02/1947 @ 12:00:00 AM
+20911,Bonescare,Gena's Hold,5.85,Starsmoke Bronze Of Life,104.00,-438.00,420.81,-45552.0000,43764.2400,-1892.34396000,02/02/1947 @ 12:00:00 AM
+7719,"Godwarlock, Sunrise",Gawold Castle,10.29,Planar Mudtin Of Trolls,279.00,3529.02,174.00,984596.5800,48546.0000,1139452.95148200,02/02/1947 @ 12:00:00 AM
+29789,"Goddess of Knowledge, Baltha",The Tower of Sabiesu the Awesome,10.00,Swordbronze,335.00,403.29,366.63,135102.1500,122821.0500,283715.52000000,02/02/1947 @ 12:00:00 AM
+28465,Springcoil,The Chuallanto Jungle,11.00,Vampires' Fang Emeraldsilver,179.00,2033.69,80.84,364030.5100,14470.3600,420135.96570000,02/02/1947 @ 12:00:00 AM
+29748,"God of Fate, Sielach",The Greedy Wench,13.31,Heavenly Dreamsilver Of The Night,132.00,719.00,314.60,94908.0000,41527.2000,154594.72512000,02/02/1987 @ 12:00:00 AM
+14169,"Darkzealot, Dawn",Noble's Village,5.43,Mithril Of The Tropics,122.00,251.56,251.56,30690.3200,30690.3200,64713.60875200,02/02/1977 @ 12:00:00 AM
+14435,"The Frigid, Icechill",North Arcanist's Farthing,2.75,Imperial Fate Steel,215.00,419.10,381.00,90106.5000,81915.0000,176752.09125000,02/02/1947 @ 12:00:00 AM
+4756,Emberspawn,Kada's Deep,7.65,Incubi's Iron Of The Dawn,72.00,-431.08,159.08,-31037.7600,11453.7600,-21082.17600000,02/02/1947 @ 12:00:00 AM

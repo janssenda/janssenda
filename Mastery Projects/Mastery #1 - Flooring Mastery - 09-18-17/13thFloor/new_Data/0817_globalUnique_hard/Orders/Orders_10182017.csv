@@ -1,23 +1,23 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-3702,"Squallmourner, Storm",The Forsaken Sepulcher of Sorrows,28.51,Forgotten Mithril,186.00,3909.75,451.00,727213.5000,83886.0000,1042343.96745000,10/18/2017 @ 12:00:00 AM
-25767,"Felldrake, Magus",Moor Village,11.32,Tin Of The Tundra,362.00,4121.00,397.25,1491802.0000,143804.5000,1820757.15580000,10/18/2017 @ 12:00:00 AM
-22062,"God of Death, Selik",The Nulukkhath Spires,28.99,Warlocks' Timerot Mithril,156.00,194.65,176.95,30365.4000,27604.2000,74774.98704000,10/18/2017 @ 12:00:00 AM
-12915,"God of Death, Avriel",Bifar's Deep,10.09,Spirits' Living Wordhammer Tin Of The Trees,338.00,3897.55,128.70,1317371.9000,43500.6000,1498184.53525000,10/18/2017 @ 12:00:00 AM
-19069,"God of Protection, Finarfin",Gifeld Castle,33.01,Spirits' Living Wordhammer Tin Of The Trees,156.00,141.57,128.70,22084.9200,20077.2000,56079.83581200,10/18/2017 @ 12:00:00 AM
-33772,Gravebone,Barad Cune,49.21,Unicorns' Fatal Magma Metal Of The Ocean,259.00,25.30,27.83,6552.7000,7207.9700,20532.29570700,10/18/2017 @ 12:00:00 AM
-33820,"Goddess of Law, Eumyan",Mahyrst Keep,31.30,Warlocks' Timerot Mithril,165.00,194.65,194.65,32117.2500,32117.2500,84339.89850000,10/18/2017 @ 12:00:00 AM
-9646,"The Blade, Steelterror",Hartshill Ward,40.29,Emerald Orichalcum,190.00,1957.00,118.01,371830.0000,22421.9000,553095.99051000,10/18/2017 @ 12:00:00 AM
-9775,"The Trapper, Boltcrank",Hartshill Ward,40.29,Undeads' Mind Orichalcum Of The Twilight,252.00,1169.00,301.40,294588.0000,75952.8000,519831.68832000,10/18/2017 @ 12:00:00 AM
-19720,"Drakecaster, Sephiroth",Bifar's Deep,11.10,Unknowable Mindsilver,138.00,174.90,174.90,24136.2000,24136.2000,53630.63640000,10/18/2017 @ 12:00:00 AM
-29757,"God of Love, Prusu",The Greedy Wench,13.31,Heavenly Dreamsilver Of The Night,179.00,719.00,314.60,128701.0000,56313.4000,209639.81664000,10/18/2017 @ 12:00:00 AM
-29824,"Lord of Plague, Alas",The Tower of Sabiesu the Awesome,10.00,White Platinum,133.00,101.02,91.84,13435.6600,12214.7200,28215.41800000,10/18/2017 @ 12:00:00 AM
-17931,Bolttrap,Kada's Deep,8.42,Shadow Metal,96.00,1606.00,298.00,154176.0000,28608.0000,198174.41280000,10/18/2017 @ 12:00:00 AM
-14183,"The Trapper, Boltcrank",The Archer and Scroll,49.68,Imperial Fate Steel,377.00,419.10,381.00,158000.7000,143637.0000,451491.30936000,10/18/2017 @ 12:00:00 AM
-15554,"Mist, Claw",The Tower of Aramum,20.00,Shadowhell Mithril,355.00,462.21,420.19,164084.5500,149167.4500,375902.40000000,10/18/2017 @ 12:00:00 AM
-37041,Evilbrood,The Greedy Wench,13.31,Stone Soulsteel Of The Skies,265.00,453.31,453.31,120127.1500,120127.1500,272232.14733000,10/18/2017 @ 12:00:00 AM
-26349,Deathbrood,North Arcanist's Farthing,3.03,Sapphire Mindlead,186.00,-44.77,-49.25,-8327.2200,-9160.5000,-18017.59791600,10/18/2017 @ 12:00:00 AM
-15762,"Goddess of Trickery, Alik",The Dungeon of Merciless Woe,3.61,Golems' Stonesapphire Gold Of The Glacier,281.00,176.00,160.00,49456.0000,44960.0000,97824.41760000,10/18/2017 @ 12:00:00 AM
-5849,"Claw, Slayer",Reheath Stronghold,39.60,Undeads' Mind Orichalcum Of The Twilight,105.00,1169.00,301.40,122745.0000,31647.0000,215531.23200000,10/18/2017 @ 12:00:00 AM
-26597,"God of Protection, Finarfin",The Chuallanto Jungle,11.00,Heavenly Dreamsilver Of The Night,217.00,719.00,314.60,156023.0000,68268.2000,248963.23200000,10/18/2017 @ 12:00:00 AM
-25456,"Tombreaper, Rouge",Kada's Deep,8.42,Mithril Of The Tropics,111.00,276.72,276.72,30715.9200,30715.9200,66604.40092800,10/18/2017 @ 12:00:00 AM
-12112,"The Terrifying, Deathspike",Gifeld Castle,27.28,Violetdream Iron,179.00,414.98,377.25,74281.4200,67527.7500,180494.71157600,10/18/2017 @ 12:00:00 AM
+3702,"Storm, Squallmourner",The Forsaken Sepulcher of Sorrows,28.51,Forgotten Mithril,186.00,3909.75,451.00,727213.5000,83886.0000,1042343.96745000,10/18/2007 @ 12:00:00 AM
+25767,"Magus, Felldrake",Moor Village,11.32,Tin Of The Tundra,362.00,4121.00,397.25,1491802.0000,143804.5000,1820757.15580000,10/18/2007 @ 12:00:00 AM
+22062,"Selik, God of Death",The Nulukkhath Spires,28.99,Warlocks' Timerot Mithril,156.00,194.65,176.95,30365.4000,27604.2000,74774.98704000,10/18/2007 @ 12:00:00 AM
+12915,"Avriel, God of Death",Bifar's Deep,10.09,Spirits' Living Wordhammer Tin Of The Trees,338.00,3897.55,128.70,1317371.9000,43500.6000,1498184.53525000,10/18/2007 @ 12:00:00 AM
+19069,"Finarfin, God of Protection",Gifeld Castle,33.01,Spirits' Living Wordhammer Tin Of The Trees,156.00,141.57,128.70,22084.9200,20077.2000,56079.83581200,10/18/2007 @ 12:00:00 AM
+33772,Gravebone,Barad Cune,49.21,Unicorns' Fatal Magma Metal Of The Ocean,259.00,25.30,27.83,6552.7000,7207.9700,20532.29570700,10/18/2007 @ 12:00:00 AM
+33820,"Eumyan, Goddess of Law",Mahyrst Keep,31.30,Warlocks' Timerot Mithril,165.00,194.65,194.65,32117.2500,32117.2500,84339.89850000,10/18/2007 @ 12:00:00 AM
+9646,"Steelterror, The Blade",Hartshill Ward,40.29,Emerald Orichalcum,190.00,1957.00,118.01,371830.0000,22421.9000,553095.99051000,10/18/2007 @ 12:00:00 AM
+9775,"Boltcrank, The Trapper",Hartshill Ward,40.29,Undeads' Mind Orichalcum Of The Twilight,252.00,1169.00,301.40,294588.0000,75952.8000,519831.68832000,10/18/2007 @ 12:00:00 AM
+19720,"Sephiroth, Drakecaster",Bifar's Deep,11.10,Unknowable Mindsilver,138.00,174.90,174.90,24136.2000,24136.2000,53630.63640000,10/18/2007 @ 12:00:00 AM
+29757,"Prusu, God of Love",The Greedy Wench,13.31,Heavenly Dreamsilver Of The Night,179.00,719.00,314.60,128701.0000,56313.4000,209639.81664000,10/18/2007 @ 12:00:00 AM
+29824,"Alas, Lord of Plague",The Tower of Sabiesu the Awesome,10.00,White Platinum,133.00,101.02,91.84,13435.6600,12214.7200,28215.41800000,10/18/2007 @ 12:00:00 AM
+17931,Bolttrap,Kada's Deep,8.42,Shadow Metal,96.00,1606.00,298.00,154176.0000,28608.0000,198174.41280000,10/18/2007 @ 12:00:00 AM
+14183,"Boltcrank, The Trapper",The Archer and Scroll,49.68,Imperial Fate Steel,377.00,419.10,381.00,158000.7000,143637.0000,451491.30936000,10/18/2007 @ 12:00:00 AM
+15554,"Claw, Mist",The Tower of Aramum,20.00,Shadowhell Mithril,355.00,462.21,420.19,164084.5500,149167.4500,375902.40000000,10/18/2007 @ 12:00:00 AM
+37041,Evilbrood,The Greedy Wench,13.31,Stone Soulsteel Of The Skies,265.00,453.31,453.31,120127.1500,120127.1500,272232.14733000,10/18/2007 @ 12:00:00 AM
+26349,Deathbrood,North Arcanist's Farthing,3.03,Sapphire Mindlead,186.00,-44.77,-49.25,-8327.2200,-9160.5000,-18017.59791600,10/18/2007 @ 12:00:00 AM
+15762,"Alik, Goddess of Trickery",The Dungeon of Merciless Woe,3.61,Golems' Stonesapphire Gold Of The Glacier,281.00,176.00,160.00,49456.0000,44960.0000,97824.41760000,10/18/2007 @ 12:00:00 AM
+5849,"Slayer, Claw",Reheath Stronghold,39.60,Undeads' Mind Orichalcum Of The Twilight,105.00,1169.00,301.40,122745.0000,31647.0000,215531.23200000,10/18/2007 @ 12:00:00 AM
+26597,"Finarfin, God of Protection",The Chuallanto Jungle,11.00,Heavenly Dreamsilver Of The Night,217.00,719.00,314.60,156023.0000,68268.2000,248963.23200000,10/18/2007 @ 12:00:00 AM
+25456,"Rouge, Tombreaper",Kada's Deep,8.42,Mithril Of The Tropics,111.00,276.72,276.72,30715.9200,30715.9200,66604.40092800,10/18/2007 @ 12:00:00 AM
+12112,"Deathspike, The Terrifying",Gifeld Castle,27.28,Violetdream Iron,179.00,414.98,377.25,74281.4200,67527.7500,180494.71157600,10/18/2007 @ 12:00:00 AM

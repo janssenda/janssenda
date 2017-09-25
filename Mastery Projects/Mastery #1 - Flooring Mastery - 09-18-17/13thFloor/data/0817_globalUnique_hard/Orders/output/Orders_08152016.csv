@@ -1,18 +1,18 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-37627,"God of Luck, Ariel",The Greedy Wench,13.31,Ghouls' Imperial Soulzephyr Mithril Of The Seas,285.00,318.23,318.23,90695.5500,90695.5500,205534.25541000,08/15/2016 @ 12:00:00 AM
-22092,Emberspawn,The Tomb of Hellish Ruin,36.30,Primordial Mud Orichalcum,198.00,1113.00,20.57,220374.0000,4072.8600,305921.07018000,08/15/2016 @ 12:00:00 AM
-10251,"Lady of Vengeance, Zepul",The Fortress of the Lich Queen,17.13,Undeads' Mind Orichalcum Of The Twilight,324.00,1169.00,301.40,378756.0000,97653.6000,558018.56448000,08/15/2016 @ 12:00:00 AM
-24849,"Lady of Fire, Nelalwe",Eved Castle,30.80,Foul Ice Bronze Of Life,159.00,292.82,266.20,46558.3800,42325.8000,116260.50744000,08/15/2016 @ 12:00:00 AM
-36966,"Ivycaster, Fate",The Fen of the Necromancer,32.21,Phantasmal Tin Of The Swamps,262.00,405.96,369.05,106361.5200,96691.1000,268455.86890200,08/15/2016 @ 12:00:00 AM
-35680,Beamtrap,Citadel Ward,4.40,Ghouls' Imperial Soulzephyr Mithril Of The Seas,85.00,318.23,318.23,27049.5500,27049.5500,56479.46040000,08/15/2016 @ 12:00:00 AM
-34613,"Brand, Lightning",The Bastion of the Vampire Duke,45.86,Grayplatinum,270.00,2548.00,115.43,687960.0000,31166.1000,1048917.32946000,08/15/2016 @ 12:00:00 AM
-21916,"The Freezer, Burnbrood",Reyny Keep,-3.35,Witchs' Forbidden Rockrainbow Bronze,103.00,245.63,245.63,25299.8900,25299.8900,48904.68737000,08/15/2016 @ 12:00:00 AM
-9756,"Lord of Animals, Suriel",The Fortress of the Lich Queen,17.13,Emerald Orichalcum,88.00,1957.00,118.01,172216.0000,10384.8800,213880.41074400,08/15/2016 @ 12:00:00 AM
-259,Cinderember,Bergfison's Deep,16.00,Unicorns' Fatal Magma Metal Of The Ocean,300.00,903.00,23.00,270900.0000,6900.0000,322248.00000000,08/15/2016 @ 12:00:00 AM
-7516,"The Grasping, Nailpiston",The Bastion of the Vampire Duke,34.45,Sirens' Rockgold,147.00,306.13,278.30,45001.1100,40910.1000,115507.62184500,08/15/2016 @ 12:00:00 AM
-7596,"Lionwatcher, Law",The Forsaken Hive of Galima the Mighty,0.39,Swordbronze,145.00,333.30,303.00,48328.5000,43935.0000,92623.32765000,08/15/2016 @ 12:00:00 AM
-31812,"The Mechanical, Snarepiston",Weke Tower,47.19,Warlocks' Timerot Mithril,211.00,194.65,194.65,41071.1500,41071.1500,120905.25137000,08/15/2016 @ 12:00:00 AM
-15267,"The Unspeakable, Terrorghoul",The Fortress of Akkun the Grim,27.03,Lycanthropes' Gold,41.00,371.80,338.00,15243.8000,13858.0000,36968.01654000,08/15/2016 @ 12:00:00 AM
-27352,"The Unspeakable, Scarechain",The Bastion of Gothmog of Udun,-2.42,Sprites' Transcendent Mud Lead Of The South,174.00,3338.65,267.08,580925.1000,46471.9200,612214.01211600,08/15/2016 @ 12:00:00 AM
-16955,Emberspawn,Gena's Hold,5.85,Grayplatinum,185.00,2548.00,104.94,471380.0000,19413.9000,519505.34315000,08/15/2016 @ 12:00:00 AM
-12271,"Runetomb, Song",Love Keep,40.56,Phantasmal Tin Of The Swamps,160.00,3207.64,305.00,513222.4000,48800.0000,789978.68544000,08/15/2016 @ 12:00:00 AM
+37627,"God of Luck, Ariel",The Greedy Wench,13.31,Ghouls' Imperial Soulzephyr Mithril Of The Seas,285.00,318.23,318.23,90695.5500,90695.5500,205534.25541000,08/15/1946 @ 12:00:00 AM
+22092,Emberspawn,The Tomb of Hellish Ruin,36.30,Primordial Mud Orichalcum,198.00,1113.00,20.57,220374.0000,4072.8600,305921.07018000,08/15/1946 @ 12:00:00 AM
+10251,"Lady of Vengeance, Zepul",The Fortress of the Lich Queen,17.13,Undeads' Mind Orichalcum Of The Twilight,324.00,1169.00,301.40,378756.0000,97653.6000,558018.56448000,08/15/1946 @ 12:00:00 AM
+24849,"Lady of Fire, Nelalwe",Eved Castle,30.80,Foul Ice Bronze Of Life,159.00,292.82,266.20,46558.3800,42325.8000,116260.50744000,08/15/1946 @ 12:00:00 AM
+36966,"Ivycaster, Fate",The Fen of the Necromancer,32.21,Phantasmal Tin Of The Swamps,262.00,405.96,369.05,106361.5200,96691.1000,268455.86890200,08/15/1946 @ 12:00:00 AM
+35680,Beamtrap,Citadel Ward,4.40,Ghouls' Imperial Soulzephyr Mithril Of The Seas,85.00,318.23,318.23,27049.5500,27049.5500,56479.46040000,08/15/1986 @ 12:00:00 AM
+34613,"Brand, Lightning",The Bastion of the Vampire Duke,45.86,Grayplatinum,270.00,2548.00,115.43,687960.0000,31166.1000,1048917.32946000,08/15/1946 @ 12:00:00 AM
+21916,"The Freezer, Burnbrood",Reyny Keep,-3.35,Witchs' Forbidden Rockrainbow Bronze,103.00,245.63,245.63,25299.8900,25299.8900,48904.68737000,08/15/1996 @ 12:00:00 AM
+9756,"Lord of Animals, Suriel",The Fortress of the Lich Queen,17.13,Emerald Orichalcum,88.00,1957.00,118.01,172216.0000,10384.8800,213880.41074400,08/15/1946 @ 12:00:00 AM
+259,Cinderember,Bergfison's Deep,16.00,Unicorns' Fatal Magma Metal Of The Ocean,300.00,903.00,23.00,270900.0000,6900.0000,322248.00000000,08/15/1946 @ 12:00:00 AM
+7516,"The Grasping, Nailpiston",The Bastion of the Vampire Duke,34.45,Sirens' Rockgold,147.00,306.13,278.30,45001.1100,40910.1000,115507.62184500,08/15/1946 @ 12:00:00 AM
+7596,"Lionwatcher, Law",The Forsaken Hive of Galima the Mighty,0.39,Swordbronze,145.00,333.30,303.00,48328.5000,43935.0000,92623.32765000,08/15/1946 @ 12:00:00 AM
+31812,"The Mechanical, Snarepiston",Weke Tower,47.19,Warlocks' Timerot Mithril,211.00,194.65,194.65,41071.1500,41071.1500,120905.25137000,08/15/1946 @ 12:00:00 AM
+15267,"The Unspeakable, Terrorghoul",The Fortress of Akkun the Grim,27.03,Lycanthropes' Gold,41.00,371.80,338.00,15243.8000,13858.0000,36968.01654000,08/15/1946 @ 12:00:00 AM
+27352,"The Unspeakable, Scarechain",The Bastion of Gothmog of Udun,-2.42,Sprites' Transcendent Mud Lead Of The South,174.00,3338.65,267.08,580925.1000,46471.9200,612214.01211600,08/15/1946 @ 12:00:00 AM
+16955,Emberspawn,Gena's Hold,5.85,Grayplatinum,185.00,2548.00,104.94,471380.0000,19413.9000,519505.34315000,08/15/1986 @ 12:00:00 AM
+12271,"Runetomb, Song",Love Keep,40.56,Phantasmal Tin Of The Swamps,160.00,3207.64,305.00,513222.4000,48800.0000,789978.68544000,08/15/1986 @ 12:00:00 AM

@@ -1,20 +1,20 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-11418,"Lord of Death, Addon",The Fortress of Asmamur,-2.42,Shadow Metal,141.00,1606.00,298.00,226446.0000,42018.0000,261967.17120000,04/04/2017 @ 12:00:00 AM
-36856,"Goddess of Law, Eumyan",The Fen of the Necromancer,32.21,Grayplatinum,191.00,2548.00,115.43,486668.0000,22047.1300,672572.27337300,04/04/2017 @ 12:00:00 AM
-33148,"God of Love, Prusu",Pewold Keep,29.00,Fairies' Supreme Mistsmoke Lead Of The Future,99.00,499.73,549.70,49473.2700,54420.3000,134022.70530000,04/04/2017 @ 12:00:00 AM
-19043,Flameshiver,Gifeld Castle,33.01,Golems' Stonesapphire Gold Of The Glacier,99.00,176.00,160.00,17424.0000,15840.0000,44244.44640000,04/04/2017 @ 12:00:00 AM
-22658,"The Machine, Wheelbolt",Pewold Keep,29.00,Primordial Mud Orichalcum,229.00,1113.00,20.57,254877.0000,4710.5300,334867.91370000,04/04/2017 @ 12:00:00 AM
-21509,"Amberslayer, Flora",Grori's Deep,30.25,Witchs' Forbidden Rockrainbow Bronze,43.00,245.63,245.63,10562.0900,10562.0900,27514.24445000,04/04/2017 @ 12:00:00 AM
-32293,"God of Resurrection, Gadriel",Citadel Ward,4.40,Yellow Mistearth Copper,247.00,287.98,261.80,71131.0600,64664.6000,141770.66904000,04/04/2017 @ 12:00:00 AM
-18283,"The Evil, Flameflare",The Tomb of Hellish Ruin,36.30,Toxic Mistlead Of The Past,243.00,396.06,396.06,96242.5800,96242.5800,262357.27308000,04/04/2017 @ 12:00:00 AM
-376,"God of Fate, Uriel",Bergfison's Deep,16.00,Zephyr Iron,79.00,2249.71,233.69,177727.0900,18461.5100,227578.77600000,04/04/2017 @ 12:00:00 AM
-18660,"Squallmourner, Storm",Gili's Delve,35.89,Toxic Mistlead Of The Past,169.00,396.06,396.06,66934.1400,66934.1400,181913.60569200,04/04/2017 @ 12:00:00 AM
-5351,"Drakecaster, Sephiroth",The Greedy Wench,12.10,Negative Rockglitter Mercury Of Trolls,148.00,3502.00,194.70,518296.0000,28815.6000,613312.10360000,04/04/2017 @ 12:00:00 AM
-30948,"Dawn, Tarot",The Fortress of Akkun the Grim,27.03,Foulopal Copper Of The Skies,64.00,221.83,221.83,14197.1200,14197.1200,36069.20307200,04/04/2017 @ 12:00:00 AM
-28725,"Rougehate, Rune",The Chuallanto Jungle,11.00,Undeads' Mind Orichalcum Of The Twilight,84.00,1169.00,364.69,98196.0000,30633.9600,143001.25560000,04/04/2017 @ 12:00:00 AM
-28708,"The Terrifying, Deathspike",The Chuallanto Jungle,11.00,Undeads' Mind Orichalcum Of The Twilight,94.00,1169.00,364.69,109886.0000,34280.8600,160025.21460000,04/04/2017 @ 12:00:00 AM
-15651,"The Disinterred, Spikebrood",The Tower of Aramum,20.00,Shadowhell Mithril,246.00,462.21,420.19,113703.6600,103366.7400,260484.48000000,04/04/2017 @ 12:00:00 AM
-15631,"God of Death, Avriel",The Tower of Aramum,20.00,Starsmoke Bronze Of Life,79.00,-438.00,420.81,-34602.0000,33243.9900,-1629.61200000,04/04/2017 @ 12:00:00 AM
-27697,Ironbrood,The Bastion of Gothmog of Udun,-2.42,Unknown Fatelightning Steel Of The Glacier,334.00,145.08,159.59,48456.7200,53303.0600,99297.19332400,04/04/2017 @ 12:00:00 AM
-37235,"Tomblion, Shadow",The Greedy Wench,13.31,Stone Soulsteel Of The Skies,235.00,453.31,453.31,106527.8500,106527.8500,241413.41367000,04/04/2017 @ 12:00:00 AM
-12008,"The Evil, Flameflare",Grori's Deep,27.50,Zephyr Adamant,167.00,481.77,-44.14,80455.5900,-7371.3800,93182.36775000,04/04/2017 @ 12:00:00 AM
+11418,"Addon, Lord of Death",The Fortress of Asmamur,-2.42,Shadow Metal,141.00,1606.00,298.00,226446.0000,42018.0000,261967.17120000,04/04/2007 @ 12:00:00 AM
+36856,"Eumyan, Goddess of Law",The Fen of the Necromancer,32.21,Grayplatinum,191.00,2548.00,115.43,486668.0000,22047.1300,672572.27337300,04/04/2007 @ 12:00:00 AM
+33148,"Prusu, God of Love",Pewold Keep,29.00,Fairies' Supreme Mistsmoke Lead Of The Future,99.00,499.73,549.70,49473.2700,54420.3000,134022.70530000,04/04/2007 @ 12:00:00 AM
+19043,Flameshiver,Gifeld Castle,33.01,Golems' Stonesapphire Gold Of The Glacier,99.00,176.00,160.00,17424.0000,15840.0000,44244.44640000,04/04/2007 @ 12:00:00 AM
+22658,"Wheelbolt, The Machine",Pewold Keep,29.00,Primordial Mud Orichalcum,229.00,1113.00,20.57,254877.0000,4710.5300,334867.91370000,04/04/2007 @ 12:00:00 AM
+21509,"Flora, Amberslayer",Grori's Deep,30.25,Witchs' Forbidden Rockrainbow Bronze,43.00,245.63,245.63,10562.0900,10562.0900,27514.24445000,04/04/2007 @ 12:00:00 AM
+32293,"Gadriel, God of Resurrection",Citadel Ward,4.40,Yellow Mistearth Copper,247.00,287.98,261.80,71131.0600,64664.6000,141770.66904000,04/04/2007 @ 12:00:00 AM
+18283,"Flameflare, The Evil",The Tomb of Hellish Ruin,36.30,Toxic Mistlead Of The Past,243.00,396.06,396.06,96242.5800,96242.5800,262357.27308000,04/04/2007 @ 12:00:00 AM
+376,"Uriel, God of Fate",Bergfison's Deep,16.00,Zephyr Iron,79.00,2249.71,233.69,177727.0900,18461.5100,227578.77600000,04/04/2007 @ 12:00:00 AM
+18660,"Storm, Squallmourner",Gili's Delve,35.89,Toxic Mistlead Of The Past,169.00,396.06,396.06,66934.1400,66934.1400,181913.60569200,04/04/2007 @ 12:00:00 AM
+5351,"Sephiroth, Drakecaster",The Greedy Wench,12.10,Negative Rockglitter Mercury Of Trolls,148.00,3502.00,194.70,518296.0000,28815.6000,613312.10360000,04/04/2007 @ 12:00:00 AM
+30948,"Tarot, Dawn",The Fortress of Akkun the Grim,27.03,Foulopal Copper Of The Skies,64.00,221.83,221.83,14197.1200,14197.1200,36069.20307200,04/04/2007 @ 12:00:00 AM
+28725,"Rune, Rougehate",The Chuallanto Jungle,11.00,Undeads' Mind Orichalcum Of The Twilight,84.00,1169.00,364.69,98196.0000,30633.9600,143001.25560000,04/04/2007 @ 12:00:00 AM
+28708,"Deathspike, The Terrifying",The Chuallanto Jungle,11.00,Undeads' Mind Orichalcum Of The Twilight,94.00,1169.00,364.69,109886.0000,34280.8600,160025.21460000,04/04/2007 @ 12:00:00 AM
+15651,"Spikebrood, The Disinterred",The Tower of Aramum,20.00,Shadowhell Mithril,246.00,462.21,420.19,113703.6600,103366.7400,260484.48000000,04/04/2007 @ 12:00:00 AM
+15631,"Avriel, God of Death",The Tower of Aramum,20.00,Starsmoke Bronze Of Life,79.00,-438.00,420.81,-34602.0000,33243.9900,-1629.61200000,04/04/2007 @ 12:00:00 AM
+27697,Ironbrood,The Bastion of Gothmog of Udun,-2.42,Unknown Fatelightning Steel Of The Glacier,334.00,145.08,159.59,48456.7200,53303.0600,99297.19332400,04/04/2007 @ 12:00:00 AM
+37235,"Shadow, Tomblion",The Greedy Wench,13.31,Stone Soulsteel Of The Skies,235.00,453.31,453.31,106527.8500,106527.8500,241413.41367000,04/04/2007 @ 12:00:00 AM
+12008,"Flameflare, The Evil",Grori's Deep,27.50,Zephyr Adamant,167.00,481.77,-44.14,80455.5900,-7371.3800,93182.36775000,04/04/2007 @ 12:00:00 AM

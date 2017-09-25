@@ -1,14 +1,14 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-23095,"The Cold, Burnfreeze",The Lewd King,45.98,Tritons' Time Stoneiron Of Legend,275.00,341.59,341.59,93937.2500,93937.2500,274259.19510000,07/20/2018 @ 12:00:00 AM
-25928,Spikespawn,Barad Cune,49.21,Unspeakable Rotsoul Mithril Of Souls,195.00,370.26,336.60,72200.7000,65637.0000,205667.63217000,07/20/2018 @ 12:00:00 AM
-10258,Springsprocket,Grove Farthing,25.00,Timeiron,365.00,3255.00,-16.25,1188075.0000,-5931.2500,1477679.68750000,07/20/2018 @ 12:00:00 AM
-19893,"The Mechanical, Snarepiston",The Greedy Wench,13.31,Magicians' Legendary Poison Metal,35.00,-52.81,-48.01,-1848.3500,-1680.3500,-3998.36997000,07/20/2018 @ 12:00:00 AM
-7455,Wheelspawn,Barad Kesa,5.10,Unicorns' Fatal Magma Metal Of The Ocean,172.00,903.00,23.00,155316.0000,3956.0000,167394.87200000,07/20/2018 @ 12:00:00 AM
-790,"Lady of Vengeance, Zepul",The Citadel of Lord Greywulf,19.00,Ghostly Magic Adamant,234.00,901.35,45.00,210915.9000,10530.0000,263520.62100000,07/20/2018 @ 12:00:00 AM
-816,"Felldrake, Magus",The Fortress of Asmamur,-2.00,Fog Lavaplatinum Of Life,263.00,2232.00,463.10,587016.0000,121795.3000,694635.07400000,07/20/2018 @ 12:00:00 AM
-16529,Bronzespawn,The Bastion of the Lich Tyrant,7.14,Swordbronze,170.00,333.30,303.00,56661.0000,51510.0000,115894.40940000,07/20/2018 @ 12:00:00 AM
-6648,"The Unspeakable, Scarechain",The Lost Sanctum of Woe,43.20,Hidden Shadowice Lead,142.00,3068.90,-15.00,435783.8000,-2130.0000,620992.24160000,07/20/2018 @ 12:00:00 AM
-27557,"Jester, Seraph",The Bastion of Gothmog of Udun,-2.42,Vampires' Hammer Emeraldmetal,241.00,93.70,85.18,22581.7000,20528.3800,42066.81606400,07/20/2018 @ 12:00:00 AM
-25095,"Tombreaper, Rouge",Kada's Deep,8.42,Ghostly Soul Adamant,64.00,414.70,377.00,26540.8000,24128.0000,54935.11296000,07/20/2018 @ 12:00:00 AM
-24135,"God of Love, Prusu",The Forsaken Sepulcher of Sorrows,31.36,Tritons' Time Stoneiron Of Legend,192.00,341.59,375.75,65585.2800,72144.0000,180921.18220800,07/20/2018 @ 12:00:00 AM
-14952,"Mistmidnight, Tiger",The Secret Catacombs of Ulfang the Black,28.82,Lycanthropes' Gold,215.00,371.80,338.00,79937.0000,72670.0000,196588.33740000,07/20/2018 @ 12:00:00 AM
+23095,"The Cold, Burnfreeze",The Lewd King,45.98,Tritons' Time Stoneiron Of Legend,275.00,341.59,341.59,93937.2500,93937.2500,274259.19510000,07/20/1978 @ 12:00:00 AM
+25928,Spikespawn,Barad Cune,49.21,Unspeakable Rotsoul Mithril Of Souls,195.00,370.26,336.60,72200.7000,65637.0000,205667.63217000,07/20/1948 @ 12:00:00 AM
+10258,Springsprocket,Grove Farthing,25.00,Timeiron,365.00,3255.00,-16.25,1188075.0000,-5931.2500,1477679.68750000,07/20/1948 @ 12:00:00 AM
+19893,"The Mechanical, Snarepiston",The Greedy Wench,13.31,Magicians' Legendary Poison Metal,35.00,-52.81,-48.01,-1848.3500,-1680.3500,-3998.36997000,07/20/1988 @ 12:00:00 AM
+7455,Wheelspawn,Barad Kesa,5.10,Unicorns' Fatal Magma Metal Of The Ocean,172.00,903.00,23.00,155316.0000,3956.0000,167394.87200000,07/20/1948 @ 12:00:00 AM
+790,"Lady of Vengeance, Zepul",The Citadel of Lord Greywulf,19.00,Ghostly Magic Adamant,234.00,901.35,45.00,210915.9000,10530.0000,263520.62100000,07/20/1948 @ 12:00:00 AM
+816,"Felldrake, Magus",The Fortress of Asmamur,-2.00,Fog Lavaplatinum Of Life,263.00,2232.00,463.10,587016.0000,121795.3000,694635.07400000,07/20/1948 @ 12:00:00 AM
+16529,Bronzespawn,The Bastion of the Lich Tyrant,7.14,Swordbronze,170.00,333.30,303.00,56661.0000,51510.0000,115894.40940000,07/20/1948 @ 12:00:00 AM
+6648,"The Unspeakable, Scarechain",The Lost Sanctum of Woe,43.20,Hidden Shadowice Lead,142.00,3068.90,-15.00,435783.8000,-2130.0000,620992.24160000,07/20/1948 @ 12:00:00 AM
+27557,"Jester, Seraph",The Bastion of Gothmog of Udun,-2.42,Vampires' Hammer Emeraldmetal,241.00,93.70,85.18,22581.7000,20528.3800,42066.81606400,07/20/1948 @ 12:00:00 AM
+25095,"Tombreaper, Rouge",Kada's Deep,8.42,Ghostly Soul Adamant,64.00,414.70,377.00,26540.8000,24128.0000,54935.11296000,07/20/1948 @ 12:00:00 AM
+24135,"God of Love, Prusu",The Forsaken Sepulcher of Sorrows,31.36,Tritons' Time Stoneiron Of Legend,192.00,341.59,375.75,65585.2800,72144.0000,180921.18220800,07/20/1948 @ 12:00:00 AM
+14952,"Mistmidnight, Tiger",The Secret Catacombs of Ulfang the Black,28.82,Lycanthropes' Gold,215.00,371.80,338.00,79937.0000,72670.0000,196588.33740000,07/20/1948 @ 12:00:00 AM

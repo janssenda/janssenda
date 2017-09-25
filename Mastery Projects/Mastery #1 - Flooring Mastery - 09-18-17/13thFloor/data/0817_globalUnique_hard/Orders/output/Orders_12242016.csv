@@ -1,20 +1,20 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-36403,Deathbrood,The Fen of the Necromancer,32.21,Heavenly Dreamsilver Of The Night,219.00,719.00,346.06,157461.0000,75787.1400,308377.36589400,12/24/2016 @ 12:00:00 AM
-25839,"Roguemist, Rouge",Barad Cune,49.21,Warlocks' Timerot Mithril,219.00,194.65,176.95,42628.3500,38752.0500,121427.69484000,12/24/2016 @ 12:00:00 AM
-13826,"God of the Lost, Lionare",The Citadel of Alammius,27.00,Pearl Mirrorice Steel Of Changelings,159.00,332.20,302.00,52819.8000,48018.0000,128064.00600000,12/24/2016 @ 12:00:00 AM
-1237,Chainnail,Palace Farthing,13.00,Zephyr Iron,234.00,2249.71,233.69,526432.1400,54683.4600,656660.62800000,12/24/2016 @ 12:00:00 AM
-36904,"Goddess of Travel, Lenwenye",The Fen of the Necromancer,32.21,Phantasmal Tin Of The Swamps,153.00,405.96,369.05,62111.8800,56464.6500,156770.03031300,12/24/2016 @ 12:00:00 AM
-21147,"Goddess of Fate, Azah",The Tomb of Hellish Ruin,36.30,Plague Tin,237.00,465.25,422.95,110264.2500,100239.1500,286916.13420000,12/24/2016 @ 12:00:00 AM
-22382,"The Cadaverous, Chainblade",The Tower of Sabiesu the Awesome,10.00,Primordial Mud Orichalcum,208.00,1113.00,20.57,231504.0000,4278.5600,259360.81600000,12/24/2016 @ 12:00:00 AM
-34550,"The Cold, Burnfreeze",Barad Kesa,6.17,Grayplatinum,158.00,2548.00,115.43,402584.0000,18237.9400,446786.65369800,12/24/2016 @ 12:00:00 AM
-19548,"The Grasping, Nettool",The Bastion of Barbos,25.41,Spirits' Living Wordhammer Tin Of The Trees,181.00,141.57,128.70,25624.1700,23294.7000,61349.15486700,12/24/2016 @ 12:00:00 AM
-32778,"The Grasping, Nailpiston",Citadel Ward,4.40,Fairies' Supreme Mistsmoke Lead Of The Future,314.00,499.73,549.70,156915.2200,172605.8000,344019.94488000,12/24/2016 @ 12:00:00 AM
-8451,"Gust, Shadow",Archtemple District,37.85,Unicorns' Fatal Magma Metal Of The Ocean,36.00,903.00,23.00,32508.0000,828.0000,45953.67600000,12/24/2016 @ 12:00:00 AM
-31535,"The Disinterred, Spikebrood",The Bastion of Gothmog of Udun,-2.66,Grayplatinum,333.00,2548.00,104.94,848484.0000,34945.0200,859929.80806800,12/24/2016 @ 12:00:00 AM
-19800,"The Grasping, Nettool",Reyny Keep,-3.35,Fairies' Supreme Mistsmoke Lead Of The Future,89.00,499.73,499.73,44475.9700,44475.9700,85972.05001000,12/24/2016 @ 12:00:00 AM
-28179,"Anchor, Rose",The Fortress of Akkun the Grim,27.03,Stone Soulsteel Of The Skies,215.00,453.31,412.10,97461.6500,88601.5000,236356.01944500,12/24/2016 @ 12:00:00 AM
-16139,Springcoil,Gili's Delve,35.89,Vampires' Hammer Emeraldmetal,253.00,77.44,77.44,19592.3200,19592.3200,53248.00729600,12/24/2016 @ 12:00:00 AM
-16540,"Tombreaper, Rouge",The Pirate's Pipe,16.94,Tritons' Time Stoneiron Of Legend,123.00,341.59,341.59,42015.5700,42015.5700,98266.01511600,12/24/2016 @ 12:00:00 AM
-16733,"Jester, Seraph",The Scoundrel and Flask,45.25,Incubi's Glittering Tin Of The Future,186.00,192.96,212.26,35890.5600,39480.3600,109476.26130000,12/24/2016 @ 12:00:00 AM
-5667,"Felldrake, Magus",Pawic Keep,31.90,Undeads' Mind Orichalcum Of The Twilight,117.00,1169.00,301.40,136773.0000,35263.8000,226916.53920000,12/24/2016 @ 12:00:00 AM
-15661,Bonescare,The Dungeon of Merciless Woe,3.61,Golems' Stonesapphire Gold Of The Glacier,236.00,176.00,160.00,41536.0000,37760.0000,82158.58560000,12/24/2016 @ 12:00:00 AM
+36403,Deathbrood,The Fen of the Necromancer,32.21,Heavenly Dreamsilver Of The Night,219.00,719.00,346.06,157461.0000,75787.1400,308377.36589400,12/24/1946 @ 12:00:00 AM
+25839,"Roguemist, Rouge",Barad Cune,49.21,Warlocks' Timerot Mithril,219.00,194.65,176.95,42628.3500,38752.0500,121427.69484000,12/24/1946 @ 12:00:00 AM
+13826,"God of the Lost, Lionare",The Citadel of Alammius,27.00,Pearl Mirrorice Steel Of Changelings,159.00,332.20,302.00,52819.8000,48018.0000,128064.00600000,12/24/1946 @ 12:00:00 AM
+1237,Chainnail,Palace Farthing,13.00,Zephyr Iron,234.00,2249.71,233.69,526432.1400,54683.4600,656660.62800000,12/24/1946 @ 12:00:00 AM
+36904,"Goddess of Travel, Lenwenye",The Fen of the Necromancer,32.21,Phantasmal Tin Of The Swamps,153.00,405.96,369.05,62111.8800,56464.6500,156770.03031300,12/24/1976 @ 12:00:00 AM
+21147,"Goddess of Fate, Azah",The Tomb of Hellish Ruin,36.30,Plague Tin,237.00,465.25,422.95,110264.2500,100239.1500,286916.13420000,12/24/1946 @ 12:00:00 AM
+22382,"The Cadaverous, Chainblade",The Tower of Sabiesu the Awesome,10.00,Primordial Mud Orichalcum,208.00,1113.00,20.57,231504.0000,4278.5600,259360.81600000,12/24/1946 @ 12:00:00 AM
+34550,"The Cold, Burnfreeze",Barad Kesa,6.17,Grayplatinum,158.00,2548.00,115.43,402584.0000,18237.9400,446786.65369800,12/24/1976 @ 12:00:00 AM
+19548,"The Grasping, Nettool",The Bastion of Barbos,25.41,Spirits' Living Wordhammer Tin Of The Trees,181.00,141.57,128.70,25624.1700,23294.7000,61349.15486700,12/24/1946 @ 12:00:00 AM
+32778,"The Grasping, Nailpiston",Citadel Ward,4.40,Fairies' Supreme Mistsmoke Lead Of The Future,314.00,499.73,549.70,156915.2200,172605.8000,344019.94488000,12/24/1946 @ 12:00:00 AM
+8451,"Gust, Shadow",Archtemple District,37.85,Unicorns' Fatal Magma Metal Of The Ocean,36.00,903.00,23.00,32508.0000,828.0000,45953.67600000,12/24/1946 @ 12:00:00 AM
+31535,"The Disinterred, Spikebrood",The Bastion of Gothmog of Udun,-2.66,Grayplatinum,333.00,2548.00,104.94,848484.0000,34945.0200,859929.80806800,12/24/1946 @ 12:00:00 AM
+19800,"The Grasping, Nettool",Reyny Keep,-3.35,Fairies' Supreme Mistsmoke Lead Of The Future,89.00,499.73,499.73,44475.9700,44475.9700,85972.05001000,12/24/1946 @ 12:00:00 AM
+28179,"Anchor, Rose",The Fortress of Akkun the Grim,27.03,Stone Soulsteel Of The Skies,215.00,453.31,412.10,97461.6500,88601.5000,236356.01944500,12/24/1946 @ 12:00:00 AM
+16139,Springcoil,Gili's Delve,35.89,Vampires' Hammer Emeraldmetal,253.00,77.44,77.44,19592.3200,19592.3200,53248.00729600,12/24/1946 @ 12:00:00 AM
+16540,"Tombreaper, Rouge",The Pirate's Pipe,16.94,Tritons' Time Stoneiron Of Legend,123.00,341.59,341.59,42015.5700,42015.5700,98266.01511600,12/24/1946 @ 12:00:00 AM
+16733,"Jester, Seraph",The Scoundrel and Flask,45.25,Incubi's Glittering Tin Of The Future,186.00,192.96,212.26,35890.5600,39480.3600,109476.26130000,12/24/1946 @ 12:00:00 AM
+5667,"Felldrake, Magus",Pawic Keep,31.90,Undeads' Mind Orichalcum Of The Twilight,117.00,1169.00,301.40,136773.0000,35263.8000,226916.53920000,12/24/1946 @ 12:00:00 AM
+15661,Bonescare,The Dungeon of Merciless Woe,3.61,Golems' Stonesapphire Gold Of The Glacier,236.00,176.00,160.00,41536.0000,37760.0000,82158.58560000,12/24/1946 @ 12:00:00 AM

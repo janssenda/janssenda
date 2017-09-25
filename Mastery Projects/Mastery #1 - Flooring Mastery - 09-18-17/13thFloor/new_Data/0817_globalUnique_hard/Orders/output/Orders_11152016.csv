@@ -1,21 +1,21 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-3812,"The Evil, Burnchill",The Broken Shield,12.00,Primordial Plague Mercury Of Legend,192.00,1150.79,67.00,220951.6800,12864.0000,261873.56160000,11/15/2016 @ 12:00:00 AM
-35425,"God of the Lost, Lionare",Citadel Ward,4.40,Vampires' Fang Emeraldsilver,223.00,2033.69,88.92,453512.8700,19829.1600,494169.07932000,11/15/2016 @ 12:00:00 AM
-2984,"God of Thieves, Maeglodor",The Archer and Scroll,45.16,Falserainbow Lead,147.00,872.99,70.18,128329.5300,10316.4600,201258.51908400,11/15/2016 @ 12:00:00 AM
-33038,"Wolf, Jericho",The Archer and Scroll,60.12,Fairies' Supreme Mistsmoke Lead Of The Future,114.00,499.73,549.70,56969.2200,62665.8000,191559.59402400,11/15/2016 @ 12:00:00 AM
-9148,"Wind, Maverick",The Tomb of Hellish Ruin,33.00,Meteoric Mirrormuck Orichalcum Of The Forests,217.00,491.62,368.50,106681.5400,79964.5000,248239.23320000,11/15/2016 @ 12:00:00 AM
-19386,"Godseeker, Cult",Mahyrst Keep,31.30,Trolls' Mist Poisonplatinum Of The Twilight,186.00,484.62,440.56,90139.3200,81944.1600,225945.60924000,11/15/2016 @ 12:00:00 AM
-19522,Beamtrap,The Bastion of Barbos,25.41,Emerald Orichalcum,212.00,1957.00,129.81,414884.0000,27519.7200,554818.50525200,11/15/2016 @ 12:00:00 AM
-29175,Emberspawn,The Citadel of Alammius,32.67,Fleshshock Mercury,211.00,-31.02,-28.20,-6545.2200,-5950.2000,-16577.67371400,11/15/2016 @ 12:00:00 AM
-139,"Lord of Nightmares, Iran",The Flying Witch,5.16,Shadow Metal,222.00,1606.00,298.00,356532.0000,66156.0000,444498.70080000,11/15/2016 @ 12:00:00 AM
-30216,"The Cremator, Blazeflare",The Tower of Sabiesu the Awesome,10.00,Incubi's Glittering Tin Of The Future,197.00,192.96,233.49,38013.1200,45997.5300,92411.71500000,11/15/2016 @ 12:00:00 AM
-19849,"The Grasping, Nailpiston",Reyny Keep,-3.35,Emerald Orichalcum,213.00,1957.00,142.79,416841.0000,30414.2700,432272.21845500,11/15/2016 @ 12:00:00 AM
-6181,"Gust, Shadow",The Shadow Downs,34.00,Shadowhell Mithril,141.00,462.21,420.19,65171.6100,59246.7900,166720.65600000,11/15/2016 @ 12:00:00 AM
-31994,"Goddess of Travel, Lenwenye",Hafeld Keep,47.59,Planar Mudtin Of Trolls,138.00,191.40,174.00,26413.2000,24012.0000,74422.55268000,11/15/2016 @ 12:00:00 AM
-17810,"Roguemist, Rouge",Bergfison's Deep,16.00,Mithril Of The Tropics,29.00,276.72,251.56,8024.8800,7295.2400,17771.33920000,11/15/2016 @ 12:00:00 AM
-16848,"Godseeker, Cult",Gena's Hold,5.85,Grayplatinum,318.00,2548.00,104.94,810264.0000,33370.9200,892987.56282000,11/15/2016 @ 12:00:00 AM
-3074,"Seraphheart, Storm",The Khazahol Crags,20.68,Spectres' Shadowy Terrorglow Adamant Of Life,155.00,-297.62,175.08,-46131.1000,27137.4000,-22921.59716000,11/15/2016 @ 12:00:00 AM
-26399,"God of Love, Prusu",Moor Village,11.32,Grayplatinum,311.00,2548.00,104.94,792428.0000,32636.3400,918461.62328800,11/15/2016 @ 12:00:00 AM
-13148,Ironbrood,The Lewd King,41.80,Poison Adamant,262.00,110.96,100.87,29071.5200,26427.9400,78698.23428000,11/15/2016 @ 12:00:00 AM
-25518,"Tomblion, Shadow",The Pirate's Pipe,16.94,Primordial Mud Orichalcum,104.00,1113.00,20.57,115752.0000,2139.2800,137862.06283200,11/15/2016 @ 12:00:00 AM
-3577,Spikerivet,The Khazahol Crags,20.68,Mind Lead,260.00,756.00,199.17,196560.0000,51784.2000,299701.78056000,11/15/2016 @ 12:00:00 AM
+3812,"Burnchill, The Evil",The Broken Shield,12.00,Primordial Plague Mercury Of Legend,192.00,1150.79,67.00,220951.6800,12864.0000,261873.56160000,11/15/2006 @ 12:00:00 AM
+35425,"Lionare, God of the Lost",Citadel Ward,4.40,Vampires' Fang Emeraldsilver,223.00,2033.69,88.92,453512.8700,19829.1600,494169.07932000,11/15/2006 @ 12:00:00 AM
+2984,"Maeglodor, God of Thieves",The Archer and Scroll,45.16,Falserainbow Lead,147.00,872.99,70.18,128329.5300,10316.4600,201258.51908400,11/15/2006 @ 12:00:00 AM
+33038,"Jericho, Wolf",The Archer and Scroll,60.12,Fairies' Supreme Mistsmoke Lead Of The Future,114.00,499.73,549.70,56969.2200,62665.8000,191559.59402400,11/15/2006 @ 12:00:00 AM
+9148,"Maverick, Wind",The Tomb of Hellish Ruin,33.00,Meteoric Mirrormuck Orichalcum Of The Forests,217.00,491.62,368.50,106681.5400,79964.5000,248239.23320000,11/15/2006 @ 12:00:00 AM
+19386,"Cult, Godseeker",Mahyrst Keep,31.30,Trolls' Mist Poisonplatinum Of The Twilight,186.00,484.62,440.56,90139.3200,81944.1600,225945.60924000,11/15/2006 @ 12:00:00 AM
+19522,Beamtrap,The Bastion of Barbos,25.41,Emerald Orichalcum,212.00,1957.00,129.81,414884.0000,27519.7200,554818.50525200,11/15/2006 @ 12:00:00 AM
+29175,Emberspawn,The Citadel of Alammius,32.67,Fleshshock Mercury,211.00,-31.02,-28.20,-6545.2200,-5950.2000,-16577.67371400,11/15/2006 @ 12:00:00 AM
+139,"Iran, Lord of Nightmares",The Flying Witch,5.16,Shadow Metal,222.00,1606.00,298.00,356532.0000,66156.0000,444498.70080000,11/15/2006 @ 12:00:00 AM
+30216,"Blazeflare, The Cremator",The Tower of Sabiesu the Awesome,10.00,Incubi's Glittering Tin Of The Future,197.00,192.96,233.49,38013.1200,45997.5300,92411.71500000,11/15/2016 @ 12:00:00 AM
+19849,"Nailpiston, The Grasping",Reyny Keep,-3.35,Emerald Orichalcum,213.00,1957.00,142.79,416841.0000,30414.2700,432272.21845500,11/15/2006 @ 12:00:00 AM
+6181,"Shadow, Gust",The Shadow Downs,34.00,Shadowhell Mithril,141.00,462.21,420.19,65171.6100,59246.7900,166720.65600000,11/15/2006 @ 12:00:00 AM
+31994,"Lenwenye, Goddess of Travel",Hafeld Keep,47.59,Planar Mudtin Of Trolls,138.00,191.40,174.00,26413.2000,24012.0000,74422.55268000,11/15/2006 @ 12:00:00 AM
+17810,"Rouge, Roguemist",Bergfison's Deep,16.00,Mithril Of The Tropics,29.00,276.72,251.56,8024.8800,7295.2400,17771.33920000,11/15/2006 @ 12:00:00 AM
+16848,"Cult, Godseeker",Gena's Hold,5.85,Grayplatinum,318.00,2548.00,104.94,810264.0000,33370.9200,892987.56282000,11/15/2006 @ 12:00:00 AM
+3074,"Storm, Seraphheart",The Khazahol Crags,20.68,Spectres' Shadowy Terrorglow Adamant Of Life,155.00,-297.62,175.08,-46131.1000,27137.4000,-22921.59716000,11/15/2006 @ 12:00:00 AM
+26399,"Prusu, God of Love",Moor Village,11.32,Grayplatinum,311.00,2548.00,104.94,792428.0000,32636.3400,918461.62328800,11/15/2006 @ 12:00:00 AM
+13148,Ironbrood,The Lewd King,41.80,Poison Adamant,262.00,110.96,100.87,29071.5200,26427.9400,78698.23428000,11/15/2006 @ 12:00:00 AM
+25518,"Shadow, Tomblion",The Pirate's Pipe,16.94,Primordial Mud Orichalcum,104.00,1113.00,20.57,115752.0000,2139.2800,137862.06283200,11/15/2006 @ 12:00:00 AM
+3577,Spikerivet,The Khazahol Crags,20.68,Mind Lead,260.00,756.00,199.17,196560.0000,51784.2000,299701.78056000,11/15/2006 @ 12:00:00 AM

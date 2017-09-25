@@ -1,21 +1,21 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-12641,"The Machine, Evilcoil",Noble's Village,5.43,Djinni's Mind Fogiron,154.00,57.23,52.03,8813.4200,8012.6200,17739.69397200,05/13/2017 @ 12:00:00 AM
-11461,"Darkzealot, Dawn",The Black Barrow of Bery,19.80,Zephyr Iron,295.00,282.77,257.06,83417.1500,75832.7000,190781.32030000,05/13/2017 @ 12:00:00 AM
-1461,"Ivycaster, Fate",The Broken Arrow,16.00,Glittering Orichalcum,132.00,2056.00,330.00,271392.0000,43560.0000,365344.32000000,05/13/2017 @ 12:00:00 AM
-10179,"The Cremator, Blazeflare",Gifeld Castle,27.28,Muck Orichalcum Of Ogres,302.00,2080.00,97.93,628160.0000,29574.8600,837164.92980800,05/13/2017 @ 12:00:00 AM
-10293,"Lady of Fire, Nelalwe",Arcanist's Farthing,29.00,Dragons' Poison Glitterflesh Steel Of The North,282.00,742.00,75.00,209244.0000,21150.0000,297208.26000000,05/13/2017 @ 12:00:00 AM
-33068,"Goddess of Thieves, Melcha",The Archer and Scroll,60.12,Mind Lead,232.00,241.00,219.09,55912.0000,50828.8800,170913.49705600,05/13/2017 @ 12:00:00 AM
-23929,"Lionwatcher, Law",The Lewd King,45.98,Toxic Mistlead Of The Past,311.00,396.06,396.06,123174.6600,123174.6600,359620.73733600,05/13/2017 @ 12:00:00 AM
-20174,"The Cold, Burnfreeze",Bifar's Deep,11.10,Unknowable Mindsilver,353.00,174.90,174.90,61739.7000,61739.7000,137185.61340000,05/13/2017 @ 12:00:00 AM
-19180,"Tomblion, Shadow",Gifeld Castle,33.01,Foul Ice Bronze Of Life,259.00,292.82,266.20,75840.3800,68945.8000,192580.09801800,05/13/2017 @ 12:00:00 AM
-21667,Spikespawn,Citadel Ward,4.40,Yellow Mistearth Copper,45.00,287.98,261.80,12959.1000,11781.0000,25828.66440000,05/13/2017 @ 12:00:00 AM
-32619,"The Binder, Springpulley",The Chuallanto Jungle,11.00,Unspeakable Rotsoul Mithril Of Souls,208.00,370.26,336.60,77014.0800,70012.8000,163199.83680000,05/13/2017 @ 12:00:00 AM
-30097,"Lord of the Sea, Penur",The Tower of Sabiesu the Awesome,10.00,Heavenly Dreamsilver Of The Night,209.00,719.00,314.60,150271.0000,65751.4000,237624.64000000,05/13/2017 @ 12:00:00 AM
-17413,"Bladewitch, Zeal",North Arcanist's Farthing,2.75,Incubi's Glittering Tin Of The Future,217.00,192.96,212.26,41872.3200,46060.4200,90350.89035000,05/13/2017 @ 12:00:00 AM
-27070,"The Cadaverous, Chainblade",Citadel Ward,4.40,Swordbronze,214.00,403.29,366.63,86304.0600,78458.8200,172012.44672000,05/13/2017 @ 12:00:00 AM
-8906,"The Frigid, Icechill",Reheath Stronghold,39.60,Djinni's Spectral Shadowlead Of Life,143.00,1718.00,259.12,245674.0000,37054.1600,394688.51136000,05/13/2017 @ 12:00:00 AM
-16734,"God of Resurrection, Gadriel",North Arcanist's Farthing,2.75,Golems' Stonesapphire Gold Of The Glacier,267.00,176.00,160.00,46992.0000,42720.0000,92179.08000000,05/13/2017 @ 12:00:00 AM
-26439,"The Firey, Evilember",Citadel Ward,4.40,Heavenly Dreamsilver Of The Night,87.00,719.00,314.60,62553.0000,27370.2000,93879.82080000,05/13/2017 @ 12:00:00 AM
-27983,"Tsunami, Seraphim",The Chuallanto Jungle,11.00,Vampires' Fang Emeraldsilver,251.00,2033.69,80.84,510456.1900,20290.8400,589129.20330000,05/13/2017 @ 12:00:00 AM
-25489,"The Terrifying, Deathspike",Weke Tower,47.19,Primordial Mud Orichalcum,199.00,1113.00,20.57,221487.0000,4093.4300,332031.83491700,05/13/2017 @ 12:00:00 AM
-4915,Chainhorror,The Dismal Marsh,27.00,Unspeakable Rotsoul Mithril Of Souls,79.00,2076.95,306.00,164079.0500,24174.0000,239081.37350000,05/13/2017 @ 12:00:00 AM
+12641,"The Machine, Evilcoil",Noble's Village,5.43,Djinni's Mind Fogiron,154.00,57.23,52.03,8813.4200,8012.6200,17739.69397200,05/13/1947 @ 12:00:00 AM
+11461,"Darkzealot, Dawn",The Black Barrow of Bery,19.80,Zephyr Iron,295.00,282.77,257.06,83417.1500,75832.7000,190781.32030000,05/13/1947 @ 12:00:00 AM
+1461,"Ivycaster, Fate",The Broken Arrow,16.00,Glittering Orichalcum,132.00,2056.00,330.00,271392.0000,43560.0000,365344.32000000,05/13/1947 @ 12:00:00 AM
+10179,"The Cremator, Blazeflare",Gifeld Castle,27.28,Muck Orichalcum Of Ogres,302.00,2080.00,97.93,628160.0000,29574.8600,837164.92980800,05/13/1947 @ 12:00:00 AM
+10293,"Lady of Fire, Nelalwe",Arcanist's Farthing,29.00,Dragons' Poison Glitterflesh Steel Of The North,282.00,742.00,75.00,209244.0000,21150.0000,297208.26000000,05/13/1947 @ 12:00:00 AM
+33068,"Goddess of Thieves, Melcha",The Archer and Scroll,60.12,Mind Lead,232.00,241.00,219.09,55912.0000,50828.8800,170913.49705600,05/13/1947 @ 12:00:00 AM
+23929,"Lionwatcher, Law",The Lewd King,45.98,Toxic Mistlead Of The Past,311.00,396.06,396.06,123174.6600,123174.6600,359620.73733600,05/13/1947 @ 12:00:00 AM
+20174,"The Cold, Burnfreeze",Bifar's Deep,11.10,Unknowable Mindsilver,353.00,174.90,174.90,61739.7000,61739.7000,137185.61340000,05/13/1947 @ 12:00:00 AM
+19180,"Tomblion, Shadow",Gifeld Castle,33.01,Foul Ice Bronze Of Life,259.00,292.82,266.20,75840.3800,68945.8000,192580.09801800,05/13/1947 @ 12:00:00 AM
+21667,Spikespawn,Citadel Ward,4.40,Yellow Mistearth Copper,45.00,287.98,261.80,12959.1000,11781.0000,25828.66440000,05/13/1947 @ 12:00:00 AM
+32619,"The Binder, Springpulley",The Chuallanto Jungle,11.00,Unspeakable Rotsoul Mithril Of Souls,208.00,370.26,336.60,77014.0800,70012.8000,163199.83680000,05/13/1947 @ 12:00:00 AM
+30097,"Lord of the Sea, Penur",The Tower of Sabiesu the Awesome,10.00,Heavenly Dreamsilver Of The Night,209.00,719.00,314.60,150271.0000,65751.4000,237624.64000000,05/13/1947 @ 12:00:00 AM
+17413,"Bladewitch, Zeal",North Arcanist's Farthing,2.75,Incubi's Glittering Tin Of The Future,217.00,192.96,212.26,41872.3200,46060.4200,90350.89035000,05/13/1947 @ 12:00:00 AM
+27070,"The Cadaverous, Chainblade",Citadel Ward,4.40,Swordbronze,214.00,403.29,366.63,86304.0600,78458.8200,172012.44672000,05/13/1947 @ 12:00:00 AM
+8906,"The Frigid, Icechill",Reheath Stronghold,39.60,Djinni's Spectral Shadowlead Of Life,143.00,1718.00,259.12,245674.0000,37054.1600,394688.51136000,05/13/1947 @ 12:00:00 AM
+16734,"God of Resurrection, Gadriel",North Arcanist's Farthing,2.75,Golems' Stonesapphire Gold Of The Glacier,267.00,176.00,160.00,46992.0000,42720.0000,92179.08000000,05/13/1947 @ 12:00:00 AM
+26439,"The Firey, Evilember",Citadel Ward,4.40,Heavenly Dreamsilver Of The Night,87.00,719.00,314.60,62553.0000,27370.2000,93879.82080000,05/13/1987 @ 12:00:00 AM
+27983,"Tsunami, Seraphim",The Chuallanto Jungle,11.00,Vampires' Fang Emeraldsilver,251.00,2033.69,80.84,510456.1900,20290.8400,589129.20330000,05/13/1947 @ 12:00:00 AM
+25489,"The Terrifying, Deathspike",Weke Tower,47.19,Primordial Mud Orichalcum,199.00,1113.00,20.57,221487.0000,4093.4300,332031.83491700,05/13/1947 @ 12:00:00 AM
+4915,Chainhorror,The Dismal Marsh,27.00,Unspeakable Rotsoul Mithril Of Souls,79.00,2076.95,306.00,164079.0500,24174.0000,239081.37350000,05/13/1947 @ 12:00:00 AM

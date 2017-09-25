@@ -1,14 +1,14 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-23587,"God of Thieves, Maeglodor",Weke Tower,47.19,Fleshshock Mercury,249.00,-31.02,-28.20,-7723.9800,-7021.8000,-21704.31358200,05/14/2018 @ 12:00:00 AM
-1757,"Seeker, Fate",The Broken Arrow,16.00,Negative Mercury,149.00,4115.00,68.00,613135.0000,10132.0000,722989.72000000,05/14/2018 @ 12:00:00 AM
-10583,"God of Resurrection, Gadriel",Arcanist's Farthing,29.00,Tritons' Time Stoneiron Of Legend,144.00,2235.00,310.54,321840.0000,44717.7600,472859.51040000,05/14/2018 @ 12:00:00 AM
-35916,"The Binder, Springpulley",Bifar's Deep,12.21,Lycanthropes' Gold,266.00,449.88,408.98,119668.0800,108788.6800,256351.33039600,05/14/2018 @ 12:00:00 AM
-19448,Springcoil,Weke Tower,47.19,Golems' Stonesapphire Gold Of The Glacier,143.00,176.00,160.00,25168.0000,22880.0000,70721.85120000,05/14/2018 @ 12:00:00 AM
-31167,"Mistseeker, Grave",Noble's Village,6.57,Planar Mudtin Of Trolls,114.00,191.40,174.00,21819.6000,19836.0000,44392.37292000,05/14/2018 @ 12:00:00 AM
-31271,Ironbrood,Hafeld Keep,47.59,Pearl Mirrorice Steel Of Changelings,326.00,365.42,365.42,119126.9200,119126.9200,351638.84245600,05/14/2018 @ 12:00:00 AM
-31314,"Lord of Death, Addon",Hafeld Keep,47.59,Grayplatinum,359.00,2548.00,104.94,914732.0000,37673.4600,1405655.21841400,05/14/2018 @ 12:00:00 AM
-7253,"The Cadaverous, Chainblade",The Bastion of Sthasu the Gruesome,40.00,Sapphire Mindlead,208.00,-44.77,-40.70,-9312.1600,-8465.6000,-24888.86400000,05/14/2018 @ 12:00:00 AM
-18729,"Roguemist, Rouge",The Dancing Minstrel,39.62,Toxic Mistlead Of The Past,156.00,396.06,396.06,61785.3600,61785.3600,172529.43926400,05/14/2018 @ 12:00:00 AM
-27582,"Felldrake, Magus",The Bastion of Gothmog of Udun,-2.42,Sprites' Transcendent Mud Lead Of The South,264.00,3338.65,267.08,881403.6000,70509.1200,928876.43217600,05/14/2018 @ 12:00:00 AM
-15769,Spikesnare,The Dungeon of Merciless Woe,3.61,Shadowhell Mithril,150.00,462.21,420.19,69331.5000,63028.5000,137138.19600000,05/14/2018 @ 12:00:00 AM
-25245,"Goddess of Travel, Lenwenye",Kada's Deep,8.42,Incubi's Iron Of The Dawn,164.00,192.49,174.99,31568.3600,28698.3600,65341.17782400,05/14/2018 @ 12:00:00 AM
+23587,"Maeglodor, God of Thieves",Weke Tower,47.19,Fleshshock Mercury,249.00,-31.02,-28.20,-7723.9800,-7021.8000,-21704.31358200,05/14/2008 @ 12:00:00 AM
+1757,"Fate, Seeker",The Broken Arrow,16.00,Negative Mercury,149.00,4115.00,68.00,613135.0000,10132.0000,722989.72000000,05/14/2008 @ 12:00:00 AM
+10583,"Gadriel, God of Resurrection",Arcanist's Farthing,29.00,Tritons' Time Stoneiron Of Legend,144.00,2235.00,310.54,321840.0000,44717.7600,472859.51040000,05/14/2008 @ 12:00:00 AM
+35916,"Springpulley, The Binder",Bifar's Deep,12.21,Lycanthropes' Gold,266.00,449.88,408.98,119668.0800,108788.6800,256351.33039600,05/14/2008 @ 12:00:00 AM
+19448,Springcoil,Weke Tower,47.19,Golems' Stonesapphire Gold Of The Glacier,143.00,176.00,160.00,25168.0000,22880.0000,70721.85120000,05/14/2008 @ 12:00:00 AM
+31167,"Grave, Mistseeker",Noble's Village,6.57,Planar Mudtin Of Trolls,114.00,191.40,174.00,21819.6000,19836.0000,44392.37292000,05/14/2008 @ 12:00:00 AM
+31271,Ironbrood,Hafeld Keep,47.59,Pearl Mirrorice Steel Of Changelings,326.00,365.42,365.42,119126.9200,119126.9200,351638.84245600,05/14/2008 @ 12:00:00 AM
+31314,"Addon, Lord of Death",Hafeld Keep,47.59,Grayplatinum,359.00,2548.00,104.94,914732.0000,37673.4600,1405655.21841400,05/14/2008 @ 12:00:00 AM
+7253,"Chainblade, The Cadaverous",The Bastion of Sthasu the Gruesome,40.00,Sapphire Mindlead,208.00,-44.77,-40.70,-9312.1600,-8465.6000,-24888.86400000,05/14/2008 @ 12:00:00 AM
+18729,"Rouge, Roguemist",The Dancing Minstrel,39.62,Toxic Mistlead Of The Past,156.00,396.06,396.06,61785.3600,61785.3600,172529.43926400,05/14/2008 @ 12:00:00 AM
+27582,"Magus, Felldrake",The Bastion of Gothmog of Udun,-2.42,Sprites' Transcendent Mud Lead Of The South,264.00,3338.65,267.08,881403.6000,70509.1200,928876.43217600,05/14/2008 @ 12:00:00 AM
+15769,Spikesnare,The Dungeon of Merciless Woe,3.61,Shadowhell Mithril,150.00,462.21,420.19,69331.5000,63028.5000,137138.19600000,05/14/2008 @ 12:00:00 AM
+25245,"Lenwenye, Goddess of Travel",Kada's Deep,8.42,Incubi's Iron Of The Dawn,164.00,192.49,174.99,31568.3600,28698.3600,65341.17782400,05/14/2008 @ 12:00:00 AM

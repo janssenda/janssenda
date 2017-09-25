@@ -1,20 +1,20 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-11159,Graveterror,Mahyrst Keep,28.45,Shadow Metal,98.00,1606.00,298.00,157388.0000,29204.0000,239677.42400000,03/12/2018 @ 12:00:00 AM
-3818,Cinderember,The Fortress of Akkun the Grim,27.03,Mind Lead,110.00,756.00,199.17,83160.0000,21908.7000,133468.76961000,03/12/2018 @ 12:00:00 AM
-36643,"The Grasping, Nailpiston",The Fen of the Necromancer,32.21,Phantasmal Tin Of The Swamps,181.00,405.96,369.05,73478.7600,66798.0500,185459.97050100,03/12/2018 @ 12:00:00 AM
-11326,"Gust, Shadow",The Fen of the Necromancer,20.00,Shadow Metal,275.00,1606.00,298.00,441650.0000,81950.0000,628320.00000000,03/12/2018 @ 12:00:00 AM
-24577,"Mystery, Lord",Eved Castle,30.80,Foul Ice Bronze Of Life,71.00,292.82,266.20,20790.2200,18900.2000,51915.06936000,03/12/2018 @ 12:00:00 AM
-10056,Bronzespawn,Gifeld Castle,27.28,Angels' Adamant,302.00,51.48,46.80,15546.9600,14133.6000,37777.41676800,03/12/2018 @ 12:00:00 AM
-23532,"Godwarlock, Sunrise",Weke Tower,47.19,Fleshshock Mercury,198.00,-31.02,-28.20,-6141.9600,-5583.6000,-17258.85176400,03/12/2018 @ 12:00:00 AM
-21133,"God of Death, Avriel",Gena's Hold,5.85,Stone Soulsteel Of The Skies,317.00,453.31,412.10,143699.2700,130635.7000,290383.56574500,03/12/2018 @ 12:00:00 AM
-34378,"Godwarlock, Sunrise",Mahyrst Keep,31.30,Unspeakable Rotsoul Mithril Of Souls,368.00,370.26,336.60,136255.6800,123868.8000,341543.44224000,03/12/2018 @ 12:00:00 AM
-9041,Metalbrood,Love Keep,40.56,Djinni's Spectral Shadowlead Of Life,288.00,1718.00,259.12,494784.0000,74626.5600,800363.48313600,03/12/2018 @ 12:00:00 AM
-10742,"Goddess of the Earth, Gono",The Drunken Thief,18.41,Fairies' Supreme Mistsmoke Lead Of The Future,81.00,2622.69,454.30,212437.8900,36798.3000,295120.57257900,03/12/2018 @ 12:00:00 AM
-7231,"Lord of Death, Addon",The Bastion of the Vampire Duke,34.45,Vampires' Hammer Emeraldmetal,375.00,77.44,70.40,29040.0000,26400.0000,74539.08000000,03/12/2018 @ 12:00:00 AM
-9910,"The Freezer, Shiverflame",The Lost Crypts of Sorrows,2.20,Timeiron,261.00,3255.00,-16.25,849555.0000,-4241.2500,863910.65250000,03/12/2018 @ 12:00:00 AM
-16098,"God of Thieves, Maeglodor",Reyny Keep,-3.35,Incubi's Iron Of The Dawn,102.00,174.99,174.99,17848.9800,17848.9800,34502.07834000,03/12/2018 @ 12:00:00 AM
-17641,"The Cold, Burnfreeze",Kada's Deep,8.42,Starsmoke Bronze Of Life,199.00,-438.00,420.81,-87162.0000,83741.1900,-3708.84220200,03/12/2018 @ 12:00:00 AM
-27437,Beamtrap,The Bastion of Gothmog of Udun,-2.42,Vampires' Hammer Emeraldmetal,114.00,93.70,85.18,10681.8000,9710.5200,19898.82585600,03/12/2018 @ 12:00:00 AM
-15896,"The Blade, Steelterror",The Tower of Aramum,20.00,Imperial Fate Steel,170.00,419.10,381.00,71247.0000,64770.0000,163220.40000000,03/12/2018 @ 12:00:00 AM
-27966,Bolttrap,Barad Kesa,5.61,Stone Soulsteel Of The Skies,275.00,453.31,412.10,124660.2500,113327.5000,251338.86277500,03/12/2018 @ 12:00:00 AM
-4733,"The Unspeakable, Gravebone",Eved Castle,28.00,Fairies' Supreme Mistsmoke Lead Of The Future,311.00,2622.69,413.00,815656.5900,128443.0000,1208447.47520000,03/12/2018 @ 12:00:00 AM
+11159,Graveterror,Mahyrst Keep,28.45,Shadow Metal,98.00,1606.00,298.00,157388.0000,29204.0000,239677.42400000,03/12/1948 @ 12:00:00 AM
+3818,Cinderember,The Fortress of Akkun the Grim,27.03,Mind Lead,110.00,756.00,199.17,83160.0000,21908.7000,133468.76961000,03/12/1948 @ 12:00:00 AM
+36643,"The Grasping, Nailpiston",The Fen of the Necromancer,32.21,Phantasmal Tin Of The Swamps,181.00,405.96,369.05,73478.7600,66798.0500,185459.97050100,03/12/1948 @ 12:00:00 AM
+11326,"Gust, Shadow",The Fen of the Necromancer,20.00,Shadow Metal,275.00,1606.00,298.00,441650.0000,81950.0000,628320.00000000,03/12/1948 @ 12:00:00 AM
+24577,"Mystery, Lord",Eved Castle,30.80,Foul Ice Bronze Of Life,71.00,292.82,266.20,20790.2200,18900.2000,51915.06936000,03/12/1948 @ 12:00:00 AM
+10056,Bronzespawn,Gifeld Castle,27.28,Angels' Adamant,302.00,51.48,46.80,15546.9600,14133.6000,37777.41676800,03/12/1948 @ 12:00:00 AM
+23532,"Godwarlock, Sunrise",Weke Tower,47.19,Fleshshock Mercury,198.00,-31.02,-28.20,-6141.9600,-5583.6000,-17258.85176400,03/12/1948 @ 12:00:00 AM
+21133,"God of Death, Avriel",Gena's Hold,5.85,Stone Soulsteel Of The Skies,317.00,453.31,412.10,143699.2700,130635.7000,290383.56574500,03/12/1948 @ 12:00:00 AM
+34378,"Godwarlock, Sunrise",Mahyrst Keep,31.30,Unspeakable Rotsoul Mithril Of Souls,368.00,370.26,336.60,136255.6800,123868.8000,341543.44224000,03/12/1948 @ 12:00:00 AM
+9041,Metalbrood,Love Keep,40.56,Djinni's Spectral Shadowlead Of Life,288.00,1718.00,259.12,494784.0000,74626.5600,800363.48313600,03/12/1948 @ 12:00:00 AM
+10742,"Goddess of the Earth, Gono",The Drunken Thief,18.41,Fairies' Supreme Mistsmoke Lead Of The Future,81.00,2622.69,454.30,212437.8900,36798.3000,295120.57257900,03/12/1948 @ 12:00:00 AM
+7231,"Lord of Death, Addon",The Bastion of the Vampire Duke,34.45,Vampires' Hammer Emeraldmetal,375.00,77.44,70.40,29040.0000,26400.0000,74539.08000000,03/12/1948 @ 12:00:00 AM
+9910,"The Freezer, Shiverflame",The Lost Crypts of Sorrows,2.20,Timeiron,261.00,3255.00,-16.25,849555.0000,-4241.2500,863910.65250000,03/12/1948 @ 12:00:00 AM
+16098,"God of Thieves, Maeglodor",Reyny Keep,-3.35,Incubi's Iron Of The Dawn,102.00,174.99,174.99,17848.9800,17848.9800,34502.07834000,03/12/1948 @ 12:00:00 AM
+17641,"The Cold, Burnfreeze",Kada's Deep,8.42,Starsmoke Bronze Of Life,199.00,-438.00,420.81,-87162.0000,83741.1900,-3708.84220200,03/12/1948 @ 12:00:00 AM
+27437,Beamtrap,The Bastion of Gothmog of Udun,-2.42,Vampires' Hammer Emeraldmetal,114.00,93.70,85.18,10681.8000,9710.5200,19898.82585600,03/12/1948 @ 12:00:00 AM
+15896,"The Blade, Steelterror",The Tower of Aramum,20.00,Imperial Fate Steel,170.00,419.10,381.00,71247.0000,64770.0000,163220.40000000,03/12/1988 @ 12:00:00 AM
+27966,Bolttrap,Barad Kesa,5.61,Stone Soulsteel Of The Skies,275.00,453.31,412.10,124660.2500,113327.5000,251338.86277500,03/12/1948 @ 12:00:00 AM
+4733,"The Unspeakable, Gravebone",Eved Castle,28.00,Fairies' Supreme Mistsmoke Lead Of The Future,311.00,2622.69,413.00,815656.5900,128443.0000,1208447.47520000,03/12/1948 @ 12:00:00 AM

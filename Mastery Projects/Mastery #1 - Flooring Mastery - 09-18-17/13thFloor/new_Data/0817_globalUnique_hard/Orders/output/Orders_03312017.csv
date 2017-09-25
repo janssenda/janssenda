@@ -1,18 +1,18 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-36722,"God of Resurrection, Gadriel",The Fen of the Necromancer,32.21,Grayplatinum,171.00,2548.00,115.43,435708.0000,19738.5300,602145.85731300,03/31/2017 @ 12:00:00 AM
-23340,"Godseeker, Cult",The Secret Catacombs of Ulfang the Black,31.70,Shadowhell Mithril,120.00,462.21,420.19,55465.2000,50422.8000,139454.49600000,03/31/2017 @ 12:00:00 AM
-33362,"Knightseraph, Lance",The Archer and Scroll,60.12,Undeads' Mind Orichalcum Of The Twilight,376.00,1169.00,364.69,439544.0000,137123.4400,923359.90492800,03/31/2017 @ 12:00:00 AM
-32032,"God of War, Ingwenel",Weke Tower,47.19,Pearl Mirrorice Steel Of Changelings,2.00,365.42,365.42,730.8400,730.8400,2151.44679200,03/31/2017 @ 12:00:00 AM
-10714,Bronzespike,The Bastion of the Vampire Duke,37.90,Pearl Mirrorice Steel Of Changelings,128.00,2996.00,302.00,383488.0000,38656.0000,582136.57600000,03/31/2017 @ 12:00:00 AM
-9308,Evilbrood,The Lost Sanctum of Woe,43.20,Unknown Fatelightning Steel Of The Glacier,214.00,119.90,131.89,25658.6000,28224.4600,77160.54192000,03/31/2017 @ 12:00:00 AM
-32681,"God of the Lost, Lionare",Hafeld Keep,47.59,Fairies' Supreme Mistsmoke Lead Of The Future,219.00,499.73,549.70,109440.8700,120384.3000,339198.96840300,03/31/2017 @ 12:00:00 AM
-9666,Spikerivet,Archring Borough,29.70,Muck Orichalcum Of Ogres,280.00,2080.00,97.93,582400.0000,27420.4000,790937.05880000,03/31/2017 @ 12:00:00 AM
-31788,Evilbrood,Hafeld Keep,47.59,Pearl Mirrorice Steel Of Changelings,256.00,365.42,365.42,93547.5200,93547.5200,276133.56953600,03/31/2017 @ 12:00:00 AM
-18952,"Goddess of Thieves, Melcha",The Bastion of Barbos,25.41,Emerald Orichalcum,182.00,1957.00,129.81,356174.0000,23625.4200,476306.45262200,03/31/2017 @ 12:00:00 AM
-16482,"The Disinterred, Spikebrood",Gili's Delve,35.89,Swordbronze,119.00,333.30,303.00,39662.7000,36057.0000,102895.50033000,03/31/2017 @ 12:00:00 AM
-14221,"Veil, Bane",The Archer and Scroll,49.68,Mind Lead,131.00,241.00,219.09,31571.0000,28700.7900,90214.81527200,03/31/2017 @ 12:00:00 AM
-13184,"Goddess of Knowledge, Baltha",Gifeld Castle,30.01,Poison Adamant,79.00,110.96,100.87,8765.8400,7968.7300,21756.61445700,03/31/2017 @ 12:00:00 AM
-37122,"Goddess of Knowledge, Baltha",The Greedy Wench,13.31,Ghouls' Imperial Soulzephyr Mithril Of The Seas,209.00,318.23,318.23,66510.0700,66510.0700,150725.12063400,03/31/2017 @ 12:00:00 AM
-27881,"Goddess of Travel, Lenwenye",The Bastion of Gothmog of Udun,-2.42,Sprites' Transcendent Mud Lead Of The South,253.00,3338.65,267.08,844678.4500,67571.2400,890173.24750200,03/31/2017 @ 12:00:00 AM
-27826,"God of Animals, Byzou",The Pirate's Pipe,16.94,Unknown Fatelightning Steel Of The Glacier,230.00,145.08,159.59,33368.4000,36705.7000,81944.65254000,03/31/2017 @ 12:00:00 AM
-4644,"Mistseeker, Grave",Noble's Village,4.49,Trolls' Rubymercury Of The Sunset,197.00,2733.00,443.00,538401.0000,87271.0000,653764.67280000,03/31/2017 @ 12:00:00 AM
+36722,"Gadriel, God of Resurrection",The Fen of the Necromancer,32.21,Grayplatinum,171.00,2548.00,115.43,435708.0000,19738.5300,602145.85731300,03/31/2007 @ 12:00:00 AM
+23340,"Cult, Godseeker",The Secret Catacombs of Ulfang the Black,31.70,Shadowhell Mithril,120.00,462.21,420.19,55465.2000,50422.8000,139454.49600000,03/31/2007 @ 12:00:00 AM
+33362,"Lance, Knightseraph",The Archer and Scroll,60.12,Undeads' Mind Orichalcum Of The Twilight,376.00,1169.00,364.69,439544.0000,137123.4400,923359.90492800,03/31/2007 @ 12:00:00 AM
+32032,"Ingwenel, God of War",Weke Tower,47.19,Pearl Mirrorice Steel Of Changelings,2.00,365.42,365.42,730.8400,730.8400,2151.44679200,03/31/2007 @ 12:00:00 AM
+10714,Bronzespike,The Bastion of the Vampire Duke,37.90,Pearl Mirrorice Steel Of Changelings,128.00,2996.00,302.00,383488.0000,38656.0000,582136.57600000,03/31/2007 @ 12:00:00 AM
+9308,Evilbrood,The Lost Sanctum of Woe,43.20,Unknown Fatelightning Steel Of The Glacier,214.00,119.90,131.89,25658.6000,28224.4600,77160.54192000,03/31/2007 @ 12:00:00 AM
+32681,"Lionare, God of the Lost",Hafeld Keep,47.59,Fairies' Supreme Mistsmoke Lead Of The Future,219.00,499.73,549.70,109440.8700,120384.3000,339198.96840300,03/31/2007 @ 12:00:00 AM
+9666,Spikerivet,Archring Borough,29.70,Muck Orichalcum Of Ogres,280.00,2080.00,97.93,582400.0000,27420.4000,790937.05880000,03/31/2007 @ 12:00:00 AM
+31788,Evilbrood,Hafeld Keep,47.59,Pearl Mirrorice Steel Of Changelings,256.00,365.42,365.42,93547.5200,93547.5200,276133.56953600,03/31/2007 @ 12:00:00 AM
+18952,"Melcha, Goddess of Thieves",The Bastion of Barbos,25.41,Emerald Orichalcum,182.00,1957.00,129.81,356174.0000,23625.4200,476306.45262200,03/31/2007 @ 12:00:00 AM
+16482,"Spikebrood, The Disinterred",Gili's Delve,35.89,Swordbronze,119.00,333.30,303.00,39662.7000,36057.0000,102895.50033000,03/31/2007 @ 12:00:00 AM
+14221,"Bane, Veil",The Archer and Scroll,49.68,Mind Lead,131.00,241.00,219.09,31571.0000,28700.7900,90214.81527200,03/31/2007 @ 12:00:00 AM
+13184,"Baltha, Goddess of Knowledge",Gifeld Castle,30.01,Poison Adamant,79.00,110.96,100.87,8765.8400,7968.7300,21756.61445700,03/31/2007 @ 12:00:00 AM
+37122,"Baltha, Goddess of Knowledge",The Greedy Wench,13.31,Ghouls' Imperial Soulzephyr Mithril Of The Seas,209.00,318.23,318.23,66510.0700,66510.0700,150725.12063400,03/31/2007 @ 12:00:00 AM
+27881,"Lenwenye, Goddess of Travel",The Bastion of Gothmog of Udun,-2.42,Sprites' Transcendent Mud Lead Of The South,253.00,3338.65,267.08,844678.4500,67571.2400,890173.24750200,03/31/2007 @ 12:00:00 AM
+27826,"Byzou, God of Animals",The Pirate's Pipe,16.94,Unknown Fatelightning Steel Of The Glacier,230.00,145.08,159.59,33368.4000,36705.7000,81944.65254000,03/31/2007 @ 12:00:00 AM
+4644,"Grave, Mistseeker",Noble's Village,4.49,Trolls' Rubymercury Of The Sunset,197.00,2733.00,443.00,538401.0000,87271.0000,653764.67280000,03/31/2007 @ 12:00:00 AM

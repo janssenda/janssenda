@@ -1,23 +1,23 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-35401,"Drakecaster, Sephiroth",The Nulukkhath Spires,28.99,Magicians' Legendary Poison Metal,233.00,-52.81,-48.01,-12304.7300,-11186.3300,-30301.11829400,05/06/2018 @ 12:00:00 AM
-36735,"Dawn, Tarot",The Fen of the Necromancer,32.21,Ensorceled Sandmetal Of Spirits,40.00,85.18,93.70,3407.2000,3748.0000,9459.88992000,05/06/2018 @ 12:00:00 AM
-10271,"God of Thieves, Maeglodor",Reheath Stronghold,39.60,Tritons' Time Stoneiron Of Legend,367.00,2235.00,310.54,820245.0000,113968.1800,1304161.59928000,05/06/2018 @ 12:00:00 AM
-23782,"The Grasping, Beamsprocket",The Dungeon of Merciless Woe,3.97,Djinni's Mind Fogiron,2.00,57.23,57.23,114.4600,114.4600,238.00812400,05/06/2018 @ 12:00:00 AM
-35751,"Godwarlock, Sunrise",Citadel Ward,4.40,Magicians' Legendary Poison Metal,290.00,-52.81,-48.01,-15314.9000,-13922.9000,-30524.26320000,05/06/2018 @ 12:00:00 AM
-21082,"Roguemist, Rouge",Moor Village,11.32,Sirens' Rockgold,248.00,336.74,336.74,83511.5200,83511.5200,185930.04812800,05/06/2018 @ 12:00:00 AM
-1812,Cinderflame,The Archer and Blade,15.00,Ghostly Magic Adamant,239.00,49.50,45.00,11830.5000,10755.0000,25973.32500000,05/06/2018 @ 12:00:00 AM
-9195,"The Frigid, Icechill",Reheath Stronghold,39.60,Planar Mudtin Of Trolls,188.00,191.40,174.00,35983.2000,32712.0000,95898.49920000,05/06/2018 @ 12:00:00 AM
-18241,"Runetomb, Song",Barad Cune,49.21,Spirits' Living Wordhammer Tin Of The Trees,253.00,141.57,128.70,35817.2100,32561.1000,102027.27635100,05/06/2018 @ 12:00:00 AM
-17147,Deathbrood,Gena's Hold,5.85,Grayplatinum,284.00,2548.00,104.94,723632.0000,29802.9600,797510.90516000,05/06/2018 @ 12:00:00 AM
-8409,"Reaper, Dagger",Gawold Castle,10.29,Zephyr Adamant,289.00,481.77,-44.14,139231.5300,-12756.4600,139489.35470300,05/06/2018 @ 12:00:00 AM
-19806,"God of Resurrection, Gadriel",Bifar's Deep,11.10,Unknowable Mindsilver,123.00,174.90,174.90,21512.7000,21512.7000,47801.21940000,05/06/2018 @ 12:00:00 AM
-357,"God of Luck, Ariel",The Dungeon of Merciless Woe,3.61,Incubi's Mirrorfog Iron Of The Ocean,362.00,768.03,421.32,278026.8600,152517.8400,446087.36367000,05/06/2018 @ 12:00:00 AM
-6092,"Angelchild, Harmony",The Warrior and Flagon,9.00,Vampires' Hammer Emeraldmetal,182.00,77.44,70.40,14094.0800,12812.8000,29328.49920000,05/06/2018 @ 12:00:00 AM
-6283,"The Skeletal, Spiketerror",The Drunken Thief,18.41,Dragons' Poison Glitterflesh Steel Of The North,59.00,742.00,75.00,43778.0000,4425.0000,57077.17230000,05/06/2018 @ 12:00:00 AM
-31829,"God of Protection, Finarfin",The Demon and Toad,-1.21,Warlocks' Timerot Mithril,216.00,194.65,194.65,42044.4000,42044.4000,83071.32552000,05/06/2018 @ 12:00:00 AM
-30799,"Mist, Claw",The Broken Arrow,17.60,Ensorceled Sandmetal Of Spirits,173.00,85.18,77.44,14736.1400,13397.1200,33084.71376000,05/06/2018 @ 12:00:00 AM
-29707,"Tsunami, Seraphim",The Greedy Wench,13.31,White Platinum,101.00,101.02,91.84,10203.0200,9275.8400,22071.49626600,05/06/2018 @ 12:00:00 AM
-5824,"God of Animals, Byzou",The Warrior and Flagon,9.00,Unholy Poison Copper Of The Mountains,37.00,4312.00,68.97,159544.0000,2551.8900,176684.52010000,05/06/2018 @ 12:00:00 AM
-27971,"God of Death, Avriel",Barad Kesa,5.61,Negative Rockglitter Mercury Of Trolls,242.00,235.59,214.17,57012.7800,51829.1400,114947.95171200,05/06/2018 @ 12:00:00 AM
-2185,"God of Resurrection, Gadriel",The Dismal Marsh,27.00,Stone Soulsteel Of The Skies,151.00,3459.15,340.58,522331.6500,51427.5800,728674.22210000,05/06/2018 @ 12:00:00 AM
-36295,"Drakecaster, Sephiroth",The Fen of the Necromancer,32.21,Phantasmal Tin Of The Swamps,306.00,405.96,369.05,124223.7600,112929.3000,313540.06062600,05/06/2018 @ 12:00:00 AM
+35401,"Drakecaster, Sephiroth",The Nulukkhath Spires,28.99,Magicians' Legendary Poison Metal,233.00,-52.81,-48.01,-12304.7300,-11186.3300,-30301.11829400,05/06/1948 @ 12:00:00 AM
+36735,"Dawn, Tarot",The Fen of the Necromancer,32.21,Ensorceled Sandmetal Of Spirits,40.00,85.18,93.70,3407.2000,3748.0000,9459.88992000,05/06/1948 @ 12:00:00 AM
+10271,"God of Thieves, Maeglodor",Reheath Stronghold,39.60,Tritons' Time Stoneiron Of Legend,367.00,2235.00,310.54,820245.0000,113968.1800,1304161.59928000,05/06/1948 @ 12:00:00 AM
+23782,"The Grasping, Beamsprocket",The Dungeon of Merciless Woe,3.97,Djinni's Mind Fogiron,2.00,57.23,57.23,114.4600,114.4600,238.00812400,05/06/1948 @ 12:00:00 AM
+35751,"Godwarlock, Sunrise",Citadel Ward,4.40,Magicians' Legendary Poison Metal,290.00,-52.81,-48.01,-15314.9000,-13922.9000,-30524.26320000,05/06/1948 @ 12:00:00 AM
+21082,"Roguemist, Rouge",Moor Village,11.32,Sirens' Rockgold,248.00,336.74,336.74,83511.5200,83511.5200,185930.04812800,05/06/1948 @ 12:00:00 AM
+1812,Cinderflame,The Archer and Blade,15.00,Ghostly Magic Adamant,239.00,49.50,45.00,11830.5000,10755.0000,25973.32500000,05/06/1948 @ 12:00:00 AM
+9195,"The Frigid, Icechill",Reheath Stronghold,39.60,Planar Mudtin Of Trolls,188.00,191.40,174.00,35983.2000,32712.0000,95898.49920000,05/06/1948 @ 12:00:00 AM
+18241,"Runetomb, Song",Barad Cune,49.21,Spirits' Living Wordhammer Tin Of The Trees,253.00,141.57,128.70,35817.2100,32561.1000,102027.27635100,05/06/1948 @ 12:00:00 AM
+17147,Deathbrood,Gena's Hold,5.85,Grayplatinum,284.00,2548.00,104.94,723632.0000,29802.9600,797510.90516000,05/06/1978 @ 12:00:00 AM
+8409,"Reaper, Dagger",Gawold Castle,10.29,Zephyr Adamant,289.00,481.77,-44.14,139231.5300,-12756.4600,139489.35470300,05/06/1948 @ 12:00:00 AM
+19806,"God of Resurrection, Gadriel",Bifar's Deep,11.10,Unknowable Mindsilver,123.00,174.90,174.90,21512.7000,21512.7000,47801.21940000,05/06/1948 @ 12:00:00 AM
+357,"God of Luck, Ariel",The Dungeon of Merciless Woe,3.61,Incubi's Mirrorfog Iron Of The Ocean,362.00,768.03,421.32,278026.8600,152517.8400,446087.36367000,05/06/1948 @ 12:00:00 AM
+6092,"Angelchild, Harmony",The Warrior and Flagon,9.00,Vampires' Hammer Emeraldmetal,182.00,77.44,70.40,14094.0800,12812.8000,29328.49920000,05/06/1948 @ 12:00:00 AM
+6283,"The Skeletal, Spiketerror",The Drunken Thief,18.41,Dragons' Poison Glitterflesh Steel Of The North,59.00,742.00,75.00,43778.0000,4425.0000,57077.17230000,05/06/1948 @ 12:00:00 AM
+31829,"God of Protection, Finarfin",The Demon and Toad,-1.21,Warlocks' Timerot Mithril,216.00,194.65,194.65,42044.4000,42044.4000,83071.32552000,05/06/1948 @ 12:00:00 AM
+30799,"Mist, Claw",The Broken Arrow,17.60,Ensorceled Sandmetal Of Spirits,173.00,85.18,77.44,14736.1400,13397.1200,33084.71376000,05/06/1948 @ 12:00:00 AM
+29707,"Tsunami, Seraphim",The Greedy Wench,13.31,White Platinum,101.00,101.02,91.84,10203.0200,9275.8400,22071.49626600,05/06/1948 @ 12:00:00 AM
+5824,"God of Animals, Byzou",The Warrior and Flagon,9.00,Unholy Poison Copper Of The Mountains,37.00,4312.00,68.97,159544.0000,2551.8900,176684.52010000,05/06/1948 @ 12:00:00 AM
+27971,"God of Death, Avriel",Barad Kesa,5.61,Negative Rockglitter Mercury Of Trolls,242.00,235.59,214.17,57012.7800,51829.1400,114947.95171200,05/06/1948 @ 12:00:00 AM
+2185,"God of Resurrection, Gadriel",The Dismal Marsh,27.00,Stone Soulsteel Of The Skies,151.00,3459.15,340.58,522331.6500,51427.5800,728674.22210000,05/06/1948 @ 12:00:00 AM
+36295,"Drakecaster, Sephiroth",The Fen of the Necromancer,32.21,Phantasmal Tin Of The Swamps,306.00,405.96,369.05,124223.7600,112929.3000,313540.06062600,05/06/1948 @ 12:00:00 AM

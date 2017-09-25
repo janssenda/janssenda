@@ -1,19 +1,19 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-23484,"Dire, Wind",Weke Tower,47.19,Shadowhell Mithril,193.00,462.21,420.19,89206.5300,81096.6700,250669.28008000,03/17/2017 @ 12:00:00 AM
-10282,"The Evil, Burnchill",The Drunken Thief,18.41,Fairies' Supreme Mistsmoke Lead Of The Future,281.00,2622.69,454.30,736975.8900,127658.3000,1023813.34437900,03/17/2017 @ 12:00:00 AM
-33450,Chainhorror,The Archer and Scroll,60.12,Undeads' Mind Orichalcum Of The Twilight,133.00,1169.00,364.69,155477.0000,48503.7700,326614.00892400,03/17/2017 @ 12:00:00 AM
-21585,Emberspawn,Reyny Keep,-3.35,Yellow Mistearth Copper,179.00,287.98,261.80,51548.4200,46862.2000,95113.86423000,03/17/2017 @ 12:00:00 AM
-18145,"Mist, Claw",Barad Cune,49.21,Lycanthropes' Gold,268.00,371.80,338.00,99642.4000,90584.0000,283836.81144000,03/17/2017 @ 12:00:00 AM
-9427,Emberfire,Barad Kesa,5.10,Meteoric Mirrormuck Orichalcum Of The Forests,273.00,491.62,368.50,134212.2600,100600.5000,246788.21076000,03/17/2017 @ 12:00:00 AM
-9494,"Goddess of Fate, Azah",The Fortress of the Lich Queen,17.13,Forgotten Mithril,97.00,3909.75,496.10,379245.7500,48121.7000,500575.49418500,03/17/2017 @ 12:00:00 AM
-19611,"The Grasping, Beamsprocket",Weke Tower,47.19,Foul Ice Bronze Of Life,70.00,292.82,266.20,20497.4000,18634.0000,57597.50766000,03/17/2017 @ 12:00:00 AM
-21902,Spikecrank,Moor Village,11.32,Witchs' Forbidden Rockrainbow Bronze,141.00,245.63,245.63,34633.8300,34633.8300,77108.75911200,03/17/2017 @ 12:00:00 AM
-32809,"The Binder, Springpulley",The Chuallanto Jungle,11.00,Yellow Mistearth Copper,212.00,287.98,261.80,61051.7600,55501.6000,129374.22960000,03/17/2017 @ 12:00:00 AM
-27096,"Seraphheart, Storm",The Chuallanto Jungle,11.00,Swordbronze,164.00,403.29,366.63,66139.5600,60127.3200,140156.23680000,03/17/2017 @ 12:00:00 AM
-14126,"Lord of Plague, Alas",The Broken Arrow,17.60,Negative Rockglitter Mercury Of Trolls,184.00,3502.00,214.17,644368.0000,39407.2800,804119.72928000,03/17/2017 @ 12:00:00 AM
-15622,"Lord of the Sea, Penur",The Dungeon of Merciless Woe,3.61,Starsmoke Bronze Of Life,145.00,-438.00,420.81,-63510.0000,61017.4500,-2582.53105500,03/17/2017 @ 12:00:00 AM
-28942,Emberspawn,The Citadel of Alammius,32.67,Heavenly Dreamsilver Of The Night,285.00,719.00,314.60,204915.0000,89661.0000,390813.97920000,03/17/2017 @ 12:00:00 AM
-3316,"The Evil, Snowflame",The Cracked Chalice,-4.37,Emerald Orichalcum,313.00,1957.00,118.01,612541.0000,36937.1300,621095.93571900,03/17/2017 @ 12:00:00 AM
-14733,"Tomblion, Shadow",The Fortress of Akkun the Grim,27.03,Mind Lead,312.00,241.00,219.09,75192.0000,68356.0800,182349.12602400,03/17/2017 @ 12:00:00 AM
-25635,"Godwarlock, Sunrise",The Fortress of Akkun the Grim,27.03,Planar Mudtin Of Trolls,140.00,191.40,174.00,26796.0000,24360.0000,64983.46680000,03/17/2017 @ 12:00:00 AM
-26886,"The Grasping, Nailpiston",Gili's Delve,35.89,Swordbronze,68.00,403.29,366.63,27423.7200,24930.8400,71144.61158400,03/17/2017 @ 12:00:00 AM
+23484,"Wind, Dire",Weke Tower,47.19,Shadowhell Mithril,193.00,462.21,420.19,89206.5300,81096.6700,250669.28008000,03/17/2007 @ 12:00:00 AM
+10282,"Burnchill, The Evil",The Drunken Thief,18.41,Fairies' Supreme Mistsmoke Lead Of The Future,281.00,2622.69,454.30,736975.8900,127658.3000,1023813.34437900,03/17/2007 @ 12:00:00 AM
+33450,Chainhorror,The Archer and Scroll,60.12,Undeads' Mind Orichalcum Of The Twilight,133.00,1169.00,364.69,155477.0000,48503.7700,326614.00892400,03/17/2007 @ 12:00:00 AM
+21585,Emberspawn,Reyny Keep,-3.35,Yellow Mistearth Copper,179.00,287.98,261.80,51548.4200,46862.2000,95113.86423000,03/17/2007 @ 12:00:00 AM
+18145,"Claw, Mist",Barad Cune,49.21,Lycanthropes' Gold,268.00,371.80,338.00,99642.4000,90584.0000,283836.81144000,03/17/2017 @ 12:00:00 AM
+9427,Emberfire,Barad Kesa,5.10,Meteoric Mirrormuck Orichalcum Of The Forests,273.00,491.62,368.50,134212.2600,100600.5000,246788.21076000,03/17/2007 @ 12:00:00 AM
+9494,"Azah, Goddess of Fate",The Fortress of the Lich Queen,17.13,Forgotten Mithril,97.00,3909.75,496.10,379245.7500,48121.7000,500575.49418500,03/17/2007 @ 12:00:00 AM
+19611,"Beamsprocket, The Grasping",Weke Tower,47.19,Foul Ice Bronze Of Life,70.00,292.82,266.20,20497.4000,18634.0000,57597.50766000,03/17/2007 @ 12:00:00 AM
+21902,Spikecrank,Moor Village,11.32,Witchs' Forbidden Rockrainbow Bronze,141.00,245.63,245.63,34633.8300,34633.8300,77108.75911200,03/17/2007 @ 12:00:00 AM
+32809,"Springpulley, The Binder",The Chuallanto Jungle,11.00,Yellow Mistearth Copper,212.00,287.98,261.80,61051.7600,55501.6000,129374.22960000,03/17/2007 @ 12:00:00 AM
+27096,"Storm, Seraphheart",The Chuallanto Jungle,11.00,Swordbronze,164.00,403.29,366.63,66139.5600,60127.3200,140156.23680000,03/17/2007 @ 12:00:00 AM
+14126,"Alas, Lord of Plague",The Broken Arrow,17.60,Negative Rockglitter Mercury Of Trolls,184.00,3502.00,214.17,644368.0000,39407.2800,804119.72928000,03/17/2007 @ 12:00:00 AM
+15622,"Penur, Lord of the Sea",The Dungeon of Merciless Woe,3.61,Starsmoke Bronze Of Life,145.00,-438.00,420.81,-63510.0000,61017.4500,-2582.53105500,03/17/2007 @ 12:00:00 AM
+28942,Emberspawn,The Citadel of Alammius,32.67,Heavenly Dreamsilver Of The Night,285.00,719.00,314.60,204915.0000,89661.0000,390813.97920000,03/17/2007 @ 12:00:00 AM
+3316,"Snowflame, The Evil",The Cracked Chalice,-4.37,Emerald Orichalcum,313.00,1957.00,118.01,612541.0000,36937.1300,621095.93571900,03/17/2007 @ 12:00:00 AM
+14733,"Shadow, Tomblion",The Fortress of Akkun the Grim,27.03,Mind Lead,312.00,241.00,219.09,75192.0000,68356.0800,182349.12602400,03/17/2007 @ 12:00:00 AM
+25635,"Sunrise, Godwarlock",The Fortress of Akkun the Grim,27.03,Planar Mudtin Of Trolls,140.00,191.40,174.00,26796.0000,24360.0000,64983.46680000,03/17/2007 @ 12:00:00 AM
+26886,"Nailpiston, The Grasping",Gili's Delve,35.89,Swordbronze,68.00,403.29,366.63,27423.7200,24930.8400,71144.61158400,03/17/2007 @ 12:00:00 AM

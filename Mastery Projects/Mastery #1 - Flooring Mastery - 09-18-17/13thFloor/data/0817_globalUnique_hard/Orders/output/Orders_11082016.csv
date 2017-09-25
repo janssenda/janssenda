@@ -1,16 +1,16 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-24433,"Spiritraven, Bedlam",The Bastion of Barbos,25.41,Negative Rockglitter Mercury Of Trolls,63.00,235.59,214.17,14842.1700,13492.7100,35534.77300800,11/08/2016 @ 12:00:00 AM
-23359,Evilbrood,The Lewd King,45.98,Forgotten Mithril,69.00,545.71,496.10,37653.9900,34230.9000,104937.56242200,11/08/2016 @ 12:00:00 AM
-21198,"Goddess of Knowledge, Ahah",The Tomb of Hellish Ruin,36.30,Stone Soulsteel Of The Skies,190.00,453.31,412.10,86128.9000,78299.0000,224115.22770000,11/08/2016 @ 12:00:00 AM
-8188,Wheelspawn,The Hunter and Rose,39.60,Falserainbow Lead,323.00,872.99,70.18,281975.7700,22668.1400,425282.89836000,11/08/2016 @ 12:00:00 AM
-8181,Flameshiver,Archtemple District,37.85,Starsmoke Bronze Of Life,262.00,-438.00,420.81,-114756.0000,110252.2200,-6208.46073000,11/08/2016 @ 12:00:00 AM
-21921,"Reaper, Dagger",North Arcanist's Farthing,3.03,Yellow Mistearth Copper,161.00,287.98,261.80,46364.7800,42149.8000,91196.57177400,11/08/2016 @ 12:00:00 AM
-20771,"Anchor, Rose",Mahyrst Keep,31.30,Unknowable Mindsilver,240.00,174.90,174.90,41976.0000,41976.0000,110228.97600000,11/08/2016 @ 12:00:00 AM
-18670,"The Freezer, Shiverflame",The Tomb of Hellish Ruin,36.30,Fairies' Supreme Mistsmoke Lead Of The Future,154.00,499.73,454.30,76958.4200,69962.2000,200252.80506000,11/08/2016 @ 12:00:00 AM
-17697,"Lionwatcher, Law",Hartshill Ward,48.75,Poison Adamant,225.00,110.96,100.87,24966.0000,22695.7500,70896.85312500,11/08/2016 @ 12:00:00 AM
-15120,"Lady of Vengeance, Zepul",Dysley Stronghold,35.51,Golems' Stonesapphire Gold Of The Glacier,283.00,176.00,160.00,49808.0000,45280.0000,128853.74880000,11/08/2016 @ 12:00:00 AM
-15289,"The Freezer, Burnbrood",The Secret Catacombs of Ulfang the Black,28.82,Golems' Stonesapphire Gold Of The Glacier,170.00,176.00,160.00,29920.0000,27200.0000,73581.98400000,11/08/2016 @ 12:00:00 AM
-37030,"The Machine, Evilcoil",The Greedy Wench,13.31,Stone Soulsteel Of The Skies,276.00,453.31,453.31,125113.5600,125113.5600,283532.34967200,11/08/2016 @ 12:00:00 AM
-2113,Flameshiver,The Pirate's Pipe,15.40,Unholy Poison Copper Of The Mountains,383.00,4312.00,57.00,1651496.0000,21831.0000,1931019.35800000,11/08/2016 @ 12:00:00 AM
-36122,"Knightseraph, Lance",The Fen of the Necromancer,32.21,Ensorceled Sandmetal Of Spirits,153.00,85.18,93.70,13032.5400,14336.1000,36184.07894400,11/08/2016 @ 12:00:00 AM
-12180,"The Machine, Wheelbolt",The Tomb of Hellish Ruin,33.00,Phantasmal Tin Of The Swamps,242.00,3207.64,305.00,776248.8800,73810.0000,1130578.31040000,11/08/2016 @ 12:00:00 AM
+24433,"Spiritraven, Bedlam",The Bastion of Barbos,25.41,Negative Rockglitter Mercury Of Trolls,63.00,235.59,214.17,14842.1700,13492.7100,35534.77300800,11/08/1946 @ 12:00:00 AM
+23359,Evilbrood,The Lewd King,45.98,Forgotten Mithril,69.00,545.71,496.10,37653.9900,34230.9000,104937.56242200,11/08/1946 @ 12:00:00 AM
+21198,"Goddess of Knowledge, Ahah",The Tomb of Hellish Ruin,36.30,Stone Soulsteel Of The Skies,190.00,453.31,412.10,86128.9000,78299.0000,224115.22770000,11/08/1946 @ 12:00:00 AM
+8188,Wheelspawn,The Hunter and Rose,39.60,Falserainbow Lead,323.00,872.99,70.18,281975.7700,22668.1400,425282.89836000,11/08/1946 @ 12:00:00 AM
+8181,Flameshiver,Archtemple District,37.85,Starsmoke Bronze Of Life,262.00,-438.00,420.81,-114756.0000,110252.2200,-6208.46073000,11/08/1946 @ 12:00:00 AM
+21921,"Reaper, Dagger",North Arcanist's Farthing,3.03,Yellow Mistearth Copper,161.00,287.98,261.80,46364.7800,42149.8000,91196.57177400,11/08/1946 @ 12:00:00 AM
+20771,"Anchor, Rose",Mahyrst Keep,31.30,Unknowable Mindsilver,240.00,174.90,174.90,41976.0000,41976.0000,110228.97600000,11/08/1946 @ 12:00:00 AM
+18670,"The Freezer, Shiverflame",The Tomb of Hellish Ruin,36.30,Fairies' Supreme Mistsmoke Lead Of The Future,154.00,499.73,454.30,76958.4200,69962.2000,200252.80506000,11/08/1946 @ 12:00:00 AM
+17697,"Lionwatcher, Law",Hartshill Ward,48.75,Poison Adamant,225.00,110.96,100.87,24966.0000,22695.7500,70896.85312500,11/08/1946 @ 12:00:00 AM
+15120,"Lady of Vengeance, Zepul",Dysley Stronghold,35.51,Golems' Stonesapphire Gold Of The Glacier,283.00,176.00,160.00,49808.0000,45280.0000,128853.74880000,11/08/1946 @ 12:00:00 AM
+15289,"The Freezer, Burnbrood",The Secret Catacombs of Ulfang the Black,28.82,Golems' Stonesapphire Gold Of The Glacier,170.00,176.00,160.00,29920.0000,27200.0000,73581.98400000,11/08/1946 @ 12:00:00 AM
+37030,"The Machine, Evilcoil",The Greedy Wench,13.31,Stone Soulsteel Of The Skies,276.00,453.31,453.31,125113.5600,125113.5600,283532.34967200,11/08/1946 @ 12:00:00 AM
+2113,Flameshiver,The Pirate's Pipe,15.40,Unholy Poison Copper Of The Mountains,383.00,4312.00,57.00,1651496.0000,21831.0000,1931019.35800000,11/08/1946 @ 12:00:00 AM
+36122,"Knightseraph, Lance",The Fen of the Necromancer,32.21,Ensorceled Sandmetal Of Spirits,153.00,85.18,93.70,13032.5400,14336.1000,36184.07894400,11/08/1946 @ 12:00:00 AM
+12180,"The Machine, Wheelbolt",The Tomb of Hellish Ruin,33.00,Phantasmal Tin Of The Swamps,242.00,3207.64,305.00,776248.8800,73810.0000,1130578.31040000,11/08/1946 @ 12:00:00 AM

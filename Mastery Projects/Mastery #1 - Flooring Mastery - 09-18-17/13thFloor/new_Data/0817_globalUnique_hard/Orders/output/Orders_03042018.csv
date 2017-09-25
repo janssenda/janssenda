@@ -1,17 +1,17 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-1089,"Tombreaper, Rouge",Dysley Stronghold,32.28,Planar Mudtin Of Trolls,263.00,3529.02,174.00,928132.2600,45762.0000,1288267.32712800,03/04/2018 @ 12:00:00 AM
-2495,"Brand, Lightning",The Dismal Marsh,27.00,Stone Soulsteel Of The Skies,175.00,3459.15,340.58,605351.2500,59601.5000,844489.99250000,03/04/2018 @ 12:00:00 AM
-36987,"Tomblion, Shadow",The Fen of the Necromancer,32.21,Grayplatinum,108.00,2548.00,115.43,275184.0000,12466.4400,380302.64672400,03/04/2018 @ 12:00:00 AM
-22694,"The Unspeakable, Scarechain",Pewold Keep,29.00,Shadowhell Mithril,175.00,462.21,420.19,80886.7500,73533.2500,199201.80000000,03/04/2018 @ 12:00:00 AM
-20344,"Tomblion, Shadow",Kada's Deep,8.42,Fairies' Supreme Mistsmoke Lead Of The Future,270.00,499.73,499.73,134927.1000,134927.1000,292575.92364000,03/04/2018 @ 12:00:00 AM
-20614,"The Terrifying, Deathspike",Moor Village,11.32,Stone Soulsteel Of The Skies,207.00,453.31,412.10,93835.1700,85304.7000,199418.50328400,03/04/2018 @ 12:00:00 AM
-29203,"Wolf, Jericho",The Nulukkhath Spires,28.99,Unknown Fatelightning Steel Of The Glacier,132.00,145.08,159.59,19150.5600,21065.8800,51875.18595600,03/04/2018 @ 12:00:00 AM
-31500,"Jester, Seraph",Gifeld Castle,33.01,Warlocks' Timerot Mithril,314.00,194.65,194.65,61120.1000,61120.1000,162591.69002000,03/04/2018 @ 12:00:00 AM
-18738,"Mist, Claw",The Khazahol Crags,22.75,Unicorns' Fatal Magma Metal Of The Ocean,273.00,25.30,23.00,6906.9000,6279.0000,16185.69225000,03/04/2018 @ 12:00:00 AM
-29621,"The Evil, Burnchill",The Nulukkhath Spires,28.99,Heavenly Dreamsilver Of The Night,260.00,719.00,314.60,186940.0000,81796.0000,346642.56640000,03/04/2018 @ 12:00:00 AM
-27196,Wheelspawn,The Bastion of Gothmog of Udun,-2.42,Vampires' Hammer Emeraldmetal,208.00,93.70,85.18,19489.6000,17717.4400,36306.62963200,03/04/2018 @ 12:00:00 AM
-28561,"The Grasping, Nailpiston",Barad Cune,49.21,Stone Soulsteel Of The Skies,230.00,453.31,412.10,104261.3000,94783.0000,296994.00003000,03/04/2018 @ 12:00:00 AM
-14251,"God of the Lost, Lionare",Noble's Village,5.43,Sphinxes' Unknown Poisongold Of The Future,224.00,3971.47,14.30,889609.2800,3203.2000,941292.19766400,03/04/2018 @ 12:00:00 AM
-4689,"The Chiller, Blazefreeze",Pawic Keep,31.90,Incubi's Glittering Tin Of The Future,256.00,4393.29,175.42,1124682.2400,44907.5200,1542688.89344000,03/04/2018 @ 12:00:00 AM
-14654,"The Mechanical, Snarepiston",The Secret Catacombs of Ulfang the Black,28.82,Vampires' Hammer Emeraldmetal,116.00,77.44,70.40,8983.0400,8166.4000,22091.90860800,03/04/2018 @ 12:00:00 AM
-37521,"Goddess of the Earth, Gono",The Greedy Wench,13.31,Ghouls' Imperial Soulzephyr Mithril Of The Seas,91.00,318.23,318.23,28958.9300,28958.9300,65626.72716600,03/04/2018 @ 12:00:00 AM
+1089,"Rouge, Tombreaper",Dysley Stronghold,32.28,Planar Mudtin Of Trolls,263.00,3529.02,174.00,928132.2600,45762.0000,1288267.32712800,03/04/2008 @ 12:00:00 AM
+2495,"Lightning, Brand",The Dismal Marsh,27.00,Stone Soulsteel Of The Skies,175.00,3459.15,340.58,605351.2500,59601.5000,844489.99250000,03/04/2008 @ 12:00:00 AM
+36987,"Shadow, Tomblion",The Fen of the Necromancer,32.21,Grayplatinum,108.00,2548.00,115.43,275184.0000,12466.4400,380302.64672400,03/04/2008 @ 12:00:00 AM
+22694,"Scarechain, The Unspeakable",Pewold Keep,29.00,Shadowhell Mithril,175.00,462.21,420.19,80886.7500,73533.2500,199201.80000000,03/04/2008 @ 12:00:00 AM
+20344,"Shadow, Tomblion",Kada's Deep,8.42,Fairies' Supreme Mistsmoke Lead Of The Future,270.00,499.73,499.73,134927.1000,134927.1000,292575.92364000,03/04/2008 @ 12:00:00 AM
+20614,"Deathspike, The Terrifying",Moor Village,11.32,Stone Soulsteel Of The Skies,207.00,453.31,412.10,93835.1700,85304.7000,199418.50328400,03/04/2008 @ 12:00:00 AM
+29203,"Jericho, Wolf",The Nulukkhath Spires,28.99,Unknown Fatelightning Steel Of The Glacier,132.00,145.08,159.59,19150.5600,21065.8800,51875.18595600,03/04/2008 @ 12:00:00 AM
+31500,"Seraph, Jester",Gifeld Castle,33.01,Warlocks' Timerot Mithril,314.00,194.65,194.65,61120.1000,61120.1000,162591.69002000,03/04/2008 @ 12:00:00 AM
+18738,"Claw, Mist",The Khazahol Crags,22.75,Unicorns' Fatal Magma Metal Of The Ocean,273.00,25.30,23.00,6906.9000,6279.0000,16185.69225000,03/04/2008 @ 12:00:00 AM
+29621,"Burnchill, The Evil",The Nulukkhath Spires,28.99,Heavenly Dreamsilver Of The Night,260.00,719.00,314.60,186940.0000,81796.0000,346642.56640000,03/04/2008 @ 12:00:00 AM
+27196,Wheelspawn,The Bastion of Gothmog of Udun,-2.42,Vampires' Hammer Emeraldmetal,208.00,93.70,85.18,19489.6000,17717.4400,36306.62963200,03/04/2008 @ 12:00:00 AM
+28561,"Nailpiston, The Grasping",Barad Cune,49.21,Stone Soulsteel Of The Skies,230.00,453.31,412.10,104261.3000,94783.0000,296994.00003000,03/04/2008 @ 12:00:00 AM
+14251,"Lionare, God of the Lost",Noble's Village,5.43,Sphinxes' Unknown Poisongold Of The Future,224.00,3971.47,14.30,889609.2800,3203.2000,941292.19766400,03/04/2008 @ 12:00:00 AM
+4689,"Blazefreeze, The Chiller",Pawic Keep,31.90,Incubi's Glittering Tin Of The Future,256.00,4393.29,175.42,1124682.2400,44907.5200,1542688.89344000,03/04/2008 @ 12:00:00 AM
+14654,"Snarepiston, The Mechanical",The Secret Catacombs of Ulfang the Black,28.82,Vampires' Hammer Emeraldmetal,116.00,77.44,70.40,8983.0400,8166.4000,22091.90860800,03/04/2008 @ 12:00:00 AM
+37521,"Gono, Goddess of the Earth",The Greedy Wench,13.31,Ghouls' Imperial Soulzephyr Mithril Of The Seas,91.00,318.23,318.23,28958.9300,28958.9300,65626.72716600,03/04/2008 @ 12:00:00 AM

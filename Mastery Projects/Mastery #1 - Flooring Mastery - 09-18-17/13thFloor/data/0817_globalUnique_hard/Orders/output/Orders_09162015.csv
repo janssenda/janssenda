@@ -1,16 +1,16 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-24422,"Goddess of Thieves, Melcha",Bifar's Deep,12.21,Ensorceled Sandmetal Of Spirits,326.00,85.18,77.44,27768.6800,25245.4400,59487.14405200,09/16/2015 @ 12:00:00 AM
-35316,"Seeker, Fate",Citadel Ward,4.40,Vampires' Fang Emeraldsilver,295.00,2033.69,88.92,599938.5500,26231.4000,653721.42780000,09/16/2015 @ 12:00:00 AM
-32750,"God of Resurrection, Gadriel",Citadel Ward,4.40,Yellow Mistearth Copper,291.00,287.98,261.80,83802.1800,76183.8000,167025.36312000,09/16/2015 @ 12:00:00 AM
-16027,"Wolf, Jericho",The Fortress of Asmamur,-2.66,Golems' Stonesapphire Gold Of The Glacier,100.00,176.00,160.00,17600.0000,16000.0000,32706.24000000,09/16/2015 @ 12:00:00 AM
-27058,Spikesnare,Reheath Stronghold,39.60,Muck Orichalcum Of Ogres,153.00,143.37,130.34,21935.6100,19942.0200,58461.17148000,09/16/2015 @ 12:00:00 AM
-27002,"Gust, Shadow",Reheath Stronghold,39.60,Shadowhell Mithril,202.00,462.21,420.19,93366.4200,84878.3800,248829.74080000,09/16/2015 @ 12:00:00 AM
-6444,Cinderflame,The Wizard's House,20.00,Trolls' Rubymercury Of The Sunset,125.00,2733.00,443.00,341625.0000,55375.0000,476400.00000000,09/16/2015 @ 12:00:00 AM
-5145,"The Machine, Evilcoil",The Dancing Minstrel,36.02,Negative Rockglitter Mercury Of Trolls,217.00,3502.00,194.70,759934.0000,42249.9000,1091130.54078000,09/16/2015 @ 12:00:00 AM
-29764,"Roguemist, Rouge",The Greedy Wench,13.31,Incubi's Glittering Tin Of The Future,169.00,192.96,233.49,32610.2400,39459.8100,81662.57365500,09/16/2015 @ 12:00:00 AM
-936,"Knightseraph, Lance",The Archer and Blade,15.00,Starlight Pearldream Bronze,355.00,-494.37,67.00,-175501.3500,23785.0000,-174473.80250000,09/16/2015 @ 12:00:00 AM
-27422,"Goddess of Travel, Lenwenye",The Bastion of Gothmog of Udun,-2.42,Unknown Fatelightning Steel Of The Glacier,116.00,145.08,159.59,16829.2800,18512.4400,34486.45037600,09/16/2015 @ 12:00:00 AM
-16860,"The Horrorific, Evilfear",North Arcanist's Farthing,2.75,Golems' Stonesapphire Gold Of The Glacier,216.00,176.00,160.00,38016.0000,34560.0000,74571.84000000,09/16/2015 @ 12:00:00 AM
-24028,"Squallmourner, Storm",The Broken Arrow,17.60,Toxic Mistlead Of The Past,190.00,396.06,396.06,75251.4000,75251.4000,176991.29280000,09/16/2015 @ 12:00:00 AM
-37463,"Runetomb, Song",The Greedy Wench,13.31,Ghouls' Imperial Soulzephyr Mithril Of The Seas,311.00,318.23,318.23,98969.5300,98969.5300,224284.74888600,09/16/2015 @ 12:00:00 AM
-14985,"Lord of Plague, Alas",The Fortress of Akkun the Grim,27.03,Lycanthropes' Gold,216.00,371.80,338.00,80308.8000,73008.0000,194758.33104000,09/16/2015 @ 12:00:00 AM
+24422,"Goddess of Thieves, Melcha",Bifar's Deep,12.21,Ensorceled Sandmetal Of Spirits,326.00,85.18,77.44,27768.6800,25245.4400,59487.14405200,09/16/1945 @ 12:00:00 AM
+35316,"Seeker, Fate",Citadel Ward,4.40,Vampires' Fang Emeraldsilver,295.00,2033.69,88.92,599938.5500,26231.4000,653721.42780000,09/16/1945 @ 12:00:00 AM
+32750,"God of Resurrection, Gadriel",Citadel Ward,4.40,Yellow Mistearth Copper,291.00,287.98,261.80,83802.1800,76183.8000,167025.36312000,09/16/1945 @ 12:00:00 AM
+16027,"Wolf, Jericho",The Fortress of Asmamur,-2.66,Golems' Stonesapphire Gold Of The Glacier,100.00,176.00,160.00,17600.0000,16000.0000,32706.24000000,09/16/1945 @ 12:00:00 AM
+27058,Spikesnare,Reheath Stronghold,39.60,Muck Orichalcum Of Ogres,153.00,143.37,130.34,21935.6100,19942.0200,58461.17148000,09/16/1945 @ 12:00:00 AM
+27002,"Gust, Shadow",Reheath Stronghold,39.60,Shadowhell Mithril,202.00,462.21,420.19,93366.4200,84878.3800,248829.74080000,09/16/1985 @ 12:00:00 AM
+6444,Cinderflame,The Wizard's House,20.00,Trolls' Rubymercury Of The Sunset,125.00,2733.00,443.00,341625.0000,55375.0000,476400.00000000,09/16/1945 @ 12:00:00 AM
+5145,"The Machine, Evilcoil",The Dancing Minstrel,36.02,Negative Rockglitter Mercury Of Trolls,217.00,3502.00,194.70,759934.0000,42249.9000,1091130.54078000,09/16/1945 @ 12:00:00 AM
+29764,"Roguemist, Rouge",The Greedy Wench,13.31,Incubi's Glittering Tin Of The Future,169.00,192.96,233.49,32610.2400,39459.8100,81662.57365500,09/16/1945 @ 12:00:00 AM
+936,"Knightseraph, Lance",The Archer and Blade,15.00,Starlight Pearldream Bronze,355.00,-494.37,67.00,-175501.3500,23785.0000,-174473.80250000,09/16/1945 @ 12:00:00 AM
+27422,"Goddess of Travel, Lenwenye",The Bastion of Gothmog of Udun,-2.42,Unknown Fatelightning Steel Of The Glacier,116.00,145.08,159.59,16829.2800,18512.4400,34486.45037600,09/16/1945 @ 12:00:00 AM
+16860,"The Horrorific, Evilfear",North Arcanist's Farthing,2.75,Golems' Stonesapphire Gold Of The Glacier,216.00,176.00,160.00,38016.0000,34560.0000,74571.84000000,09/16/1945 @ 12:00:00 AM
+24028,"Squallmourner, Storm",The Broken Arrow,17.60,Toxic Mistlead Of The Past,190.00,396.06,396.06,75251.4000,75251.4000,176991.29280000,09/16/1945 @ 12:00:00 AM
+37463,"Runetomb, Song",The Greedy Wench,13.31,Ghouls' Imperial Soulzephyr Mithril Of The Seas,311.00,318.23,318.23,98969.5300,98969.5300,224284.74888600,09/16/1945 @ 12:00:00 AM
+14985,"Lord of Plague, Alas",The Fortress of Akkun the Grim,27.03,Lycanthropes' Gold,216.00,371.80,338.00,80308.8000,73008.0000,194758.33104000,09/16/1945 @ 12:00:00 AM

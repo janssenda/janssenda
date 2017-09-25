@@ -1,17 +1,17 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-11020,"The Evil, Flameflare",The Fortress of Asmamur,-2.42,Shadow Metal,79.00,1606.00,298.00,126874.0000,23542.0000,146775.93280000,06/02/2017 @ 12:00:00 AM
-36377,"The Freezer, Burnbrood",The Fen of the Necromancer,32.21,Ensorceled Sandmetal Of Spirits,64.00,85.18,93.70,5451.5200,5996.8000,15135.82387200,06/02/2017 @ 12:00:00 AM
-3883,Spikerivet,The Tomb of Hellish Ruin,33.00,Ensorceled Sandmetal Of Spirits,239.00,70.40,64.00,16825.6000,15296.0000,42721.72800000,06/02/2017 @ 12:00:00 AM
-12894,"God of Fate, Sielach",Gili's Delve,35.89,Foulopal Copper Of The Skies,196.00,201.66,201.66,39525.3600,39525.3600,107422.02340800,06/02/2017 @ 12:00:00 AM
-12898,"Lord of Nightmares, Iran",Noble's Village,5.43,Dragons' Poison Glitterflesh Steel Of The North,277.00,742.00,82.50,205534.0000,22852.5000,240787.88695000,06/02/2017 @ 12:00:00 AM
-35953,"Drakecaster, Sephiroth",The Fortress of the Lich Queen,22.79,Yellow Mistearth Copper,257.00,287.98,261.80,74010.8600,67282.6000,173494.23953400,06/02/2017 @ 12:00:00 AM
-33317,"Wind, Maverick",The Archer and Scroll,60.12,Forgotten Mithril,200.00,600.28,545.71,120056.0000,109142.0000,366991.83760000,06/02/2017 @ 12:00:00 AM
-20708,"Darkzealot, Dawn",The Fen of the Necromancer,20.00,Fairies' Supreme Mistsmoke Lead Of The Future,232.00,499.73,499.73,115937.3600,115937.3600,278249.66400000,06/02/2017 @ 12:00:00 AM
-17288,"Godwarlock, Sunrise",The Scoundrel and Flask,45.25,Plague Tin,151.00,465.25,422.95,70252.7500,63865.4500,194806.68550000,06/02/2017 @ 12:00:00 AM
-31545,Bronzespike,The Bastion of Gothmog of Udun,-2.66,Warlocks' Timerot Mithril,248.00,194.65,194.65,48273.2000,48273.2000,93978.26576000,06/02/2017 @ 12:00:00 AM
-8899,"Lonedrake, Clash",The Lost Sanctum of Woe,43.20,Primordial Plague Mercury Of Legend,49.00,1150.79,67.00,56388.7100,3283.0000,85449.88872000,06/02/2017 @ 12:00:00 AM
-6583,"Godwarlock, Sunrise",Khali's Delve,1.18,Shadowhell Mithril,155.00,462.21,420.19,71642.5500,65129.4500,138385.90960000,06/02/2017 @ 12:00:00 AM
-5590,Bronzespike,The Bastion of the Vampire Duke,34.45,Vampires' Hammer Emeraldmetal,109.00,77.44,70.40,8440.9600,7673.6000,21666.02592000,06/02/2017 @ 12:00:00 AM
-4374,"The Grasping, Nettool",Pawic Keep,31.90,Trolls' Rubymercury Of The Sunset,220.00,2733.00,443.00,601260.0000,97460.0000,921611.68000000,06/02/2017 @ 12:00:00 AM
-14526,"The Horrorific, Evilfear",The Broken Arrow,17.60,Djinni's Evil Sandobsidian Steel Of The Future,330.00,140.58,140.58,46391.4000,46391.4000,109112.57280000,06/02/2017 @ 12:00:00 AM
-26758,Evilbrood,Bifar's Deep,12.21,Swordbronze,295.00,403.29,366.63,118970.5500,108155.8500,254858.53344000,06/02/2017 @ 12:00:00 AM
+11020,"The Evil, Flameflare",The Fortress of Asmamur,-2.42,Shadow Metal,79.00,1606.00,298.00,126874.0000,23542.0000,146775.93280000,06/02/1947 @ 12:00:00 AM
+36377,"The Freezer, Burnbrood",The Fen of the Necromancer,32.21,Ensorceled Sandmetal Of Spirits,64.00,85.18,93.70,5451.5200,5996.8000,15135.82387200,06/02/1947 @ 12:00:00 AM
+3883,Spikerivet,The Tomb of Hellish Ruin,33.00,Ensorceled Sandmetal Of Spirits,239.00,70.40,64.00,16825.6000,15296.0000,42721.72800000,06/02/1977 @ 12:00:00 AM
+12894,"God of Fate, Sielach",Gili's Delve,35.89,Foulopal Copper Of The Skies,196.00,201.66,201.66,39525.3600,39525.3600,107422.02340800,06/02/1947 @ 12:00:00 AM
+12898,"Lord of Nightmares, Iran",Noble's Village,5.43,Dragons' Poison Glitterflesh Steel Of The North,277.00,742.00,82.50,205534.0000,22852.5000,240787.88695000,06/02/1947 @ 12:00:00 AM
+35953,"Drakecaster, Sephiroth",The Fortress of the Lich Queen,22.79,Yellow Mistearth Copper,257.00,287.98,261.80,74010.8600,67282.6000,173494.23953400,06/02/1947 @ 12:00:00 AM
+33317,"Wind, Maverick",The Archer and Scroll,60.12,Forgotten Mithril,200.00,600.28,545.71,120056.0000,109142.0000,366991.83760000,06/02/1947 @ 12:00:00 AM
+20708,"Darkzealot, Dawn",The Fen of the Necromancer,20.00,Fairies' Supreme Mistsmoke Lead Of The Future,232.00,499.73,499.73,115937.3600,115937.3600,278249.66400000,06/02/1947 @ 12:00:00 AM
+17288,"Godwarlock, Sunrise",The Scoundrel and Flask,45.25,Plague Tin,151.00,465.25,422.95,70252.7500,63865.4500,194806.68550000,06/02/1947 @ 12:00:00 AM
+31545,Bronzespike,The Bastion of Gothmog of Udun,-2.66,Warlocks' Timerot Mithril,248.00,194.65,194.65,48273.2000,48273.2000,93978.26576000,06/02/1947 @ 12:00:00 AM
+8899,"Lonedrake, Clash",The Lost Sanctum of Woe,43.20,Primordial Plague Mercury Of Legend,49.00,1150.79,67.00,56388.7100,3283.0000,85449.88872000,06/02/1947 @ 12:00:00 AM
+6583,"Godwarlock, Sunrise",Khali's Delve,1.18,Shadowhell Mithril,155.00,462.21,420.19,71642.5500,65129.4500,138385.90960000,06/02/1947 @ 12:00:00 AM
+5590,Bronzespike,The Bastion of the Vampire Duke,34.45,Vampires' Hammer Emeraldmetal,109.00,77.44,70.40,8440.9600,7673.6000,21666.02592000,06/02/1947 @ 12:00:00 AM
+4374,"The Grasping, Nettool",Pawic Keep,31.90,Trolls' Rubymercury Of The Sunset,220.00,2733.00,443.00,601260.0000,97460.0000,921611.68000000,06/02/1947 @ 12:00:00 AM
+14526,"The Horrorific, Evilfear",The Broken Arrow,17.60,Djinni's Evil Sandobsidian Steel Of The Future,330.00,140.58,140.58,46391.4000,46391.4000,109112.57280000,06/02/1947 @ 12:00:00 AM
+26758,Evilbrood,Bifar's Deep,12.21,Swordbronze,295.00,403.29,366.63,118970.5500,108155.8500,254858.53344000,06/02/1947 @ 12:00:00 AM

@@ -1,15 +1,15 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-2309,"The Disinterred, Spikebrood",Tower Farthing,17.63,Spectres' Shadowy Terrorglow Adamant Of Life,73.00,-297.62,175.08,-21726.2600,12780.8400,-10522.49754600,12/13/2016 @ 12:00:00 AM
-13753,"Goddess of Knowledge, Baltha",Dysley Stronghold,35.51,Poison Adamant,106.00,110.96,100.87,11761.7600,10692.2200,30427.38829800,12/13/2016 @ 12:00:00 AM
-22308,"Veil, Bane",The Tower of Sabiesu the Awesome,10.00,Imperial Fate Steel,105.00,419.10,381.00,44005.5000,40005.0000,92411.55000000,12/13/2016 @ 12:00:00 AM
-22407,"Lord of Animals, Suriel",The Tower of Sabiesu the Awesome,10.00,Primordial Mud Orichalcum,249.00,1113.00,20.57,277137.0000,5121.9300,310484.82300000,12/13/2016 @ 12:00:00 AM
-19009,"The Chiller, Blazefreeze",Mahyrst Keep,31.30,Spirits' Living Wordhammer Tin Of The Trees,186.00,141.57,128.70,26332.0200,23938.2000,66004.79886000,12/13/2016 @ 12:00:00 AM
-8083,"Felldrake, Magus",The Drunken Thief,18.41,Starsmoke Bronze Of Life,165.00,-438.00,420.81,-72270.0000,69433.6500,-3358.52203500,12/13/2016 @ 12:00:00 AM
-9485,"Roguemist, Rouge",The Black Barrow of Bery,19.80,Unknown Fatelightning Steel Of The Glacier,165.00,119.90,131.89,19783.5000,21761.8500,49771.32930000,12/13/2016 @ 12:00:00 AM
-7147,"Darkzealot, Dawn",The Bastion of the Vampire Duke,34.45,Vampires' Hammer Emeraldmetal,252.00,77.44,70.40,19514.8800,17740.8000,50090.26176000,12/13/2016 @ 12:00:00 AM
-18512,"Dawn, Tarot",Barad Cune,49.21,Undeads' Mind Orichalcum Of The Twilight,293.00,1169.00,331.54,342517.0000,97141.2200,656014.03006200,12/13/2016 @ 12:00:00 AM
-29536,"The Evil, Snowflame",Bifar's Deep,12.21,Hidden Shadowice Lead,345.00,-16.50,-16.50,-5692.5000,-5692.5000,-12775.10850000,12/13/2016 @ 12:00:00 AM
-15090,"Tombreaper, Rouge",The Secret Shrine of the Gargoyle Count,23.93,Primordial Plague Mercury Of Legend,269.00,73.70,67.00,19825.3000,18023.0000,46905.39819000,12/13/2016 @ 12:00:00 AM
-666,"Dawn, Tarot",The Beggar and Cask,25.10,Succubi's Evil Mindzephyr Adamant Of The Desert,91.00,555.09,39.00,50513.1900,3549.0000,67631.79969000,12/13/2016 @ 12:00:00 AM
-17696,"The Constructed, Snaretool",Hartshill Ward,48.75,Poison Adamant,318.00,110.96,100.87,35285.2800,32076.6600,100200.88575000,12/13/2016 @ 12:00:00 AM
-2291,Cinderember,The Pirate's Pipe,15.40,Unholy Poison Copper Of The Mountains,367.00,4312.00,57.00,1582504.0000,20919.0000,1850350.14200000,12/13/2016 @ 12:00:00 AM
+2309,"The Disinterred, Spikebrood",Tower Farthing,17.63,Spectres' Shadowy Terrorglow Adamant Of Life,73.00,-297.62,175.08,-21726.2600,12780.8400,-10522.49754600,12/13/1946 @ 12:00:00 AM
+13753,"Goddess of Knowledge, Baltha",Dysley Stronghold,35.51,Poison Adamant,106.00,110.96,100.87,11761.7600,10692.2200,30427.38829800,12/13/1946 @ 12:00:00 AM
+22308,"Veil, Bane",The Tower of Sabiesu the Awesome,10.00,Imperial Fate Steel,105.00,419.10,381.00,44005.5000,40005.0000,92411.55000000,12/13/1986 @ 12:00:00 AM
+22407,"Lord of Animals, Suriel",The Tower of Sabiesu the Awesome,10.00,Primordial Mud Orichalcum,249.00,1113.00,20.57,277137.0000,5121.9300,310484.82300000,12/13/1946 @ 12:00:00 AM
+19009,"The Chiller, Blazefreeze",Mahyrst Keep,31.30,Spirits' Living Wordhammer Tin Of The Trees,186.00,141.57,128.70,26332.0200,23938.2000,66004.79886000,12/13/1946 @ 12:00:00 AM
+8083,"Felldrake, Magus",The Drunken Thief,18.41,Starsmoke Bronze Of Life,165.00,-438.00,420.81,-72270.0000,69433.6500,-3358.52203500,12/13/1946 @ 12:00:00 AM
+9485,"Roguemist, Rouge",The Black Barrow of Bery,19.80,Unknown Fatelightning Steel Of The Glacier,165.00,119.90,131.89,19783.5000,21761.8500,49771.32930000,12/13/1946 @ 12:00:00 AM
+7147,"Darkzealot, Dawn",The Bastion of the Vampire Duke,34.45,Vampires' Hammer Emeraldmetal,252.00,77.44,70.40,19514.8800,17740.8000,50090.26176000,12/13/1946 @ 12:00:00 AM
+18512,"Dawn, Tarot",Barad Cune,49.21,Undeads' Mind Orichalcum Of The Twilight,293.00,1169.00,331.54,342517.0000,97141.2200,656014.03006200,12/13/1986 @ 12:00:00 AM
+29536,"The Evil, Snowflame",Bifar's Deep,12.21,Hidden Shadowice Lead,345.00,-16.50,-16.50,-5692.5000,-5692.5000,-12775.10850000,12/13/1976 @ 12:00:00 AM
+15090,"Tombreaper, Rouge",The Secret Shrine of the Gargoyle Count,23.93,Primordial Plague Mercury Of Legend,269.00,73.70,67.00,19825.3000,18023.0000,46905.39819000,12/13/1946 @ 12:00:00 AM
+666,"Dawn, Tarot",The Beggar and Cask,25.10,Succubi's Evil Mindzephyr Adamant Of The Desert,91.00,555.09,39.00,50513.1900,3549.0000,67631.79969000,12/13/1946 @ 12:00:00 AM
+17696,"The Constructed, Snaretool",Hartshill Ward,48.75,Poison Adamant,318.00,110.96,100.87,35285.2800,32076.6600,100200.88575000,12/13/1946 @ 12:00:00 AM
+2291,Cinderember,The Pirate's Pipe,15.40,Unholy Poison Copper Of The Mountains,367.00,4312.00,57.00,1582504.0000,20919.0000,1850350.14200000,12/13/1946 @ 12:00:00 AM

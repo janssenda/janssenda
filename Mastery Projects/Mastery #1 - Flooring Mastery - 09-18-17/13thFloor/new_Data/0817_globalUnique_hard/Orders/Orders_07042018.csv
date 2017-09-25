@@ -1,20 +1,20 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-25738,Spikesnare,The Pirate's Pipe,16.94,Toxic Mistlead Of The Past,144.00,396.06,396.06,57032.6400,57032.6400,133387.93843200,07/04/2018 @ 12:00:00 AM
-23076,"Darkzealot, Dawn",Moor Village,11.32,Planar Mudtin Of Trolls,160.00,191.40,174.00,30624.0000,27840.0000,65082.12480000,07/04/2018 @ 12:00:00 AM
-1142,"God of the Lost, Lionare",The Fortress of Asmamur,-2.00,Ensorceled Sandmetal Of Spirits,134.00,4149.00,64.00,555966.0000,8576.0000,553251.16000000,07/04/2018 @ 12:00:00 AM
-37762,Bronzespike,The Greedy Wench,13.31,Stone Soulsteel Of The Skies,238.00,453.31,453.31,107887.7800,107887.7800,244495.28703600,07/04/2018 @ 12:00:00 AM
-12620,"Godseeker, Cult",The Tomb of Hellish Ruin,33.00,Vampires' Fang Emeraldsilver,123.00,2033.69,80.84,250143.8700,9943.3200,345915.96270000,07/04/2018 @ 12:00:00 AM
-23362,"Darkzealot, Dawn",Reheath Stronghold,39.60,Tritons' Time Stoneiron Of Legend,208.00,341.59,341.59,71050.7200,71050.7200,198373.61024000,07/04/2018 @ 12:00:00 AM
-12858,"Godseeker, Cult",The Tomb of Hellish Ruin,33.00,Djinni's Mind Fogiron,180.00,57.23,52.03,10301.4000,9365.4000,26156.84400000,07/04/2018 @ 12:00:00 AM
-10491,"Godwarlock, Sunrise",The Bastion of the Vampire Duke,37.90,Phantasmal Smokezephyr Mercury Of Men,180.00,211.20,192.00,38016.0000,34560.0000,100082.30400000,07/04/2018 @ 12:00:00 AM
-22661,"Runetomb, Song",The Tower of Sabiesu the Awesome,10.00,Fog Lavaplatinum Of Life,85.00,560.35,509.41,47629.7500,43299.8500,100022.56000000,07/04/2018 @ 12:00:00 AM
-9283,"Brand, Lightning",The Black Barrow of Bery,19.80,Primordial Plague Mercury Of Legend,80.00,1150.79,67.00,92063.2000,5360.0000,116712.99360000,07/04/2018 @ 12:00:00 AM
-32529,"Knightclaw, Sunset",Hafeld Keep,47.59,Fairies' Supreme Mistsmoke Lead Of The Future,133.00,499.73,549.70,66464.0900,73110.1000,205997.54702100,07/04/2018 @ 12:00:00 AM
-18206,Bronzespike,Peley Keep,20.92,Meteoric Mirrormuck Orichalcum Of The Forests,99.00,491.62,405.35,48670.3800,40129.6500,107376.99627600,07/04/2018 @ 12:00:00 AM
-8598,"Wind, Maverick",The Hunter and Rose,39.60,Zephyr Adamant,194.00,481.77,-44.14,93463.3800,-8563.1600,118520.70712000,07/04/2018 @ 12:00:00 AM
-29334,"The Terrifying, Deathspike",The Nulukkhath Spires,28.99,Unknown Fatelightning Steel Of The Glacier,77.00,145.08,159.59,11171.1600,12288.4300,30260.52514100,07/04/2018 @ 12:00:00 AM
-6214,"The Machine, Evilcoil",The Shadow Downs,34.00,Violetdream Iron,93.00,414.98,377.25,38593.1400,35084.2500,98727.70260000,07/04/2018 @ 12:00:00 AM
-17790,Bonescare,The Bastion of the Vampire Duke,37.90,Trolls' Rubymercury Of The Sunset,213.00,487.30,487.30,103794.9000,103794.9000,286266.33420000,07/04/2018 @ 12:00:00 AM
-30886,"The Frigid, Icechill",The Tower of Sabiesu the Awesome,10.00,Ensorceled Sandmetal Of Spirits,284.00,85.18,77.44,24191.1200,21992.9600,50802.48800000,07/04/2018 @ 12:00:00 AM
-2264,Bonescare,Pewold Keep,29.00,Undeads' Mind Orichalcum Of The Twilight,291.00,1169.00,274.00,340179.0000,79734.0000,541687.77000000,07/04/2018 @ 12:00:00 AM
-36212,"Goddess of Law, Eumyan",The Fen of the Necromancer,32.21,Grayplatinum,235.00,2548.00,115.43,598780.0000,27126.0500,827510.38870500,07/04/2018 @ 12:00:00 AM
+25738,Spikesnare,The Pirate's Pipe,16.94,Toxic Mistlead Of The Past,144.00,396.06,396.06,57032.6400,57032.6400,133387.93843200,07/04/2008 @ 12:00:00 AM
+23076,"Dawn, Darkzealot",Moor Village,11.32,Planar Mudtin Of Trolls,160.00,191.40,174.00,30624.0000,27840.0000,65082.12480000,07/04/2008 @ 12:00:00 AM
+1142,"Lionare, God of the Lost",The Fortress of Asmamur,-2.00,Ensorceled Sandmetal Of Spirits,134.00,4149.00,64.00,555966.0000,8576.0000,553251.16000000,07/04/2008 @ 12:00:00 AM
+37762,Bronzespike,The Greedy Wench,13.31,Stone Soulsteel Of The Skies,238.00,453.31,453.31,107887.7800,107887.7800,244495.28703600,07/04/2008 @ 12:00:00 AM
+12620,"Cult, Godseeker",The Tomb of Hellish Ruin,33.00,Vampires' Fang Emeraldsilver,123.00,2033.69,80.84,250143.8700,9943.3200,345915.96270000,07/04/2008 @ 12:00:00 AM
+23362,"Dawn, Darkzealot",Reheath Stronghold,39.60,Tritons' Time Stoneiron Of Legend,208.00,341.59,341.59,71050.7200,71050.7200,198373.61024000,07/04/2008 @ 12:00:00 AM
+12858,"Cult, Godseeker",The Tomb of Hellish Ruin,33.00,Djinni's Mind Fogiron,180.00,57.23,52.03,10301.4000,9365.4000,26156.84400000,07/04/2008 @ 12:00:00 AM
+10491,"Sunrise, Godwarlock",The Bastion of the Vampire Duke,37.90,Phantasmal Smokezephyr Mercury Of Men,180.00,211.20,192.00,38016.0000,34560.0000,100082.30400000,07/04/2008 @ 12:00:00 AM
+22661,"Song, Runetomb",The Tower of Sabiesu the Awesome,10.00,Fog Lavaplatinum Of Life,85.00,560.35,509.41,47629.7500,43299.8500,100022.56000000,07/04/2008 @ 12:00:00 AM
+9283,"Lightning, Brand",The Black Barrow of Bery,19.80,Primordial Plague Mercury Of Legend,80.00,1150.79,67.00,92063.2000,5360.0000,116712.99360000,07/04/2008 @ 12:00:00 AM
+32529,"Sunset, Knightclaw",Hafeld Keep,47.59,Fairies' Supreme Mistsmoke Lead Of The Future,133.00,499.73,549.70,66464.0900,73110.1000,205997.54702100,07/04/2008 @ 12:00:00 AM
+18206,Bronzespike,Peley Keep,20.92,Meteoric Mirrormuck Orichalcum Of The Forests,99.00,491.62,405.35,48670.3800,40129.6500,107376.99627600,07/04/2008 @ 12:00:00 AM
+8598,"Maverick, Wind",The Hunter and Rose,39.60,Zephyr Adamant,194.00,481.77,-44.14,93463.3800,-8563.1600,118520.70712000,07/04/2008 @ 12:00:00 AM
+29334,"Deathspike, The Terrifying",The Nulukkhath Spires,28.99,Unknown Fatelightning Steel Of The Glacier,77.00,145.08,159.59,11171.1600,12288.4300,30260.52514100,07/04/2008 @ 12:00:00 AM
+6214,"Evilcoil, The Machine",The Shadow Downs,34.00,Violetdream Iron,93.00,414.98,377.25,38593.1400,35084.2500,98727.70260000,07/04/2008 @ 12:00:00 AM
+17790,Bonescare,The Bastion of the Vampire Duke,37.90,Trolls' Rubymercury Of The Sunset,213.00,487.30,487.30,103794.9000,103794.9000,286266.33420000,07/04/2008 @ 12:00:00 AM
+30886,"Icechill, The Frigid",The Tower of Sabiesu the Awesome,10.00,Ensorceled Sandmetal Of Spirits,284.00,85.18,77.44,24191.1200,21992.9600,50802.48800000,07/04/2008 @ 12:00:00 AM
+2264,Bonescare,Pewold Keep,29.00,Undeads' Mind Orichalcum Of The Twilight,291.00,1169.00,274.00,340179.0000,79734.0000,541687.77000000,07/04/2008 @ 12:00:00 AM
+36212,"Eumyan, Goddess of Law",The Fen of the Necromancer,32.21,Grayplatinum,235.00,2548.00,115.43,598780.0000,27126.0500,827510.38870500,07/04/2008 @ 12:00:00 AM

@@ -1,16 +1,16 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-75,"Godwarlock, Sunrise",Bergfison's Deep,16.00,Unknown Fatelightning Steel Of The Glacier,199.00,305.86,109.00,60866.1400,21691.0000,95766.28240000,05/27/2017 @ 12:00:00 AM
-35205,"Squallmourner, Storm",The Bastion of the Vampire Duke,45.86,Ghouls' Imperial Soulzephyr Mithril Of The Seas,109.00,318.23,318.23,34687.0700,34687.0700,101189.12060400,05/27/2017 @ 12:00:00 AM
-12589,"Darkzealot, Dawn",Noble's Village,5.43,Djinni's Mind Fogiron,151.00,57.23,52.03,8641.7300,7856.5300,17394.11551800,05/27/2017 @ 12:00:00 AM
-35645,"God of Fate, Sielach",Citadel Ward,4.40,Lycanthropes' Gold,102.00,449.88,408.98,45887.7600,41715.9600,91458.28368000,05/27/2017 @ 12:00:00 AM
-23741,"The Chiller, Chillfire",The Forsaken Sepulcher of Sorrows,31.36,Incubi's Glittering Tin Of The Future,156.00,192.96,212.26,30101.7600,33112.5600,83038.33075200,05/27/2017 @ 12:00:00 AM
-1860,"Felldrake, Magus",The Bastion of the Lich Tyrant,5.36,Foul Ice Bronze Of Life,80.00,-378.00,242.00,-30240.0000,19360.0000,-11463.16800000,05/27/2017 @ 12:00:00 AM
-10816,"God of Luck, Ariel",Arcanist's Farthing,29.00,Fairies' Supreme Mistsmoke Lead Of The Future,316.00,2622.69,454.30,828770.0400,143558.8000,1254304.20360000,05/27/2017 @ 12:00:00 AM
-19781,"Gust, Shadow",The Lewd King,45.98,Shadow Metal,226.00,1606.00,298.00,362956.0000,67348.0000,628157.77920000,05/27/2017 @ 12:00:00 AM
-30191,"Roguemist, Rouge",The Tower of Sabiesu the Awesome,10.00,Incubi's Glittering Tin Of The Future,41.00,192.96,233.49,7911.3600,9573.0900,19232.89500000,05/27/2017 @ 12:00:00 AM
-19991,"Lawslayer, Valentine",The Lewd King,45.98,Shadow Metal,235.00,1606.00,298.00,377410.0000,70030.0000,653172.91200000,05/27/2017 @ 12:00:00 AM
-28381,"The Grasping, Beamsprocket",Bifar's Deep,12.21,Undeads' Mind Orichalcum Of The Twilight,209.00,1169.00,364.69,244321.0000,76220.2100,359679.29174100,05/27/2017 @ 12:00:00 AM
-834,"God of the Lost, Lionare",The Citadel of Lord Greywulf,19.00,Fog Lavaplatinum Of Life,112.00,2232.00,463.10,249984.0000,51867.2000,359202.92800000,05/27/2017 @ 12:00:00 AM
-5315,"Dawn, Tarot",The Tower of Sabiesu the Awesome,10.00,Sirens' Rockgold,246.00,306.13,278.30,75307.9800,68461.8000,158146.75800000,05/27/2017 @ 12:00:00 AM
-16678,"Goddess of Trickery, Alik",Gili's Delve,35.89,Lycanthropes' Gold,156.00,371.80,338.00,58000.8000,52728.0000,150469.36632000,05/27/2017 @ 12:00:00 AM
-25157,"Veil, Bane",The Pirate's Pipe,16.94,Incubi's Iron Of The Dawn,303.00,192.49,174.99,58324.4700,53021.9700,130208.52693600,05/27/2017 @ 12:00:00 AM
+75,"Godwarlock, Sunrise",Bergfison's Deep,16.00,Unknown Fatelightning Steel Of The Glacier,199.00,305.86,109.00,60866.1400,21691.0000,95766.28240000,05/27/1947 @ 12:00:00 AM
+35205,"Squallmourner, Storm",The Bastion of the Vampire Duke,45.86,Ghouls' Imperial Soulzephyr Mithril Of The Seas,109.00,318.23,318.23,34687.0700,34687.0700,101189.12060400,05/27/1947 @ 12:00:00 AM
+12589,"Darkzealot, Dawn",Noble's Village,5.43,Djinni's Mind Fogiron,151.00,57.23,52.03,8641.7300,7856.5300,17394.11551800,05/27/1947 @ 12:00:00 AM
+35645,"God of Fate, Sielach",Citadel Ward,4.40,Lycanthropes' Gold,102.00,449.88,408.98,45887.7600,41715.9600,91458.28368000,05/27/1947 @ 12:00:00 AM
+23741,"The Chiller, Chillfire",The Forsaken Sepulcher of Sorrows,31.36,Incubi's Glittering Tin Of The Future,156.00,192.96,212.26,30101.7600,33112.5600,83038.33075200,05/27/1947 @ 12:00:00 AM
+1860,"Felldrake, Magus",The Bastion of the Lich Tyrant,5.36,Foul Ice Bronze Of Life,80.00,-378.00,242.00,-30240.0000,19360.0000,-11463.16800000,05/27/1947 @ 12:00:00 AM
+10816,"God of Luck, Ariel",Arcanist's Farthing,29.00,Fairies' Supreme Mistsmoke Lead Of The Future,316.00,2622.69,454.30,828770.0400,143558.8000,1254304.20360000,05/27/1947 @ 12:00:00 AM
+19781,"Gust, Shadow",The Lewd King,45.98,Shadow Metal,226.00,1606.00,298.00,362956.0000,67348.0000,628157.77920000,05/27/1947 @ 12:00:00 AM
+30191,"Roguemist, Rouge",The Tower of Sabiesu the Awesome,10.00,Incubi's Glittering Tin Of The Future,41.00,192.96,233.49,7911.3600,9573.0900,19232.89500000,05/27/1947 @ 12:00:00 AM
+19991,"Lawslayer, Valentine",The Lewd King,45.98,Shadow Metal,235.00,1606.00,298.00,377410.0000,70030.0000,653172.91200000,05/27/1947 @ 12:00:00 AM
+28381,"The Grasping, Beamsprocket",Bifar's Deep,12.21,Undeads' Mind Orichalcum Of The Twilight,209.00,1169.00,364.69,244321.0000,76220.2100,359679.29174100,05/27/1947 @ 12:00:00 AM
+834,"God of the Lost, Lionare",The Citadel of Lord Greywulf,19.00,Fog Lavaplatinum Of Life,112.00,2232.00,463.10,249984.0000,51867.2000,359202.92800000,05/27/1947 @ 12:00:00 AM
+5315,"Dawn, Tarot",The Tower of Sabiesu the Awesome,10.00,Sirens' Rockgold,246.00,306.13,278.30,75307.9800,68461.8000,158146.75800000,05/27/1947 @ 12:00:00 AM
+16678,"Goddess of Trickery, Alik",Gili's Delve,35.89,Lycanthropes' Gold,156.00,371.80,338.00,58000.8000,52728.0000,150469.36632000,05/27/1947 @ 12:00:00 AM
+25157,"Veil, Bane",The Pirate's Pipe,16.94,Incubi's Iron Of The Dawn,303.00,192.49,174.99,58324.4700,53021.9700,130208.52693600,05/27/1947 @ 12:00:00 AM

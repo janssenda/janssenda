@@ -1,21 +1,21 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-23019,"Anchor, Rose",Moor Village,11.32,Tritons' Time Stoneiron Of Legend,177.00,341.59,341.59,60461.4300,60461.4300,134611.32775200,10/16/2018 @ 12:00:00 AM
-35285,"Bladewitch, Zeal",Bifar's Deep,12.21,Lycanthropes' Gold,145.00,449.88,408.98,65232.6000,59302.1000,139740.38687000,10/16/2018 @ 12:00:00 AM
-35414,"Tsunami, Seraphim",Citadel Ward,4.40,Lycanthropes' Gold,145.00,449.88,408.98,65232.6000,59302.1000,130014.22680000,10/16/2018 @ 12:00:00 AM
-35328,"Lonedrake, Clash",The Fortress of the Lich Queen,22.79,Lycanthropes' Gold,218.00,449.88,408.98,98073.8400,89157.6400,229901.53429200,10/16/2018 @ 12:00:00 AM
-34118,"Roguemist, Rouge",Reheath Stronghold,39.60,Poison Adamant,251.00,110.96,100.87,27850.9600,25318.3700,74224.38468000,10/16/2018 @ 12:00:00 AM
-23663,"Felldrake, Magus",The Fortress of Akkun the Grim,27.03,Planar Mudtin Of Trolls,224.00,191.40,174.00,42873.6000,38976.0000,103973.54688000,10/16/2018 @ 12:00:00 AM
-10579,"Jackalguard, Gale",The Chuallanto Jungle,10.00,Fairies' Supreme Mistsmoke Lead Of The Future,170.00,2622.69,454.30,445857.3000,77231.0000,575397.13000000,10/16/2018 @ 12:00:00 AM
-34676,"The Evil, Burnchill",Barad Kesa,6.17,Yellow Mistearth Copper,72.00,287.98,261.80,20734.5600,18849.6000,42026.50267200,10/16/2018 @ 12:00:00 AM
-10988,"The Binder, Springpulley",The Black Barrow of Bery,19.80,Shadow Metal,169.00,1606.00,298.00,271414.0000,50362.0000,385487.64800000,10/16/2018 @ 12:00:00 AM
-20520,"Dire, Wind",The Lewd King,45.98,Magicians' Legendary Poison Metal,187.00,-52.81,-48.01,-9875.4700,-8977.8700,-27522.10573200,10/16/2018 @ 12:00:00 AM
-31471,"Spiritraven, Bedlam",The Bastion of Gothmog of Udun,-2.66,Planar Mudtin Of Trolls,294.00,191.40,174.00,56271.6000,51156.0000,104570.02584000,10/16/2018 @ 12:00:00 AM
-30888,Gravebone,The Fortress of Akkun the Grim,27.03,Witchs' Forbidden Rockrainbow Bronze,143.00,245.63,245.63,35125.0900,35125.0900,89238.80365400,10/16/2018 @ 12:00:00 AM
-14079,"Amberslayer, Flora",North Arcanist's Farthing,2.75,Imperial Fate Steel,278.00,419.10,381.00,116509.8000,105918.0000,228544.56450000,10/16/2018 @ 12:00:00 AM
-15716,"Squallmourner, Storm",The Dungeon of Merciless Woe,3.61,Golems' Stonesapphire Gold Of The Glacier,34.00,176.00,160.00,5984.0000,5440.0000,11836.40640000,10/16/2018 @ 12:00:00 AM
-27657,"God of Resurrection, Gadriel",The Pirate's Pipe,16.94,Sprites' Transcendent Mud Lead Of The South,145.00,3338.65,267.08,484104.2500,38726.6000,611398.39599000,10/16/2018 @ 12:00:00 AM
-5873,"Wolf, Jericho",Reheath Stronghold,39.60,Mithril Of Legend,153.00,169.17,186.09,25883.0100,28471.7700,75879.27288000,10/16/2018 @ 12:00:00 AM
-12033,"The Chiller, Blazefreeze",The Dungeon of Merciless Woe,3.61,Incubi's Iron Of The Dawn,155.00,174.99,159.08,27123.4500,24657.4000,53650.13868500,10/16/2018 @ 12:00:00 AM
-2194,"Seeker, Fate",The Tower of Sabiesu the Awesome,10.00,Glowpearl Adamant Of Spirits,189.00,-111.88,216.40,-21145.3200,40899.6000,21729.70800000,10/16/2018 @ 12:00:00 AM
-26808,"Roguemist, Rouge",Gili's Delve,35.89,Muck Orichalcum Of Ogres,282.00,143.37,130.34,40430.3400,36755.8800,104888.35435800,10/16/2018 @ 12:00:00 AM
-3504,"Lady of Fire, Nelalwe",Arcanist's Farthing,29.00,Falserainbow Lead,193.00,872.99,70.18,168487.0700,13544.7400,234821.03490000,10/16/2018 @ 12:00:00 AM
+23019,"Anchor, Rose",Moor Village,11.32,Tritons' Time Stoneiron Of Legend,177.00,341.59,341.59,60461.4300,60461.4300,134611.32775200,10/16/1998 @ 12:00:00 AM
+35285,"Bladewitch, Zeal",Bifar's Deep,12.21,Lycanthropes' Gold,145.00,449.88,408.98,65232.6000,59302.1000,139740.38687000,10/16/1948 @ 12:00:00 AM
+35414,"Tsunami, Seraphim",Citadel Ward,4.40,Lycanthropes' Gold,145.00,449.88,408.98,65232.6000,59302.1000,130014.22680000,10/16/1948 @ 12:00:00 AM
+35328,"Lonedrake, Clash",The Fortress of the Lich Queen,22.79,Lycanthropes' Gold,218.00,449.88,408.98,98073.8400,89157.6400,229901.53429200,10/16/1948 @ 12:00:00 AM
+34118,"Roguemist, Rouge",Reheath Stronghold,39.60,Poison Adamant,251.00,110.96,100.87,27850.9600,25318.3700,74224.38468000,10/16/1948 @ 12:00:00 AM
+23663,"Felldrake, Magus",The Fortress of Akkun the Grim,27.03,Planar Mudtin Of Trolls,224.00,191.40,174.00,42873.6000,38976.0000,103973.54688000,10/16/1948 @ 12:00:00 AM
+10579,"Jackalguard, Gale",The Chuallanto Jungle,10.00,Fairies' Supreme Mistsmoke Lead Of The Future,170.00,2622.69,454.30,445857.3000,77231.0000,575397.13000000,10/16/1978 @ 12:00:00 AM
+34676,"The Evil, Burnchill",Barad Kesa,6.17,Yellow Mistearth Copper,72.00,287.98,261.80,20734.5600,18849.6000,42026.50267200,10/16/1948 @ 12:00:00 AM
+10988,"The Binder, Springpulley",The Black Barrow of Bery,19.80,Shadow Metal,169.00,1606.00,298.00,271414.0000,50362.0000,385487.64800000,10/16/1948 @ 12:00:00 AM
+20520,"Dire, Wind",The Lewd King,45.98,Magicians' Legendary Poison Metal,187.00,-52.81,-48.01,-9875.4700,-8977.8700,-27522.10573200,10/16/1978 @ 12:00:00 AM
+31471,"Spiritraven, Bedlam",The Bastion of Gothmog of Udun,-2.66,Planar Mudtin Of Trolls,294.00,191.40,174.00,56271.6000,51156.0000,104570.02584000,10/16/1948 @ 12:00:00 AM
+30888,Gravebone,The Fortress of Akkun the Grim,27.03,Witchs' Forbidden Rockrainbow Bronze,143.00,245.63,245.63,35125.0900,35125.0900,89238.80365400,10/16/1948 @ 12:00:00 AM
+14079,"Amberslayer, Flora",North Arcanist's Farthing,2.75,Imperial Fate Steel,278.00,419.10,381.00,116509.8000,105918.0000,228544.56450000,10/16/1978 @ 12:00:00 AM
+15716,"Squallmourner, Storm",The Dungeon of Merciless Woe,3.61,Golems' Stonesapphire Gold Of The Glacier,34.00,176.00,160.00,5984.0000,5440.0000,11836.40640000,10/16/1948 @ 12:00:00 AM
+27657,"God of Resurrection, Gadriel",The Pirate's Pipe,16.94,Sprites' Transcendent Mud Lead Of The South,145.00,3338.65,267.08,484104.2500,38726.6000,611398.39599000,10/16/1978 @ 12:00:00 AM
+5873,"Wolf, Jericho",Reheath Stronghold,39.60,Mithril Of Legend,153.00,169.17,186.09,25883.0100,28471.7700,75879.27288000,10/16/1948 @ 12:00:00 AM
+12033,"The Chiller, Blazefreeze",The Dungeon of Merciless Woe,3.61,Incubi's Iron Of The Dawn,155.00,174.99,159.08,27123.4500,24657.4000,53650.13868500,10/16/1948 @ 12:00:00 AM
+2194,"Seeker, Fate",The Tower of Sabiesu the Awesome,10.00,Glowpearl Adamant Of Spirits,189.00,-111.88,216.40,-21145.3200,40899.6000,21729.70800000,10/16/1948 @ 12:00:00 AM
+26808,"Roguemist, Rouge",Gili's Delve,35.89,Muck Orichalcum Of Ogres,282.00,143.37,130.34,40430.3400,36755.8800,104888.35435800,10/16/1948 @ 12:00:00 AM
+3504,"Lady of Fire, Nelalwe",Arcanist's Farthing,29.00,Falserainbow Lead,193.00,872.99,70.18,168487.0700,13544.7400,234821.03490000,10/16/1948 @ 12:00:00 AM

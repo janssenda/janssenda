@@ -1,23 +1,23 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-11111,Gravebone,The Fortress of Asmamur,-2.42,Emerald Orichalcum,165.00,1957.00,118.01,322905.0000,19471.6500,334091.13507000,10/25/2016 @ 12:00:00 AM
-24554,"Knightclaw, Sunset",Bifar's Deep,12.21,Foul Ice Bronze Of Life,176.00,292.82,266.20,51536.3200,46851.2000,110400.63619200,10/25/2016 @ 12:00:00 AM
-3942,"God of Death, Avriel",The Hunter and Rose,39.60,Trolls' Rubymercury Of The Sunset,178.00,2733.00,443.00,486474.0000,78854.0000,789197.88800000,10/25/2016 @ 12:00:00 AM
-10083,"God of Fate, Uriel",Hartshill Ward,40.29,Timeiron,192.00,3255.00,-16.25,624960.0000,-3120.0000,872379.33600000,10/25/2016 @ 12:00:00 AM
-24923,"God of Protection, Finarfin",Bifar's Deep,12.21,Negative Rockglitter Mercury Of Trolls,307.00,235.59,214.17,72326.1300,65750.1900,154935.43867200,10/25/2016 @ 12:00:00 AM
-23894,"Tombreaper, Rouge",Fellfen Keep,38.00,Toxic Mistlead Of The Past,236.00,396.06,396.06,93470.1600,93470.1600,257977.64160000,10/25/2016 @ 12:00:00 AM
-22497,"The Trapper, Boltcrank",The Tomb of Hellish Ruin,36.30,Shadowhell Mithril,175.00,462.21,420.19,80886.7500,73533.2500,210474.46000000,10/25/2016 @ 12:00:00 AM
-10833,"The Blade, Steelterror",Gena's Hold,4.84,Dragons' Poison Glitterflesh Steel Of The North,148.00,742.00,75.00,109816.0000,11100.0000,126768.33440000,10/25/2016 @ 12:00:00 AM
-34976,"Darkzealot, Dawn",Barad Kesa,6.17,Ghouls' Imperial Soulzephyr Mithril Of The Seas,30.00,318.23,318.23,9546.9000,9546.9000,20271.88746000,10/25/2016 @ 12:00:00 AM
-22981,"Godwarlock, Sunrise",Reheath Stronghold,39.60,Forgotten Mithril,182.00,545.71,496.10,99319.2200,90290.2000,264694.75032000,10/25/2016 @ 12:00:00 AM
-31124,"Dawn, Tarot",The Fortress of Akkun the Grim,27.03,Ensorceled Sandmetal Of Spirits,159.00,85.18,77.44,13543.6200,12312.9600,32845.61357400,10/25/2016 @ 12:00:00 AM
-30108,"Goddess of Trickery, Alik",The Tower of Sabiesu the Awesome,10.00,Swordbronze,323.00,403.29,366.63,130262.6700,118421.4900,273552.57600000,10/25/2016 @ 12:00:00 AM
-9866,"The Chiller, Blazefreeze",The Lost Crypts of Sorrows,2.20,Angels' Adamant,222.00,51.48,46.80,11428.5600,10389.6000,22298.15952000,10/25/2016 @ 12:00:00 AM
-8614,"Bladewitch, Zeal",The Hunter and Rose,39.60,Starsmoke Bronze Of Life,131.00,-438.00,420.81,-57378.0000,55126.1100,-3143.63844000,10/25/2016 @ 12:00:00 AM
-7849,"Goddess of Knowledge, Baltha",The Bastion of Sthasu the Gruesome,40.00,Sirens' Rockgold,215.00,306.13,278.30,65817.9500,59834.5000,175913.43000000,10/25/2016 @ 12:00:00 AM
-15252,Springsprocket,The Secret Shrine of the Gargoyle Count,23.93,Primordial Plague Mercury Of Legend,156.00,73.70,67.00,11497.2000,10452.0000,27201.64356000,10/25/2016 @ 12:00:00 AM
-4063,"Gust, Shadow",The Fortress of Gama,3.00,Mind Lead,199.00,756.00,199.17,150444.0000,39634.8300,195781.19490000,10/25/2016 @ 12:00:00 AM
-14017,"Rougehate, Rune",Gili's Delve,35.89,Djinni's Evil Sandobsidian Steel Of The Future,323.00,140.58,140.58,45407.3400,45407.3400,123408.06865200,10/25/2016 @ 12:00:00 AM
-27496,Cinderember,The Bastion of Gothmog of Udun,-2.42,Unknown Fatelightning Steel Of The Glacier,51.00,145.08,159.59,7399.0800,8139.0900,15162.14628600,10/25/2016 @ 12:00:00 AM
-4203,"Tsunami, Seraphim",The Fortress of Gama,3.00,Falserainbow Lead,143.00,872.99,70.18,124837.5700,10035.7400,138919.50930000,10/25/2016 @ 12:00:00 AM
-13045,Beamtrap,Bergfison's Deep,16.00,Djinni's Mind Fogiron,126.00,57.23,52.03,7210.9800,6555.7800,15969.44160000,10/25/2016 @ 12:00:00 AM
-26434,Emberspawn,North Arcanist's Farthing,3.03,Starsmoke Bronze Of Life,224.00,-438.00,420.81,-98112.0000,94261.4400,-3967.23196800,10/25/2016 @ 12:00:00 AM
+11111,Gravebone,The Fortress of Asmamur,-2.42,Emerald Orichalcum,165.00,1957.00,118.01,322905.0000,19471.6500,334091.13507000,10/25/1986 @ 12:00:00 AM
+24554,"Knightclaw, Sunset",Bifar's Deep,12.21,Foul Ice Bronze Of Life,176.00,292.82,266.20,51536.3200,46851.2000,110400.63619200,10/25/1996 @ 12:00:00 AM
+3942,"God of Death, Avriel",The Hunter and Rose,39.60,Trolls' Rubymercury Of The Sunset,178.00,2733.00,443.00,486474.0000,78854.0000,789197.88800000,10/25/1946 @ 12:00:00 AM
+10083,"God of Fate, Uriel",Hartshill Ward,40.29,Timeiron,192.00,3255.00,-16.25,624960.0000,-3120.0000,872379.33600000,10/25/1946 @ 12:00:00 AM
+24923,"God of Protection, Finarfin",Bifar's Deep,12.21,Negative Rockglitter Mercury Of Trolls,307.00,235.59,214.17,72326.1300,65750.1900,154935.43867200,10/25/1946 @ 12:00:00 AM
+23894,"Tombreaper, Rouge",Fellfen Keep,38.00,Toxic Mistlead Of The Past,236.00,396.06,396.06,93470.1600,93470.1600,257977.64160000,10/25/1946 @ 12:00:00 AM
+22497,"The Trapper, Boltcrank",The Tomb of Hellish Ruin,36.30,Shadowhell Mithril,175.00,462.21,420.19,80886.7500,73533.2500,210474.46000000,10/25/1946 @ 12:00:00 AM
+10833,"The Blade, Steelterror",Gena's Hold,4.84,Dragons' Poison Glitterflesh Steel Of The North,148.00,742.00,75.00,109816.0000,11100.0000,126768.33440000,10/25/1946 @ 12:00:00 AM
+34976,"Darkzealot, Dawn",Barad Kesa,6.17,Ghouls' Imperial Soulzephyr Mithril Of The Seas,30.00,318.23,318.23,9546.9000,9546.9000,20271.88746000,10/25/1946 @ 12:00:00 AM
+22981,"Godwarlock, Sunrise",Reheath Stronghold,39.60,Forgotten Mithril,182.00,545.71,496.10,99319.2200,90290.2000,264694.75032000,10/25/1946 @ 12:00:00 AM
+31124,"Dawn, Tarot",The Fortress of Akkun the Grim,27.03,Ensorceled Sandmetal Of Spirits,159.00,85.18,77.44,13543.6200,12312.9600,32845.61357400,10/25/1946 @ 12:00:00 AM
+30108,"Goddess of Trickery, Alik",The Tower of Sabiesu the Awesome,10.00,Swordbronze,323.00,403.29,366.63,130262.6700,118421.4900,273552.57600000,10/25/1946 @ 12:00:00 AM
+9866,"The Chiller, Blazefreeze",The Lost Crypts of Sorrows,2.20,Angels' Adamant,222.00,51.48,46.80,11428.5600,10389.6000,22298.15952000,10/25/1946 @ 12:00:00 AM
+8614,"Bladewitch, Zeal",The Hunter and Rose,39.60,Starsmoke Bronze Of Life,131.00,-438.00,420.81,-57378.0000,55126.1100,-3143.63844000,10/25/1946 @ 12:00:00 AM
+7849,"Goddess of Knowledge, Baltha",The Bastion of Sthasu the Gruesome,40.00,Sirens' Rockgold,215.00,306.13,278.30,65817.9500,59834.5000,175913.43000000,10/25/1946 @ 12:00:00 AM
+15252,Springsprocket,The Secret Shrine of the Gargoyle Count,23.93,Primordial Plague Mercury Of Legend,156.00,73.70,67.00,11497.2000,10452.0000,27201.64356000,10/25/1946 @ 12:00:00 AM
+4063,"Gust, Shadow",The Fortress of Gama,3.00,Mind Lead,199.00,756.00,199.17,150444.0000,39634.8300,195781.19490000,10/25/1986 @ 12:00:00 AM
+14017,"Rougehate, Rune",Gili's Delve,35.89,Djinni's Evil Sandobsidian Steel Of The Future,323.00,140.58,140.58,45407.3400,45407.3400,123408.06865200,10/25/1946 @ 12:00:00 AM
+27496,Cinderember,The Bastion of Gothmog of Udun,-2.42,Unknown Fatelightning Steel Of The Glacier,51.00,145.08,159.59,7399.0800,8139.0900,15162.14628600,10/25/1946 @ 12:00:00 AM
+4203,"Tsunami, Seraphim",The Fortress of Gama,3.00,Falserainbow Lead,143.00,872.99,70.18,124837.5700,10035.7400,138919.50930000,10/25/1946 @ 12:00:00 AM
+13045,Beamtrap,Bergfison's Deep,16.00,Djinni's Mind Fogiron,126.00,57.23,52.03,7210.9800,6555.7800,15969.44160000,10/25/1946 @ 12:00:00 AM
+26434,Emberspawn,North Arcanist's Farthing,3.03,Starsmoke Bronze Of Life,224.00,-438.00,420.81,-98112.0000,94261.4400,-3967.23196800,10/25/1946 @ 12:00:00 AM

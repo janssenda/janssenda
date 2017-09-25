@@ -1,27 +1,27 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-12780,"Reaper, Dagger",Archfane District,15.29,Foulopal Copper Of The Skies,178.00,201.66,201.66,35895.4800,35895.4800,82767.79778400,02/06/2018 @ 12:00:00 AM
-23387,"Ivycaster, Fate",The Secret Catacombs of Ulfang the Black,31.70,Tritons' Time Stoneiron Of Legend,141.00,341.59,341.59,48164.1900,48164.1900,126864.47646000,02/06/2018 @ 12:00:00 AM
-22014,Spikesnare,The Tower of Sabiesu the Awesome,10.00,Fog Lavaplatinum Of Life,40.00,560.35,509.41,22414.0000,20376.4000,47069.44000000,02/06/2018 @ 12:00:00 AM
-33013,Spikesnare,Pewold Keep,29.00,Fairies' Supreme Mistsmoke Lead Of The Future,161.00,499.73,549.70,80456.5300,88501.7000,217956.11670000,02/06/2018 @ 12:00:00 AM
-1737,"Dawn, Tarot",Archring Borough,27.00,Ghostly Magic Adamant,167.00,49.50,45.00,8266.5000,7515.0000,20042.50500000,02/06/2018 @ 12:00:00 AM
-21196,"Gust, Shadow",Arcanist's Farthing,29.00,Unknowable Mindsilver,230.00,174.90,174.90,40227.0000,40227.0000,103785.66000000,02/06/2018 @ 12:00:00 AM
-8161,"God of Death, Selik",The Black Barrow of Bery,19.80,Lycanthropes' Gold,130.00,371.80,338.00,48334.0000,43940.0000,110544.25200000,02/06/2018 @ 12:00:00 AM
-33895,"Brand, Lightning",Reheath Stronghold,39.60,Poison Adamant,326.00,110.96,100.87,36172.9600,32883.6200,96402.98568000,02/06/2018 @ 12:00:00 AM
-21881,"The Trapper, Boltcrank",Reyny Keep,-3.35,Yellow Mistearth Copper,120.00,287.98,261.80,34557.6000,31416.0000,63763.48440000,02/06/2018 @ 12:00:00 AM
-33818,"God of Fate, Sielach",Reheath Stronghold,39.60,Poison Adamant,352.00,110.96,100.87,39057.9200,35506.2400,104091.56736000,02/06/2018 @ 12:00:00 AM
-9677,Bonescare,Archring Borough,29.70,Muck Orichalcum Of Ogres,240.00,2080.00,97.93,499200.0000,23503.2000,677946.05040000,02/06/2018 @ 12:00:00 AM
-29388,"God of Thieves, Maeglodor",The Nulukkhath Spires,28.99,Fleshshock Mercury,257.00,-31.02,-28.20,-7972.1400,-7247.4000,-19631.68464600,02/06/2018 @ 12:00:00 AM
-28104,"Knightseraph, Lance",Barad Kesa,5.61,Undeads' Mind Orichalcum Of The Twilight,214.00,1169.00,364.69,250166.0000,78043.6600,346622.22192600,02/06/2018 @ 12:00:00 AM
-31892,"Lord of the Sea, Penur",Hafeld Keep,47.59,Grayplatinum,174.00,2548.00,104.94,443352.0000,18259.5600,681292.50140400,02/06/2018 @ 12:00:00 AM
-578,"Tombreaper, Rouge",Bergfison's Deep,16.00,Meteoric Dustzephyr Orichalcum,283.00,3549.00,2.00,1004367.0000,566.0000,1165722.28000000,02/06/2018 @ 12:00:00 AM
-6522,"Angelchild, Harmony",The Chuallanto Jungle,10.00,Shadowhell Mithril,291.00,462.21,420.19,134503.1100,122275.2900,282456.24000000,02/06/2018 @ 12:00:00 AM
-7919,Springsprocket,The Drunken Thief,18.41,Unknowable Mindsilver,104.00,174.90,174.90,18189.6000,18189.6000,43076.61072000,02/06/2018 @ 12:00:00 AM
-16682,"Mist, Claw",The Secret Shrine of the Gargoyle Count,23.93,Swordbronze,251.00,333.30,303.00,83658.3000,76053.0000,197930.21409000,02/06/2018 @ 12:00:00 AM
-27583,"The Freezer, Shiverflame",The Bastion of Gothmog of Udun,-2.42,Unknown Fatelightning Steel Of The Glacier,107.00,145.08,159.59,15523.5600,17076.1300,31810.77750200,02/06/2018 @ 12:00:00 AM
-3103,"Seeker, Fate",The Khazahol Crags,20.68,Falserainbow Lead,57.00,872.99,70.18,49760.4300,4000.2600,64878.40069200,02/06/2018 @ 12:00:00 AM
-37152,"Knightseraph, Lance",The Greedy Wench,13.31,Stone Soulsteel Of The Skies,140.00,453.31,453.31,63463.4000,63463.4000,143820.75708000,02/06/2018 @ 12:00:00 AM
-14690,"God of Love, Prusu",Dysley Stronghold,35.51,Golems' Stonesapphire Gold Of The Glacier,273.00,176.00,160.00,48048.0000,43680.0000,124300.61280000,02/06/2018 @ 12:00:00 AM
-14656,"Rougehate, Rune",The Fortress of Akkun the Grim,27.03,Golems' Stonesapphire Gold Of The Glacier,29.00,176.00,160.00,5104.0000,4640.0000,12377.80320000,02/06/2018 @ 12:00:00 AM
-14930,"Lord of the Sea, Penur",The Secret Catacombs of Ulfang the Black,28.82,Angels' Adamant,301.00,51.48,46.80,15495.4800,14086.8000,38107.89309600,02/06/2018 @ 12:00:00 AM
-12248,"The Mechanical, Snarepiston",The Tomb of Hellish Ruin,33.00,Zephyr Adamant,145.00,481.77,-44.14,69856.6500,-6400.3000,84396.94550000,02/06/2018 @ 12:00:00 AM
-37502,Metalghoul,The Greedy Wench,13.31,Stone Soulsteel Of The Skies,220.00,453.31,453.31,99728.2000,99728.2000,226004.04684000,02/06/2018 @ 12:00:00 AM
+12780,"Reaper, Dagger",Archfane District,15.29,Foulopal Copper Of The Skies,178.00,201.66,201.66,35895.4800,35895.4800,82767.79778400,02/06/1978 @ 12:00:00 AM
+23387,"Ivycaster, Fate",The Secret Catacombs of Ulfang the Black,31.70,Tritons' Time Stoneiron Of Legend,141.00,341.59,341.59,48164.1900,48164.1900,126864.47646000,02/06/1948 @ 12:00:00 AM
+22014,Spikesnare,The Tower of Sabiesu the Awesome,10.00,Fog Lavaplatinum Of Life,40.00,560.35,509.41,22414.0000,20376.4000,47069.44000000,02/06/1948 @ 12:00:00 AM
+33013,Spikesnare,Pewold Keep,29.00,Fairies' Supreme Mistsmoke Lead Of The Future,161.00,499.73,549.70,80456.5300,88501.7000,217956.11670000,02/06/1948 @ 12:00:00 AM
+1737,"Dawn, Tarot",Archring Borough,27.00,Ghostly Magic Adamant,167.00,49.50,45.00,8266.5000,7515.0000,20042.50500000,02/06/1948 @ 12:00:00 AM
+21196,"Gust, Shadow",Arcanist's Farthing,29.00,Unknowable Mindsilver,230.00,174.90,174.90,40227.0000,40227.0000,103785.66000000,02/06/1948 @ 12:00:00 AM
+8161,"God of Death, Selik",The Black Barrow of Bery,19.80,Lycanthropes' Gold,130.00,371.80,338.00,48334.0000,43940.0000,110544.25200000,02/06/1948 @ 12:00:00 AM
+33895,"Brand, Lightning",Reheath Stronghold,39.60,Poison Adamant,326.00,110.96,100.87,36172.9600,32883.6200,96402.98568000,02/06/1948 @ 12:00:00 AM
+21881,"The Trapper, Boltcrank",Reyny Keep,-3.35,Yellow Mistearth Copper,120.00,287.98,261.80,34557.6000,31416.0000,63763.48440000,02/06/1948 @ 12:00:00 AM
+33818,"God of Fate, Sielach",Reheath Stronghold,39.60,Poison Adamant,352.00,110.96,100.87,39057.9200,35506.2400,104091.56736000,02/06/1948 @ 12:00:00 AM
+9677,Bonescare,Archring Borough,29.70,Muck Orichalcum Of Ogres,240.00,2080.00,97.93,499200.0000,23503.2000,677946.05040000,02/06/1948 @ 12:00:00 AM
+29388,"God of Thieves, Maeglodor",The Nulukkhath Spires,28.99,Fleshshock Mercury,257.00,-31.02,-28.20,-7972.1400,-7247.4000,-19631.68464600,02/06/1948 @ 12:00:00 AM
+28104,"Knightseraph, Lance",Barad Kesa,5.61,Undeads' Mind Orichalcum Of The Twilight,214.00,1169.00,364.69,250166.0000,78043.6600,346622.22192600,02/06/1948 @ 12:00:00 AM
+31892,"Lord of the Sea, Penur",Hafeld Keep,47.59,Grayplatinum,174.00,2548.00,104.94,443352.0000,18259.5600,681292.50140400,02/06/1948 @ 12:00:00 AM
+578,"Tombreaper, Rouge",Bergfison's Deep,16.00,Meteoric Dustzephyr Orichalcum,283.00,3549.00,2.00,1004367.0000,566.0000,1165722.28000000,02/06/1948 @ 12:00:00 AM
+6522,"Angelchild, Harmony",The Chuallanto Jungle,10.00,Shadowhell Mithril,291.00,462.21,420.19,134503.1100,122275.2900,282456.24000000,02/06/1948 @ 12:00:00 AM
+7919,Springsprocket,The Drunken Thief,18.41,Unknowable Mindsilver,104.00,174.90,174.90,18189.6000,18189.6000,43076.61072000,02/06/1948 @ 12:00:00 AM
+16682,"Mist, Claw",The Secret Shrine of the Gargoyle Count,23.93,Swordbronze,251.00,333.30,303.00,83658.3000,76053.0000,197930.21409000,02/06/1948 @ 12:00:00 AM
+27583,"The Freezer, Shiverflame",The Bastion of Gothmog of Udun,-2.42,Unknown Fatelightning Steel Of The Glacier,107.00,145.08,159.59,15523.5600,17076.1300,31810.77750200,02/06/1948 @ 12:00:00 AM
+3103,"Seeker, Fate",The Khazahol Crags,20.68,Falserainbow Lead,57.00,872.99,70.18,49760.4300,4000.2600,64878.40069200,02/06/1948 @ 12:00:00 AM
+37152,"Knightseraph, Lance",The Greedy Wench,13.31,Stone Soulsteel Of The Skies,140.00,453.31,453.31,63463.4000,63463.4000,143820.75708000,02/06/1948 @ 12:00:00 AM
+14690,"God of Love, Prusu",Dysley Stronghold,35.51,Golems' Stonesapphire Gold Of The Glacier,273.00,176.00,160.00,48048.0000,43680.0000,124300.61280000,02/06/1948 @ 12:00:00 AM
+14656,"Rougehate, Rune",The Fortress of Akkun the Grim,27.03,Golems' Stonesapphire Gold Of The Glacier,29.00,176.00,160.00,5104.0000,4640.0000,12377.80320000,02/06/1948 @ 12:00:00 AM
+14930,"Lord of the Sea, Penur",The Secret Catacombs of Ulfang the Black,28.82,Angels' Adamant,301.00,51.48,46.80,15495.4800,14086.8000,38107.89309600,02/06/1948 @ 12:00:00 AM
+12248,"The Mechanical, Snarepiston",The Tomb of Hellish Ruin,33.00,Zephyr Adamant,145.00,481.77,-44.14,69856.6500,-6400.3000,84396.94550000,02/06/1948 @ 12:00:00 AM
+37502,Metalghoul,The Greedy Wench,13.31,Stone Soulsteel Of The Skies,220.00,453.31,453.31,99728.2000,99728.2000,226004.04684000,02/06/1948 @ 12:00:00 AM

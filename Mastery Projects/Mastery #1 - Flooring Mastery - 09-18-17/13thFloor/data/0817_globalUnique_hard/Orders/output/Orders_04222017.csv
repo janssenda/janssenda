@@ -1,23 +1,23 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-36355,"Godseeker, Cult",The Fen of the Necromancer,32.21,Ensorceled Sandmetal Of Spirits,216.00,85.18,93.70,18398.8800,20239.2000,51083.40556800,04/22/2017 @ 12:00:00 AM
-1110,"The Disinterred, Spikebrood",The Archer and Blade,15.00,Starlight Pearldream Bronze,224.00,-494.37,67.00,-110738.8800,15008.0000,-110090.51200000,04/22/2017 @ 12:00:00 AM
-1221,"Goddess of Knowledge, Baltha",The Shadow Downs,34.00,Ghostly Magic Adamant,240.00,901.35,45.00,216324.0000,10800.0000,304346.16000000,04/22/2017 @ 12:00:00 AM
-35267,"Lord of Plague, Alas",The Fen of the Necromancer,32.21,Ghouls' Imperial Soulzephyr Mithril Of The Seas,181.00,318.23,318.23,57599.6300,57599.6300,152304.94164600,04/22/2017 @ 12:00:00 AM
-2754,"Wind, Maverick",The Lazy Sage,21.93,Litches' Fatal Mithril Of The Past,169.00,3822.00,13.00,645918.0000,2197.0000,790246.61950000,04/22/2017 @ 12:00:00 AM
-10232,"The Cadaverous, Chainblade",The Lost Crypts of Sorrows,2.20,Angels' Adamant,199.00,51.48,46.80,10244.5200,9313.2000,19987.98984000,04/22/2017 @ 12:00:00 AM
-10375,"The Horrorific, Evilfear",Grori's Deep,27.50,Pearl Mirrorice Steel Of Changelings,102.00,2996.00,302.00,305592.0000,30804.0000,428904.90000000,04/22/2017 @ 12:00:00 AM
-23664,"Mistseeker, Grave",Moor Village,11.32,Tritons' Time Stoneiron Of Legend,173.00,341.59,341.59,59095.0700,59095.0700,131569.26384800,04/22/2017 @ 12:00:00 AM
-24952,"Lord of Plague, Alas",The Forsaken Sepulcher of Sorrows,31.36,Foul Ice Bronze Of Life,267.00,292.82,266.20,78182.9400,71075.4000,196065.75542400,04/22/2017 @ 12:00:00 AM
-35568,"The Chiller, Blazefreeze",The Nulukkhath Spires,28.99,Violetdream Iron,201.00,502.13,502.13,100928.1300,100928.1300,260374.38977400,04/22/2017 @ 12:00:00 AM
-23989,"Mystery, Lord",The Broken Arrow,17.60,Djinni's Mind Fogiron,112.00,57.23,57.23,6409.7600,6409.7600,15075.75552000,04/22/2017 @ 12:00:00 AM
-10801,Freezebrood,Grori's Deep,27.50,Dragons' Poison Glitterflesh Steel Of The North,127.00,742.00,75.00,94234.0000,9525.0000,132292.72500000,04/22/2017 @ 12:00:00 AM
-7103,"Gust, Shadow",The Pirate's Pipe,15.40,Sapphire Mindlead,342.00,-44.77,-40.70,-15311.3400,-13919.4000,-33732.27396000,04/22/2017 @ 12:00:00 AM
-29210,"Tsunami, Seraphim",Bifar's Deep,12.21,Stone Soulsteel Of The Skies,201.00,453.31,412.10,91115.3100,82832.1000,195186.38876100,04/22/2017 @ 12:00:00 AM
-29358,"Bladewitch, Zeal",Bifar's Deep,12.21,Hidden Shadowice Lead,218.00,-16.50,-16.50,-3597.0000,-3597.0000,-8072.38740000,04/22/2017 @ 12:00:00 AM
-7414,"Mist, Claw",Barad Kesa,5.10,Sirens' Rockgold,215.00,306.13,278.30,65817.9500,59834.5000,132060.72495000,04/22/2017 @ 12:00:00 AM
-6465,Springcoil,Khali's Delve,1.18,Violetdream Iron,127.00,414.98,377.25,52702.4600,47910.7500,101800.44587800,04/22/2017 @ 12:00:00 AM
-16471,"God of Thieves, Maeglodor",The Bastion of the Lich Tyrant,7.14,Swordbronze,179.00,333.30,303.00,59660.7000,54237.0000,122029.99578000,04/22/2017 @ 12:00:00 AM
-7895,"The Horrorific, Evilfear",Gawold Castle,10.29,Unknowable Mindsilver,344.00,174.90,174.90,60165.6000,60165.6000,132713.28048000,04/22/2017 @ 12:00:00 AM
-17941,"Godwarlock, Sunrise",Kada's Deep,8.42,Trolls' Rubymercury Of The Sunset,245.00,487.30,487.30,119388.5000,119388.5000,258882.02340000,04/22/2017 @ 12:00:00 AM
-14157,Emberspawn,The Secret Catacombs of Ulfang the Black,28.82,Negative Rockglitter Mercury Of Trolls,284.00,3502.00,214.17,994568.0000,60824.2800,1359556.33509600,04/22/2017 @ 12:00:00 AM
-15757,"The Blade, Scarefear",The Dungeon of Merciless Woe,3.61,Imperial Fate Steel,177.00,419.10,381.00,74180.7000,67437.0000,146730.09897000,04/22/2017 @ 12:00:00 AM
+36355,"Godseeker, Cult",The Fen of the Necromancer,32.21,Ensorceled Sandmetal Of Spirits,216.00,85.18,93.70,18398.8800,20239.2000,51083.40556800,04/22/1947 @ 12:00:00 AM
+1110,"The Disinterred, Spikebrood",The Archer and Blade,15.00,Starlight Pearldream Bronze,224.00,-494.37,67.00,-110738.8800,15008.0000,-110090.51200000,04/22/1947 @ 12:00:00 AM
+1221,"Goddess of Knowledge, Baltha",The Shadow Downs,34.00,Ghostly Magic Adamant,240.00,901.35,45.00,216324.0000,10800.0000,304346.16000000,04/22/1947 @ 12:00:00 AM
+35267,"Lord of Plague, Alas",The Fen of the Necromancer,32.21,Ghouls' Imperial Soulzephyr Mithril Of The Seas,181.00,318.23,318.23,57599.6300,57599.6300,152304.94164600,04/22/1947 @ 12:00:00 AM
+2754,"Wind, Maverick",The Lazy Sage,21.93,Litches' Fatal Mithril Of The Past,169.00,3822.00,13.00,645918.0000,2197.0000,790246.61950000,04/22/1947 @ 12:00:00 AM
+10232,"The Cadaverous, Chainblade",The Lost Crypts of Sorrows,2.20,Angels' Adamant,199.00,51.48,46.80,10244.5200,9313.2000,19987.98984000,04/22/1947 @ 12:00:00 AM
+10375,"The Horrorific, Evilfear",Grori's Deep,27.50,Pearl Mirrorice Steel Of Changelings,102.00,2996.00,302.00,305592.0000,30804.0000,428904.90000000,04/22/1947 @ 12:00:00 AM
+23664,"Mistseeker, Grave",Moor Village,11.32,Tritons' Time Stoneiron Of Legend,173.00,341.59,341.59,59095.0700,59095.0700,131569.26384800,04/22/1947 @ 12:00:00 AM
+24952,"Lord of Plague, Alas",The Forsaken Sepulcher of Sorrows,31.36,Foul Ice Bronze Of Life,267.00,292.82,266.20,78182.9400,71075.4000,196065.75542400,04/22/1947 @ 12:00:00 AM
+35568,"The Chiller, Blazefreeze",The Nulukkhath Spires,28.99,Violetdream Iron,201.00,502.13,502.13,100928.1300,100928.1300,260374.38977400,04/22/1947 @ 12:00:00 AM
+23989,"Mystery, Lord",The Broken Arrow,17.60,Djinni's Mind Fogiron,112.00,57.23,57.23,6409.7600,6409.7600,15075.75552000,04/22/1947 @ 12:00:00 AM
+10801,Freezebrood,Grori's Deep,27.50,Dragons' Poison Glitterflesh Steel Of The North,127.00,742.00,75.00,94234.0000,9525.0000,132292.72500000,04/22/1947 @ 12:00:00 AM
+7103,"Gust, Shadow",The Pirate's Pipe,15.40,Sapphire Mindlead,342.00,-44.77,-40.70,-15311.3400,-13919.4000,-33732.27396000,04/22/1947 @ 12:00:00 AM
+29210,"Tsunami, Seraphim",Bifar's Deep,12.21,Stone Soulsteel Of The Skies,201.00,453.31,412.10,91115.3100,82832.1000,195186.38876100,04/22/1947 @ 12:00:00 AM
+29358,"Bladewitch, Zeal",Bifar's Deep,12.21,Hidden Shadowice Lead,218.00,-16.50,-16.50,-3597.0000,-3597.0000,-8072.38740000,04/22/1947 @ 12:00:00 AM
+7414,"Mist, Claw",Barad Kesa,5.10,Sirens' Rockgold,215.00,306.13,278.30,65817.9500,59834.5000,132060.72495000,04/22/1947 @ 12:00:00 AM
+6465,Springcoil,Khali's Delve,1.18,Violetdream Iron,127.00,414.98,377.25,52702.4600,47910.7500,101800.44587800,04/22/1947 @ 12:00:00 AM
+16471,"God of Thieves, Maeglodor",The Bastion of the Lich Tyrant,7.14,Swordbronze,179.00,333.30,303.00,59660.7000,54237.0000,122029.99578000,04/22/1947 @ 12:00:00 AM
+7895,"The Horrorific, Evilfear",Gawold Castle,10.29,Unknowable Mindsilver,344.00,174.90,174.90,60165.6000,60165.6000,132713.28048000,04/22/1947 @ 12:00:00 AM
+17941,"Godwarlock, Sunrise",Kada's Deep,8.42,Trolls' Rubymercury Of The Sunset,245.00,487.30,487.30,119388.5000,119388.5000,258882.02340000,04/22/1947 @ 12:00:00 AM
+14157,Emberspawn,The Secret Catacombs of Ulfang the Black,28.82,Negative Rockglitter Mercury Of Trolls,284.00,3502.00,214.17,994568.0000,60824.2800,1359556.33509600,04/22/1947 @ 12:00:00 AM
+15757,"The Blade, Scarefear",The Dungeon of Merciless Woe,3.61,Imperial Fate Steel,177.00,419.10,381.00,74180.7000,67437.0000,146730.09897000,04/22/1987 @ 12:00:00 AM

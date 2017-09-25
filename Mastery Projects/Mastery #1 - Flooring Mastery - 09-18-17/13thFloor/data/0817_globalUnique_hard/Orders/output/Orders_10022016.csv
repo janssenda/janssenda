@@ -1,15 +1,15 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-2392,"The Mechanical, Snarepiston",Noble's Village,4.49,Glowpearl Adamant Of Spirits,158.00,-111.88,216.40,-17677.0400,34191.2000,17255.64578400,10/02/2016 @ 12:00:00 AM
-1899,Emberspawn,Archring Borough,27.00,Ghostly Magic Adamant,263.00,49.50,45.00,13018.5000,11835.0000,31563.94500000,10/02/2016 @ 12:00:00 AM
-19219,"Seeker, Fate",Weke Tower,47.19,Spirits' Living Wordhammer Tin Of The Trees,156.00,141.57,128.70,22084.9200,20077.2000,62058.42442800,10/02/2016 @ 12:00:00 AM
-33668,"Gust, Shadow",Pewold Keep,29.00,Fairies' Supreme Mistsmoke Lead Of The Future,162.00,499.73,549.70,80956.2600,89051.4000,219309.88140000,10/02/2016 @ 12:00:00 AM
-9951,"Claw, Slayer",Archring Borough,29.70,God-touched Greengem Platinum,235.00,2181.36,188.14,512619.6000,44212.9000,722211.75250000,10/02/2016 @ 12:00:00 AM
-27056,"The Disinterred, Spikebrood",Khali's Delve,1.30,Foulopal Copper Of The Skies,289.00,221.83,201.66,64108.8700,58279.7400,123979.66193000,10/02/2016 @ 12:00:00 AM
-6389,"Gust, Shadow",The Dismal Marsh,27.00,Nymphs' Luminous Rotmercury Of The Skies,167.00,335.50,305.00,56028.5000,50935.0000,135843.64500000,10/02/2016 @ 12:00:00 AM
-797,Evilbrood,The Fen of the Necromancer,20.00,Zephyr Adamant,292.00,481.77,-40.13,140676.8400,-11717.9600,154750.65600000,10/02/2016 @ 12:00:00 AM
-6572,"The Mechanical, Snarepiston",Archring Borough,29.70,Hidden Shadowice Lead,87.00,3068.90,-15.00,266994.3000,-1305.0000,344599.02210000,10/02/2016 @ 12:00:00 AM
-7997,"Bladewitch, Zeal",The Bastion of Sthasu the Gruesome,40.00,Starsmoke Bronze Of Life,52.00,-438.00,420.81,-22776.0000,21882.1200,-1251.43200000,10/02/2016 @ 12:00:00 AM
-6793,"The Unspeakable, Terrorghoul",The Dismal Marsh,27.00,Violetdream Iron,188.00,414.98,377.25,78016.2400,70923.0000,189152.83480000,10/02/2016 @ 12:00:00 AM
-4303,Ironbrood,Shainan's Hold,43.67,Trolls' Rubymercury Of The Sunset,205.00,2733.00,443.00,560265.0000,90815.0000,935406.63600000,10/02/2016 @ 12:00:00 AM
-37448,Metalbrood,The Greedy Wench,13.31,Ghouls' Imperial Soulzephyr Mithril Of The Seas,167.00,318.23,318.23,53144.4100,53144.4100,120435.86194200,10/02/2016 @ 12:00:00 AM
-13448,"Goddess of Thieves, Melcha",Gifeld Castle,30.01,Starsmoke Bronze Of Life,149.00,-438.00,420.81,-65262.0000,62700.6900,-3329.95913100,10/02/2016 @ 12:00:00 AM
+2392,"The Mechanical, Snarepiston",Noble's Village,4.49,Glowpearl Adamant Of Spirits,158.00,-111.88,216.40,-17677.0400,34191.2000,17255.64578400,10/02/1946 @ 12:00:00 AM
+1899,Emberspawn,Archring Borough,27.00,Ghostly Magic Adamant,263.00,49.50,45.00,13018.5000,11835.0000,31563.94500000,10/02/1946 @ 12:00:00 AM
+19219,"Seeker, Fate",Weke Tower,47.19,Spirits' Living Wordhammer Tin Of The Trees,156.00,141.57,128.70,22084.9200,20077.2000,62058.42442800,10/02/1946 @ 12:00:00 AM
+33668,"Gust, Shadow",Pewold Keep,29.00,Fairies' Supreme Mistsmoke Lead Of The Future,162.00,499.73,549.70,80956.2600,89051.4000,219309.88140000,10/02/1946 @ 12:00:00 AM
+9951,"Claw, Slayer",Archring Borough,29.70,God-touched Greengem Platinum,235.00,2181.36,188.14,512619.6000,44212.9000,722211.75250000,10/02/1946 @ 12:00:00 AM
+27056,"The Disinterred, Spikebrood",Khali's Delve,1.30,Foulopal Copper Of The Skies,289.00,221.83,201.66,64108.8700,58279.7400,123979.66193000,10/02/1946 @ 12:00:00 AM
+6389,"Gust, Shadow",The Dismal Marsh,27.00,Nymphs' Luminous Rotmercury Of The Skies,167.00,335.50,305.00,56028.5000,50935.0000,135843.64500000,10/02/1946 @ 12:00:00 AM
+797,Evilbrood,The Fen of the Necromancer,20.00,Zephyr Adamant,292.00,481.77,-40.13,140676.8400,-11717.9600,154750.65600000,10/02/1946 @ 12:00:00 AM
+6572,"The Mechanical, Snarepiston",Archring Borough,29.70,Hidden Shadowice Lead,87.00,3068.90,-15.00,266994.3000,-1305.0000,344599.02210000,10/02/1946 @ 12:00:00 AM
+7997,"Bladewitch, Zeal",The Bastion of Sthasu the Gruesome,40.00,Starsmoke Bronze Of Life,52.00,-438.00,420.81,-22776.0000,21882.1200,-1251.43200000,10/02/1946 @ 12:00:00 AM
+6793,"The Unspeakable, Terrorghoul",The Dismal Marsh,27.00,Violetdream Iron,188.00,414.98,377.25,78016.2400,70923.0000,189152.83480000,10/02/1946 @ 12:00:00 AM
+4303,Ironbrood,Shainan's Hold,43.67,Trolls' Rubymercury Of The Sunset,205.00,2733.00,443.00,560265.0000,90815.0000,935406.63600000,10/02/1946 @ 12:00:00 AM
+37448,Metalbrood,The Greedy Wench,13.31,Ghouls' Imperial Soulzephyr Mithril Of The Seas,167.00,318.23,318.23,53144.4100,53144.4100,120435.86194200,10/02/1946 @ 12:00:00 AM
+13448,"Goddess of Thieves, Melcha",Gifeld Castle,30.01,Starsmoke Bronze Of Life,149.00,-438.00,420.81,-65262.0000,62700.6900,-3329.95913100,10/02/1946 @ 12:00:00 AM

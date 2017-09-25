@@ -1,29 +1,29 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-25831,"The Unspeakable, Scarechain",Barad Cune,49.21,Warlocks' Timerot Mithril,279.00,194.65,176.95,54307.3500,49369.0500,154695.55644000,02/14/2017 @ 12:00:00 AM
-36431,"The Trapper, Boltcrank",The Fen of the Necromancer,32.21,Grayplatinum,121.00,2548.00,115.43,308308.0000,13967.0300,426079.81716300,02/14/2017 @ 12:00:00 AM
-2571,"Lionwatcher, Law",The Dismal Marsh,27.00,Magic Adamant,210.00,-190.00,72.13,-39900.0000,15147.3000,-31435.92900000,02/14/2017 @ 12:00:00 AM
-23300,"Darkzealot, Dawn",Reheath Stronghold,39.60,Fleshshock Mercury,322.00,-31.02,-28.20,-9988.4400,-9080.4000,-26620.10064000,02/14/2017 @ 12:00:00 AM
-35411,"The Disinterred, Spikebrood",The Nulukkhath Spires,28.99,Magicians' Legendary Poison Metal,155.00,-52.81,-48.01,-8185.5500,-7441.5500,-20157.39629000,02/14/2017 @ 12:00:00 AM
-24694,"Wolf, Jericho",The Forsaken Sepulcher of Sorrows,31.36,Foul Ice Bronze Of Life,111.00,292.82,266.20,32503.0200,29548.2000,81510.48259200,02/14/2017 @ 12:00:00 AM
-35714,"God of War, Ingwenel",The Fen of the Necromancer,32.21,Vampires' Fang Emeraldsilver,299.00,2033.69,88.92,608073.3100,26587.0800,839084.50161900,02/14/2017 @ 12:00:00 AM
-1791,"Angelchild, Harmony",The Nulukkhath Spires,28.99,Glittering Orichalcum,165.00,2056.00,330.00,339240.0000,54450.0000,507820.73100000,02/14/2017 @ 12:00:00 AM
-22891,Evilbrood,The Fortress of Akkun the Grim,27.03,Planar Mudtin Of Trolls,244.00,191.40,174.00,46701.6000,42456.0000,113256.89928000,02/14/2017 @ 12:00:00 AM
-9249,"God of Fate, Uriel",The Black Barrow of Bery,19.80,Planar Mudtin Of Trolls,229.00,191.40,174.00,43830.6000,39846.0000,100244.56680000,02/14/2017 @ 12:00:00 AM
-33618,"The Chiller, Blazefreeze",The Archer and Scroll,60.12,Undeads' Mind Orichalcum Of The Twilight,109.00,1169.00,364.69,127421.0000,39751.2100,267676.14265200,02/14/2017 @ 12:00:00 AM
-32711,"The Frigid, Icechill",North Arcanist's Farthing,3.66,Grayplatinum,79.00,2548.00,104.94,201292.0000,8290.2600,217252.97071600,02/14/2017 @ 12:00:00 AM
-30257,"The Chiller, Chillfire",The Tower of Sabiesu the Awesome,10.00,Heavenly Dreamsilver Of The Night,203.00,719.00,314.60,145957.0000,63863.8000,230802.88000000,02/14/2017 @ 12:00:00 AM
-17313,"Angelchild, Harmony",The Scoundrel and Flask,45.25,Grayplatinum,111.00,2548.00,104.94,282828.0000,11648.3400,427726.88385000,02/14/2017 @ 12:00:00 AM
-17448,"The Firey, Evilember",The Scoundrel and Flask,45.25,Incubi's Glittering Tin Of The Future,179.00,192.96,212.26,34539.8400,37994.5400,105356.18695000,02/14/2017 @ 12:00:00 AM
-7650,Bonescare,Gawold Castle,10.29,Unicorns' Fatal Magma Metal Of The Ocean,192.00,903.00,23.00,173376.0000,4416.0000,196086.79680000,02/14/2017 @ 12:00:00 AM
-27172,"Amberslayer, Flora",The Bastion of Gothmog of Udun,-2.42,Vampires' Hammer Emeraldmetal,116.00,93.70,85.18,10869.2000,9880.8800,20247.92806400,02/14/2017 @ 12:00:00 AM
-17777,"God of Fate, Uriel",The Bastion of the Vampire Duke,37.90,Shadow Metal,15.00,1606.00,298.00,24090.0000,4470.0000,39384.24000000,02/14/2017 @ 12:00:00 AM
-17840,"The Blade, Scarefear",Bergfison's Deep,16.00,Shadow Metal,230.00,1606.00,298.00,369380.0000,68540.0000,507987.20000000,02/14/2017 @ 12:00:00 AM
-14080,"Wind, Maverick",Noble's Village,5.43,Mind Lead,75.00,241.00,219.09,18075.0000,16431.7500,36380.46652500,02/14/2017 @ 12:00:00 AM
-26130,"Wolf, Jericho",Archfane District,15.29,Sapphire Mindlead,86.00,-44.77,-49.25,-3850.2200,-4235.5000,-9322.02658800,02/14/2017 @ 12:00:00 AM
-25071,"Dire, Wind",The Forsaken Sepulcher of Sorrows,31.36,Negative Rockglitter Mercury Of Trolls,68.00,235.59,214.17,16020.1200,14563.5600,40174.72204800,02/14/2017 @ 12:00:00 AM
-15831,"The Constructed, Snaretool",The Dungeon of Merciless Woe,3.61,Starsmoke Bronze Of Life,333.00,-438.00,420.81,-145854.0000,140129.7300,-5930.91614700,02/14/2017 @ 12:00:00 AM
-26657,"The Living Device, Mecharig",Citadel Ward,4.40,Shadowhell Mithril,75.00,462.21,420.19,34665.7500,31514.2500,69091.92000000,02/14/2017 @ 12:00:00 AM
-36048,"Seeker, Fate",The Nulukkhath Spires,28.99,Yellow Mistearth Copper,216.00,287.98,261.80,62203.6800,56548.8000,153178.82395200,02/14/2017 @ 12:00:00 AM
-24064,"Lord of Animals, Suriel",Fellfen Keep,38.00,Phantasmal Tin Of The Swamps,79.00,405.96,369.05,32070.8400,29154.9500,84491.59020000,02/14/2017 @ 12:00:00 AM
-13485,Ironbrood,Kada's Deep,8.42,Primordial Plague Mercury Of Legend,182.00,73.70,67.00,13413.4000,12194.0000,27763.54308000,02/14/2017 @ 12:00:00 AM
-12276,"The Evil, Snowflame",The Tomb of Hellish Ruin,33.00,Fog Lavaplatinum Of Life,178.00,2232.00,509.41,397296.0000,90674.9800,649001.40340000,02/14/2017 @ 12:00:00 AM
+25831,"The Unspeakable, Scarechain",Barad Cune,49.21,Warlocks' Timerot Mithril,279.00,194.65,176.95,54307.3500,49369.0500,154695.55644000,02/14/1947 @ 12:00:00 AM
+36431,"The Trapper, Boltcrank",The Fen of the Necromancer,32.21,Grayplatinum,121.00,2548.00,115.43,308308.0000,13967.0300,426079.81716300,02/14/1947 @ 12:00:00 AM
+2571,"Lionwatcher, Law",The Dismal Marsh,27.00,Magic Adamant,210.00,-190.00,72.13,-39900.0000,15147.3000,-31435.92900000,02/14/1947 @ 12:00:00 AM
+23300,"Darkzealot, Dawn",Reheath Stronghold,39.60,Fleshshock Mercury,322.00,-31.02,-28.20,-9988.4400,-9080.4000,-26620.10064000,02/14/1947 @ 12:00:00 AM
+35411,"The Disinterred, Spikebrood",The Nulukkhath Spires,28.99,Magicians' Legendary Poison Metal,155.00,-52.81,-48.01,-8185.5500,-7441.5500,-20157.39629000,02/14/1947 @ 12:00:00 AM
+24694,"Wolf, Jericho",The Forsaken Sepulcher of Sorrows,31.36,Foul Ice Bronze Of Life,111.00,292.82,266.20,32503.0200,29548.2000,81510.48259200,02/14/1947 @ 12:00:00 AM
+35714,"God of War, Ingwenel",The Fen of the Necromancer,32.21,Vampires' Fang Emeraldsilver,299.00,2033.69,88.92,608073.3100,26587.0800,839084.50161900,02/14/1947 @ 12:00:00 AM
+1791,"Angelchild, Harmony",The Nulukkhath Spires,28.99,Glittering Orichalcum,165.00,2056.00,330.00,339240.0000,54450.0000,507820.73100000,02/14/1947 @ 12:00:00 AM
+22891,Evilbrood,The Fortress of Akkun the Grim,27.03,Planar Mudtin Of Trolls,244.00,191.40,174.00,46701.6000,42456.0000,113256.89928000,02/14/1987 @ 12:00:00 AM
+9249,"God of Fate, Uriel",The Black Barrow of Bery,19.80,Planar Mudtin Of Trolls,229.00,191.40,174.00,43830.6000,39846.0000,100244.56680000,02/14/1947 @ 12:00:00 AM
+33618,"The Chiller, Blazefreeze",The Archer and Scroll,60.12,Undeads' Mind Orichalcum Of The Twilight,109.00,1169.00,364.69,127421.0000,39751.2100,267676.14265200,02/14/1947 @ 12:00:00 AM
+32711,"The Frigid, Icechill",North Arcanist's Farthing,3.66,Grayplatinum,79.00,2548.00,104.94,201292.0000,8290.2600,217252.97071600,02/14/1947 @ 12:00:00 AM
+30257,"The Chiller, Chillfire",The Tower of Sabiesu the Awesome,10.00,Heavenly Dreamsilver Of The Night,203.00,719.00,314.60,145957.0000,63863.8000,230802.88000000,02/14/1947 @ 12:00:00 AM
+17313,"Angelchild, Harmony",The Scoundrel and Flask,45.25,Grayplatinum,111.00,2548.00,104.94,282828.0000,11648.3400,427726.88385000,02/14/1947 @ 12:00:00 AM
+17448,"The Firey, Evilember",The Scoundrel and Flask,45.25,Incubi's Glittering Tin Of The Future,179.00,192.96,212.26,34539.8400,37994.5400,105356.18695000,02/14/1987 @ 12:00:00 AM
+7650,Bonescare,Gawold Castle,10.29,Unicorns' Fatal Magma Metal Of The Ocean,192.00,903.00,23.00,173376.0000,4416.0000,196086.79680000,02/14/1977 @ 12:00:00 AM
+27172,"Amberslayer, Flora",The Bastion of Gothmog of Udun,-2.42,Vampires' Hammer Emeraldmetal,116.00,93.70,85.18,10869.2000,9880.8800,20247.92806400,02/14/1947 @ 12:00:00 AM
+17777,"God of Fate, Uriel",The Bastion of the Vampire Duke,37.90,Shadow Metal,15.00,1606.00,298.00,24090.0000,4470.0000,39384.24000000,02/14/1947 @ 12:00:00 AM
+17840,"The Blade, Scarefear",Bergfison's Deep,16.00,Shadow Metal,230.00,1606.00,298.00,369380.0000,68540.0000,507987.20000000,02/14/1947 @ 12:00:00 AM
+14080,"Wind, Maverick",Noble's Village,5.43,Mind Lead,75.00,241.00,219.09,18075.0000,16431.7500,36380.46652500,02/14/1947 @ 12:00:00 AM
+26130,"Wolf, Jericho",Archfane District,15.29,Sapphire Mindlead,86.00,-44.77,-49.25,-3850.2200,-4235.5000,-9322.02658800,02/14/1947 @ 12:00:00 AM
+25071,"Dire, Wind",The Forsaken Sepulcher of Sorrows,31.36,Negative Rockglitter Mercury Of Trolls,68.00,235.59,214.17,16020.1200,14563.5600,40174.72204800,02/14/1947 @ 12:00:00 AM
+15831,"The Constructed, Snaretool",The Dungeon of Merciless Woe,3.61,Starsmoke Bronze Of Life,333.00,-438.00,420.81,-145854.0000,140129.7300,-5930.91614700,02/14/1947 @ 12:00:00 AM
+26657,"The Living Device, Mecharig",Citadel Ward,4.40,Shadowhell Mithril,75.00,462.21,420.19,34665.7500,31514.2500,69091.92000000,02/14/1947 @ 12:00:00 AM
+36048,"Seeker, Fate",The Nulukkhath Spires,28.99,Yellow Mistearth Copper,216.00,287.98,261.80,62203.6800,56548.8000,153178.82395200,02/14/1947 @ 12:00:00 AM
+24064,"Lord of Animals, Suriel",Fellfen Keep,38.00,Phantasmal Tin Of The Swamps,79.00,405.96,369.05,32070.8400,29154.9500,84491.59020000,02/14/1947 @ 12:00:00 AM
+13485,Ironbrood,Kada's Deep,8.42,Primordial Plague Mercury Of Legend,182.00,73.70,67.00,13413.4000,12194.0000,27763.54308000,02/14/1947 @ 12:00:00 AM
+12276,"The Evil, Snowflame",The Tomb of Hellish Ruin,33.00,Fog Lavaplatinum Of Life,178.00,2232.00,509.41,397296.0000,90674.9800,649001.40340000,02/14/1947 @ 12:00:00 AM

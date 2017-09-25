@@ -1,23 +1,23 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-1112,"Mystery, Lord",Bifar's Deep,10.09,Starlight Pearldream Bronze,84.00,-494.37,67.00,-41527.0800,5628.0000,-39521.29717200,09/05/2017 @ 12:00:00 AM
-22185,Ironbrood,Pewold Keep,29.00,Shadowhell Mithril,308.00,462.21,420.19,142360.6800,129418.5200,350595.16800000,09/05/2017 @ 12:00:00 AM
-10556,"Tombreaper, Rouge",Arcanist's Farthing,29.00,Tritons' Time Stoneiron Of Legend,238.00,2235.00,310.54,531930.0000,73908.5200,781531.69080000,09/05/2017 @ 12:00:00 AM
-10621,"Dawn, Tarot",Kada's Deep,7.65,Phantasmal Smokezephyr Mercury Of Men,247.00,211.20,192.00,52166.4000,47424.0000,107209.06560000,09/05/2017 @ 12:00:00 AM
-20184,"Squallmourner, Storm",Eved Castle,30.80,Magicians' Legendary Poison Metal,56.00,-52.81,-48.01,-2957.3600,-2688.5600,-7384.86336000,09/05/2017 @ 12:00:00 AM
-10876,"The Grasping, Nailpiston",The Chuallanto Jungle,10.00,Tritons' Time Stoneiron Of Legend,225.00,2235.00,310.54,502875.0000,69871.5000,630021.15000000,09/05/2017 @ 12:00:00 AM
-9324,"The Grasping, Beamsprocket",The Tomb of Hellish Ruin,33.00,Djinni's Spectral Shadowlead Of Life,134.00,1718.00,259.12,230212.0000,34722.0800,352362.32640000,09/05/2017 @ 12:00:00 AM
-32551,Cinderember,Hafeld Keep,47.59,Yellow Mistearth Copper,85.00,287.98,261.80,24478.3000,22253.0000,68970.72567000,09/05/2017 @ 12:00:00 AM
-21908,"Lonedrake, Clash",Grori's Deep,30.25,Yellow Mistearth Copper,146.00,287.98,261.80,42045.0800,38222.8000,104548.91370000,09/05/2017 @ 12:00:00 AM
-32725,"The Unspeakable, Scarechain",The Fen of the Necromancer,29.28,Grayplatinum,230.00,2548.00,104.94,586040.0000,24136.2000,788835.79136000,09/05/2017 @ 12:00:00 AM
-20963,"God of War, Ingwenel",The Tomb of Hellish Ruin,36.30,Negative Rockglitter Mercury Of Trolls,77.00,3502.00,214.17,269654.0000,16491.0900,390015.75767000,09/05/2017 @ 12:00:00 AM
-18951,"Anchor, Rose",Mahyrst Keep,31.30,Golems' Stonesapphire Gold Of The Glacier,197.00,176.00,160.00,34672.0000,31520.0000,86910.09600000,09/05/2017 @ 12:00:00 AM
-7722,"God of Resurrection, Gadriel",Noble's Village,4.94,Sapphire Mindlead,125.00,-44.77,-40.70,-5596.2500,-5087.5000,-11211.52725000,09/05/2017 @ 12:00:00 AM
-16519,"Amberslayer, Flora",The Bastion of the Lich Tyrant,7.14,Lycanthropes' Gold,285.00,371.80,338.00,105963.0000,96330.0000,216736.72020000,09/05/2017 @ 12:00:00 AM
-5278,"Seeker, Fate",The Dancing Minstrel,36.02,Forgotten Mithril,251.00,3909.75,451.00,981347.2500,113201.0000,1488804.52965000,09/05/2017 @ 12:00:00 AM
-5666,Graveterror,Reheath Stronghold,39.60,Mind Lead,258.00,219.09,199.17,56525.2200,51385.8600,150643.86768000,09/05/2017 @ 12:00:00 AM
-28941,Cinderember,The Citadel of Alammius,32.67,Heavenly Dreamsilver Of The Night,94.00,719.00,314.60,67586.0000,29572.4000,128900.04928000,09/05/2017 @ 12:00:00 AM
-15756,Spikerivet,The Tower of Aramum,20.00,Sirens' Rockgold,346.00,306.13,306.13,105920.9800,105920.9800,254210.35200000,09/05/2017 @ 12:00:00 AM
-25332,"Ivycaster, Fate",The Fortress of Akkun the Grim,27.03,Incubi's Iron Of The Dawn,168.00,192.49,174.99,32338.3200,29398.3200,78424.05379200,09/05/2017 @ 12:00:00 AM
-12131,"Lord of Animals, Suriel",The Dungeon of Merciless Woe,3.61,Sprites' Transcendent Mud Lead Of The South,316.00,3338.65,242.80,1055013.4000,76724.8000,1172593.94902000,09/05/2017 @ 12:00:00 AM
-26781,Emberspawn,Gili's Delve,35.89,Foulopal Copper Of The Skies,245.00,221.83,201.66,54348.3500,49406.7000,140992.73744500,09/05/2017 @ 12:00:00 AM
-2265,Metalghoul,The Warrior and Flagon,9.00,Undeads' Mind Orichalcum Of The Twilight,321.00,1169.00,274.00,375249.0000,87954.0000,504891.27000000,09/05/2017 @ 12:00:00 AM
+1112,"Lord, Mystery",Bifar's Deep,10.09,Starlight Pearldream Bronze,84.00,-494.37,67.00,-41527.0800,5628.0000,-39521.29717200,09/05/2007 @ 12:00:00 AM
+22185,Ironbrood,Pewold Keep,29.00,Shadowhell Mithril,308.00,462.21,420.19,142360.6800,129418.5200,350595.16800000,09/05/2007 @ 12:00:00 AM
+10556,"Rouge, Tombreaper",Arcanist's Farthing,29.00,Tritons' Time Stoneiron Of Legend,238.00,2235.00,310.54,531930.0000,73908.5200,781531.69080000,09/05/2007 @ 12:00:00 AM
+10621,"Tarot, Dawn",Kada's Deep,7.65,Phantasmal Smokezephyr Mercury Of Men,247.00,211.20,192.00,52166.4000,47424.0000,107209.06560000,09/05/2007 @ 12:00:00 AM
+20184,"Storm, Squallmourner",Eved Castle,30.80,Magicians' Legendary Poison Metal,56.00,-52.81,-48.01,-2957.3600,-2688.5600,-7384.86336000,09/05/2007 @ 12:00:00 AM
+10876,"Nailpiston, The Grasping",The Chuallanto Jungle,10.00,Tritons' Time Stoneiron Of Legend,225.00,2235.00,310.54,502875.0000,69871.5000,630021.15000000,09/05/2007 @ 12:00:00 AM
+9324,"Beamsprocket, The Grasping",The Tomb of Hellish Ruin,33.00,Djinni's Spectral Shadowlead Of Life,134.00,1718.00,259.12,230212.0000,34722.0800,352362.32640000,09/05/2007 @ 12:00:00 AM
+32551,Cinderember,Hafeld Keep,47.59,Yellow Mistearth Copper,85.00,287.98,261.80,24478.3000,22253.0000,68970.72567000,09/05/2007 @ 12:00:00 AM
+21908,"Clash, Lonedrake",Grori's Deep,30.25,Yellow Mistearth Copper,146.00,287.98,261.80,42045.0800,38222.8000,104548.91370000,09/05/2007 @ 12:00:00 AM
+32725,"Scarechain, The Unspeakable",The Fen of the Necromancer,29.28,Grayplatinum,230.00,2548.00,104.94,586040.0000,24136.2000,788835.79136000,09/05/2007 @ 12:00:00 AM
+20963,"Ingwenel, God of War",The Tomb of Hellish Ruin,36.30,Negative Rockglitter Mercury Of Trolls,77.00,3502.00,214.17,269654.0000,16491.0900,390015.75767000,09/05/2007 @ 12:00:00 AM
+18951,"Rose, Anchor",Mahyrst Keep,31.30,Golems' Stonesapphire Gold Of The Glacier,197.00,176.00,160.00,34672.0000,31520.0000,86910.09600000,09/05/2007 @ 12:00:00 AM
+7722,"Gadriel, God of Resurrection",Noble's Village,4.94,Sapphire Mindlead,125.00,-44.77,-40.70,-5596.2500,-5087.5000,-11211.52725000,09/05/2007 @ 12:00:00 AM
+16519,"Flora, Amberslayer",The Bastion of the Lich Tyrant,7.14,Lycanthropes' Gold,285.00,371.80,338.00,105963.0000,96330.0000,216736.72020000,09/05/2007 @ 12:00:00 AM
+5278,"Fate, Seeker",The Dancing Minstrel,36.02,Forgotten Mithril,251.00,3909.75,451.00,981347.2500,113201.0000,1488804.52965000,09/05/2007 @ 12:00:00 AM
+5666,Graveterror,Reheath Stronghold,39.60,Mind Lead,258.00,219.09,199.17,56525.2200,51385.8600,150643.86768000,09/05/2007 @ 12:00:00 AM
+28941,Cinderember,The Citadel of Alammius,32.67,Heavenly Dreamsilver Of The Night,94.00,719.00,314.60,67586.0000,29572.4000,128900.04928000,09/05/2007 @ 12:00:00 AM
+15756,Spikerivet,The Tower of Aramum,20.00,Sirens' Rockgold,346.00,306.13,306.13,105920.9800,105920.9800,254210.35200000,09/05/2007 @ 12:00:00 AM
+25332,"Fate, Ivycaster",The Fortress of Akkun the Grim,27.03,Incubi's Iron Of The Dawn,168.00,192.49,174.99,32338.3200,29398.3200,78424.05379200,09/05/2007 @ 12:00:00 AM
+12131,"Suriel, Lord of Animals",The Dungeon of Merciless Woe,3.61,Sprites' Transcendent Mud Lead Of The South,316.00,3338.65,242.80,1055013.4000,76724.8000,1172593.94902000,09/05/2007 @ 12:00:00 AM
+26781,Emberspawn,Gili's Delve,35.89,Foulopal Copper Of The Skies,245.00,221.83,201.66,54348.3500,49406.7000,140992.73744500,09/05/2007 @ 12:00:00 AM
+2265,Metalghoul,The Warrior and Flagon,9.00,Undeads' Mind Orichalcum Of The Twilight,321.00,1169.00,274.00,375249.0000,87954.0000,504891.27000000,09/05/2007 @ 12:00:00 AM

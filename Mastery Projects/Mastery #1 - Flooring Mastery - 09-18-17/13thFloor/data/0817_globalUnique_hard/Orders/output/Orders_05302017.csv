@@ -1,15 +1,15 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-13824,"Roguemist, Rouge",The Bastion of the Vampire Duke,37.90,Trolls' Mist Poisonplatinum Of The Twilight,60.00,440.56,400.51,26433.6000,24030.6000,69590.13180000,05/30/2017 @ 12:00:00 AM
-3896,"The Binder, Springpulley",The Hunter and Rose,39.60,Timeiron,14.00,3255.00,-14.77,45570.0000,-206.7800,63327.05512000,05/30/2017 @ 12:00:00 AM
-35293,"God of Protection, Finarfin",Citadel Ward,4.40,Violetdream Iron,62.00,502.13,502.13,31132.0600,31132.0600,65003.74128000,05/30/2017 @ 12:00:00 AM
-36909,"Anchor, Rose",The Fen of the Necromancer,32.21,Ensorceled Sandmetal Of Spirits,93.00,85.18,93.70,7921.7400,8714.1000,21994.24406400,05/30/2017 @ 12:00:00 AM
-33183,Freezebrood,Pewold Keep,29.00,Undeads' Mind Orichalcum Of The Twilight,129.00,1169.00,364.69,150801.0000,47045.0100,255221.35290000,05/30/2017 @ 12:00:00 AM
-10649,"Brand, Lightning",The Drunken Thief,18.41,Fairies' Supreme Mistsmoke Lead Of The Future,207.00,2622.69,454.30,542896.8300,94040.1000,754197.01881300,05/30/2017 @ 12:00:00 AM
-34865,"God of Fate, Uriel",Barad Kesa,6.17,Yellow Mistearth Copper,78.00,287.98,261.80,22462.4400,20420.4000,45528.71122800,05/30/2017 @ 12:00:00 AM
-34919,"The Machine, Wheelbolt",Barad Kesa,6.17,Ghouls' Imperial Soulzephyr Mithril Of The Seas,357.00,318.23,318.23,113608.1100,113608.1100,241235.46077400,05/30/2017 @ 12:00:00 AM
-20792,"The Machine, Wheelbolt",The Tomb of Hellish Ruin,36.30,Unknowable Mindsilver,212.00,174.90,174.90,37078.8000,37078.8000,101076.80880000,05/30/2017 @ 12:00:00 AM
-29363,"Goddess of Travel, Lenwenye",The Citadel of Alammius,32.67,Heavenly Dreamsilver Of The Night,257.00,719.00,314.60,184783.0000,80852.2000,352418.21984000,05/30/2017 @ 12:00:00 AM
-29618,"The Blade, Steelterror",The Nulukkhath Spires,28.99,Hidden Shadowice Lead,55.00,-16.50,-16.50,-907.5000,-907.5000,-2341.16850000,05/30/2017 @ 12:00:00 AM
-6570,"Seeker, Fate",Reyny Keep,-3.35,Golems' Stonesapphire Gold Of The Glacier,206.00,589.00,160.00,121334.0000,32960.0000,149125.15100000,05/30/2017 @ 12:00:00 AM
-14038,Beamtrap,Gena's Hold,5.85,Phantasmal Smokezephyr Mercury Of Men,70.00,211.20,192.00,14784.0000,13440.0000,29875.10400000,05/30/2017 @ 12:00:00 AM
-4571,"Rougehate, Rune",Hartshill Ward,40.29,Grayplatinum,219.00,2548.00,86.73,558012.0000,18993.8700,809481.53502300,05/30/2017 @ 12:00:00 AM
+13824,"Roguemist, Rouge",The Bastion of the Vampire Duke,37.90,Trolls' Mist Poisonplatinum Of The Twilight,60.00,440.56,400.51,26433.6000,24030.6000,69590.13180000,05/30/1947 @ 12:00:00 AM
+3896,"The Binder, Springpulley",The Hunter and Rose,39.60,Timeiron,14.00,3255.00,-14.77,45570.0000,-206.7800,63327.05512000,05/30/1947 @ 12:00:00 AM
+35293,"God of Protection, Finarfin",Citadel Ward,4.40,Violetdream Iron,62.00,502.13,502.13,31132.0600,31132.0600,65003.74128000,05/30/1947 @ 12:00:00 AM
+36909,"Anchor, Rose",The Fen of the Necromancer,32.21,Ensorceled Sandmetal Of Spirits,93.00,85.18,93.70,7921.7400,8714.1000,21994.24406400,05/30/1947 @ 12:00:00 AM
+33183,Freezebrood,Pewold Keep,29.00,Undeads' Mind Orichalcum Of The Twilight,129.00,1169.00,364.69,150801.0000,47045.0100,255221.35290000,05/30/1947 @ 12:00:00 AM
+10649,"Brand, Lightning",The Drunken Thief,18.41,Fairies' Supreme Mistsmoke Lead Of The Future,207.00,2622.69,454.30,542896.8300,94040.1000,754197.01881300,05/30/1987 @ 12:00:00 AM
+34865,"God of Fate, Uriel",Barad Kesa,6.17,Yellow Mistearth Copper,78.00,287.98,261.80,22462.4400,20420.4000,45528.71122800,05/30/1947 @ 12:00:00 AM
+34919,"The Machine, Wheelbolt",Barad Kesa,6.17,Ghouls' Imperial Soulzephyr Mithril Of The Seas,357.00,318.23,318.23,113608.1100,113608.1100,241235.46077400,05/30/1947 @ 12:00:00 AM
+20792,"The Machine, Wheelbolt",The Tomb of Hellish Ruin,36.30,Unknowable Mindsilver,212.00,174.90,174.90,37078.8000,37078.8000,101076.80880000,05/30/1987 @ 12:00:00 AM
+29363,"Goddess of Travel, Lenwenye",The Citadel of Alammius,32.67,Heavenly Dreamsilver Of The Night,257.00,719.00,314.60,184783.0000,80852.2000,352418.21984000,05/30/1947 @ 12:00:00 AM
+29618,"The Blade, Steelterror",The Nulukkhath Spires,28.99,Hidden Shadowice Lead,55.00,-16.50,-16.50,-907.5000,-907.5000,-2341.16850000,05/30/1947 @ 12:00:00 AM
+6570,"Seeker, Fate",Reyny Keep,-3.35,Golems' Stonesapphire Gold Of The Glacier,206.00,589.00,160.00,121334.0000,32960.0000,149125.15100000,05/30/1947 @ 12:00:00 AM
+14038,Beamtrap,Gena's Hold,5.85,Phantasmal Smokezephyr Mercury Of Men,70.00,211.20,192.00,14784.0000,13440.0000,29875.10400000,05/30/1947 @ 12:00:00 AM
+4571,"Rougehate, Rune",Hartshill Ward,40.29,Grayplatinum,219.00,2548.00,86.73,558012.0000,18993.8700,809481.53502300,05/30/1947 @ 12:00:00 AM

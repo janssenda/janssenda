@@ -1,21 +1,21 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-37781,"Drakecaster, Sephiroth",The Greedy Wench,13.31,Stone Soulsteel Of The Skies,214.00,453.31,453.31,97008.3400,97008.3400,219840.30010800,11/09/2017 @ 12:00:00 AM
-10016,"Seeker, Fate",Gifeld Castle,27.28,Timeiron,176.00,3255.00,-16.25,572880.0000,-2860.0000,725521.45600000,11/09/2017 @ 12:00:00 AM
-2678,"Tombreaper, Rouge",The Dismal Marsh,27.00,Meteoric Mirrormuck Orichalcum Of The Forests,271.00,491.62,368.50,133229.0200,99863.5000,296027.50040000,11/09/2017 @ 12:00:00 AM
-23633,"The Skeletal, Spiketerror",The Lewd King,45.98,Planar Mudtin Of Trolls,105.00,191.40,174.00,20097.0000,18270.0000,56008.14660000,11/09/2017 @ 12:00:00 AM
-32053,"Drakecaster, Sephiroth",Weke Tower,47.19,Grayplatinum,193.00,2548.00,104.94,491764.0000,20253.4200,753638.44049800,11/09/2017 @ 12:00:00 AM
-21530,"Lawslayer, Valentine",Citadel Ward,4.40,Yellow Mistearth Copper,167.00,287.98,261.80,48092.6600,43720.6000,95853.04344000,11/09/2017 @ 12:00:00 AM
-34996,"The Freezer, Shiverflame",The Bastion of the Vampire Duke,45.86,Sprites' Transcendent Mud Lead Of The South,146.00,3338.65,267.08,487442.9000,38993.6800,767860.39558800,11/09/2017 @ 12:00:00 AM
-19571,"Lady of Vengeance, Zepul",Gifeld Castle,33.01,Foul Ice Bronze Of Life,354.00,292.82,266.20,103658.2800,94234.8000,263217.58570800,11/09/2017 @ 12:00:00 AM
-31284,"Drakecaster, Sephiroth",The Bastion of Gothmog of Udun,-2.66,Grayplatinum,251.00,2548.00,104.94,639548.0000,26339.9400,648175.32079600,11/09/2017 @ 12:00:00 AM
-9876,"Felldrake, Magus",Hartshill Ward,40.29,Forgotten Mithril,177.00,3909.75,496.10,692025.7500,87809.7000,1094031.15280500,11/09/2017 @ 12:00:00 AM
-17391,"Ivycaster, Fate",The Scoundrel and Flask,45.25,Grayplatinum,92.00,2548.00,104.94,234416.0000,9654.4800,354512.37220000,11/09/2017 @ 12:00:00 AM
-16012,"Rougehate, Rune",The Fortress of Asmamur,-2.66,Djinni's Mind Fogiron,322.00,57.23,52.03,18428.0600,16753.6600,34245.88624800,11/09/2017 @ 12:00:00 AM
-9905,"The Unspeakable, Terrorghoul",Archring Borough,29.70,Angels' Adamant,120.00,51.48,46.80,6177.6000,5616.0000,15296.29920000,11/09/2017 @ 12:00:00 AM
-27001,"The Mechanical, Snarepiston",The Chuallanto Jungle,11.00,Heavenly Dreamsilver Of The Night,249.00,719.00,314.60,179031.0000,78335.4000,285676.70400000,11/09/2017 @ 12:00:00 AM
-15305,"Knightseraph, Lance",Dysley Stronghold,35.51,Golems' Stonesapphire Gold Of The Glacier,34.00,176.00,160.00,5984.0000,5440.0000,15480.66240000,11/09/2017 @ 12:00:00 AM
-14207,"Mistmidnight, Tiger",The Archer and Scroll,49.68,Vampires' Hammer Emeraldmetal,76.00,77.44,70.40,5885.4400,5350.4000,16817.80531200,11/09/2017 @ 12:00:00 AM
-6958,Spikesnare,Barad Kesa,5.10,Vampires' Hammer Emeraldmetal,150.00,77.44,70.40,11616.0000,10560.0000,23306.97600000,11/09/2017 @ 12:00:00 AM
-37216,Ironbrood,The Greedy Wench,13.31,Stone Soulsteel Of The Skies,233.00,453.31,453.31,105621.2300,105621.2300,239358.83142600,11/09/2017 @ 12:00:00 AM
-25256,"The Cold, Burnfreeze",Kada's Deep,8.42,Incubi's Glittering Tin Of The Future,224.00,192.96,233.49,43223.0400,52301.7600,103567.98816000,11/09/2017 @ 12:00:00 AM
-5996,"Brand, Lightning",Reheath Stronghold,39.60,Nymphs' Luminous Rotmercury Of The Skies,357.00,335.50,305.00,119773.5000,108885.0000,319207.26600000,11/09/2017 @ 12:00:00 AM
+37781,"Drakecaster, Sephiroth",The Greedy Wench,13.31,Stone Soulsteel Of The Skies,214.00,453.31,453.31,97008.3400,97008.3400,219840.30010800,11/09/1947 @ 12:00:00 AM
+10016,"Seeker, Fate",Gifeld Castle,27.28,Timeiron,176.00,3255.00,-16.25,572880.0000,-2860.0000,725521.45600000,11/09/1947 @ 12:00:00 AM
+2678,"Tombreaper, Rouge",The Dismal Marsh,27.00,Meteoric Mirrormuck Orichalcum Of The Forests,271.00,491.62,368.50,133229.0200,99863.5000,296027.50040000,11/09/1947 @ 12:00:00 AM
+23633,"The Skeletal, Spiketerror",The Lewd King,45.98,Planar Mudtin Of Trolls,105.00,191.40,174.00,20097.0000,18270.0000,56008.14660000,11/09/1947 @ 12:00:00 AM
+32053,"Drakecaster, Sephiroth",Weke Tower,47.19,Grayplatinum,193.00,2548.00,104.94,491764.0000,20253.4200,753638.44049800,11/09/1947 @ 12:00:00 AM
+21530,"Lawslayer, Valentine",Citadel Ward,4.40,Yellow Mistearth Copper,167.00,287.98,261.80,48092.6600,43720.6000,95853.04344000,11/09/1947 @ 12:00:00 AM
+34996,"The Freezer, Shiverflame",The Bastion of the Vampire Duke,45.86,Sprites' Transcendent Mud Lead Of The South,146.00,3338.65,267.08,487442.9000,38993.6800,767860.39558800,11/09/1947 @ 12:00:00 AM
+19571,"Lady of Vengeance, Zepul",Gifeld Castle,33.01,Foul Ice Bronze Of Life,354.00,292.82,266.20,103658.2800,94234.8000,263217.58570800,11/09/1947 @ 12:00:00 AM
+31284,"Drakecaster, Sephiroth",The Bastion of Gothmog of Udun,-2.66,Grayplatinum,251.00,2548.00,104.94,639548.0000,26339.9400,648175.32079600,11/09/1947 @ 12:00:00 AM
+9876,"Felldrake, Magus",Hartshill Ward,40.29,Forgotten Mithril,177.00,3909.75,496.10,692025.7500,87809.7000,1094031.15280500,11/09/1947 @ 12:00:00 AM
+17391,"Ivycaster, Fate",The Scoundrel and Flask,45.25,Grayplatinum,92.00,2548.00,104.94,234416.0000,9654.4800,354512.37220000,11/09/1947 @ 12:00:00 AM
+16012,"Rougehate, Rune",The Fortress of Asmamur,-2.66,Djinni's Mind Fogiron,322.00,57.23,52.03,18428.0600,16753.6600,34245.88624800,11/09/1947 @ 12:00:00 AM
+9905,"The Unspeakable, Terrorghoul",Archring Borough,29.70,Angels' Adamant,120.00,51.48,46.80,6177.6000,5616.0000,15296.29920000,11/09/1947 @ 12:00:00 AM
+27001,"The Mechanical, Snarepiston",The Chuallanto Jungle,11.00,Heavenly Dreamsilver Of The Night,249.00,719.00,314.60,179031.0000,78335.4000,285676.70400000,11/09/1947 @ 12:00:00 AM
+15305,"Knightseraph, Lance",Dysley Stronghold,35.51,Golems' Stonesapphire Gold Of The Glacier,34.00,176.00,160.00,5984.0000,5440.0000,15480.66240000,11/09/1947 @ 12:00:00 AM
+14207,"Mistmidnight, Tiger",The Archer and Scroll,49.68,Vampires' Hammer Emeraldmetal,76.00,77.44,70.40,5885.4400,5350.4000,16817.80531200,11/09/1947 @ 12:00:00 AM
+6958,Spikesnare,Barad Kesa,5.10,Vampires' Hammer Emeraldmetal,150.00,77.44,70.40,11616.0000,10560.0000,23306.97600000,11/09/1947 @ 12:00:00 AM
+37216,Ironbrood,The Greedy Wench,13.31,Stone Soulsteel Of The Skies,233.00,453.31,453.31,105621.2300,105621.2300,239358.83142600,11/09/1947 @ 12:00:00 AM
+25256,"The Cold, Burnfreeze",Kada's Deep,8.42,Incubi's Glittering Tin Of The Future,224.00,192.96,233.49,43223.0400,52301.7600,103567.98816000,11/09/1947 @ 12:00:00 AM
+5996,"Brand, Lightning",Reheath Stronghold,39.60,Nymphs' Luminous Rotmercury Of The Skies,357.00,335.50,305.00,119773.5000,108885.0000,319207.26600000,11/09/1947 @ 12:00:00 AM

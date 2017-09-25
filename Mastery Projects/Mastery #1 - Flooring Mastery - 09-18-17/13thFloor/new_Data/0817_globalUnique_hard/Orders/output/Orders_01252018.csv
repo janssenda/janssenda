@@ -1,16 +1,16 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-24623,"Amberslayer, Flora",The Bastion of Barbos,25.41,Ensorceled Sandmetal Of Spirits,328.00,85.18,77.44,27939.0400,25400.3200,66892.89137600,01/25/2018 @ 12:00:00 AM
-11242,"The Grasping, Beamsprocket",The Fortress of Asmamur,-2.42,Violetstone Tin Of Death,79.00,2091.85,20.90,165256.1500,1651.1000,162868.09455000,01/25/2018 @ 12:00:00 AM
-34064,Spikesnare,Mahyrst Keep,31.30,Warlocks' Timerot Mithril,238.00,194.65,194.65,46326.7000,46326.7000,121653.91420000,01/25/2018 @ 12:00:00 AM
-10224,"Dire, Wind",The Pirate's Pipe,15.40,Timeiron,270.00,3255.00,-16.25,878850.0000,-4387.5000,1009129.72500000,01/25/2018 @ 12:00:00 AM
-21350,"The Horrorific, Evilfear",Moor Village,11.32,Yellow Mistearth Copper,384.00,287.98,261.80,110584.3200,100531.2000,235013.79686400,01/25/2018 @ 12:00:00 AM
-20252,Springcoil,Bifar's Deep,11.10,Unknowable Mindsilver,201.00,174.90,174.90,35154.9000,35154.9000,78114.18780000,01/25/2018 @ 12:00:00 AM
-32238,"The Firey, Evilember",The Fen of the Necromancer,29.28,Unspeakable Rotsoul Mithril Of Souls,53.00,370.26,336.60,19623.7800,17839.8000,48432.91622400,01/25/2018 @ 12:00:00 AM
-18057,"Amberslayer, Flora",The Bastion of the Vampire Duke,37.90,Starsmoke Bronze Of Life,197.00,-438.00,420.81,-86286.0000,82899.5700,-4669.88697000,01/25/2018 @ 12:00:00 AM
-21758,"The Machine, Wheelbolt",Grori's Deep,30.25,Starsmoke Bronze Of Life,228.00,-438.00,420.81,-99864.0000,95944.6800,-5104.91430000,01/25/2018 @ 12:00:00 AM
-19921,"The Mechanical, Snarepiston",Fellfen Keep,38.00,Unknowable Mindsilver,246.00,174.90,174.90,43025.4000,43025.4000,118750.10400000,01/25/2018 @ 12:00:00 AM
-593,"Amberslayer, Flora",The Bastion of Sthasu the Gruesome,40.00,Unicorns' Fatal Magma Metal Of The Ocean,175.00,903.00,23.00,158025.0000,4025.0000,226870.00000000,01/25/2018 @ 12:00:00 AM
-15339,"Seraphheart, Storm",The Dungeon of Merciless Woe,3.61,Djinni's Mind Fogiron,163.00,57.23,52.03,9328.4900,8480.8900,18452.29861800,01/25/2018 @ 12:00:00 AM
-13292,"Tombreaper, Rouge",The Bastion of the Vampire Duke,37.90,Trolls' Mist Poisonplatinum Of The Twilight,317.00,440.56,400.51,139657.5200,126961.6700,367667.86301000,01/25/2018 @ 12:00:00 AM
-3325,"Mystery, Lord",The Cracked Chalice,-4.37,Warlocks' Timerot Mithril,217.00,725.00,176.95,157325.0000,38398.1500,187170.04834500,01/25/2018 @ 12:00:00 AM
-26640,"Dire, Wind",The Chuallanto Jungle,11.00,Shadowhell Mithril,177.00,462.21,420.19,81811.1700,74373.6300,173365.12800000,01/25/2018 @ 12:00:00 AM
+24623,"Flora, Amberslayer",The Bastion of Barbos,25.41,Ensorceled Sandmetal Of Spirits,328.00,85.18,77.44,27939.0400,25400.3200,66892.89137600,01/25/2008 @ 12:00:00 AM
+11242,"Beamsprocket, The Grasping",The Fortress of Asmamur,-2.42,Violetstone Tin Of Death,79.00,2091.85,20.90,165256.1500,1651.1000,162868.09455000,01/25/2008 @ 12:00:00 AM
+34064,Spikesnare,Mahyrst Keep,31.30,Warlocks' Timerot Mithril,238.00,194.65,194.65,46326.7000,46326.7000,121653.91420000,01/25/2008 @ 12:00:00 AM
+10224,"Wind, Dire",The Pirate's Pipe,15.40,Timeiron,270.00,3255.00,-16.25,878850.0000,-4387.5000,1009129.72500000,01/25/2008 @ 12:00:00 AM
+21350,"Evilfear, The Horrorific",Moor Village,11.32,Yellow Mistearth Copper,384.00,287.98,261.80,110584.3200,100531.2000,235013.79686400,01/25/2008 @ 12:00:00 AM
+20252,Springcoil,Bifar's Deep,11.10,Unknowable Mindsilver,201.00,174.90,174.90,35154.9000,35154.9000,78114.18780000,01/25/2008 @ 12:00:00 AM
+32238,"Evilember, The Firey",The Fen of the Necromancer,29.28,Unspeakable Rotsoul Mithril Of Souls,53.00,370.26,336.60,19623.7800,17839.8000,48432.91622400,01/25/2008 @ 12:00:00 AM
+18057,"Flora, Amberslayer",The Bastion of the Vampire Duke,37.90,Starsmoke Bronze Of Life,197.00,-438.00,420.81,-86286.0000,82899.5700,-4669.88697000,01/25/2008 @ 12:00:00 AM
+21758,"Wheelbolt, The Machine",Grori's Deep,30.25,Starsmoke Bronze Of Life,228.00,-438.00,420.81,-99864.0000,95944.6800,-5104.91430000,01/25/2008 @ 12:00:00 AM
+19921,"Snarepiston, The Mechanical",Fellfen Keep,38.00,Unknowable Mindsilver,246.00,174.90,174.90,43025.4000,43025.4000,118750.10400000,01/25/2008 @ 12:00:00 AM
+593,"Flora, Amberslayer",The Bastion of Sthasu the Gruesome,40.00,Unicorns' Fatal Magma Metal Of The Ocean,175.00,903.00,23.00,158025.0000,4025.0000,226870.00000000,01/25/2008 @ 12:00:00 AM
+15339,"Storm, Seraphheart",The Dungeon of Merciless Woe,3.61,Djinni's Mind Fogiron,163.00,57.23,52.03,9328.4900,8480.8900,18452.29861800,01/25/2008 @ 12:00:00 AM
+13292,"Rouge, Tombreaper",The Bastion of the Vampire Duke,37.90,Trolls' Mist Poisonplatinum Of The Twilight,317.00,440.56,400.51,139657.5200,126961.6700,367667.86301000,01/25/2008 @ 12:00:00 AM
+3325,"Lord, Mystery",The Cracked Chalice,-4.37,Warlocks' Timerot Mithril,217.00,725.00,176.95,157325.0000,38398.1500,187170.04834500,01/25/2008 @ 12:00:00 AM
+26640,"Wind, Dire",The Chuallanto Jungle,11.00,Shadowhell Mithril,177.00,462.21,420.19,81811.1700,74373.6300,173365.12800000,01/25/2008 @ 12:00:00 AM

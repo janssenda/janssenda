@@ -1,19 +1,19 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-35043,"God of Thieves, Maeglodor",Barad Kesa,6.17,Grayplatinum,117.00,2548.00,115.43,298116.0000,13505.3100,330848.34482700,06/13/2018 @ 12:00:00 AM
-24496,"Felldrake, Magus",The Bastion of Barbos,25.41,Foul Ice Bronze Of Life,198.00,292.82,266.20,57978.3600,52707.6000,138811.26243600,06/13/2018 @ 12:00:00 AM
-37769,"The Evil, Burnchill",The Greedy Wench,13.31,Ghouls' Imperial Soulzephyr Mithril Of The Seas,314.00,318.23,318.23,99924.2200,99924.2200,226448.26736400,06/13/2018 @ 12:00:00 AM
-35387,"The Unspeakable, Gravebone",Citadel Ward,4.40,Yellow Mistearth Copper,255.00,287.98,261.80,73434.9000,66759.0000,146362.43160000,06/13/2018 @ 12:00:00 AM
-24859,"God of Thieves, Maeglodor",The Bastion of Barbos,25.41,Ensorceled Sandmetal Of Spirits,214.00,85.18,77.44,18228.5200,16572.1600,43643.53278800,06/13/2018 @ 12:00:00 AM
-1560,"Tombreaper, Rouge",The Broken Arrow,16.00,Ghostly Magic Adamant,115.00,49.50,45.00,5692.5000,5175.0000,12606.30000000,06/13/2018 @ 12:00:00 AM
-11687,Graveterror,The Fen of the Necromancer,20.00,Mistgold Of Men,267.00,412.50,375.00,110137.5000,100125.0000,252315.00000000,06/13/2018 @ 12:00:00 AM
-1608,"The Freezer, Shiverflame",The Bastion of the Lich Tyrant,5.36,Fog Lavaplatinum Of Life,195.00,2232.00,463.10,435240.0000,90304.5000,553713.68520000,06/13/2018 @ 12:00:00 AM
-34631,"The Grasping, Nettool",The Bastion of the Vampire Duke,45.86,Grayplatinum,113.00,2548.00,115.43,287924.0000,13043.5900,438991.32677400,06/13/2018 @ 12:00:00 AM
-34780,"Mistseeker, Grave",The Bastion of the Vampire Duke,45.86,Grayplatinum,180.00,2548.00,115.43,458640.0000,20777.4000,699278.21964000,06/13/2018 @ 12:00:00 AM
-32514,"The Terrifying, Deathspike",Hafeld Keep,47.59,Magicians' Legendary Poison Metal,231.00,-52.81,-48.01,-12199.1100,-11090.3100,-34372.85497800,06/13/2018 @ 12:00:00 AM
-9799,"The Freezer, Shiverflame",Gifeld Castle,27.28,God-touched Greengem Platinum,186.00,2181.36,188.14,405732.9600,34994.0400,560957.32560000,06/13/2018 @ 12:00:00 AM
-7680,Spikespawn,The Bastion of the Lich Tyrant,6.49,Unicorns' Fatal Magma Metal Of The Ocean,186.00,903.00,23.00,167958.0000,4278.0000,183414.11640000,06/13/2018 @ 12:00:00 AM
-17674,"Rougehate, Rune",Hartshill Ward,48.75,Trolls' Rubymercury Of The Sunset,90.00,487.30,487.30,43857.0000,43857.0000,130474.57500000,06/13/2018 @ 12:00:00 AM
-28501,"God of Animals, Byzou",Bifar's Deep,12.21,Stone Soulsteel Of The Skies,277.00,453.31,412.10,125566.8700,114151.7000,268988.20739700,06/13/2018 @ 12:00:00 AM
-4062,"God of Death, Selik",The Forsaken Delve of Lord Greywulf,15.62,Timeiron,380.00,3255.00,-14.77,1236900.0000,-5612.6000,1423614.49188000,06/13/2018 @ 12:00:00 AM
-25169,Springsprocket,Gili's Delve,35.89,Djinni's Mind Fogiron,192.00,57.23,57.23,10988.1600,10988.1600,29863.62124800,06/13/2018 @ 12:00:00 AM
-2207,"Goddess of Fate, Azah",Mahyrst Keep,28.45,Falserainbow Lead,114.00,872.99,63.80,99520.8600,7273.2000,137176.97007000,06/13/2018 @ 12:00:00 AM
+35043,"Maeglodor, God of Thieves",Barad Kesa,6.17,Grayplatinum,117.00,2548.00,115.43,298116.0000,13505.3100,330848.34482700,06/13/2008 @ 12:00:00 AM
+24496,"Magus, Felldrake",The Bastion of Barbos,25.41,Foul Ice Bronze Of Life,198.00,292.82,266.20,57978.3600,52707.6000,138811.26243600,06/13/2008 @ 12:00:00 AM
+37769,"Burnchill, The Evil",The Greedy Wench,13.31,Ghouls' Imperial Soulzephyr Mithril Of The Seas,314.00,318.23,318.23,99924.2200,99924.2200,226448.26736400,06/13/2008 @ 12:00:00 AM
+35387,"Gravebone, The Unspeakable",Citadel Ward,4.40,Yellow Mistearth Copper,255.00,287.98,261.80,73434.9000,66759.0000,146362.43160000,06/13/2008 @ 12:00:00 AM
+24859,"Maeglodor, God of Thieves",The Bastion of Barbos,25.41,Ensorceled Sandmetal Of Spirits,214.00,85.18,77.44,18228.5200,16572.1600,43643.53278800,06/13/2008 @ 12:00:00 AM
+1560,"Rouge, Tombreaper",The Broken Arrow,16.00,Ghostly Magic Adamant,115.00,49.50,45.00,5692.5000,5175.0000,12606.30000000,06/13/2008 @ 12:00:00 AM
+11687,Graveterror,The Fen of the Necromancer,20.00,Mistgold Of Men,267.00,412.50,375.00,110137.5000,100125.0000,252315.00000000,06/13/2008 @ 12:00:00 AM
+1608,"Shiverflame, The Freezer",The Bastion of the Lich Tyrant,5.36,Fog Lavaplatinum Of Life,195.00,2232.00,463.10,435240.0000,90304.5000,553713.68520000,06/13/2008 @ 12:00:00 AM
+34631,"Nettool, The Grasping",The Bastion of the Vampire Duke,45.86,Grayplatinum,113.00,2548.00,115.43,287924.0000,13043.5900,438991.32677400,06/13/2008 @ 12:00:00 AM
+34780,"Grave, Mistseeker",The Bastion of the Vampire Duke,45.86,Grayplatinum,180.00,2548.00,115.43,458640.0000,20777.4000,699278.21964000,06/13/2008 @ 12:00:00 AM
+32514,"Deathspike, The Terrifying",Hafeld Keep,47.59,Magicians' Legendary Poison Metal,231.00,-52.81,-48.01,-12199.1100,-11090.3100,-34372.85497800,06/13/2008 @ 12:00:00 AM
+9799,"Shiverflame, The Freezer",Gifeld Castle,27.28,God-touched Greengem Platinum,186.00,2181.36,188.14,405732.9600,34994.0400,560957.32560000,06/13/2008 @ 12:00:00 AM
+7680,Spikespawn,The Bastion of the Lich Tyrant,6.49,Unicorns' Fatal Magma Metal Of The Ocean,186.00,903.00,23.00,167958.0000,4278.0000,183414.11640000,06/13/2008 @ 12:00:00 AM
+17674,"Rune, Rougehate",Hartshill Ward,48.75,Trolls' Rubymercury Of The Sunset,90.00,487.30,487.30,43857.0000,43857.0000,130474.57500000,06/13/2008 @ 12:00:00 AM
+28501,"Byzou, God of Animals",Bifar's Deep,12.21,Stone Soulsteel Of The Skies,277.00,453.31,412.10,125566.8700,114151.7000,268988.20739700,06/13/2008 @ 12:00:00 AM
+4062,"Selik, God of Death",The Forsaken Delve of Lord Greywulf,15.62,Timeiron,380.00,3255.00,-14.77,1236900.0000,-5612.6000,1423614.49188000,06/13/2008 @ 12:00:00 AM
+25169,Springsprocket,Gili's Delve,35.89,Djinni's Mind Fogiron,192.00,57.23,57.23,10988.1600,10988.1600,29863.62124800,06/13/2008 @ 12:00:00 AM
+2207,"Azah, Goddess of Fate",Mahyrst Keep,28.45,Falserainbow Lead,114.00,872.99,63.80,99520.8600,7273.2000,137176.97007000,06/13/2008 @ 12:00:00 AM

@@ -1,20 +1,20 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-12367,"Jackalguard, Gale",Citadel Ward,4.40,Sirens' Rockgold,198.00,306.13,278.30,60613.7400,55103.4000,120808.69416000,02/24/2017 @ 12:00:00 AM
-12534,"Rougehate, Rune",The Tomb of Hellish Ruin,33.00,Incubi's Iron Of The Dawn,190.00,174.99,174.99,33248.1000,33248.1000,88439.94600000,02/24/2017 @ 12:00:00 AM
-12632,"Tombreaper, Rouge",Bergfison's Deep,16.00,Incubi's Iron Of The Dawn,176.00,174.99,174.99,30798.2400,30798.2400,71451.91680000,02/24/2017 @ 12:00:00 AM
-35331,"The Evil, Flameflare",Citadel Ward,4.40,Yellow Mistearth Copper,50.00,287.98,261.80,14399.0000,13090.0000,28698.51600000,02/24/2017 @ 12:00:00 AM
-23462,"Rougehate, Rune",The Secret Catacombs of Ulfang the Black,31.70,Shadowhell Mithril,184.00,462.21,420.19,85046.6400,77314.9600,213830.22720000,02/24/2017 @ 12:00:00 AM
-24977,"Lawslayer, Valentine",Eved Castle,30.80,Foul Ice Bronze Of Life,89.00,292.82,266.20,26060.9800,23691.8000,65076.63624000,02/24/2017 @ 12:00:00 AM
-35806,"The Unspeakable, Scarechain",Citadel Ward,4.40,Yellow Mistearth Copper,296.00,287.98,261.80,85242.0800,77492.8000,169895.21472000,02/24/2017 @ 12:00:00 AM
-33331,"Runetomb, Song",Pewold Keep,29.00,Forgotten Mithril,125.00,600.28,545.71,75035.0000,68213.7500,184790.88750000,02/24/2017 @ 12:00:00 AM
-9394,"Tsunami, Seraphim",Gena's Hold,4.40,Primordial Plague Mercury Of Legend,160.00,1150.79,67.00,184126.4000,10720.0000,203419.64160000,02/24/2017 @ 12:00:00 AM
-33743,Freezebrood,Reheath Stronghold,39.60,Warlocks' Timerot Mithril,342.00,194.65,194.65,66570.3000,66570.3000,185864.27760000,02/24/2017 @ 12:00:00 AM
-32691,"Darkzealot, Dawn",The Chuallanto Jungle,11.00,Negative Rockglitter Mercury Of Trolls,302.00,235.59,214.17,71148.1800,64679.3400,150768.54720000,02/24/2017 @ 12:00:00 AM
-17381,"Tsunami, Seraphim",Gena's Hold,5.85,Incubi's Glittering Tin Of The Future,37.00,192.96,212.26,7139.5200,7853.6200,15870.23869000,02/24/2017 @ 12:00:00 AM
-7359,"The Cold, Burnfreeze",Archfane District,15.29,Swordbronze,239.00,333.30,303.00,79658.7000,72417.0000,175328.07453000,02/24/2017 @ 12:00:00 AM
-28550,"Dawn, Tarot",Barad Kesa,5.61,Undeads' Mind Orichalcum Of The Twilight,111.00,1169.00,364.69,129759.0000,40480.5900,179790.03099900,02/24/2017 @ 12:00:00 AM
-15428,"Runetomb, Song",The Dungeon of Merciless Woe,3.61,Imperial Fate Steel,179.00,419.10,381.00,75018.9000,68199.0000,148388.06619000,02/24/2017 @ 12:00:00 AM
-26240,"The Unspeakable, Terrorghoul",Moor Village,11.32,Starsmoke Bronze Of Life,226.00,-438.00,420.81,-98988.0000,95103.0600,-4324.71520800,02/24/2017 @ 12:00:00 AM
-15643,Emberfire,The Fortress of Asmamur,-2.66,Starsmoke Bronze Of Life,160.00,-438.00,420.81,-70080.0000,67329.6000,-2677.23936000,02/24/2017 @ 12:00:00 AM
-25184,"Squallmourner, Storm",The Fortress of the Lich Queen,20.72,Incubi's Glittering Tin Of The Future,212.00,192.96,233.49,40907.5200,49499.8800,109139.81328000,02/24/2017 @ 12:00:00 AM
-25416,"Lady of Vengeance, Zepul",Weke Tower,47.19,Primordial Mud Orichalcum,367.00,1113.00,20.57,408471.0000,7549.1900,612340.11766100,02/24/2017 @ 12:00:00 AM
+12367,"Jackalguard, Gale",Citadel Ward,4.40,Sirens' Rockgold,198.00,306.13,278.30,60613.7400,55103.4000,120808.69416000,02/24/1947 @ 12:00:00 AM
+12534,"Rougehate, Rune",The Tomb of Hellish Ruin,33.00,Incubi's Iron Of The Dawn,190.00,174.99,174.99,33248.1000,33248.1000,88439.94600000,02/24/1947 @ 12:00:00 AM
+12632,"Tombreaper, Rouge",Bergfison's Deep,16.00,Incubi's Iron Of The Dawn,176.00,174.99,174.99,30798.2400,30798.2400,71451.91680000,02/24/1977 @ 12:00:00 AM
+35331,"The Evil, Flameflare",Citadel Ward,4.40,Yellow Mistearth Copper,50.00,287.98,261.80,14399.0000,13090.0000,28698.51600000,02/24/1947 @ 12:00:00 AM
+23462,"Rougehate, Rune",The Secret Catacombs of Ulfang the Black,31.70,Shadowhell Mithril,184.00,462.21,420.19,85046.6400,77314.9600,213830.22720000,02/24/1947 @ 12:00:00 AM
+24977,"Lawslayer, Valentine",Eved Castle,30.80,Foul Ice Bronze Of Life,89.00,292.82,266.20,26060.9800,23691.8000,65076.63624000,02/24/1947 @ 12:00:00 AM
+35806,"The Unspeakable, Scarechain",Citadel Ward,4.40,Yellow Mistearth Copper,296.00,287.98,261.80,85242.0800,77492.8000,169895.21472000,02/24/1947 @ 12:00:00 AM
+33331,"Runetomb, Song",Pewold Keep,29.00,Forgotten Mithril,125.00,600.28,545.71,75035.0000,68213.7500,184790.88750000,02/24/1947 @ 12:00:00 AM
+9394,"Tsunami, Seraphim",Gena's Hold,4.40,Primordial Plague Mercury Of Legend,160.00,1150.79,67.00,184126.4000,10720.0000,203419.64160000,02/24/1947 @ 12:00:00 AM
+33743,Freezebrood,Reheath Stronghold,39.60,Warlocks' Timerot Mithril,342.00,194.65,194.65,66570.3000,66570.3000,185864.27760000,02/24/1947 @ 12:00:00 AM
+32691,"Darkzealot, Dawn",The Chuallanto Jungle,11.00,Negative Rockglitter Mercury Of Trolls,302.00,235.59,214.17,71148.1800,64679.3400,150768.54720000,02/24/1947 @ 12:00:00 AM
+17381,"Tsunami, Seraphim",Gena's Hold,5.85,Incubi's Glittering Tin Of The Future,37.00,192.96,212.26,7139.5200,7853.6200,15870.23869000,02/24/1947 @ 12:00:00 AM
+7359,"The Cold, Burnfreeze",Archfane District,15.29,Swordbronze,239.00,333.30,303.00,79658.7000,72417.0000,175328.07453000,02/24/1947 @ 12:00:00 AM
+28550,"Dawn, Tarot",Barad Kesa,5.61,Undeads' Mind Orichalcum Of The Twilight,111.00,1169.00,364.69,129759.0000,40480.5900,179790.03099900,02/24/1947 @ 12:00:00 AM
+15428,"Runetomb, Song",The Dungeon of Merciless Woe,3.61,Imperial Fate Steel,179.00,419.10,381.00,75018.9000,68199.0000,148388.06619000,02/24/1947 @ 12:00:00 AM
+26240,"The Unspeakable, Terrorghoul",Moor Village,11.32,Starsmoke Bronze Of Life,226.00,-438.00,420.81,-98988.0000,95103.0600,-4324.71520800,02/24/1947 @ 12:00:00 AM
+15643,Emberfire,The Fortress of Asmamur,-2.66,Starsmoke Bronze Of Life,160.00,-438.00,420.81,-70080.0000,67329.6000,-2677.23936000,02/24/1947 @ 12:00:00 AM
+25184,"Squallmourner, Storm",The Fortress of the Lich Queen,20.72,Incubi's Glittering Tin Of The Future,212.00,192.96,233.49,40907.5200,49499.8800,109139.81328000,02/24/1947 @ 12:00:00 AM
+25416,"Lady of Vengeance, Zepul",Weke Tower,47.19,Primordial Mud Orichalcum,367.00,1113.00,20.57,408471.0000,7549.1900,612340.11766100,02/24/1947 @ 12:00:00 AM

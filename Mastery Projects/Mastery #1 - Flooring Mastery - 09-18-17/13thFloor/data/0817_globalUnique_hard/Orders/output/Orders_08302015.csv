@@ -1,14 +1,14 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-11106,"The Evil, Snowflame",The Fortress of Asmamur,-2.42,Mistgold Of Men,181.00,412.50,375.00,74662.5000,67875.0000,139088.09250000,08/30/2015 @ 12:00:00 AM
-35291,"Goddess of the Earth, Gono",The Fortress of the Lich Queen,22.79,Yellow Mistearth Copper,248.00,287.98,261.80,71419.0400,64926.4000,167418.56577600,08/30/2015 @ 12:00:00 AM
-35643,"The Blade, Steelterror",The Fen of the Necromancer,32.21,Vampires' Fang Emeraldsilver,127.00,2033.69,88.92,258278.6300,11292.8400,356400.44048700,08/30/2015 @ 12:00:00 AM
-19051,"Tombreaper, Rouge",Gifeld Castle,33.01,Vampires' Fang Emeraldsilver,197.00,2033.69,80.84,400636.9300,15925.4800,554069.66154100,08/30/2015 @ 12:00:00 AM
-34658,Emberfire,Barad Kesa,6.17,Yellow Mistearth Copper,249.00,287.98,261.80,71707.0200,65188.2000,145341.65507400,08/30/2015 @ 12:00:00 AM
-22919,Spikecrank,The Secret Catacombs of Ulfang the Black,31.70,Shadowhell Mithril,78.00,462.21,420.19,36052.3800,32774.8200,90645.42240000,08/30/2015 @ 12:00:00 AM
-20591,"The Evil, Snowflame",The Demon and Toad,-1.10,Magicians' Legendary Poison Metal,200.00,-52.81,-48.01,-10562.0000,-9602.0000,-19942.19600000,08/30/2015 @ 12:00:00 AM
-31381,Gravebone,Gifeld Castle,33.01,Fairies' Supreme Mistsmoke Lead Of The Future,307.00,499.73,549.70,153417.1100,168757.9000,428524.98080100,08/30/2015 @ 12:00:00 AM
-560,Beamtrap,The Beggar and Cask,25.10,Swordbronze,265.00,-377.00,303.00,-99905.0000,80295.0000,-24532.11000000,08/30/2015 @ 12:00:00 AM
-15025,Metalbrood,Dysley Stronghold,35.51,Angels' Adamant,254.00,51.48,46.80,13075.9200,11887.2000,33827.52391200,08/30/2015 @ 12:00:00 AM
-28548,Freezebrood,Bifar's Deep,12.21,Undeads' Mind Orichalcum Of The Twilight,312.00,1169.00,364.69,364728.0000,113783.2800,536937.50728800,08/30/2015 @ 12:00:00 AM
-26426,"Roguemist, Rouge",Barad Cune,49.21,Toxic Mistlead Of The Past,281.00,396.06,396.06,111292.8600,111292.8600,332120.15281200,08/30/2015 @ 12:00:00 AM
-12255,"Lady of Fire, Nelalwe",The Dungeon of Merciless Woe,3.61,Violetdream Iron,57.00,414.98,377.25,23653.8600,21503.2500,46787.28167100,08/30/2015 @ 12:00:00 AM
+11106,"The Evil, Snowflame",The Fortress of Asmamur,-2.42,Mistgold Of Men,181.00,412.50,375.00,74662.5000,67875.0000,139088.09250000,08/30/1945 @ 12:00:00 AM
+35291,"Goddess of the Earth, Gono",The Fortress of the Lich Queen,22.79,Yellow Mistearth Copper,248.00,287.98,261.80,71419.0400,64926.4000,167418.56577600,08/30/1945 @ 12:00:00 AM
+35643,"The Blade, Steelterror",The Fen of the Necromancer,32.21,Vampires' Fang Emeraldsilver,127.00,2033.69,88.92,258278.6300,11292.8400,356400.44048700,08/30/1945 @ 12:00:00 AM
+19051,"Tombreaper, Rouge",Gifeld Castle,33.01,Vampires' Fang Emeraldsilver,197.00,2033.69,80.84,400636.9300,15925.4800,554069.66154100,08/30/1945 @ 12:00:00 AM
+34658,Emberfire,Barad Kesa,6.17,Yellow Mistearth Copper,249.00,287.98,261.80,71707.0200,65188.2000,145341.65507400,08/30/1985 @ 12:00:00 AM
+22919,Spikecrank,The Secret Catacombs of Ulfang the Black,31.70,Shadowhell Mithril,78.00,462.21,420.19,36052.3800,32774.8200,90645.42240000,08/30/1945 @ 12:00:00 AM
+20591,"The Evil, Snowflame",The Demon and Toad,-1.10,Magicians' Legendary Poison Metal,200.00,-52.81,-48.01,-10562.0000,-9602.0000,-19942.19600000,08/30/1945 @ 12:00:00 AM
+31381,Gravebone,Gifeld Castle,33.01,Fairies' Supreme Mistsmoke Lead Of The Future,307.00,499.73,549.70,153417.1100,168757.9000,428524.98080100,08/30/1945 @ 12:00:00 AM
+560,Beamtrap,The Beggar and Cask,25.10,Swordbronze,265.00,-377.00,303.00,-99905.0000,80295.0000,-24532.11000000,08/30/1985 @ 12:00:00 AM
+15025,Metalbrood,Dysley Stronghold,35.51,Angels' Adamant,254.00,51.48,46.80,13075.9200,11887.2000,33827.52391200,08/30/1945 @ 12:00:00 AM
+28548,Freezebrood,Bifar's Deep,12.21,Undeads' Mind Orichalcum Of The Twilight,312.00,1169.00,364.69,364728.0000,113783.2800,536937.50728800,08/30/1945 @ 12:00:00 AM
+26426,"Roguemist, Rouge",Barad Cune,49.21,Toxic Mistlead Of The Past,281.00,396.06,396.06,111292.8600,111292.8600,332120.15281200,08/30/1945 @ 12:00:00 AM
+12255,"Lady of Fire, Nelalwe",The Dungeon of Merciless Woe,3.61,Violetdream Iron,57.00,414.98,377.25,23653.8600,21503.2500,46787.28167100,08/30/1945 @ 12:00:00 AM

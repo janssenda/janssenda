@@ -1,16 +1,16 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-24652,Springsprocket,Bifar's Deep,12.21,Ensorceled Sandmetal Of Spirits,57.00,85.18,77.44,4855.2600,4414.0800,10401.12641400,06/22/2017 @ 12:00:00 AM
-36558,"Goddess of Trickery, Alik",The Fen of the Necromancer,32.21,Vampires' Hammer Emeraldmetal,224.00,93.70,85.18,20988.8000,19080.3200,52975.38355200,06/22/2017 @ 12:00:00 AM
-1515,"Mist, Claw",The Nulukkhath Spires,28.99,Negative Mercury,146.00,4115.00,68.00,600790.0000,9928.0000,787765.14820000,06/22/2017 @ 12:00:00 AM
-34192,"Tombreaper, Rouge",The Bastion of the Lich Tyrant,8.64,Unicorns' Fatal Magma Metal Of The Ocean,203.00,25.30,27.83,5135.9000,5649.4900,11717.24769600,06/22/2017 @ 12:00:00 AM
-19027,"The Evil, Flameflare",Mahyrst Keep,31.30,Toxic Mistlead Of The Past,377.00,396.06,396.06,149314.6200,149314.6200,392100.19212000,06/22/2017 @ 12:00:00 AM
-21790,"Lord of Animals, Suriel",The Bastion of Gothmog of Udun,-2.42,Yellow Mistearth Copper,184.00,287.98,261.80,52988.3200,48171.2000,98711.45961600,06/22/2017 @ 12:00:00 AM
-8209,"Claw, Slayer",The Black Barrow of Bery,19.80,Zephyr Adamant,149.00,481.77,-44.14,71783.7300,-6576.8600,78117.83026000,06/22/2017 @ 12:00:00 AM
-109,"The Constructed, Snaretool",The Bastion of Sthasu the Gruesome,40.00,Stone Soulsteel Of The Skies,271.00,3459.15,340.58,937429.6500,92297.1800,1441617.56200000,06/22/2017 @ 12:00:00 AM
-28209,"Brand, Lightning",Bifar's Deep,12.21,Vampires' Fang Emeraldsilver,217.00,2033.69,80.84,441310.7300,17542.2800,514878.96252100,06/22/2017 @ 12:00:00 AM
-6960,"Bladewitch, Zeal",Noble's Village,4.94,Swordbronze,206.00,333.30,303.00,68659.8000,62418.0000,137553.04332000,06/22/2017 @ 12:00:00 AM
-13081,Freezebrood,Gili's Delve,35.89,Incubi's Iron Of The Dawn,360.00,174.99,174.99,62996.4000,62996.4000,171211.61592000,06/22/2017 @ 12:00:00 AM
-26565,"Roguemist, Rouge",Khali's Delve,1.30,Muck Orichalcum Of Ogres,306.00,143.37,130.34,43871.2200,39884.0400,84844.07838000,06/22/2017 @ 12:00:00 AM
-4714,"Claw, Slayer",Noble's Village,4.49,Incubi's Iron Of The Dawn,231.00,-431.08,159.08,-99579.4800,36747.4800,-65653.15680000,06/22/2017 @ 12:00:00 AM
-37407,"The Trapper, Boltcrank",The Greedy Wench,13.31,Ghouls' Imperial Soulzephyr Mithril Of The Seas,99.00,318.23,318.23,31504.7700,31504.7700,71396.10977400,06/22/2017 @ 12:00:00 AM
-2225,"Jester, Seraph",Noble's Village,4.49,Spirits' Living Wordhammer Tin Of The Trees,137.00,3897.55,117.00,533964.3500,16029.0000,574688.05141500,06/22/2017 @ 12:00:00 AM
+24652,Springsprocket,Bifar's Deep,12.21,Ensorceled Sandmetal Of Spirits,57.00,85.18,77.44,4855.2600,4414.0800,10401.12641400,06/22/1947 @ 12:00:00 AM
+36558,"Goddess of Trickery, Alik",The Fen of the Necromancer,32.21,Vampires' Hammer Emeraldmetal,224.00,93.70,85.18,20988.8000,19080.3200,52975.38355200,06/22/1947 @ 12:00:00 AM
+1515,"Mist, Claw",The Nulukkhath Spires,28.99,Negative Mercury,146.00,4115.00,68.00,600790.0000,9928.0000,787765.14820000,06/22/1947 @ 12:00:00 AM
+34192,"Tombreaper, Rouge",The Bastion of the Lich Tyrant,8.64,Unicorns' Fatal Magma Metal Of The Ocean,203.00,25.30,27.83,5135.9000,5649.4900,11717.24769600,06/22/1947 @ 12:00:00 AM
+19027,"The Evil, Flameflare",Mahyrst Keep,31.30,Toxic Mistlead Of The Past,377.00,396.06,396.06,149314.6200,149314.6200,392100.19212000,06/22/1947 @ 12:00:00 AM
+21790,"Lord of Animals, Suriel",The Bastion of Gothmog of Udun,-2.42,Yellow Mistearth Copper,184.00,287.98,261.80,52988.3200,48171.2000,98711.45961600,06/22/1987 @ 12:00:00 AM
+8209,"Claw, Slayer",The Black Barrow of Bery,19.80,Zephyr Adamant,149.00,481.77,-44.14,71783.7300,-6576.8600,78117.83026000,06/22/1947 @ 12:00:00 AM
+109,"The Constructed, Snaretool",The Bastion of Sthasu the Gruesome,40.00,Stone Soulsteel Of The Skies,271.00,3459.15,340.58,937429.6500,92297.1800,1441617.56200000,06/22/1947 @ 12:00:00 AM
+28209,"Brand, Lightning",Bifar's Deep,12.21,Vampires' Fang Emeraldsilver,217.00,2033.69,80.84,441310.7300,17542.2800,514878.96252100,06/22/1947 @ 12:00:00 AM
+6960,"Bladewitch, Zeal",Noble's Village,4.94,Swordbronze,206.00,333.30,303.00,68659.8000,62418.0000,137553.04332000,06/22/1947 @ 12:00:00 AM
+13081,Freezebrood,Gili's Delve,35.89,Incubi's Iron Of The Dawn,360.00,174.99,174.99,62996.4000,62996.4000,171211.61592000,06/22/1947 @ 12:00:00 AM
+26565,"Roguemist, Rouge",Khali's Delve,1.30,Muck Orichalcum Of Ogres,306.00,143.37,130.34,43871.2200,39884.0400,84844.07838000,06/22/1947 @ 12:00:00 AM
+4714,"Claw, Slayer",Noble's Village,4.49,Incubi's Iron Of The Dawn,231.00,-431.08,159.08,-99579.4800,36747.4800,-65653.15680000,06/22/1947 @ 12:00:00 AM
+37407,"The Trapper, Boltcrank",The Greedy Wench,13.31,Ghouls' Imperial Soulzephyr Mithril Of The Seas,99.00,318.23,318.23,31504.7700,31504.7700,71396.10977400,06/22/1947 @ 12:00:00 AM
+2225,"Jester, Seraph",Noble's Village,4.49,Spirits' Living Wordhammer Tin Of The Trees,137.00,3897.55,117.00,533964.3500,16029.0000,574688.05141500,06/22/1947 @ 12:00:00 AM

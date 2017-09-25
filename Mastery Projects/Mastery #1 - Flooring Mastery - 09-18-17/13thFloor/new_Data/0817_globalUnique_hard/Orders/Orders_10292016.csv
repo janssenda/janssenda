@@ -1,19 +1,19 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-24330,"Dawn, Tarot",The Forsaken Sepulcher of Sorrows,31.36,Foul Ice Bronze Of Life,105.00,292.82,266.20,30746.1000,27951.0000,77104.51056000,10/29/2016 @ 12:00:00 AM
-2494,"Goddess of Thieves, Melcha",The Dismal Marsh,27.00,Meteoric Mirrormuck Orichalcum Of The Forests,148.00,491.62,368.50,72759.7600,54538.0000,161668.15520000,10/29/2016 @ 12:00:00 AM
-35389,"Darkzealot, Dawn",The Nulukkhath Spires,28.99,Magicians' Legendary Poison Metal,162.00,-52.81,-48.01,-8555.2200,-7777.6200,-21067.73031600,10/29/2016 @ 12:00:00 AM
-11662,"Seraphheart, Storm",The Fortress of the Lich Queen,18.84,Emerald Orichalcum,143.00,1957.00,118.01,279851.0000,16875.4300,352629.68941200,10/29/2016 @ 12:00:00 AM
-32697,"Goddess of Law, Eumyan",The Fen of the Necromancer,29.28,Negative Rockglitter Mercury Of Trolls,209.00,235.59,214.17,49238.3100,44761.5300,121522.99315200,10/29/2016 @ 12:00:00 AM
+24330,"Tarot, Dawn",The Forsaken Sepulcher of Sorrows,31.36,Foul Ice Bronze Of Life,105.00,292.82,266.20,30746.1000,27951.0000,77104.51056000,10/29/2006 @ 12:00:00 AM
+2494,"Melcha, Goddess of Thieves",The Dismal Marsh,27.00,Meteoric Mirrormuck Orichalcum Of The Forests,148.00,491.62,368.50,72759.7600,54538.0000,161668.15520000,10/29/2006 @ 12:00:00 AM
+35389,"Dawn, Darkzealot",The Nulukkhath Spires,28.99,Magicians' Legendary Poison Metal,162.00,-52.81,-48.01,-8555.2200,-7777.6200,-21067.73031600,10/29/2006 @ 12:00:00 AM
+11662,"Storm, Seraphheart",The Fortress of the Lich Queen,18.84,Emerald Orichalcum,143.00,1957.00,118.01,279851.0000,16875.4300,352629.68941200,10/29/2016 @ 12:00:00 AM
+32697,"Eumyan, Goddess of Law",The Fen of the Necromancer,29.28,Negative Rockglitter Mercury Of Trolls,209.00,235.59,214.17,49238.3100,44761.5300,121522.99315200,10/29/2006 @ 12:00:00 AM
 18489,Bolttrap,Barad Cune,49.21,Venom Jewelmetal Of The Desert,184.00,701.92,222.50,129153.2800,40940.0000,253796.18308800,10/29/2016 @ 12:00:00 AM
-31668,"Mistmidnight, Tiger",The Demon and Toad,-1.21,Warlocks' Timerot Mithril,97.00,194.65,194.65,18881.0500,18881.0500,37305.17859000,10/29/2016 @ 12:00:00 AM
-18672,"The Skeletal, Spiketerror",Barad Cune,49.21,Unicorns' Fatal Magma Metal Of The Ocean,214.00,25.30,23.00,5414.2000,4922.0000,15422.64402000,10/29/2016 @ 12:00:00 AM
-6056,"God of Resurrection, Gadriel",The Bastion of the Vampire Duke,34.45,Venom Jewelmetal Of The Desert,159.00,701.92,167.16,111605.2800,26578.4400,185788.01154000,10/29/2016 @ 12:00:00 AM
-29595,"Jester, Seraph",The Nulukkhath Spires,28.99,Heavenly Dreamsilver Of The Night,229.00,719.00,314.60,164651.0000,72043.4000,305312.10656000,10/29/2016 @ 12:00:00 AM
-30747,"God of Death, Avriel",The Fortress of Akkun the Grim,27.03,Witchs' Forbidden Rockrainbow Bronze,155.00,245.63,245.63,38072.6500,38072.6500,96727.37459000,10/29/2016 @ 12:00:00 AM
-28571,"The Grasping, Nailpiston",The Bastion of the Vampire Duke,45.86,Vampires' Fang Emeraldsilver,177.00,2033.69,80.84,359963.1300,14308.6800,545912.86206600,10/29/2016 @ 12:00:00 AM
-5353,"God of Fate, Uriel",The Fortress of Gama,3.00,Primordial False Gold,337.00,1383.00,391.27,466071.0000,131857.9900,615866.85970000,10/29/2016 @ 12:00:00 AM
-14263,"Goddess of Travel, Lenwenye",North Arcanist's Farthing,2.75,Sphinxes' Unknown Poisongold Of The Future,349.00,3971.47,14.30,1386043.0300,4990.7000,1429287.15757500,10/29/2016 @ 12:00:00 AM
-14425,"Tomblion, Shadow",The Broken Arrow,17.60,Mithril Of The Tropics,156.00,251.56,251.56,39243.3600,39243.3600,92300.38272000,10/29/2016 @ 12:00:00 AM
-37136,"Roguemist, Rouge",The Greedy Wench,13.31,Stone Soulsteel Of The Skies,213.00,453.31,453.31,96555.0300,96555.0300,218813.00898600,10/29/2016 @ 12:00:00 AM
-5858,"The Horrorific, Evilfear",The Warrior and Flagon,9.00,Tritons' Time Stoneiron Of Legend,218.00,2235.00,310.54,487230.0000,67697.7200,604871.21480000,10/29/2016 @ 12:00:00 AM
-26851,"Lord of Plague, Alas",Khali's Delve,1.30,Swordbronze,216.00,403.29,366.63,87110.6400,79192.0800,168464.65536000,10/29/2016 @ 12:00:00 AM
+31668,"Tiger, Mistmidnight",The Demon and Toad,-1.21,Warlocks' Timerot Mithril,97.00,194.65,194.65,18881.0500,18881.0500,37305.17859000,10/29/2006 @ 12:00:00 AM
+18672,"Spiketerror, The Skeletal",Barad Cune,49.21,Unicorns' Fatal Magma Metal Of The Ocean,214.00,25.30,23.00,5414.2000,4922.0000,15422.64402000,10/29/2006 @ 12:00:00 AM
+6056,"Gadriel, God of Resurrection",The Bastion of the Vampire Duke,34.45,Venom Jewelmetal Of The Desert,159.00,701.92,167.16,111605.2800,26578.4400,185788.01154000,10/29/2006 @ 12:00:00 AM
+29595,"Seraph, Jester",The Nulukkhath Spires,28.99,Heavenly Dreamsilver Of The Night,229.00,719.00,314.60,164651.0000,72043.4000,305312.10656000,10/29/2006 @ 12:00:00 AM
+30747,"Avriel, God of Death",The Fortress of Akkun the Grim,27.03,Witchs' Forbidden Rockrainbow Bronze,155.00,245.63,245.63,38072.6500,38072.6500,96727.37459000,10/29/2006 @ 12:00:00 AM
+28571,"Nailpiston, The Grasping",The Bastion of the Vampire Duke,45.86,Vampires' Fang Emeraldsilver,177.00,2033.69,80.84,359963.1300,14308.6800,545912.86206600,10/29/2006 @ 12:00:00 AM
+5353,"Uriel, God of Fate",The Fortress of Gama,3.00,Primordial False Gold,337.00,1383.00,391.27,466071.0000,131857.9900,615866.85970000,10/29/2006 @ 12:00:00 AM
+14263,"Lenwenye, Goddess of Travel",North Arcanist's Farthing,2.75,Sphinxes' Unknown Poisongold Of The Future,349.00,3971.47,14.30,1386043.0300,4990.7000,1429287.15757500,10/29/2006 @ 12:00:00 AM
+14425,"Shadow, Tomblion",The Broken Arrow,17.60,Mithril Of The Tropics,156.00,251.56,251.56,39243.3600,39243.3600,92300.38272000,10/29/2016 @ 12:00:00 AM
+37136,"Rouge, Roguemist",The Greedy Wench,13.31,Stone Soulsteel Of The Skies,213.00,453.31,453.31,96555.0300,96555.0300,218813.00898600,10/29/2006 @ 12:00:00 AM
+5858,"Evilfear, The Horrorific",The Warrior and Flagon,9.00,Tritons' Time Stoneiron Of Legend,218.00,2235.00,310.54,487230.0000,67697.7200,604871.21480000,10/29/2006 @ 12:00:00 AM
+26851,"Alas, Lord of Plague",Khali's Delve,1.30,Swordbronze,216.00,403.29,366.63,87110.6400,79192.0800,168464.65536000,10/29/2006 @ 12:00:00 AM

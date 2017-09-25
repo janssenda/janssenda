@@ -1,24 +1,24 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-37711,"The Blade, Steelterror",The Greedy Wench,13.31,Stone Soulsteel Of The Skies,209.00,453.31,453.31,94741.7900,94741.7900,214703.84449800,09/10/2016 @ 12:00:00 AM
-37786,Spikerivet,The Greedy Wench,13.31,Stone Soulsteel Of The Skies,356.00,453.31,453.31,161378.3600,161378.3600,365715.63943200,09/10/2016 @ 12:00:00 AM
-24739,"Rougehate, Rune",The Forsaken Sepulcher of Sorrows,31.36,Negative Rockglitter Mercury Of Trolls,86.00,235.59,214.17,20260.7400,18418.6200,50809.20729600,09/10/2016 @ 12:00:00 AM
-11688,"Runetomb, Song",The Black Barrow of Bery,19.80,Shadow Metal,296.00,1606.00,298.00,475376.0000,88208.0000,675173.63200000,09/10/2016 @ 12:00:00 AM
-34486,"Seraphheart, Storm",Barad Cune,49.21,Toxic Mistlead Of The Past,105.00,435.67,396.06,45745.3500,41586.3000,130307.55496500,09/10/2016 @ 12:00:00 AM
-21370,"Roguemist, Rouge",Citadel Ward,4.40,Starsmoke Bronze Of Life,196.00,-438.00,420.81,-85848.0000,82478.7600,-3517.48656000,09/10/2016 @ 12:00:00 AM
-20159,Freezebrood,Eved Castle,30.80,Emerald Orichalcum,127.00,1957.00,142.79,248539.0000,18134.3300,348808.71564000,09/10/2016 @ 12:00:00 AM
-32196,Evilbrood,North Arcanist's Farthing,3.66,Negative Rockglitter Mercury Of Trolls,232.00,235.59,214.17,54656.8800,49687.4400,108163.32211200,09/10/2016 @ 12:00:00 AM
-18076,"The Evil, Burnchill",The Citadel of Alammius,29.70,Toxic Mistlead Of The Past,226.00,396.06,396.06,89509.5600,89509.5600,232187.79864000,09/10/2016 @ 12:00:00 AM
-32290,"Godseeker, Cult",The Fen of the Necromancer,29.28,Fairies' Supreme Mistsmoke Lead Of The Future,169.00,499.73,549.70,84454.3700,92899.3000,229282.82457600,09/10/2016 @ 12:00:00 AM
-9357,"Squallmourner, Storm",Love Keep,40.56,Primordial Plague Mercury Of Legend,128.00,1150.79,67.00,147301.1200,8576.0000,219100.87987200,09/10/2016 @ 12:00:00 AM
-28025,"Tomblion, Shadow",The Fortress of Akkun the Grim,27.03,Negative Rockglitter Mercury Of Trolls,177.00,235.59,214.17,41699.4300,37908.0900,101125.43265600,09/10/2016 @ 12:00:00 AM
-31883,"Goddess of the Earth, Gono",Noble's Village,6.57,Grayplatinum,148.00,2548.00,104.94,377104.0000,15531.1200,418431.24738400,09/10/2016 @ 12:00:00 AM
-28370,"Felldrake, Magus",The Chuallanto Jungle,11.00,Negative Rockglitter Mercury Of Trolls,18.00,235.59,214.17,4240.6200,3855.0600,8986.20480000,09/10/2016 @ 12:00:00 AM
-17668,Bronzespike,Kada's Deep,8.42,Trolls' Rubymercury Of The Sunset,59.00,487.30,487.30,28750.7000,28750.7000,62343.01788000,09/10/2016 @ 12:00:00 AM
-16878,"Claw, Slayer",Gena's Hold,5.85,Warlocks' Timerot Mithril,108.00,725.00,176.95,78300.0000,19110.6000,103109.12010000,09/10/2016 @ 12:00:00 AM
-13031,"The Grasping, Nettool",The Tomb of Hellish Ruin,33.00,Incubi's Iron Of The Dawn,307.00,174.99,174.99,53721.9300,53721.9300,142900.33380000,09/10/2016 @ 12:00:00 AM
-5776,"Mist, Claw",Pawic Keep,31.90,Grayplatinum,300.00,2548.00,86.73,764400.0000,26019.0000,1042562.66100000,09/10/2016 @ 12:00:00 AM
-13136,Emberspawn,The Citadel of Alammius,27.00,Nymphs' Luminous Rotmercury Of The Skies,137.00,335.50,369.05,45963.5000,50559.8500,122584.65450000,09/10/2016 @ 12:00:00 AM
-4610,"Roguemist, Rouge",Noble's Village,4.49,Grayplatinum,68.00,2548.00,86.73,173264.0000,5897.6400,187205.99763600,09/10/2016 @ 12:00:00 AM
-13477,Metalbrood,The Citadel of Alammius,27.00,Sapphire Mindlead,213.00,-44.77,-40.70,-9536.0100,-8669.1000,-23120.48970000,09/10/2016 @ 12:00:00 AM
-24172,"Roguemist, Rouge",The Dungeon of Merciless Woe,3.97,Incubi's Glittering Tin Of The Future,262.00,192.96,212.26,50555.5200,55612.1200,110382.49530800,09/10/2016 @ 12:00:00 AM
-12282,"Ivycaster, Fate",Reyny Keep,-3.35,Sprites' Transcendent Mud Lead Of The South,277.00,3338.65,242.80,924806.0500,67255.6000,958827.58472500,09/10/2016 @ 12:00:00 AM
+37711,"The Blade, Steelterror",The Greedy Wench,13.31,Stone Soulsteel Of The Skies,209.00,453.31,453.31,94741.7900,94741.7900,214703.84449800,09/10/1986 @ 12:00:00 AM
+37786,Spikerivet,The Greedy Wench,13.31,Stone Soulsteel Of The Skies,356.00,453.31,453.31,161378.3600,161378.3600,365715.63943200,09/10/1986 @ 12:00:00 AM
+24739,"Rougehate, Rune",The Forsaken Sepulcher of Sorrows,31.36,Negative Rockglitter Mercury Of Trolls,86.00,235.59,214.17,20260.7400,18418.6200,50809.20729600,09/10/1946 @ 12:00:00 AM
+11688,"Runetomb, Song",The Black Barrow of Bery,19.80,Shadow Metal,296.00,1606.00,298.00,475376.0000,88208.0000,675173.63200000,09/10/1946 @ 12:00:00 AM
+34486,"Seraphheart, Storm",Barad Cune,49.21,Toxic Mistlead Of The Past,105.00,435.67,396.06,45745.3500,41586.3000,130307.55496500,09/10/1946 @ 12:00:00 AM
+21370,"Roguemist, Rouge",Citadel Ward,4.40,Starsmoke Bronze Of Life,196.00,-438.00,420.81,-85848.0000,82478.7600,-3517.48656000,09/10/1946 @ 12:00:00 AM
+20159,Freezebrood,Eved Castle,30.80,Emerald Orichalcum,127.00,1957.00,142.79,248539.0000,18134.3300,348808.71564000,09/10/1946 @ 12:00:00 AM
+32196,Evilbrood,North Arcanist's Farthing,3.66,Negative Rockglitter Mercury Of Trolls,232.00,235.59,214.17,54656.8800,49687.4400,108163.32211200,09/10/1946 @ 12:00:00 AM
+18076,"The Evil, Burnchill",The Citadel of Alammius,29.70,Toxic Mistlead Of The Past,226.00,396.06,396.06,89509.5600,89509.5600,232187.79864000,09/10/1946 @ 12:00:00 AM
+32290,"Godseeker, Cult",The Fen of the Necromancer,29.28,Fairies' Supreme Mistsmoke Lead Of The Future,169.00,499.73,549.70,84454.3700,92899.3000,229282.82457600,09/10/1986 @ 12:00:00 AM
+9357,"Squallmourner, Storm",Love Keep,40.56,Primordial Plague Mercury Of Legend,128.00,1150.79,67.00,147301.1200,8576.0000,219100.87987200,09/10/1946 @ 12:00:00 AM
+28025,"Tomblion, Shadow",The Fortress of Akkun the Grim,27.03,Negative Rockglitter Mercury Of Trolls,177.00,235.59,214.17,41699.4300,37908.0900,101125.43265600,09/10/1946 @ 12:00:00 AM
+31883,"Goddess of the Earth, Gono",Noble's Village,6.57,Grayplatinum,148.00,2548.00,104.94,377104.0000,15531.1200,418431.24738400,09/10/1946 @ 12:00:00 AM
+28370,"Felldrake, Magus",The Chuallanto Jungle,11.00,Negative Rockglitter Mercury Of Trolls,18.00,235.59,214.17,4240.6200,3855.0600,8986.20480000,09/10/1946 @ 12:00:00 AM
+17668,Bronzespike,Kada's Deep,8.42,Trolls' Rubymercury Of The Sunset,59.00,487.30,487.30,28750.7000,28750.7000,62343.01788000,09/10/1946 @ 12:00:00 AM
+16878,"Claw, Slayer",Gena's Hold,5.85,Warlocks' Timerot Mithril,108.00,725.00,176.95,78300.0000,19110.6000,103109.12010000,09/10/1946 @ 12:00:00 AM
+13031,"The Grasping, Nettool",The Tomb of Hellish Ruin,33.00,Incubi's Iron Of The Dawn,307.00,174.99,174.99,53721.9300,53721.9300,142900.33380000,09/10/1946 @ 12:00:00 AM
+5776,"Mist, Claw",Pawic Keep,31.90,Grayplatinum,300.00,2548.00,86.73,764400.0000,26019.0000,1042562.66100000,09/10/1946 @ 12:00:00 AM
+13136,Emberspawn,The Citadel of Alammius,27.00,Nymphs' Luminous Rotmercury Of The Skies,137.00,335.50,369.05,45963.5000,50559.8500,122584.65450000,09/10/1946 @ 12:00:00 AM
+4610,"Roguemist, Rouge",Noble's Village,4.49,Grayplatinum,68.00,2548.00,86.73,173264.0000,5897.6400,187205.99763600,09/10/1946 @ 12:00:00 AM
+13477,Metalbrood,The Citadel of Alammius,27.00,Sapphire Mindlead,213.00,-44.77,-40.70,-9536.0100,-8669.1000,-23120.48970000,09/10/1946 @ 12:00:00 AM
+24172,"Roguemist, Rouge",The Dungeon of Merciless Woe,3.97,Incubi's Glittering Tin Of The Future,262.00,192.96,212.26,50555.5200,55612.1200,110382.49530800,09/10/1946 @ 12:00:00 AM
+12282,"Ivycaster, Fate",Reyny Keep,-3.35,Sprites' Transcendent Mud Lead Of The South,277.00,3338.65,242.80,924806.0500,67255.6000,958827.58472500,09/10/1946 @ 12:00:00 AM

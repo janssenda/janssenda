@@ -1,22 +1,22 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-25921,"The Unspeakable, Scarechain",Barad Cune,49.21,Warlocks' Timerot Mithril,185.00,194.65,176.95,36010.2500,32735.7500,102575.90660000,04/11/2018 @ 12:00:00 AM
-23398,"Runetomb, Song",Reheath Stronghold,39.60,Forgotten Mithril,165.00,545.71,496.10,90042.1500,81856.5000,239970.51540000,04/11/2018 @ 12:00:00 AM
-1478,"God of Thieves, Maeglodor",The Archer and Blade,15.00,Glittering Orichalcum,325.00,2056.00,330.00,668200.0000,107250.0000,891767.50000000,04/11/2018 @ 12:00:00 AM
-34188,Metalbrood,Reheath Stronghold,39.60,Swordbronze,76.00,403.29,366.63,30650.0400,27863.8800,81685.43232000,04/11/2018 @ 12:00:00 AM
-12988,"The Skeletal, Spiketerror",Bergfison's Deep,16.00,White Platinum,209.00,83.49,91.84,17449.4100,19194.5600,42507.00520000,04/11/2018 @ 12:00:00 AM
-22286,"God of War, Ingwenel",The Tomb of Hellish Ruin,36.30,Fleshshock Mercury,364.00,-31.02,-28.20,-11291.2800,-10264.8000,-29380.93704000,04/11/2018 @ 12:00:00 AM
-22463,"The Evil, Snowflame",The Tomb of Hellish Ruin,36.30,Violetdream Iron,159.00,502.13,456.48,79838.6700,72580.3200,207747.08337000,04/11/2018 @ 12:00:00 AM
-11899,"Lionwatcher, Law",Love Keep,40.56,Sirens' Rockgold,299.00,306.13,278.30,91532.8700,83211.7000,245620.96759200,04/11/2018 @ 12:00:00 AM
-34599,Spikesnare,Barad Kesa,6.17,Grayplatinum,114.00,2548.00,115.43,290472.0000,13159.0200,322365.05393400,04/11/2018 @ 12:00:00 AM
-22712,"Mist, Claw",The Nulukkhath Spires,28.99,Shadowhell Mithril,114.00,462.21,420.19,52691.9400,47901.6600,129755.68464000,04/11/2018 @ 12:00:00 AM
-32247,"The Horrorific, Evilfear",Hafeld Keep,47.59,Yellow Mistearth Copper,302.00,287.98,261.80,86969.9600,79063.6000,245048.93120400,04/11/2018 @ 12:00:00 AM
-21652,"God of Love, Prusu",Grori's Deep,30.25,Witchs' Forbidden Rockrainbow Bronze,157.00,245.63,245.63,38563.9100,38563.9100,100458.98555000,04/11/2018 @ 12:00:00 AM
-30073,"Drakecaster, Sephiroth",The Greedy Wench,13.31,Heavenly Dreamsilver Of The Night,91.00,719.00,314.60,65429.0000,28628.6000,106576.66656000,04/11/2018 @ 12:00:00 AM
-9615,"Lord of Death, Addon",The Dungeon of Dismal Terror,44.30,Emerald Orichalcum,225.00,1957.00,118.01,440325.0000,26552.2500,673703.87175000,04/11/2018 @ 12:00:00 AM
-17207,"Runetomb, Song",North Arcanist's Farthing,2.75,Incubi's Glittering Tin Of The Future,140.00,192.96,212.26,27014.4000,29716.4000,58290.89700000,04/11/2018 @ 12:00:00 AM
-27252,"The Frigid, Icechill",The Bastion of Gothmog of Udun,-2.42,Sprites' Transcendent Mud Lead Of The South,263.00,3338.65,267.08,878064.9500,70242.0400,925357.96084200,04/11/2018 @ 12:00:00 AM
-29876,Metalghoul,The Tower of Sabiesu the Awesome,10.00,Incubi's Glittering Tin Of The Future,103.00,192.96,233.49,19874.8800,24049.4700,48316.78500000,04/11/2018 @ 12:00:00 AM
-16660,"Anchor, Rose",The Pirate's Pipe,16.94,Lycanthropes' Gold,200.00,371.80,338.00,74360.0000,67600.0000,166008.02400000,04/11/2018 @ 12:00:00 AM
-6785,"The Cold, Burnfreeze",Archring Borough,29.70,Trolls' Rubymercury Of The Sunset,308.00,2733.00,443.00,841764.0000,136444.0000,1268735.77600000,04/11/2018 @ 12:00:00 AM
-26908,"The Skeletal, Spiketerror",Gili's Delve,35.89,Muck Orichalcum Of Ogres,285.00,143.37,130.34,40860.4500,37146.9000,106004.18791500,04/11/2018 @ 12:00:00 AM
-14875,"Mystery, Lord",The Secret Shrine of the Gargoyle Count,23.93,Fleshshock Mercury,292.00,-31.02,-28.20,-9057.8400,-8234.4000,-21430.27303200,04/11/2018 @ 12:00:00 AM
+25921,"Scarechain, The Unspeakable",Barad Cune,49.21,Warlocks' Timerot Mithril,185.00,194.65,176.95,36010.2500,32735.7500,102575.90660000,04/11/2008 @ 12:00:00 AM
+23398,"Song, Runetomb",Reheath Stronghold,39.60,Forgotten Mithril,165.00,545.71,496.10,90042.1500,81856.5000,239970.51540000,04/11/2008 @ 12:00:00 AM
+1478,"Maeglodor, God of Thieves",The Archer and Blade,15.00,Glittering Orichalcum,325.00,2056.00,330.00,668200.0000,107250.0000,891767.50000000,04/11/2008 @ 12:00:00 AM
+34188,Metalbrood,Reheath Stronghold,39.60,Swordbronze,76.00,403.29,366.63,30650.0400,27863.8800,81685.43232000,04/11/2008 @ 12:00:00 AM
+12988,"Spiketerror, The Skeletal",Bergfison's Deep,16.00,White Platinum,209.00,83.49,91.84,17449.4100,19194.5600,42507.00520000,04/11/2008 @ 12:00:00 AM
+22286,"Ingwenel, God of War",The Tomb of Hellish Ruin,36.30,Fleshshock Mercury,364.00,-31.02,-28.20,-11291.2800,-10264.8000,-29380.93704000,04/11/2008 @ 12:00:00 AM
+22463,"Snowflame, The Evil",The Tomb of Hellish Ruin,36.30,Violetdream Iron,159.00,502.13,456.48,79838.6700,72580.3200,207747.08337000,04/11/2008 @ 12:00:00 AM
+11899,"Law, Lionwatcher",Love Keep,40.56,Sirens' Rockgold,299.00,306.13,278.30,91532.8700,83211.7000,245620.96759200,04/11/2008 @ 12:00:00 AM
+34599,Spikesnare,Barad Kesa,6.17,Grayplatinum,114.00,2548.00,115.43,290472.0000,13159.0200,322365.05393400,04/11/2008 @ 12:00:00 AM
+22712,"Claw, Mist",The Nulukkhath Spires,28.99,Shadowhell Mithril,114.00,462.21,420.19,52691.9400,47901.6600,129755.68464000,04/11/2008 @ 12:00:00 AM
+32247,"Evilfear, The Horrorific",Hafeld Keep,47.59,Yellow Mistearth Copper,302.00,287.98,261.80,86969.9600,79063.6000,245048.93120400,04/11/2008 @ 12:00:00 AM
+21652,"Prusu, God of Love",Grori's Deep,30.25,Witchs' Forbidden Rockrainbow Bronze,157.00,245.63,245.63,38563.9100,38563.9100,100458.98555000,04/11/2008 @ 12:00:00 AM
+30073,"Sephiroth, Drakecaster",The Greedy Wench,13.31,Heavenly Dreamsilver Of The Night,91.00,719.00,314.60,65429.0000,28628.6000,106576.66656000,04/11/2008 @ 12:00:00 AM
+9615,"Addon, Lord of Death",The Dungeon of Dismal Terror,44.30,Emerald Orichalcum,225.00,1957.00,118.01,440325.0000,26552.2500,673703.87175000,04/11/2008 @ 12:00:00 AM
+17207,"Song, Runetomb",North Arcanist's Farthing,2.75,Incubi's Glittering Tin Of The Future,140.00,192.96,212.26,27014.4000,29716.4000,58290.89700000,04/11/2008 @ 12:00:00 AM
+27252,"Icechill, The Frigid",The Bastion of Gothmog of Udun,-2.42,Sprites' Transcendent Mud Lead Of The South,263.00,3338.65,267.08,878064.9500,70242.0400,925357.96084200,04/11/2008 @ 12:00:00 AM
+29876,Metalghoul,The Tower of Sabiesu the Awesome,10.00,Incubi's Glittering Tin Of The Future,103.00,192.96,233.49,19874.8800,24049.4700,48316.78500000,04/11/2008 @ 12:00:00 AM
+16660,"Rose, Anchor",The Pirate's Pipe,16.94,Lycanthropes' Gold,200.00,371.80,338.00,74360.0000,67600.0000,166008.02400000,04/11/2008 @ 12:00:00 AM
+6785,"Burnfreeze, The Cold",Archring Borough,29.70,Trolls' Rubymercury Of The Sunset,308.00,2733.00,443.00,841764.0000,136444.0000,1268735.77600000,04/11/2008 @ 12:00:00 AM
+26908,"Spiketerror, The Skeletal",Gili's Delve,35.89,Muck Orichalcum Of Ogres,285.00,143.37,130.34,40860.4500,37146.9000,106004.18791500,04/11/2008 @ 12:00:00 AM
+14875,"Lord, Mystery",The Secret Shrine of the Gargoyle Count,23.93,Fleshshock Mercury,292.00,-31.02,-28.20,-9057.8400,-8234.4000,-21430.27303200,04/11/2008 @ 12:00:00 AM

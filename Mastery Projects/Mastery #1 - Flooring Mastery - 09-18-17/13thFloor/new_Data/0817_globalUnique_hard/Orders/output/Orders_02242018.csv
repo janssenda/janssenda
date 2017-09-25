@@ -1,24 +1,24 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-11021,Springcoil,The Black Barrow of Bery,19.80,Lycanthropes' Gold,194.00,371.80,338.00,72129.2000,65572.0000,164966.03760000,02/24/2018 @ 12:00:00 AM
-26992,"The Constructed, Snaretool",Reheath Stronghold,39.60,Swordbronze,154.00,403.29,366.63,62106.6600,56461.0200,165520.48128000,02/24/2018 @ 12:00:00 AM
-37659,"Runetomb, Song",The Greedy Wench,13.31,Stone Soulsteel Of The Skies,197.00,453.31,453.31,89302.0700,89302.0700,202376.35103400,02/24/2018 @ 12:00:00 AM
-26973,"Bladewitch, Zeal",The Chuallanto Jungle,11.00,Heavenly Dreamsilver Of The Night,177.00,719.00,314.60,127263.0000,55684.2000,203071.39200000,02/24/2018 @ 12:00:00 AM
-3759,Bronzespike,The Cuitamba Jungle,42.50,Unknown Fatelightning Steel Of The Glacier,259.00,119.90,109.00,31054.1000,28231.0000,84481.26750000,02/24/2018 @ 12:00:00 AM
-35252,"Dawn, Tarot",The Fortress of the Lich Queen,22.79,Lycanthropes' Gold,200.00,449.88,408.98,89976.0000,81796.0000,210918.83880000,02/24/2018 @ 12:00:00 AM
-35219,"Lord of Death, Addon",The Fen of the Necromancer,32.21,Ghouls' Imperial Soulzephyr Mithril Of The Seas,120.00,318.23,318.23,38187.6000,38187.6000,100975.65192000,02/24/2018 @ 12:00:00 AM
-21271,"Gust, Shadow",The Tomb of Hellish Ruin,36.30,Plague Tin,343.00,465.25,422.95,159580.7500,145071.8500,415241.49380000,02/24/2018 @ 12:00:00 AM
-19034,Emberspawn,The Bastion of Barbos,25.41,Toxic Mistlead Of The Past,222.00,396.06,396.06,87925.3200,87925.3200,220534.28762400,02/24/2018 @ 12:00:00 AM
-10970,"Rougehate, Rune",North Arcanist's Farthing,2.50,Pearl Mirrorice Steel Of Changelings,152.00,2996.00,302.00,455392.0000,45904.0000,513828.40000000,02/24/2018 @ 12:00:00 AM
-19551,"Mist, Claw",Gifeld Castle,33.01,Golems' Stonesapphire Gold Of The Glacier,85.00,176.00,160.00,14960.0000,13600.0000,37987.65600000,02/24/2018 @ 12:00:00 AM
-19533,Springcoil,Mahyrst Keep,31.30,Spirits' Living Wordhammer Tin Of The Trees,121.00,141.57,128.70,17129.9700,15572.7000,42938.60571000,02/24/2018 @ 12:00:00 AM
-9550,Springsprocket,Gifeld Castle,27.28,Undeads' Mind Orichalcum Of The Twilight,346.00,1169.00,301.40,404474.0000,104284.4000,647547.69152000,02/24/2018 @ 12:00:00 AM
-21928,"The Skeletal, Spiketerror",The Nulukkhath Spires,28.99,Fleshshock Mercury,283.00,-31.02,-28.20,-8778.6600,-7980.6000,-21617.76947400,02/24/2018 @ 12:00:00 AM
-18455,Bronzespawn,Peley Keep,20.92,Undeads' Mind Orichalcum Of The Twilight,107.00,1169.00,331.54,125083.0000,35474.7800,194146.46757600,02/24/2018 @ 12:00:00 AM
-15134,Spikerivet,The Fortress of Akkun the Grim,27.03,Primordial Plague Mercury Of Legend,261.00,73.70,67.00,19235.7000,17487.0000,46648.84581000,02/24/2018 @ 12:00:00 AM
-15228,"Goddess of Thieves, Melcha",Dysley Stronghold,35.51,Fleshshock Mercury,287.00,-31.02,-28.20,-8902.7400,-8093.4000,-23031.46931400,02/24/2018 @ 12:00:00 AM
-5478,Emberspawn,Reheath Stronghold,39.60,Undeads' Mind Orichalcum Of The Twilight,185.00,1169.00,301.40,216265.0000,55759.0000,379745.50400000,02/24/2018 @ 12:00:00 AM
-15462,Emberspawn,The Tower of Aramum,20.00,Djinni's Mind Fogiron,193.00,57.23,52.03,11045.3900,10041.7900,25304.61600000,02/24/2018 @ 12:00:00 AM
-5762,"Lord of Nightmares, Iran",Reheath Stronghold,39.60,Tritons' Time Stoneiron Of Legend,146.00,2235.00,310.54,326310.0000,45338.8400,518821.78064000,02/24/2018 @ 12:00:00 AM
-13308,Emberfire,Gili's Delve,35.89,Poison Adamant,216.00,110.96,100.87,23967.3600,21787.9200,62176.84999200,02/24/2018 @ 12:00:00 AM
-4841,"The Binder, Springpulley",Hartshill Ward,40.29,Grayplatinum,194.00,2548.00,86.73,494312.0000,16825.6200,717074.96709800,02/24/2018 @ 12:00:00 AM
-26853,"Wind, Maverick",Khali's Delve,1.30,Muck Orichalcum Of Ogres,235.00,143.37,130.34,33691.9500,30629.9000,65158.03405000,02/24/2018 @ 12:00:00 AM
+11021,Springcoil,The Black Barrow of Bery,19.80,Lycanthropes' Gold,194.00,371.80,338.00,72129.2000,65572.0000,164966.03760000,02/24/2008 @ 12:00:00 AM
+26992,"Snaretool, The Constructed",Reheath Stronghold,39.60,Swordbronze,154.00,403.29,366.63,62106.6600,56461.0200,165520.48128000,02/24/2008 @ 12:00:00 AM
+37659,"Song, Runetomb",The Greedy Wench,13.31,Stone Soulsteel Of The Skies,197.00,453.31,453.31,89302.0700,89302.0700,202376.35103400,02/24/2008 @ 12:00:00 AM
+26973,"Zeal, Bladewitch",The Chuallanto Jungle,11.00,Heavenly Dreamsilver Of The Night,177.00,719.00,314.60,127263.0000,55684.2000,203071.39200000,02/24/2008 @ 12:00:00 AM
+3759,Bronzespike,The Cuitamba Jungle,42.50,Unknown Fatelightning Steel Of The Glacier,259.00,119.90,109.00,31054.1000,28231.0000,84481.26750000,02/24/2008 @ 12:00:00 AM
+35252,"Tarot, Dawn",The Fortress of the Lich Queen,22.79,Lycanthropes' Gold,200.00,449.88,408.98,89976.0000,81796.0000,210918.83880000,02/24/2008 @ 12:00:00 AM
+35219,"Addon, Lord of Death",The Fen of the Necromancer,32.21,Ghouls' Imperial Soulzephyr Mithril Of The Seas,120.00,318.23,318.23,38187.6000,38187.6000,100975.65192000,02/24/2008 @ 12:00:00 AM
+21271,"Shadow, Gust",The Tomb of Hellish Ruin,36.30,Plague Tin,343.00,465.25,422.95,159580.7500,145071.8500,415241.49380000,02/24/2008 @ 12:00:00 AM
+19034,Emberspawn,The Bastion of Barbos,25.41,Toxic Mistlead Of The Past,222.00,396.06,396.06,87925.3200,87925.3200,220534.28762400,02/24/2008 @ 12:00:00 AM
+10970,"Rune, Rougehate",North Arcanist's Farthing,2.50,Pearl Mirrorice Steel Of Changelings,152.00,2996.00,302.00,455392.0000,45904.0000,513828.40000000,02/24/2008 @ 12:00:00 AM
+19551,"Claw, Mist",Gifeld Castle,33.01,Golems' Stonesapphire Gold Of The Glacier,85.00,176.00,160.00,14960.0000,13600.0000,37987.65600000,02/24/2008 @ 12:00:00 AM
+19533,Springcoil,Mahyrst Keep,31.30,Spirits' Living Wordhammer Tin Of The Trees,121.00,141.57,128.70,17129.9700,15572.7000,42938.60571000,02/24/2008 @ 12:00:00 AM
+9550,Springsprocket,Gifeld Castle,27.28,Undeads' Mind Orichalcum Of The Twilight,346.00,1169.00,301.40,404474.0000,104284.4000,647547.69152000,02/24/2008 @ 12:00:00 AM
+21928,"Spiketerror, The Skeletal",The Nulukkhath Spires,28.99,Fleshshock Mercury,283.00,-31.02,-28.20,-8778.6600,-7980.6000,-21617.76947400,02/24/2008 @ 12:00:00 AM
+18455,Bronzespawn,Peley Keep,20.92,Undeads' Mind Orichalcum Of The Twilight,107.00,1169.00,331.54,125083.0000,35474.7800,194146.46757600,02/24/2008 @ 12:00:00 AM
+15134,Spikerivet,The Fortress of Akkun the Grim,27.03,Primordial Plague Mercury Of Legend,261.00,73.70,67.00,19235.7000,17487.0000,46648.84581000,02/24/2008 @ 12:00:00 AM
+15228,"Melcha, Goddess of Thieves",Dysley Stronghold,35.51,Fleshshock Mercury,287.00,-31.02,-28.20,-8902.7400,-8093.4000,-23031.46931400,02/24/2008 @ 12:00:00 AM
+5478,Emberspawn,Reheath Stronghold,39.60,Undeads' Mind Orichalcum Of The Twilight,185.00,1169.00,301.40,216265.0000,55759.0000,379745.50400000,02/24/2008 @ 12:00:00 AM
+15462,Emberspawn,The Tower of Aramum,20.00,Djinni's Mind Fogiron,193.00,57.23,52.03,11045.3900,10041.7900,25304.61600000,02/24/2008 @ 12:00:00 AM
+5762,"Iran, Lord of Nightmares",Reheath Stronghold,39.60,Tritons' Time Stoneiron Of Legend,146.00,2235.00,310.54,326310.0000,45338.8400,518821.78064000,02/24/2008 @ 12:00:00 AM
+13308,Emberfire,Gili's Delve,35.89,Poison Adamant,216.00,110.96,100.87,23967.3600,21787.9200,62176.84999200,02/24/2008 @ 12:00:00 AM
+4841,"Springpulley, The Binder",Hartshill Ward,40.29,Grayplatinum,194.00,2548.00,86.73,494312.0000,16825.6200,717074.96709800,02/24/2008 @ 12:00:00 AM
+26853,"Maverick, Wind",Khali's Delve,1.30,Muck Orichalcum Of Ogres,235.00,143.37,130.34,33691.9500,30629.9000,65158.03405000,02/24/2008 @ 12:00:00 AM

@@ -1,22 +1,22 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-25860,Bronzespawn,Archfane District,15.29,Fleshshock Mercury,224.00,-31.02,-28.20,-6948.4800,-6316.8000,-15293.54131200,03/28/2017 @ 12:00:00 AM
-12488,"Goddess of Knowledge, Ahah",The Citadel of Tattena the Sinister,22.39,Violetdream Iron,173.00,414.98,377.25,71791.5400,65264.2500,167742.58138100,03/28/2017 @ 12:00:00 AM
-36423,"Goddess of Law, Eumyan",The Fen of the Necromancer,32.21,Grayplatinum,158.00,2548.00,115.43,402584.0000,18237.9400,556368.68687400,03/28/2017 @ 12:00:00 AM
-23566,"Felldrake, Magus",The Fortress of Akkun the Grim,27.03,Tritons' Time Stoneiron Of Legend,283.00,341.59,341.59,96669.9700,96669.9700,245599.72578200,03/28/2017 @ 12:00:00 AM
-2861,"Veil, Bane",The Archer and Scroll,45.16,Succubi's Evil Mindzephyr Adamant Of The Desert,157.00,555.09,42.90,87149.1300,6735.3000,136282.63858800,03/28/2017 @ 12:00:00 AM
-2988,"Lord of Nightmares, Iran",The Archer and Scroll,45.16,Zephyr Adamant,296.00,481.77,-40.13,142603.9200,-11878.4800,189761.04870400,03/28/2017 @ 12:00:00 AM
-35752,Spikesnare,The Nulukkhath Spires,28.99,Vampires' Fang Emeraldsilver,330.00,2033.69,88.92,671117.7000,29343.6000,903525.03087000,03/28/2017 @ 12:00:00 AM
-1755,"Brand, Lightning",The Dungeon of Dismal Terror,40.27,Spirits' Living Wordhammer Tin Of The Trees,164.00,3897.55,117.00,639198.2000,19188.0000,923518.32274000,03/28/2017 @ 12:00:00 AM
-11986,"Darkzealot, Dawn",The Dungeon of Merciless Woe,3.61,Fairies' Supreme Mistsmoke Lead Of The Future,142.00,2622.69,454.30,372421.9800,64510.6000,452705.84613800,03/28/2017 @ 12:00:00 AM
-20025,"Tsunami, Seraphim",Dysley Stronghold,35.51,Emerald Orichalcum,104.00,1957.00,142.79,203528.0000,14850.1600,295924.24461600,03/28/2017 @ 12:00:00 AM
-33404,"Goddess of Fate, Azah",The Archer and Scroll,60.12,Mind Lead,105.00,241.00,219.09,25305.0000,23004.4500,77353.09134000,03/28/2017 @ 12:00:00 AM
-32183,"Wolf, Jericho",The Bastion of the Lich Tyrant,8.64,Negative Rockglitter Mercury Of Trolls,315.00,235.59,214.17,74210.8500,67463.5500,153915.06816000,03/28/2017 @ 12:00:00 AM
-19428,"The Grasping, Beamsprocket",Gifeld Castle,33.01,Spirits' Living Wordhammer Tin Of The Trees,287.00,141.57,128.70,40630.5900,36936.9000,103172.51844900,03/28/2017 @ 12:00:00 AM
-18277,"Roguemist, Rouge",Gili's Delve,35.89,Meteoric Mirrormuck Orichalcum Of The Forests,347.00,491.62,405.35,170592.1400,140656.4500,422955.70895100,03/28/2017 @ 12:00:00 AM
-31579,Spikerivet,Hafeld Keep,47.59,Grayplatinum,69.00,2548.00,104.94,175812.0000,7240.8600,270167.71607400,03/28/2017 @ 12:00:00 AM
-31556,"Godseeker, Cult",Hafeld Keep,47.59,Planar Mudtin Of Trolls,333.00,191.40,174.00,63736.2000,57942.0000,179584.85538000,03/28/2017 @ 12:00:00 AM
-6082,"The Freezer, Burnbrood",Pawic Keep,31.90,Grayplatinum,334.00,2548.00,86.73,851032.0000,28967.8200,1160719.76258000,03/28/2017 @ 12:00:00 AM
-3138,"The Horrorific, Evilfear",The Khazahol Crags,20.68,Litches' Fatal Mithril Of The Past,113.00,3822.00,13.00,431886.0000,1469.0000,522972.81400000,03/28/2017 @ 12:00:00 AM
-26401,"Rougehate, Rune",Citadel Ward,4.40,Fleshshock Mercury,203.00,-31.02,-28.20,-6297.0600,-5724.6000,-12550.61304000,03/28/2017 @ 12:00:00 AM
-27963,"Lawslayer, Valentine",Barad Cune,49.21,Undeads' Mind Orichalcum Of The Twilight,197.00,1169.00,364.69,230293.0000,71843.9300,450818.51325300,03/28/2017 @ 12:00:00 AM
-26945,Metalbrood,Gili's Delve,35.89,Heavenly Dreamsilver Of The Night,104.00,719.00,314.60,74776.0000,32718.4000,146074.14016000,03/28/2017 @ 12:00:00 AM
+25860,Bronzespawn,Archfane District,15.29,Fleshshock Mercury,224.00,-31.02,-28.20,-6948.4800,-6316.8000,-15293.54131200,03/28/2007 @ 12:00:00 AM
+12488,"Ahah, Goddess of Knowledge",The Citadel of Tattena the Sinister,22.39,Violetdream Iron,173.00,414.98,377.25,71791.5400,65264.2500,167742.58138100,03/28/2017 @ 12:00:00 AM
+36423,"Eumyan, Goddess of Law",The Fen of the Necromancer,32.21,Grayplatinum,158.00,2548.00,115.43,402584.0000,18237.9400,556368.68687400,03/28/2007 @ 12:00:00 AM
+23566,"Magus, Felldrake",The Fortress of Akkun the Grim,27.03,Tritons' Time Stoneiron Of Legend,283.00,341.59,341.59,96669.9700,96669.9700,245599.72578200,03/28/2007 @ 12:00:00 AM
+2861,"Bane, Veil",The Archer and Scroll,45.16,Succubi's Evil Mindzephyr Adamant Of The Desert,157.00,555.09,42.90,87149.1300,6735.3000,136282.63858800,03/28/2007 @ 12:00:00 AM
+2988,"Iran, Lord of Nightmares",The Archer and Scroll,45.16,Zephyr Adamant,296.00,481.77,-40.13,142603.9200,-11878.4800,189761.04870400,03/28/2007 @ 12:00:00 AM
+35752,Spikesnare,The Nulukkhath Spires,28.99,Vampires' Fang Emeraldsilver,330.00,2033.69,88.92,671117.7000,29343.6000,903525.03087000,03/28/2007 @ 12:00:00 AM
+1755,"Lightning, Brand",The Dungeon of Dismal Terror,40.27,Spirits' Living Wordhammer Tin Of The Trees,164.00,3897.55,117.00,639198.2000,19188.0000,923518.32274000,03/28/2007 @ 12:00:00 AM
+11986,"Dawn, Darkzealot",The Dungeon of Merciless Woe,3.61,Fairies' Supreme Mistsmoke Lead Of The Future,142.00,2622.69,454.30,372421.9800,64510.6000,452705.84613800,03/28/2007 @ 12:00:00 AM
+20025,"Seraphim, Tsunami",Dysley Stronghold,35.51,Emerald Orichalcum,104.00,1957.00,142.79,203528.0000,14850.1600,295924.24461600,03/28/2007 @ 12:00:00 AM
+33404,"Azah, Goddess of Fate",The Archer and Scroll,60.12,Mind Lead,105.00,241.00,219.09,25305.0000,23004.4500,77353.09134000,03/28/2007 @ 12:00:00 AM
+32183,"Jericho, Wolf",The Bastion of the Lich Tyrant,8.64,Negative Rockglitter Mercury Of Trolls,315.00,235.59,214.17,74210.8500,67463.5500,153915.06816000,03/28/2007 @ 12:00:00 AM
+19428,"Beamsprocket, The Grasping",Gifeld Castle,33.01,Spirits' Living Wordhammer Tin Of The Trees,287.00,141.57,128.70,40630.5900,36936.9000,103172.51844900,03/28/2007 @ 12:00:00 AM
+18277,"Rouge, Roguemist",Gili's Delve,35.89,Meteoric Mirrormuck Orichalcum Of The Forests,347.00,491.62,405.35,170592.1400,140656.4500,422955.70895100,03/28/2007 @ 12:00:00 AM
+31579,Spikerivet,Hafeld Keep,47.59,Grayplatinum,69.00,2548.00,104.94,175812.0000,7240.8600,270167.71607400,03/28/2007 @ 12:00:00 AM
+31556,"Cult, Godseeker",Hafeld Keep,47.59,Planar Mudtin Of Trolls,333.00,191.40,174.00,63736.2000,57942.0000,179584.85538000,03/28/2007 @ 12:00:00 AM
+6082,"Burnbrood, The Freezer",Pawic Keep,31.90,Grayplatinum,334.00,2548.00,86.73,851032.0000,28967.8200,1160719.76258000,03/28/2007 @ 12:00:00 AM
+3138,"Evilfear, The Horrorific",The Khazahol Crags,20.68,Litches' Fatal Mithril Of The Past,113.00,3822.00,13.00,431886.0000,1469.0000,522972.81400000,03/28/2007 @ 12:00:00 AM
+26401,"Rune, Rougehate",Citadel Ward,4.40,Fleshshock Mercury,203.00,-31.02,-28.20,-6297.0600,-5724.6000,-12550.61304000,03/28/2007 @ 12:00:00 AM
+27963,"Valentine, Lawslayer",Barad Cune,49.21,Undeads' Mind Orichalcum Of The Twilight,197.00,1169.00,364.69,230293.0000,71843.9300,450818.51325300,03/28/2007 @ 12:00:00 AM
+26945,Metalbrood,Gili's Delve,35.89,Heavenly Dreamsilver Of The Night,104.00,719.00,314.60,74776.0000,32718.4000,146074.14016000,03/28/2007 @ 12:00:00 AM

@@ -59,14 +59,14 @@ public class LargeDataHandler extends FileHandler {
     public LargeDataHandler() {
         this.DIR = "./orders";
         this.skippedLineCount = 0;
-        this.skippedFileCount = 0;        
+        this.skippedFileCount = 0;
     }
 
     public LargeDataHandler(String directory) {
         this.DIR = directory;
         this.skippedLineCount = 0;
         this.skippedFileCount = 0;
-        
+
     }
 
     public Map<String, State> readStatesFromFile(String filename) throws FileIOException {
@@ -153,7 +153,7 @@ public class LargeDataHandler extends FileHandler {
 
                         Product p = new Product(currentTokens[0]);
                         p.setCostpersqft(new BigDecimal(currentTokens[1]));
-                        p.setLaborpersqft(new BigDecimal(currentTokens[2]));                        
+                        p.setLaborpersqft(new BigDecimal(currentTokens[2]));
                         products.put(p.getProductName(), p);
                     }
                 } catch (Exception e) {
@@ -348,8 +348,9 @@ public class LargeDataHandler extends FileHandler {
         new File(directory + "/tmp/").mkdirs();
         boolean header = true;
 
-        String headerst = "Order Number,first_name,last_name,State,Area,Material,Tax,CPSF,"
-                + "LCPSF,MaterialCost,LaborCost,TotalCost, Last Revised\n";
+        String headerst = "OrderNumber,CustomerName,State,TaxRate,ProductType,"
+                + "Area,CostPerSquareFoot,LaborCostPerSquareFoot,"
+                + "MaterialCost,LaborCost,Tax,Total, Last Revised\n";
 
         String tmpDate = orderList.get(0).getDate()
                 .format(DateTimeFormatter.ofPattern("MMddyyyy"));
@@ -405,8 +406,10 @@ public class LargeDataHandler extends FileHandler {
 
     public void writeAllOrders(List<Order> orderList, String filename) throws FileIOException {
         PrintWriter out = null;
-        String header = "Order Number,first_name,last_name,State,Area,Material,Tax,CPSF,"
-                + "LCPSF,MaterialCost,LaborCost,TotalCost, Last Revised";
+
+        String header = "OrderNumber,CustomerName,State,TaxRate,ProductType,"
+                + "Area,CostPerSquareFoot,LaborCostPerSquareFoot,"
+                + "MaterialCost,LaborCost,Tax,Total, Last Revised\n";
 
         try {
             out = new PrintWriter(new FileWriter(filename));
@@ -432,22 +435,20 @@ public class LargeDataHandler extends FileHandler {
     private String outputFormat(Order order) {
         Product p = order.getProduct();
         String name;
-        
-        if (!order.getLastName().equals("")){
+
+        if (!order.getLastName().equals("")) {
             name = "\"" + order.getLastName() + ", " + order.getFirstName() + "\"";
         } else {
-             name = order.getFirstName();
+            name = order.getFirstName();
         }
 
         return (order.getOrderNumber() + DELIMITER
                 //+ order.getDate().format(DateTimeFormatter.ofPattern(DATEFORMAT)) + DELIMITER
                 + name + DELIMITER
-               
                 + order.getState().getStateCode() + DELIMITER
                 + order.getState().getTaxrate().toString() + DELIMITER
                 + p.getProductName() + DELIMITER
-                + order.getArea().toString() + DELIMITER                
-                
+                + order.getArea().toString() + DELIMITER
                 + p.getCostpersqft().toString() + DELIMITER
                 + p.getLaborpersqft().toString() + DELIMITER
                 + order.getMaterialCost().toString() + DELIMITER
@@ -513,7 +514,6 @@ public class LargeDataHandler extends FileHandler {
         Scanner scanner;
         List<Order> orderList = new ArrayList<>();
         Set<Order> orderSet = new HashSet<>();
-    
 
         try {
             scanner = new Scanner(file);
@@ -525,7 +525,7 @@ public class LargeDataHandler extends FileHandler {
 
         try {
             d = LocalDate.parse(fileNameTokens[1], DateTimeFormatter.ofPattern("MMddyyyy"));
-            drev = d.atStartOfDay();
+            //drev = d.atStartOfDay();
             //drev = LocalDateTime.parse(fileNameTokens[1], DateTimeFormatter.ofPattern("MMddyyyy"));
         } catch (Exception e) {
             throw new FileSkipException("Error reading file: empty or corrupt ");
@@ -573,14 +573,13 @@ public class LargeDataHandler extends FileHandler {
                         if (nameSplit.length > 1) {
                             String name = "";
                             for (int i = 1; i < nameSplit.length; i++) {
-                                name = name + " " + nameSplit[i]; 
+                                name = name + " " + nameSplit[i];
                             }
                             currentOrder.setLastName(name);
                         } else {
                             currentOrder.setLastName("");
                         }
-                        
-                        
+
                     }
 
                     if (!isOrderNumber(currentTokens[0], orderNumberLength)) {
@@ -595,6 +594,7 @@ public class LargeDataHandler extends FileHandler {
 
                     currentOrder.setState(st);
                     currentOrder.setDate(d);
+                    drev = LocalDateTime.parse(currentTokens[11+offset], DateTimeFormatter.ofPattern(REVDATEFORMAT));
 
                     currentOrder.setArea(new BigDecimal(currentTokens[5 + offset]));
                     currentOrder.setRevisionDate(drev);

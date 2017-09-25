@@ -1,18 +1,18 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-35077,Emberspawn,Barad Kesa,6.17,Grayplatinum,265.00,2548.00,115.43,675220.0000,30588.9500,749357.36221500,02/10/2016 @ 12:00:00 AM
-35229,"Goddess of Fate, Azah",The Nulukkhath Spires,28.99,Violetdream Iron,200.00,502.13,502.13,100426.0000,100426.0000,259078.99480000,02/10/2016 @ 12:00:00 AM
-1417,"Lord of Death, Addon",The Archer and Blade,15.00,Fog Lavaplatinum Of Life,216.00,2232.00,463.10,482112.0000,100029.6000,669462.84000000,02/10/2016 @ 12:00:00 AM
-36832,"Wolf, Jericho",The Fen of the Necromancer,32.21,Heavenly Dreamsilver Of The Night,193.00,719.00,346.06,138767.0000,66789.5800,271766.35441800,02/10/2016 @ 12:00:00 AM
-22186,"Lord of the Sun, Maglioneth",The Tower of Sabiesu the Awesome,10.00,Fog Lavaplatinum Of Life,51.00,560.35,509.41,28577.8500,25979.9100,60013.53600000,02/10/2016 @ 12:00:00 AM
-20360,"The Cold, Burnfreeze",The Demon and Toad,-1.10,Magicians' Legendary Poison Metal,190.00,-52.81,-48.01,-10033.9000,-9121.9000,-18945.08620000,02/10/2016 @ 12:00:00 AM
-9805,"God of Fate, Uriel",The Fortress of the Lich Queen,17.13,Timeiron,138.00,3255.00,-16.25,449190.0000,-2242.5000,523509.60675000,02/10/2016 @ 12:00:00 AM
-6295,"Ivycaster, Fate",The Drunken Thief,18.41,Dragons' Poison Glitterflesh Steel Of The North,238.00,742.00,75.00,176596.0000,17850.0000,230243.50860000,02/10/2016 @ 12:00:00 AM
-16215,"Bladewitch, Zeal",The Bastion of the Lich Tyrant,7.14,Tritons' Time Stoneiron Of Legend,148.00,341.59,341.59,50555.3200,50555.3200,108329.93969600,02/10/2016 @ 12:00:00 AM
-16904,"Goddess of Knowledge, Baltha",Gena's Hold,5.85,Incubi's Glittering Tin Of The Future,126.00,192.96,212.26,24312.9600,26744.7600,54044.59662000,02/10/2016 @ 12:00:00 AM
-6939,"God of Resurrection, Gadriel",Gawold Castle,10.29,Sirens' Rockgold,162.00,306.13,278.30,49593.0600,45084.6000,104419.99121400,02/10/2016 @ 12:00:00 AM
-15641,"Mistseeker, Grave",The Fortress of Asmamur,-2.66,Golems' Stonesapphire Gold Of The Glacier,168.00,176.00,160.00,29568.0000,26880.0000,54946.48320000,02/10/2016 @ 12:00:00 AM
-27608,"Goddess of the Earth, Gono",The Bastion of Gothmog of Udun,-2.42,Vampires' Hammer Emeraldmetal,263.00,93.70,85.18,24643.1000,22402.3400,45906.94035200,02/10/2016 @ 12:00:00 AM
-4436,"Roguemist, Rouge",Bergfison's Deep,16.00,Poison Adamant,83.00,-7.92,178.20,-657.3600,14790.6000,16394.55840000,02/10/2016 @ 12:00:00 AM
-25283,"Jester, Seraph",Kada's Deep,8.42,Negative Rockglitter Mercury Of Trolls,145.00,235.59,214.17,34160.5500,31054.6500,70706.31984000,02/10/2016 @ 12:00:00 AM
-14743,Freezebrood,Dysley Stronghold,35.51,Golems' Stonesapphire Gold Of The Glacier,182.00,176.00,160.00,32032.0000,29120.0000,82867.07520000,02/10/2016 @ 12:00:00 AM
-2123,Emberspawn,Pewold Keep,29.00,Meteoric Mirrormuck Orichalcum Of The Forests,80.00,491.62,368.50,39329.6000,29480.0000,88764.38400000,02/10/2016 @ 12:00:00 AM
+35077,Emberspawn,Barad Kesa,6.17,Grayplatinum,265.00,2548.00,115.43,675220.0000,30588.9500,749357.36221500,02/10/2006 @ 12:00:00 AM
+35229,"Azah, Goddess of Fate",The Nulukkhath Spires,28.99,Violetdream Iron,200.00,502.13,502.13,100426.0000,100426.0000,259078.99480000,02/10/2006 @ 12:00:00 AM
+1417,"Addon, Lord of Death",The Archer and Blade,15.00,Fog Lavaplatinum Of Life,216.00,2232.00,463.10,482112.0000,100029.6000,669462.84000000,02/10/2006 @ 12:00:00 AM
+36832,"Jericho, Wolf",The Fen of the Necromancer,32.21,Heavenly Dreamsilver Of The Night,193.00,719.00,346.06,138767.0000,66789.5800,271766.35441800,02/10/2006 @ 12:00:00 AM
+22186,"Maglioneth, Lord of the Sun",The Tower of Sabiesu the Awesome,10.00,Fog Lavaplatinum Of Life,51.00,560.35,509.41,28577.8500,25979.9100,60013.53600000,02/10/2006 @ 12:00:00 AM
+20360,"Burnfreeze, The Cold",The Demon and Toad,-1.10,Magicians' Legendary Poison Metal,190.00,-52.81,-48.01,-10033.9000,-9121.9000,-18945.08620000,02/10/2006 @ 12:00:00 AM
+9805,"Uriel, God of Fate",The Fortress of the Lich Queen,17.13,Timeiron,138.00,3255.00,-16.25,449190.0000,-2242.5000,523509.60675000,02/10/2006 @ 12:00:00 AM
+6295,"Fate, Ivycaster",The Drunken Thief,18.41,Dragons' Poison Glitterflesh Steel Of The North,238.00,742.00,75.00,176596.0000,17850.0000,230243.50860000,02/10/2006 @ 12:00:00 AM
+16215,"Zeal, Bladewitch",The Bastion of the Lich Tyrant,7.14,Tritons' Time Stoneiron Of Legend,148.00,341.59,341.59,50555.3200,50555.3200,108329.93969600,02/10/2006 @ 12:00:00 AM
+16904,"Baltha, Goddess of Knowledge",Gena's Hold,5.85,Incubi's Glittering Tin Of The Future,126.00,192.96,212.26,24312.9600,26744.7600,54044.59662000,02/10/2006 @ 12:00:00 AM
+6939,"Gadriel, God of Resurrection",Gawold Castle,10.29,Sirens' Rockgold,162.00,306.13,278.30,49593.0600,45084.6000,104419.99121400,02/10/2006 @ 12:00:00 AM
+15641,"Grave, Mistseeker",The Fortress of Asmamur,-2.66,Golems' Stonesapphire Gold Of The Glacier,168.00,176.00,160.00,29568.0000,26880.0000,54946.48320000,02/10/2006 @ 12:00:00 AM
+27608,"Gono, Goddess of the Earth",The Bastion of Gothmog of Udun,-2.42,Vampires' Hammer Emeraldmetal,263.00,93.70,85.18,24643.1000,22402.3400,45906.94035200,02/10/2006 @ 12:00:00 AM
+4436,"Rouge, Roguemist",Bergfison's Deep,16.00,Poison Adamant,83.00,-7.92,178.20,-657.3600,14790.6000,16394.55840000,02/10/2006 @ 12:00:00 AM
+25283,"Seraph, Jester",Kada's Deep,8.42,Negative Rockglitter Mercury Of Trolls,145.00,235.59,214.17,34160.5500,31054.6500,70706.31984000,02/10/2006 @ 12:00:00 AM
+14743,Freezebrood,Dysley Stronghold,35.51,Golems' Stonesapphire Gold Of The Glacier,182.00,176.00,160.00,32032.0000,29120.0000,82867.07520000,02/10/2006 @ 12:00:00 AM
+2123,Emberspawn,Pewold Keep,29.00,Meteoric Mirrormuck Orichalcum Of The Forests,80.00,491.62,368.50,39329.6000,29480.0000,88764.38400000,02/10/2006 @ 12:00:00 AM

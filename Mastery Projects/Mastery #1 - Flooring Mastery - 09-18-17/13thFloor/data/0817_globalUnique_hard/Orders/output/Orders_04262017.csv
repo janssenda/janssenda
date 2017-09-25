@@ -1,16 +1,16 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-36677,"Veil, Bane",The Fen of the Necromancer,32.21,Ensorceled Sandmetal Of Spirits,234.00,85.18,93.70,19932.1200,21925.8000,55340.35603200,04/26/2017 @ 12:00:00 AM
-34226,"Knightseraph, Lance",Barad Cune,49.21,Warlocks' Timerot Mithril,176.00,194.65,194.65,34258.4000,34258.4000,102233.91728000,04/26/2017 @ 12:00:00 AM
-24979,"The Blade, Scarefear",The Forsaken Sepulcher of Sorrows,31.36,Foul Ice Bronze Of Life,81.00,292.82,266.20,23718.4200,21562.2000,59480.62243200,04/26/2017 @ 12:00:00 AM
-23757,"The Skeletal, Spiketerror",Fellfen Keep,38.00,Phantasmal Tin Of The Swamps,346.00,405.96,369.05,140462.1600,127691.3000,370051.77480000,04/26/2017 @ 12:00:00 AM
-22631,"The Firey, Evilember",The Nulukkhath Spires,28.99,Fog Lavaplatinum Of Life,178.00,560.35,509.41,99742.3000,90674.9800,245619.24947200,04/26/2017 @ 12:00:00 AM
-11957,"Tombreaper, Rouge",Reyny Keep,-3.35,Incubi's Iron Of The Dawn,137.00,174.99,159.08,23973.6300,21793.9600,44234.37573500,04/26/2017 @ 12:00:00 AM
-16020,"Runetomb, Song",The Fortress of Asmamur,-2.66,Starsmoke Bronze Of Life,300.00,-438.00,420.81,-131400.0000,126243.0000,-5019.82380000,04/26/2017 @ 12:00:00 AM
-720,"The Grasping, Nailpiston",Arcanist's Farthing,29.00,Yellow Mistearth Copper,191.00,3587.00,238.00,685117.0000,45458.0000,942441.75000000,04/26/2017 @ 12:00:00 AM
-28449,"Gust, Shadow",The Bastion of the Vampire Duke,45.86,Undeads' Mind Orichalcum Of The Twilight,390.00,1169.00,364.69,455910.0000,142229.1000,872445.69126000,04/26/2017 @ 12:00:00 AM
-28939,"Lord of Plague, Alas",The Nulukkhath Spires,28.99,Hidden Shadowice Lead,158.00,-16.50,-16.50,-2607.0000,-2607.0000,-6725.53860000,04/26/2017 @ 12:00:00 AM
-16948,"Gust, Shadow",Gena's Hold,5.85,Golems' Stonesapphire Gold Of The Glacier,280.00,176.00,160.00,49280.0000,44800.0000,99583.68000000,04/26/2017 @ 12:00:00 AM
-3198,"Darkzealot, Dawn",The Archer and Scroll,45.16,Unknowable Mindsilver,184.00,34.00,159.00,6256.0000,29256.0000,51549.21920000,04/26/2017 @ 12:00:00 AM
-27913,Ironbrood,The Bastion of Gothmog of Udun,-2.42,Vampires' Hammer Emeraldmetal,263.00,93.70,85.18,24643.1000,22402.3400,45906.94035200,04/26/2017 @ 12:00:00 AM
-2066,"God of Fate, Uriel",The Archer and Blade,15.00,Foul Ice Bronze Of Life,217.00,-378.00,242.00,-82026.0000,52514.0000,-33938.80000000,04/26/2017 @ 12:00:00 AM
-12185,"The Terrifying, Deathspike",Love Keep,40.56,Incubi's Iron Of The Dawn,142.00,174.99,159.08,24848.5800,22589.3600,66678.76846400,04/26/2017 @ 12:00:00 AM
+36677,"Veil, Bane",The Fen of the Necromancer,32.21,Ensorceled Sandmetal Of Spirits,234.00,85.18,93.70,19932.1200,21925.8000,55340.35603200,04/26/1947 @ 12:00:00 AM
+34226,"Knightseraph, Lance",Barad Cune,49.21,Warlocks' Timerot Mithril,176.00,194.65,194.65,34258.4000,34258.4000,102233.91728000,04/26/1947 @ 12:00:00 AM
+24979,"The Blade, Scarefear",The Forsaken Sepulcher of Sorrows,31.36,Foul Ice Bronze Of Life,81.00,292.82,266.20,23718.4200,21562.2000,59480.62243200,04/26/1947 @ 12:00:00 AM
+23757,"The Skeletal, Spiketerror",Fellfen Keep,38.00,Phantasmal Tin Of The Swamps,346.00,405.96,369.05,140462.1600,127691.3000,370051.77480000,04/26/1947 @ 12:00:00 AM
+22631,"The Firey, Evilember",The Nulukkhath Spires,28.99,Fog Lavaplatinum Of Life,178.00,560.35,509.41,99742.3000,90674.9800,245619.24947200,04/26/1947 @ 12:00:00 AM
+11957,"Tombreaper, Rouge",Reyny Keep,-3.35,Incubi's Iron Of The Dawn,137.00,174.99,159.08,23973.6300,21793.9600,44234.37573500,04/26/1947 @ 12:00:00 AM
+16020,"Runetomb, Song",The Fortress of Asmamur,-2.66,Starsmoke Bronze Of Life,300.00,-438.00,420.81,-131400.0000,126243.0000,-5019.82380000,04/26/1947 @ 12:00:00 AM
+720,"The Grasping, Nailpiston",Arcanist's Farthing,29.00,Yellow Mistearth Copper,191.00,3587.00,238.00,685117.0000,45458.0000,942441.75000000,04/26/1947 @ 12:00:00 AM
+28449,"Gust, Shadow",The Bastion of the Vampire Duke,45.86,Undeads' Mind Orichalcum Of The Twilight,390.00,1169.00,364.69,455910.0000,142229.1000,872445.69126000,04/26/1947 @ 12:00:00 AM
+28939,"Lord of Plague, Alas",The Nulukkhath Spires,28.99,Hidden Shadowice Lead,158.00,-16.50,-16.50,-2607.0000,-2607.0000,-6725.53860000,04/26/1977 @ 12:00:00 AM
+16948,"Gust, Shadow",Gena's Hold,5.85,Golems' Stonesapphire Gold Of The Glacier,280.00,176.00,160.00,49280.0000,44800.0000,99583.68000000,04/26/1947 @ 12:00:00 AM
+3198,"Darkzealot, Dawn",The Archer and Scroll,45.16,Unknowable Mindsilver,184.00,34.00,159.00,6256.0000,29256.0000,51549.21920000,04/26/1947 @ 12:00:00 AM
+27913,Ironbrood,The Bastion of Gothmog of Udun,-2.42,Vampires' Hammer Emeraldmetal,263.00,93.70,85.18,24643.1000,22402.3400,45906.94035200,04/26/1947 @ 12:00:00 AM
+2066,"God of Fate, Uriel",The Archer and Blade,15.00,Foul Ice Bronze Of Life,217.00,-378.00,242.00,-82026.0000,52514.0000,-33938.80000000,04/26/1947 @ 12:00:00 AM
+12185,"The Terrifying, Deathspike",Love Keep,40.56,Incubi's Iron Of The Dawn,142.00,174.99,159.08,24848.5800,22589.3600,66678.76846400,04/26/1987 @ 12:00:00 AM

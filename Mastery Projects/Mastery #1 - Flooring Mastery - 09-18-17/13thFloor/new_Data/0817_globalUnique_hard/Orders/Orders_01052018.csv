@@ -1,23 +1,25 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-24411,Emberspawn,The Bastion of Barbos,25.41,Ensorceled Sandmetal Of Spirits,165.00,85.18,77.44,14054.7000,12777.6000,33650.38743000,01/05/2018 @ 12:00:00 AM
-13925,"The Evil, Flameflare",The Broken Arrow,17.60,Mithril Of The Tropics,185.00,251.56,251.56,46538.6000,46538.6000,109458.78720000,01/05/2018 @ 12:00:00 AM
-13942,"Runetomb, Song",Gili's Delve,35.89,Vampires' Hammer Emeraldmetal,232.00,77.44,70.40,17966.0800,16332.8000,46608.74803200,01/05/2018 @ 12:00:00 AM
-11475,Bolttrap,The Fortress of Asmamur,-2.42,Imperial Fate Steel,177.00,419.10,381.00,74180.7000,67437.0000,138190.55166000,01/05/2018 @ 12:00:00 AM
-12990,"Tomblion, Shadow",The Tomb of Hellish Ruin,33.00,Dragons' Poison Glitterflesh Steel Of The North,166.00,742.00,82.50,123172.0000,13695.0000,182033.11000000,01/05/2018 @ 12:00:00 AM
-22413,"Goddess of Thieves, Melcha",The Tower of Sabiesu the Awesome,10.00,Imperial Fate Steel,257.00,419.10,381.00,107708.7000,97917.0000,226188.27000000,01/05/2018 @ 12:00:00 AM
-11881,"Goddess of Thieves, Melcha",Grori's Deep,27.50,Fairies' Supreme Mistsmoke Lead Of The Future,280.00,2622.69,454.30,734353.2000,127204.0000,1098485.43000000,01/05/2018 @ 12:00:00 AM
-34609,"Felldrake, Magus",Barad Kesa,6.17,Grayplatinum,353.00,2548.00,115.43,899444.0000,40746.7900,998200.56174300,01/05/2018 @ 12:00:00 AM
-19167,"The Evil, Burnchill",Mahyrst Keep,31.30,Golems' Stonesapphire Gold Of The Glacier,247.00,176.00,160.00,43472.0000,39520.0000,108968.49600000,01/05/2018 @ 12:00:00 AM
-20163,"Lionwatcher, Law",Kada's Deep,8.42,Fairies' Supreme Mistsmoke Lead Of The Future,188.00,499.73,499.73,93949.2400,93949.2400,203719.53201600,01/05/2018 @ 12:00:00 AM
-22822,Spikesnare,The Tomb of Hellish Ruin,36.30,Violetdream Iron,203.00,502.13,456.48,101932.3900,92665.4400,265236.84229000,01/05/2018 @ 12:00:00 AM
-33574,Chainhorror,The Archer and Scroll,60.12,Undeads' Mind Orichalcum Of The Twilight,166.00,1169.00,364.69,194054.0000,60538.5400,407653.57504800,01/05/2018 @ 12:00:00 AM
-32341,"Tsunami, Seraphim",Hafeld Keep,47.59,Magicians' Legendary Poison Metal,175.00,-52.81,-48.01,-9241.7500,-8401.7500,-26040.04165000,01/05/2018 @ 12:00:00 AM
-31128,Cinderember,Mahyrst Keep,31.30,Foulopal Copper Of The Skies,207.00,221.83,221.83,45918.8100,45918.8100,120582.79506000,01/05/2018 @ 12:00:00 AM
-29142,"Wind, Maverick",The Citadel of Alammius,32.67,Fleshshock Mercury,225.00,-31.02,-28.20,-6979.5000,-6345.0000,-17677.61415000,01/05/2018 @ 12:00:00 AM
-18504,"God of Protection, Finarfin",The Citadel of Alammius,29.70,Toxic Mistlead Of The Past,209.00,396.06,396.06,82776.5400,82776.5400,214722.34476000,01/05/2018 @ 12:00:00 AM
-29361,"Felldrake, Magus",The Nulukkhath Spires,28.99,Fleshshock Mercury,88.00,-31.02,-28.20,-2729.7600,-2481.6000,-6722.13326400,01/05/2018 @ 12:00:00 AM
-29481,"The Skeletal, Spiketerror",The Citadel of Alammius,32.67,Heavenly Dreamsilver Of The Night,332.00,719.00,314.60,238708.0000,104447.2000,455264.00384000,01/05/2018 @ 12:00:00 AM
-405,Metalbrood,The Flying Witch,5.16,Incubi's Mirrorfog Iron Of The Ocean,253.00,768.03,421.32,194311.5900,106593.9600,316432.27638000,01/05/2018 @ 12:00:00 AM
-17939,"God of Luck, Ariel",The Bastion of the Vampire Duke,37.90,Shadow Metal,328.00,1606.00,298.00,526768.0000,97744.0000,861202.04800000,01/05/2018 @ 12:00:00 AM
-26131,"Angelchild, Harmony",Archfane District,15.29,Fleshshock Mercury,60.00,-31.02,-28.20,-1861.2000,-1692.0000,-4096.48428000,01/05/2018 @ 12:00:00 AM
-13540,Ironbrood,The Lewd King,41.80,Primordial Plague Mercury Of Legend,127.00,73.70,67.00,9359.9000,8509.0000,25338.10020000,01/05/2018 @ 12:00:00 AM
+24411,Emberspawn,The Bastion of Barbos,25.41,Ensorceled Sandmetal Of Spirits,165.00,85.18,77.44,14054.7000,12777.6000,33650.38743000,01/05/2008 @ 12:00:00 AM
+13925,"Flameflare, The Evil",The Broken Arrow,17.60,Mithril Of The Tropics,185.00,251.56,251.56,46538.6000,46538.6000,109458.78720000,01/05/2008 @ 12:00:00 AM
+13942,"Song, Runetomb",Gili's Delve,35.89,Vampires' Hammer Emeraldmetal,232.00,77.44,70.40,17966.0800,16332.8000,46608.74803200,01/05/2008 @ 12:00:00 AM
+11475,Bolttrap,The Fortress of Asmamur,-2.42,Imperial Fate Steel,177.00,419.10,381.00,74180.7000,67437.0000,138190.55166000,01/05/2008 @ 12:00:00 AM
+12990,"Shadow, Tomblion",The Tomb of Hellish Ruin,33.00,Dragons' Poison Glitterflesh Steel Of The North,166.00,742.00,82.50,123172.0000,13695.0000,182033.11000000,01/05/2008 @ 12:00:00 AM
+22413,"Melcha, Goddess of Thieves",The Tower of Sabiesu the Awesome,10.00,Imperial Fate Steel,257.00,419.10,381.00,107708.7000,97917.0000,226188.27000000,01/05/2008 @ 12:00:00 AM
+11881,"Melcha, Goddess of Thieves",Grori's Deep,27.50,Fairies' Supreme Mistsmoke Lead Of The Future,280.00,2622.69,454.30,734353.2000,127204.0000,1098485.43000000,01/05/2008 @ 12:00:00 AM
+34609,"Magus, Felldrake",Barad Kesa,6.17,Grayplatinum,353.00,2548.00,115.43,899444.0000,40746.7900,998200.56174300,01/05/2008 @ 12:00:00 AM
+19167,"Burnchill, The Evil",Mahyrst Keep,31.30,Golems' Stonesapphire Gold Of The Glacier,247.00,176.00,160.00,43472.0000,39520.0000,108968.49600000,01/05/2008 @ 12:00:00 AM
+20163,"Law, Lionwatcher",Kada's Deep,8.42,Fairies' Supreme Mistsmoke Lead Of The Future,188.00,499.73,499.73,93949.2400,93949.2400,203719.53201600,01/05/2008 @ 12:00:00 AM
+22822,Spikesnare,The Tomb of Hellish Ruin,36.30,Violetdream Iron,203.00,502.13,456.48,101932.3900,92665.4400,265236.84229000,01/05/2008 @ 12:00:00 AM
+33574,Chainhorror,The Archer and Scroll,60.12,Undeads' Mind Orichalcum Of The Twilight,166.00,1169.00,364.69,194054.0000,60538.5400,407653.57504800,01/05/2008 @ 12:00:00 AM
+32341,"Seraphim, Tsunami",Hafeld Keep,47.59,Magicians' Legendary Poison Metal,175.00,-52.81,-48.01,-9241.7500,-8401.7500,-26040.04165000,01/05/2018 @ 12:00:00 AM
+31128,Cinderember,Mahyrst Keep,31.30,Foulopal Copper Of The Skies,207.00,221.83,221.83,45918.8100,45918.8100,120582.79506000,01/05/2008 @ 12:00:00 AM
+29142,"Maverick, Wind",The Citadel of Alammius,32.67,Fleshshock Mercury,225.00,-31.02,-28.20,-6979.5000,-6345.0000,-17677.61415000,01/05/2008 @ 12:00:00 AM
+29361,"Magus, Felldrake",The Nulukkhath Spires,28.99,Fleshshock Mercury,88.00,-31.02,-28.20,-2729.7600,-2481.6000,-6722.13326400,01/05/2008 @ 12:00:00 AM
+29481,"Spiketerror, The Skeletal",The Citadel of Alammius,32.67,Heavenly Dreamsilver Of The Night,332.00,719.00,314.60,238708.0000,104447.2000,455264.00384000,01/05/2008 @ 12:00:00 AM
+405,Metalbrood,The Flying Witch,5.16,Incubi's Mirrorfog Iron Of The Ocean,253.00,768.03,421.32,194311.5900,106593.9600,316432.27638000,01/05/2008 @ 12:00:00 AM
+17939,"Ariel, God of Luck",The Bastion of the Vampire Duke,37.90,Shadow Metal,328.00,1606.00,298.00,526768.0000,97744.0000,861202.04800000,01/05/2008 @ 12:00:00 AM
+26131,"Harmony, Angelchild",Archfane District,15.29,Fleshshock Mercury,60.00,-31.02,-28.20,-1861.2000,-1692.0000,-4096.48428000,01/05/2008 @ 12:00:00 AM
+13540,Ironbrood,The Lewd King,41.80,Primordial Plague Mercury Of Legend,127.00,73.70,67.00,9359.9000,8509.0000,25338.10020000,01/05/2008 @ 12:00:00 AM
+13540,"Ironbrood, The Magnificent",The Lewd King,41.80,Lycanthropes' Gold,127.00,449.88,408.98,57134.7600,51940.4600,154668.66196000,09/25/2017 @ 09:31:02 AM
+13540,"Ironbrood, The Magnificent",The Lewd King,41.80,Primordial Plague Mercury Of Legend,127.00,73.70,67.00,9359.9000,8509.0000,25338.10020000,09/25/2017 @ 09:29:55 AM
+13540,"Ironbrood, The 3rd",The Lewd King,41.80,Primordial Plague Mercury Of Legend,127.00,73.70,67.00,9359.9000,8509.0000,25338.10020000,09/25/2017 @ 09:27:09 AM

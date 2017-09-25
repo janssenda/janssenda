@@ -1,26 +1,26 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-35257,"Spiritraven, Bedlam",Bifar's Deep,12.21,Vampires' Fang Emeraldsilver,44.00,2033.69,88.92,89482.3600,3912.4800,104798.34996400,07/17/2017 @ 12:00:00 AM
-23604,"Darkzealot, Dawn",Moor Village,11.32,Shadowhell Mithril,109.00,462.21,420.19,50380.8900,45800.7100,107069.35712000,07/17/2017 @ 12:00:00 AM
-11736,"Rougehate, Rune",The Broken Shield,12.00,Mistgold Of Men,276.00,412.50,375.00,113850.0000,103500.0000,243432.00000000,07/17/2017 @ 12:00:00 AM
-35771,"The Mechanical, Snarepiston",Bifar's Deep,12.21,Lycanthropes' Gold,270.00,449.88,408.98,121467.6000,110424.6000,260206.23762000,07/17/2017 @ 12:00:00 AM
-1785,"Amberslayer, Flora",The Broken Arrow,16.00,Spirits' Living Wordhammer Tin Of The Trees,189.00,3897.55,117.00,736636.9500,22113.0000,880149.94200000,07/17/2017 @ 12:00:00 AM
-23928,"Dawn, Tarot",The Scoundrel and Flask,45.25,Phantasmal Tin Of The Swamps,307.00,405.96,369.05,124629.7200,113298.3500,345590.52167500,07/17/2017 @ 12:00:00 AM
-10761,"Mist, Claw",The Drunken Thief,18.41,Pearl Mirrorice Steel Of Changelings,136.00,2996.00,302.00,407456.0000,41072.0000,531102.00480000,07/17/2017 @ 12:00:00 AM
-32093,Bronzespawn,The Demon and Toad,-1.21,Planar Mudtin Of Trolls,121.00,191.40,174.00,23159.4000,21054.0000,43678.41786000,07/17/2017 @ 12:00:00 AM
-9141,"The Unspeakable, Terrorghoul",Gena's Hold,4.40,Planar Mudtin Of Trolls,128.00,191.40,174.00,24499.2000,22272.0000,48829.13280000,07/17/2017 @ 12:00:00 AM
-21540,"Jackalguard, Gale",Moor Village,11.32,Yellow Mistearth Copper,168.00,287.98,261.80,48380.6400,43982.4000,102818.53612800,07/17/2017 @ 12:00:00 AM
-22961,"The Evil, Snowflame",The Secret Catacombs of Ulfang the Black,31.70,Planar Mudtin Of Trolls,26.00,191.40,174.00,4976.4000,4524.0000,12512.02680000,07/17/2017 @ 12:00:00 AM
-8548,"Godseeker, Cult",The Drunken Thief,18.41,Falserainbow Lead,232.00,872.99,70.18,202533.6800,16281.7600,259099.36250400,07/17/2017 @ 12:00:00 AM
-29346,"Felldrake, Magus",The Nulukkhath Spires,28.99,Heavenly Dreamsilver Of The Night,114.00,719.00,314.60,81966.0000,35864.4000,151989.43296000,07/17/2017 @ 12:00:00 AM
-31636,"Dawn, Tarot",Gifeld Castle,33.01,Grayplatinum,300.00,2548.00,104.94,764400.0000,31482.0000,1058602.64820000,07/17/2017 @ 12:00:00 AM
-20932,"Goddess of Knowledge, Baltha",Moor Village,11.32,Grayplatinum,192.00,2548.00,104.94,489216.0000,20148.4800,567024.53913600,07/17/2017 @ 12:00:00 AM
-28153,Gravebone,The Chuallanto Jungle,11.00,Stone Soulsteel Of The Skies,178.00,453.31,412.10,80689.1800,73353.8000,170987.70780000,07/17/2017 @ 12:00:00 AM
-7563,"Wind, Maverick",Gawold Castle,10.29,Planar Mudtin Of Trolls,80.00,3529.02,174.00,282321.6000,13920.0000,326724.86064000,07/17/2017 @ 12:00:00 AM
-27137,"The Unspeakable, Terrorghoul",The Bastion of Gothmog of Udun,-2.42,Vampires' Hammer Emeraldmetal,105.00,93.70,85.18,9838.5000,8943.9000,18327.86592000,07/17/2017 @ 12:00:00 AM
-15280,"The Terrifying, Deathspike",The Secret Catacombs of Ulfang the Black,28.82,Fleshshock Mercury,242.00,-31.02,-28.20,-7506.8400,-6824.4000,-18461.50336800,07/17/2017 @ 12:00:00 AM
-27235,"Goddess of Knowledge, Baltha",The Pirate's Pipe,16.94,Unknown Fatelightning Steel Of The Glacier,207.00,145.08,159.59,30031.5600,33035.1300,73750.18728600,07/17/2017 @ 12:00:00 AM
-16831,"Goddess of Knowledge, Ahah",The Scoundrel and Flask,45.25,Plague Tin,191.00,465.25,422.95,88862.7500,80783.4500,246411.10550000,07/17/2017 @ 12:00:00 AM
-2145,"The Grasping, Nailpiston",The Pirate's Pipe,15.40,Magicians' Legendary Poison Metal,206.00,-52.81,-48.01,-10878.8600,-9890.0600,-23967.33368000,07/17/2017 @ 12:00:00 AM
-14775,Ironbrood,The Secret Catacombs of Ulfang the Black,28.82,Angels' Adamant,188.00,51.48,46.80,9678.2400,8798.4000,23801.60764800,07/17/2017 @ 12:00:00 AM
-13453,"Goddess of Fate, Azah",Khali's Delve,1.18,Warlocks' Timerot Mithril,55.00,725.00,176.95,39875.0000,9732.2500,50192.61555000,07/17/2017 @ 12:00:00 AM
-12188,"Seeker, Fate",Love Keep,40.56,Foul Ice Bronze Of Life,256.00,292.82,266.20,74961.9200,68147.2000,201154.17907200,07/17/2017 @ 12:00:00 AM
+35257,"Spiritraven, Bedlam",Bifar's Deep,12.21,Vampires' Fang Emeraldsilver,44.00,2033.69,88.92,89482.3600,3912.4800,104798.34996400,07/17/1947 @ 12:00:00 AM
+23604,"Darkzealot, Dawn",Moor Village,11.32,Shadowhell Mithril,109.00,462.21,420.19,50380.8900,45800.7100,107069.35712000,07/17/1947 @ 12:00:00 AM
+11736,"Rougehate, Rune",The Broken Shield,12.00,Mistgold Of Men,276.00,412.50,375.00,113850.0000,103500.0000,243432.00000000,07/17/1947 @ 12:00:00 AM
+35771,"The Mechanical, Snarepiston",Bifar's Deep,12.21,Lycanthropes' Gold,270.00,449.88,408.98,121467.6000,110424.6000,260206.23762000,07/17/1947 @ 12:00:00 AM
+1785,"Amberslayer, Flora",The Broken Arrow,16.00,Spirits' Living Wordhammer Tin Of The Trees,189.00,3897.55,117.00,736636.9500,22113.0000,880149.94200000,07/17/1947 @ 12:00:00 AM
+23928,"Dawn, Tarot",The Scoundrel and Flask,45.25,Phantasmal Tin Of The Swamps,307.00,405.96,369.05,124629.7200,113298.3500,345590.52167500,07/17/1947 @ 12:00:00 AM
+10761,"Mist, Claw",The Drunken Thief,18.41,Pearl Mirrorice Steel Of Changelings,136.00,2996.00,302.00,407456.0000,41072.0000,531102.00480000,07/17/1947 @ 12:00:00 AM
+32093,Bronzespawn,The Demon and Toad,-1.21,Planar Mudtin Of Trolls,121.00,191.40,174.00,23159.4000,21054.0000,43678.41786000,07/17/1947 @ 12:00:00 AM
+9141,"The Unspeakable, Terrorghoul",Gena's Hold,4.40,Planar Mudtin Of Trolls,128.00,191.40,174.00,24499.2000,22272.0000,48829.13280000,07/17/1947 @ 12:00:00 AM
+21540,"Jackalguard, Gale",Moor Village,11.32,Yellow Mistearth Copper,168.00,287.98,261.80,48380.6400,43982.4000,102818.53612800,07/17/1947 @ 12:00:00 AM
+22961,"The Evil, Snowflame",The Secret Catacombs of Ulfang the Black,31.70,Planar Mudtin Of Trolls,26.00,191.40,174.00,4976.4000,4524.0000,12512.02680000,07/17/1947 @ 12:00:00 AM
+8548,"Godseeker, Cult",The Drunken Thief,18.41,Falserainbow Lead,232.00,872.99,70.18,202533.6800,16281.7600,259099.36250400,07/17/1947 @ 12:00:00 AM
+29346,"Felldrake, Magus",The Nulukkhath Spires,28.99,Heavenly Dreamsilver Of The Night,114.00,719.00,314.60,81966.0000,35864.4000,151989.43296000,07/17/1947 @ 12:00:00 AM
+31636,"Dawn, Tarot",Gifeld Castle,33.01,Grayplatinum,300.00,2548.00,104.94,764400.0000,31482.0000,1058602.64820000,07/17/1947 @ 12:00:00 AM
+20932,"Goddess of Knowledge, Baltha",Moor Village,11.32,Grayplatinum,192.00,2548.00,104.94,489216.0000,20148.4800,567024.53913600,07/17/1947 @ 12:00:00 AM
+28153,Gravebone,The Chuallanto Jungle,11.00,Stone Soulsteel Of The Skies,178.00,453.31,412.10,80689.1800,73353.8000,170987.70780000,07/17/1947 @ 12:00:00 AM
+7563,"Wind, Maverick",Gawold Castle,10.29,Planar Mudtin Of Trolls,80.00,3529.02,174.00,282321.6000,13920.0000,326724.86064000,07/17/1947 @ 12:00:00 AM
+27137,"The Unspeakable, Terrorghoul",The Bastion of Gothmog of Udun,-2.42,Vampires' Hammer Emeraldmetal,105.00,93.70,85.18,9838.5000,8943.9000,18327.86592000,07/17/1947 @ 12:00:00 AM
+15280,"The Terrifying, Deathspike",The Secret Catacombs of Ulfang the Black,28.82,Fleshshock Mercury,242.00,-31.02,-28.20,-7506.8400,-6824.4000,-18461.50336800,07/17/1947 @ 12:00:00 AM
+27235,"Goddess of Knowledge, Baltha",The Pirate's Pipe,16.94,Unknown Fatelightning Steel Of The Glacier,207.00,145.08,159.59,30031.5600,33035.1300,73750.18728600,07/17/1947 @ 12:00:00 AM
+16831,"Goddess of Knowledge, Ahah",The Scoundrel and Flask,45.25,Plague Tin,191.00,465.25,422.95,88862.7500,80783.4500,246411.10550000,07/17/1947 @ 12:00:00 AM
+2145,"The Grasping, Nailpiston",The Pirate's Pipe,15.40,Magicians' Legendary Poison Metal,206.00,-52.81,-48.01,-10878.8600,-9890.0600,-23967.33368000,07/17/1947 @ 12:00:00 AM
+14775,Ironbrood,The Secret Catacombs of Ulfang the Black,28.82,Angels' Adamant,188.00,51.48,46.80,9678.2400,8798.4000,23801.60764800,07/17/1947 @ 12:00:00 AM
+13453,"Goddess of Fate, Azah",Khali's Delve,1.18,Warlocks' Timerot Mithril,55.00,725.00,176.95,39875.0000,9732.2500,50192.61555000,07/17/1947 @ 12:00:00 AM
+12188,"Seeker, Fate",Love Keep,40.56,Foul Ice Bronze Of Life,256.00,292.82,266.20,74961.9200,68147.2000,201154.17907200,07/17/1947 @ 12:00:00 AM

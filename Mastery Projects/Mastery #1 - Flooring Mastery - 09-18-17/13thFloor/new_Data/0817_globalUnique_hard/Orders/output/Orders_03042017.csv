@@ -1,26 +1,26 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-3670,"Jester, Seraph",Noble's Village,4.49,Ensorceled Sandmetal Of Spirits,59.00,70.40,64.00,4153.6000,3776.0000,8285.63904000,03/04/2017 @ 12:00:00 AM
-11102,Bronzespawn,North Arcanist's Farthing,2.50,Swordbronze,134.00,333.30,303.00,44662.2000,40602.0000,87395.80500000,03/04/2017 @ 12:00:00 AM
-3954,"Drakecaster, Sephiroth",The Khazahol Crags,20.68,Unknown Fatelightning Steel Of The Glacier,150.00,119.90,109.00,17985.0000,16350.0000,41435.47800000,03/04/2017 @ 12:00:00 AM
-11381,"The Cadaverous, Chainblade",The Fen of the Necromancer,20.00,Shadow Metal,312.00,1606.00,298.00,501072.0000,92976.0000,712857.60000000,03/04/2017 @ 12:00:00 AM
-32222,"Wolf, Jericho",The Bastion of the Lich Tyrant,8.64,Fairies' Supreme Mistsmoke Lead Of The Future,347.00,499.73,549.70,173406.3100,190745.9000,395614.96094400,03/04/2017 @ 12:00:00 AM
-9266,"God of Death, Selik",Barad Kesa,5.10,Primordial Plague Mercury Of Legend,50.00,1150.79,67.00,57539.5000,3350.0000,63994.86450000,03/04/2017 @ 12:00:00 AM
-22900,"Lord of Plague, Alas",Weke Tower,47.19,Planar Mudtin Of Trolls,198.00,191.40,174.00,37897.2000,34452.0000,106490.78748000,03/04/2017 @ 12:00:00 AM
-18154,"Tsunami, Seraphim",Barad Cune,49.21,Spirits' Living Wordhammer Tin Of The Trees,296.00,141.57,128.70,41904.7200,38095.2000,119367.88063200,03/04/2017 @ 12:00:00 AM
-29086,"The Constructed, Snaretool",The Nulukkhath Spires,28.99,Heavenly Dreamsilver Of The Night,246.00,719.00,314.60,176874.0000,77391.6000,327977.19744000,03/04/2017 @ 12:00:00 AM
-9664,"Goddess of Fate, Azah",Archring Borough,29.70,Undeads' Mind Orichalcum Of The Twilight,366.00,1169.00,301.40,427854.0000,110312.4000,698001.82080000,03/04/2017 @ 12:00:00 AM
-33922,"The Grasping, Beamsprocket",The Cuitamba Jungle,46.75,Unicorns' Fatal Magma Metal Of The Ocean,188.00,25.30,27.83,4756.4000,5232.0400,14658.03570000,03/04/2017 @ 12:00:00 AM
-17110,"Wind, Maverick",Gena's Hold,5.85,Plague Tin,227.00,465.25,422.95,105611.7500,96009.6500,213416.25190000,03/04/2017 @ 12:00:00 AM
-8434,"The Disinterred, Spikebrood",The Black Barrow of Bery,19.80,Zephyr Adamant,172.00,481.77,-44.14,82864.4400,-7592.0800,90176.28728000,03/04/2017 @ 12:00:00 AM
-169,"The Chiller, Chillfire",The Dungeon of Merciless Woe,3.61,Unicorns' Fatal Magma Metal Of The Ocean,207.00,903.00,23.00,186921.0000,4761.0000,198601.72020000,03/04/2017 @ 12:00:00 AM
+3670,"Seraph, Jester",Noble's Village,4.49,Ensorceled Sandmetal Of Spirits,59.00,70.40,64.00,4153.6000,3776.0000,8285.63904000,03/04/2017 @ 12:00:00 AM
+11102,Bronzespawn,North Arcanist's Farthing,2.50,Swordbronze,134.00,333.30,303.00,44662.2000,40602.0000,87395.80500000,03/04/2007 @ 12:00:00 AM
+3954,"Sephiroth, Drakecaster",The Khazahol Crags,20.68,Unknown Fatelightning Steel Of The Glacier,150.00,119.90,109.00,17985.0000,16350.0000,41435.47800000,03/04/2007 @ 12:00:00 AM
+11381,"Chainblade, The Cadaverous",The Fen of the Necromancer,20.00,Shadow Metal,312.00,1606.00,298.00,501072.0000,92976.0000,712857.60000000,03/04/2007 @ 12:00:00 AM
+32222,"Jericho, Wolf",The Bastion of the Lich Tyrant,8.64,Fairies' Supreme Mistsmoke Lead Of The Future,347.00,499.73,549.70,173406.3100,190745.9000,395614.96094400,03/04/2007 @ 12:00:00 AM
+9266,"Selik, God of Death",Barad Kesa,5.10,Primordial Plague Mercury Of Legend,50.00,1150.79,67.00,57539.5000,3350.0000,63994.86450000,03/04/2007 @ 12:00:00 AM
+22900,"Alas, Lord of Plague",Weke Tower,47.19,Planar Mudtin Of Trolls,198.00,191.40,174.00,37897.2000,34452.0000,106490.78748000,03/04/2007 @ 12:00:00 AM
+18154,"Seraphim, Tsunami",Barad Cune,49.21,Spirits' Living Wordhammer Tin Of The Trees,296.00,141.57,128.70,41904.7200,38095.2000,119367.88063200,03/04/2007 @ 12:00:00 AM
+29086,"Snaretool, The Constructed",The Nulukkhath Spires,28.99,Heavenly Dreamsilver Of The Night,246.00,719.00,314.60,176874.0000,77391.6000,327977.19744000,03/04/2007 @ 12:00:00 AM
+9664,"Azah, Goddess of Fate",Archring Borough,29.70,Undeads' Mind Orichalcum Of The Twilight,366.00,1169.00,301.40,427854.0000,110312.4000,698001.82080000,03/04/2007 @ 12:00:00 AM
+33922,"Beamsprocket, The Grasping",The Cuitamba Jungle,46.75,Unicorns' Fatal Magma Metal Of The Ocean,188.00,25.30,27.83,4756.4000,5232.0400,14658.03570000,03/04/2007 @ 12:00:00 AM
+17110,"Maverick, Wind",Gena's Hold,5.85,Plague Tin,227.00,465.25,422.95,105611.7500,96009.6500,213416.25190000,03/04/2007 @ 12:00:00 AM
+8434,"Spikebrood, The Disinterred",The Black Barrow of Bery,19.80,Zephyr Adamant,172.00,481.77,-44.14,82864.4400,-7592.0800,90176.28728000,03/04/2007 @ 12:00:00 AM
+169,"Chillfire, The Chiller",The Dungeon of Merciless Woe,3.61,Unicorns' Fatal Magma Metal Of The Ocean,207.00,903.00,23.00,186921.0000,4761.0000,198601.72020000,03/04/2007 @ 12:00:00 AM
 29382,Spikerivet,The Nulukkhath Spires,28.99,Stone Soulsteel Of The Skies,311.00,453.31,412.10,140979.4100,128163.1000,347166.92364900,03/04/2017 @ 12:00:00 AM
-18821,"God of Luck, Ariel",Mahyrst Keep,31.30,Golems' Stonesapphire Gold Of The Glacier,266.00,176.00,160.00,46816.0000,42560.0000,117350.68800000,03/04/2017 @ 12:00:00 AM
-28382,"The Blade, Scarefear",The Fortress of Akkun the Grim,27.03,Stone Soulsteel Of The Skies,209.00,453.31,412.10,94741.7900,86128.9000,229760.03750700,03/04/2017 @ 12:00:00 AM
-29769,"Runetomb, Song",The Tower of Sabiesu the Awesome,10.00,Swordbronze,124.00,403.29,366.63,50007.9600,45462.1200,105017.08800000,03/04/2017 @ 12:00:00 AM
-30969,"Felldrake, Magus",The Nulukkhath Spires,28.99,Ensorceled Sandmetal Of Spirits,270.00,85.18,77.44,22998.6000,20908.8000,56636.15526000,03/04/2017 @ 12:00:00 AM
-15425,"The Chiller, Chillfire",The Tower of Aramum,20.00,Imperial Fate Steel,137.00,419.10,381.00,57416.7000,52197.0000,131536.44000000,03/04/2017 @ 12:00:00 AM
-16943,"The Cremator, Blazeflare",North Arcanist's Farthing,2.75,Incubi's Glittering Tin Of The Future,147.00,192.96,212.26,28365.1200,31202.2200,61205.44185000,03/04/2017 @ 12:00:00 AM
-14618,"Knightseraph, Lance",North Arcanist's Farthing,2.75,Mind Lead,190.00,241.00,219.09,45790.0000,41627.1000,89821.07025000,03/04/2017 @ 12:00:00 AM
-4747,"Roguemist, Rouge",Hartshill Ward,40.29,Fairies' Supreme Mistsmoke Lead Of The Future,290.00,2622.69,413.00,760580.1000,119770.0000,1235043.15529000,03/04/2017 @ 12:00:00 AM
-26791,"Rougehate, Rune",Bifar's Deep,12.21,Heavenly Dreamsilver Of The Night,117.00,719.00,314.60,84123.0000,36808.2000,135696.89952000,03/04/2017 @ 12:00:00 AM
-36136,"God of Resurrection, Gadriel",The Fen of the Necromancer,32.21,Vampires' Hammer Emeraldmetal,35.00,93.70,85.18,3279.5000,2981.3000,8277.40368000,03/04/2017 @ 12:00:00 AM
+18821,"Ariel, God of Luck",Mahyrst Keep,31.30,Golems' Stonesapphire Gold Of The Glacier,266.00,176.00,160.00,46816.0000,42560.0000,117350.68800000,03/04/2007 @ 12:00:00 AM
+28382,"Scarefear, The Blade",The Fortress of Akkun the Grim,27.03,Stone Soulsteel Of The Skies,209.00,453.31,412.10,94741.7900,86128.9000,229760.03750700,03/04/2007 @ 12:00:00 AM
+29769,"Song, Runetomb",The Tower of Sabiesu the Awesome,10.00,Swordbronze,124.00,403.29,366.63,50007.9600,45462.1200,105017.08800000,03/04/2007 @ 12:00:00 AM
+30969,"Magus, Felldrake",The Nulukkhath Spires,28.99,Ensorceled Sandmetal Of Spirits,270.00,85.18,77.44,22998.6000,20908.8000,56636.15526000,03/04/2007 @ 12:00:00 AM
+15425,"Chillfire, The Chiller",The Tower of Aramum,20.00,Imperial Fate Steel,137.00,419.10,381.00,57416.7000,52197.0000,131536.44000000,03/04/2007 @ 12:00:00 AM
+16943,"Blazeflare, The Cremator",North Arcanist's Farthing,2.75,Incubi's Glittering Tin Of The Future,147.00,192.96,212.26,28365.1200,31202.2200,61205.44185000,03/04/2007 @ 12:00:00 AM
+14618,"Lance, Knightseraph",North Arcanist's Farthing,2.75,Mind Lead,190.00,241.00,219.09,45790.0000,41627.1000,89821.07025000,03/04/2007 @ 12:00:00 AM
+4747,"Rouge, Roguemist",Hartshill Ward,40.29,Fairies' Supreme Mistsmoke Lead Of The Future,290.00,2622.69,413.00,760580.1000,119770.0000,1235043.15529000,03/04/2007 @ 12:00:00 AM
+26791,"Rune, Rougehate",Bifar's Deep,12.21,Heavenly Dreamsilver Of The Night,117.00,719.00,314.60,84123.0000,36808.2000,135696.89952000,03/04/2017 @ 12:00:00 AM
+36136,"Gadriel, God of Resurrection",The Fen of the Necromancer,32.21,Vampires' Hammer Emeraldmetal,35.00,93.70,85.18,3279.5000,2981.3000,8277.40368000,03/04/2007 @ 12:00:00 AM

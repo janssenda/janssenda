@@ -1,19 +1,19 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-12703,"Goddess of Travel, Lenwenye",Noble's Village,5.43,God-touched Greengem Platinum,218.00,206.95,206.95,45115.1000,45115.1000,95129.69986000,09/06/2017 @ 12:00:00 AM
-2870,"The Cremator, Blazeflare",The Khazahol Crags,20.68,Emerald Orichalcum,293.00,1957.00,118.01,573401.0000,34576.9300,733707.76592400,09/06/2017 @ 12:00:00 AM
-24915,Bronzespawn,The Bastion of Barbos,25.41,Ensorceled Sandmetal Of Spirits,131.00,85.18,77.44,11158.5800,10144.6400,26716.36820200,09/06/2017 @ 12:00:00 AM
-11666,"Bladewitch, Zeal",The Fortress of the Lich Queen,18.84,Violetdream Iron,351.00,414.98,377.25,145657.9800,132414.7500,330461.63233200,09/06/2017 @ 12:00:00 AM
-35898,"Mist, Claw",Bifar's Deep,12.21,Violetdream Iron,165.00,502.13,502.13,82851.4500,82851.4500,185935.22409000,09/06/2017 @ 12:00:00 AM
-20038,"The Cremator, Blazeflare",Kada's Deep,8.42,Shadow Metal,219.00,1606.00,298.00,351714.0000,65262.0000,452085.37920000,09/06/2017 @ 12:00:00 AM
-22908,"The Evil, Flameflare",The Secret Catacombs of Ulfang the Black,31.70,Fleshshock Mercury,282.00,-31.02,-28.20,-8747.6400,-7952.4000,-21993.95268000,09/06/2017 @ 12:00:00 AM
-21882,"God of Resurrection, Gadriel",Citadel Ward,4.40,Yellow Mistearth Copper,262.00,287.98,261.80,75450.7600,68591.6000,150380.22384000,09/06/2017 @ 12:00:00 AM
-19657,"Lady of Fire, Nelalwe",Mahyrst Keep,31.30,Toxic Mistlead Of The Past,205.00,396.06,396.06,81192.3000,81192.3000,213210.97980000,09/06/2017 @ 12:00:00 AM
-29041,"Spiritraven, Bedlam",The Citadel of Alammius,32.67,Stone Soulsteel Of The Skies,357.00,453.31,412.10,161831.6700,147119.7000,409885.78257900,09/06/2017 @ 12:00:00 AM
-29362,"Amberslayer, Flora",Bifar's Deep,12.21,Fleshshock Mercury,289.00,-31.02,-28.20,-8964.7800,-8149.8000,-19204.27021800,09/06/2017 @ 12:00:00 AM
-28002,"Angelchild, Harmony",Barad Cune,49.21,Stone Soulsteel Of The Skies,150.00,453.31,412.10,67996.5000,61815.0000,193691.73915000,09/06/2017 @ 12:00:00 AM
-15015,"Anchor, Rose",The Secret Shrine of the Gargoyle Count,23.93,Golems' Stonesapphire Gold Of The Glacier,306.00,176.00,160.00,53856.0000,48960.0000,127419.86880000,09/06/2017 @ 12:00:00 AM
-4002,"God of Fate, Uriel",The Fortress of Gama,3.00,Unknown Fatelightning Steel Of The Glacier,204.00,119.90,109.00,24459.6000,22236.0000,48096.46800000,09/06/2017 @ 12:00:00 AM
-4015,"God of War, Ingwenel",The Khazahol Crags,20.68,Mind Lead,215.00,756.00,199.17,162540.0000,42821.5500,247830.31854000,09/06/2017 @ 12:00:00 AM
-28799,"Godwarlock, Sunrise",The Bastion of the Vampire Duke,45.86,Undeads' Mind Orichalcum Of The Twilight,46.00,1169.00,364.69,53774.0000,16775.7400,102903.85076400,09/06/2017 @ 12:00:00 AM
-15757,"Angelchild, Harmony",The Dungeon of Merciless Woe,3.61,Shadowhell Mithril,225.00,462.21,420.19,103997.2500,94542.7500,205707.29400000,09/06/2017 @ 12:00:00 AM
-37160,"The Unspeakable, Scarechain",The Greedy Wench,13.31,Ghouls' Imperial Soulzephyr Mithril Of The Seas,231.00,318.23,318.23,73511.1300,73511.1300,166590.92280600,09/06/2017 @ 12:00:00 AM
+12703,"Lenwenye, Goddess of Travel",Noble's Village,5.43,God-touched Greengem Platinum,218.00,206.95,206.95,45115.1000,45115.1000,95129.69986000,09/06/2007 @ 12:00:00 AM
+2870,"Blazeflare, The Cremator",The Khazahol Crags,20.68,Emerald Orichalcum,293.00,1957.00,118.01,573401.0000,34576.9300,733707.76592400,09/06/2007 @ 12:00:00 AM
+24915,Bronzespawn,The Bastion of Barbos,25.41,Ensorceled Sandmetal Of Spirits,131.00,85.18,77.44,11158.5800,10144.6400,26716.36820200,09/06/2007 @ 12:00:00 AM
+11666,"Zeal, Bladewitch",The Fortress of the Lich Queen,18.84,Violetdream Iron,351.00,414.98,377.25,145657.9800,132414.7500,330461.63233200,09/06/2007 @ 12:00:00 AM
+35898,"Claw, Mist",Bifar's Deep,12.21,Violetdream Iron,165.00,502.13,502.13,82851.4500,82851.4500,185935.22409000,09/06/2007 @ 12:00:00 AM
+20038,"Blazeflare, The Cremator",Kada's Deep,8.42,Shadow Metal,219.00,1606.00,298.00,351714.0000,65262.0000,452085.37920000,09/06/2007 @ 12:00:00 AM
+22908,"Flameflare, The Evil",The Secret Catacombs of Ulfang the Black,31.70,Fleshshock Mercury,282.00,-31.02,-28.20,-8747.6400,-7952.4000,-21993.95268000,09/06/2007 @ 12:00:00 AM
+21882,"Gadriel, God of Resurrection",Citadel Ward,4.40,Yellow Mistearth Copper,262.00,287.98,261.80,75450.7600,68591.6000,150380.22384000,09/06/2007 @ 12:00:00 AM
+19657,"Nelalwe, Lady of Fire",Mahyrst Keep,31.30,Toxic Mistlead Of The Past,205.00,396.06,396.06,81192.3000,81192.3000,213210.97980000,09/06/2007 @ 12:00:00 AM
+29041,"Bedlam, Spiritraven",The Citadel of Alammius,32.67,Stone Soulsteel Of The Skies,357.00,453.31,412.10,161831.6700,147119.7000,409885.78257900,09/06/2007 @ 12:00:00 AM
+29362,"Flora, Amberslayer",Bifar's Deep,12.21,Fleshshock Mercury,289.00,-31.02,-28.20,-8964.7800,-8149.8000,-19204.27021800,09/06/2007 @ 12:00:00 AM
+28002,"Harmony, Angelchild",Barad Cune,49.21,Stone Soulsteel Of The Skies,150.00,453.31,412.10,67996.5000,61815.0000,193691.73915000,09/06/2007 @ 12:00:00 AM
+15015,"Rose, Anchor",The Secret Shrine of the Gargoyle Count,23.93,Golems' Stonesapphire Gold Of The Glacier,306.00,176.00,160.00,53856.0000,48960.0000,127419.86880000,09/06/2007 @ 12:00:00 AM
+4002,"Uriel, God of Fate",The Fortress of Gama,3.00,Unknown Fatelightning Steel Of The Glacier,204.00,119.90,109.00,24459.6000,22236.0000,48096.46800000,09/06/2007 @ 12:00:00 AM
+4015,"Ingwenel, God of War",The Khazahol Crags,20.68,Mind Lead,215.00,756.00,199.17,162540.0000,42821.5500,247830.31854000,09/06/2007 @ 12:00:00 AM
+28799,"Sunrise, Godwarlock",The Bastion of the Vampire Duke,45.86,Undeads' Mind Orichalcum Of The Twilight,46.00,1169.00,364.69,53774.0000,16775.7400,102903.85076400,09/06/2007 @ 12:00:00 AM
+15757,"Harmony, Angelchild",The Dungeon of Merciless Woe,3.61,Shadowhell Mithril,225.00,462.21,420.19,103997.2500,94542.7500,205707.29400000,09/06/2007 @ 12:00:00 AM
+37160,"Scarechain, The Unspeakable",The Greedy Wench,13.31,Ghouls' Imperial Soulzephyr Mithril Of The Seas,231.00,318.23,318.23,73511.1300,73511.1300,166590.92280600,09/06/2007 @ 12:00:00 AM

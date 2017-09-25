@@ -1,17 +1,17 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-25770,"Drakecaster, Sephiroth",Moor Village,11.32,Starsmoke Bronze Of Life,342.00,-438.00,420.81,-149796.0000,143917.0200,-6544.48053600,09/17/2018 @ 12:00:00 AM
-34562,"The Cadaverous, Chainblade",The Bastion of the Vampire Duke,45.86,Sprites' Transcendent Mud Lead Of The South,152.00,3338.65,267.08,507474.8000,40596.1600,799416.30225600,09/17/2018 @ 12:00:00 AM
-23943,"Lord of the Sun, Maglioneth",The Scoundrel and Flask,45.25,Tritons' Time Stoneiron Of Legend,207.00,341.59,375.75,70709.1300,77780.2500,215680.82445000,09/17/2018 @ 12:00:00 AM
-34747,"Goddess of Law, Eumyan",The Bastion of the Vampire Duke,45.86,Ghouls' Imperial Soulzephyr Mithril Of The Seas,295.00,318.23,318.23,93877.8500,93877.8500,273860.46402000,09/17/2018 @ 12:00:00 AM
-33552,"Goddess of Travel, Lenwenye",Pewold Keep,29.00,Undeads' Mind Orichalcum Of The Twilight,160.00,1169.00,364.69,187040.0000,58350.4000,316553.61600000,09/17/2018 @ 12:00:00 AM
-31230,"Seeker, Fate",Weke Tower,47.19,Pearl Mirrorice Steel Of Changelings,230.00,365.42,365.42,84046.6000,84046.6000,247416.38108000,09/17/2018 @ 12:00:00 AM
-31507,"The Chiller, Chillfire",The Demon and Toad,-1.21,Pearl Mirrorice Steel Of Changelings,63.00,365.42,365.42,23021.4600,23021.4600,45485.80066800,09/17/2018 @ 12:00:00 AM
-6110,"Runetomb, Song",The Bastion of the Vampire Duke,34.45,Undeads' Mind Orichalcum Of The Twilight,70.00,1169.00,301.40,81830.0000,21098.0000,138386.69600000,09/17/2018 @ 12:00:00 AM
-30420,Chainhorror,The Tower of Sabiesu the Awesome,10.00,Swordbronze,217.00,403.29,366.63,87513.9300,79558.7100,183779.90400000,09/17/2018 @ 12:00:00 AM
-8832,"Knightclaw, Sunset",The Tomb of Hellish Ruin,33.00,Meteoric Mirrormuck Orichalcum Of The Forests,72.00,491.62,368.50,35396.6400,26532.0000,82365.09120000,09/17/2018 @ 12:00:00 AM
-28433,"The Machine, Evilcoil",Barad Cune,49.21,Stone Soulsteel Of The Skies,319.00,453.31,412.10,144605.8900,131459.9000,411917.76525900,09/17/2018 @ 12:00:00 AM
-29758,"God of Protection, Finarfin",The Greedy Wench,13.31,Swordbronze,214.00,403.29,366.63,86304.0600,78458.8200,186692.81932800,09/17/2018 @ 12:00:00 AM
-30861,"The Unspeakable, Scarechain",The Fortress of Akkun the Grim,27.03,Ensorceled Sandmetal Of Spirits,136.00,85.18,77.44,11584.4800,10531.8400,28094.36129600,09/17/2018 @ 12:00:00 AM
-30835,"Goddess of Knowledge, Baltha",The Broken Arrow,17.60,Foulopal Copper Of The Skies,160.00,221.83,221.83,35492.8000,35492.8000,83479.06560000,09/17/2018 @ 12:00:00 AM
-25426,"Lord of Death, Addon",Gili's Delve,35.89,Planar Mudtin Of Trolls,167.00,191.40,174.00,31963.8000,29058.0000,82922.52402000,09/17/2018 @ 12:00:00 AM
-13554,"Godwarlock, Sunrise",Kada's Deep,8.42,Magicians' Legendary Poison Metal,148.00,-52.81,-48.01,-7815.8800,-7105.4800,-16177.73851200,09/17/2018 @ 12:00:00 AM
+25770,"Sephiroth, Drakecaster",Moor Village,11.32,Starsmoke Bronze Of Life,342.00,-438.00,420.81,-149796.0000,143917.0200,-6544.48053600,09/17/2008 @ 12:00:00 AM
+34562,"Chainblade, The Cadaverous",The Bastion of the Vampire Duke,45.86,Sprites' Transcendent Mud Lead Of The South,152.00,3338.65,267.08,507474.8000,40596.1600,799416.30225600,09/17/2008 @ 12:00:00 AM
+23943,"Maglioneth, Lord of the Sun",The Scoundrel and Flask,45.25,Tritons' Time Stoneiron Of Legend,207.00,341.59,375.75,70709.1300,77780.2500,215680.82445000,09/17/2008 @ 12:00:00 AM
+34747,"Eumyan, Goddess of Law",The Bastion of the Vampire Duke,45.86,Ghouls' Imperial Soulzephyr Mithril Of The Seas,295.00,318.23,318.23,93877.8500,93877.8500,273860.46402000,09/17/2008 @ 12:00:00 AM
+33552,"Lenwenye, Goddess of Travel",Pewold Keep,29.00,Undeads' Mind Orichalcum Of The Twilight,160.00,1169.00,364.69,187040.0000,58350.4000,316553.61600000,09/17/2008 @ 12:00:00 AM
+31230,"Fate, Seeker",Weke Tower,47.19,Pearl Mirrorice Steel Of Changelings,230.00,365.42,365.42,84046.6000,84046.6000,247416.38108000,09/17/2008 @ 12:00:00 AM
+31507,"Chillfire, The Chiller",The Demon and Toad,-1.21,Pearl Mirrorice Steel Of Changelings,63.00,365.42,365.42,23021.4600,23021.4600,45485.80066800,09/17/2008 @ 12:00:00 AM
+6110,"Song, Runetomb",The Bastion of the Vampire Duke,34.45,Undeads' Mind Orichalcum Of The Twilight,70.00,1169.00,301.40,81830.0000,21098.0000,138386.69600000,09/17/2008 @ 12:00:00 AM
+30420,Chainhorror,The Tower of Sabiesu the Awesome,10.00,Swordbronze,217.00,403.29,366.63,87513.9300,79558.7100,183779.90400000,09/17/2008 @ 12:00:00 AM
+8832,"Sunset, Knightclaw",The Tomb of Hellish Ruin,33.00,Meteoric Mirrormuck Orichalcum Of The Forests,72.00,491.62,368.50,35396.6400,26532.0000,82365.09120000,09/17/2008 @ 12:00:00 AM
+28433,"Evilcoil, The Machine",Barad Cune,49.21,Stone Soulsteel Of The Skies,319.00,453.31,412.10,144605.8900,131459.9000,411917.76525900,09/17/2008 @ 12:00:00 AM
+29758,"Finarfin, God of Protection",The Greedy Wench,13.31,Swordbronze,214.00,403.29,366.63,86304.0600,78458.8200,186692.81932800,09/17/2008 @ 12:00:00 AM
+30861,"Scarechain, The Unspeakable",The Fortress of Akkun the Grim,27.03,Ensorceled Sandmetal Of Spirits,136.00,85.18,77.44,11584.4800,10531.8400,28094.36129600,09/17/2008 @ 12:00:00 AM
+30835,"Baltha, Goddess of Knowledge",The Broken Arrow,17.60,Foulopal Copper Of The Skies,160.00,221.83,221.83,35492.8000,35492.8000,83479.06560000,09/17/2008 @ 12:00:00 AM
+25426,"Addon, Lord of Death",Gili's Delve,35.89,Planar Mudtin Of Trolls,167.00,191.40,174.00,31963.8000,29058.0000,82922.52402000,09/17/2008 @ 12:00:00 AM
+13554,"Sunrise, Godwarlock",Kada's Deep,8.42,Magicians' Legendary Poison Metal,148.00,-52.81,-48.01,-7815.8800,-7105.4800,-16177.73851200,09/17/2008 @ 12:00:00 AM

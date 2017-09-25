@@ -1,19 +1,19 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-2344,"The Chiller, Chillfire",The Pirate's Pipe,15.40,Spirits' Living Wordhammer Tin Of The Trees,103.00,3897.55,117.00,401447.6500,12051.0000,477177.44210000,04/10/2017 @ 12:00:00 AM
-24323,Ironbrood,Eved Castle,30.80,Foul Ice Bronze Of Life,195.00,292.82,266.20,57099.9000,51909.0000,142583.64120000,04/10/2017 @ 12:00:00 AM
-11359,"Seeker, Fate",The Broken Shield,12.00,Pearl Mirrorice Steel Of Changelings,189.00,2996.00,302.00,566244.0000,57078.0000,698120.64000000,04/10/2017 @ 12:00:00 AM
-23303,"Roguemist, Rouge",Reheath Stronghold,39.60,Tritons' Time Stoneiron Of Legend,252.00,341.59,341.59,86080.6800,86080.6800,240337.25856000,04/10/2017 @ 12:00:00 AM
-1355,"Goddess of Thieves, Melcha",The Archer and Blade,15.00,Ghostly Magic Adamant,162.00,49.50,45.00,8019.0000,7290.0000,17605.35000000,04/10/2017 @ 12:00:00 AM
-12818,"Darkzealot, Dawn",Gili's Delve,35.89,Foulopal Copper Of The Skies,206.00,201.66,201.66,41541.9600,41541.9600,112902.73888800,04/10/2017 @ 12:00:00 AM
-22310,"Lady of Fire, Nelalwe",The Tower of Sabiesu the Awesome,10.00,Fleshshock Mercury,319.00,-31.02,-28.20,-9895.3800,-8995.8000,-20780.29800000,04/10/2017 @ 12:00:00 AM
-11953,"Tomblion, Shadow",Gifeld Castle,27.28,Foul Ice Bronze Of Life,189.00,292.82,266.20,55342.9800,50311.8000,134477.40398400,04/10/2017 @ 12:00:00 AM
-32359,"Gust, Shadow",Hafeld Keep,47.59,Unspeakable Rotsoul Mithril Of Souls,274.00,370.26,336.60,101451.2400,92228.4000,285851.78067600,04/10/2017 @ 12:00:00 AM
-18289,"The Disinterred, Spikebrood",The Khazahol Crags,22.75,Lycanthropes' Gold,321.00,371.80,338.00,119347.8000,108498.0000,279680.71950000,04/10/2017 @ 12:00:00 AM
-17100,"The Frigid, Icechill",Gena's Hold,5.85,Warlocks' Timerot Mithril,225.00,725.00,176.95,163125.0000,39813.7500,214810.66687500,04/10/2017 @ 12:00:00 AM
-16151,"The Grasping, Beamsprocket",The Tower of Aramum,20.00,Vampires' Hammer Emeraldmetal,224.00,77.44,77.44,17346.5600,17346.5600,41631.74400000,04/10/2017 @ 12:00:00 AM
-8911,"Roguemist, Rouge",The Black Barrow of Bery,19.80,Unknowable Mindsilver,144.00,174.90,174.90,25185.6000,25185.6000,60344.69760000,04/10/2017 @ 12:00:00 AM
-30625,"Spiritraven, Bedlam",The Tower of Sabiesu the Awesome,10.00,Ensorceled Sandmetal Of Spirits,253.00,85.18,77.44,21550.5400,19592.3200,45257.14600000,04/10/2017 @ 12:00:00 AM
-16518,"The Living Device, Mecharig",The Pirate's Pipe,16.94,Swordbronze,141.00,333.30,303.00,46995.3000,42723.0000,104916.58002000,04/10/2017 @ 12:00:00 AM
-27400,"Goddess of Fate, Azah",The Pirate's Pipe,16.94,Vampires' Hammer Emeraldmetal,266.00,93.70,85.18,24924.2000,22657.8800,55642.48435200,04/10/2017 @ 12:00:00 AM
-26359,"Goddess of Trickery, Alik",Barad Cune,49.21,Sapphire Mindlead,147.00,-44.77,-49.25,-6581.1900,-7239.7500,-20622.22457400,04/10/2017 @ 12:00:00 AM
-12012,"Seraphheart, Storm",The Tomb of Hellish Ruin,33.00,Fog Lavaplatinum Of Life,279.00,2232.00,509.41,622728.0000,142125.3900,1017255.00870000,04/10/2017 @ 12:00:00 AM
+2344,"The Chiller, Chillfire",The Pirate's Pipe,15.40,Spirits' Living Wordhammer Tin Of The Trees,103.00,3897.55,117.00,401447.6500,12051.0000,477177.44210000,04/10/1947 @ 12:00:00 AM
+24323,Ironbrood,Eved Castle,30.80,Foul Ice Bronze Of Life,195.00,292.82,266.20,57099.9000,51909.0000,142583.64120000,04/10/1947 @ 12:00:00 AM
+11359,"Seeker, Fate",The Broken Shield,12.00,Pearl Mirrorice Steel Of Changelings,189.00,2996.00,302.00,566244.0000,57078.0000,698120.64000000,04/10/1947 @ 12:00:00 AM
+23303,"Roguemist, Rouge",Reheath Stronghold,39.60,Tritons' Time Stoneiron Of Legend,252.00,341.59,341.59,86080.6800,86080.6800,240337.25856000,04/10/1947 @ 12:00:00 AM
+1355,"Goddess of Thieves, Melcha",The Archer and Blade,15.00,Ghostly Magic Adamant,162.00,49.50,45.00,8019.0000,7290.0000,17605.35000000,04/10/1947 @ 12:00:00 AM
+12818,"Darkzealot, Dawn",Gili's Delve,35.89,Foulopal Copper Of The Skies,206.00,201.66,201.66,41541.9600,41541.9600,112902.73888800,04/10/1947 @ 12:00:00 AM
+22310,"Lady of Fire, Nelalwe",The Tower of Sabiesu the Awesome,10.00,Fleshshock Mercury,319.00,-31.02,-28.20,-9895.3800,-8995.8000,-20780.29800000,04/10/1987 @ 12:00:00 AM
+11953,"Tomblion, Shadow",Gifeld Castle,27.28,Foul Ice Bronze Of Life,189.00,292.82,266.20,55342.9800,50311.8000,134477.40398400,04/10/1947 @ 12:00:00 AM
+32359,"Gust, Shadow",Hafeld Keep,47.59,Unspeakable Rotsoul Mithril Of Souls,274.00,370.26,336.60,101451.2400,92228.4000,285851.78067600,04/10/1947 @ 12:00:00 AM
+18289,"The Disinterred, Spikebrood",The Khazahol Crags,22.75,Lycanthropes' Gold,321.00,371.80,338.00,119347.8000,108498.0000,279680.71950000,04/10/1947 @ 12:00:00 AM
+17100,"The Frigid, Icechill",Gena's Hold,5.85,Warlocks' Timerot Mithril,225.00,725.00,176.95,163125.0000,39813.7500,214810.66687500,04/10/1947 @ 12:00:00 AM
+16151,"The Grasping, Beamsprocket",The Tower of Aramum,20.00,Vampires' Hammer Emeraldmetal,224.00,77.44,77.44,17346.5600,17346.5600,41631.74400000,04/10/1947 @ 12:00:00 AM
+8911,"Roguemist, Rouge",The Black Barrow of Bery,19.80,Unknowable Mindsilver,144.00,174.90,174.90,25185.6000,25185.6000,60344.69760000,04/10/1947 @ 12:00:00 AM
+30625,"Spiritraven, Bedlam",The Tower of Sabiesu the Awesome,10.00,Ensorceled Sandmetal Of Spirits,253.00,85.18,77.44,21550.5400,19592.3200,45257.14600000,04/10/1947 @ 12:00:00 AM
+16518,"The Living Device, Mecharig",The Pirate's Pipe,16.94,Swordbronze,141.00,333.30,303.00,46995.3000,42723.0000,104916.58002000,04/10/1947 @ 12:00:00 AM
+27400,"Goddess of Fate, Azah",The Pirate's Pipe,16.94,Vampires' Hammer Emeraldmetal,266.00,93.70,85.18,24924.2000,22657.8800,55642.48435200,04/10/1947 @ 12:00:00 AM
+26359,"Goddess of Trickery, Alik",Barad Cune,49.21,Sapphire Mindlead,147.00,-44.77,-49.25,-6581.1900,-7239.7500,-20622.22457400,04/10/1947 @ 12:00:00 AM
+12012,"Seraphheart, Storm",The Tomb of Hellish Ruin,33.00,Fog Lavaplatinum Of Life,279.00,2232.00,509.41,622728.0000,142125.3900,1017255.00870000,04/10/1947 @ 12:00:00 AM

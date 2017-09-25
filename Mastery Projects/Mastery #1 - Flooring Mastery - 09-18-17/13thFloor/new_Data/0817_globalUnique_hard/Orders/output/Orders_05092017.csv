@@ -1,20 +1,20 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-1271,"Tsunami, Seraphim",Reyny Keep,-3.35,Planar Mudtin Of Trolls,26.00,3529.02,174.00,91754.5200,4524.0000,93053.18958000,05/09/2017 @ 12:00:00 AM
-35458,"God of Fate, Sielach",The Nulukkhath Spires,28.99,Vampires' Fang Emeraldsilver,163.00,2033.69,88.92,331491.4700,14493.9600,446286.60615700,05/09/2017 @ 12:00:00 AM
-34271,"Runetomb, Song",Reheath Stronghold,39.60,Unicorns' Fatal Magma Metal Of The Ocean,324.00,25.30,27.83,8197.2000,9016.9200,24030.91152000,05/09/2017 @ 12:00:00 AM
-11719,"The Evil, Snowflame",The Fortress of the Lich Queen,18.84,Shadow Metal,209.00,1606.00,298.00,335654.0000,62282.0000,472907.14240000,05/09/2017 @ 12:00:00 AM
-33107,"Roguemist, Rouge",Pewold Keep,29.00,Forgotten Mithril,203.00,600.28,545.71,121856.8400,110779.1300,300100.40130000,05/09/2017 @ 12:00:00 AM
-1841,Deathbrood,The Dungeon of Dismal Terror,40.27,Fog Lavaplatinum Of Life,207.00,2232.00,463.10,462024.0000,95861.7000,782546.27139000,05/09/2017 @ 12:00:00 AM
-1889,Cinderflame,The Archer and Blade,15.00,Spirits' Living Wordhammer Tin Of The Trees,246.00,3897.55,117.00,958797.3000,28782.0000,1135716.19500000,05/09/2017 @ 12:00:00 AM
-21734,"Seraphheart, Storm",Citadel Ward,4.40,Starsmoke Bronze Of Life,218.00,-438.00,420.81,-95484.0000,91736.5800,-3912.30648000,05/09/2017 @ 12:00:00 AM
-33793,"Mist, Claw",The Bastion of the Lich Tyrant,8.64,Warlocks' Timerot Mithril,204.00,194.65,194.65,39708.6000,39708.6000,86278.84608000,05/09/2017 @ 12:00:00 AM
-20507,"Mist, Claw",Eved Castle,30.80,Unknowable Mindsilver,205.00,174.90,174.90,35854.5000,35854.5000,93795.37200000,05/09/2017 @ 12:00:00 AM
-31397,"The Firey, Evilember",Hafeld Keep,47.59,Warlocks' Timerot Mithril,101.00,194.65,194.65,19659.6500,19659.6500,58031.35487000,05/09/2017 @ 12:00:00 AM
-27147,"The Horrorific, Evilfear",The Pirate's Pipe,16.94,Sprites' Transcendent Mud Lead Of The South,238.00,3338.65,267.08,794598.7000,63565.0400,1003536.67755600,05/09/2017 @ 12:00:00 AM
-30710,"The Grasping, Nettool",The Broken Arrow,17.60,Witchs' Forbidden Rockrainbow Bronze,174.00,245.63,245.63,42739.6200,42739.6200,100523.58624000,05/09/2017 @ 12:00:00 AM
-6815,"Dire, Wind",The Chuallanto Jungle,10.00,Hidden Shadowice Lead,153.00,3068.90,-15.00,469541.7000,-2295.0000,513971.37000000,05/09/2017 @ 12:00:00 AM
-26259,"The Grasping, Nailpiston",The Dungeon of Merciless Woe,3.97,Fleshshock Mercury,171.00,-31.02,-28.20,-5304.4200,-4822.2000,-10528.64681400,05/09/2017 @ 12:00:00 AM
-5656,Spikerivet,The Bastion of the Vampire Duke,34.45,Unholy Poison Copper Of The Mountains,231.00,4312.00,68.97,996072.0000,15932.0700,1360639.47211500,05/09/2017 @ 12:00:00 AM
-14691,"Dire, Wind",The Fortress of Akkun the Grim,27.03,Mind Lead,188.00,241.00,219.09,45308.0000,41188.9200,109877.03747600,05/09/2017 @ 12:00:00 AM
-26839,Emberspawn,Citadel Ward,4.40,Heavenly Dreamsilver Of The Night,31.00,719.00,314.60,22289.0000,9752.6000,33451.43040000,05/09/2017 @ 12:00:00 AM
-14818,"The Constructed, Snaretool",The Fortress of Akkun the Grim,27.03,Golems' Stonesapphire Gold Of The Glacier,179.00,176.00,160.00,31504.0000,28640.0000,76400.92320000,05/09/2017 @ 12:00:00 AM
+1271,"Seraphim, Tsunami",Reyny Keep,-3.35,Planar Mudtin Of Trolls,26.00,3529.02,174.00,91754.5200,4524.0000,93053.18958000,05/09/2017 @ 12:00:00 AM
+35458,"Sielach, God of Fate",The Nulukkhath Spires,28.99,Vampires' Fang Emeraldsilver,163.00,2033.69,88.92,331491.4700,14493.9600,446286.60615700,05/09/2007 @ 12:00:00 AM
+34271,"Song, Runetomb",Reheath Stronghold,39.60,Unicorns' Fatal Magma Metal Of The Ocean,324.00,25.30,27.83,8197.2000,9016.9200,24030.91152000,05/09/2007 @ 12:00:00 AM
+11719,"Snowflame, The Evil",The Fortress of the Lich Queen,18.84,Shadow Metal,209.00,1606.00,298.00,335654.0000,62282.0000,472907.14240000,05/09/2007 @ 12:00:00 AM
+33107,"Rouge, Roguemist",Pewold Keep,29.00,Forgotten Mithril,203.00,600.28,545.71,121856.8400,110779.1300,300100.40130000,05/09/2007 @ 12:00:00 AM
+1841,Deathbrood,The Dungeon of Dismal Terror,40.27,Fog Lavaplatinum Of Life,207.00,2232.00,463.10,462024.0000,95861.7000,782546.27139000,05/09/2007 @ 12:00:00 AM
+1889,Cinderflame,The Archer and Blade,15.00,Spirits' Living Wordhammer Tin Of The Trees,246.00,3897.55,117.00,958797.3000,28782.0000,1135716.19500000,05/09/2007 @ 12:00:00 AM
+21734,"Storm, Seraphheart",Citadel Ward,4.40,Starsmoke Bronze Of Life,218.00,-438.00,420.81,-95484.0000,91736.5800,-3912.30648000,05/09/2007 @ 12:00:00 AM
+33793,"Claw, Mist",The Bastion of the Lich Tyrant,8.64,Warlocks' Timerot Mithril,204.00,194.65,194.65,39708.6000,39708.6000,86278.84608000,05/09/2007 @ 12:00:00 AM
+20507,"Claw, Mist",Eved Castle,30.80,Unknowable Mindsilver,205.00,174.90,174.90,35854.5000,35854.5000,93795.37200000,05/09/2007 @ 12:00:00 AM
+31397,"Evilember, The Firey",Hafeld Keep,47.59,Warlocks' Timerot Mithril,101.00,194.65,194.65,19659.6500,19659.6500,58031.35487000,05/09/2017 @ 12:00:00 AM
+27147,"Evilfear, The Horrorific",The Pirate's Pipe,16.94,Sprites' Transcendent Mud Lead Of The South,238.00,3338.65,267.08,794598.7000,63565.0400,1003536.67755600,05/09/2007 @ 12:00:00 AM
+30710,"Nettool, The Grasping",The Broken Arrow,17.60,Witchs' Forbidden Rockrainbow Bronze,174.00,245.63,245.63,42739.6200,42739.6200,100523.58624000,05/09/2007 @ 12:00:00 AM
+6815,"Wind, Dire",The Chuallanto Jungle,10.00,Hidden Shadowice Lead,153.00,3068.90,-15.00,469541.7000,-2295.0000,513971.37000000,05/09/2007 @ 12:00:00 AM
+26259,"Nailpiston, The Grasping",The Dungeon of Merciless Woe,3.97,Fleshshock Mercury,171.00,-31.02,-28.20,-5304.4200,-4822.2000,-10528.64681400,05/09/2007 @ 12:00:00 AM
+5656,Spikerivet,The Bastion of the Vampire Duke,34.45,Unholy Poison Copper Of The Mountains,231.00,4312.00,68.97,996072.0000,15932.0700,1360639.47211500,05/09/2007 @ 12:00:00 AM
+14691,"Wind, Dire",The Fortress of Akkun the Grim,27.03,Mind Lead,188.00,241.00,219.09,45308.0000,41188.9200,109877.03747600,05/09/2007 @ 12:00:00 AM
+26839,Emberspawn,Citadel Ward,4.40,Heavenly Dreamsilver Of The Night,31.00,719.00,314.60,22289.0000,9752.6000,33451.43040000,05/09/2007 @ 12:00:00 AM
+14818,"Snaretool, The Constructed",The Fortress of Akkun the Grim,27.03,Golems' Stonesapphire Gold Of The Glacier,179.00,176.00,160.00,31504.0000,28640.0000,76400.92320000,05/09/2007 @ 12:00:00 AM

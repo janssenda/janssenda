@@ -1,24 +1,24 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-13878,"Lord of Animals, Suriel",Gili's Delve,35.89,Djinni's Evil Sandobsidian Steel Of The Future,348.00,140.58,140.58,48921.8400,48921.8400,132959.77675200,10/26/2016 @ 12:00:00 AM
-13950,Freezebrood,Gena's Hold,5.85,Imperial Fate Steel,271.00,419.10,381.00,113576.1000,103251.0000,229511.48535000,10/26/2016 @ 12:00:00 AM
-35452,"Godseeker, Cult",Bifar's Deep,12.21,Violetdream Iron,154.00,502.13,502.13,77328.0200,77328.0200,173539.54248400,10/26/2016 @ 12:00:00 AM
-11694,"The Freezer, Shiverflame",The Fortress of the Lich Queen,18.84,Lycanthropes' Gold,253.00,371.80,338.00,94065.4000,85514.0000,213412.15896000,10/26/2016 @ 12:00:00 AM
-23858,"Spiritraven, Bedlam",Fellfen Keep,38.00,Unicorns' Fatal Magma Metal Of The Ocean,220.00,25.30,23.00,5566.0000,5060.0000,14663.88000000,10/26/2016 @ 12:00:00 AM
-21237,"Jackalguard, Gale",Gena's Hold,5.85,Unknowable Mindsilver,279.00,174.90,174.90,48797.1000,48797.1000,103303.46070000,10/26/2016 @ 12:00:00 AM
-19287,"The Evil, Burnchill",Mahyrst Keep,31.30,Grayplatinum,94.00,2548.00,104.94,239512.0000,9864.3600,327431.16068000,10/26/2016 @ 12:00:00 AM
-32198,"Mist, Claw",Hafeld Keep,47.59,Unspeakable Rotsoul Mithril Of Souls,69.00,370.26,336.60,25547.9400,23225.4000,71984.57250600,10/26/2016 @ 12:00:00 AM
-10906,Cinderember,The Secret Shrine of the Gargoyle Count,21.75,Phantasmal Smokezephyr Mercury Of Men,165.00,211.20,192.00,34848.0000,31680.0000,80997.84000000,10/26/2016 @ 12:00:00 AM
-19855,"Knightseraph, Lance",Eved Castle,30.80,Fairies' Supreme Mistsmoke Lead Of The Future,223.00,499.73,499.73,111439.7900,111439.7900,291526.49064000,10/26/2016 @ 12:00:00 AM
-8604,Ironbrood,Archtemple District,37.85,Unknowable Mindsilver,240.00,174.90,174.90,41976.0000,41976.0000,115727.83200000,10/26/2016 @ 12:00:00 AM
-17469,"God of Protection, Finarfin",North Arcanist's Farthing,2.75,Plague Tin,48.00,465.25,422.95,22332.0000,20301.6000,43806.02400000,10/26/2016 @ 12:00:00 AM
-7576,"The Cremator, Blazeflare",The Bastion of Sthasu the Gruesome,40.00,Trolls' Mist Poisonplatinum Of The Twilight,214.00,329.00,400.51,70406.0000,85709.1400,218561.19600000,10/26/2016 @ 12:00:00 AM
-6311,Chainnail,The Wizard's House,20.00,Golems' Stonesapphire Gold Of The Glacier,201.00,589.00,160.00,118389.0000,32160.0000,180658.80000000,10/26/2016 @ 12:00:00 AM
-29677,"Tsunami, Seraphim",The Tower of Sabiesu the Awesome,10.00,Heavenly Dreamsilver Of The Night,94.00,719.00,314.60,67586.0000,29572.4000,106874.24000000,10/26/2016 @ 12:00:00 AM
-7740,"The Machine, Evilcoil",The Forsaken Hive of Galima the Mighty,0.39,Vampires' Hammer Emeraldmetal,160.00,77.44,70.40,12390.4000,11264.0000,23746.65216000,10/26/2016 @ 12:00:00 AM
-6623,Spikecrank,The Chuallanto Jungle,10.00,Hidden Shadowice Lead,175.00,3068.90,-15.00,537057.5000,-2625.0000,587875.75000000,10/26/2016 @ 12:00:00 AM
-26172,"Seraphheart, Storm",North Arcanist's Farthing,3.03,Sapphire Mindlead,274.00,-44.77,-49.25,-12266.9800,-13494.5000,-26542.05284400,10/26/2016 @ 12:00:00 AM
-14265,"Mystery, Lord",The Archer and Scroll,49.68,Imperial Fate Steel,323.00,419.10,381.00,135369.3000,123063.0000,386821.46664000,10/26/2016 @ 12:00:00 AM
-14320,"Godseeker, Cult",Gena's Hold,5.85,Djinni's Evil Sandobsidian Steel Of The Future,269.00,140.58,140.58,37816.0200,37816.0200,80056.51434000,10/26/2016 @ 12:00:00 AM
-13293,"Lady of Vengeance, Zepul",Gili's Delve,35.89,Starsmoke Bronze Of Life,295.00,-438.00,420.81,-129210.0000,124138.9500,-6891.04984500,10/26/2016 @ 12:00:00 AM
-4857,"The Cremator, Blazeflare",The Secret Catacombs of Ulfang the Black,28.82,Poison Adamant,229.00,-7.92,178.20,-1813.6800,40807.8000,50232.22538400,10/26/2016 @ 12:00:00 AM
-3610,"Wolf, Jericho",The Forsaken Sepulcher of Sorrows,28.51,Falserainbow Lead,222.00,872.99,70.18,193803.7800,15579.9600,269079.04427400,10/26/2016 @ 12:00:00 AM
+13878,"Lord of Animals, Suriel",Gili's Delve,35.89,Djinni's Evil Sandobsidian Steel Of The Future,348.00,140.58,140.58,48921.8400,48921.8400,132959.77675200,10/26/1946 @ 12:00:00 AM
+13950,Freezebrood,Gena's Hold,5.85,Imperial Fate Steel,271.00,419.10,381.00,113576.1000,103251.0000,229511.48535000,10/26/1946 @ 12:00:00 AM
+35452,"Godseeker, Cult",Bifar's Deep,12.21,Violetdream Iron,154.00,502.13,502.13,77328.0200,77328.0200,173539.54248400,10/26/1946 @ 12:00:00 AM
+11694,"The Freezer, Shiverflame",The Fortress of the Lich Queen,18.84,Lycanthropes' Gold,253.00,371.80,338.00,94065.4000,85514.0000,213412.15896000,10/26/1946 @ 12:00:00 AM
+23858,"Spiritraven, Bedlam",Fellfen Keep,38.00,Unicorns' Fatal Magma Metal Of The Ocean,220.00,25.30,23.00,5566.0000,5060.0000,14663.88000000,10/26/1946 @ 12:00:00 AM
+21237,"Jackalguard, Gale",Gena's Hold,5.85,Unknowable Mindsilver,279.00,174.90,174.90,48797.1000,48797.1000,103303.46070000,10/26/1946 @ 12:00:00 AM
+19287,"The Evil, Burnchill",Mahyrst Keep,31.30,Grayplatinum,94.00,2548.00,104.94,239512.0000,9864.3600,327431.16068000,10/26/1946 @ 12:00:00 AM
+32198,"Mist, Claw",Hafeld Keep,47.59,Unspeakable Rotsoul Mithril Of Souls,69.00,370.26,336.60,25547.9400,23225.4000,71984.57250600,10/26/1946 @ 12:00:00 AM
+10906,Cinderember,The Secret Shrine of the Gargoyle Count,21.75,Phantasmal Smokezephyr Mercury Of Men,165.00,211.20,192.00,34848.0000,31680.0000,80997.84000000,10/26/1946 @ 12:00:00 AM
+19855,"Knightseraph, Lance",Eved Castle,30.80,Fairies' Supreme Mistsmoke Lead Of The Future,223.00,499.73,499.73,111439.7900,111439.7900,291526.49064000,10/26/1946 @ 12:00:00 AM
+8604,Ironbrood,Archtemple District,37.85,Unknowable Mindsilver,240.00,174.90,174.90,41976.0000,41976.0000,115727.83200000,10/26/1946 @ 12:00:00 AM
+17469,"God of Protection, Finarfin",North Arcanist's Farthing,2.75,Plague Tin,48.00,465.25,422.95,22332.0000,20301.6000,43806.02400000,10/26/1946 @ 12:00:00 AM
+7576,"The Cremator, Blazeflare",The Bastion of Sthasu the Gruesome,40.00,Trolls' Mist Poisonplatinum Of The Twilight,214.00,329.00,400.51,70406.0000,85709.1400,218561.19600000,10/26/1946 @ 12:00:00 AM
+6311,Chainnail,The Wizard's House,20.00,Golems' Stonesapphire Gold Of The Glacier,201.00,589.00,160.00,118389.0000,32160.0000,180658.80000000,10/26/1946 @ 12:00:00 AM
+29677,"Tsunami, Seraphim",The Tower of Sabiesu the Awesome,10.00,Heavenly Dreamsilver Of The Night,94.00,719.00,314.60,67586.0000,29572.4000,106874.24000000,10/26/1946 @ 12:00:00 AM
+7740,"The Machine, Evilcoil",The Forsaken Hive of Galima the Mighty,0.39,Vampires' Hammer Emeraldmetal,160.00,77.44,70.40,12390.4000,11264.0000,23746.65216000,10/26/1986 @ 12:00:00 AM
+6623,Spikecrank,The Chuallanto Jungle,10.00,Hidden Shadowice Lead,175.00,3068.90,-15.00,537057.5000,-2625.0000,587875.75000000,10/26/1946 @ 12:00:00 AM
+26172,"Seraphheart, Storm",North Arcanist's Farthing,3.03,Sapphire Mindlead,274.00,-44.77,-49.25,-12266.9800,-13494.5000,-26542.05284400,10/26/1946 @ 12:00:00 AM
+14265,"Mystery, Lord",The Archer and Scroll,49.68,Imperial Fate Steel,323.00,419.10,381.00,135369.3000,123063.0000,386821.46664000,10/26/1946 @ 12:00:00 AM
+14320,"Godseeker, Cult",Gena's Hold,5.85,Djinni's Evil Sandobsidian Steel Of The Future,269.00,140.58,140.58,37816.0200,37816.0200,80056.51434000,10/26/1946 @ 12:00:00 AM
+13293,"Lady of Vengeance, Zepul",Gili's Delve,35.89,Starsmoke Bronze Of Life,295.00,-438.00,420.81,-129210.0000,124138.9500,-6891.04984500,10/26/1946 @ 12:00:00 AM
+4857,"The Cremator, Blazeflare",The Secret Catacombs of Ulfang the Black,28.82,Poison Adamant,229.00,-7.92,178.20,-1813.6800,40807.8000,50232.22538400,10/26/1946 @ 12:00:00 AM
+3610,"Wolf, Jericho",The Forsaken Sepulcher of Sorrows,28.51,Falserainbow Lead,222.00,872.99,70.18,193803.7800,15579.9600,269079.04427400,10/26/1946 @ 12:00:00 AM

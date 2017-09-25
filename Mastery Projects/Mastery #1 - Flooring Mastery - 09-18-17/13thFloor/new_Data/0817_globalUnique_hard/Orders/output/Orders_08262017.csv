@@ -1,17 +1,17 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-12353,"Mystery, Lord",The Dungeon of Merciless Woe,3.61,Djinni's Evil Sandobsidian Steel Of The Future,261.00,140.58,140.58,36691.3800,36691.3800,76031.87763600,08/26/2017 @ 12:00:00 AM
-24824,Flameshiver,Eved Castle,30.80,Foul Ice Bronze Of Life,278.00,292.82,266.20,81403.9600,74003.6000,203273.08848000,08/26/2017 @ 12:00:00 AM
-36911,"Goddess of Knowledge, Ahah",The Fen of the Necromancer,32.21,Ensorceled Sandmetal Of Spirits,167.00,85.18,93.70,14225.0600,15647.9000,39495.04041600,08/26/2017 @ 12:00:00 AM
-23977,"Wolf, Jericho",Bifar's Deep,12.21,Toxic Mistlead Of The Past,166.00,396.06,396.06,65745.9600,65745.9600,147547.08343200,08/26/2017 @ 12:00:00 AM
-21492,"Tsunami, Seraphim",North Arcanist's Farthing,3.03,Yellow Mistearth Copper,198.00,287.98,261.80,57020.0400,51836.4000,112154.79013200,08/26/2017 @ 12:00:00 AM
-21537,"The Freezer, Burnbrood",The Bastion of Gothmog of Udun,-2.42,Witchs' Forbidden Rockrainbow Bronze,147.00,245.63,245.63,36107.6100,36107.6100,70467.61167600,08/26/2017 @ 12:00:00 AM
-32237,Freezebrood,The Chuallanto Jungle,11.00,Magicians' Legendary Poison Metal,251.00,-52.81,-48.01,-13255.3100,-12050.5100,-28089.46020000,08/26/2017 @ 12:00:00 AM
-9205,Springsprocket,Reheath Stronghold,39.60,Unknowable Mindsilver,182.00,174.90,174.90,31831.8000,31831.8000,88874.38560000,08/26/2017 @ 12:00:00 AM
-20685,"Drakecaster, Sephiroth",Mahyrst Keep,31.30,Plague Tin,186.00,465.25,422.95,86536.5000,78668.7000,216914.42760000,08/26/2017 @ 12:00:00 AM
-32963,"Mist, Claw",The Archer and Scroll,60.12,Fairies' Supreme Mistsmoke Lead Of The Future,248.00,499.73,549.70,123933.0400,136325.6000,416726.13436800,08/26/2017 @ 12:00:00 AM
-6156,"Reaper, Dagger",The Warrior and Flagon,9.00,Unholy Poison Copper Of The Mountains,115.00,4312.00,68.97,495880.0000,7931.5500,549154.58950000,08/26/2017 @ 12:00:00 AM
-30884,"The Constructed, Snaretool",The Nulukkhath Spires,28.99,Foulopal Copper Of The Skies,106.00,221.83,221.83,23513.9800,23513.9800,60661.36560400,08/26/2017 @ 12:00:00 AM
-4161,"Drakecaster, Sephiroth",The Cuitamba Jungle,42.50,Mind Lead,329.00,756.00,199.17,248724.0000,65526.9300,447807.57525000,08/26/2017 @ 12:00:00 AM
-4680,"The Cremator, Blazeflare",The Tower of Sabiesu the Awesome,10.00,Sphinxes' Unknown Poisongold Of The Future,341.00,3971.47,14.30,1354271.2700,4876.3000,1495062.32700000,08/26/2017 @ 12:00:00 AM
-25303,Ironbrood,The Pirate's Pipe,16.94,Negative Rockglitter Mercury Of Trolls,26.00,235.59,214.17,6125.3400,5568.4200,13674.68294400,08/26/2017 @ 12:00:00 AM
-26950,"Drakecaster, Sephiroth",Khali's Delve,1.30,Foulopal Copper Of The Skies,183.00,221.83,201.66,40594.8900,36903.7800,78506.15271000,08/26/2017 @ 12:00:00 AM
+12353,"Lord, Mystery",The Dungeon of Merciless Woe,3.61,Djinni's Evil Sandobsidian Steel Of The Future,261.00,140.58,140.58,36691.3800,36691.3800,76031.87763600,08/26/2007 @ 12:00:00 AM
+24824,Flameshiver,Eved Castle,30.80,Foul Ice Bronze Of Life,278.00,292.82,266.20,81403.9600,74003.6000,203273.08848000,08/26/2007 @ 12:00:00 AM
+36911,"Ahah, Goddess of Knowledge",The Fen of the Necromancer,32.21,Ensorceled Sandmetal Of Spirits,167.00,85.18,93.70,14225.0600,15647.9000,39495.04041600,08/26/2007 @ 12:00:00 AM
+23977,"Jericho, Wolf",Bifar's Deep,12.21,Toxic Mistlead Of The Past,166.00,396.06,396.06,65745.9600,65745.9600,147547.08343200,08/26/2007 @ 12:00:00 AM
+21492,"Seraphim, Tsunami",North Arcanist's Farthing,3.03,Yellow Mistearth Copper,198.00,287.98,261.80,57020.0400,51836.4000,112154.79013200,08/26/2007 @ 12:00:00 AM
+21537,"Burnbrood, The Freezer",The Bastion of Gothmog of Udun,-2.42,Witchs' Forbidden Rockrainbow Bronze,147.00,245.63,245.63,36107.6100,36107.6100,70467.61167600,08/26/2007 @ 12:00:00 AM
+32237,Freezebrood,The Chuallanto Jungle,11.00,Magicians' Legendary Poison Metal,251.00,-52.81,-48.01,-13255.3100,-12050.5100,-28089.46020000,08/26/2007 @ 12:00:00 AM
+9205,Springsprocket,Reheath Stronghold,39.60,Unknowable Mindsilver,182.00,174.90,174.90,31831.8000,31831.8000,88874.38560000,08/26/2007 @ 12:00:00 AM
+20685,"Sephiroth, Drakecaster",Mahyrst Keep,31.30,Plague Tin,186.00,465.25,422.95,86536.5000,78668.7000,216914.42760000,08/26/2007 @ 12:00:00 AM
+32963,"Claw, Mist",The Archer and Scroll,60.12,Fairies' Supreme Mistsmoke Lead Of The Future,248.00,499.73,549.70,123933.0400,136325.6000,416726.13436800,08/26/2007 @ 12:00:00 AM
+6156,"Dagger, Reaper",The Warrior and Flagon,9.00,Unholy Poison Copper Of The Mountains,115.00,4312.00,68.97,495880.0000,7931.5500,549154.58950000,08/26/2017 @ 12:00:00 AM
+30884,"Snaretool, The Constructed",The Nulukkhath Spires,28.99,Foulopal Copper Of The Skies,106.00,221.83,221.83,23513.9800,23513.9800,60661.36560400,08/26/2007 @ 12:00:00 AM
+4161,"Sephiroth, Drakecaster",The Cuitamba Jungle,42.50,Mind Lead,329.00,756.00,199.17,248724.0000,65526.9300,447807.57525000,08/26/2007 @ 12:00:00 AM
+4680,"Blazeflare, The Cremator",The Tower of Sabiesu the Awesome,10.00,Sphinxes' Unknown Poisongold Of The Future,341.00,3971.47,14.30,1354271.2700,4876.3000,1495062.32700000,08/26/2007 @ 12:00:00 AM
+25303,Ironbrood,The Pirate's Pipe,16.94,Negative Rockglitter Mercury Of Trolls,26.00,235.59,214.17,6125.3400,5568.4200,13674.68294400,08/26/2007 @ 12:00:00 AM
+26950,"Sephiroth, Drakecaster",Khali's Delve,1.30,Foulopal Copper Of The Skies,183.00,221.83,201.66,40594.8900,36903.7800,78506.15271000,08/26/2007 @ 12:00:00 AM

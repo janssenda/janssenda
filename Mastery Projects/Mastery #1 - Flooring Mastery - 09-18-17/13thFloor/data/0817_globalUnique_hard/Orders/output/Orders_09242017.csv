@@ -1,21 +1,21 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-3677,"Tomblion, Shadow",The Khazahol Crags,20.68,Ensorceled Sandmetal Of Spirits,154.00,70.40,64.00,10841.6000,9856.0000,24977.86368000,09/24/2017 @ 12:00:00 AM
-23073,"God of Fate, Sielach",The Fortress of Akkun the Grim,27.03,Shadowhell Mithril,213.00,462.21,420.19,98450.7300,89500.4700,238754.40936000,09/24/2017 @ 12:00:00 AM
-1155,"Felldrake, Magus",The Bloody Wand,1.98,Falserainbow Lead,170.00,872.99,58.00,148408.3000,9860.0000,161402.01234000,09/24/2017 @ 12:00:00 AM
-37825,"The Unspeakable, Scarechain",The Greedy Wench,13.31,Ghouls' Imperial Soulzephyr Mithril Of The Seas,326.00,318.23,318.23,103742.9800,103742.9800,235102.34127600,09/24/2017 @ 12:00:00 AM
-23318,"Reaper, Dagger",Weke Tower,47.19,Shadowhell Mithril,93.00,462.21,420.19,42985.5300,39077.6700,120788.82408000,09/24/2017 @ 12:00:00 AM
-35227,"Reaper, Dagger",The Fortress of the Lich Queen,22.79,Ghouls' Imperial Soulzephyr Mithril Of The Seas,284.00,318.23,318.23,90377.3200,90377.3200,221948.62245600,09/24/2017 @ 12:00:00 AM
-34087,"Knightseraph, Lance",Mahyrst Keep,31.30,Primordial Plague Mercury Of Legend,308.00,73.70,67.00,22699.6000,20636.0000,56899.64280000,09/24/2017 @ 12:00:00 AM
-21039,Emberfire,Mahyrst Keep,31.30,Sirens' Rockgold,10.00,336.74,336.74,3367.4000,3367.4000,8842.79240000,09/24/2017 @ 12:00:00 AM
-35745,"Jackalguard, Gale",The Fortress of the Lich Queen,22.79,Magicians' Legendary Poison Metal,322.00,-52.81,-48.01,-17004.8200,-15459.2200,-39862.59471600,09/24/2017 @ 12:00:00 AM
-20292,"The Constructed, Snaretool",The Demon and Toad,-1.10,Fairies' Supreme Mistsmoke Lead Of The Future,282.00,499.73,499.73,140923.8600,140923.8600,278747.39508000,09/24/2017 @ 12:00:00 AM
-8275,"Claw, Slayer",Lamp Borough,0.00,Zephyr Adamant,377.00,481.77,-44.14,181627.2900,-16640.7800,164986.51000000,09/24/2017 @ 12:00:00 AM
-18308,"Spiritraven, Bedlam",The Dancing Minstrel,39.62,Unicorns' Fatal Magma Metal Of The Ocean,290.00,25.30,23.00,7337.0000,6670.0000,19556.57340000,09/24/2017 @ 12:00:00 AM
-18470,"Goddess of Fate, Azah",Peley Keep,20.92,Phantasmal Tin Of The Swamps,196.00,3207.64,335.50,628697.4400,65758.0000,839735.51804800,09/24/2017 @ 12:00:00 AM
-32962,"Goddess of the Earth, Gono",The Archer and Scroll,60.12,Mind Lead,94.00,241.00,219.09,22654.0000,20594.4600,69249.43415200,09/24/2017 @ 12:00:00 AM
-28150,"Godwarlock, Sunrise",The Chuallanto Jungle,11.00,Vampires' Fang Emeraldsilver,105.00,2033.69,80.84,213537.4500,8488.2000,246448.47150000,09/24/2017 @ 12:00:00 AM
-7512,Chainhorror,The Forsaken Hive of Galima the Mighty,0.39,Planar Rainfate Mithril,202.00,179.30,163.00,36218.6000,32926.0000,69414.26394000,09/24/2017 @ 12:00:00 AM
-6580,"The Terrifying, Deathspike",The Dismal Marsh,27.00,Violetdream Iron,91.00,414.98,377.25,37763.1800,34329.7500,91558.02110000,09/24/2017 @ 12:00:00 AM
-29912,"Tombreaper, Rouge",The Tower of Sabiesu the Awesome,10.00,White Platinum,291.00,101.02,91.84,29396.8200,26725.4400,61734.48600000,09/24/2017 @ 12:00:00 AM
-17986,"Lord of the Sea, Penur",Bergfison's Deep,16.00,Poison Adamant,123.00,110.96,100.87,13648.0800,12407.0100,30223.90440000,09/24/2017 @ 12:00:00 AM
-3134,"The Cremator, Blazeflare",The Khazahol Crags,20.68,Vampires' Fang Emeraldsilver,118.00,2033.69,80.84,239975.4200,9539.1200,301114.14687200,09/24/2017 @ 12:00:00 AM
+3677,"Tomblion, Shadow",The Khazahol Crags,20.68,Ensorceled Sandmetal Of Spirits,154.00,70.40,64.00,10841.6000,9856.0000,24977.86368000,09/24/1947 @ 12:00:00 AM
+23073,"God of Fate, Sielach",The Fortress of Akkun the Grim,27.03,Shadowhell Mithril,213.00,462.21,420.19,98450.7300,89500.4700,238754.40936000,09/24/1947 @ 12:00:00 AM
+1155,"Felldrake, Magus",The Bloody Wand,1.98,Falserainbow Lead,170.00,872.99,58.00,148408.3000,9860.0000,161402.01234000,09/24/1947 @ 12:00:00 AM
+37825,"The Unspeakable, Scarechain",The Greedy Wench,13.31,Ghouls' Imperial Soulzephyr Mithril Of The Seas,326.00,318.23,318.23,103742.9800,103742.9800,235102.34127600,09/24/1947 @ 12:00:00 AM
+23318,"Reaper, Dagger",Weke Tower,47.19,Shadowhell Mithril,93.00,462.21,420.19,42985.5300,39077.6700,120788.82408000,09/24/1977 @ 12:00:00 AM
+35227,"Reaper, Dagger",The Fortress of the Lich Queen,22.79,Ghouls' Imperial Soulzephyr Mithril Of The Seas,284.00,318.23,318.23,90377.3200,90377.3200,221948.62245600,09/24/1947 @ 12:00:00 AM
+34087,"Knightseraph, Lance",Mahyrst Keep,31.30,Primordial Plague Mercury Of Legend,308.00,73.70,67.00,22699.6000,20636.0000,56899.64280000,09/24/1947 @ 12:00:00 AM
+21039,Emberfire,Mahyrst Keep,31.30,Sirens' Rockgold,10.00,336.74,336.74,3367.4000,3367.4000,8842.79240000,09/24/1947 @ 12:00:00 AM
+35745,"Jackalguard, Gale",The Fortress of the Lich Queen,22.79,Magicians' Legendary Poison Metal,322.00,-52.81,-48.01,-17004.8200,-15459.2200,-39862.59471600,09/24/1947 @ 12:00:00 AM
+20292,"The Constructed, Snaretool",The Demon and Toad,-1.10,Fairies' Supreme Mistsmoke Lead Of The Future,282.00,499.73,499.73,140923.8600,140923.8600,278747.39508000,09/24/1947 @ 12:00:00 AM
+8275,"Claw, Slayer",Lamp Borough,0.00,Zephyr Adamant,377.00,481.77,-44.14,181627.2900,-16640.7800,164986.51000000,09/24/1947 @ 12:00:00 AM
+18308,"Spiritraven, Bedlam",The Dancing Minstrel,39.62,Unicorns' Fatal Magma Metal Of The Ocean,290.00,25.30,23.00,7337.0000,6670.0000,19556.57340000,09/24/1947 @ 12:00:00 AM
+18470,"Goddess of Fate, Azah",Peley Keep,20.92,Phantasmal Tin Of The Swamps,196.00,3207.64,335.50,628697.4400,65758.0000,839735.51804800,09/24/1947 @ 12:00:00 AM
+32962,"Goddess of the Earth, Gono",The Archer and Scroll,60.12,Mind Lead,94.00,241.00,219.09,22654.0000,20594.4600,69249.43415200,09/24/1947 @ 12:00:00 AM
+28150,"Godwarlock, Sunrise",The Chuallanto Jungle,11.00,Vampires' Fang Emeraldsilver,105.00,2033.69,80.84,213537.4500,8488.2000,246448.47150000,09/24/1947 @ 12:00:00 AM
+7512,Chainhorror,The Forsaken Hive of Galima the Mighty,0.39,Planar Rainfate Mithril,202.00,179.30,163.00,36218.6000,32926.0000,69414.26394000,09/24/1947 @ 12:00:00 AM
+6580,"The Terrifying, Deathspike",The Dismal Marsh,27.00,Violetdream Iron,91.00,414.98,377.25,37763.1800,34329.7500,91558.02110000,09/24/1947 @ 12:00:00 AM
+29912,"Tombreaper, Rouge",The Tower of Sabiesu the Awesome,10.00,White Platinum,291.00,101.02,91.84,29396.8200,26725.4400,61734.48600000,09/24/1947 @ 12:00:00 AM
+17986,"Lord of the Sea, Penur",Bergfison's Deep,16.00,Poison Adamant,123.00,110.96,100.87,13648.0800,12407.0100,30223.90440000,09/24/1947 @ 12:00:00 AM
+3134,"The Cremator, Blazeflare",The Khazahol Crags,20.68,Vampires' Fang Emeraldsilver,118.00,2033.69,80.84,239975.4200,9539.1200,301114.14687200,09/24/1947 @ 12:00:00 AM

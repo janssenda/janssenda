@@ -1,16 +1,16 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-11182,"The Horrorific, Evilfear",North Arcanist's Farthing,2.50,Imperial Fate Steel,287.00,419.10,381.00,120281.7000,109347.0000,235369.41750000,06/21/2016 @ 12:00:00 AM
-1419,"God of Death, Selik",The Bastion of the Lich Tyrant,5.36,Foul Ice Bronze Of Life,329.00,-378.00,242.00,-124362.0000,79618.0000,-47142.27840000,06/21/2016 @ 12:00:00 AM
-1491,Graveterror,The Warrior and Flagon,9.00,Ghostly Magic Adamant,235.00,49.50,45.00,11632.5000,10575.0000,24206.17500000,06/21/2016 @ 12:00:00 AM
-34156,"Amberslayer, Flora",Reheath Stronghold,39.60,Swordbronze,55.00,403.29,366.63,22180.9500,20164.6500,59114.45760000,06/21/2016 @ 12:00:00 AM
-1536,"God of Death, Avriel",The Warrior and Flagon,9.00,Ghostly Magic Adamant,251.00,49.50,45.00,12424.5000,11295.0000,25854.25500000,06/21/2016 @ 12:00:00 AM
-21569,"God of Animals, Byzou",Grori's Deep,30.25,Witchs' Forbidden Rockrainbow Bronze,286.00,245.63,245.63,70250.1800,70250.1800,183001.71890000,06/21/2016 @ 12:00:00 AM
-20375,"Lady of Fire, Nelalwe",The Lewd King,45.98,Shadow Metal,102.00,1606.00,298.00,163812.0000,30396.0000,283504.83840000,06/21/2016 @ 12:00:00 AM
-9509,"The Evil, Flameflare",The Dungeon of Dismal Terror,44.30,Forgotten Mithril,165.00,3909.75,496.10,645108.7500,81856.5000,1049010.85575000,06/21/2016 @ 12:00:00 AM
-18380,"Gust, Shadow",The Dancing Minstrel,39.62,Phantasmal Tin Of The Swamps,71.00,3207.64,335.50,227742.4400,23820.5000,351232.17682800,06/21/2016 @ 12:00:00 AM
-29095,"Gust, Shadow",The Nulukkhath Spires,28.99,Hidden Shadowice Lead,109.00,-16.50,-16.50,-1798.5000,-1798.5000,-4639.77030000,06/21/2016 @ 12:00:00 AM
-20764,Cinderflame,Moor Village,11.32,Fairies' Supreme Mistsmoke Lead Of The Future,6.00,499.73,499.73,2998.3800,2998.3800,6675.59323200,06/21/2016 @ 12:00:00 AM
-17235,Cinderember,North Arcanist's Farthing,2.75,Golems' Stonesapphire Gold Of The Glacier,372.00,176.00,160.00,65472.0000,59520.0000,128429.28000000,06/21/2016 @ 12:00:00 AM
-27241,"Lady of Vengeance, Zepul",The Pirate's Pipe,16.94,Unknown Fatelightning Steel Of The Glacier,300.00,145.08,159.59,43524.0000,47877.0000,106884.32940000,06/21/2016 @ 12:00:00 AM
-28512,Metalbrood,Barad Cune,49.21,Negative Rockglitter Mercury Of Trolls,258.00,235.59,214.17,60782.2200,55255.8600,173140.41916800,06/21/2016 @ 12:00:00 AM
-37331,"Goddess of Knowledge, Ahah",The Greedy Wench,13.31,Ghouls' Imperial Soulzephyr Mithril Of The Seas,96.00,318.23,318.23,30550.0800,30550.0800,69232.59129600,06/21/2016 @ 12:00:00 AM
+11182,"The Horrorific, Evilfear",North Arcanist's Farthing,2.50,Imperial Fate Steel,287.00,419.10,381.00,120281.7000,109347.0000,235369.41750000,06/21/1946 @ 12:00:00 AM
+1419,"God of Death, Selik",The Bastion of the Lich Tyrant,5.36,Foul Ice Bronze Of Life,329.00,-378.00,242.00,-124362.0000,79618.0000,-47142.27840000,06/21/1946 @ 12:00:00 AM
+1491,Graveterror,The Warrior and Flagon,9.00,Ghostly Magic Adamant,235.00,49.50,45.00,11632.5000,10575.0000,24206.17500000,06/21/1986 @ 12:00:00 AM
+34156,"Amberslayer, Flora",Reheath Stronghold,39.60,Swordbronze,55.00,403.29,366.63,22180.9500,20164.6500,59114.45760000,06/21/1946 @ 12:00:00 AM
+1536,"God of Death, Avriel",The Warrior and Flagon,9.00,Ghostly Magic Adamant,251.00,49.50,45.00,12424.5000,11295.0000,25854.25500000,06/21/1946 @ 12:00:00 AM
+21569,"God of Animals, Byzou",Grori's Deep,30.25,Witchs' Forbidden Rockrainbow Bronze,286.00,245.63,245.63,70250.1800,70250.1800,183001.71890000,06/21/1946 @ 12:00:00 AM
+20375,"Lady of Fire, Nelalwe",The Lewd King,45.98,Shadow Metal,102.00,1606.00,298.00,163812.0000,30396.0000,283504.83840000,06/21/1946 @ 12:00:00 AM
+9509,"The Evil, Flameflare",The Dungeon of Dismal Terror,44.30,Forgotten Mithril,165.00,3909.75,496.10,645108.7500,81856.5000,1049010.85575000,06/21/1946 @ 12:00:00 AM
+18380,"Gust, Shadow",The Dancing Minstrel,39.62,Phantasmal Tin Of The Swamps,71.00,3207.64,335.50,227742.4400,23820.5000,351232.17682800,06/21/1996 @ 12:00:00 AM
+29095,"Gust, Shadow",The Nulukkhath Spires,28.99,Hidden Shadowice Lead,109.00,-16.50,-16.50,-1798.5000,-1798.5000,-4639.77030000,06/21/1946 @ 12:00:00 AM
+20764,Cinderflame,Moor Village,11.32,Fairies' Supreme Mistsmoke Lead Of The Future,6.00,499.73,499.73,2998.3800,2998.3800,6675.59323200,06/21/1946 @ 12:00:00 AM
+17235,Cinderember,North Arcanist's Farthing,2.75,Golems' Stonesapphire Gold Of The Glacier,372.00,176.00,160.00,65472.0000,59520.0000,128429.28000000,06/21/1946 @ 12:00:00 AM
+27241,"Lady of Vengeance, Zepul",The Pirate's Pipe,16.94,Unknown Fatelightning Steel Of The Glacier,300.00,145.08,159.59,43524.0000,47877.0000,106884.32940000,06/21/1946 @ 12:00:00 AM
+28512,Metalbrood,Barad Cune,49.21,Negative Rockglitter Mercury Of Trolls,258.00,235.59,214.17,60782.2200,55255.8600,173140.41916800,06/21/1946 @ 12:00:00 AM
+37331,"Goddess of Knowledge, Ahah",The Greedy Wench,13.31,Ghouls' Imperial Soulzephyr Mithril Of The Seas,96.00,318.23,318.23,30550.0800,30550.0800,69232.59129600,06/21/1946 @ 12:00:00 AM

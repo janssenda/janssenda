@@ -1,17 +1,17 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-24344,"The Frigid, Icechill",Eved Castle,30.80,Ensorceled Sandmetal Of Spirits,29.00,85.18,77.44,2470.2200,2245.7600,6168.50184000,05/23/2017 @ 12:00:00 AM
-35173,"The Firey, Evilember",Barad Kesa,6.17,Grayplatinum,170.00,2548.00,115.43,433160.0000,19623.1000,480719.81727000,05/23/2017 @ 12:00:00 AM
-11741,"God of Love, Prusu",Love Keep,40.56,Violetdream Iron,283.00,414.98,377.25,117439.3400,106761.7500,315137.05210400,05/23/2017 @ 12:00:00 AM
-22479,"Drakecaster, Sephiroth",Pewold Keep,29.00,Primordial Mud Orichalcum,217.00,1113.00,20.57,241521.0000,4463.6900,317320.25010000,05/23/2017 @ 12:00:00 AM
-23806,"The Horrorific, Evilfear",The Scoundrel and Flask,45.25,Phantasmal Tin Of The Swamps,240.00,405.96,369.05,97430.4000,88572.0000,270168.48600000,05/23/2017 @ 12:00:00 AM
-29097,"The Disinterred, Spikebrood",The Citadel of Alammius,32.67,Stone Soulsteel Of The Skies,109.00,453.31,412.10,49410.7900,44918.9000,125147.19972300,05/23/2017 @ 12:00:00 AM
-28235,"God of Protection, Finarfin",Barad Cune,49.21,Undeads' Mind Orichalcum Of The Twilight,314.00,1169.00,364.69,367066.0000,114512.6600,718563.51858600,05/23/2017 @ 12:00:00 AM
-6255,"The Constructed, Snaretool",Reyny Keep,-3.35,Golems' Stonesapphire Gold Of The Glacier,175.00,589.00,160.00,103075.0000,28000.0000,126683.98750000,05/23/2017 @ 12:00:00 AM
-699,Springcoil,The Dungeon of Merciless Woe,3.61,Stone Soulsteel Of The Skies,283.00,3459.15,340.58,978939.4500,96384.1400,1114142.77159900,05/23/2017 @ 12:00:00 AM
-16337,"God of Love, Prusu",The Bastion of the Lich Tyrant,7.14,Swordbronze,129.00,333.30,303.00,42995.7000,39087.0000,87943.40478000,05/23/2017 @ 12:00:00 AM
-27156,"Bladewitch, Zeal",The Bastion of Gothmog of Udun,-2.42,Unknown Fatelightning Steel Of The Glacier,206.00,145.08,159.59,29886.4800,32875.5400,61243.17911600,05/23/2017 @ 12:00:00 AM
-27216,Emberfire,The Pirate's Pipe,16.94,Unknown Fatelightning Steel Of The Glacier,158.00,145.08,159.59,22922.6400,25215.2200,56292.41348400,05/23/2017 @ 12:00:00 AM
-25091,Spikecrank,Eved Castle,30.80,Foul Ice Bronze Of Life,110.00,292.82,266.20,32210.2000,29282.0000,80431.79760000,05/23/2017 @ 12:00:00 AM
-14397,"Mistmidnight, Tiger",Noble's Village,5.43,Negative Rockglitter Mercury Of Trolls,240.00,3502.00,214.17,840480.0000,51400.8000,940309.92744000,05/23/2017 @ 12:00:00 AM
-14533,"The Cold, Burnfreeze",Noble's Village,5.43,Vampires' Hammer Emeraldmetal,250.00,77.44,70.40,19360.0000,17600.0000,38966.92800000,05/23/2017 @ 12:00:00 AM
-3415,Graveterror,The Fortress of the Lich Queen,17.13,Vampires' Fang Emeraldsilver,186.00,2033.69,80.84,378266.3400,15036.2400,460675.31195400,05/23/2017 @ 12:00:00 AM
+24344,"The Frigid, Icechill",Eved Castle,30.80,Ensorceled Sandmetal Of Spirits,29.00,85.18,77.44,2470.2200,2245.7600,6168.50184000,05/23/1947 @ 12:00:00 AM
+35173,"The Firey, Evilember",Barad Kesa,6.17,Grayplatinum,170.00,2548.00,115.43,433160.0000,19623.1000,480719.81727000,05/23/1947 @ 12:00:00 AM
+11741,"God of Love, Prusu",Love Keep,40.56,Violetdream Iron,283.00,414.98,377.25,117439.3400,106761.7500,315137.05210400,05/23/1947 @ 12:00:00 AM
+22479,"Drakecaster, Sephiroth",Pewold Keep,29.00,Primordial Mud Orichalcum,217.00,1113.00,20.57,241521.0000,4463.6900,317320.25010000,05/23/1947 @ 12:00:00 AM
+23806,"The Horrorific, Evilfear",The Scoundrel and Flask,45.25,Phantasmal Tin Of The Swamps,240.00,405.96,369.05,97430.4000,88572.0000,270168.48600000,05/23/1977 @ 12:00:00 AM
+29097,"The Disinterred, Spikebrood",The Citadel of Alammius,32.67,Stone Soulsteel Of The Skies,109.00,453.31,412.10,49410.7900,44918.9000,125147.19972300,05/23/1947 @ 12:00:00 AM
+28235,"God of Protection, Finarfin",Barad Cune,49.21,Undeads' Mind Orichalcum Of The Twilight,314.00,1169.00,364.69,367066.0000,114512.6600,718563.51858600,05/23/1947 @ 12:00:00 AM
+6255,"The Constructed, Snaretool",Reyny Keep,-3.35,Golems' Stonesapphire Gold Of The Glacier,175.00,589.00,160.00,103075.0000,28000.0000,126683.98750000,05/23/1947 @ 12:00:00 AM
+699,Springcoil,The Dungeon of Merciless Woe,3.61,Stone Soulsteel Of The Skies,283.00,3459.15,340.58,978939.4500,96384.1400,1114142.77159900,05/23/1947 @ 12:00:00 AM
+16337,"God of Love, Prusu",The Bastion of the Lich Tyrant,7.14,Swordbronze,129.00,333.30,303.00,42995.7000,39087.0000,87943.40478000,05/23/1947 @ 12:00:00 AM
+27156,"Bladewitch, Zeal",The Bastion of Gothmog of Udun,-2.42,Unknown Fatelightning Steel Of The Glacier,206.00,145.08,159.59,29886.4800,32875.5400,61243.17911600,05/23/1987 @ 12:00:00 AM
+27216,Emberfire,The Pirate's Pipe,16.94,Unknown Fatelightning Steel Of The Glacier,158.00,145.08,159.59,22922.6400,25215.2200,56292.41348400,05/23/1947 @ 12:00:00 AM
+25091,Spikecrank,Eved Castle,30.80,Foul Ice Bronze Of Life,110.00,292.82,266.20,32210.2000,29282.0000,80431.79760000,05/23/1947 @ 12:00:00 AM
+14397,"Mistmidnight, Tiger",Noble's Village,5.43,Negative Rockglitter Mercury Of Trolls,240.00,3502.00,214.17,840480.0000,51400.8000,940309.92744000,05/23/1947 @ 12:00:00 AM
+14533,"The Cold, Burnfreeze",Noble's Village,5.43,Vampires' Hammer Emeraldmetal,250.00,77.44,70.40,19360.0000,17600.0000,38966.92800000,05/23/1947 @ 12:00:00 AM
+3415,Graveterror,The Fortress of the Lich Queen,17.13,Vampires' Fang Emeraldsilver,186.00,2033.69,80.84,378266.3400,15036.2400,460675.31195400,05/23/1947 @ 12:00:00 AM

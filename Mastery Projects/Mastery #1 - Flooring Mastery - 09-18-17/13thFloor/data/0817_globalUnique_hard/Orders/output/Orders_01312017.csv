@@ -1,18 +1,18 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-35125,"The Grasping, Nettool",Barad Kesa,6.17,Sprites' Transcendent Mud Lead Of The South,315.00,3338.65,267.08,1051674.7500,84130.2000,1205884.11541500,01/31/2017 @ 12:00:00 AM
-2660,"Godseeker, Cult",The Bloody Wand,1.98,Glowpearl Adamant Of Spirits,176.00,-111.88,216.40,-19690.8800,38086.4000,18759.75129600,01/31/2017 @ 12:00:00 AM
-3996,"Mystery, Lord",The Cuitamba Jungle,42.50,Unknown Fatelightning Steel Of The Glacier,216.00,119.90,109.00,25898.4000,23544.0000,70455.42000000,01/31/2017 @ 12:00:00 AM
-11555,Deathbrood,North Arcanist's Farthing,2.50,Pearl Mirrorice Steel Of Changelings,229.00,2996.00,302.00,686084.0000,69158.0000,774123.05000000,01/31/2017 @ 12:00:00 AM
-23808,"The Chiller, Chillfire",The Dungeon of Merciless Woe,3.97,Incubi's Glittering Tin Of The Future,222.00,192.96,212.26,42837.1200,47121.7200,93530.20594800,01/31/2017 @ 12:00:00 AM
-9849,Emberfire,Hartshill Ward,40.29,Timeiron,152.00,3255.00,-16.25,494760.0000,-2470.0000,690633.64100000,01/31/2017 @ 12:00:00 AM
-8626,"The Grasping, Nettool",The Black Barrow of Bery,19.80,Starsmoke Bronze Of Life,139.00,-438.00,420.81,-60882.0000,58492.5900,-2862.51318000,01/31/2017 @ 12:00:00 AM
-30641,"Lady of Vengeance, Zepul",Mahyrst Keep,31.30,Ensorceled Sandmetal Of Spirits,67.00,85.18,77.44,5707.0600,5188.4800,14305.84402000,01/31/2017 @ 12:00:00 AM
-27183,Bronzespawn,The Bastion of Gothmog of Udun,-2.42,Unknown Fatelightning Steel Of The Glacier,153.00,145.08,159.59,22197.2400,24417.2700,45486.43885800,01/31/2017 @ 12:00:00 AM
-17718,"Amberslayer, Flora",The Bastion of the Vampire Duke,37.90,Starsmoke Bronze Of Life,350.00,-438.00,420.81,-153300.0000,147283.5000,-8296.75350000,01/31/2017 @ 12:00:00 AM
-13016,"God of Fate, Sielach",Bifar's Deep,10.09,Vampires' Fang Emeraldsilver,192.00,2033.69,80.84,390468.4800,15521.2800,446954.12678400,01/31/2017 @ 12:00:00 AM
-27808,"Knightseraph, Lance",The Pirate's Pipe,16.94,Vampires' Hammer Emeraldmetal,130.00,93.70,85.18,12181.0000,11073.4000,27193.69536000,01/31/2017 @ 12:00:00 AM
-15935,Bronzespike,The Tower of Aramum,20.00,Starsmoke Bronze Of Life,204.00,-438.00,420.81,-89352.0000,85845.2400,-4208.11200000,01/31/2017 @ 12:00:00 AM
-37450,"Drakecaster, Sephiroth",The Greedy Wench,13.31,Stone Soulsteel Of The Skies,231.00,453.31,453.31,104714.6100,104714.6100,237304.24918200,01/31/2017 @ 12:00:00 AM
-3529,"God of Fate, Sielach",The Cuitamba Jungle,42.50,Ensorceled Sandmetal Of Spirits,215.00,70.40,64.00,15136.0000,13760.0000,41176.80000000,01/31/2017 @ 12:00:00 AM
-12265,Spikecrank,Castle Village,42.98,Fairies' Supreme Mistsmoke Lead Of The Future,179.00,2622.69,454.30,469461.5100,81319.7000,787506.97405800,01/31/2017 @ 12:00:00 AM
-4927,"Wind, Maverick",The Dismal Marsh,27.00,Primordial False Gold,197.00,1383.00,391.27,272451.0000,77080.1900,443904.61130000,01/31/2017 @ 12:00:00 AM
+35125,"The Grasping, Nettool",Barad Kesa,6.17,Sprites' Transcendent Mud Lead Of The South,315.00,3338.65,267.08,1051674.7500,84130.2000,1205884.11541500,01/31/1947 @ 12:00:00 AM
+2660,"Godseeker, Cult",The Bloody Wand,1.98,Glowpearl Adamant Of Spirits,176.00,-111.88,216.40,-19690.8800,38086.4000,18759.75129600,01/31/1947 @ 12:00:00 AM
+3996,"Mystery, Lord",The Cuitamba Jungle,42.50,Unknown Fatelightning Steel Of The Glacier,216.00,119.90,109.00,25898.4000,23544.0000,70455.42000000,01/31/1947 @ 12:00:00 AM
+11555,Deathbrood,North Arcanist's Farthing,2.50,Pearl Mirrorice Steel Of Changelings,229.00,2996.00,302.00,686084.0000,69158.0000,774123.05000000,01/31/1987 @ 12:00:00 AM
+23808,"The Chiller, Chillfire",The Dungeon of Merciless Woe,3.97,Incubi's Glittering Tin Of The Future,222.00,192.96,212.26,42837.1200,47121.7200,93530.20594800,01/31/1947 @ 12:00:00 AM
+9849,Emberfire,Hartshill Ward,40.29,Timeiron,152.00,3255.00,-16.25,494760.0000,-2470.0000,690633.64100000,01/31/1947 @ 12:00:00 AM
+8626,"The Grasping, Nettool",The Black Barrow of Bery,19.80,Starsmoke Bronze Of Life,139.00,-438.00,420.81,-60882.0000,58492.5900,-2862.51318000,01/31/1947 @ 12:00:00 AM
+30641,"Lady of Vengeance, Zepul",Mahyrst Keep,31.30,Ensorceled Sandmetal Of Spirits,67.00,85.18,77.44,5707.0600,5188.4800,14305.84402000,01/31/1947 @ 12:00:00 AM
+27183,Bronzespawn,The Bastion of Gothmog of Udun,-2.42,Unknown Fatelightning Steel Of The Glacier,153.00,145.08,159.59,22197.2400,24417.2700,45486.43885800,01/31/1947 @ 12:00:00 AM
+17718,"Amberslayer, Flora",The Bastion of the Vampire Duke,37.90,Starsmoke Bronze Of Life,350.00,-438.00,420.81,-153300.0000,147283.5000,-8296.75350000,01/31/1947 @ 12:00:00 AM
+13016,"God of Fate, Sielach",Bifar's Deep,10.09,Vampires' Fang Emeraldsilver,192.00,2033.69,80.84,390468.4800,15521.2800,446954.12678400,01/31/1947 @ 12:00:00 AM
+27808,"Knightseraph, Lance",The Pirate's Pipe,16.94,Vampires' Hammer Emeraldmetal,130.00,93.70,85.18,12181.0000,11073.4000,27193.69536000,01/31/1947 @ 12:00:00 AM
+15935,Bronzespike,The Tower of Aramum,20.00,Starsmoke Bronze Of Life,204.00,-438.00,420.81,-89352.0000,85845.2400,-4208.11200000,01/31/1947 @ 12:00:00 AM
+37450,"Drakecaster, Sephiroth",The Greedy Wench,13.31,Stone Soulsteel Of The Skies,231.00,453.31,453.31,104714.6100,104714.6100,237304.24918200,01/31/1947 @ 12:00:00 AM
+3529,"God of Fate, Sielach",The Cuitamba Jungle,42.50,Ensorceled Sandmetal Of Spirits,215.00,70.40,64.00,15136.0000,13760.0000,41176.80000000,01/31/1947 @ 12:00:00 AM
+12265,Spikecrank,Castle Village,42.98,Fairies' Supreme Mistsmoke Lead Of The Future,179.00,2622.69,454.30,469461.5100,81319.7000,787506.97405800,01/31/1947 @ 12:00:00 AM
+4927,"Wind, Maverick",The Dismal Marsh,27.00,Primordial False Gold,197.00,1383.00,391.27,272451.0000,77080.1900,443904.61130000,01/31/1947 @ 12:00:00 AM

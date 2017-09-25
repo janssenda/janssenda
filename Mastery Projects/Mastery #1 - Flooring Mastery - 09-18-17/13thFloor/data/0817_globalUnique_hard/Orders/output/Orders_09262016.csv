@@ -1,20 +1,20 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-35000,"Amberslayer, Flora",Barad Kesa,6.17,Yellow Mistearth Copper,251.00,287.98,261.80,72282.9800,65711.8000,146509.05792600,09/26/2016 @ 12:00:00 AM
-23325,"The Machine, Evilcoil",Moor Village,11.32,Forgotten Mithril,231.00,545.71,496.10,126059.0100,114599.1000,267900.60805200,09/26/2016 @ 12:00:00 AM
-10060,"The Disinterred, Spikebrood",The Dungeon of Dismal Terror,44.30,Forgotten Mithril,161.00,3909.75,496.10,629469.7500,79872.1000,1023580.28955000,09/26/2016 @ 12:00:00 AM
-11561,"Angelchild, Harmony",The Broken Shield,12.00,Phantasmal Lead,209.00,21.92,19.93,4581.2800,4165.3700,9796.24800000,09/26/2016 @ 12:00:00 AM
-11722,"Mistmidnight, Tiger",North Arcanist's Farthing,2.50,Shadow Metal,356.00,1606.00,298.00,571736.0000,106088.0000,694769.60000000,09/26/2016 @ 12:00:00 AM
-31052,"Reaper, Dagger",The Broken Arrow,17.60,Ensorceled Sandmetal Of Spirits,159.00,85.18,77.44,13543.6200,12312.9600,30407.33808000,09/26/2016 @ 12:00:00 AM
-32381,"Ivycaster, Fate",The Bastion of the Lich Tyrant,8.64,Negative Rockglitter Mercury Of Trolls,213.00,235.59,214.17,50180.6700,45618.2100,104075.90323200,09/26/2016 @ 12:00:00 AM
-18060,"Mystery, Lord",The Bastion of the Vampire Duke,37.90,Mithril Of The Tropics,302.00,276.72,251.56,83569.4400,75971.1200,220006.43224000,09/26/2016 @ 12:00:00 AM
-28042,"Mist, Claw",The Bastion of the Vampire Duke,45.86,Undeads' Mind Orichalcum Of The Twilight,180.00,1169.00,364.69,210420.0000,65644.2000,402667.24212000,09/26/2016 @ 12:00:00 AM
-29435,"The Constructed, Snaretool",The Nulukkhath Spires,28.99,Heavenly Dreamsilver Of The Night,266.00,719.00,314.60,191254.0000,83683.6000,354642.01024000,09/26/2016 @ 12:00:00 AM
-6302,"God of Love, Prusu",The Lost Sanctum of Woe,43.20,Glittering Orichalcum,188.00,2056.00,330.00,386528.0000,62040.0000,642349.37600000,09/26/2016 @ 12:00:00 AM
-27242,"God of Death, Selik",The Pirate's Pipe,16.94,Sprites' Transcendent Mud Lead Of The South,299.00,3338.65,267.08,998256.3500,79856.9200,1260745.65793800,09/26/2016 @ 12:00:00 AM
-28696,"Amberslayer, Flora",The Bastion of the Vampire Duke,45.86,Stone Soulsteel Of The Skies,246.00,453.31,412.10,111514.2600,101376.6000,310522.60839600,09/26/2016 @ 12:00:00 AM
-3003,"The Machine, Wheelbolt",The Cracked Chalice,-4.37,Falserainbow Lead,182.00,872.99,70.18,158884.1800,12772.7600,164155.53172200,09/26/2016 @ 12:00:00 AM
-13051,"The Cadaverous, Chainblade",Gili's Delve,35.89,Spirits' Living Wordhammer Tin Of The Trees,222.00,3897.55,128.70,865256.1000,28571.4000,1214622.18975000,09/26/2016 @ 12:00:00 AM
-14709,"The Machine, Evilcoil",The Secret Shrine of the Gargoyle Count,23.93,Golems' Stonesapphire Gold Of The Glacier,140.00,176.00,160.00,24640.0000,22400.0000,58296.67200000,09/26/2016 @ 12:00:00 AM
-14782,"The Blade, Steelterror",The Secret Catacombs of Ulfang the Black,28.82,Angels' Adamant,147.00,51.48,46.80,7567.5600,6879.6000,18610.83151200,09/26/2016 @ 12:00:00 AM
-13644,Ironbrood,Gifeld Castle,30.01,Magicians' Legendary Poison Metal,137.00,-52.81,-48.01,-7234.9700,-6577.3700,-17957.42323400,09/26/2016 @ 12:00:00 AM
-37524,Gravebone,The Greedy Wench,13.31,Ghouls' Imperial Soulzephyr Mithril Of The Seas,38.00,318.23,318.23,12092.7400,12092.7400,27404.56738800,09/26/2016 @ 12:00:00 AM
+35000,"Amberslayer, Flora",Barad Kesa,6.17,Yellow Mistearth Copper,251.00,287.98,261.80,72282.9800,65711.8000,146509.05792600,09/26/1946 @ 12:00:00 AM
+23325,"The Machine, Evilcoil",Moor Village,11.32,Forgotten Mithril,231.00,545.71,496.10,126059.0100,114599.1000,267900.60805200,09/26/1946 @ 12:00:00 AM
+10060,"The Disinterred, Spikebrood",The Dungeon of Dismal Terror,44.30,Forgotten Mithril,161.00,3909.75,496.10,629469.7500,79872.1000,1023580.28955000,09/26/1946 @ 12:00:00 AM
+11561,"Angelchild, Harmony",The Broken Shield,12.00,Phantasmal Lead,209.00,21.92,19.93,4581.2800,4165.3700,9796.24800000,09/26/1946 @ 12:00:00 AM
+11722,"Mistmidnight, Tiger",North Arcanist's Farthing,2.50,Shadow Metal,356.00,1606.00,298.00,571736.0000,106088.0000,694769.60000000,09/26/1946 @ 12:00:00 AM
+31052,"Reaper, Dagger",The Broken Arrow,17.60,Ensorceled Sandmetal Of Spirits,159.00,85.18,77.44,13543.6200,12312.9600,30407.33808000,09/26/1946 @ 12:00:00 AM
+32381,"Ivycaster, Fate",The Bastion of the Lich Tyrant,8.64,Negative Rockglitter Mercury Of Trolls,213.00,235.59,214.17,50180.6700,45618.2100,104075.90323200,09/26/1946 @ 12:00:00 AM
+18060,"Mystery, Lord",The Bastion of the Vampire Duke,37.90,Mithril Of The Tropics,302.00,276.72,251.56,83569.4400,75971.1200,220006.43224000,09/26/1946 @ 12:00:00 AM
+28042,"Mist, Claw",The Bastion of the Vampire Duke,45.86,Undeads' Mind Orichalcum Of The Twilight,180.00,1169.00,364.69,210420.0000,65644.2000,402667.24212000,09/26/1946 @ 12:00:00 AM
+29435,"The Constructed, Snaretool",The Nulukkhath Spires,28.99,Heavenly Dreamsilver Of The Night,266.00,719.00,314.60,191254.0000,83683.6000,354642.01024000,09/26/1946 @ 12:00:00 AM
+6302,"God of Love, Prusu",The Lost Sanctum of Woe,43.20,Glittering Orichalcum,188.00,2056.00,330.00,386528.0000,62040.0000,642349.37600000,09/26/1946 @ 12:00:00 AM
+27242,"God of Death, Selik",The Pirate's Pipe,16.94,Sprites' Transcendent Mud Lead Of The South,299.00,3338.65,267.08,998256.3500,79856.9200,1260745.65793800,09/26/1946 @ 12:00:00 AM
+28696,"Amberslayer, Flora",The Bastion of the Vampire Duke,45.86,Stone Soulsteel Of The Skies,246.00,453.31,412.10,111514.2600,101376.6000,310522.60839600,09/26/1946 @ 12:00:00 AM
+3003,"The Machine, Wheelbolt",The Cracked Chalice,-4.37,Falserainbow Lead,182.00,872.99,70.18,158884.1800,12772.7600,164155.53172200,09/26/1946 @ 12:00:00 AM
+13051,"The Cadaverous, Chainblade",Gili's Delve,35.89,Spirits' Living Wordhammer Tin Of The Trees,222.00,3897.55,128.70,865256.1000,28571.4000,1214622.18975000,09/26/1946 @ 12:00:00 AM
+14709,"The Machine, Evilcoil",The Secret Shrine of the Gargoyle Count,23.93,Golems' Stonesapphire Gold Of The Glacier,140.00,176.00,160.00,24640.0000,22400.0000,58296.67200000,09/26/1976 @ 12:00:00 AM
+14782,"The Blade, Steelterror",The Secret Catacombs of Ulfang the Black,28.82,Angels' Adamant,147.00,51.48,46.80,7567.5600,6879.6000,18610.83151200,09/26/1946 @ 12:00:00 AM
+13644,Ironbrood,Gifeld Castle,30.01,Magicians' Legendary Poison Metal,137.00,-52.81,-48.01,-7234.9700,-6577.3700,-17957.42323400,09/26/1946 @ 12:00:00 AM
+37524,Gravebone,The Greedy Wench,13.31,Ghouls' Imperial Soulzephyr Mithril Of The Seas,38.00,318.23,318.23,12092.7400,12092.7400,27404.56738800,09/26/1946 @ 12:00:00 AM

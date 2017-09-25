@@ -1,18 +1,18 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-2443,"Gust, Shadow",Pewold Keep,29.00,Timeiron,200.00,3255.00,-14.77,651000.0000,-2954.0000,835979.34000000,08/27/2016 @ 12:00:00 AM
-13865,"Wolf, Jericho",Gili's Delve,35.89,Warlocks' Timerot Mithril,178.00,725.00,176.95,129050.0000,31497.1000,218167.45419000,08/27/2016 @ 12:00:00 AM
-13874,"The Evil, Flameflare",Dysley Stronghold,35.51,Poison Adamant,240.00,110.96,100.87,26630.4000,24208.8000,68892.19992000,08/27/2016 @ 12:00:00 AM
-2511,Flameshiver,Mahyrst Keep,28.45,Glowpearl Adamant Of Spirits,153.00,-111.88,216.40,-17117.6400,33109.2000,20541.15882000,08/27/2016 @ 12:00:00 AM
-11465,Flameshiver,North Arcanist's Farthing,2.50,Imperial Fate Steel,74.00,419.10,381.00,31013.4000,28194.0000,60687.58500000,08/27/2016 @ 12:00:00 AM
-10377,"Rougehate, Rune",The Bastion of the Vampire Duke,37.90,Dragons' Poison Glitterflesh Steel Of The North,283.00,742.00,75.00,209986.0000,21225.0000,318839.96900000,08/27/2016 @ 12:00:00 AM
-34379,"Amberslayer, Flora",Barad Cune,49.21,Unspeakable Rotsoul Mithril Of Souls,157.00,370.26,336.60,58130.8200,52846.2000,165588.81154200,08/27/2016 @ 12:00:00 AM
-34670,"Squallmourner, Storm",Barad Kesa,6.17,Ghouls' Imperial Soulzephyr Mithril Of The Seas,354.00,318.23,318.23,112653.4200,112653.4200,239208.27202800,08/27/2016 @ 12:00:00 AM
-343,"The Grasping, Nailpiston",The Bastion of Sthasu the Gruesome,40.00,Ghostly Soul Adamant,330.00,411.00,377.00,135630.0000,124410.0000,364056.00000000,08/27/2016 @ 12:00:00 AM
-27092,"Goddess of Fate, Azah",The Chuallanto Jungle,11.00,Shadowhell Mithril,148.00,462.21,420.19,68407.0800,62188.1200,144960.67200000,08/27/2016 @ 12:00:00 AM
-27065,"Knightclaw, Sunset",Bifar's Deep,12.21,Swordbronze,187.00,403.29,366.63,75415.2300,68559.8100,161554.39238400,08/27/2016 @ 12:00:00 AM
-28411,"The Grasping, Nailpiston",The Bastion of the Vampire Duke,45.86,Undeads' Mind Orichalcum Of The Twilight,284.00,1169.00,364.69,331996.0000,103571.9600,635319.42645600,08/27/2016 @ 12:00:00 AM
-4424,"God of Luck, Ariel",Kada's Deep,7.65,Grayplatinum,239.00,2548.00,86.73,608972.0000,20728.4700,677872.55595500,08/27/2016 @ 12:00:00 AM
-25180,"God of Death, Selik",The Fortress of the Lich Queen,20.72,Djinni's Mind Fogiron,221.00,57.23,57.23,12647.8300,12647.8300,30536.92075200,08/27/2016 @ 12:00:00 AM
-3237,Wheelspawn,The Fortress of the Lich Queen,17.13,Witchs' Forbidden Rockrainbow Bronze,177.00,4207.35,223.30,744700.9500,39524.1000,918562.80106500,08/27/2016 @ 12:00:00 AM
-13223,"Lord of Death, Addon",Kada's Deep,8.42,Pearl Mirrorice Steel Of Changelings,248.00,332.20,302.00,82385.6000,74896.0000,170524.71072000,08/27/2016 @ 12:00:00 AM
-37464,"God of Death, Selik",The Greedy Wench,13.31,Stone Soulsteel Of The Skies,164.00,453.31,453.31,74342.8400,74342.8400,168475.74400800,08/27/2016 @ 12:00:00 AM
+2443,"Shadow, Gust",Pewold Keep,29.00,Timeiron,200.00,3255.00,-14.77,651000.0000,-2954.0000,835979.34000000,08/27/2006 @ 12:00:00 AM
+13865,"Jericho, Wolf",Gili's Delve,35.89,Warlocks' Timerot Mithril,178.00,725.00,176.95,129050.0000,31497.1000,218167.45419000,08/27/2006 @ 12:00:00 AM
+13874,"Flameflare, The Evil",Dysley Stronghold,35.51,Poison Adamant,240.00,110.96,100.87,26630.4000,24208.8000,68892.19992000,08/27/2006 @ 12:00:00 AM
+2511,Flameshiver,Mahyrst Keep,28.45,Glowpearl Adamant Of Spirits,153.00,-111.88,216.40,-17117.6400,33109.2000,20541.15882000,08/27/2006 @ 12:00:00 AM
+11465,Flameshiver,North Arcanist's Farthing,2.50,Imperial Fate Steel,74.00,419.10,381.00,31013.4000,28194.0000,60687.58500000,08/27/2006 @ 12:00:00 AM
+10377,"Rune, Rougehate",The Bastion of the Vampire Duke,37.90,Dragons' Poison Glitterflesh Steel Of The North,283.00,742.00,75.00,209986.0000,21225.0000,318839.96900000,08/27/2006 @ 12:00:00 AM
+34379,"Flora, Amberslayer",Barad Cune,49.21,Unspeakable Rotsoul Mithril Of Souls,157.00,370.26,336.60,58130.8200,52846.2000,165588.81154200,08/27/2006 @ 12:00:00 AM
+34670,"Storm, Squallmourner",Barad Kesa,6.17,Ghouls' Imperial Soulzephyr Mithril Of The Seas,354.00,318.23,318.23,112653.4200,112653.4200,239208.27202800,08/27/2006 @ 12:00:00 AM
+343,"Nailpiston, The Grasping",The Bastion of Sthasu the Gruesome,40.00,Ghostly Soul Adamant,330.00,411.00,377.00,135630.0000,124410.0000,364056.00000000,08/27/2006 @ 12:00:00 AM
+27092,"Azah, Goddess of Fate",The Chuallanto Jungle,11.00,Shadowhell Mithril,148.00,462.21,420.19,68407.0800,62188.1200,144960.67200000,08/27/2006 @ 12:00:00 AM
+27065,"Sunset, Knightclaw",Bifar's Deep,12.21,Swordbronze,187.00,403.29,366.63,75415.2300,68559.8100,161554.39238400,08/27/2006 @ 12:00:00 AM
+28411,"Nailpiston, The Grasping",The Bastion of the Vampire Duke,45.86,Undeads' Mind Orichalcum Of The Twilight,284.00,1169.00,364.69,331996.0000,103571.9600,635319.42645600,08/27/2006 @ 12:00:00 AM
+4424,"Ariel, God of Luck",Kada's Deep,7.65,Grayplatinum,239.00,2548.00,86.73,608972.0000,20728.4700,677872.55595500,08/27/2016 @ 12:00:00 AM
+25180,"Selik, God of Death",The Fortress of the Lich Queen,20.72,Djinni's Mind Fogiron,221.00,57.23,57.23,12647.8300,12647.8300,30536.92075200,08/27/2006 @ 12:00:00 AM
+3237,Wheelspawn,The Fortress of the Lich Queen,17.13,Witchs' Forbidden Rockrainbow Bronze,177.00,4207.35,223.30,744700.9500,39524.1000,918562.80106500,08/27/2006 @ 12:00:00 AM
+13223,"Addon, Lord of Death",Kada's Deep,8.42,Pearl Mirrorice Steel Of Changelings,248.00,332.20,302.00,82385.6000,74896.0000,170524.71072000,08/27/2006 @ 12:00:00 AM
+37464,"Selik, God of Death",The Greedy Wench,13.31,Stone Soulsteel Of The Skies,164.00,453.31,453.31,74342.8400,74342.8400,168475.74400800,08/27/2006 @ 12:00:00 AM

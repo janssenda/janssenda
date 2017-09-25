@@ -1,14 +1,14 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-23534,"Ivycaster, Fate",Reheath Stronghold,39.60,Forgotten Mithril,222.00,545.71,496.10,121147.6200,110134.2000,322869.42072000,02/23/2017 @ 12:00:00 AM
-21007,"The Frigid, Icechill",The Fen of the Necromancer,20.00,Fairies' Supreme Mistsmoke Lead Of The Future,211.00,499.73,499.73,105443.0300,105443.0300,253063.27200000,02/23/2017 @ 12:00:00 AM
-31427,"Seraphheart, Storm",Gifeld Castle,33.01,Pearl Mirrorice Steel Of Changelings,76.00,365.42,365.42,27771.9200,27771.9200,73878.86158400,02/23/2017 @ 12:00:00 AM
-8497,"Spiritraven, Bedlam",Lamp Borough,0.00,Starsmoke Bronze Of Life,94.00,-438.00,420.81,-41172.0000,39556.1400,-1615.86000000,02/23/2017 @ 12:00:00 AM
-29383,"The Horrorific, Evilfear",The Nulukkhath Spires,28.99,Fleshshock Mercury,326.00,-31.02,-28.20,-10112.5200,-9193.2000,-24902.44822800,02/23/2017 @ 12:00:00 AM
-18602,"Squallmourner, Storm",The Dancing Minstrel,39.62,Unicorns' Fatal Magma Metal Of The Ocean,243.00,25.30,23.00,6147.9000,5589.0000,16387.05978000,02/23/2017 @ 12:00:00 AM
-31888,Bolttrap,Gifeld Castle,33.01,Warlocks' Timerot Mithril,123.00,194.65,194.65,23941.9500,23941.9500,63690.37539000,02/23/2017 @ 12:00:00 AM
-5008,"The Grasping, Beamsprocket",The Tower of Sabiesu the Awesome,10.00,Phantasmal Tin Of The Swamps,242.00,3207.64,305.00,776248.8800,73810.0000,935064.76800000,02/23/2017 @ 12:00:00 AM
-770,"The Machine, Wheelbolt",The Archer and Blade,15.00,Meteoric Mirrormuck Orichalcum Of The Forests,193.00,491.62,368.50,94882.6600,71120.5000,190903.63400000,02/23/2017 @ 12:00:00 AM
-16641,"The Blade, Steelterror",The Bastion of the Lich Tyrant,7.14,Vampires' Hammer Emeraldmetal,238.00,77.44,77.44,18430.7200,18430.7200,39493.34681600,02/23/2017 @ 12:00:00 AM
-3239,"The Grasping, Beamsprocket",Cawold Castle,35.00,Zephyr Adamant,130.00,481.77,-40.13,62630.1000,-5216.9000,77507.82000000,02/23/2017 @ 12:00:00 AM
-15889,"Goddess of Trickery, Alik",The Tower of Aramum,20.00,Sirens' Rockgold,150.00,306.13,306.13,45919.5000,45919.5000,110206.80000000,02/23/2017 @ 12:00:00 AM
-36114,"Ivycaster, Fate",The Fen of the Necromancer,32.21,Grayplatinum,236.00,2548.00,115.43,601328.0000,27241.4800,831031.70950800,02/23/2017 @ 12:00:00 AM
+23534,"Ivycaster, Fate",Reheath Stronghold,39.60,Forgotten Mithril,222.00,545.71,496.10,121147.6200,110134.2000,322869.42072000,02/23/1947 @ 12:00:00 AM
+21007,"The Frigid, Icechill",The Fen of the Necromancer,20.00,Fairies' Supreme Mistsmoke Lead Of The Future,211.00,499.73,499.73,105443.0300,105443.0300,253063.27200000,02/23/1947 @ 12:00:00 AM
+31427,"Seraphheart, Storm",Gifeld Castle,33.01,Pearl Mirrorice Steel Of Changelings,76.00,365.42,365.42,27771.9200,27771.9200,73878.86158400,02/23/1947 @ 12:00:00 AM
+8497,"Spiritraven, Bedlam",Lamp Borough,0.00,Starsmoke Bronze Of Life,94.00,-438.00,420.81,-41172.0000,39556.1400,-1615.86000000,02/23/1987 @ 12:00:00 AM
+29383,"The Horrorific, Evilfear",The Nulukkhath Spires,28.99,Fleshshock Mercury,326.00,-31.02,-28.20,-10112.5200,-9193.2000,-24902.44822800,02/23/1987 @ 12:00:00 AM
+18602,"Squallmourner, Storm",The Dancing Minstrel,39.62,Unicorns' Fatal Magma Metal Of The Ocean,243.00,25.30,23.00,6147.9000,5589.0000,16387.05978000,02/23/1947 @ 12:00:00 AM
+31888,Bolttrap,Gifeld Castle,33.01,Warlocks' Timerot Mithril,123.00,194.65,194.65,23941.9500,23941.9500,63690.37539000,02/23/1947 @ 12:00:00 AM
+5008,"The Grasping, Beamsprocket",The Tower of Sabiesu the Awesome,10.00,Phantasmal Tin Of The Swamps,242.00,3207.64,305.00,776248.8800,73810.0000,935064.76800000,02/23/1947 @ 12:00:00 AM
+770,"The Machine, Wheelbolt",The Archer and Blade,15.00,Meteoric Mirrormuck Orichalcum Of The Forests,193.00,491.62,368.50,94882.6600,71120.5000,190903.63400000,02/23/1947 @ 12:00:00 AM
+16641,"The Blade, Steelterror",The Bastion of the Lich Tyrant,7.14,Vampires' Hammer Emeraldmetal,238.00,77.44,77.44,18430.7200,18430.7200,39493.34681600,02/23/1987 @ 12:00:00 AM
+3239,"The Grasping, Beamsprocket",Cawold Castle,35.00,Zephyr Adamant,130.00,481.77,-40.13,62630.1000,-5216.9000,77507.82000000,02/23/1947 @ 12:00:00 AM
+15889,"Goddess of Trickery, Alik",The Tower of Aramum,20.00,Sirens' Rockgold,150.00,306.13,306.13,45919.5000,45919.5000,110206.80000000,02/23/1947 @ 12:00:00 AM
+36114,"Ivycaster, Fate",The Fen of the Necromancer,32.21,Grayplatinum,236.00,2548.00,115.43,601328.0000,27241.4800,831031.70950800,02/23/1947 @ 12:00:00 AM

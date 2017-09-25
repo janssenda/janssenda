@@ -1,13 +1,13 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-2479,"Mist, Claw",Tower Farthing,17.63,Spirits' Living Wordhammer Tin Of The Trees,198.00,3897.55,117.00,771714.9000,23166.0000,935018.40267000,12/18/2017 @ 12:00:00 AM
-36889,"The Machine, Wheelbolt",The Fen of the Necromancer,32.21,Phantasmal Tin Of The Swamps,86.00,405.96,369.05,34912.5600,31738.3000,88119.10200600,12/18/2017 @ 12:00:00 AM
-22132,"Wolf, Jericho",The Tomb of Hellish Ruin,36.30,Shadowhell Mithril,200.00,462.21,420.19,92442.0000,84038.0000,240542.24000000,12/18/2017 @ 12:00:00 AM
-23620,"Amberslayer, Flora",The Lewd King,45.98,Fleshshock Mercury,334.00,-31.02,-28.20,-10360.6800,-9418.8000,-28874.08490400,12/18/2017 @ 12:00:00 AM
-24962,"God of Fate, Sielach",The Bastion of Barbos,25.41,Negative Rockglitter Mercury Of Trolls,196.00,235.59,214.17,46175.6400,41977.3200,110552.62713600,12/18/2017 @ 12:00:00 AM
-34480,"Mistseeker, Grave",Reheath Stronghold,39.60,Swordbronze,249.00,403.29,366.63,100419.2100,91290.8700,267627.27168000,12/18/2017 @ 12:00:00 AM
-31236,Bronzespawn,Weke Tower,47.19,Planar Mudtin Of Trolls,109.00,191.40,174.00,20862.6000,18966.0000,58623.71634000,12/18/2017 @ 12:00:00 AM
-31300,"Godseeker, Cult",Hafeld Keep,47.59,Planar Mudtin Of Trolls,234.00,191.40,174.00,44787.6000,40716.0000,126194.76324000,12/18/2017 @ 12:00:00 AM
-149,"The Cadaverous, Chainblade",The Beggar and Cask,25.10,Unicorns' Fatal Magma Metal Of The Ocean,49.00,903.00,23.00,44247.0000,1127.0000,56762.87400000,12/18/2017 @ 12:00:00 AM
-9825,"Knightclaw, Sunset",Gifeld Castle,27.28,Forgotten Mithril,144.00,3909.75,496.10,563004.0000,71438.4000,807518.28672000,12/18/2017 @ 12:00:00 AM
-7392,"Goddess of Travel, Lenwenye",Gawold Castle,10.29,Planar Mudtin Of Trolls,263.00,3529.02,174.00,928132.2600,45762.0000,1074107.97935400,12/18/2017 @ 12:00:00 AM
-5597,"Lady of Vengeance, Zepul",The Bastion of the Vampire Duke,34.45,Undeads' Mind Orichalcum Of The Twilight,210.00,1169.00,301.40,245490.0000,63294.0000,415160.08800000,12/18/2017 @ 12:00:00 AM
+2479,"Claw, Mist",Tower Farthing,17.63,Spirits' Living Wordhammer Tin Of The Trees,198.00,3897.55,117.00,771714.9000,23166.0000,935018.40267000,12/18/2007 @ 12:00:00 AM
+36889,"Wheelbolt, The Machine",The Fen of the Necromancer,32.21,Phantasmal Tin Of The Swamps,86.00,405.96,369.05,34912.5600,31738.3000,88119.10200600,12/18/2007 @ 12:00:00 AM
+22132,"Jericho, Wolf",The Tomb of Hellish Ruin,36.30,Shadowhell Mithril,200.00,462.21,420.19,92442.0000,84038.0000,240542.24000000,12/18/2007 @ 12:00:00 AM
+23620,"Flora, Amberslayer",The Lewd King,45.98,Fleshshock Mercury,334.00,-31.02,-28.20,-10360.6800,-9418.8000,-28874.08490400,12/18/2007 @ 12:00:00 AM
+24962,"Sielach, God of Fate",The Bastion of Barbos,25.41,Negative Rockglitter Mercury Of Trolls,196.00,235.59,214.17,46175.6400,41977.3200,110552.62713600,12/18/2007 @ 12:00:00 AM
+34480,"Grave, Mistseeker",Reheath Stronghold,39.60,Swordbronze,249.00,403.29,366.63,100419.2100,91290.8700,267627.27168000,12/18/2007 @ 12:00:00 AM
+31236,Bronzespawn,Weke Tower,47.19,Planar Mudtin Of Trolls,109.00,191.40,174.00,20862.6000,18966.0000,58623.71634000,12/18/2007 @ 12:00:00 AM
+31300,"Cult, Godseeker",Hafeld Keep,47.59,Planar Mudtin Of Trolls,234.00,191.40,174.00,44787.6000,40716.0000,126194.76324000,12/18/2007 @ 12:00:00 AM
+149,"Chainblade, The Cadaverous",The Beggar and Cask,25.10,Unicorns' Fatal Magma Metal Of The Ocean,49.00,903.00,23.00,44247.0000,1127.0000,56762.87400000,12/18/2007 @ 12:00:00 AM
+9825,"Sunset, Knightclaw",Gifeld Castle,27.28,Forgotten Mithril,144.00,3909.75,496.10,563004.0000,71438.4000,807518.28672000,12/18/2007 @ 12:00:00 AM
+7392,"Lenwenye, Goddess of Travel",Gawold Castle,10.29,Planar Mudtin Of Trolls,263.00,3529.02,174.00,928132.2600,45762.0000,1074107.97935400,12/18/2007 @ 12:00:00 AM
+5597,"Zepul, Lady of Vengeance",The Bastion of the Vampire Duke,34.45,Undeads' Mind Orichalcum Of The Twilight,210.00,1169.00,301.40,245490.0000,63294.0000,415160.08800000,12/18/2007 @ 12:00:00 AM

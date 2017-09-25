@@ -1,14 +1,14 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-3717,"Tomblion, Shadow",The Black Barrow of Zago the Possessed,12.34,Trolls' Rubymercury Of The Sunset,340.00,2733.00,443.00,929220.0000,150620.0000,1213092.25600000,09/27/2016 @ 12:00:00 AM
-35270,"The Grasping, Nettool",The Fortress of the Lich Queen,22.79,Yellow Mistearth Copper,330.00,287.98,261.80,95033.4000,86394.0000,222774.70446000,09/27/2016 @ 12:00:00 AM
-35531,Graveterror,Citadel Ward,4.40,Lycanthropes' Gold,12.00,449.88,408.98,5398.5600,4907.7600,10759.79808000,09/27/2016 @ 12:00:00 AM
-35619,Freezebrood,The Fortress of the Lich Queen,22.79,Yellow Mistearth Copper,111.00,287.98,261.80,31965.7800,29059.8000,74933.30968200,09/27/2016 @ 12:00:00 AM
-23964,"Seeker, Fate",The Lewd King,45.98,Toxic Mistlead Of The Past,304.00,396.06,396.06,120402.2400,120402.2400,351526.37990400,09/27/2016 @ 12:00:00 AM
-10937,"God of Protection, Finarfin",The Bastion of the Vampire Duke,37.90,Fairies' Supreme Mistsmoke Lead Of The Future,60.00,2622.69,454.30,157361.4000,27258.0000,254590.15260000,09/27/2016 @ 12:00:00 AM
-20674,"Lionwatcher, Law",The Tomb of Hellish Ruin,36.30,Fairies' Supreme Mistsmoke Lead Of The Future,260.00,499.73,499.73,129929.8000,129929.8000,354188.63480000,09/27/2016 @ 12:00:00 AM
-9688,Bolttrap,The Fortress of the Lich Queen,17.13,Undeads' Mind Orichalcum Of The Twilight,238.00,1169.00,301.40,278222.0000,71733.2000,409902.52576000,09/27/2016 @ 12:00:00 AM
-286,"Roguemist, Rouge",Gili's Delve,35.89,Phantasmal Smokezephyr Mercury Of Men,257.00,1330.00,192.00,341810.0000,49344.0000,531539.17060000,09/27/2016 @ 12:00:00 AM
-17218,"The Grasping, Nailpiston",The Scoundrel and Flask,45.25,Incubi's Glittering Tin Of The Future,219.00,192.96,212.26,42258.2400,46484.9400,128899.46895000,09/27/2016 @ 12:00:00 AM
-31952,"Reaper, Dagger",The Demon and Toad,-1.21,Warlocks' Timerot Mithril,213.00,194.65,194.65,41460.4500,41460.4500,81917.55711000,09/27/2016 @ 12:00:00 AM
-16803,"Darkzealot, Dawn",The Scoundrel and Flask,45.25,Warlocks' Timerot Mithril,197.00,725.00,176.95,142825.0000,34859.1500,258086.22787500,09/27/2016 @ 12:00:00 AM
-14507,"God of Animals, Byzou",Noble's Village,5.43,Mind Lead,260.00,241.00,219.09,62660.0000,56963.4000,126118.95062000,09/27/2016 @ 12:00:00 AM
+3717,"Shadow, Tomblion",The Black Barrow of Zago the Possessed,12.34,Trolls' Rubymercury Of The Sunset,340.00,2733.00,443.00,929220.0000,150620.0000,1213092.25600000,09/27/2006 @ 12:00:00 AM
+35270,"Nettool, The Grasping",The Fortress of the Lich Queen,22.79,Yellow Mistearth Copper,330.00,287.98,261.80,95033.4000,86394.0000,222774.70446000,09/27/2006 @ 12:00:00 AM
+35531,Graveterror,Citadel Ward,4.40,Lycanthropes' Gold,12.00,449.88,408.98,5398.5600,4907.7600,10759.79808000,09/27/2006 @ 12:00:00 AM
+35619,Freezebrood,The Fortress of the Lich Queen,22.79,Yellow Mistearth Copper,111.00,287.98,261.80,31965.7800,29059.8000,74933.30968200,09/27/2006 @ 12:00:00 AM
+23964,"Fate, Seeker",The Lewd King,45.98,Toxic Mistlead Of The Past,304.00,396.06,396.06,120402.2400,120402.2400,351526.37990400,09/27/2006 @ 12:00:00 AM
+10937,"Finarfin, God of Protection",The Bastion of the Vampire Duke,37.90,Fairies' Supreme Mistsmoke Lead Of The Future,60.00,2622.69,454.30,157361.4000,27258.0000,254590.15260000,09/27/2016 @ 12:00:00 AM
+20674,"Law, Lionwatcher",The Tomb of Hellish Ruin,36.30,Fairies' Supreme Mistsmoke Lead Of The Future,260.00,499.73,499.73,129929.8000,129929.8000,354188.63480000,09/27/2016 @ 12:00:00 AM
+9688,Bolttrap,The Fortress of the Lich Queen,17.13,Undeads' Mind Orichalcum Of The Twilight,238.00,1169.00,301.40,278222.0000,71733.2000,409902.52576000,09/27/2006 @ 12:00:00 AM
+286,"Rouge, Roguemist",Gili's Delve,35.89,Phantasmal Smokezephyr Mercury Of Men,257.00,1330.00,192.00,341810.0000,49344.0000,531539.17060000,09/27/2006 @ 12:00:00 AM
+17218,"Nailpiston, The Grasping",The Scoundrel and Flask,45.25,Incubi's Glittering Tin Of The Future,219.00,192.96,212.26,42258.2400,46484.9400,128899.46895000,09/27/2006 @ 12:00:00 AM
+31952,"Dagger, Reaper",The Demon and Toad,-1.21,Warlocks' Timerot Mithril,213.00,194.65,194.65,41460.4500,41460.4500,81917.55711000,09/27/2006 @ 12:00:00 AM
+16803,"Dawn, Darkzealot",The Scoundrel and Flask,45.25,Warlocks' Timerot Mithril,197.00,725.00,176.95,142825.0000,34859.1500,258086.22787500,09/27/2006 @ 12:00:00 AM
+14507,"Byzou, God of Animals",Noble's Village,5.43,Mind Lead,260.00,241.00,219.09,62660.0000,56963.4000,126118.95062000,09/27/2006 @ 12:00:00 AM

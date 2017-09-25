@@ -1,19 +1,19 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-3777,"Tsunami, Seraphim",The Hunter and Rose,39.60,Falserainbow Lead,381.00,872.99,70.18,332609.1900,26738.5800,501649.48692000,03/19/2018 @ 12:00:00 AM
-2796,"God of Fate, Sielach",The Lazy Sage,21.93,Violetdream Iron,183.00,2680.00,377.25,490440.0000,69036.7500,682170.00127500,03/19/2018 @ 12:00:00 AM
-33688,"The Cadaverous, Chainblade",Pewold Keep,29.00,Fairies' Supreme Mistsmoke Lead Of The Future,97.00,499.73,549.70,48473.8100,53320.9000,131315.17590000,03/19/2018 @ 12:00:00 AM
-8032,"God of Love, Prusu",The Bastion of Sthasu the Gruesome,40.00,Zephyr Adamant,274.00,481.77,-44.14,132004.9800,-12094.3600,167874.86800000,03/19/2018 @ 12:00:00 AM
-19887,"Goddess of Fate, Azah",Eved Castle,30.80,Magicians' Legendary Poison Metal,153.00,-52.81,-48.01,-8079.9300,-7345.5300,-20176.50168000,03/19/2018 @ 12:00:00 AM
-29297,"God of Love, Prusu",The Nulukkhath Spires,28.99,Hidden Shadowice Lead,205.00,-16.50,-16.50,-3382.5000,-3382.5000,-8726.17350000,03/19/2018 @ 12:00:00 AM
-19902,"God of Luck, Ariel",The Greedy Wench,13.31,Shadow Metal,237.00,1606.00,298.00,380622.0000,70626.0000,511309.10880000,03/19/2018 @ 12:00:00 AM
-30468,Evilbrood,The Nulukkhath Spires,28.99,Witchs' Forbidden Rockrainbow Bronze,221.00,245.63,245.63,54284.2300,54284.2300,140042.45655400,03/19/2018 @ 12:00:00 AM
-687,"Runetomb, Song",The Bastion of Sthasu the Gruesome,40.00,Stone Soulsteel Of The Skies,132.00,3459.15,340.58,456607.8000,44956.5600,702190.10400000,03/19/2018 @ 12:00:00 AM
-6325,"The Mechanical, Snarepiston",Reyny Keep,-3.35,Violetdream Iron,134.00,414.98,377.25,55607.3200,50551.5000,102602.49953000,03/19/2018 @ 12:00:00 AM
-28431,"God of Death, Avriel",Barad Cune,49.21,Undeads' Mind Orichalcum Of The Twilight,313.00,1169.00,364.69,365897.0000,114147.9700,716275.09973700,03/19/2018 @ 12:00:00 AM
-5272,"Anchor, Rose",The Tower of Sabiesu the Awesome,10.00,Phantasmal Smokezephyr Mercury Of Men,310.00,211.20,192.00,65472.0000,59520.0000,137491.20000000,03/19/2018 @ 12:00:00 AM
-28542,"Brand, Lightning",Barad Cune,49.21,Vampires' Fang Emeraldsilver,379.00,2033.69,80.84,770768.5100,30638.3600,1195779.19072700,03/19/2018 @ 12:00:00 AM
-4031,"The Evil, Burnchill",The Forsaken Delve of Lord Greywulf,15.62,Timeiron,109.00,3255.00,-14.77,354795.0000,-1609.9300,408352.57793400,03/19/2018 @ 12:00:00 AM
-28709,"The Cremator, Blazeflare",Barad Cune,49.21,Undeads' Mind Orichalcum Of The Twilight,179.00,1169.00,364.69,209251.0000,65279.5100,409626.97397100,03/19/2018 @ 12:00:00 AM
-4351,"Darkzealot, Dawn",The Secret Catacombs of Ulfang the Black,28.82,Poison Adamant,98.00,-7.92,178.20,-776.1600,17463.6000,21496.76020800,03/19/2018 @ 12:00:00 AM
-25291,"God of Luck, Ariel",Weke Tower,47.19,Primordial Mud Orichalcum,128.00,1113.00,20.57,142464.0000,2632.9600,213568.21542400,03/19/2018 @ 12:00:00 AM
-24165,"Wolf, Jericho",The Lewd King,45.98,Tritons' Time Stoneiron Of Legend,177.00,341.59,375.75,60461.4300,66507.7500,185349.60896400,03/19/2018 @ 12:00:00 AM
+3777,"Tsunami, Seraphim",The Hunter and Rose,39.60,Falserainbow Lead,381.00,872.99,70.18,332609.1900,26738.5800,501649.48692000,03/19/1988 @ 12:00:00 AM
+2796,"God of Fate, Sielach",The Lazy Sage,21.93,Violetdream Iron,183.00,2680.00,377.25,490440.0000,69036.7500,682170.00127500,03/19/1948 @ 12:00:00 AM
+33688,"The Cadaverous, Chainblade",Pewold Keep,29.00,Fairies' Supreme Mistsmoke Lead Of The Future,97.00,499.73,549.70,48473.8100,53320.9000,131315.17590000,03/19/1948 @ 12:00:00 AM
+8032,"God of Love, Prusu",The Bastion of Sthasu the Gruesome,40.00,Zephyr Adamant,274.00,481.77,-44.14,132004.9800,-12094.3600,167874.86800000,03/19/1948 @ 12:00:00 AM
+19887,"Goddess of Fate, Azah",Eved Castle,30.80,Magicians' Legendary Poison Metal,153.00,-52.81,-48.01,-8079.9300,-7345.5300,-20176.50168000,03/19/1978 @ 12:00:00 AM
+29297,"God of Love, Prusu",The Nulukkhath Spires,28.99,Hidden Shadowice Lead,205.00,-16.50,-16.50,-3382.5000,-3382.5000,-8726.17350000,03/19/1948 @ 12:00:00 AM
+19902,"God of Luck, Ariel",The Greedy Wench,13.31,Shadow Metal,237.00,1606.00,298.00,380622.0000,70626.0000,511309.10880000,03/19/1978 @ 12:00:00 AM
+30468,Evilbrood,The Nulukkhath Spires,28.99,Witchs' Forbidden Rockrainbow Bronze,221.00,245.63,245.63,54284.2300,54284.2300,140042.45655400,03/19/1948 @ 12:00:00 AM
+687,"Runetomb, Song",The Bastion of Sthasu the Gruesome,40.00,Stone Soulsteel Of The Skies,132.00,3459.15,340.58,456607.8000,44956.5600,702190.10400000,03/19/1948 @ 12:00:00 AM
+6325,"The Mechanical, Snarepiston",Reyny Keep,-3.35,Violetdream Iron,134.00,414.98,377.25,55607.3200,50551.5000,102602.49953000,03/19/1948 @ 12:00:00 AM
+28431,"God of Death, Avriel",Barad Cune,49.21,Undeads' Mind Orichalcum Of The Twilight,313.00,1169.00,364.69,365897.0000,114147.9700,716275.09973700,03/19/1948 @ 12:00:00 AM
+5272,"Anchor, Rose",The Tower of Sabiesu the Awesome,10.00,Phantasmal Smokezephyr Mercury Of Men,310.00,211.20,192.00,65472.0000,59520.0000,137491.20000000,03/19/1948 @ 12:00:00 AM
+28542,"Brand, Lightning",Barad Cune,49.21,Vampires' Fang Emeraldsilver,379.00,2033.69,80.84,770768.5100,30638.3600,1195779.19072700,03/19/1948 @ 12:00:00 AM
+4031,"The Evil, Burnchill",The Forsaken Delve of Lord Greywulf,15.62,Timeiron,109.00,3255.00,-14.77,354795.0000,-1609.9300,408352.57793400,03/19/1948 @ 12:00:00 AM
+28709,"The Cremator, Blazeflare",Barad Cune,49.21,Undeads' Mind Orichalcum Of The Twilight,179.00,1169.00,364.69,209251.0000,65279.5100,409626.97397100,03/19/1948 @ 12:00:00 AM
+4351,"Darkzealot, Dawn",The Secret Catacombs of Ulfang the Black,28.82,Poison Adamant,98.00,-7.92,178.20,-776.1600,17463.6000,21496.76020800,03/19/1948 @ 12:00:00 AM
+25291,"God of Luck, Ariel",Weke Tower,47.19,Primordial Mud Orichalcum,128.00,1113.00,20.57,142464.0000,2632.9600,213568.21542400,03/19/1948 @ 12:00:00 AM
+24165,"Wolf, Jericho",The Lewd King,45.98,Tritons' Time Stoneiron Of Legend,177.00,341.59,375.75,60461.4300,66507.7500,185349.60896400,03/19/1948 @ 12:00:00 AM

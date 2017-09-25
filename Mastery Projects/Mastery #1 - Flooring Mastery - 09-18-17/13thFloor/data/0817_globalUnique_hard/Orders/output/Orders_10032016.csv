@@ -1,17 +1,17 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-25747,"Roguemist, Rouge",Citadel Ward,4.40,Warlocks' Timerot Mithril,263.00,194.65,176.95,51192.9500,46537.8500,102030.95520000,10/03/2016 @ 12:00:00 AM
-25640,"Knightseraph, Lance",Kada's Deep,8.42,Primordial Mud Orichalcum,277.00,1113.00,20.57,308301.0000,5697.8900,340437.59653800,10/03/2016 @ 12:00:00 AM
-11318,"Goddess of Knowledge, Ahah",The Black Barrow of Bery,19.80,Lycanthropes' Gold,209.00,371.80,338.00,77706.2000,70642.0000,177721.14360000,10/03/2016 @ 12:00:00 AM
-36589,Bronzespike,The Fen of the Necromancer,32.21,Grayplatinum,213.00,2548.00,115.43,542724.0000,24586.5900,750041.33103900,10/03/2016 @ 12:00:00 AM
-10447,"Darkzealot, Dawn",Arcanist's Farthing,29.00,Dragons' Poison Glitterflesh Steel Of The North,200.00,742.00,75.00,148400.0000,15000.0000,210786.00000000,10/03/2016 @ 12:00:00 AM
-21043,"Mystery, Lord",Mahyrst Keep,31.30,Stone Soulsteel Of The Skies,318.00,453.31,412.10,144152.5800,131047.8000,361338.09894000,10/03/2016 @ 12:00:00 AM
-11843,"God of Protection, Finarfin",Reyny Keep,-3.35,Violetdream Iron,209.00,414.98,377.25,86730.8200,78845.2500,160029.27165500,10/03/2016 @ 12:00:00 AM
-35879,"The Disinterred, Spikebrood",The Fen of the Necromancer,32.21,Magicians' Legendary Poison Metal,340.00,-52.81,-48.01,-17955.4000,-16323.4000,-45320.00148000,10/03/2016 @ 12:00:00 AM
-30162,"Claw, Slayer",The Greedy Wench,13.31,White Platinum,343.00,101.02,91.84,34649.8600,31501.1200,74955.67543800,10/03/2016 @ 12:00:00 AM
-8786,"Goddess of Knowledge, Ahah",The Demon and Toad,-1.10,Planar Mudtin Of Trolls,185.00,191.40,174.00,35409.0000,32190.0000,66855.41100000,10/03/2016 @ 12:00:00 AM
-742,"Rougehate, Rune",The Fen of the Necromancer,20.00,Ensorceled Sandmetal Of Spirits,339.00,4149.00,64.00,1406511.0000,21696.0000,1713848.40000000,10/03/2016 @ 12:00:00 AM
-15758,"Gust, Shadow",The Fortress of Asmamur,-2.66,Djinni's Mind Fogiron,159.00,57.23,52.03,9099.5700,8272.7700,16910.23575600,10/03/2016 @ 12:00:00 AM
-3322,Freezebrood,The Tomb of Gothmog of Udun,11.00,Spectres' Shadowy Terrorglow Adamant Of Life,295.00,-297.62,175.08,-87797.9000,51648.6000,-40125.72300000,10/03/2016 @ 12:00:00 AM
-25628,"Brand, Lightning",Kada's Deep,8.42,Mind Lead,132.00,241.00,219.09,31812.0000,28919.8800,65845.50429600,10/03/2016 @ 12:00:00 AM
-13580,"Lionwatcher, Law",Gili's Delve,35.89,Warlocks' Timerot Mithril,77.00,725.00,176.95,55825.0000,13625.1500,94375.80883500,10/03/2016 @ 12:00:00 AM
-24221,"Dawn, Tarot",Fellfen Keep,38.00,Unicorns' Fatal Magma Metal Of The Ocean,11.00,25.30,23.00,278.3000,253.0000,733.19400000,10/03/2016 @ 12:00:00 AM
+25747,"Roguemist, Rouge",Citadel Ward,4.40,Warlocks' Timerot Mithril,263.00,194.65,176.95,51192.9500,46537.8500,102030.95520000,10/03/1946 @ 12:00:00 AM
+25640,"Knightseraph, Lance",Kada's Deep,8.42,Primordial Mud Orichalcum,277.00,1113.00,20.57,308301.0000,5697.8900,340437.59653800,10/03/1946 @ 12:00:00 AM
+11318,"Goddess of Knowledge, Ahah",The Black Barrow of Bery,19.80,Lycanthropes' Gold,209.00,371.80,338.00,77706.2000,70642.0000,177721.14360000,10/03/1946 @ 12:00:00 AM
+36589,Bronzespike,The Fen of the Necromancer,32.21,Grayplatinum,213.00,2548.00,115.43,542724.0000,24586.5900,750041.33103900,10/03/1946 @ 12:00:00 AM
+10447,"Darkzealot, Dawn",Arcanist's Farthing,29.00,Dragons' Poison Glitterflesh Steel Of The North,200.00,742.00,75.00,148400.0000,15000.0000,210786.00000000,10/03/1946 @ 12:00:00 AM
+21043,"Mystery, Lord",Mahyrst Keep,31.30,Stone Soulsteel Of The Skies,318.00,453.31,412.10,144152.5800,131047.8000,361338.09894000,10/03/1946 @ 12:00:00 AM
+11843,"God of Protection, Finarfin",Reyny Keep,-3.35,Violetdream Iron,209.00,414.98,377.25,86730.8200,78845.2500,160029.27165500,10/03/1946 @ 12:00:00 AM
+35879,"The Disinterred, Spikebrood",The Fen of the Necromancer,32.21,Magicians' Legendary Poison Metal,340.00,-52.81,-48.01,-17955.4000,-16323.4000,-45320.00148000,10/03/1946 @ 12:00:00 AM
+30162,"Claw, Slayer",The Greedy Wench,13.31,White Platinum,343.00,101.02,91.84,34649.8600,31501.1200,74955.67543800,10/03/1946 @ 12:00:00 AM
+8786,"Goddess of Knowledge, Ahah",The Demon and Toad,-1.10,Planar Mudtin Of Trolls,185.00,191.40,174.00,35409.0000,32190.0000,66855.41100000,10/03/1946 @ 12:00:00 AM
+742,"Rougehate, Rune",The Fen of the Necromancer,20.00,Ensorceled Sandmetal Of Spirits,339.00,4149.00,64.00,1406511.0000,21696.0000,1713848.40000000,10/03/1986 @ 12:00:00 AM
+15758,"Gust, Shadow",The Fortress of Asmamur,-2.66,Djinni's Mind Fogiron,159.00,57.23,52.03,9099.5700,8272.7700,16910.23575600,10/03/1946 @ 12:00:00 AM
+3322,Freezebrood,The Tomb of Gothmog of Udun,11.00,Spectres' Shadowy Terrorglow Adamant Of Life,295.00,-297.62,175.08,-87797.9000,51648.6000,-40125.72300000,10/03/1946 @ 12:00:00 AM
+25628,"Brand, Lightning",Kada's Deep,8.42,Mind Lead,132.00,241.00,219.09,31812.0000,28919.8800,65845.50429600,10/03/1946 @ 12:00:00 AM
+13580,"Lionwatcher, Law",Gili's Delve,35.89,Warlocks' Timerot Mithril,77.00,725.00,176.95,55825.0000,13625.1500,94375.80883500,10/03/1946 @ 12:00:00 AM
+24221,"Dawn, Tarot",Fellfen Keep,38.00,Unicorns' Fatal Magma Metal Of The Ocean,11.00,25.30,23.00,278.3000,253.0000,733.19400000,10/03/1946 @ 12:00:00 AM

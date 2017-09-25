@@ -1,23 +1,23 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-13711,"Lord of the Sun, Maglioneth",The Citadel of Alammius,27.00,Starsmoke Bronze Of Life,244.00,-438.00,420.81,-106872.0000,102677.6400,-5326.83720000,06/19/2018 @ 12:00:00 AM
-35059,Gravebone,Barad Kesa,6.17,Grayplatinum,103.00,2548.00,115.43,262444.0000,11889.2900,291259.65399300,06/19/2018 @ 12:00:00 AM
-11868,"The Disinterred, Spikebrood",Gifeld Castle,27.28,Foul Ice Bronze Of Life,170.00,292.82,266.20,49779.4000,45254.0000,120958.51152000,06/19/2018 @ 12:00:00 AM
-9063,"God of Fate, Uriel",Gena's Hold,4.40,Meteoric Mirrormuck Orichalcum Of The Forests,293.00,491.62,368.50,144044.6600,107970.5000,263103.82704000,06/19/2018 @ 12:00:00 AM
-10792,"Goddess of the Earth, Gono",Arcanist's Farthing,29.00,Dragons' Poison Glitterflesh Steel Of The North,228.00,742.00,75.00,169176.0000,17100.0000,240296.04000000,06/19/2018 @ 12:00:00 AM
-10815,Bolttrap,The Drunken Thief,18.41,Fairies' Supreme Mistsmoke Lead Of The Future,137.00,2622.69,454.30,359308.5300,62239.1000,499154.54868300,06/19/2018 @ 12:00:00 AM
-10916,Springcoil,The Drunken Thief,18.41,Tritons' Time Stoneiron Of Legend,307.00,2235.00,310.54,686145.0000,95335.7800,925351.39159800,06/19/2018 @ 12:00:00 AM
-19497,"Squallmourner, Storm",Gifeld Castle,33.01,Foul Ice Bronze Of Life,271.00,292.82,266.20,79354.2200,72140.2000,201502.72804200,06/19/2018 @ 12:00:00 AM
-21709,"The Cremator, Blazeflare",Citadel Ward,4.40,Starsmoke Bronze Of Life,228.00,-438.00,420.81,-99864.0000,95944.6800,-4091.77008000,06/19/2018 @ 12:00:00 AM
-18315,"The Grasping, Nailpiston",Gili's Delve,35.89,Meteoric Mirrormuck Orichalcum Of The Forests,100.00,491.62,405.35,49162.0000,40535.0000,121889.25330000,06/19/2018 @ 12:00:00 AM
-17131,"Roguemist, Rouge",North Arcanist's Farthing,2.75,Incubi's Glittering Tin Of The Future,103.00,192.96,212.26,19874.8800,21862.7800,42885.44565000,06/19/2018 @ 12:00:00 AM
-7191,Bolttrap,The Pirate's Pipe,15.40,Sapphire Mindlead,126.00,-44.77,-40.70,-5641.0200,-5128.2000,-12427.67988000,06/19/2018 @ 12:00:00 AM
-7252,"Goddess of Knowledge, Baltha",The Bastion of the Lich Tyrant,6.49,Sirens' Rockgold,79.00,306.13,278.30,24184.2700,21985.7000,49166.40105300,06/19/2018 @ 12:00:00 AM
-20915,Bronzespike,Arcanist's Farthing,29.00,Starsmoke Bronze Of Life,247.00,-438.00,420.81,-108186.0000,103940.0700,-5477.24970000,06/19/2018 @ 12:00:00 AM
-15281,Bronzespike,Dysley Stronghold,35.51,Mind Lead,101.00,241.00,219.09,24341.0000,22128.0900,62970.26385900,06/19/2018 @ 12:00:00 AM
-17862,Gravebone,The Bastion of the Vampire Duke,37.90,Starsmoke Bronze Of Life,148.00,-438.00,420.81,-64824.0000,62279.8800,-3508.34148000,06/19/2018 @ 12:00:00 AM
-7911,"The Grasping, Nailpiston",Lamp Borough,0.00,Unknowable Mindsilver,220.00,174.90,174.90,38478.0000,38478.0000,76956.00000000,06/19/2018 @ 12:00:00 AM
-28690,"Squallmourner, Storm",The Bastion of the Vampire Duke,45.86,Vampires' Fang Emeraldsilver,229.00,2033.69,80.84,465715.0100,18512.3600,706294.04188200,06/19/2018 @ 12:00:00 AM
-24149,"The Living Device, Mecharig",The Lewd King,45.98,Unicorns' Fatal Magma Metal Of The Ocean,129.00,25.30,23.00,3263.7000,2967.0000,9095.57586000,06/19/2018 @ 12:00:00 AM
-12141,"God of Fate, Sielach",Love Keep,40.56,Sprites' Transcendent Mud Lead Of The South,56.00,3338.65,242.80,186964.4000,13596.8000,281908.82272000,06/19/2018 @ 12:00:00 AM
-25605,"Felldrake, Magus",Kada's Deep,8.42,Primordial Mud Orichalcum,212.00,1113.00,20.57,235956.0000,4360.8400,260551.51792800,06/19/2018 @ 12:00:00 AM
-14942,"Lord of the Sun, Maglioneth",The Secret Shrine of the Gargoyle Count,23.93,Mind Lead,107.00,241.00,219.09,25787.0000,23442.6300,61010.28045900,06/19/2018 @ 12:00:00 AM
+13711,"Maglioneth, Lord of the Sun",The Citadel of Alammius,27.00,Starsmoke Bronze Of Life,244.00,-438.00,420.81,-106872.0000,102677.6400,-5326.83720000,06/19/2008 @ 12:00:00 AM
+35059,Gravebone,Barad Kesa,6.17,Grayplatinum,103.00,2548.00,115.43,262444.0000,11889.2900,291259.65399300,06/19/2008 @ 12:00:00 AM
+11868,"Spikebrood, The Disinterred",Gifeld Castle,27.28,Foul Ice Bronze Of Life,170.00,292.82,266.20,49779.4000,45254.0000,120958.51152000,06/19/2008 @ 12:00:00 AM
+9063,"Uriel, God of Fate",Gena's Hold,4.40,Meteoric Mirrormuck Orichalcum Of The Forests,293.00,491.62,368.50,144044.6600,107970.5000,263103.82704000,06/19/2008 @ 12:00:00 AM
+10792,"Gono, Goddess of the Earth",Arcanist's Farthing,29.00,Dragons' Poison Glitterflesh Steel Of The North,228.00,742.00,75.00,169176.0000,17100.0000,240296.04000000,06/19/2008 @ 12:00:00 AM
+10815,Bolttrap,The Drunken Thief,18.41,Fairies' Supreme Mistsmoke Lead Of The Future,137.00,2622.69,454.30,359308.5300,62239.1000,499154.54868300,06/19/2008 @ 12:00:00 AM
+10916,Springcoil,The Drunken Thief,18.41,Tritons' Time Stoneiron Of Legend,307.00,2235.00,310.54,686145.0000,95335.7800,925351.39159800,06/19/2008 @ 12:00:00 AM
+19497,"Storm, Squallmourner",Gifeld Castle,33.01,Foul Ice Bronze Of Life,271.00,292.82,266.20,79354.2200,72140.2000,201502.72804200,06/19/2008 @ 12:00:00 AM
+21709,"Blazeflare, The Cremator",Citadel Ward,4.40,Starsmoke Bronze Of Life,228.00,-438.00,420.81,-99864.0000,95944.6800,-4091.77008000,06/19/2008 @ 12:00:00 AM
+18315,"Nailpiston, The Grasping",Gili's Delve,35.89,Meteoric Mirrormuck Orichalcum Of The Forests,100.00,491.62,405.35,49162.0000,40535.0000,121889.25330000,06/19/2008 @ 12:00:00 AM
+17131,"Rouge, Roguemist",North Arcanist's Farthing,2.75,Incubi's Glittering Tin Of The Future,103.00,192.96,212.26,19874.8800,21862.7800,42885.44565000,06/19/2008 @ 12:00:00 AM
+7191,Bolttrap,The Pirate's Pipe,15.40,Sapphire Mindlead,126.00,-44.77,-40.70,-5641.0200,-5128.2000,-12427.67988000,06/19/2008 @ 12:00:00 AM
+7252,"Baltha, Goddess of Knowledge",The Bastion of the Lich Tyrant,6.49,Sirens' Rockgold,79.00,306.13,278.30,24184.2700,21985.7000,49166.40105300,06/19/2008 @ 12:00:00 AM
+20915,Bronzespike,Arcanist's Farthing,29.00,Starsmoke Bronze Of Life,247.00,-438.00,420.81,-108186.0000,103940.0700,-5477.24970000,06/19/2008 @ 12:00:00 AM
+15281,Bronzespike,Dysley Stronghold,35.51,Mind Lead,101.00,241.00,219.09,24341.0000,22128.0900,62970.26385900,06/19/2008 @ 12:00:00 AM
+17862,Gravebone,The Bastion of the Vampire Duke,37.90,Starsmoke Bronze Of Life,148.00,-438.00,420.81,-64824.0000,62279.8800,-3508.34148000,06/19/2008 @ 12:00:00 AM
+7911,"Nailpiston, The Grasping",Lamp Borough,0.00,Unknowable Mindsilver,220.00,174.90,174.90,38478.0000,38478.0000,76956.00000000,06/19/2008 @ 12:00:00 AM
+28690,"Storm, Squallmourner",The Bastion of the Vampire Duke,45.86,Vampires' Fang Emeraldsilver,229.00,2033.69,80.84,465715.0100,18512.3600,706294.04188200,06/19/2008 @ 12:00:00 AM
+24149,"Mecharig, The Living Device",The Lewd King,45.98,Unicorns' Fatal Magma Metal Of The Ocean,129.00,25.30,23.00,3263.7000,2967.0000,9095.57586000,06/19/2008 @ 12:00:00 AM
+12141,"Sielach, God of Fate",Love Keep,40.56,Sprites' Transcendent Mud Lead Of The South,56.00,3338.65,242.80,186964.4000,13596.8000,281908.82272000,06/19/2008 @ 12:00:00 AM
+25605,"Magus, Felldrake",Kada's Deep,8.42,Primordial Mud Orichalcum,212.00,1113.00,20.57,235956.0000,4360.8400,260551.51792800,06/19/2008 @ 12:00:00 AM
+14942,"Maglioneth, Lord of the Sun",The Secret Shrine of the Gargoyle Count,23.93,Mind Lead,107.00,241.00,219.09,25787.0000,23442.6300,61010.28045900,06/19/2008 @ 12:00:00 AM

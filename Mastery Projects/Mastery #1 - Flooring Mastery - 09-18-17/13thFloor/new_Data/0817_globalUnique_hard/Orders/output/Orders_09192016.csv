@@ -1,31 +1,31 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-23057,"The Unspeakable, Gravebone",Moor Village,11.32,Planar Mudtin Of Trolls,184.00,191.40,174.00,35217.6000,32016.0000,74844.44352000,09/19/2016 @ 12:00:00 AM
-23139,"Goddess of Trickery, Alik",The Lewd King,45.98,Shadowhell Mithril,166.00,462.21,420.19,76726.8600,69751.5400,213829.16832000,09/19/2016 @ 12:00:00 AM
-35160,"God of Resurrection, Gadriel",Barad Kesa,6.17,Yellow Mistearth Copper,220.00,287.98,261.80,63355.6000,57596.0000,128414.31372000,09/19/2016 @ 12:00:00 AM
-36583,"The Cold, Burnfreeze",The Fen of the Necromancer,32.21,Vampires' Hammer Emeraldmetal,185.00,93.70,85.18,17334.5000,15758.3000,43751.99088000,09/19/2016 @ 12:00:00 AM
-1364,"Roguemist, Rouge",The Dungeon of Dismal Terror,40.27,Mithril Of The Tropics,389.00,1565.76,189.00,609080.6400,73521.0000,957485.32042800,09/19/2016 @ 12:00:00 AM
-1399,"The Blade, Steelterror",The Secret Shrine of the Gargoyle Count,19.77,Fog Lavaplatinum Of Life,157.00,2232.00,463.10,350424.0000,72706.7000,506783.63939000,09/19/2016 @ 12:00:00 AM
-35551,"Reaper, Dagger",Citadel Ward,4.40,Vampires' Fang Emeraldsilver,224.00,2033.69,88.92,455546.5600,19918.0800,496385.08416000,09/19/2016 @ 12:00:00 AM
-12920,"The Unspeakable, Scarechain",Noble's Village,5.43,White Platinum,194.00,83.49,91.84,16197.0600,17816.9600,35860.98128600,09/19/2016 @ 12:00:00 AM
-23731,Bronzespawn,The Forsaken Sepulcher of Sorrows,31.36,Djinni's Mind Fogiron,99.00,57.23,57.23,5665.7700,5665.7700,14885.11094400,09/19/2016 @ 12:00:00 AM
-23763,"Godwarlock, Sunrise",Fellfen Keep,38.00,Unicorns' Fatal Magma Metal Of The Ocean,265.00,25.30,23.00,6704.5000,6095.0000,17663.31000000,09/19/2016 @ 12:00:00 AM
-34396,"God of Fate, Uriel",Barad Cune,49.21,Warlocks' Timerot Mithril,191.00,194.65,194.65,37178.1500,37178.1500,110947.03523000,09/19/2016 @ 12:00:00 AM
-33223,"Felldrake, Magus",Pewold Keep,29.00,Forgotten Mithril,388.00,600.28,545.71,232908.6400,211735.4800,573590.91480000,09/19/2016 @ 12:00:00 AM
-34966,"The Unspeakable, Gravebone",Barad Kesa,6.17,Grayplatinum,157.00,2548.00,115.43,400036.0000,18122.5100,443958.89006700,09/19/2016 @ 12:00:00 AM
-20457,"Lawslayer, Valentine",The Greedy Wench,13.31,Shadow Metal,271.00,1606.00,298.00,435226.0000,80758.0000,584661.47040000,09/19/2016 @ 12:00:00 AM
-19840,"The Unspeakable, Terrorghoul",The Greedy Wench,13.31,Fairies' Supreme Mistsmoke Lead Of The Future,105.00,499.73,499.73,52471.6500,52471.6500,118911.25323000,09/19/2016 @ 12:00:00 AM
-30376,"The Living Device, Mecharig",The Greedy Wench,13.31,White Platinum,236.00,101.02,91.84,23840.7200,21674.2400,51573.00117600,09/19/2016 @ 12:00:00 AM
-17344,Ironbrood,Gena's Hold,5.85,Golems' Stonesapphire Gold Of The Glacier,150.00,176.00,160.00,26400.0000,24000.0000,53348.40000000,09/19/2016 @ 12:00:00 AM
-16192,"Seraphheart, Storm",The Bastion of the Lich Tyrant,7.14,Tritons' Time Stoneiron Of Legend,357.00,341.59,341.59,121947.6300,121947.6300,261309.38156400,09/19/2016 @ 12:00:00 AM
-444,Springsprocket,Bergfison's Deep,16.00,Phantasmal Smokezephyr Mercury Of Men,158.00,1330.00,192.00,210140.0000,30336.0000,278952.16000000,09/19/2016 @ 12:00:00 AM
-663,"The Chiller, Chillfire",Gawold Castle,9.35,Stone Soulsteel Of The Skies,167.00,3459.15,340.58,577678.0500,56876.8600,693885.79408500,09/19/2016 @ 12:00:00 AM
-16436,"Drakecaster, Sephiroth",The Fortress of Akkun the Grim,27.03,Lycanthropes' Gold,143.00,371.80,338.00,53167.4000,48334.0000,128937.22842000,09/19/2016 @ 12:00:00 AM
-5229,"Amberslayer, Flora",The Dancing Minstrel,36.02,Sirens' Rockgold,224.00,306.13,278.30,68573.1200,62339.2000,178066.93766400,09/19/2016 @ 12:00:00 AM
-27220,Wheelspawn,The Pirate's Pipe,16.94,Vampires' Hammer Emeraldmetal,95.00,93.70,85.18,8901.5000,8092.1000,19872.31584000,09/19/2016 @ 12:00:00 AM
-6645,"God of Fate, Sielach",The Barrow of Terrible Horror,27.39,Shadowhell Mithril,281.00,462.21,420.19,129881.0100,118073.3900,315869.11016000,09/19/2016 @ 12:00:00 AM
-29947,"The Horrorific, Evilfear",The Greedy Wench,13.31,Incubi's Glittering Tin Of The Future,154.00,192.96,233.49,29715.8400,35957.4600,74414.41623000,09/19/2016 @ 12:00:00 AM
-29973,"The Living Device, Mecharig",The Greedy Wench,13.31,Heavenly Dreamsilver Of The Night,195.00,719.00,314.60,140205.0000,61347.0000,228378.57120000,09/19/2016 @ 12:00:00 AM
-4271,"Lord of Nightmares, Iran",Kada's Deep,7.65,Muck Orichalcum Of Ogres,164.00,2080.00,97.93,341120.0000,16060.5200,384504.82978000,09/19/2016 @ 12:00:00 AM
-26600,"Reaper, Dagger",Bifar's Deep,12.21,Heavenly Dreamsilver Of The Night,265.00,719.00,314.60,190535.0000,83369.0000,307347.67840000,09/19/2016 @ 12:00:00 AM
-37576,"The Mechanical, Snarepiston",The Greedy Wench,13.31,Ghouls' Imperial Soulzephyr Mithril Of The Seas,295.00,318.23,318.23,93877.8500,93877.8500,212745.98367000,09/19/2016 @ 12:00:00 AM
-13571,"Angelchild, Harmony",The Bastion of the Vampire Duke,37.90,Starsmoke Bronze Of Life,259.00,-438.00,420.81,-113442.0000,108989.7900,-6139.59759000,09/19/2016 @ 12:00:00 AM
+23057,"Gravebone, The Unspeakable",Moor Village,11.32,Planar Mudtin Of Trolls,184.00,191.40,174.00,35217.6000,32016.0000,74844.44352000,09/19/2006 @ 12:00:00 AM
+23139,"Alik, Goddess of Trickery",The Lewd King,45.98,Shadowhell Mithril,166.00,462.21,420.19,76726.8600,69751.5400,213829.16832000,09/19/2006 @ 12:00:00 AM
+35160,"Gadriel, God of Resurrection",Barad Kesa,6.17,Yellow Mistearth Copper,220.00,287.98,261.80,63355.6000,57596.0000,128414.31372000,09/19/2006 @ 12:00:00 AM
+36583,"Burnfreeze, The Cold",The Fen of the Necromancer,32.21,Vampires' Hammer Emeraldmetal,185.00,93.70,85.18,17334.5000,15758.3000,43751.99088000,09/19/2006 @ 12:00:00 AM
+1364,"Rouge, Roguemist",The Dungeon of Dismal Terror,40.27,Mithril Of The Tropics,389.00,1565.76,189.00,609080.6400,73521.0000,957485.32042800,09/19/2006 @ 12:00:00 AM
+1399,"Steelterror, The Blade",The Secret Shrine of the Gargoyle Count,19.77,Fog Lavaplatinum Of Life,157.00,2232.00,463.10,350424.0000,72706.7000,506783.63939000,09/19/2006 @ 12:00:00 AM
+35551,"Dagger, Reaper",Citadel Ward,4.40,Vampires' Fang Emeraldsilver,224.00,2033.69,88.92,455546.5600,19918.0800,496385.08416000,09/19/2006 @ 12:00:00 AM
+12920,"Scarechain, The Unspeakable",Noble's Village,5.43,White Platinum,194.00,83.49,91.84,16197.0600,17816.9600,35860.98128600,09/19/2006 @ 12:00:00 AM
+23731,Bronzespawn,The Forsaken Sepulcher of Sorrows,31.36,Djinni's Mind Fogiron,99.00,57.23,57.23,5665.7700,5665.7700,14885.11094400,09/19/2006 @ 12:00:00 AM
+23763,"Sunrise, Godwarlock",Fellfen Keep,38.00,Unicorns' Fatal Magma Metal Of The Ocean,265.00,25.30,23.00,6704.5000,6095.0000,17663.31000000,09/19/2016 @ 12:00:00 AM
+34396,"Uriel, God of Fate",Barad Cune,49.21,Warlocks' Timerot Mithril,191.00,194.65,194.65,37178.1500,37178.1500,110947.03523000,09/19/2006 @ 12:00:00 AM
+33223,"Magus, Felldrake",Pewold Keep,29.00,Forgotten Mithril,388.00,600.28,545.71,232908.6400,211735.4800,573590.91480000,09/19/2006 @ 12:00:00 AM
+34966,"Gravebone, The Unspeakable",Barad Kesa,6.17,Grayplatinum,157.00,2548.00,115.43,400036.0000,18122.5100,443958.89006700,09/19/2016 @ 12:00:00 AM
+20457,"Valentine, Lawslayer",The Greedy Wench,13.31,Shadow Metal,271.00,1606.00,298.00,435226.0000,80758.0000,584661.47040000,09/19/2006 @ 12:00:00 AM
+19840,"Terrorghoul, The Unspeakable",The Greedy Wench,13.31,Fairies' Supreme Mistsmoke Lead Of The Future,105.00,499.73,499.73,52471.6500,52471.6500,118911.25323000,09/19/2006 @ 12:00:00 AM
+30376,"Mecharig, The Living Device",The Greedy Wench,13.31,White Platinum,236.00,101.02,91.84,23840.7200,21674.2400,51573.00117600,09/19/2006 @ 12:00:00 AM
+17344,Ironbrood,Gena's Hold,5.85,Golems' Stonesapphire Gold Of The Glacier,150.00,176.00,160.00,26400.0000,24000.0000,53348.40000000,09/19/2006 @ 12:00:00 AM
+16192,"Storm, Seraphheart",The Bastion of the Lich Tyrant,7.14,Tritons' Time Stoneiron Of Legend,357.00,341.59,341.59,121947.6300,121947.6300,261309.38156400,09/19/2016 @ 12:00:00 AM
+444,Springsprocket,Bergfison's Deep,16.00,Phantasmal Smokezephyr Mercury Of Men,158.00,1330.00,192.00,210140.0000,30336.0000,278952.16000000,09/19/2006 @ 12:00:00 AM
+663,"Chillfire, The Chiller",Gawold Castle,9.35,Stone Soulsteel Of The Skies,167.00,3459.15,340.58,577678.0500,56876.8600,693885.79408500,09/19/2006 @ 12:00:00 AM
+16436,"Sephiroth, Drakecaster",The Fortress of Akkun the Grim,27.03,Lycanthropes' Gold,143.00,371.80,338.00,53167.4000,48334.0000,128937.22842000,09/19/2006 @ 12:00:00 AM
+5229,"Flora, Amberslayer",The Dancing Minstrel,36.02,Sirens' Rockgold,224.00,306.13,278.30,68573.1200,62339.2000,178066.93766400,09/19/2006 @ 12:00:00 AM
+27220,Wheelspawn,The Pirate's Pipe,16.94,Vampires' Hammer Emeraldmetal,95.00,93.70,85.18,8901.5000,8092.1000,19872.31584000,09/19/2006 @ 12:00:00 AM
+6645,"Sielach, God of Fate",The Barrow of Terrible Horror,27.39,Shadowhell Mithril,281.00,462.21,420.19,129881.0100,118073.3900,315869.11016000,09/19/2006 @ 12:00:00 AM
+29947,"Evilfear, The Horrorific",The Greedy Wench,13.31,Incubi's Glittering Tin Of The Future,154.00,192.96,233.49,29715.8400,35957.4600,74414.41623000,09/19/2006 @ 12:00:00 AM
+29973,"Mecharig, The Living Device",The Greedy Wench,13.31,Heavenly Dreamsilver Of The Night,195.00,719.00,314.60,140205.0000,61347.0000,228378.57120000,09/19/2006 @ 12:00:00 AM
+4271,"Iran, Lord of Nightmares",Kada's Deep,7.65,Muck Orichalcum Of Ogres,164.00,2080.00,97.93,341120.0000,16060.5200,384504.82978000,09/19/2006 @ 12:00:00 AM
+26600,"Dagger, Reaper",Bifar's Deep,12.21,Heavenly Dreamsilver Of The Night,265.00,719.00,314.60,190535.0000,83369.0000,307347.67840000,09/19/2006 @ 12:00:00 AM
+37576,"Snarepiston, The Mechanical",The Greedy Wench,13.31,Ghouls' Imperial Soulzephyr Mithril Of The Seas,295.00,318.23,318.23,93877.8500,93877.8500,212745.98367000,09/19/2006 @ 12:00:00 AM
+13571,"Harmony, Angelchild",The Bastion of the Vampire Duke,37.90,Starsmoke Bronze Of Life,259.00,-438.00,420.81,-113442.0000,108989.7900,-6139.59759000,09/19/2006 @ 12:00:00 AM

@@ -1,22 +1,22 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-23293,"God of Death, Avriel",The Fortress of Akkun the Grim,27.03,Tritons' Time Stoneiron Of Legend,181.00,341.59,341.59,61827.7900,61827.7900,157079.68327400,07/02/2017 @ 12:00:00 AM
-11376,"The Living Device, Mecharig",The Fortress of the Lich Queen,18.84,Swordbronze,265.00,333.30,303.00,88324.5000,80295.0000,200387.41380000,07/02/2017 @ 12:00:00 AM
-2740,"Lawslayer, Valentine",The Fortress of the Lich Queen,17.13,Unknowable Mindsilver,351.00,34.00,159.00,11934.0000,55809.0000,79347.37590000,07/02/2017 @ 12:00:00 AM
-24790,"The Horrorific, Evilfear",Bifar's Deep,12.21,Foul Ice Bronze Of Life,107.00,292.82,266.20,31331.7400,28483.4000,67118.56859400,07/02/2017 @ 12:00:00 AM
-35720,Metalbrood,The Nulukkhath Spires,28.99,Ghouls' Imperial Soulzephyr Mithril Of The Seas,39.00,318.23,318.23,12410.9700,12410.9700,32017.82040600,07/02/2017 @ 12:00:00 AM
-19059,"The Grasping, Nettool",The Bastion of Barbos,25.41,Foul Ice Bronze Of Life,57.00,292.82,266.20,16690.7400,15173.4000,39960.81797400,07/02/2017 @ 12:00:00 AM
-19178,"God of Thieves, Maeglodor",Weke Tower,47.19,Vampires' Fang Emeraldsilver,130.00,2033.69,80.84,264379.7000,10509.2000,404608.97191000,07/02/2017 @ 12:00:00 AM
-18067,"Lord of Death, Addon",Bergfison's Deep,16.00,Mithril Of The Tropics,189.00,276.72,251.56,52300.0800,47544.8400,115820.10720000,07/02/2017 @ 12:00:00 AM
-9439,"The Mechanical, Snarepiston",The Lost Sanctum of Woe,43.20,Unknowable Mindsilver,123.00,174.90,174.90,21512.7000,21512.7000,61612.37280000,07/02/2017 @ 12:00:00 AM
-21959,"Tsunami, Seraphim",Pewold Keep,29.00,Imperial Fate Steel,348.00,419.10,381.00,145846.8000,132588.0000,359180.89200000,07/02/2017 @ 12:00:00 AM
-29179,"Goddess of Thieves, Melcha",The Nulukkhath Spires,28.99,Fleshshock Mercury,310.00,-31.02,-28.20,-9616.2000,-8742.0000,-23680.24218000,07/02/2017 @ 12:00:00 AM
-7127,Emberspawn,Archring Borough,29.70,Unicorns' Fatal Magma Metal Of The Ocean,186.00,903.00,23.00,167958.0000,4278.0000,223390.09200000,07/02/2017 @ 12:00:00 AM
-29221,"Mystery, Lord",The Nulukkhath Spires,28.99,Heavenly Dreamsilver Of The Night,169.00,719.00,314.60,121511.0000,53167.4000,225317.66816000,07/02/2017 @ 12:00:00 AM
-28125,"Bladewitch, Zeal",Barad Kesa,5.61,Undeads' Mind Orichalcum Of The Twilight,195.00,1169.00,364.69,227955.0000,71114.5500,315847.35175500,07/02/2017 @ 12:00:00 AM
-7526,"Roguemist, Rouge",The Bastion of the Vampire Duke,34.45,Sirens' Rockgold,204.00,306.13,278.30,62450.5200,56773.2000,160296.29154000,07/02/2017 @ 12:00:00 AM
-6257,Chainhorror,The Shadow Downs,34.00,Shadowhell Mithril,275.00,462.21,420.19,127107.7500,115552.2500,325164.40000000,07/02/2017 @ 12:00:00 AM
-16395,"Mist, Claw",The Pirate's Pipe,16.94,Undeads' Mind Orichalcum Of The Twilight,119.00,1169.00,301.40,139111.0000,35866.6000,204618.80544000,07/02/2017 @ 12:00:00 AM
-29733,"The Blade, Steelterror",The Tower of Sabiesu the Awesome,10.00,Heavenly Dreamsilver Of The Night,250.00,719.00,314.60,179750.0000,78650.0000,284240.00000000,07/02/2017 @ 12:00:00 AM
-4242,"The Unspeakable, Gravebone",Kada's Deep,7.65,Incubi's Glittering Tin Of The Future,126.00,4393.29,175.42,553554.5400,22102.9200,619695.25569000,07/02/2017 @ 12:00:00 AM
-27947,"Knightclaw, Sunset",The Bastion of the Vampire Duke,45.86,Vampires' Fang Emeraldsilver,85.00,2033.69,80.84,172863.6500,6871.4000,262161.54393000,07/02/2017 @ 12:00:00 AM
-13572,"Lord of Plague, Alas",Gifeld Castle,30.01,Starsmoke Bronze Of Life,65.00,-438.00,420.81,-28470.0000,27352.6500,-1452.66673500,07/02/2017 @ 12:00:00 AM
+23293,"God of Death, Avriel",The Fortress of Akkun the Grim,27.03,Tritons' Time Stoneiron Of Legend,181.00,341.59,341.59,61827.7900,61827.7900,157079.68327400,07/02/1947 @ 12:00:00 AM
+11376,"The Living Device, Mecharig",The Fortress of the Lich Queen,18.84,Swordbronze,265.00,333.30,303.00,88324.5000,80295.0000,200387.41380000,07/02/1947 @ 12:00:00 AM
+2740,"Lawslayer, Valentine",The Fortress of the Lich Queen,17.13,Unknowable Mindsilver,351.00,34.00,159.00,11934.0000,55809.0000,79347.37590000,07/02/1947 @ 12:00:00 AM
+24790,"The Horrorific, Evilfear",Bifar's Deep,12.21,Foul Ice Bronze Of Life,107.00,292.82,266.20,31331.7400,28483.4000,67118.56859400,07/02/1947 @ 12:00:00 AM
+35720,Metalbrood,The Nulukkhath Spires,28.99,Ghouls' Imperial Soulzephyr Mithril Of The Seas,39.00,318.23,318.23,12410.9700,12410.9700,32017.82040600,07/02/1977 @ 12:00:00 AM
+19059,"The Grasping, Nettool",The Bastion of Barbos,25.41,Foul Ice Bronze Of Life,57.00,292.82,266.20,16690.7400,15173.4000,39960.81797400,07/02/1947 @ 12:00:00 AM
+19178,"God of Thieves, Maeglodor",Weke Tower,47.19,Vampires' Fang Emeraldsilver,130.00,2033.69,80.84,264379.7000,10509.2000,404608.97191000,07/02/1947 @ 12:00:00 AM
+18067,"Lord of Death, Addon",Bergfison's Deep,16.00,Mithril Of The Tropics,189.00,276.72,251.56,52300.0800,47544.8400,115820.10720000,07/02/1947 @ 12:00:00 AM
+9439,"The Mechanical, Snarepiston",The Lost Sanctum of Woe,43.20,Unknowable Mindsilver,123.00,174.90,174.90,21512.7000,21512.7000,61612.37280000,07/02/1947 @ 12:00:00 AM
+21959,"Tsunami, Seraphim",Pewold Keep,29.00,Imperial Fate Steel,348.00,419.10,381.00,145846.8000,132588.0000,359180.89200000,07/02/1947 @ 12:00:00 AM
+29179,"Goddess of Thieves, Melcha",The Nulukkhath Spires,28.99,Fleshshock Mercury,310.00,-31.02,-28.20,-9616.2000,-8742.0000,-23680.24218000,07/02/1947 @ 12:00:00 AM
+7127,Emberspawn,Archring Borough,29.70,Unicorns' Fatal Magma Metal Of The Ocean,186.00,903.00,23.00,167958.0000,4278.0000,223390.09200000,07/02/1947 @ 12:00:00 AM
+29221,"Mystery, Lord",The Nulukkhath Spires,28.99,Heavenly Dreamsilver Of The Night,169.00,719.00,314.60,121511.0000,53167.4000,225317.66816000,07/02/1947 @ 12:00:00 AM
+28125,"Bladewitch, Zeal",Barad Kesa,5.61,Undeads' Mind Orichalcum Of The Twilight,195.00,1169.00,364.69,227955.0000,71114.5500,315847.35175500,07/02/1947 @ 12:00:00 AM
+7526,"Roguemist, Rouge",The Bastion of the Vampire Duke,34.45,Sirens' Rockgold,204.00,306.13,278.30,62450.5200,56773.2000,160296.29154000,07/02/1977 @ 12:00:00 AM
+6257,Chainhorror,The Shadow Downs,34.00,Shadowhell Mithril,275.00,462.21,420.19,127107.7500,115552.2500,325164.40000000,07/02/1947 @ 12:00:00 AM
+16395,"Mist, Claw",The Pirate's Pipe,16.94,Undeads' Mind Orichalcum Of The Twilight,119.00,1169.00,301.40,139111.0000,35866.6000,204618.80544000,07/02/1947 @ 12:00:00 AM
+29733,"The Blade, Steelterror",The Tower of Sabiesu the Awesome,10.00,Heavenly Dreamsilver Of The Night,250.00,719.00,314.60,179750.0000,78650.0000,284240.00000000,07/02/1947 @ 12:00:00 AM
+4242,"The Unspeakable, Gravebone",Kada's Deep,7.65,Incubi's Glittering Tin Of The Future,126.00,4393.29,175.42,553554.5400,22102.9200,619695.25569000,07/02/1947 @ 12:00:00 AM
+27947,"Knightclaw, Sunset",The Bastion of the Vampire Duke,45.86,Vampires' Fang Emeraldsilver,85.00,2033.69,80.84,172863.6500,6871.4000,262161.54393000,07/02/1947 @ 12:00:00 AM
+13572,"Lord of Plague, Alas",Gifeld Castle,30.01,Starsmoke Bronze Of Life,65.00,-438.00,420.81,-28470.0000,27352.6500,-1452.66673500,07/02/1947 @ 12:00:00 AM

@@ -1,23 +1,23 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-37824,"God of Thieves, Maeglodor",The Greedy Wench,13.31,Stone Soulsteel Of The Skies,213.00,453.31,453.31,96555.0300,96555.0300,218813.00898600,05/03/2017 @ 12:00:00 AM
-3983,"Godwarlock, Sunrise",Arcanist's Farthing,29.00,Mind Lead,268.00,756.00,199.17,202608.0000,53377.5600,330221.37240000,05/03/2017 @ 12:00:00 AM
-12766,Springsprocket,Gili's Delve,35.89,Dragons' Poison Glitterflesh Steel Of The North,193.00,742.00,82.50,143206.0000,15922.5000,216239.71865000,05/03/2017 @ 12:00:00 AM
-1440,"God of Love, Prusu",The Secret Shrine of the Gargoyle Count,19.77,Ghostly Magic Adamant,355.00,49.50,45.00,17572.5000,15975.0000,40179.84075000,05/03/2017 @ 12:00:00 AM
-2981,"The Chiller, Chillfire",The Lazy Sage,21.93,Warlocks' Timerot Mithril,278.00,725.00,176.95,201550.0000,49192.1000,305729.84253000,05/03/2017 @ 12:00:00 AM
-23956,"Mystery, Lord",The Scoundrel and Flask,45.25,Phantasmal Tin Of The Swamps,259.00,405.96,369.05,105143.6400,95583.9500,291556.82447500,05/03/2017 @ 12:00:00 AM
-33428,"Lord of the Sun, Maglioneth",Pewold Keep,29.00,Fairies' Supreme Mistsmoke Lead Of The Future,276.00,499.73,549.70,137925.4800,151717.2000,373639.05720000,05/03/2017 @ 12:00:00 AM
-10877,"The Terrifying, Deathspike",Archfane District,15.29,Fairies' Supreme Mistsmoke Lead Of The Future,273.00,2622.69,454.30,715994.3700,124023.9000,968457.06348300,05/03/2017 @ 12:00:00 AM
-32255,Flameshiver,Hafeld Keep,47.59,Grayplatinum,144.00,2548.00,104.94,366912.0000,15111.3600,563828.27702400,05/03/2017 @ 12:00:00 AM
-21579,Wheelspawn,Reyny Keep,-3.35,Starsmoke Bronze Of Life,89.00,-438.00,420.81,-38982.0000,37452.0900,-1478.65801500,05/03/2017 @ 12:00:00 AM
-9386,Metalghoul,The Tower of Aces the Accursed,-3.34,Djinni's Spectral Shadowlead Of Life,110.00,1718.00,259.12,188980.0000,28503.2000,210219.26112000,05/03/2017 @ 12:00:00 AM
-32552,Graveterror,The Bastion of the Lich Tyrant,8.64,Grayplatinum,145.00,2548.00,104.94,369460.0000,15216.3000,417912.33232000,05/03/2017 @ 12:00:00 AM
-257,"Seeker, Fate",The Beggar and Cask,25.10,Zephyr Iron,236.00,2249.71,233.69,530931.5600,55150.8400,733189.08240000,05/03/2017 @ 12:00:00 AM
-8623,"Anchor, Rose",The Hunter and Rose,39.60,Starsmoke Bronze Of Life,165.00,-438.00,420.81,-72270.0000,69433.6500,-3959.54460000,05/03/2017 @ 12:00:00 AM
-30445,"The Grasping, Nailpiston",Mahyrst Keep,31.30,Foulopal Copper Of The Skies,288.00,221.83,221.83,63887.0400,63887.0400,167767.36704000,05/03/2017 @ 12:00:00 AM
-425,Spikerivet,The Beggar and Cask,25.10,Phantasmal Smokezephyr Mercury Of Men,224.00,1330.00,192.00,297920.0000,43008.0000,426500.92800000,05/03/2017 @ 12:00:00 AM
-17600,Emberspawn,Bergfison's Deep,16.00,Poison Adamant,254.00,110.96,100.87,28183.8400,25620.9800,62413.59120000,05/03/2017 @ 12:00:00 AM
-16536,Flameshiver,The Secret Shrine of the Gargoyle Count,23.93,Tritons' Time Stoneiron Of Legend,28.00,341.59,341.59,9564.5200,9564.5200,23706.61927200,05/03/2017 @ 12:00:00 AM
-5610,"Lionwatcher, Law",Khali's Delve,1.07,Mithril Of Legend,336.00,169.17,186.09,56841.1200,62526.2400,120644.59075200,05/03/2017 @ 12:00:00 AM
-15623,"The Constructed, Snaretool",The Fortress of Asmamur,-2.66,Starsmoke Bronze Of Life,93.00,-438.00,420.81,-40734.0000,39135.3300,-1556.14537800,05/03/2017 @ 12:00:00 AM
-13206,"Claw, Slayer",Khali's Delve,1.18,Starsmoke Bronze Of Life,216.00,-438.00,420.81,-94608.0000,90894.9600,-3756.85387200,05/03/2017 @ 12:00:00 AM
-36201,Spikesnare,The Fen of the Necromancer,32.21,Ensorceled Sandmetal Of Spirits,88.00,85.18,93.70,7495.8400,8245.6000,20811.75782400,05/03/2017 @ 12:00:00 AM
+37824,"Maeglodor, God of Thieves",The Greedy Wench,13.31,Stone Soulsteel Of The Skies,213.00,453.31,453.31,96555.0300,96555.0300,218813.00898600,05/03/2007 @ 12:00:00 AM
+3983,"Sunrise, Godwarlock",Arcanist's Farthing,29.00,Mind Lead,268.00,756.00,199.17,202608.0000,53377.5600,330221.37240000,05/03/2007 @ 12:00:00 AM
+12766,Springsprocket,Gili's Delve,35.89,Dragons' Poison Glitterflesh Steel Of The North,193.00,742.00,82.50,143206.0000,15922.5000,216239.71865000,05/03/2007 @ 12:00:00 AM
+1440,"Prusu, God of Love",The Secret Shrine of the Gargoyle Count,19.77,Ghostly Magic Adamant,355.00,49.50,45.00,17572.5000,15975.0000,40179.84075000,05/03/2007 @ 12:00:00 AM
+2981,"Chillfire, The Chiller",The Lazy Sage,21.93,Warlocks' Timerot Mithril,278.00,725.00,176.95,201550.0000,49192.1000,305729.84253000,05/03/2007 @ 12:00:00 AM
+23956,"Lord, Mystery",The Scoundrel and Flask,45.25,Phantasmal Tin Of The Swamps,259.00,405.96,369.05,105143.6400,95583.9500,291556.82447500,05/03/2007 @ 12:00:00 AM
+33428,"Maglioneth, Lord of the Sun",Pewold Keep,29.00,Fairies' Supreme Mistsmoke Lead Of The Future,276.00,499.73,549.70,137925.4800,151717.2000,373639.05720000,05/03/2007 @ 12:00:00 AM
+10877,"Deathspike, The Terrifying",Archfane District,15.29,Fairies' Supreme Mistsmoke Lead Of The Future,273.00,2622.69,454.30,715994.3700,124023.9000,968457.06348300,05/03/2007 @ 12:00:00 AM
+32255,Flameshiver,Hafeld Keep,47.59,Grayplatinum,144.00,2548.00,104.94,366912.0000,15111.3600,563828.27702400,05/03/2007 @ 12:00:00 AM
+21579,Wheelspawn,Reyny Keep,-3.35,Starsmoke Bronze Of Life,89.00,-438.00,420.81,-38982.0000,37452.0900,-1478.65801500,05/03/2007 @ 12:00:00 AM
+9386,Metalghoul,The Tower of Aces the Accursed,-3.34,Djinni's Spectral Shadowlead Of Life,110.00,1718.00,259.12,188980.0000,28503.2000,210219.26112000,05/03/2007 @ 12:00:00 AM
+32552,Graveterror,The Bastion of the Lich Tyrant,8.64,Grayplatinum,145.00,2548.00,104.94,369460.0000,15216.3000,417912.33232000,05/03/2007 @ 12:00:00 AM
+257,"Fate, Seeker",The Beggar and Cask,25.10,Zephyr Iron,236.00,2249.71,233.69,530931.5600,55150.8400,733189.08240000,05/03/2007 @ 12:00:00 AM
+8623,"Rose, Anchor",The Hunter and Rose,39.60,Starsmoke Bronze Of Life,165.00,-438.00,420.81,-72270.0000,69433.6500,-3959.54460000,05/03/2007 @ 12:00:00 AM
+30445,"Nailpiston, The Grasping",Mahyrst Keep,31.30,Foulopal Copper Of The Skies,288.00,221.83,221.83,63887.0400,63887.0400,167767.36704000,05/03/2007 @ 12:00:00 AM
+425,Spikerivet,The Beggar and Cask,25.10,Phantasmal Smokezephyr Mercury Of Men,224.00,1330.00,192.00,297920.0000,43008.0000,426500.92800000,05/03/2007 @ 12:00:00 AM
+17600,Emberspawn,Bergfison's Deep,16.00,Poison Adamant,254.00,110.96,100.87,28183.8400,25620.9800,62413.59120000,05/03/2007 @ 12:00:00 AM
+16536,Flameshiver,The Secret Shrine of the Gargoyle Count,23.93,Tritons' Time Stoneiron Of Legend,28.00,341.59,341.59,9564.5200,9564.5200,23706.61927200,05/03/2007 @ 12:00:00 AM
+5610,"Law, Lionwatcher",Khali's Delve,1.07,Mithril Of Legend,336.00,169.17,186.09,56841.1200,62526.2400,120644.59075200,05/03/2007 @ 12:00:00 AM
+15623,"Snaretool, The Constructed",The Fortress of Asmamur,-2.66,Starsmoke Bronze Of Life,93.00,-438.00,420.81,-40734.0000,39135.3300,-1556.14537800,05/03/2007 @ 12:00:00 AM
+13206,"Slayer, Claw",Khali's Delve,1.18,Starsmoke Bronze Of Life,216.00,-438.00,420.81,-94608.0000,90894.9600,-3756.85387200,05/03/2007 @ 12:00:00 AM
+36201,Spikesnare,The Fen of the Necromancer,32.21,Ensorceled Sandmetal Of Spirits,88.00,85.18,93.70,7495.8400,8245.6000,20811.75782400,05/03/2007 @ 12:00:00 AM

@@ -1,22 +1,22 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-36362,"God of Resurrection, Gadriel",The Fen of the Necromancer,32.21,Heavenly Dreamsilver Of The Night,214.00,719.00,346.06,153866.0000,74056.8400,301336.78676400,12/01/2016 @ 12:00:00 AM
-43,"The Mechanical, Snarepiston",The Dungeon of Merciless Woe,3.61,Swordbronze,274.00,-377.00,303.00,-103298.0000,83022.0000,-21007.96360000,12/01/2016 @ 12:00:00 AM
-3863,"Rougehate, Rune",The Black Barrow of Zago the Possessed,12.34,Forgotten Mithril,254.00,3909.75,451.00,993076.5000,114554.0000,1244312.10370000,12/01/2016 @ 12:00:00 AM
-12676,Chainhorror,Bifar's Deep,10.09,Incubi's Iron Of The Dawn,235.00,174.99,174.99,41122.6500,41122.6500,90543.85077000,12/01/2016 @ 12:00:00 AM
-11351,"God of Luck, Ariel",The Fortress of the Lich Queen,18.84,Shadow Metal,194.00,1606.00,298.00,311564.0000,57812.0000,438966.43840000,12/01/2016 @ 12:00:00 AM
-12752,"The Cadaverous, Chainblade",Bergfison's Deep,16.00,Dragons' Poison Glitterflesh Steel Of The North,312.00,742.00,82.50,231504.0000,25740.0000,298403.04000000,12/01/2016 @ 12:00:00 AM
-12736,Emberspawn,Bergfison's Deep,16.00,Foulopal Copper Of The Skies,293.00,201.66,201.66,59086.3800,59086.3800,137080.40160000,12/01/2016 @ 12:00:00 AM
-36709,"Mistmidnight, Tiger",The Fen of the Necromancer,32.21,Vampires' Hammer Emeraldmetal,72.00,93.70,85.18,6746.4000,6132.9600,17027.80185600,12/01/2016 @ 12:00:00 AM
-2947,"Lonedrake, Clash",The Lazy Sage,21.93,Unknowable Mindsilver,138.00,34.00,159.00,4692.0000,21942.0000,32474.83620000,12/01/2016 @ 12:00:00 AM
-21471,"Dire, Wind",Moor Village,11.32,Starsmoke Bronze Of Life,296.00,-438.00,420.81,-129648.0000,124559.7600,-5664.22876800,12/01/2016 @ 12:00:00 AM
-29141,"Mistseeker, Grave",Bifar's Deep,12.21,Hidden Shadowice Lead,358.00,-16.50,-16.50,-5907.0000,-5907.0000,-13256.48940000,12/01/2016 @ 12:00:00 AM
-159,"Lord of Death, Addon",Gili's Delve,35.89,Swordbronze,186.00,-377.00,303.00,-70122.0000,56358.0000,-18703.89960000,12/01/2016 @ 12:00:00 AM
-18404,"The Evil, Snowflame",Peley Keep,20.92,Lycanthropes' Gold,212.00,371.80,338.00,78821.6000,71656.0000,181957.51392000,12/01/2016 @ 12:00:00 AM
-215,Deathbrood,The Bastion of Sthasu the Gruesome,40.00,Shadow Metal,82.00,1606.00,298.00,131692.0000,24436.0000,218579.20000000,12/01/2016 @ 12:00:00 AM
-28114,"Dawn, Tarot",Barad Kesa,5.61,Undeads' Mind Orichalcum Of The Twilight,189.00,1169.00,364.69,220941.0000,68926.4100,306128.97170100,12/01/2016 @ 12:00:00 AM
-16479,"The Mechanical, Snarepiston",The Pirate's Pipe,16.94,Incubi's Iron Of The Dawn,208.00,174.99,174.99,36397.9200,36397.9200,85127.45529600,12/01/2016 @ 12:00:00 AM
-15223,"Runetomb, Song",Dysley Stronghold,35.51,Mind Lead,278.00,241.00,219.09,66998.0000,60907.0200,173324.09260200,12/01/2016 @ 12:00:00 AM
-6739,"Runetomb, Song",The Drunken Thief,18.41,Fleshshock Mercury,171.00,-31.02,-28.20,-5304.4200,-4822.2000,-11990.93074200,12/01/2016 @ 12:00:00 AM
-4177,Emberspawn,The Forsaken Delve of Lord Greywulf,15.62,Timeiron,159.00,3255.00,-14.77,517545.0000,-2348.4300,595670.27423400,12/01/2016 @ 12:00:00 AM
-37032,"Roguemist, Rouge",The Greedy Wench,13.31,Stone Soulsteel Of The Skies,112.00,453.31,453.31,50770.7200,50770.7200,115056.60566400,12/01/2016 @ 12:00:00 AM
-37605,"Drakecaster, Sephiroth",The Greedy Wench,13.31,Ghouls' Imperial Soulzephyr Mithril Of The Seas,150.00,318.23,318.23,47734.5000,47734.5000,108175.92390000,12/01/2016 @ 12:00:00 AM
+36362,"God of Resurrection, Gadriel",The Fen of the Necromancer,32.21,Heavenly Dreamsilver Of The Night,214.00,719.00,346.06,153866.0000,74056.8400,301336.78676400,12/01/1946 @ 12:00:00 AM
+43,"The Mechanical, Snarepiston",The Dungeon of Merciless Woe,3.61,Swordbronze,274.00,-377.00,303.00,-103298.0000,83022.0000,-21007.96360000,12/01/1946 @ 12:00:00 AM
+3863,"Rougehate, Rune",The Black Barrow of Zago the Possessed,12.34,Forgotten Mithril,254.00,3909.75,451.00,993076.5000,114554.0000,1244312.10370000,12/01/1946 @ 12:00:00 AM
+12676,Chainhorror,Bifar's Deep,10.09,Incubi's Iron Of The Dawn,235.00,174.99,174.99,41122.6500,41122.6500,90543.85077000,12/01/1946 @ 12:00:00 AM
+11351,"God of Luck, Ariel",The Fortress of the Lich Queen,18.84,Shadow Metal,194.00,1606.00,298.00,311564.0000,57812.0000,438966.43840000,12/01/1946 @ 12:00:00 AM
+12752,"The Cadaverous, Chainblade",Bergfison's Deep,16.00,Dragons' Poison Glitterflesh Steel Of The North,312.00,742.00,82.50,231504.0000,25740.0000,298403.04000000,12/01/1946 @ 12:00:00 AM
+12736,Emberspawn,Bergfison's Deep,16.00,Foulopal Copper Of The Skies,293.00,201.66,201.66,59086.3800,59086.3800,137080.40160000,12/01/1946 @ 12:00:00 AM
+36709,"Mistmidnight, Tiger",The Fen of the Necromancer,32.21,Vampires' Hammer Emeraldmetal,72.00,93.70,85.18,6746.4000,6132.9600,17027.80185600,12/01/1946 @ 12:00:00 AM
+2947,"Lonedrake, Clash",The Lazy Sage,21.93,Unknowable Mindsilver,138.00,34.00,159.00,4692.0000,21942.0000,32474.83620000,12/01/1946 @ 12:00:00 AM
+21471,"Dire, Wind",Moor Village,11.32,Starsmoke Bronze Of Life,296.00,-438.00,420.81,-129648.0000,124559.7600,-5664.22876800,12/01/1946 @ 12:00:00 AM
+29141,"Mistseeker, Grave",Bifar's Deep,12.21,Hidden Shadowice Lead,358.00,-16.50,-16.50,-5907.0000,-5907.0000,-13256.48940000,12/01/1946 @ 12:00:00 AM
+159,"Lord of Death, Addon",Gili's Delve,35.89,Swordbronze,186.00,-377.00,303.00,-70122.0000,56358.0000,-18703.89960000,12/01/1946 @ 12:00:00 AM
+18404,"The Evil, Snowflame",Peley Keep,20.92,Lycanthropes' Gold,212.00,371.80,338.00,78821.6000,71656.0000,181957.51392000,12/01/1946 @ 12:00:00 AM
+215,Deathbrood,The Bastion of Sthasu the Gruesome,40.00,Shadow Metal,82.00,1606.00,298.00,131692.0000,24436.0000,218579.20000000,12/01/1946 @ 12:00:00 AM
+28114,"Dawn, Tarot",Barad Kesa,5.61,Undeads' Mind Orichalcum Of The Twilight,189.00,1169.00,364.69,220941.0000,68926.4100,306128.97170100,12/01/1946 @ 12:00:00 AM
+16479,"The Mechanical, Snarepiston",The Pirate's Pipe,16.94,Incubi's Iron Of The Dawn,208.00,174.99,174.99,36397.9200,36397.9200,85127.45529600,12/01/1946 @ 12:00:00 AM
+15223,"Runetomb, Song",Dysley Stronghold,35.51,Mind Lead,278.00,241.00,219.09,66998.0000,60907.0200,173324.09260200,12/01/1946 @ 12:00:00 AM
+6739,"Runetomb, Song",The Drunken Thief,18.41,Fleshshock Mercury,171.00,-31.02,-28.20,-5304.4200,-4822.2000,-11990.93074200,12/01/1946 @ 12:00:00 AM
+4177,Emberspawn,The Forsaken Delve of Lord Greywulf,15.62,Timeiron,159.00,3255.00,-14.77,517545.0000,-2348.4300,595670.27423400,12/01/1946 @ 12:00:00 AM
+37032,"Roguemist, Rouge",The Greedy Wench,13.31,Stone Soulsteel Of The Skies,112.00,453.31,453.31,50770.7200,50770.7200,115056.60566400,12/01/1946 @ 12:00:00 AM
+37605,"Drakecaster, Sephiroth",The Greedy Wench,13.31,Ghouls' Imperial Soulzephyr Mithril Of The Seas,150.00,318.23,318.23,47734.5000,47734.5000,108175.92390000,12/01/1946 @ 12:00:00 AM

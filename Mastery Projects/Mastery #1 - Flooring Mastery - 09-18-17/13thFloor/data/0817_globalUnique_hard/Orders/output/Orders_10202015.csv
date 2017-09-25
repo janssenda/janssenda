@@ -1,16 +1,16 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-12529,"Drakecaster, Sephiroth",Bergfison's Deep,16.00,Vampires' Fang Emeraldsilver,221.00,2033.69,80.84,449445.4900,17865.6400,542080.91080000,10/20/2015 @ 12:00:00 AM
-23105,"The Freezer, Burnbrood",Moor Village,11.32,Fleshshock Mercury,141.00,-31.02,-28.20,-4373.8200,-3976.2000,-9295.24226400,10/20/2015 @ 12:00:00 AM
-36566,"The Binder, Springpulley",The Fen of the Necromancer,32.21,Ensorceled Sandmetal Of Spirits,122.00,85.18,93.70,10391.9600,11431.4000,28852.66425600,10/20/2015 @ 12:00:00 AM
-35633,"The Living Device, Mecharig",Bifar's Deep,12.21,Ghouls' Imperial Soulzephyr Mithril Of The Seas,392.00,318.23,318.23,124746.1600,124746.1600,279955.33227200,10/20/2015 @ 12:00:00 AM
-19335,"Godseeker, Cult",Mahyrst Keep,31.30,Golems' Stonesapphire Gold Of The Glacier,269.00,176.00,160.00,47344.0000,43040.0000,118674.19200000,10/20/2015 @ 12:00:00 AM
-31543,"The Skeletal, Spiketerror",Hafeld Keep,47.59,Pearl Mirrorice Steel Of Changelings,204.00,365.42,365.42,74545.6800,74545.6800,220043.93822400,10/20/2015 @ 12:00:00 AM
-9856,"The Frigid, Icechill",Archring Borough,29.70,Timeiron,291.00,3255.00,-16.25,947205.0000,-4728.7500,1222391.69625000,10/20/2015 @ 12:00:00 AM
-5010,"God of Thieves, Maeglodor",The Dismal Marsh,27.00,Unspeakable Rotsoul Mithril Of Souls,314.00,2076.95,306.00,652162.3000,96084.0000,950272.80100000,10/20/2015 @ 12:00:00 AM
-5088,"Goddess of Knowledge, Ahah",The Greedy Wench,12.10,Primordial False Gold,196.00,1383.00,391.27,271068.0000,76688.9200,389835.50732000,10/20/2015 @ 12:00:00 AM
-6456,"The Frigid, Icechill",The Wizard's House,20.00,Dragons' Poison Glitterflesh Steel Of The North,166.00,742.00,75.00,123172.0000,12450.0000,162746.40000000,10/20/2015 @ 12:00:00 AM
-28558,Cinderember,The Bastion of the Vampire Duke,45.86,Stone Soulsteel Of The Skies,198.00,453.31,412.10,89755.3800,81595.8000,249932.83114800,10/20/2015 @ 12:00:00 AM
-7930,"Claw, Slayer",Archtemple District,37.85,Zephyr Adamant,164.00,481.77,-44.14,79010.2800,-7238.9600,98936.76462000,10/20/2015 @ 12:00:00 AM
-28685,"Godseeker, Cult",The Chuallanto Jungle,11.00,Vampires' Fang Emeraldsilver,85.00,2033.69,80.84,172863.6500,6871.4000,199505.90550000,10/20/2015 @ 12:00:00 AM
-27435,"Goddess of Trickery, Alik",The Pirate's Pipe,16.94,Unknown Fatelightning Steel Of The Glacier,276.00,145.08,159.59,40042.0800,44046.8400,98333.58304800,10/20/2015 @ 12:00:00 AM
-4334,"Dawn, Tarot",The Secret Catacombs of Ulfang the Black,28.82,Incubi's Iron Of The Dawn,44.00,-431.08,159.08,-18967.5200,6999.5200,-15417.17760000,10/20/2015 @ 12:00:00 AM
+12529,"Drakecaster, Sephiroth",Bergfison's Deep,16.00,Vampires' Fang Emeraldsilver,221.00,2033.69,80.84,449445.4900,17865.6400,542080.91080000,10/20/1945 @ 12:00:00 AM
+23105,"The Freezer, Burnbrood",Moor Village,11.32,Fleshshock Mercury,141.00,-31.02,-28.20,-4373.8200,-3976.2000,-9295.24226400,10/20/1945 @ 12:00:00 AM
+36566,"The Binder, Springpulley",The Fen of the Necromancer,32.21,Ensorceled Sandmetal Of Spirits,122.00,85.18,93.70,10391.9600,11431.4000,28852.66425600,10/20/1945 @ 12:00:00 AM
+35633,"The Living Device, Mecharig",Bifar's Deep,12.21,Ghouls' Imperial Soulzephyr Mithril Of The Seas,392.00,318.23,318.23,124746.1600,124746.1600,279955.33227200,10/20/1945 @ 12:00:00 AM
+19335,"Godseeker, Cult",Mahyrst Keep,31.30,Golems' Stonesapphire Gold Of The Glacier,269.00,176.00,160.00,47344.0000,43040.0000,118674.19200000,10/20/1945 @ 12:00:00 AM
+31543,"The Skeletal, Spiketerror",Hafeld Keep,47.59,Pearl Mirrorice Steel Of Changelings,204.00,365.42,365.42,74545.6800,74545.6800,220043.93822400,10/20/1945 @ 12:00:00 AM
+9856,"The Frigid, Icechill",Archring Borough,29.70,Timeiron,291.00,3255.00,-16.25,947205.0000,-4728.7500,1222391.69625000,10/20/1945 @ 12:00:00 AM
+5010,"God of Thieves, Maeglodor",The Dismal Marsh,27.00,Unspeakable Rotsoul Mithril Of Souls,314.00,2076.95,306.00,652162.3000,96084.0000,950272.80100000,10/20/1945 @ 12:00:00 AM
+5088,"Goddess of Knowledge, Ahah",The Greedy Wench,12.10,Primordial False Gold,196.00,1383.00,391.27,271068.0000,76688.9200,389835.50732000,10/20/1945 @ 12:00:00 AM
+6456,"The Frigid, Icechill",The Wizard's House,20.00,Dragons' Poison Glitterflesh Steel Of The North,166.00,742.00,75.00,123172.0000,12450.0000,162746.40000000,10/20/1945 @ 12:00:00 AM
+28558,Cinderember,The Bastion of the Vampire Duke,45.86,Stone Soulsteel Of The Skies,198.00,453.31,412.10,89755.3800,81595.8000,249932.83114800,10/20/1945 @ 12:00:00 AM
+7930,"Claw, Slayer",Archtemple District,37.85,Zephyr Adamant,164.00,481.77,-44.14,79010.2800,-7238.9600,98936.76462000,10/20/1945 @ 12:00:00 AM
+28685,"Godseeker, Cult",The Chuallanto Jungle,11.00,Vampires' Fang Emeraldsilver,85.00,2033.69,80.84,172863.6500,6871.4000,199505.90550000,10/20/1945 @ 12:00:00 AM
+27435,"Goddess of Trickery, Alik",The Pirate's Pipe,16.94,Unknown Fatelightning Steel Of The Glacier,276.00,145.08,159.59,40042.0800,44046.8400,98333.58304800,10/20/1945 @ 12:00:00 AM
+4334,"Dawn, Tarot",The Secret Catacombs of Ulfang the Black,28.82,Incubi's Iron Of The Dawn,44.00,-431.08,159.08,-18967.5200,6999.5200,-15417.17760000,10/20/1945 @ 12:00:00 AM

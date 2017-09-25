@@ -1,16 +1,16 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-4967,"The Constructed, Snaretool",The Tower of Aramum,20.00,Forgotten Mithril,202.00,3909.75,451.00,789769.5000,91102.0000,1057045.80000000,04/19/2017 @ 12:00:00 AM
-24528,"The Frigid, Icechill",Eved Castle,30.80,Foul Ice Bronze Of Life,315.00,292.82,266.20,92238.3000,83853.0000,230327.42040000,04/19/2017 @ 12:00:00 AM
-34137,"Runetomb, Song",Reheath Stronghold,39.60,Primordial Plague Mercury Of Legend,293.00,73.70,67.00,21594.1000,19631.0000,57550.23960000,04/19/2017 @ 12:00:00 AM
-22470,"Lord of Nightmares, Iran",The Tomb of Hellish Ruin,36.30,Primordial Mud Orichalcum,204.00,1113.00,20.57,227052.0000,4196.2800,315191.40564000,04/19/2017 @ 12:00:00 AM
-32103,"Tomblion, Shadow",Weke Tower,47.19,Planar Mudtin Of Trolls,98.00,191.40,174.00,18757.2000,17052.0000,52707.56148000,04/19/2017 @ 12:00:00 AM
-10705,"Godseeker, Cult",The Drunken Thief,18.41,Phantasmal Smokezephyr Mercury Of Men,151.00,211.20,192.00,31891.2000,28992.0000,72091.79712000,04/19/2017 @ 12:00:00 AM
-19300,"Mistseeker, Grave",Gifeld Castle,33.01,Spirits' Living Wordhammer Tin Of The Trees,44.00,141.57,128.70,6229.0800,5662.8000,15817.38958800,04/19/2017 @ 12:00:00 AM
-8396,"Lord of Animals, Suriel",Archtemple District,37.85,Zephyr Adamant,316.00,481.77,-44.14,152239.3200,-13948.2400,190634.25378000,04/19/2017 @ 12:00:00 AM
-30370,"The Grasping, Nailpiston",The Tower of Sabiesu the Awesome,10.00,Incubi's Glittering Tin Of The Future,220.00,192.96,233.49,42451.2000,51367.8000,103200.90000000,04/19/2017 @ 12:00:00 AM
-4054,"Goddess of Trickery, Alik",The Broken Shield,12.00,Primordial Plague Mercury Of Legend,178.00,1150.79,67.00,204840.6200,11926.0000,242778.61440000,04/19/2017 @ 12:00:00 AM
-27416,"The Machine, Evilcoil",The Bastion of Gothmog of Udun,-2.42,Sprites' Transcendent Mud Lead Of The South,146.00,3338.65,267.08,487442.9000,38993.6800,513696.81476400,04/19/2017 @ 12:00:00 AM
-16998,"Felldrake, Magus",The Scoundrel and Flask,45.25,Warlocks' Timerot Mithril,269.00,725.00,176.95,195025.0000,47599.5500,352412.15887500,04/19/2017 @ 12:00:00 AM
-28921,"God of Death, Selik",The Citadel of Alammius,32.67,Unknown Fatelightning Steel Of The Glacier,91.00,145.08,159.59,13202.2800,14522.6900,36782.71769900,04/19/2017 @ 12:00:00 AM
-25211,Deathbrood,Gili's Delve,35.89,Primordial Mud Orichalcum,230.00,1113.00,20.57,255990.0000,4731.1000,354293.90279000,04/19/2017 @ 12:00:00 AM
-12162,"God of Luck, Ariel",The Dungeon of Merciless Woe,3.61,Sprites' Transcendent Mud Lead Of The South,174.00,3338.65,242.80,580925.1000,42247.2000,645668.82003000,04/19/2017 @ 12:00:00 AM
+4967,"Snaretool, The Constructed",The Tower of Aramum,20.00,Forgotten Mithril,202.00,3909.75,451.00,789769.5000,91102.0000,1057045.80000000,04/19/2007 @ 12:00:00 AM
+24528,"Icechill, The Frigid",Eved Castle,30.80,Foul Ice Bronze Of Life,315.00,292.82,266.20,92238.3000,83853.0000,230327.42040000,04/19/2007 @ 12:00:00 AM
+34137,"Song, Runetomb",Reheath Stronghold,39.60,Primordial Plague Mercury Of Legend,293.00,73.70,67.00,21594.1000,19631.0000,57550.23960000,04/19/2007 @ 12:00:00 AM
+22470,"Iran, Lord of Nightmares",The Tomb of Hellish Ruin,36.30,Primordial Mud Orichalcum,204.00,1113.00,20.57,227052.0000,4196.2800,315191.40564000,04/19/2007 @ 12:00:00 AM
+32103,"Shadow, Tomblion",Weke Tower,47.19,Planar Mudtin Of Trolls,98.00,191.40,174.00,18757.2000,17052.0000,52707.56148000,04/19/2007 @ 12:00:00 AM
+10705,"Cult, Godseeker",The Drunken Thief,18.41,Phantasmal Smokezephyr Mercury Of Men,151.00,211.20,192.00,31891.2000,28992.0000,72091.79712000,04/19/2007 @ 12:00:00 AM
+19300,"Grave, Mistseeker",Gifeld Castle,33.01,Spirits' Living Wordhammer Tin Of The Trees,44.00,141.57,128.70,6229.0800,5662.8000,15817.38958800,04/19/2007 @ 12:00:00 AM
+8396,"Suriel, Lord of Animals",Archtemple District,37.85,Zephyr Adamant,316.00,481.77,-44.14,152239.3200,-13948.2400,190634.25378000,04/19/2007 @ 12:00:00 AM
+30370,"Nailpiston, The Grasping",The Tower of Sabiesu the Awesome,10.00,Incubi's Glittering Tin Of The Future,220.00,192.96,233.49,42451.2000,51367.8000,103200.90000000,04/19/2007 @ 12:00:00 AM
+4054,"Alik, Goddess of Trickery",The Broken Shield,12.00,Primordial Plague Mercury Of Legend,178.00,1150.79,67.00,204840.6200,11926.0000,242778.61440000,04/19/2007 @ 12:00:00 AM
+27416,"Evilcoil, The Machine",The Bastion of Gothmog of Udun,-2.42,Sprites' Transcendent Mud Lead Of The South,146.00,3338.65,267.08,487442.9000,38993.6800,513696.81476400,04/19/2007 @ 12:00:00 AM
+16998,"Magus, Felldrake",The Scoundrel and Flask,45.25,Warlocks' Timerot Mithril,269.00,725.00,176.95,195025.0000,47599.5500,352412.15887500,04/19/2007 @ 12:00:00 AM
+28921,"Selik, God of Death",The Citadel of Alammius,32.67,Unknown Fatelightning Steel Of The Glacier,91.00,145.08,159.59,13202.2800,14522.6900,36782.71769900,04/19/2007 @ 12:00:00 AM
+25211,Deathbrood,Gili's Delve,35.89,Primordial Mud Orichalcum,230.00,1113.00,20.57,255990.0000,4731.1000,354293.90279000,04/19/2007 @ 12:00:00 AM
+12162,"Ariel, God of Luck",The Dungeon of Merciless Woe,3.61,Sprites' Transcendent Mud Lead Of The South,174.00,3338.65,242.80,580925.1000,42247.2000,645668.82003000,04/19/2007 @ 12:00:00 AM

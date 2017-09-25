@@ -1,17 +1,17 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-11103,"Tombreaper, Rouge",The Broken Shield,12.00,Zephyr Iron,128.00,282.77,257.06,36194.5600,32903.6800,77390.02880000,07/28/2017 @ 12:00:00 AM
-34541,"Seeker, Fate",The Bastion of the Vampire Duke,45.86,Grayplatinum,187.00,2548.00,115.43,476476.0000,21585.4100,726472.37262600,07/28/2017 @ 12:00:00 AM
-33488,"Lawslayer, Valentine",Pewold Keep,29.00,Fairies' Supreme Mistsmoke Lead Of The Future,224.00,499.73,549.70,111939.5200,123132.8000,303243.29280000,07/28/2017 @ 12:00:00 AM
-32096,"God of Death, Selik",The Demon and Toad,-1.21,Planar Mudtin Of Trolls,149.00,191.40,174.00,28518.6000,25926.0000,53785.82034000,07/28/2017 @ 12:00:00 AM
-22820,"Wolf, Jericho",Pewold Keep,29.00,Shadowhell Mithril,132.00,462.21,420.19,61011.7200,55465.0800,150255.07200000,07/28/2017 @ 12:00:00 AM
-34896,"Felldrake, Magus",Barad Kesa,6.17,Ghouls' Imperial Soulzephyr Mithril Of The Seas,326.00,318.23,318.23,103742.9800,103742.9800,220287.84373200,07/28/2017 @ 12:00:00 AM
-8067,"Knightclaw, Sunset",The Hunter and Rose,39.60,Unicorns' Fatal Magma Metal Of The Ocean,169.00,903.00,23.00,152607.0000,3887.0000,218465.62400000,07/28/2017 @ 12:00:00 AM
-19512,"Seeker, Fate",Mahyrst Keep,31.30,Unspeakable Rotsoul Mithril Of Souls,267.00,370.26,336.60,98859.4200,89872.2000,247804.61706000,07/28/2017 @ 12:00:00 AM
-332,"God of Fate, Uriel",The Beggar and Cask,25.10,Warlocks' Timerot Mithril,272.00,725.00,176.95,197200.0000,48130.4000,306908.33040000,07/28/2017 @ 12:00:00 AM
-29461,"The Chiller, Chillfire",The Nulukkhath Spires,28.99,Stone Soulsteel Of The Skies,112.00,453.31,412.10,50770.7200,46155.2000,125024.74420800,07/28/2017 @ 12:00:00 AM
-8891,"The Terrifying, Deathspike",The Black Barrow of Bery,19.80,Planar Mudtin Of Trolls,135.00,191.40,174.00,25839.0000,23490.0000,59096.14200000,07/28/2017 @ 12:00:00 AM
-5129,"Goddess of the Earth, Gono",The Lost Crypts of Sorrows,2.20,Phantasmal Tin Of The Swamps,236.00,3207.64,305.00,757003.0400,71980.0000,847220.66688000,07/28/2017 @ 12:00:00 AM
-28466,"Mist, Claw",The Chuallanto Jungle,11.00,Undeads' Mind Orichalcum Of The Twilight,311.00,1169.00,364.69,363559.0000,113418.5900,529445.12490000,07/28/2017 @ 12:00:00 AM
-29944,Beamtrap,The Greedy Wench,13.31,Heavenly Dreamsilver Of The Night,183.00,719.00,314.60,131577.0000,57571.8000,214324.50528000,07/28/2017 @ 12:00:00 AM
-26347,"Seraphheart, Storm",North Arcanist's Farthing,3.03,Fleshshock Mercury,109.00,-31.02,-28.20,-3381.1800,-3073.8000,-6650.56589400,07/28/2017 @ 12:00:00 AM
-27838,"Spiritraven, Bedlam",The Bastion of Gothmog of Udun,-2.42,Vampires' Hammer Emeraldmetal,238.00,93.70,85.18,22300.6000,20272.8400,41543.16275200,07/28/2017 @ 12:00:00 AM
+11103,"Rouge, Tombreaper",The Broken Shield,12.00,Zephyr Iron,128.00,282.77,257.06,36194.5600,32903.6800,77390.02880000,07/28/2007 @ 12:00:00 AM
+34541,"Fate, Seeker",The Bastion of the Vampire Duke,45.86,Grayplatinum,187.00,2548.00,115.43,476476.0000,21585.4100,726472.37262600,07/28/2007 @ 12:00:00 AM
+33488,"Valentine, Lawslayer",Pewold Keep,29.00,Fairies' Supreme Mistsmoke Lead Of The Future,224.00,499.73,549.70,111939.5200,123132.8000,303243.29280000,07/28/2007 @ 12:00:00 AM
+32096,"Selik, God of Death",The Demon and Toad,-1.21,Planar Mudtin Of Trolls,149.00,191.40,174.00,28518.6000,25926.0000,53785.82034000,07/28/2007 @ 12:00:00 AM
+22820,"Jericho, Wolf",Pewold Keep,29.00,Shadowhell Mithril,132.00,462.21,420.19,61011.7200,55465.0800,150255.07200000,07/28/2007 @ 12:00:00 AM
+34896,"Magus, Felldrake",Barad Kesa,6.17,Ghouls' Imperial Soulzephyr Mithril Of The Seas,326.00,318.23,318.23,103742.9800,103742.9800,220287.84373200,07/28/2007 @ 12:00:00 AM
+8067,"Sunset, Knightclaw",The Hunter and Rose,39.60,Unicorns' Fatal Magma Metal Of The Ocean,169.00,903.00,23.00,152607.0000,3887.0000,218465.62400000,07/28/2007 @ 12:00:00 AM
+19512,"Fate, Seeker",Mahyrst Keep,31.30,Unspeakable Rotsoul Mithril Of Souls,267.00,370.26,336.60,98859.4200,89872.2000,247804.61706000,07/28/2007 @ 12:00:00 AM
+332,"Uriel, God of Fate",The Beggar and Cask,25.10,Warlocks' Timerot Mithril,272.00,725.00,176.95,197200.0000,48130.4000,306908.33040000,07/28/2007 @ 12:00:00 AM
+29461,"Chillfire, The Chiller",The Nulukkhath Spires,28.99,Stone Soulsteel Of The Skies,112.00,453.31,412.10,50770.7200,46155.2000,125024.74420800,07/28/2007 @ 12:00:00 AM
+8891,"Deathspike, The Terrifying",The Black Barrow of Bery,19.80,Planar Mudtin Of Trolls,135.00,191.40,174.00,25839.0000,23490.0000,59096.14200000,07/28/2007 @ 12:00:00 AM
+5129,"Gono, Goddess of the Earth",The Lost Crypts of Sorrows,2.20,Phantasmal Tin Of The Swamps,236.00,3207.64,305.00,757003.0400,71980.0000,847220.66688000,07/28/2007 @ 12:00:00 AM
+28466,"Claw, Mist",The Chuallanto Jungle,11.00,Undeads' Mind Orichalcum Of The Twilight,311.00,1169.00,364.69,363559.0000,113418.5900,529445.12490000,07/28/2007 @ 12:00:00 AM
+29944,Beamtrap,The Greedy Wench,13.31,Heavenly Dreamsilver Of The Night,183.00,719.00,314.60,131577.0000,57571.8000,214324.50528000,07/28/2007 @ 12:00:00 AM
+26347,"Storm, Seraphheart",North Arcanist's Farthing,3.03,Fleshshock Mercury,109.00,-31.02,-28.20,-3381.1800,-3073.8000,-6650.56589400,07/28/2007 @ 12:00:00 AM
+27838,"Bedlam, Spiritraven",The Bastion of Gothmog of Udun,-2.42,Vampires' Hammer Emeraldmetal,238.00,93.70,85.18,22300.6000,20272.8400,41543.16275200,07/28/2007 @ 12:00:00 AM

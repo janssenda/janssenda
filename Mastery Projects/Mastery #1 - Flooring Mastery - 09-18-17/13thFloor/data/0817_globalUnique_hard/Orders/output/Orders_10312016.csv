@@ -1,13 +1,13 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-23455,"Lord of the Sea, Penur",The Secret Catacombs of Ulfang the Black,31.70,Tritons' Time Stoneiron Of Legend,104.00,341.59,341.59,35525.3600,35525.3600,93573.79824000,10/31/2016 @ 12:00:00 AM
-24919,Deathbrood,The Forsaken Sepulcher of Sorrows,31.36,Foul Ice Bronze Of Life,222.00,292.82,266.20,65006.0400,59096.4000,163020.96518400,10/31/2016 @ 12:00:00 AM
-1623,"Dawn, Tarot",The Warrior and Flagon,9.00,Negative Mercury,83.00,4115.00,68.00,341545.0000,5644.0000,378436.01000000,10/31/2016 @ 12:00:00 AM
-8091,Emberfire,The Drunken Thief,18.41,Fleshshock Mercury,276.00,-31.02,-28.20,-8561.5200,-7783.2000,-19353.78295200,10/31/2016 @ 12:00:00 AM
-20530,"Darkzealot, Dawn",Kada's Deep,8.42,Shadow Metal,91.00,1606.00,298.00,146146.0000,27118.0000,187852.82880000,10/31/2016 @ 12:00:00 AM
-8294,"Drakecaster, Sephiroth",The Grey Plains,39.19,Falserainbow Lead,203.00,872.99,70.18,177216.9700,14246.5400,266498.05956900,10/31/2016 @ 12:00:00 AM
-31880,"Mist, Claw",The Demon and Toad,-1.21,Planar Mudtin Of Trolls,203.00,191.40,174.00,38854.2000,35322.0000,73278.66798000,10/31/2016 @ 12:00:00 AM
-31831,"The Unspeakable, Terrorghoul",Noble's Village,6.57,Warlocks' Timerot Mithril,36.00,194.65,194.65,7007.4000,7007.4000,14935.57236000,10/31/2016 @ 12:00:00 AM
-7619,"The Trapper, Boltcrank",Archfane District,15.29,Trolls' Mist Poisonplatinum Of The Twilight,185.00,329.00,400.51,60865.0000,74094.3500,155594.63461500,10/31/2016 @ 12:00:00 AM
-5208,Graveterror,Gena's Hold,4.00,Sirens' Rockgold,219.00,306.13,278.30,67042.4700,60947.7000,133109.77680000,10/31/2016 @ 12:00:00 AM
-37058,"Seraphheart, Storm",The Greedy Wench,13.31,Stone Soulsteel Of The Skies,140.00,453.31,453.31,63463.4000,63463.4000,143820.75708000,10/31/2016 @ 12:00:00 AM
-5813,"The Terrifying, Deathspike",Khali's Delve,1.07,Undeads' Mind Orichalcum Of The Twilight,239.00,1169.00,301.40,279391.0000,72034.6000,355185.85392000,10/31/2016 @ 12:00:00 AM
+23455,"Lord of the Sea, Penur",The Secret Catacombs of Ulfang the Black,31.70,Tritons' Time Stoneiron Of Legend,104.00,341.59,341.59,35525.3600,35525.3600,93573.79824000,10/31/1946 @ 12:00:00 AM
+24919,Deathbrood,The Forsaken Sepulcher of Sorrows,31.36,Foul Ice Bronze Of Life,222.00,292.82,266.20,65006.0400,59096.4000,163020.96518400,10/31/1946 @ 12:00:00 AM
+1623,"Dawn, Tarot",The Warrior and Flagon,9.00,Negative Mercury,83.00,4115.00,68.00,341545.0000,5644.0000,378436.01000000,10/31/1946 @ 12:00:00 AM
+8091,Emberfire,The Drunken Thief,18.41,Fleshshock Mercury,276.00,-31.02,-28.20,-8561.5200,-7783.2000,-19353.78295200,10/31/1946 @ 12:00:00 AM
+20530,"Darkzealot, Dawn",Kada's Deep,8.42,Shadow Metal,91.00,1606.00,298.00,146146.0000,27118.0000,187852.82880000,10/31/1946 @ 12:00:00 AM
+8294,"Drakecaster, Sephiroth",The Grey Plains,39.19,Falserainbow Lead,203.00,872.99,70.18,177216.9700,14246.5400,266498.05956900,10/31/1946 @ 12:00:00 AM
+31880,"Mist, Claw",The Demon and Toad,-1.21,Planar Mudtin Of Trolls,203.00,191.40,174.00,38854.2000,35322.0000,73278.66798000,10/31/1946 @ 12:00:00 AM
+31831,"The Unspeakable, Terrorghoul",Noble's Village,6.57,Warlocks' Timerot Mithril,36.00,194.65,194.65,7007.4000,7007.4000,14935.57236000,10/31/1946 @ 12:00:00 AM
+7619,"The Trapper, Boltcrank",Archfane District,15.29,Trolls' Mist Poisonplatinum Of The Twilight,185.00,329.00,400.51,60865.0000,74094.3500,155594.63461500,10/31/1946 @ 12:00:00 AM
+5208,Graveterror,Gena's Hold,4.00,Sirens' Rockgold,219.00,306.13,278.30,67042.4700,60947.7000,133109.77680000,10/31/1946 @ 12:00:00 AM
+37058,"Seraphheart, Storm",The Greedy Wench,13.31,Stone Soulsteel Of The Skies,140.00,453.31,453.31,63463.4000,63463.4000,143820.75708000,10/31/1986 @ 12:00:00 AM
+5813,"The Terrifying, Deathspike",Khali's Delve,1.07,Undeads' Mind Orichalcum Of The Twilight,239.00,1169.00,301.40,279391.0000,72034.6000,355185.85392000,10/31/1946 @ 12:00:00 AM

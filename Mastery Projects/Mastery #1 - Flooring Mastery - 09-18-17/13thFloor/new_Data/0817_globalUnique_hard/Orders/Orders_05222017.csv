@@ -1,23 +1,23 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-22480,"Dire, Wind",The Tower of Sabiesu the Awesome,10.00,Imperial Fate Steel,231.00,419.10,381.00,96812.1000,88011.0000,203305.41000000,05/22/2017 @ 12:00:00 AM
-21058,"Wolf, Jericho",The Fen of the Necromancer,20.00,Fairies' Supreme Mistsmoke Lead Of The Future,91.00,499.73,499.73,45475.4300,45475.4300,109141.03200000,05/22/2017 @ 12:00:00 AM
-35930,"The Freezer, Shiverflame",The Fen of the Necromancer,32.21,Yellow Mistearth Copper,340.00,287.98,261.80,97913.2000,89012.0000,247133.80692000,05/22/2017 @ 12:00:00 AM
-19074,"The Cremator, Blazeflare",Weke Tower,47.19,Foul Ice Bronze Of Life,54.00,292.82,266.20,15812.2800,14374.8000,44432.36305200,05/22/2017 @ 12:00:00 AM
-21360,"Goddess of the Earth, Gono",Moor Village,11.32,Yellow Mistearth Copper,219.00,287.98,261.80,63067.6200,57334.2000,134031.30602400,05/22/2017 @ 12:00:00 AM
-10783,"The Cold, Burnfreeze",Arcanist's Farthing,29.00,Dragons' Poison Glitterflesh Steel Of The North,51.00,742.00,75.00,37842.0000,3825.0000,53750.43000000,05/22/2017 @ 12:00:00 AM
-9300,"Amberslayer, Flora",The Lost Crypts of Sorrows,2.20,Planar Mudtin Of Trolls,195.00,191.40,174.00,37323.0000,33930.0000,72820.56600000,05/22/2017 @ 12:00:00 AM
-33897,Emberfire,The Cuitamba Jungle,46.75,Warlocks' Timerot Mithril,237.00,194.65,194.65,46132.0500,46132.0500,135397.56675000,05/22/2017 @ 12:00:00 AM
-9634,"God of Luck, Ariel",Hartshill Ward,40.29,Forgotten Mithril,145.00,3909.75,496.10,566913.7500,71934.5000,896240.20992500,05/22/2017 @ 12:00:00 AM
-33917,"God of Resurrection, Gadriel",Mahyrst Keep,31.30,Primordial Plague Mercury Of Legend,220.00,73.70,67.00,16214.0000,14740.0000,40642.60200000,05/22/2017 @ 12:00:00 AM
-6029,"The Machine, Wheelbolt",The Warrior and Flagon,9.00,Grayplatinum,137.00,2548.00,86.73,349076.0000,11882.0100,393444.23090000,05/22/2017 @ 12:00:00 AM
-16190,"The Chiller, Blazefreeze",The Pirate's Pipe,16.94,Incubi's Iron Of The Dawn,63.00,174.99,174.99,11024.3700,11024.3700,25783.79655600,05/22/2017 @ 12:00:00 AM
-30407,"Felldrake, Magus",The Tower of Sabiesu the Awesome,10.00,Incubi's Glittering Tin Of The Future,244.00,192.96,233.49,47082.2400,56971.5600,114459.18000000,05/22/2017 @ 12:00:00 AM
-27007,"Rougehate, Rune",The Chuallanto Jungle,11.00,Heavenly Dreamsilver Of The Night,350.00,719.00,314.60,251650.0000,110110.0000,401553.60000000,05/22/2017 @ 12:00:00 AM
-30620,"The Chiller, Chillfire",The Nulukkhath Spires,28.99,Foulopal Copper Of The Skies,250.00,221.83,221.83,55457.5000,55457.5000,143069.25850000,05/22/2017 @ 12:00:00 AM
-17905,"Godwarlock, Sunrise",Bergfison's Deep,16.00,Ghostly Soul Adamant,153.00,414.70,377.00,63449.1000,57681.0000,140510.91600000,05/22/2017 @ 12:00:00 AM
-14106,"God of Love, Prusu",The Broken Arrow,17.60,Mind Lead,353.00,241.00,219.09,85073.0000,77338.7700,190996.24152000,05/22/2017 @ 12:00:00 AM
-27511,"Gust, Shadow",The Pirate's Pipe,16.94,Vampires' Hammer Emeraldmetal,312.00,93.70,85.18,29234.4000,26576.1600,65264.86886400,05/22/2017 @ 12:00:00 AM
-14247,"The Blade, Scarefear",The Archer and Scroll,49.68,Mind Lead,146.00,241.00,219.09,35186.0000,31987.1400,100544.75595200,05/22/2017 @ 12:00:00 AM
-37139,"Brand, Lightning",The Greedy Wench,13.31,Ghouls' Imperial Soulzephyr Mithril Of The Seas,190.00,318.23,318.23,60463.7000,60463.7000,137022.83694000,05/22/2017 @ 12:00:00 AM
-14702,"Wolf, Jericho",The Secret Shrine of the Gargoyle Count,23.93,Primordial Plague Mercury Of Legend,289.00,73.70,67.00,21299.3000,19363.0000,50392.78839000,05/22/2017 @ 12:00:00 AM
-2160,"Tombreaper, Rouge",Mahyrst Keep,28.45,Spirits' Living Wordhammer Tin Of The Trees,22.00,3897.55,117.00,85746.1000,2574.0000,113447.16845000,05/22/2017 @ 12:00:00 AM
+22480,"Wind, Dire",The Tower of Sabiesu the Awesome,10.00,Imperial Fate Steel,231.00,419.10,381.00,96812.1000,88011.0000,203305.41000000,05/22/2017 @ 12:00:00 AM
+21058,"Jericho, Wolf",The Fen of the Necromancer,20.00,Fairies' Supreme Mistsmoke Lead Of The Future,91.00,499.73,499.73,45475.4300,45475.4300,109141.03200000,05/22/2007 @ 12:00:00 AM
+35930,"Shiverflame, The Freezer",The Fen of the Necromancer,32.21,Yellow Mistearth Copper,340.00,287.98,261.80,97913.2000,89012.0000,247133.80692000,05/22/2017 @ 12:00:00 AM
+19074,"Blazeflare, The Cremator",Weke Tower,47.19,Foul Ice Bronze Of Life,54.00,292.82,266.20,15812.2800,14374.8000,44432.36305200,05/22/2007 @ 12:00:00 AM
+21360,"Gono, Goddess of the Earth",Moor Village,11.32,Yellow Mistearth Copper,219.00,287.98,261.80,63067.6200,57334.2000,134031.30602400,05/22/2007 @ 12:00:00 AM
+10783,"Burnfreeze, The Cold",Arcanist's Farthing,29.00,Dragons' Poison Glitterflesh Steel Of The North,51.00,742.00,75.00,37842.0000,3825.0000,53750.43000000,05/22/2007 @ 12:00:00 AM
+9300,"Flora, Amberslayer",The Lost Crypts of Sorrows,2.20,Planar Mudtin Of Trolls,195.00,191.40,174.00,37323.0000,33930.0000,72820.56600000,05/22/2007 @ 12:00:00 AM
+33897,Emberfire,The Cuitamba Jungle,46.75,Warlocks' Timerot Mithril,237.00,194.65,194.65,46132.0500,46132.0500,135397.56675000,05/22/2007 @ 12:00:00 AM
+9634,"Ariel, God of Luck",Hartshill Ward,40.29,Forgotten Mithril,145.00,3909.75,496.10,566913.7500,71934.5000,896240.20992500,05/22/2007 @ 12:00:00 AM
+33917,"Gadriel, God of Resurrection",Mahyrst Keep,31.30,Primordial Plague Mercury Of Legend,220.00,73.70,67.00,16214.0000,14740.0000,40642.60200000,05/22/2007 @ 12:00:00 AM
+6029,"Wheelbolt, The Machine",The Warrior and Flagon,9.00,Grayplatinum,137.00,2548.00,86.73,349076.0000,11882.0100,393444.23090000,05/22/2007 @ 12:00:00 AM
+16190,"Blazefreeze, The Chiller",The Pirate's Pipe,16.94,Incubi's Iron Of The Dawn,63.00,174.99,174.99,11024.3700,11024.3700,25783.79655600,05/22/2007 @ 12:00:00 AM
+30407,"Magus, Felldrake",The Tower of Sabiesu the Awesome,10.00,Incubi's Glittering Tin Of The Future,244.00,192.96,233.49,47082.2400,56971.5600,114459.18000000,05/22/2007 @ 12:00:00 AM
+27007,"Rune, Rougehate",The Chuallanto Jungle,11.00,Heavenly Dreamsilver Of The Night,350.00,719.00,314.60,251650.0000,110110.0000,401553.60000000,05/22/2007 @ 12:00:00 AM
+30620,"Chillfire, The Chiller",The Nulukkhath Spires,28.99,Foulopal Copper Of The Skies,250.00,221.83,221.83,55457.5000,55457.5000,143069.25850000,05/22/2007 @ 12:00:00 AM
+17905,"Sunrise, Godwarlock",Bergfison's Deep,16.00,Ghostly Soul Adamant,153.00,414.70,377.00,63449.1000,57681.0000,140510.91600000,05/22/2007 @ 12:00:00 AM
+14106,"Prusu, God of Love",The Broken Arrow,17.60,Mind Lead,353.00,241.00,219.09,85073.0000,77338.7700,190996.24152000,05/22/2007 @ 12:00:00 AM
+27511,"Shadow, Gust",The Pirate's Pipe,16.94,Vampires' Hammer Emeraldmetal,312.00,93.70,85.18,29234.4000,26576.1600,65264.86886400,05/22/2007 @ 12:00:00 AM
+14247,"Scarefear, The Blade",The Archer and Scroll,49.68,Mind Lead,146.00,241.00,219.09,35186.0000,31987.1400,100544.75595200,05/22/2007 @ 12:00:00 AM
+37139,"Lightning, Brand",The Greedy Wench,13.31,Ghouls' Imperial Soulzephyr Mithril Of The Seas,190.00,318.23,318.23,60463.7000,60463.7000,137022.83694000,05/22/2007 @ 12:00:00 AM
+14702,"Jericho, Wolf",The Secret Shrine of the Gargoyle Count,23.93,Primordial Plague Mercury Of Legend,289.00,73.70,67.00,21299.3000,19363.0000,50392.78839000,05/22/2007 @ 12:00:00 AM
+2160,"Rouge, Tombreaper",Mahyrst Keep,28.45,Spirits' Living Wordhammer Tin Of The Trees,22.00,3897.55,117.00,85746.1000,2574.0000,113447.16845000,05/22/2007 @ 12:00:00 AM

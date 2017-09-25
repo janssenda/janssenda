@@ -1,17 +1,17 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-12524,"The Chiller, Chillfire",Bergfison's Deep,16.00,Incubi's Iron Of The Dawn,213.00,174.99,174.99,37272.8700,37272.8700,86473.05840000,09/21/2015 @ 12:00:00 AM
-1339,"Mist, Claw",The Broken Arrow,16.00,Spirits' Living Wordhammer Tin Of The Trees,214.00,3897.55,117.00,834075.7000,25038.0000,996571.89200000,09/21/2015 @ 12:00:00 AM
-24917,"Amberslayer, Flora",The Bastion of Barbos,25.41,Foul Ice Bronze Of Life,236.00,292.82,266.20,69105.5200,62823.2000,165451.80775200,09/21/2015 @ 12:00:00 AM
-12905,"Godwarlock, Sunrise",Gili's Delve,35.89,God-touched Greengem Platinum,144.00,206.95,206.95,29800.8000,29800.8000,80992.61424000,09/21/2015 @ 12:00:00 AM
-7087,"Goddess of Knowledge, Baltha",Noble's Village,4.94,Sapphire Mindlead,341.00,-44.77,-40.70,-15266.5700,-13878.7000,-30585.04633800,09/21/2015 @ 12:00:00 AM
-7140,"The Frigid, Icechill",The Khazahol Crags,20.68,Trolls' Mist Poisonplatinum Of The Twilight,108.00,329.00,400.51,35532.0000,43255.0800,95080.24814400,09/21/2015 @ 12:00:00 AM
-7387,"God of Love, Prusu",The Citadel of Tattena the Sinister,22.39,Vampires' Hammer Emeraldmetal,244.00,77.44,70.40,18895.3600,17177.6000,44149.69574400,09/21/2015 @ 12:00:00 AM
-18666,"Goddess of Knowledge, Baltha",Peley Keep,20.92,Phantasmal Tin Of The Swamps,175.00,3207.64,335.50,561337.0000,58712.5000,749763.85540000,09/21/2015 @ 12:00:00 AM
-19947,"Godseeker, Cult",Eved Castle,30.80,Magicians' Legendary Poison Metal,288.00,-52.81,-48.01,-15209.2800,-13826.8800,-37979.29728000,09/21/2015 @ 12:00:00 AM
-6191,"Felldrake, Magus",The Barrow of Terrible Horror,27.39,Glittering Orichalcum,138.00,2056.00,330.00,283728.0000,45540.0000,419454.50520000,09/21/2015 @ 12:00:00 AM
-25092,Chainhorror,Bifar's Deep,12.21,Foul Ice Bronze Of Life,325.00,292.82,266.20,95166.5000,86515.0000,203864.81115000,09/21/2015 @ 12:00:00 AM
-5947,"God of Fate, Sielach",Pawic Keep,31.90,Dragons' Poison Glitterflesh Steel Of The North,144.00,742.00,75.00,106848.0000,10800.0000,155177.71200000,09/21/2015 @ 12:00:00 AM
-15972,"Tombreaper, Rouge",The Dungeon of Merciless Woe,3.61,Djinni's Mind Fogiron,110.00,57.23,52.03,6295.3000,5723.3000,12452.47146000,09/21/2015 @ 12:00:00 AM
-24075,"Goddess of Trickery, Alik",Bifar's Deep,12.21,Tritons' Time Stoneiron Of Legend,186.00,341.59,375.75,63535.7400,69889.5000,149716.46180400,09/21/2015 @ 12:00:00 AM
-26698,"Mystery, Lord",Khali's Delve,1.30,Heavenly Dreamsilver Of The Night,228.00,719.00,314.60,163932.0000,71728.8000,238724.39040000,09/21/2015 @ 12:00:00 AM
-14960,"Veil, Bane",The Fortress of Akkun the Grim,27.03,Angels' Adamant,94.00,51.48,46.80,4839.1200,4399.2000,11735.43789600,09/21/2015 @ 12:00:00 AM
+12524,"The Chiller, Chillfire",Bergfison's Deep,16.00,Incubi's Iron Of The Dawn,213.00,174.99,174.99,37272.8700,37272.8700,86473.05840000,09/21/1945 @ 12:00:00 AM
+1339,"Mist, Claw",The Broken Arrow,16.00,Spirits' Living Wordhammer Tin Of The Trees,214.00,3897.55,117.00,834075.7000,25038.0000,996571.89200000,09/21/1945 @ 12:00:00 AM
+24917,"Amberslayer, Flora",The Bastion of Barbos,25.41,Foul Ice Bronze Of Life,236.00,292.82,266.20,69105.5200,62823.2000,165451.80775200,09/21/1945 @ 12:00:00 AM
+12905,"Godwarlock, Sunrise",Gili's Delve,35.89,God-touched Greengem Platinum,144.00,206.95,206.95,29800.8000,29800.8000,80992.61424000,09/21/1945 @ 12:00:00 AM
+7087,"Goddess of Knowledge, Baltha",Noble's Village,4.94,Sapphire Mindlead,341.00,-44.77,-40.70,-15266.5700,-13878.7000,-30585.04633800,09/21/1985 @ 12:00:00 AM
+7140,"The Frigid, Icechill",The Khazahol Crags,20.68,Trolls' Mist Poisonplatinum Of The Twilight,108.00,329.00,400.51,35532.0000,43255.0800,95080.24814400,09/21/1945 @ 12:00:00 AM
+7387,"God of Love, Prusu",The Citadel of Tattena the Sinister,22.39,Vampires' Hammer Emeraldmetal,244.00,77.44,70.40,18895.3600,17177.6000,44149.69574400,09/21/1945 @ 12:00:00 AM
+18666,"Goddess of Knowledge, Baltha",Peley Keep,20.92,Phantasmal Tin Of The Swamps,175.00,3207.64,335.50,561337.0000,58712.5000,749763.85540000,09/21/1945 @ 12:00:00 AM
+19947,"Godseeker, Cult",Eved Castle,30.80,Magicians' Legendary Poison Metal,288.00,-52.81,-48.01,-15209.2800,-13826.8800,-37979.29728000,09/21/1945 @ 12:00:00 AM
+6191,"Felldrake, Magus",The Barrow of Terrible Horror,27.39,Glittering Orichalcum,138.00,2056.00,330.00,283728.0000,45540.0000,419454.50520000,09/21/1945 @ 12:00:00 AM
+25092,Chainhorror,Bifar's Deep,12.21,Foul Ice Bronze Of Life,325.00,292.82,266.20,95166.5000,86515.0000,203864.81115000,09/21/1945 @ 12:00:00 AM
+5947,"God of Fate, Sielach",Pawic Keep,31.90,Dragons' Poison Glitterflesh Steel Of The North,144.00,742.00,75.00,106848.0000,10800.0000,155177.71200000,09/21/1945 @ 12:00:00 AM
+15972,"Tombreaper, Rouge",The Dungeon of Merciless Woe,3.61,Djinni's Mind Fogiron,110.00,57.23,52.03,6295.3000,5723.3000,12452.47146000,09/21/1945 @ 12:00:00 AM
+24075,"Goddess of Trickery, Alik",Bifar's Deep,12.21,Tritons' Time Stoneiron Of Legend,186.00,341.59,375.75,63535.7400,69889.5000,149716.46180400,09/21/1945 @ 12:00:00 AM
+26698,"Mystery, Lord",Khali's Delve,1.30,Heavenly Dreamsilver Of The Night,228.00,719.00,314.60,163932.0000,71728.8000,238724.39040000,09/21/1945 @ 12:00:00 AM
+14960,"Veil, Bane",The Fortress of Akkun the Grim,27.03,Angels' Adamant,94.00,51.48,46.80,4839.1200,4399.2000,11735.43789600,09/21/1945 @ 12:00:00 AM

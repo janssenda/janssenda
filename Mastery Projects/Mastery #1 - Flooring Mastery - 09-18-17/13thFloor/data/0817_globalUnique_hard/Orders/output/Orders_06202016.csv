@@ -1,18 +1,18 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-37778,"The Blade, Steelterror",The Greedy Wench,13.31,Ghouls' Imperial Soulzephyr Mithril Of The Seas,306.00,318.23,318.23,97378.3800,97378.3800,220678.88475600,06/20/2016 @ 12:00:00 AM
-10141,"Lord of Animals, Suriel",Gifeld Castle,27.28,Forgotten Mithril,203.00,3909.75,496.10,793679.2500,100708.3000,1138376.47364000,06/20/2016 @ 12:00:00 AM
-10262,"Squallmourner, Storm",Kada's Deep,7.65,Fairies' Supreme Mistsmoke Lead Of The Future,224.00,2622.69,454.30,587482.5600,101763.2000,741973.06064000,06/20/2016 @ 12:00:00 AM
-22224,"Rougehate, Rune",The Tomb of Hellish Ruin,36.30,Warlocks' Timerot Mithril,203.00,194.65,176.95,39513.9500,35920.8500,102817.63240000,06/20/2016 @ 12:00:00 AM
-12942,Metalbrood,Archfane District,15.29,Djinni's Mind Fogiron,114.00,57.23,52.03,6524.2200,5931.4200,14360.10735600,06/20/2016 @ 12:00:00 AM
-22821,"God of Resurrection, Gadriel",Pewold Keep,29.00,Imperial Fate Steel,116.00,419.10,381.00,48615.6000,44196.0000,119726.96400000,06/20/2016 @ 12:00:00 AM
-19324,Spikecrank,Weke Tower,47.19,Emerald Orichalcum,77.00,1957.00,129.81,150689.0000,9995.3700,236511.32420300,06/20/2016 @ 12:00:00 AM
-20414,"Anchor, Rose",Fellfen Keep,38.00,Unknowable Mindsilver,214.00,174.90,174.90,37428.6000,37428.6000,103302.93600000,06/20/2016 @ 12:00:00 AM
-8120,Spikecrank,Archtemple District,37.85,Phantasmal Smokezephyr Mercury Of Men,327.00,211.20,192.00,69062.4000,62784.0000,181750.26240000,06/20/2016 @ 12:00:00 AM
-9598,"Tomblion, Shadow",The Lost Crypts of Sorrows,2.20,Undeads' Mind Orichalcum Of The Twilight,151.00,1169.00,301.40,176519.0000,45511.4000,226915.06880000,06/20/2016 @ 12:00:00 AM
-7156,Spikesnare,The Bastion of the Lich Tyrant,6.49,Vampires' Hammer Emeraldmetal,120.00,77.44,70.40,9292.8000,8448.0000,18892.17792000,06/20/2016 @ 12:00:00 AM
-30594,"Dawn, Tarot",The Nulukkhath Spires,28.99,Foulopal Copper Of The Skies,163.00,221.83,221.83,36158.2900,36158.2900,93281.15654200,06/20/2016 @ 12:00:00 AM
-31860,"Lawslayer, Valentine",The Bastion of Gothmog of Udun,-2.66,Warlocks' Timerot Mithril,151.00,194.65,194.65,29392.1500,29392.1500,57220.63762000,06/20/2016 @ 12:00:00 AM
-30976,"Godwarlock, Sunrise",The Nulukkhath Spires,28.99,Witchs' Forbidden Rockrainbow Bronze,139.00,245.63,245.63,34142.5700,34142.5700,88081.00208600,06/20/2016 @ 12:00:00 AM
-14158,"Spiritraven, Bedlam",North Arcanist's Farthing,2.75,Djinni's Evil Sandobsidian Steel Of The Future,143.00,140.58,140.58,20102.9400,20102.9400,41311.54170000,06/20/2016 @ 12:00:00 AM
-13110,"The Chiller, Blazefreeze",The Hunter and Rose,39.60,Starsmoke Bronze Of Life,124.00,-438.00,420.81,-54312.0000,52180.4400,-2975.65776000,06/20/2016 @ 12:00:00 AM
-15934,"The Firey, Evilember",The Dungeon of Merciless Woe,3.61,Djinni's Mind Fogiron,211.00,57.23,52.03,12075.5300,10978.3300,23886.10434600,06/20/2016 @ 12:00:00 AM
+37778,"The Blade, Steelterror",The Greedy Wench,13.31,Ghouls' Imperial Soulzephyr Mithril Of The Seas,306.00,318.23,318.23,97378.3800,97378.3800,220678.88475600,06/20/1946 @ 12:00:00 AM
+10141,"Lord of Animals, Suriel",Gifeld Castle,27.28,Forgotten Mithril,203.00,3909.75,496.10,793679.2500,100708.3000,1138376.47364000,06/20/1946 @ 12:00:00 AM
+10262,"Squallmourner, Storm",Kada's Deep,7.65,Fairies' Supreme Mistsmoke Lead Of The Future,224.00,2622.69,454.30,587482.5600,101763.2000,741973.06064000,06/20/1946 @ 12:00:00 AM
+22224,"Rougehate, Rune",The Tomb of Hellish Ruin,36.30,Warlocks' Timerot Mithril,203.00,194.65,176.95,39513.9500,35920.8500,102817.63240000,06/20/1946 @ 12:00:00 AM
+12942,Metalbrood,Archfane District,15.29,Djinni's Mind Fogiron,114.00,57.23,52.03,6524.2200,5931.4200,14360.10735600,06/20/1946 @ 12:00:00 AM
+22821,"God of Resurrection, Gadriel",Pewold Keep,29.00,Imperial Fate Steel,116.00,419.10,381.00,48615.6000,44196.0000,119726.96400000,06/20/1946 @ 12:00:00 AM
+19324,Spikecrank,Weke Tower,47.19,Emerald Orichalcum,77.00,1957.00,129.81,150689.0000,9995.3700,236511.32420300,06/20/1946 @ 12:00:00 AM
+20414,"Anchor, Rose",Fellfen Keep,38.00,Unknowable Mindsilver,214.00,174.90,174.90,37428.6000,37428.6000,103302.93600000,06/20/1946 @ 12:00:00 AM
+8120,Spikecrank,Archtemple District,37.85,Phantasmal Smokezephyr Mercury Of Men,327.00,211.20,192.00,69062.4000,62784.0000,181750.26240000,06/20/1946 @ 12:00:00 AM
+9598,"Tomblion, Shadow",The Lost Crypts of Sorrows,2.20,Undeads' Mind Orichalcum Of The Twilight,151.00,1169.00,301.40,176519.0000,45511.4000,226915.06880000,06/20/1946 @ 12:00:00 AM
+7156,Spikesnare,The Bastion of the Lich Tyrant,6.49,Vampires' Hammer Emeraldmetal,120.00,77.44,70.40,9292.8000,8448.0000,18892.17792000,06/20/1946 @ 12:00:00 AM
+30594,"Dawn, Tarot",The Nulukkhath Spires,28.99,Foulopal Copper Of The Skies,163.00,221.83,221.83,36158.2900,36158.2900,93281.15654200,06/20/1946 @ 12:00:00 AM
+31860,"Lawslayer, Valentine",The Bastion of Gothmog of Udun,-2.66,Warlocks' Timerot Mithril,151.00,194.65,194.65,29392.1500,29392.1500,57220.63762000,06/20/1946 @ 12:00:00 AM
+30976,"Godwarlock, Sunrise",The Nulukkhath Spires,28.99,Witchs' Forbidden Rockrainbow Bronze,139.00,245.63,245.63,34142.5700,34142.5700,88081.00208600,06/20/1946 @ 12:00:00 AM
+14158,"Spiritraven, Bedlam",North Arcanist's Farthing,2.75,Djinni's Evil Sandobsidian Steel Of The Future,143.00,140.58,140.58,20102.9400,20102.9400,41311.54170000,06/20/1946 @ 12:00:00 AM
+13110,"The Chiller, Blazefreeze",The Hunter and Rose,39.60,Starsmoke Bronze Of Life,124.00,-438.00,420.81,-54312.0000,52180.4400,-2975.65776000,06/20/1946 @ 12:00:00 AM
+15934,"The Firey, Evilember",The Dungeon of Merciless Woe,3.61,Djinni's Mind Fogiron,211.00,57.23,52.03,12075.5300,10978.3300,23886.10434600,06/20/1946 @ 12:00:00 AM

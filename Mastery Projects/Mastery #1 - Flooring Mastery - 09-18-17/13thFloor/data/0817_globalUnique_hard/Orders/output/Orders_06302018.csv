@@ -1,19 +1,19 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-25641,Deathbrood,The Fortress of the Lich Queen,20.72,Djinni's Mind Fogiron,171.00,57.23,57.23,9786.3300,9786.3300,23628.11515200,06/30/2018 @ 12:00:00 AM
-10261,"Goddess of the Earth, Gono",Gena's Hold,4.84,Tritons' Time Stoneiron Of Legend,205.00,2235.00,310.54,458175.0000,63660.7000,547092.54788000,06/30/2018 @ 12:00:00 AM
-34643,"Goddess of Travel, Lenwenye",The Bastion of the Vampire Duke,45.86,Sprites' Transcendent Mud Lead Of The South,248.00,3338.65,267.08,827985.2000,66235.8400,1304310.80894400,06/30/2018 @ 12:00:00 AM
-1950,"Jackalguard, Gale",The Tower of Sheshbazzu,4.00,Foul Ice Bronze Of Life,73.00,-378.00,242.00,-27594.0000,17666.0000,-10325.12000000,06/30/2018 @ 12:00:00 AM
-33548,"The Cremator, Blazeflare",The Archer and Scroll,60.12,Mind Lead,200.00,241.00,219.09,48200.0000,43818.0000,147339.22160000,06/30/2018 @ 12:00:00 AM
-32520,"Spiritraven, Bedlam",The Chuallanto Jungle,11.00,Fairies' Supreme Mistsmoke Lead Of The Future,208.00,499.73,549.70,103943.8400,114337.6000,242292.39840000,06/30/2018 @ 12:00:00 AM
-8719,"The Evil, Burnchill",The Lost Crypts of Sorrows,2.20,Djinni's Spectral Shadowlead Of Life,277.00,1718.00,259.12,475886.0000,71776.2400,559710.80928000,06/30/2018 @ 12:00:00 AM
-27069,"Goddess of Thieves, Melcha",The Chuallanto Jungle,11.00,Heavenly Dreamsilver Of The Night,95.00,719.00,314.60,68305.0000,29887.0000,108993.12000000,06/30/2018 @ 12:00:00 AM
-30798,"Goddess of Trickery, Alik",The Nulukkhath Spires,28.99,Foulopal Copper Of The Skies,174.00,221.83,221.83,38598.4200,38598.4200,99576.20391600,06/30/2018 @ 12:00:00 AM
-4120,"Lonedrake, Clash",The Fortress of Gama,3.00,Ensorceled Sandmetal Of Spirits,33.00,70.40,64.00,2323.2000,2112.0000,4568.25600000,06/30/2018 @ 12:00:00 AM
-28713,"God of Animals, Byzou",The Fortress of Akkun the Grim,27.03,Vampires' Fang Emeraldsilver,97.00,2033.69,80.84,197267.9300,7841.4800,260550.48352300,06/30/2018 @ 12:00:00 AM
-24079,"The Evil, Burnchill",The Dungeon of Merciless Woe,3.97,Phantasmal Tin Of The Swamps,87.00,405.96,369.05,35318.5200,32107.3500,70102.67703900,06/30/2018 @ 12:00:00 AM
-4757,"Drakecaster, Sephiroth",Eved Castle,28.00,Fairies' Supreme Mistsmoke Lead Of The Future,236.00,2622.69,413.00,618954.8400,97468.0000,917021.23520000,06/30/2018 @ 12:00:00 AM
-3470,"The Disinterred, Spikebrood",The Tomb of Hellish Ruin,33.00,Forgotten Mithril,94.00,3909.75,451.00,367516.5000,42394.0000,545180.96500000,06/30/2018 @ 12:00:00 AM
-37428,"Goddess of Knowledge, Ahah",The Greedy Wench,13.31,Stone Soulsteel Of The Skies,171.00,453.31,453.31,77516.0100,77516.0100,175666.78186200,06/30/2018 @ 12:00:00 AM
-4805,Evilbrood,The Secret Catacombs of Ulfang the Black,28.82,Muck Orichalcum Of Ogres,243.00,2080.00,97.93,505440.0000,23796.9900,681763.09051800,06/30/2018 @ 12:00:00 AM
-24249,Wheelspawn,The Scoundrel and Flask,45.25,Unicorns' Fatal Magma Metal Of The Ocean,183.00,25.30,23.00,4629.9000,4209.0000,12838.50225000,06/30/2018 @ 12:00:00 AM
-12267,"Brand, Lightning",The Tomb of Hellish Ruin,33.00,Sirens' Rockgold,253.00,306.13,278.30,77450.8900,70409.9000,196654.85070000,06/30/2018 @ 12:00:00 AM
+25641,Deathbrood,The Fortress of the Lich Queen,20.72,Djinni's Mind Fogiron,171.00,57.23,57.23,9786.3300,9786.3300,23628.11515200,06/30/1948 @ 12:00:00 AM
+10261,"Goddess of the Earth, Gono",Gena's Hold,4.84,Tritons' Time Stoneiron Of Legend,205.00,2235.00,310.54,458175.0000,63660.7000,547092.54788000,06/30/1948 @ 12:00:00 AM
+34643,"Goddess of Travel, Lenwenye",The Bastion of the Vampire Duke,45.86,Sprites' Transcendent Mud Lead Of The South,248.00,3338.65,267.08,827985.2000,66235.8400,1304310.80894400,06/30/1948 @ 12:00:00 AM
+1950,"Jackalguard, Gale",The Tower of Sheshbazzu,4.00,Foul Ice Bronze Of Life,73.00,-378.00,242.00,-27594.0000,17666.0000,-10325.12000000,06/30/1948 @ 12:00:00 AM
+33548,"The Cremator, Blazeflare",The Archer and Scroll,60.12,Mind Lead,200.00,241.00,219.09,48200.0000,43818.0000,147339.22160000,06/30/1948 @ 12:00:00 AM
+32520,"Spiritraven, Bedlam",The Chuallanto Jungle,11.00,Fairies' Supreme Mistsmoke Lead Of The Future,208.00,499.73,549.70,103943.8400,114337.6000,242292.39840000,06/30/1948 @ 12:00:00 AM
+8719,"The Evil, Burnchill",The Lost Crypts of Sorrows,2.20,Djinni's Spectral Shadowlead Of Life,277.00,1718.00,259.12,475886.0000,71776.2400,559710.80928000,06/30/1948 @ 12:00:00 AM
+27069,"Goddess of Thieves, Melcha",The Chuallanto Jungle,11.00,Heavenly Dreamsilver Of The Night,95.00,719.00,314.60,68305.0000,29887.0000,108993.12000000,06/30/1978 @ 12:00:00 AM
+30798,"Goddess of Trickery, Alik",The Nulukkhath Spires,28.99,Foulopal Copper Of The Skies,174.00,221.83,221.83,38598.4200,38598.4200,99576.20391600,06/30/1948 @ 12:00:00 AM
+4120,"Lonedrake, Clash",The Fortress of Gama,3.00,Ensorceled Sandmetal Of Spirits,33.00,70.40,64.00,2323.2000,2112.0000,4568.25600000,06/30/1978 @ 12:00:00 AM
+28713,"God of Animals, Byzou",The Fortress of Akkun the Grim,27.03,Vampires' Fang Emeraldsilver,97.00,2033.69,80.84,197267.9300,7841.4800,260550.48352300,06/30/1948 @ 12:00:00 AM
+24079,"The Evil, Burnchill",The Dungeon of Merciless Woe,3.97,Phantasmal Tin Of The Swamps,87.00,405.96,369.05,35318.5200,32107.3500,70102.67703900,06/30/1948 @ 12:00:00 AM
+4757,"Drakecaster, Sephiroth",Eved Castle,28.00,Fairies' Supreme Mistsmoke Lead Of The Future,236.00,2622.69,413.00,618954.8400,97468.0000,917021.23520000,06/30/1948 @ 12:00:00 AM
+3470,"The Disinterred, Spikebrood",The Tomb of Hellish Ruin,33.00,Forgotten Mithril,94.00,3909.75,451.00,367516.5000,42394.0000,545180.96500000,06/30/1948 @ 12:00:00 AM
+37428,"Goddess of Knowledge, Ahah",The Greedy Wench,13.31,Stone Soulsteel Of The Skies,171.00,453.31,453.31,77516.0100,77516.0100,175666.78186200,06/30/1948 @ 12:00:00 AM
+4805,Evilbrood,The Secret Catacombs of Ulfang the Black,28.82,Muck Orichalcum Of Ogres,243.00,2080.00,97.93,505440.0000,23796.9900,681763.09051800,06/30/1948 @ 12:00:00 AM
+24249,Wheelspawn,The Scoundrel and Flask,45.25,Unicorns' Fatal Magma Metal Of The Ocean,183.00,25.30,23.00,4629.9000,4209.0000,12838.50225000,06/30/1948 @ 12:00:00 AM
+12267,"Brand, Lightning",The Tomb of Hellish Ruin,33.00,Sirens' Rockgold,253.00,306.13,278.30,77450.8900,70409.9000,196654.85070000,06/30/1948 @ 12:00:00 AM

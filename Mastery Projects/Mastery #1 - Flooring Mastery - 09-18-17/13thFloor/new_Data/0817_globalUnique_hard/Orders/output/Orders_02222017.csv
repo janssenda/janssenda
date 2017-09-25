@@ -1,19 +1,19 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-35015,"The Evil, Burnchill",The Bastion of the Vampire Duke,45.86,Yellow Mistearth Copper,135.00,287.98,261.80,38877.3000,35343.0000,108257.72958000,02/22/2017 @ 12:00:00 AM
-25981,"The Living Device, Mecharig",Archfane District,15.29,Sapphire Mindlead,312.00,-44.77,-49.25,-13968.2400,-15366.0000,-33819.44529600,02/22/2017 @ 12:00:00 AM
-11427,"The Freezer, Burnbrood",Mahyrst Keep,28.45,Zephyr Iron,257.00,282.77,257.06,72671.8900,66064.4200,178206.79019500,02/22/2017 @ 12:00:00 AM
-35502,"Lord of the Sea, Penur",Bifar's Deep,12.21,Vampires' Fang Emeraldsilver,201.00,2033.69,88.92,408771.6900,17872.9200,478737.91688100,02/22/2017 @ 12:00:00 AM
-11492,Spikerivet,North Arcanist's Farthing,2.50,Lycanthropes' Gold,298.00,371.80,338.00,110796.4000,100724.0000,216808.41000000,02/22/2017 @ 12:00:00 AM
-10302,"Lord of Plague, Alas",Kada's Deep,7.65,Pearl Mirrorice Steel Of Changelings,81.00,2996.00,302.00,242676.0000,24462.0000,287574.05700000,02/22/2017 @ 12:00:00 AM
-34773,"Lord of the Sun, Maglioneth",Barad Kesa,6.17,Grayplatinum,88.00,2548.00,115.43,224224.0000,10157.8400,248843.19952800,02/22/2017 @ 12:00:00 AM
-34833,Cinderflame,The Bastion of the Vampire Duke,45.86,Ghouls' Imperial Soulzephyr Mithril Of The Seas,241.00,318.23,318.23,76693.4300,76693.4300,223730.07399600,02/22/2017 @ 12:00:00 AM
-31021,"Goddess of Knowledge, Baltha",The Tower of Sabiesu the Awesome,10.00,Foulopal Copper Of The Skies,35.00,221.83,221.83,7764.0500,7764.0500,17080.91000000,02/22/2017 @ 12:00:00 AM
-32335,"God of Protection, Finarfin",The Fen of the Necromancer,29.28,Unspeakable Rotsoul Mithril Of Souls,282.00,370.26,336.60,104413.3200,94921.2000,257699.66745600,02/22/2017 @ 12:00:00 AM
-9327,"God of Luck, Ariel",Gena's Hold,4.40,Djinni's Spectral Shadowlead Of Life,182.00,1718.00,259.12,312676.0000,47159.8400,375668.61696000,02/22/2017 @ 12:00:00 AM
-31155,Cinderember,The Bastion of Gothmog of Udun,-2.66,Planar Mudtin Of Trolls,377.00,191.40,174.00,72157.8000,65598.0000,134091.49572000,02/22/2017 @ 12:00:00 AM
-33911,"Godseeker, Cult",Barad Cune,49.21,Unspeakable Rotsoul Mithril Of Souls,88.00,370.26,336.60,32582.8800,29620.8000,92814.11092800,02/22/2017 @ 12:00:00 AM
-29154,"The Living Device, Mecharig",The Nulukkhath Spires,28.99,Unknown Fatelightning Steel Of The Glacier,282.00,145.08,159.59,40912.5600,45004.3800,110824.26090600,02/22/2017 @ 12:00:00 AM
-8684,"God of Protection, Finarfin",Love Keep,40.56,Djinni's Spectral Shadowlead Of Life,114.00,1718.00,259.12,195852.0000,29539.6800,316810.54540800,02/22/2017 @ 12:00:00 AM
-17834,Evilbrood,Kada's Deep,8.42,Poison Adamant,258.00,110.96,100.87,28627.6800,26024.4600,59253.85018800,02/22/2017 @ 12:00:00 AM
-16804,"Goddess of the Earth, Gono",Gena's Hold,5.85,Plague Tin,237.00,465.25,422.95,110264.2500,100239.1500,222817.84890000,02/22/2017 @ 12:00:00 AM
-5678,"God of Animals, Byzou",The Warrior and Flagon,9.00,Undeads' Mind Orichalcum Of The Twilight,188.00,1169.00,301.40,219772.0000,56663.2000,301314.36800000,02/22/2017 @ 12:00:00 AM
+35015,"Burnchill, The Evil",The Bastion of the Vampire Duke,45.86,Yellow Mistearth Copper,135.00,287.98,261.80,38877.3000,35343.0000,108257.72958000,02/22/2007 @ 12:00:00 AM
+25981,"Mecharig, The Living Device",Archfane District,15.29,Sapphire Mindlead,312.00,-44.77,-49.25,-13968.2400,-15366.0000,-33819.44529600,02/22/2007 @ 12:00:00 AM
+11427,"Burnbrood, The Freezer",Mahyrst Keep,28.45,Zephyr Iron,257.00,282.77,257.06,72671.8900,66064.4200,178206.79019500,02/22/2007 @ 12:00:00 AM
+35502,"Penur, Lord of the Sea",Bifar's Deep,12.21,Vampires' Fang Emeraldsilver,201.00,2033.69,88.92,408771.6900,17872.9200,478737.91688100,02/22/2007 @ 12:00:00 AM
+11492,Spikerivet,North Arcanist's Farthing,2.50,Lycanthropes' Gold,298.00,371.80,338.00,110796.4000,100724.0000,216808.41000000,02/22/2007 @ 12:00:00 AM
+10302,"Alas, Lord of Plague",Kada's Deep,7.65,Pearl Mirrorice Steel Of Changelings,81.00,2996.00,302.00,242676.0000,24462.0000,287574.05700000,02/22/2007 @ 12:00:00 AM
+34773,"Maglioneth, Lord of the Sun",Barad Kesa,6.17,Grayplatinum,88.00,2548.00,115.43,224224.0000,10157.8400,248843.19952800,02/22/2007 @ 12:00:00 AM
+34833,Cinderflame,The Bastion of the Vampire Duke,45.86,Ghouls' Imperial Soulzephyr Mithril Of The Seas,241.00,318.23,318.23,76693.4300,76693.4300,223730.07399600,02/22/2007 @ 12:00:00 AM
+31021,"Baltha, Goddess of Knowledge",The Tower of Sabiesu the Awesome,10.00,Foulopal Copper Of The Skies,35.00,221.83,221.83,7764.0500,7764.0500,17080.91000000,02/22/2017 @ 12:00:00 AM
+32335,"Finarfin, God of Protection",The Fen of the Necromancer,29.28,Unspeakable Rotsoul Mithril Of Souls,282.00,370.26,336.60,104413.3200,94921.2000,257699.66745600,02/22/2017 @ 12:00:00 AM
+9327,"Ariel, God of Luck",Gena's Hold,4.40,Djinni's Spectral Shadowlead Of Life,182.00,1718.00,259.12,312676.0000,47159.8400,375668.61696000,02/22/2007 @ 12:00:00 AM
+31155,Cinderember,The Bastion of Gothmog of Udun,-2.66,Planar Mudtin Of Trolls,377.00,191.40,174.00,72157.8000,65598.0000,134091.49572000,02/22/2007 @ 12:00:00 AM
+33911,"Cult, Godseeker",Barad Cune,49.21,Unspeakable Rotsoul Mithril Of Souls,88.00,370.26,336.60,32582.8800,29620.8000,92814.11092800,02/22/2007 @ 12:00:00 AM
+29154,"Mecharig, The Living Device",The Nulukkhath Spires,28.99,Unknown Fatelightning Steel Of The Glacier,282.00,145.08,159.59,40912.5600,45004.3800,110824.26090600,02/22/2007 @ 12:00:00 AM
+8684,"Finarfin, God of Protection",Love Keep,40.56,Djinni's Spectral Shadowlead Of Life,114.00,1718.00,259.12,195852.0000,29539.6800,316810.54540800,02/22/2007 @ 12:00:00 AM
+17834,Evilbrood,Kada's Deep,8.42,Poison Adamant,258.00,110.96,100.87,28627.6800,26024.4600,59253.85018800,02/22/2007 @ 12:00:00 AM
+16804,"Gono, Goddess of the Earth",Gena's Hold,5.85,Plague Tin,237.00,465.25,422.95,110264.2500,100239.1500,222817.84890000,02/22/2007 @ 12:00:00 AM
+5678,"Byzou, God of Animals",The Warrior and Flagon,9.00,Undeads' Mind Orichalcum Of The Twilight,188.00,1169.00,301.40,219772.0000,56663.2000,301314.36800000,02/22/2007 @ 12:00:00 AM

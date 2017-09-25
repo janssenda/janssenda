@@ -1,23 +1,23 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-12533,"Lord of Death, Addon",Bifar's Deep,10.09,White Platinum,330.00,83.49,91.84,27551.7000,30307.2000,63696.86301000,11/25/2016 @ 12:00:00 AM
-1371,"Lord of the Sun, Maglioneth",The Broken Arrow,16.00,Mithril Of The Tropics,174.00,1565.76,189.00,272442.2400,32886.0000,354180.75840000,11/25/2016 @ 12:00:00 AM
-22492,"God of War, Ingwenel",The Tomb of Hellish Ruin,36.30,Fog Lavaplatinum Of Life,221.00,560.35,509.41,123837.3500,112579.6100,322236.31648000,11/25/2016 @ 12:00:00 AM
-32041,"Seraphheart, Storm",The Demon and Toad,-1.21,Pearl Mirrorice Steel Of Changelings,283.00,365.42,365.42,103413.8600,103413.8600,204325.10458800,11/25/2016 @ 12:00:00 AM
-33297,Evilbrood,Pewold Keep,29.00,Fairies' Supreme Mistsmoke Lead Of The Future,238.00,499.73,549.70,118935.7400,130828.6000,322195.99860000,11/25/2016 @ 12:00:00 AM
-9310,"Goddess of Fate, Azah",Barad Kesa,5.10,Djinni's Spectral Shadowlead Of Life,279.00,1718.00,259.12,479322.0000,72294.4800,579748.92048000,11/25/2016 @ 12:00:00 AM
-31279,"God of Thieves, Maeglodor",The Bastion of Gothmog of Udun,-2.66,Planar Mudtin Of Trolls,358.00,191.40,174.00,68521.2000,62292.0000,127333.56888000,11/25/2016 @ 12:00:00 AM
-15054,"Goddess of the Earth, Gono",The Secret Shrine of the Gargoyle Count,23.93,Mind Lead,155.00,241.00,219.09,37355.0000,33958.9500,88379.37823500,11/25/2016 @ 12:00:00 AM
-27016,Emberspawn,Reheath Stronghold,39.60,Muck Orichalcum Of Ogres,130.00,143.37,130.34,18638.1000,16944.2000,49672.89080000,11/25/2016 @ 12:00:00 AM
-29640,"Anchor, Rose",The Nulukkhath Spires,28.99,Heavenly Dreamsilver Of The Night,260.00,719.00,314.60,186940.0000,81796.0000,346642.56640000,11/25/2016 @ 12:00:00 AM
-30885,"The Living Device, Mecharig",The Broken Arrow,17.60,Ensorceled Sandmetal Of Spirits,169.00,85.18,77.44,14395.4200,13087.3600,32319.74928000,11/25/2016 @ 12:00:00 AM
-4042,"Lionwatcher, Law",The Hunter and Rose,39.60,Mind Lead,181.00,756.00,199.17,136836.0000,36049.7700,241348.53492000,11/25/2016 @ 12:00:00 AM
-29903,"The Cadaverous, Chainblade",The Greedy Wench,13.31,Incubi's Glittering Tin Of The Future,236.00,192.96,233.49,45538.5600,55103.6400,114037.67682000,11/25/2016 @ 12:00:00 AM
-14067,"Tsunami, Seraphim",North Arcanist's Farthing,2.75,Vampires' Hammer Emeraldmetal,136.00,77.44,70.40,10531.8400,9574.4000,20659.16160000,11/25/2016 @ 12:00:00 AM
-16683,"The Frigid, Icechill",Gena's Hold,5.85,Warlocks' Timerot Mithril,209.00,725.00,176.95,151525.0000,36982.5500,199535.24167500,11/25/2016 @ 12:00:00 AM
-6730,"Jester, Seraph",North Grove Ward,41.80,Golems' Stonesapphire Gold Of The Glacier,248.00,589.00,160.00,146072.0000,39680.0000,263396.33600000,11/25/2016 @ 12:00:00 AM
-5870,"Goddess of Knowledge, Baltha",The Warrior and Flagon,9.00,Unholy Poison Copper Of The Mountains,219.00,4312.00,68.97,944328.0000,15104.4300,1045781.34870000,11/25/2016 @ 12:00:00 AM
+12533,"Addon, Lord of Death",Bifar's Deep,10.09,White Platinum,330.00,83.49,91.84,27551.7000,30307.2000,63696.86301000,11/25/2006 @ 12:00:00 AM
+1371,"Maglioneth, Lord of the Sun",The Broken Arrow,16.00,Mithril Of The Tropics,174.00,1565.76,189.00,272442.2400,32886.0000,354180.75840000,11/25/2006 @ 12:00:00 AM
+22492,"Ingwenel, God of War",The Tomb of Hellish Ruin,36.30,Fog Lavaplatinum Of Life,221.00,560.35,509.41,123837.3500,112579.6100,322236.31648000,11/25/2006 @ 12:00:00 AM
+32041,"Storm, Seraphheart",The Demon and Toad,-1.21,Pearl Mirrorice Steel Of Changelings,283.00,365.42,365.42,103413.8600,103413.8600,204325.10458800,11/25/2006 @ 12:00:00 AM
+33297,Evilbrood,Pewold Keep,29.00,Fairies' Supreme Mistsmoke Lead Of The Future,238.00,499.73,549.70,118935.7400,130828.6000,322195.99860000,11/25/2006 @ 12:00:00 AM
+9310,"Azah, Goddess of Fate",Barad Kesa,5.10,Djinni's Spectral Shadowlead Of Life,279.00,1718.00,259.12,479322.0000,72294.4800,579748.92048000,11/25/2006 @ 12:00:00 AM
+31279,"Maeglodor, God of Thieves",The Bastion of Gothmog of Udun,-2.66,Planar Mudtin Of Trolls,358.00,191.40,174.00,68521.2000,62292.0000,127333.56888000,11/25/2006 @ 12:00:00 AM
+15054,"Gono, Goddess of the Earth",The Secret Shrine of the Gargoyle Count,23.93,Mind Lead,155.00,241.00,219.09,37355.0000,33958.9500,88379.37823500,11/25/2006 @ 12:00:00 AM
+27016,Emberspawn,Reheath Stronghold,39.60,Muck Orichalcum Of Ogres,130.00,143.37,130.34,18638.1000,16944.2000,49672.89080000,11/25/2006 @ 12:00:00 AM
+29640,"Rose, Anchor",The Nulukkhath Spires,28.99,Heavenly Dreamsilver Of The Night,260.00,719.00,314.60,186940.0000,81796.0000,346642.56640000,11/25/2006 @ 12:00:00 AM
+30885,"Mecharig, The Living Device",The Broken Arrow,17.60,Ensorceled Sandmetal Of Spirits,169.00,85.18,77.44,14395.4200,13087.3600,32319.74928000,11/25/2006 @ 12:00:00 AM
+4042,"Law, Lionwatcher",The Hunter and Rose,39.60,Mind Lead,181.00,756.00,199.17,136836.0000,36049.7700,241348.53492000,11/25/2006 @ 12:00:00 AM
+29903,"Chainblade, The Cadaverous",The Greedy Wench,13.31,Incubi's Glittering Tin Of The Future,236.00,192.96,233.49,45538.5600,55103.6400,114037.67682000,11/25/2006 @ 12:00:00 AM
+14067,"Seraphim, Tsunami",North Arcanist's Farthing,2.75,Vampires' Hammer Emeraldmetal,136.00,77.44,70.40,10531.8400,9574.4000,20659.16160000,11/25/2016 @ 12:00:00 AM
+16683,"Icechill, The Frigid",Gena's Hold,5.85,Warlocks' Timerot Mithril,209.00,725.00,176.95,151525.0000,36982.5500,199535.24167500,11/25/2006 @ 12:00:00 AM
+6730,"Seraph, Jester",North Grove Ward,41.80,Golems' Stonesapphire Gold Of The Glacier,248.00,589.00,160.00,146072.0000,39680.0000,263396.33600000,11/25/2006 @ 12:00:00 AM
+5870,"Baltha, Goddess of Knowledge",The Warrior and Flagon,9.00,Unholy Poison Copper Of The Mountains,219.00,4312.00,68.97,944328.0000,15104.4300,1045781.34870000,11/25/2006 @ 12:00:00 AM
 13374,Gravebone,Gifeld Castle,30.01,Trolls' Mist Poisonplatinum Of The Twilight,352.00,440.56,400.51,155077.1200,140979.5200,384903.23766400,11/25/2016 @ 12:00:00 AM
-25302,"Goddess of Law, Eumyan",The Fortress of the Lich Queen,20.72,Primordial Mud Orichalcum,291.00,1113.00,20.57,323883.0000,5985.8700,398217.69986400,11/25/2016 @ 12:00:00 AM
-14654,"The Trapper, Boltcrank",The Archer and Scroll,49.68,Djinni's Evil Sandobsidian Steel Of The Future,190.00,140.58,140.58,26710.2000,26710.2000,79959.65472000,11/25/2016 @ 12:00:00 AM
-26831,"God of Fate, Uriel",Reheath Stronghold,39.60,Foulopal Copper Of The Skies,252.00,221.83,201.66,55901.1600,50818.3200,148980.39408000,11/25/2016 @ 12:00:00 AM
-12259,"The Firey, Evilember",Love Keep,40.56,Emerald Orichalcum,185.00,1957.00,129.81,362045.0000,24014.8500,542645.72516000,11/25/2016 @ 12:00:00 AM
+25302,"Eumyan, Goddess of Law",The Fortress of the Lich Queen,20.72,Primordial Mud Orichalcum,291.00,1113.00,20.57,323883.0000,5985.8700,398217.69986400,11/25/2006 @ 12:00:00 AM
+14654,"Boltcrank, The Trapper",The Archer and Scroll,49.68,Djinni's Evil Sandobsidian Steel Of The Future,190.00,140.58,140.58,26710.2000,26710.2000,79959.65472000,11/25/2016 @ 12:00:00 AM
+26831,"Uriel, God of Fate",Reheath Stronghold,39.60,Foulopal Copper Of The Skies,252.00,221.83,201.66,55901.1600,50818.3200,148980.39408000,11/25/2006 @ 12:00:00 AM
+12259,"Evilember, The Firey",Love Keep,40.56,Emerald Orichalcum,185.00,1957.00,129.81,362045.0000,24014.8500,542645.72516000,11/25/2006 @ 12:00:00 AM

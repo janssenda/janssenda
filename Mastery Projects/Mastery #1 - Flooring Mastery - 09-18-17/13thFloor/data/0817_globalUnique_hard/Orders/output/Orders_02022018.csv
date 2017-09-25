@@ -1,21 +1,21 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-24424,"Roguemist, Rouge",The Forsaken Sepulcher of Sorrows,31.36,Ensorceled Sandmetal Of Spirits,219.00,85.18,77.44,18654.4200,16959.3600,46782.26140800,02/02/2018 @ 12:00:00 AM
-13975,"Lord of Death, Addon",The Broken Arrow,17.60,Mind Lead,117.00,241.00,219.09,28197.0000,25633.5300,63304.70328000,02/02/2018 @ 12:00:00 AM
-34216,"The Blade, Scarefear",The Bastion of the Lich Tyrant,8.64,Poison Adamant,134.00,110.96,100.87,14868.6400,13516.5800,30837.70300800,02/02/2018 @ 12:00:00 AM
-35668,"Goddess of Travel, Lenwenye",Citadel Ward,4.40,Magicians' Legendary Poison Metal,187.00,-52.81,-48.01,-9875.4700,-8977.8700,-19682.88696000,02/02/2018 @ 12:00:00 AM
-21369,Springsprocket,Reyny Keep,-3.35,Starsmoke Bronze Of Life,295.00,-438.00,420.81,-129210.0000,124138.9500,-4901.16982500,02/02/2018 @ 12:00:00 AM
-20271,"Spiritraven, Bedlam",Eved Castle,30.80,Unknowable Mindsilver,96.00,174.90,174.90,16790.4000,16790.4000,43923.68640000,02/02/2018 @ 12:00:00 AM
-32564,"The Blade, Scarefear",Hafeld Keep,47.59,Magicians' Legendary Poison Metal,165.00,-52.81,-48.01,-8713.6500,-7921.6500,-24552.03927000,02/02/2018 @ 12:00:00 AM
-18317,"Wolf, Jericho",Peley Keep,20.92,Fairies' Supreme Mistsmoke Lead Of The Future,195.00,499.73,454.30,97447.3500,88588.5000,224954.54982000,02/02/2018 @ 12:00:00 AM
-7112,"The Skeletal, Spiketerror",The Bastion of Sthasu the Gruesome,40.00,Planar Rainfate Mithril,253.00,179.30,163.00,45362.9000,41239.0000,121242.66000000,02/02/2018 @ 12:00:00 AM
-8606,"Lord of Plague, Alas",Gawold Castle,10.29,Unknowable Mindsilver,235.00,174.90,174.90,41101.5000,41101.5000,90661.68870000,02/02/2018 @ 12:00:00 AM
-30587,"Lawslayer, Valentine",The Nulukkhath Spires,28.99,Ensorceled Sandmetal Of Spirits,76.00,85.18,77.44,6473.6800,5885.4400,15942.02888800,02/02/2018 @ 12:00:00 AM
-31878,"The Cadaverous, Chainblade",Gifeld Castle,33.01,Warlocks' Timerot Mithril,89.00,194.65,194.65,17323.8500,17323.8500,46084.90577000,02/02/2018 @ 12:00:00 AM
-29697,Cinderember,The Tower of Sabiesu the Awesome,10.00,Heavenly Dreamsilver Of The Night,159.00,719.00,314.60,114321.0000,50021.4000,180776.64000000,02/02/2018 @ 12:00:00 AM
-7762,"The Machine, Evilcoil",The Forsaken Hive of Galima the Mighty,0.39,Sapphire Mindlead,135.00,-44.77,-40.70,-6043.9500,-5494.5000,-11583.44995500,02/02/2018 @ 12:00:00 AM
-26029,"Godwarlock, Sunrise",The Dungeon of Merciless Woe,3.97,Sapphire Mindlead,154.00,-44.77,-49.25,-6894.5800,-7584.5000,-15053.89947600,02/02/2018 @ 12:00:00 AM
-16827,"Lord of the Sea, Penur",The Scoundrel and Flask,45.25,Incubi's Glittering Tin Of The Future,102.00,192.96,212.26,19681.9200,21650.5200,60035.36910000,02/02/2018 @ 12:00:00 AM
-27607,"The Living Device, Mecharig",The Bastion of Gothmog of Udun,-2.42,Sprites' Transcendent Mud Lead Of The South,338.00,3338.65,267.08,1128463.7000,90273.0400,1189243.31089200,02/02/2018 @ 12:00:00 AM
-25231,"Angelchild, Harmony",The Pirate's Pipe,16.94,Planar Mudtin Of Trolls,95.00,191.40,174.00,18183.0000,16530.0000,40593.38220000,02/02/2018 @ 12:00:00 AM
-2014,"Wolf, Jericho",The Tower of Sheshbazzu,4.00,Ghostly Magic Adamant,319.00,49.50,45.00,15790.5000,14355.0000,31351.32000000,02/02/2018 @ 12:00:00 AM
-12116,"The Frigid, Icechill",Grori's Deep,27.50,Zephyr Adamant,206.00,481.77,-44.14,99244.6200,-9092.8400,114943.51950000,02/02/2018 @ 12:00:00 AM
+24424,"Roguemist, Rouge",The Forsaken Sepulcher of Sorrows,31.36,Ensorceled Sandmetal Of Spirits,219.00,85.18,77.44,18654.4200,16959.3600,46782.26140800,02/02/1948 @ 12:00:00 AM
+13975,"Lord of Death, Addon",The Broken Arrow,17.60,Mind Lead,117.00,241.00,219.09,28197.0000,25633.5300,63304.70328000,02/02/1948 @ 12:00:00 AM
+34216,"The Blade, Scarefear",The Bastion of the Lich Tyrant,8.64,Poison Adamant,134.00,110.96,100.87,14868.6400,13516.5800,30837.70300800,02/02/1948 @ 12:00:00 AM
+35668,"Goddess of Travel, Lenwenye",Citadel Ward,4.40,Magicians' Legendary Poison Metal,187.00,-52.81,-48.01,-9875.4700,-8977.8700,-19682.88696000,02/02/1948 @ 12:00:00 AM
+21369,Springsprocket,Reyny Keep,-3.35,Starsmoke Bronze Of Life,295.00,-438.00,420.81,-129210.0000,124138.9500,-4901.16982500,02/02/1948 @ 12:00:00 AM
+20271,"Spiritraven, Bedlam",Eved Castle,30.80,Unknowable Mindsilver,96.00,174.90,174.90,16790.4000,16790.4000,43923.68640000,02/02/1948 @ 12:00:00 AM
+32564,"The Blade, Scarefear",Hafeld Keep,47.59,Magicians' Legendary Poison Metal,165.00,-52.81,-48.01,-8713.6500,-7921.6500,-24552.03927000,02/02/1948 @ 12:00:00 AM
+18317,"Wolf, Jericho",Peley Keep,20.92,Fairies' Supreme Mistsmoke Lead Of The Future,195.00,499.73,454.30,97447.3500,88588.5000,224954.54982000,02/02/1948 @ 12:00:00 AM
+7112,"The Skeletal, Spiketerror",The Bastion of Sthasu the Gruesome,40.00,Planar Rainfate Mithril,253.00,179.30,163.00,45362.9000,41239.0000,121242.66000000,02/02/1948 @ 12:00:00 AM
+8606,"Lord of Plague, Alas",Gawold Castle,10.29,Unknowable Mindsilver,235.00,174.90,174.90,41101.5000,41101.5000,90661.68870000,02/02/1948 @ 12:00:00 AM
+30587,"Lawslayer, Valentine",The Nulukkhath Spires,28.99,Ensorceled Sandmetal Of Spirits,76.00,85.18,77.44,6473.6800,5885.4400,15942.02888800,02/02/1948 @ 12:00:00 AM
+31878,"The Cadaverous, Chainblade",Gifeld Castle,33.01,Warlocks' Timerot Mithril,89.00,194.65,194.65,17323.8500,17323.8500,46084.90577000,02/02/1948 @ 12:00:00 AM
+29697,Cinderember,The Tower of Sabiesu the Awesome,10.00,Heavenly Dreamsilver Of The Night,159.00,719.00,314.60,114321.0000,50021.4000,180776.64000000,02/02/1948 @ 12:00:00 AM
+7762,"The Machine, Evilcoil",The Forsaken Hive of Galima the Mighty,0.39,Sapphire Mindlead,135.00,-44.77,-40.70,-6043.9500,-5494.5000,-11583.44995500,02/02/1948 @ 12:00:00 AM
+26029,"Godwarlock, Sunrise",The Dungeon of Merciless Woe,3.97,Sapphire Mindlead,154.00,-44.77,-49.25,-6894.5800,-7584.5000,-15053.89947600,02/02/1948 @ 12:00:00 AM
+16827,"Lord of the Sea, Penur",The Scoundrel and Flask,45.25,Incubi's Glittering Tin Of The Future,102.00,192.96,212.26,19681.9200,21650.5200,60035.36910000,02/02/1948 @ 12:00:00 AM
+27607,"The Living Device, Mecharig",The Bastion of Gothmog of Udun,-2.42,Sprites' Transcendent Mud Lead Of The South,338.00,3338.65,267.08,1128463.7000,90273.0400,1189243.31089200,02/02/1978 @ 12:00:00 AM
+25231,"Angelchild, Harmony",The Pirate's Pipe,16.94,Planar Mudtin Of Trolls,95.00,191.40,174.00,18183.0000,16530.0000,40593.38220000,02/02/1948 @ 12:00:00 AM
+2014,"Wolf, Jericho",The Tower of Sheshbazzu,4.00,Ghostly Magic Adamant,319.00,49.50,45.00,15790.5000,14355.0000,31351.32000000,02/02/1948 @ 12:00:00 AM
+12116,"The Frigid, Icechill",Grori's Deep,27.50,Zephyr Adamant,206.00,481.77,-44.14,99244.6200,-9092.8400,114943.51950000,02/02/1948 @ 12:00:00 AM

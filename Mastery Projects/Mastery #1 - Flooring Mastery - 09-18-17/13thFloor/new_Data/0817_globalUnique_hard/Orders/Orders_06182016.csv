@@ -1,19 +1,19 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-23302,"The Disinterred, Spikebrood",Moor Village,11.32,Forgotten Mithril,214.00,545.71,496.10,116781.9400,106165.4000,248184.97888800,06/18/2016 @ 12:00:00 AM
-25967,"Lionwatcher, Law",Citadel Ward,4.40,Starsmoke Bronze Of Life,142.00,-438.00,420.81,-62196.0000,59755.0200,-2548.38312000,06/18/2016 @ 12:00:00 AM
-36862,"God of Protection, Finarfin",The Fen of the Necromancer,32.21,Ensorceled Sandmetal Of Spirits,300.00,85.18,93.70,25554.0000,28110.0000,70949.17440000,06/18/2016 @ 12:00:00 AM
-23718,Gravebone,The Scoundrel and Flask,45.25,Incubi's Glittering Tin Of The Future,83.00,192.96,212.26,16015.6800,17617.5800,48852.31015000,06/18/2016 @ 12:00:00 AM
-33268,"Lord of Animals, Suriel",The Archer and Scroll,60.12,Mind Lead,285.00,241.00,219.09,68685.0000,62440.6500,209958.39078000,06/18/2016 @ 12:00:00 AM
-32171,"Felldrake, Magus",The Fen of the Necromancer,29.28,Unspeakable Rotsoul Mithril Of Souls,309.00,370.26,336.60,114410.3400,104009.4000,282373.03987200,06/18/2016 @ 12:00:00 AM
-20372,"Goddess of Knowledge, Baltha",Reyny Keep,-3.35,Shadow Metal,265.00,1606.00,298.00,425590.0000,78970.0000,487657.24000000,06/18/2016 @ 12:00:00 AM
-33990,"Spiritraven, Bedlam",The Bastion of the Lich Tyrant,8.64,Swordbronze,195.00,403.29,366.63,78641.5500,71492.8500,163106.01216000,06/18/2016 @ 12:00:00 AM
-29169,"The Blade, Steelterror",The Citadel of Alammius,32.67,Stone Soulsteel Of The Skies,32.00,453.31,412.10,14505.9200,13187.2000,36740.46230400,06/18/2016 @ 12:00:00 AM
-439,Emberfire,Gawold Castle,9.35,Succubi's Evil Mindzephyr Adamant Of The Desert,262.00,555.09,39.00,145433.5800,10218.0000,170205.00273000,06/18/2016 @ 12:00:00 AM
-29782,Spikecrank,The Tower of Sabiesu the Awesome,10.00,Swordbronze,128.00,403.29,366.63,51621.1200,46928.6400,108404.73600000,06/18/2016 @ 12:00:00 AM
-28541,"Jackalguard, Gale",Bifar's Deep,12.21,Undeads' Mind Orichalcum Of The Twilight,249.00,1169.00,364.69,291081.0000,90807.8100,428517.43370100,06/18/2016 @ 12:00:00 AM
-26043,Bolttrap,Archfane District,15.29,Tin Of The Tundra,307.00,4121.00,397.25,1265147.0000,121955.7500,1599190.76047500,06/18/2016 @ 12:00:00 AM
-6709,"The Unspeakable, Scarechain",The Barrow of Terrible Horror,27.39,Violetdream Iron,177.00,414.98,377.25,73451.4600,66773.2500,178632.25806900,06/18/2016 @ 12:00:00 AM
-37059,"Tsunami, Seraphim",The Greedy Wench,13.31,Stone Soulsteel Of The Skies,228.00,453.31,453.31,103354.6800,103354.6800,234222.37581600,06/18/2016 @ 12:00:00 AM
-15802,"Amberslayer, Flora",The Dungeon of Merciless Woe,3.61,Djinni's Mind Fogiron,223.00,57.23,52.03,12762.2900,11602.6900,25244.55577800,06/18/2016 @ 12:00:00 AM
-13350,Ironbrood,The Lewd King,41.80,Pearl Mirrorice Steel Of Changelings,215.00,332.20,302.00,71423.0000,64930.0000,193348.55400000,06/18/2016 @ 12:00:00 AM
-36067,"Goddess of Law, Eumyan",Citadel Ward,4.40,Lycanthropes' Gold,211.00,449.88,408.98,94924.6800,86294.7800,189193.11624000,06/18/2016 @ 12:00:00 AM
+23302,"Spikebrood, The Disinterred",Moor Village,11.32,Forgotten Mithril,214.00,545.71,496.10,116781.9400,106165.4000,248184.97888800,06/18/2006 @ 12:00:00 AM
+25967,"Law, Lionwatcher",Citadel Ward,4.40,Starsmoke Bronze Of Life,142.00,-438.00,420.81,-62196.0000,59755.0200,-2548.38312000,06/18/2006 @ 12:00:00 AM
+36862,"Finarfin, God of Protection",The Fen of the Necromancer,32.21,Ensorceled Sandmetal Of Spirits,300.00,85.18,93.70,25554.0000,28110.0000,70949.17440000,06/18/2006 @ 12:00:00 AM
+23718,Gravebone,The Scoundrel and Flask,45.25,Incubi's Glittering Tin Of The Future,83.00,192.96,212.26,16015.6800,17617.5800,48852.31015000,06/18/2006 @ 12:00:00 AM
+33268,"Suriel, Lord of Animals",The Archer and Scroll,60.12,Mind Lead,285.00,241.00,219.09,68685.0000,62440.6500,209958.39078000,06/18/2006 @ 12:00:00 AM
+32171,"Magus, Felldrake",The Fen of the Necromancer,29.28,Unspeakable Rotsoul Mithril Of Souls,309.00,370.26,336.60,114410.3400,104009.4000,282373.03987200,06/18/2016 @ 12:00:00 AM
+20372,"Baltha, Goddess of Knowledge",Reyny Keep,-3.35,Shadow Metal,265.00,1606.00,298.00,425590.0000,78970.0000,487657.24000000,06/18/2016 @ 12:00:00 AM
+33990,"Bedlam, Spiritraven",The Bastion of the Lich Tyrant,8.64,Swordbronze,195.00,403.29,366.63,78641.5500,71492.8500,163106.01216000,06/18/2016 @ 12:00:00 AM
+29169,"Steelterror, The Blade",The Citadel of Alammius,32.67,Stone Soulsteel Of The Skies,32.00,453.31,412.10,14505.9200,13187.2000,36740.46230400,06/18/2006 @ 12:00:00 AM
+439,Emberfire,Gawold Castle,9.35,Succubi's Evil Mindzephyr Adamant Of The Desert,262.00,555.09,39.00,145433.5800,10218.0000,170205.00273000,06/18/2006 @ 12:00:00 AM
+29782,Spikecrank,The Tower of Sabiesu the Awesome,10.00,Swordbronze,128.00,403.29,366.63,51621.1200,46928.6400,108404.73600000,06/18/2006 @ 12:00:00 AM
+28541,"Gale, Jackalguard",Bifar's Deep,12.21,Undeads' Mind Orichalcum Of The Twilight,249.00,1169.00,364.69,291081.0000,90807.8100,428517.43370100,06/18/2006 @ 12:00:00 AM
+26043,Bolttrap,Archfane District,15.29,Tin Of The Tundra,307.00,4121.00,397.25,1265147.0000,121955.7500,1599190.76047500,06/18/2006 @ 12:00:00 AM
+6709,"Scarechain, The Unspeakable",The Barrow of Terrible Horror,27.39,Violetdream Iron,177.00,414.98,377.25,73451.4600,66773.2500,178632.25806900,06/18/2006 @ 12:00:00 AM
+37059,"Seraphim, Tsunami",The Greedy Wench,13.31,Stone Soulsteel Of The Skies,228.00,453.31,453.31,103354.6800,103354.6800,234222.37581600,06/18/2006 @ 12:00:00 AM
+15802,"Flora, Amberslayer",The Dungeon of Merciless Woe,3.61,Djinni's Mind Fogiron,223.00,57.23,52.03,12762.2900,11602.6900,25244.55577800,06/18/2006 @ 12:00:00 AM
+13350,Ironbrood,The Lewd King,41.80,Pearl Mirrorice Steel Of Changelings,215.00,332.20,302.00,71423.0000,64930.0000,193348.55400000,06/18/2006 @ 12:00:00 AM
+36067,"Eumyan, Goddess of Law",Citadel Ward,4.40,Lycanthropes' Gold,211.00,449.88,408.98,94924.6800,86294.7800,189193.11624000,06/18/2006 @ 12:00:00 AM

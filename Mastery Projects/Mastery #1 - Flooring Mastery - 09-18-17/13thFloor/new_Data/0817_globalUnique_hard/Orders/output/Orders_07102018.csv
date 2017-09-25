@@ -1,13 +1,13 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-10054,Bronzespike,Grove Farthing,25.00,God-touched Greengem Platinum,148.00,2181.36,188.14,322841.2800,27844.7200,438357.50000000,07/10/2018 @ 12:00:00 AM
-11395,Metalghoul,The Black Barrow of Bery,19.80,Zephyr Iron,42.00,282.77,257.06,11876.3400,10796.5200,27162.08628000,07/10/2018 @ 12:00:00 AM
-11783,"Lady of Vengeance, Zepul",The Dungeon of Merciless Woe,3.61,Zephyr Adamant,48.00,481.77,-44.14,23124.9600,-2118.7200,21764.56526400,07/10/2018 @ 12:00:00 AM
-21489,"Tombreaper, Rouge",Citadel Ward,4.40,Starsmoke Bronze Of Life,184.00,-438.00,420.81,-80592.0000,77429.0400,-3302.13024000,07/10/2018 @ 12:00:00 AM
-32197,"Lonedrake, Clash",The Fen of the Necromancer,29.28,Fairies' Supreme Mistsmoke Lead Of The Future,344.00,499.73,549.70,171907.1200,189096.8000,466705.86777600,07/10/2018 @ 12:00:00 AM
-31195,"God of War, Ingwenel",Noble's Village,6.57,Pearl Mirrorice Steel Of Changelings,116.00,365.42,365.42,42388.7200,42388.7200,90347.31780800,07/10/2018 @ 12:00:00 AM
-20695,Gravebone,Mahyrst Keep,31.30,Sirens' Rockgold,322.00,336.74,336.74,108430.2800,108430.2800,284737.91528000,07/10/2018 @ 12:00:00 AM
-20748,"Lonedrake, Clash",Moor Village,11.32,Sirens' Rockgold,196.00,336.74,336.74,66001.0400,66001.0400,146944.71545600,07/10/2018 @ 12:00:00 AM
-371,"Lady of Fire, Nelalwe",Gili's Delve,35.89,Warlocks' Timerot Mithril,382.00,725.00,176.95,276950.0000,67594.9000,468202.06461000,07/10/2018 @ 12:00:00 AM
-16330,Wheelspawn,The Fortress of Akkun the Grim,27.03,Undeads' Mind Orichalcum Of The Twilight,231.00,1169.00,301.40,270039.0000,69623.4000,431473.14672000,07/10/2018 @ 12:00:00 AM
-4725,"Tsunami, Seraphim",Bergfison's Deep,16.00,Violetdream Iron,101.00,2680.00,377.25,270680.0000,38102.2500,358187.41000000,07/10/2018 @ 12:00:00 AM
-2153,"Gust, Shadow",The Forsaken Tomb of Devastation,38.65,Undeads' Mind Orichalcum Of The Twilight,53.00,1169.00,274.00,61957.0000,14522.0000,106038.13350000,07/10/2018 @ 12:00:00 AM
+10054,Bronzespike,Grove Farthing,25.00,God-touched Greengem Platinum,148.00,2181.36,188.14,322841.2800,27844.7200,438357.50000000,07/10/2008 @ 12:00:00 AM
+11395,Metalghoul,The Black Barrow of Bery,19.80,Zephyr Iron,42.00,282.77,257.06,11876.3400,10796.5200,27162.08628000,07/10/2008 @ 12:00:00 AM
+11783,"Zepul, Lady of Vengeance",The Dungeon of Merciless Woe,3.61,Zephyr Adamant,48.00,481.77,-44.14,23124.9600,-2118.7200,21764.56526400,07/10/2008 @ 12:00:00 AM
+21489,"Rouge, Tombreaper",Citadel Ward,4.40,Starsmoke Bronze Of Life,184.00,-438.00,420.81,-80592.0000,77429.0400,-3302.13024000,07/10/2008 @ 12:00:00 AM
+32197,"Clash, Lonedrake",The Fen of the Necromancer,29.28,Fairies' Supreme Mistsmoke Lead Of The Future,344.00,499.73,549.70,171907.1200,189096.8000,466705.86777600,07/10/2008 @ 12:00:00 AM
+31195,"Ingwenel, God of War",Noble's Village,6.57,Pearl Mirrorice Steel Of Changelings,116.00,365.42,365.42,42388.7200,42388.7200,90347.31780800,07/10/2008 @ 12:00:00 AM
+20695,Gravebone,Mahyrst Keep,31.30,Sirens' Rockgold,322.00,336.74,336.74,108430.2800,108430.2800,284737.91528000,07/10/2008 @ 12:00:00 AM
+20748,"Clash, Lonedrake",Moor Village,11.32,Sirens' Rockgold,196.00,336.74,336.74,66001.0400,66001.0400,146944.71545600,07/10/2008 @ 12:00:00 AM
+371,"Nelalwe, Lady of Fire",Gili's Delve,35.89,Warlocks' Timerot Mithril,382.00,725.00,176.95,276950.0000,67594.9000,468202.06461000,07/10/2008 @ 12:00:00 AM
+16330,Wheelspawn,The Fortress of Akkun the Grim,27.03,Undeads' Mind Orichalcum Of The Twilight,231.00,1169.00,301.40,270039.0000,69623.4000,431473.14672000,07/10/2008 @ 12:00:00 AM
+4725,"Seraphim, Tsunami",Bergfison's Deep,16.00,Violetdream Iron,101.00,2680.00,377.25,270680.0000,38102.2500,358187.41000000,07/10/2008 @ 12:00:00 AM
+2153,"Shadow, Gust",The Forsaken Tomb of Devastation,38.65,Undeads' Mind Orichalcum Of The Twilight,53.00,1169.00,274.00,61957.0000,14522.0000,106038.13350000,07/10/2008 @ 12:00:00 AM

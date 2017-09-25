@@ -1,21 +1,21 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-3783,Cinderember,Kada's Deep,7.65,Ensorceled Sandmetal Of Spirits,180.00,70.40,64.00,12672.0000,11520.0000,26042.68800000,05/31/2017 @ 12:00:00 AM
-2463,"The Binder, Springpulley",The Tomb of Hellish Ruin,30.00,Spectres' Shadowy Terrorglow Adamant Of Life,171.00,-297.62,175.08,-50893.0200,29938.6800,-27240.64200000,05/31/2017 @ 12:00:00 AM
-11281,"Godseeker, Cult",The Fortress of Asmamur,-2.42,Phantasmal Lead,239.00,21.92,19.93,5238.8800,4763.2700,9760.09797000,05/31/2017 @ 12:00:00 AM
-24696,"Angelchild, Harmony",Bifar's Deep,12.21,Negative Rockglitter Mercury Of Trolls,176.00,235.59,214.17,41463.8400,37693.9200,88822.92249600,05/31/2017 @ 12:00:00 AM
-24806,Wheelspawn,The Bastion of Barbos,25.41,Foul Ice Bronze Of Life,177.00,292.82,266.20,51829.1400,47117.4000,124088.85581400,05/31/2017 @ 12:00:00 AM
-10578,"Felldrake, Magus",The Secret Shrine of the Gargoyle Count,21.75,Dragons' Poison Glitterflesh Steel Of The North,344.00,742.00,75.00,255248.0000,25800.0000,342175.94000000,05/31/2017 @ 12:00:00 AM
-8100,"Brand, Lightning",Archtemple District,37.85,Starsmoke Bronze Of Life,212.00,-438.00,420.81,-92856.0000,89211.7200,-5023.63998000,05/31/2017 @ 12:00:00 AM
-9461,"Goddess of Travel, Lenwenye",Gena's Hold,4.40,Djinni's Spectral Shadowlead Of Life,174.00,1718.00,259.12,298932.0000,45086.8800,359155.71072000,05/31/2017 @ 12:00:00 AM
-30113,"God of War, Ingwenel",The Tower of Sabiesu the Awesome,10.00,Swordbronze,211.00,403.29,366.63,85094.1900,77358.9300,178698.43200000,05/31/2017 @ 12:00:00 AM
-7447,"Dawn, Tarot",Archring Borough,29.70,Trolls' Mist Poisonplatinum Of The Twilight,35.00,329.00,400.51,11515.0000,14017.8500,33116.10645000,05/31/2017 @ 12:00:00 AM
-7582,"Mystery, Lord",Gawold Castle,10.29,Planar Rainfate Mithril,75.00,179.30,163.00,13447.5000,12225.0000,28314.20025000,05/31/2017 @ 12:00:00 AM
-6669,"Reaper, Dagger",The Dismal Marsh,27.00,Shadowhell Mithril,294.00,462.21,420.19,135889.7400,123535.8600,329470.51200000,05/31/2017 @ 12:00:00 AM
-30998,"Lady of Vengeance, Zepul",The Nulukkhath Spires,28.99,Foulopal Copper Of The Skies,196.00,221.83,221.83,43478.6800,43478.6800,112166.29866400,05/31/2017 @ 12:00:00 AM
-4261,Evilbrood,Pawic Keep,31.90,Muck Orichalcum Of Ogres,153.00,2080.00,97.93,318240.0000,14983.2900,439521.51951000,05/31/2017 @ 12:00:00 AM
-27786,"Mystery, Lord",The Pirate's Pipe,16.94,Vampires' Hammer Emeraldmetal,159.00,93.70,85.18,14898.3000,13543.6200,33259.98124800,05/31/2017 @ 12:00:00 AM
-4541,"Lord of the Sun, Maglioneth",Eved Castle,28.00,Muck Orichalcum Of Ogres,106.00,2080.00,97.93,220480.0000,10380.5800,295501.54240000,05/31/2017 @ 12:00:00 AM
-4665,"The Terrifying, Deathspike",Kada's Deep,7.65,Grayplatinum,265.00,2548.00,86.73,675220.0000,22983.4500,751616.01392500,05/31/2017 @ 12:00:00 AM
-12117,Cinderember,The Dungeon of Merciless Woe,3.61,Djinni's Evil Sandobsidian Steel Of The Future,65.00,140.58,140.58,9137.7000,9137.7000,18935.14194000,05/31/2017 @ 12:00:00 AM
-4810,Spikesnare,Bergfison's Deep,16.00,Nymphs' Luminous Rotmercury Of The Skies,84.00,335.50,305.00,28182.0000,25620.0000,62410.32000000,05/31/2017 @ 12:00:00 AM
-37581,"Mistmidnight, Tiger",The Greedy Wench,13.31,Ghouls' Imperial Soulzephyr Mithril Of The Seas,66.00,318.23,318.23,21003.1800,21003.1800,47597.40651600,05/31/2017 @ 12:00:00 AM
+3783,Cinderember,Kada's Deep,7.65,Ensorceled Sandmetal Of Spirits,180.00,70.40,64.00,12672.0000,11520.0000,26042.68800000,05/31/2007 @ 12:00:00 AM
+2463,"Springpulley, The Binder",The Tomb of Hellish Ruin,30.00,Spectres' Shadowy Terrorglow Adamant Of Life,171.00,-297.62,175.08,-50893.0200,29938.6800,-27240.64200000,05/31/2007 @ 12:00:00 AM
+11281,"Cult, Godseeker",The Fortress of Asmamur,-2.42,Phantasmal Lead,239.00,21.92,19.93,5238.8800,4763.2700,9760.09797000,05/31/2007 @ 12:00:00 AM
+24696,"Harmony, Angelchild",Bifar's Deep,12.21,Negative Rockglitter Mercury Of Trolls,176.00,235.59,214.17,41463.8400,37693.9200,88822.92249600,05/31/2007 @ 12:00:00 AM
+24806,Wheelspawn,The Bastion of Barbos,25.41,Foul Ice Bronze Of Life,177.00,292.82,266.20,51829.1400,47117.4000,124088.85581400,05/31/2007 @ 12:00:00 AM
+10578,"Magus, Felldrake",The Secret Shrine of the Gargoyle Count,21.75,Dragons' Poison Glitterflesh Steel Of The North,344.00,742.00,75.00,255248.0000,25800.0000,342175.94000000,05/31/2007 @ 12:00:00 AM
+8100,"Lightning, Brand",Archtemple District,37.85,Starsmoke Bronze Of Life,212.00,-438.00,420.81,-92856.0000,89211.7200,-5023.63998000,05/31/2007 @ 12:00:00 AM
+9461,"Lenwenye, Goddess of Travel",Gena's Hold,4.40,Djinni's Spectral Shadowlead Of Life,174.00,1718.00,259.12,298932.0000,45086.8800,359155.71072000,05/31/2007 @ 12:00:00 AM
+30113,"Ingwenel, God of War",The Tower of Sabiesu the Awesome,10.00,Swordbronze,211.00,403.29,366.63,85094.1900,77358.9300,178698.43200000,05/31/2007 @ 12:00:00 AM
+7447,"Tarot, Dawn",Archring Borough,29.70,Trolls' Mist Poisonplatinum Of The Twilight,35.00,329.00,400.51,11515.0000,14017.8500,33116.10645000,05/31/2007 @ 12:00:00 AM
+7582,"Lord, Mystery",Gawold Castle,10.29,Planar Rainfate Mithril,75.00,179.30,163.00,13447.5000,12225.0000,28314.20025000,05/31/2007 @ 12:00:00 AM
+6669,"Dagger, Reaper",The Dismal Marsh,27.00,Shadowhell Mithril,294.00,462.21,420.19,135889.7400,123535.8600,329470.51200000,05/31/2007 @ 12:00:00 AM
+30998,"Zepul, Lady of Vengeance",The Nulukkhath Spires,28.99,Foulopal Copper Of The Skies,196.00,221.83,221.83,43478.6800,43478.6800,112166.29866400,05/31/2007 @ 12:00:00 AM
+4261,Evilbrood,Pawic Keep,31.90,Muck Orichalcum Of Ogres,153.00,2080.00,97.93,318240.0000,14983.2900,439521.51951000,05/31/2007 @ 12:00:00 AM
+27786,"Lord, Mystery",The Pirate's Pipe,16.94,Vampires' Hammer Emeraldmetal,159.00,93.70,85.18,14898.3000,13543.6200,33259.98124800,05/31/2007 @ 12:00:00 AM
+4541,"Maglioneth, Lord of the Sun",Eved Castle,28.00,Muck Orichalcum Of Ogres,106.00,2080.00,97.93,220480.0000,10380.5800,295501.54240000,05/31/2007 @ 12:00:00 AM
+4665,"Deathspike, The Terrifying",Kada's Deep,7.65,Grayplatinum,265.00,2548.00,86.73,675220.0000,22983.4500,751616.01392500,05/31/2007 @ 12:00:00 AM
+12117,Cinderember,The Dungeon of Merciless Woe,3.61,Djinni's Evil Sandobsidian Steel Of The Future,65.00,140.58,140.58,9137.7000,9137.7000,18935.14194000,05/31/2007 @ 12:00:00 AM
+4810,Spikesnare,Bergfison's Deep,16.00,Nymphs' Luminous Rotmercury Of The Skies,84.00,335.50,305.00,28182.0000,25620.0000,62410.32000000,05/31/2007 @ 12:00:00 AM
+37581,"Tiger, Mistmidnight",The Greedy Wench,13.31,Ghouls' Imperial Soulzephyr Mithril Of The Seas,66.00,318.23,318.23,21003.1800,21003.1800,47597.40651600,05/31/2007 @ 12:00:00 AM

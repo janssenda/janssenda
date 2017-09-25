@@ -1,17 +1,17 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-11252,"The Mechanical, Snarepiston",Mahyrst Keep,28.45,Phantasmal Lead,298.00,21.92,19.93,6532.1600,5939.1400,16019.38485000,05/02/2017 @ 12:00:00 AM
-1306,Bolttrap,The Forsaken Delve of Lord Greywulf,15.62,Foul Ice Bronze Of Life,324.00,-378.00,242.00,-122472.0000,78408.0000,-50946.79680000,05/02/2017 @ 12:00:00 AM
-10096,"God of Animals, Byzou",The Fortress of the Lich Queen,17.13,Angels' Adamant,362.00,51.48,46.80,18635.7600,16941.6000,41671.76176800,05/02/2017 @ 12:00:00 AM
-10073,"Lionwatcher, Law",Archring Borough,29.70,Angels' Adamant,161.00,51.48,46.80,8288.2800,7534.8000,20522.53476000,05/02/2017 @ 12:00:00 AM
-34190,"Tombreaper, Rouge",Barad Cune,49.21,Unspeakable Rotsoul Mithril Of Souls,206.00,370.26,336.60,76273.5600,69339.6000,217269.39603600,05/02/2017 @ 12:00:00 AM
-1633,"Lord of the Sun, Maglioneth",The Dungeon of Dismal Terror,40.27,Ghostly Magic Adamant,177.00,49.50,45.00,8761.5000,7965.0000,23462.26155000,05/02/2017 @ 12:00:00 AM
-22892,"God of War, Ingwenel",Moor Village,11.32,Shadowhell Mithril,269.00,462.21,420.19,124334.4900,113031.1100,264235.38592000,05/02/2017 @ 12:00:00 AM
-31249,"God of Death, Avriel",Noble's Village,6.57,Warlocks' Timerot Mithril,182.00,194.65,194.65,35426.3000,35426.3000,75507.61582000,05/02/2017 @ 12:00:00 AM
-19501,"Mist, Claw",Weke Tower,47.19,Foul Ice Bronze Of Life,202.00,292.82,266.20,59149.6400,53772.4000,166209.95067600,05/02/2017 @ 12:00:00 AM
-9702,"Tsunami, Seraphim",Grove Farthing,25.00,God-touched Greengem Platinum,176.00,2181.36,188.14,383919.3600,33112.6400,521290.00000000,05/02/2017 @ 12:00:00 AM
-18587,Bolttrap,The Dancing Minstrel,39.62,Spirits' Living Wordhammer Tin Of The Trees,167.00,141.57,128.70,23642.1900,21492.9000,63017.61265800,05/02/2017 @ 12:00:00 AM
-7638,"Lady of Fire, Nelalwe",Barad Kesa,5.10,Planar Mudtin Of Trolls,67.00,3529.02,174.00,236444.3400,11658.0000,260755.55934000,05/02/2017 @ 12:00:00 AM
-14170,Cinderflame,Gena's Hold,5.85,Djinni's Evil Sandobsidian Steel Of The Future,194.00,140.58,140.58,27272.5200,27272.5200,57735.92484000,05/02/2017 @ 12:00:00 AM
-4279,"Anchor, Rose",Kada's Deep,7.65,Fairies' Supreme Mistsmoke Lead Of The Future,174.00,2622.69,413.00,456348.0600,71862.0000,568618.12959000,05/02/2017 @ 12:00:00 AM
-4727,"The Cremator, Blazeflare",Pawic Keep,31.90,Incubi's Glittering Tin Of The Future,157.00,4393.29,175.42,689746.5300,27540.9400,946102.17293000,05/02/2017 @ 12:00:00 AM
-14829,Bonescare,The Secret Catacombs of Ulfang the Black,28.82,Lycanthropes' Gold,129.00,371.80,338.00,47962.2000,43602.0000,117953.00244000,05/02/2017 @ 12:00:00 AM
+11252,"The Mechanical, Snarepiston",Mahyrst Keep,28.45,Phantasmal Lead,298.00,21.92,19.93,6532.1600,5939.1400,16019.38485000,05/02/1947 @ 12:00:00 AM
+1306,Bolttrap,The Forsaken Delve of Lord Greywulf,15.62,Foul Ice Bronze Of Life,324.00,-378.00,242.00,-122472.0000,78408.0000,-50946.79680000,05/02/1947 @ 12:00:00 AM
+10096,"God of Animals, Byzou",The Fortress of the Lich Queen,17.13,Angels' Adamant,362.00,51.48,46.80,18635.7600,16941.6000,41671.76176800,05/02/1997 @ 12:00:00 AM
+10073,"Lionwatcher, Law",Archring Borough,29.70,Angels' Adamant,161.00,51.48,46.80,8288.2800,7534.8000,20522.53476000,05/02/1947 @ 12:00:00 AM
+34190,"Tombreaper, Rouge",Barad Cune,49.21,Unspeakable Rotsoul Mithril Of Souls,206.00,370.26,336.60,76273.5600,69339.6000,217269.39603600,05/02/1947 @ 12:00:00 AM
+1633,"Lord of the Sun, Maglioneth",The Dungeon of Dismal Terror,40.27,Ghostly Magic Adamant,177.00,49.50,45.00,8761.5000,7965.0000,23462.26155000,05/02/1987 @ 12:00:00 AM
+22892,"God of War, Ingwenel",Moor Village,11.32,Shadowhell Mithril,269.00,462.21,420.19,124334.4900,113031.1100,264235.38592000,05/02/1947 @ 12:00:00 AM
+31249,"God of Death, Avriel",Noble's Village,6.57,Warlocks' Timerot Mithril,182.00,194.65,194.65,35426.3000,35426.3000,75507.61582000,05/02/1947 @ 12:00:00 AM
+19501,"Mist, Claw",Weke Tower,47.19,Foul Ice Bronze Of Life,202.00,292.82,266.20,59149.6400,53772.4000,166209.95067600,05/02/1947 @ 12:00:00 AM
+9702,"Tsunami, Seraphim",Grove Farthing,25.00,God-touched Greengem Platinum,176.00,2181.36,188.14,383919.3600,33112.6400,521290.00000000,05/02/1947 @ 12:00:00 AM
+18587,Bolttrap,The Dancing Minstrel,39.62,Spirits' Living Wordhammer Tin Of The Trees,167.00,141.57,128.70,23642.1900,21492.9000,63017.61265800,05/02/1947 @ 12:00:00 AM
+7638,"Lady of Fire, Nelalwe",Barad Kesa,5.10,Planar Mudtin Of Trolls,67.00,3529.02,174.00,236444.3400,11658.0000,260755.55934000,05/02/1977 @ 12:00:00 AM
+14170,Cinderflame,Gena's Hold,5.85,Djinni's Evil Sandobsidian Steel Of The Future,194.00,140.58,140.58,27272.5200,27272.5200,57735.92484000,05/02/1947 @ 12:00:00 AM
+4279,"Anchor, Rose",Kada's Deep,7.65,Fairies' Supreme Mistsmoke Lead Of The Future,174.00,2622.69,413.00,456348.0600,71862.0000,568618.12959000,05/02/1947 @ 12:00:00 AM
+4727,"The Cremator, Blazeflare",Pawic Keep,31.90,Incubi's Glittering Tin Of The Future,157.00,4393.29,175.42,689746.5300,27540.9400,946102.17293000,05/02/1947 @ 12:00:00 AM
+14829,Bonescare,The Secret Catacombs of Ulfang the Black,28.82,Lycanthropes' Gold,129.00,371.80,338.00,47962.2000,43602.0000,117953.00244000,05/02/1947 @ 12:00:00 AM

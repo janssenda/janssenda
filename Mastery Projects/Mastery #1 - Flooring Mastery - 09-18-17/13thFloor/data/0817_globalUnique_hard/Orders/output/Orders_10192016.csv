@@ -1,15 +1,15 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-12406,"God of Protection, Finarfin",Grori's Deep,27.50,Fog Lavaplatinum Of Life,151.00,2232.00,509.41,337032.0000,76920.9100,527789.96025000,10/19/2016 @ 12:00:00 AM
-3810,"Seraphheart, Storm",The Khazahol Crags,20.68,Trolls' Rubymercury Of The Sunset,102.00,2733.00,443.00,278766.0000,45186.0000,390945.27360000,10/19/2016 @ 12:00:00 AM
-23310,"The Unspeakable, Gravebone",The Fortress of Akkun the Grim,27.03,Shadowhell Mithril,197.00,462.21,420.19,91055.3700,82777.4300,220819.80584000,10/19/2016 @ 12:00:00 AM
-2644,"Lionwatcher, Law",The Warrior and Flagon,9.00,Spectres' Shadowy Terrorglow Adamant Of Life,106.00,-297.62,175.08,-31547.7200,18558.4800,-14158.27160000,10/19/2016 @ 12:00:00 AM
-36745,"Wolf, Jericho",The Fen of the Necromancer,32.21,Ensorceled Sandmetal Of Spirits,237.00,85.18,93.70,20187.6600,22206.9000,56049.84777600,10/19/2016 @ 12:00:00 AM
-23579,"The Terrifying, Deathspike",Weke Tower,47.19,Shadowhell Mithril,179.00,462.21,420.19,82735.5900,75214.0100,232486.01624000,10/19/2016 @ 12:00:00 AM
-23801,"Dawn, Tarot",Bifar's Deep,12.21,Toxic Mistlead Of The Past,164.00,396.06,396.06,64953.8400,64953.8400,145769.40772800,10/19/2016 @ 12:00:00 AM
-31203,"The Disinterred, Spikebrood",Weke Tower,47.19,Grayplatinum,145.00,2548.00,104.94,369460.0000,15216.3000,566205.04597000,10/19/2016 @ 12:00:00 AM
-263,Bonescare,The Bastion of the Lich Tyrant,4.87,Zephyr Iron,197.00,2249.71,233.69,443192.8700,46036.9300,513055.29126000,10/19/2016 @ 12:00:00 AM
-31658,"God of Resurrection, Gadriel",Weke Tower,47.19,Planar Mudtin Of Trolls,193.00,191.40,174.00,36940.2000,33582.0000,103801.62618000,10/19/2016 @ 12:00:00 AM
-16188,Bronzespawn,Gili's Delve,35.89,Lycanthropes' Gold,58.00,371.80,338.00,21564.4000,19604.0000,55943.73876000,10/19/2016 @ 12:00:00 AM
-27289,"The Unspeakable, Gravebone",The Bastion of Gothmog of Udun,-2.42,Unknown Fatelightning Steel Of The Glacier,293.00,145.08,159.59,42508.4400,46759.8700,87108.01689800,10/19/2016 @ 12:00:00 AM
-26371,"Angelchild, Harmony",The Pirate's Pipe,16.94,Toxic Mistlead Of The Past,49.00,396.06,396.06,19406.9400,19406.9400,45388.95127200,10/19/2016 @ 12:00:00 AM
-25552,"God of the Lost, Lionare",Kada's Deep,8.42,Incubi's Iron Of The Dawn,103.00,192.49,174.99,19826.4700,18023.9700,41037.44704800,10/19/2016 @ 12:00:00 AM
+12406,"God of Protection, Finarfin",Grori's Deep,27.50,Fog Lavaplatinum Of Life,151.00,2232.00,509.41,337032.0000,76920.9100,527789.96025000,10/19/1946 @ 12:00:00 AM
+3810,"Seraphheart, Storm",The Khazahol Crags,20.68,Trolls' Rubymercury Of The Sunset,102.00,2733.00,443.00,278766.0000,45186.0000,390945.27360000,10/19/1946 @ 12:00:00 AM
+23310,"The Unspeakable, Gravebone",The Fortress of Akkun the Grim,27.03,Shadowhell Mithril,197.00,462.21,420.19,91055.3700,82777.4300,220819.80584000,10/19/1946 @ 12:00:00 AM
+2644,"Lionwatcher, Law",The Warrior and Flagon,9.00,Spectres' Shadowy Terrorglow Adamant Of Life,106.00,-297.62,175.08,-31547.7200,18558.4800,-14158.27160000,10/19/1946 @ 12:00:00 AM
+36745,"Wolf, Jericho",The Fen of the Necromancer,32.21,Ensorceled Sandmetal Of Spirits,237.00,85.18,93.70,20187.6600,22206.9000,56049.84777600,10/19/1946 @ 12:00:00 AM
+23579,"The Terrifying, Deathspike",Weke Tower,47.19,Shadowhell Mithril,179.00,462.21,420.19,82735.5900,75214.0100,232486.01624000,10/19/1946 @ 12:00:00 AM
+23801,"Dawn, Tarot",Bifar's Deep,12.21,Toxic Mistlead Of The Past,164.00,396.06,396.06,64953.8400,64953.8400,145769.40772800,10/19/1946 @ 12:00:00 AM
+31203,"The Disinterred, Spikebrood",Weke Tower,47.19,Grayplatinum,145.00,2548.00,104.94,369460.0000,15216.3000,566205.04597000,10/19/1946 @ 12:00:00 AM
+263,Bonescare,The Bastion of the Lich Tyrant,4.87,Zephyr Iron,197.00,2249.71,233.69,443192.8700,46036.9300,513055.29126000,10/19/1946 @ 12:00:00 AM
+31658,"God of Resurrection, Gadriel",Weke Tower,47.19,Planar Mudtin Of Trolls,193.00,191.40,174.00,36940.2000,33582.0000,103801.62618000,10/19/1946 @ 12:00:00 AM
+16188,Bronzespawn,Gili's Delve,35.89,Lycanthropes' Gold,58.00,371.80,338.00,21564.4000,19604.0000,55943.73876000,10/19/1946 @ 12:00:00 AM
+27289,"The Unspeakable, Gravebone",The Bastion of Gothmog of Udun,-2.42,Unknown Fatelightning Steel Of The Glacier,293.00,145.08,159.59,42508.4400,46759.8700,87108.01689800,10/19/1946 @ 12:00:00 AM
+26371,"Angelchild, Harmony",The Pirate's Pipe,16.94,Toxic Mistlead Of The Past,49.00,396.06,396.06,19406.9400,19406.9400,45388.95127200,10/19/1946 @ 12:00:00 AM
+25552,"God of the Lost, Lionare",Kada's Deep,8.42,Incubi's Iron Of The Dawn,103.00,192.49,174.99,19826.4700,18023.9700,41037.44704800,10/19/1946 @ 12:00:00 AM

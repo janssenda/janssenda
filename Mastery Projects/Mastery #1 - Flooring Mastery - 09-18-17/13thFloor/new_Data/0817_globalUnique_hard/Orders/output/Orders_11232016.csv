@@ -1,20 +1,20 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-24443,"Wind, Maverick",The Forsaken Sepulcher of Sorrows,31.36,Negative Rockglitter Mercury Of Trolls,61.00,235.59,214.17,14370.9900,13064.3700,36039.08889600,11/23/2016 @ 12:00:00 AM
-11662,"Tombreaper, Rouge",Mahyrst Keep,28.45,Lycanthropes' Gold,299.00,371.80,338.00,111168.2000,101062.0000,272609.69190000,11/23/2016 @ 12:00:00 AM
-35756,Cinderember,Citadel Ward,4.40,Ghouls' Imperial Soulzephyr Mithril Of The Seas,169.00,318.23,318.23,53780.8700,53780.8700,112294.45656000,11/23/2016 @ 12:00:00 AM
-35940,"Lord of Death, Addon",The Fortress of the Lich Queen,22.79,Magicians' Legendary Poison Metal,64.00,-52.81,-48.01,-3379.8400,-3072.6400,-7923.00019200,11/23/2016 @ 12:00:00 AM
-19035,"The Trapper, Boltcrank",Gifeld Castle,33.01,Grayplatinum,165.00,2548.00,104.94,420420.0000,17315.1000,582231.45651000,11/23/2016 @ 12:00:00 AM
-33283,"The Grasping, Nailpiston",The Archer and Scroll,60.12,Mind Lead,346.00,241.00,219.09,83386.0000,75805.1400,254896.85336800,11/23/2016 @ 12:00:00 AM
-19286,"The Trapper, Boltcrank",The Bastion of Barbos,25.41,Golems' Stonesapphire Gold Of The Glacier,205.00,176.00,160.00,36080.0000,32800.0000,86382.40800000,11/23/2016 @ 12:00:00 AM
-20402,"The Grasping, Beamsprocket",The Greedy Wench,13.31,Fairies' Supreme Mistsmoke Lead Of The Future,165.00,499.73,499.73,82455.4500,82455.4500,186860.54079000,11/23/2016 @ 12:00:00 AM
-31276,"God of Resurrection, Gadriel",The Bastion of Gothmog of Udun,-2.66,Fairies' Supreme Mistsmoke Lead Of The Future,312.00,499.73,549.70,155915.7600,171506.4000,318712.73054400,11/23/2016 @ 12:00:00 AM
-31243,"Wolf, Jericho",The Demon and Toad,-1.21,Warlocks' Timerot Mithril,179.00,194.65,194.65,34842.3500,34842.3500,68841.51513000,11/23/2016 @ 12:00:00 AM
-8399,"Mystery, Lord",Gawold Castle,10.29,Phantasmal Smokezephyr Mercury Of Men,209.00,211.20,192.00,44140.8000,40128.0000,92940.05952000,11/23/2016 @ 12:00:00 AM
-7118,Wheelspawn,The Bastion of Sthasu the Gruesome,40.00,Vampires' Hammer Emeraldmetal,97.00,77.44,70.40,7511.6800,6828.8000,20076.67200000,11/23/2016 @ 12:00:00 AM
-202,"The Evil, Snowflame",The Dungeon of Merciless Woe,3.61,Unicorns' Fatal Magma Metal Of The Ocean,198.00,903.00,23.00,178794.0000,4554.0000,189966.86280000,11/23/2016 @ 12:00:00 AM
-27075,"Ivycaster, Fate",Citadel Ward,4.40,Heavenly Dreamsilver Of The Night,248.00,719.00,314.60,178312.0000,78020.8000,267611.44320000,11/23/2016 @ 12:00:00 AM
-7669,"Claw, Slayer",Noble's Village,4.94,Planar Mudtin Of Trolls,238.00,3529.02,174.00,839906.7600,41412.0000,924855.90674400,11/23/2016 @ 12:00:00 AM
-14144,"Tsunami, Seraphim",Gili's Delve,35.89,Vampires' Hammer Emeraldmetal,121.00,77.44,70.40,9370.2400,8518.4000,24308.87289600,11/23/2016 @ 12:00:00 AM
-26305,"Rougehate, Rune",Citadel Ward,4.40,Toxic Mistlead Of The Past,198.00,396.06,396.06,78419.8800,78419.8800,163740.70944000,11/23/2016 @ 12:00:00 AM
-4664,"The Disinterred, Spikebrood",Bergfison's Deep,16.00,Litches' Fatal Mithril Of The Past,195.00,3822.00,13.00,745290.0000,2535.0000,867477.00000000,11/23/2016 @ 12:00:00 AM
-25637,"Reaper, Dagger",Weke Tower,47.19,Incubi's Glittering Tin Of The Future,231.00,192.96,233.49,44573.7600,53936.1900,144996.79540500,11/23/2016 @ 12:00:00 AM
+24443,"Maverick, Wind",The Forsaken Sepulcher of Sorrows,31.36,Negative Rockglitter Mercury Of Trolls,61.00,235.59,214.17,14370.9900,13064.3700,36039.08889600,11/23/2006 @ 12:00:00 AM
+11662,"Rouge, Tombreaper",Mahyrst Keep,28.45,Lycanthropes' Gold,299.00,371.80,338.00,111168.2000,101062.0000,272609.69190000,11/23/2006 @ 12:00:00 AM
+35756,Cinderember,Citadel Ward,4.40,Ghouls' Imperial Soulzephyr Mithril Of The Seas,169.00,318.23,318.23,53780.8700,53780.8700,112294.45656000,11/23/2006 @ 12:00:00 AM
+35940,"Addon, Lord of Death",The Fortress of the Lich Queen,22.79,Magicians' Legendary Poison Metal,64.00,-52.81,-48.01,-3379.8400,-3072.6400,-7923.00019200,11/23/2006 @ 12:00:00 AM
+19035,"Boltcrank, The Trapper",Gifeld Castle,33.01,Grayplatinum,165.00,2548.00,104.94,420420.0000,17315.1000,582231.45651000,11/23/2006 @ 12:00:00 AM
+33283,"Nailpiston, The Grasping",The Archer and Scroll,60.12,Mind Lead,346.00,241.00,219.09,83386.0000,75805.1400,254896.85336800,11/23/2006 @ 12:00:00 AM
+19286,"Boltcrank, The Trapper",The Bastion of Barbos,25.41,Golems' Stonesapphire Gold Of The Glacier,205.00,176.00,160.00,36080.0000,32800.0000,86382.40800000,11/23/2006 @ 12:00:00 AM
+20402,"Beamsprocket, The Grasping",The Greedy Wench,13.31,Fairies' Supreme Mistsmoke Lead Of The Future,165.00,499.73,499.73,82455.4500,82455.4500,186860.54079000,11/23/2006 @ 12:00:00 AM
+31276,"Gadriel, God of Resurrection",The Bastion of Gothmog of Udun,-2.66,Fairies' Supreme Mistsmoke Lead Of The Future,312.00,499.73,549.70,155915.7600,171506.4000,318712.73054400,11/23/2006 @ 12:00:00 AM
+31243,"Jericho, Wolf",The Demon and Toad,-1.21,Warlocks' Timerot Mithril,179.00,194.65,194.65,34842.3500,34842.3500,68841.51513000,11/23/2006 @ 12:00:00 AM
+8399,"Lord, Mystery",Gawold Castle,10.29,Phantasmal Smokezephyr Mercury Of Men,209.00,211.20,192.00,44140.8000,40128.0000,92940.05952000,11/23/2006 @ 12:00:00 AM
+7118,Wheelspawn,The Bastion of Sthasu the Gruesome,40.00,Vampires' Hammer Emeraldmetal,97.00,77.44,70.40,7511.6800,6828.8000,20076.67200000,11/23/2006 @ 12:00:00 AM
+202,"Snowflame, The Evil",The Dungeon of Merciless Woe,3.61,Unicorns' Fatal Magma Metal Of The Ocean,198.00,903.00,23.00,178794.0000,4554.0000,189966.86280000,11/23/2006 @ 12:00:00 AM
+27075,"Fate, Ivycaster",Citadel Ward,4.40,Heavenly Dreamsilver Of The Night,248.00,719.00,314.60,178312.0000,78020.8000,267611.44320000,11/23/2006 @ 12:00:00 AM
+7669,"Slayer, Claw",Noble's Village,4.94,Planar Mudtin Of Trolls,238.00,3529.02,174.00,839906.7600,41412.0000,924855.90674400,11/23/2006 @ 12:00:00 AM
+14144,"Seraphim, Tsunami",Gili's Delve,35.89,Vampires' Hammer Emeraldmetal,121.00,77.44,70.40,9370.2400,8518.4000,24308.87289600,11/23/2006 @ 12:00:00 AM
+26305,"Rune, Rougehate",Citadel Ward,4.40,Toxic Mistlead Of The Past,198.00,396.06,396.06,78419.8800,78419.8800,163740.70944000,11/23/2016 @ 12:00:00 AM
+4664,"Spikebrood, The Disinterred",Bergfison's Deep,16.00,Litches' Fatal Mithril Of The Past,195.00,3822.00,13.00,745290.0000,2535.0000,867477.00000000,11/23/2006 @ 12:00:00 AM
+25637,"Dagger, Reaper",Weke Tower,47.19,Incubi's Glittering Tin Of The Future,231.00,192.96,233.49,44573.7600,53936.1900,144996.79540500,11/23/2006 @ 12:00:00 AM

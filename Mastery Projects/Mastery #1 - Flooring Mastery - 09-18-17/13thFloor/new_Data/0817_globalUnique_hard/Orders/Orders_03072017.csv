@@ -1,16 +1,16 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-1097,Spikerivet,The Archer and Blade,15.00,Falserainbow Lead,139.00,872.99,58.00,121345.6100,8062.0000,148818.75150000,03/07/2017 @ 12:00:00 AM
-14998,"Roguemist, Rouge",The Secret Shrine of the Gargoyle Count,23.93,Mind Lead,302.00,241.00,219.09,72782.0000,66165.1800,172197.24017400,03/07/2017 @ 12:00:00 AM
-36390,"Roguemist, Rouge",The Fen of the Necromancer,32.21,Heavenly Dreamsilver Of The Night,157.00,719.00,346.06,112883.0000,54331.4200,221074.18468200,03/07/2017 @ 12:00:00 AM
-2493,"Wolf, Jericho",The Pirate's Pipe,15.40,Meteoric Mirrormuck Orichalcum Of The Forests,93.00,491.62,368.50,45720.6600,34270.5000,92309.79864000,03/07/2017 @ 12:00:00 AM
-24586,Beamtrap,Bifar's Deep,12.21,Negative Rockglitter Mercury Of Trolls,135.00,235.59,214.17,31804.6500,28912.9500,68131.21896000,03/07/2017 @ 12:00:00 AM
-36699,"The Mechanical, Snarepiston",The Fen of the Necromancer,32.21,Vampires' Hammer Emeraldmetal,123.00,93.70,85.18,11525.1000,10477.1400,29089.16150400,03/07/2017 @ 12:00:00 AM
-10307,Evilbrood,Gena's Hold,4.84,Dragons' Poison Glitterflesh Steel Of The North,323.00,742.00,75.00,239666.0000,24225.0000,276663.32440000,03/07/2017 @ 12:00:00 AM
-10456,"Brand, Lightning",The Dungeon of Dismal Terror,44.30,Phantasmal Smokezephyr Mercury Of Men,24.00,211.20,192.00,5068.8000,4608.0000,13963.62240000,03/07/2017 @ 12:00:00 AM
-21191,"God of the Lost, Lionare",The Tomb of Hellish Ruin,36.30,Negative Rockglitter Mercury Of Trolls,319.00,3502.00,214.17,1117138.0000,68320.2300,1615779.56749000,03/07/2017 @ 12:00:00 AM
-34764,"The Evil, Burnchill",Barad Kesa,6.17,Yellow Mistearth Copper,67.00,287.98,261.80,19294.6600,17540.6000,39107.99554200,03/07/2017 @ 12:00:00 AM
-9620,Wheelspawn,Archring Borough,29.70,Forgotten Mithril,248.00,3909.75,496.10,969618.0000,123032.8000,1417168.08760000,03/07/2017 @ 12:00:00 AM
-17354,Metalghoul,The Scoundrel and Flask,45.25,Golems' Stonesapphire Gold Of The Glacier,384.00,176.00,160.00,67584.0000,61440.0000,187407.36000000,03/07/2017 @ 12:00:00 AM
-5350,"Runetomb, Song",The Fortress of Gama,3.00,Sirens' Rockgold,144.00,306.13,278.30,44082.7200,40075.2000,86682.65760000,03/07/2017 @ 12:00:00 AM
-5778,"Knightseraph, Lance",The Warrior and Flagon,9.00,Unholy Poison Copper Of The Mountains,93.00,4312.00,68.97,401016.0000,6414.2100,444098.92890000,03/07/2017 @ 12:00:00 AM
-36075,"Drakecaster, Sephiroth",The Fortress of the Lich Queen,22.79,Ghouls' Imperial Soulzephyr Mithril Of The Seas,231.00,318.23,318.23,73511.1300,73511.1300,180528.63305400,03/07/2017 @ 12:00:00 AM
+1097,Spikerivet,The Archer and Blade,15.00,Falserainbow Lead,139.00,872.99,58.00,121345.6100,8062.0000,148818.75150000,03/07/2007 @ 12:00:00 AM
+14998,"Rouge, Roguemist",The Secret Shrine of the Gargoyle Count,23.93,Mind Lead,302.00,241.00,219.09,72782.0000,66165.1800,172197.24017400,03/07/2007 @ 12:00:00 AM
+36390,"Rouge, Roguemist",The Fen of the Necromancer,32.21,Heavenly Dreamsilver Of The Night,157.00,719.00,346.06,112883.0000,54331.4200,221074.18468200,03/07/2007 @ 12:00:00 AM
+2493,"Jericho, Wolf",The Pirate's Pipe,15.40,Meteoric Mirrormuck Orichalcum Of The Forests,93.00,491.62,368.50,45720.6600,34270.5000,92309.79864000,03/07/2007 @ 12:00:00 AM
+24586,Beamtrap,Bifar's Deep,12.21,Negative Rockglitter Mercury Of Trolls,135.00,235.59,214.17,31804.6500,28912.9500,68131.21896000,03/07/2007 @ 12:00:00 AM
+36699,"Snarepiston, The Mechanical",The Fen of the Necromancer,32.21,Vampires' Hammer Emeraldmetal,123.00,93.70,85.18,11525.1000,10477.1400,29089.16150400,03/07/2007 @ 12:00:00 AM
+10307,Evilbrood,Gena's Hold,4.84,Dragons' Poison Glitterflesh Steel Of The North,323.00,742.00,75.00,239666.0000,24225.0000,276663.32440000,03/07/2007 @ 12:00:00 AM
+10456,"Lightning, Brand",The Dungeon of Dismal Terror,44.30,Phantasmal Smokezephyr Mercury Of Men,24.00,211.20,192.00,5068.8000,4608.0000,13963.62240000,03/07/2007 @ 12:00:00 AM
+21191,"Lionare, God of the Lost",The Tomb of Hellish Ruin,36.30,Negative Rockglitter Mercury Of Trolls,319.00,3502.00,214.17,1117138.0000,68320.2300,1615779.56749000,03/07/2007 @ 12:00:00 AM
+34764,"Burnchill, The Evil",Barad Kesa,6.17,Yellow Mistearth Copper,67.00,287.98,261.80,19294.6600,17540.6000,39107.99554200,03/07/2007 @ 12:00:00 AM
+9620,Wheelspawn,Archring Borough,29.70,Forgotten Mithril,248.00,3909.75,496.10,969618.0000,123032.8000,1417168.08760000,03/07/2007 @ 12:00:00 AM
+17354,Metalghoul,The Scoundrel and Flask,45.25,Golems' Stonesapphire Gold Of The Glacier,384.00,176.00,160.00,67584.0000,61440.0000,187407.36000000,03/07/2007 @ 12:00:00 AM
+5350,"Song, Runetomb",The Fortress of Gama,3.00,Sirens' Rockgold,144.00,306.13,278.30,44082.7200,40075.2000,86682.65760000,03/07/2007 @ 12:00:00 AM
+5778,"Lance, Knightseraph",The Warrior and Flagon,9.00,Unholy Poison Copper Of The Mountains,93.00,4312.00,68.97,401016.0000,6414.2100,444098.92890000,03/07/2007 @ 12:00:00 AM
+36075,"Sephiroth, Drakecaster",The Fortress of the Lich Queen,22.79,Ghouls' Imperial Soulzephyr Mithril Of The Seas,231.00,318.23,318.23,73511.1300,73511.1300,180528.63305400,03/07/2007 @ 12:00:00 AM

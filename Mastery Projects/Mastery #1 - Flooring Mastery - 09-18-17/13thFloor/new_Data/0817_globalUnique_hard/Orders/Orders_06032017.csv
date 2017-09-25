@@ -1,16 +1,16 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-11145,Springsprocket,North Arcanist's Farthing,2.50,Swordbronze,232.00,333.30,303.00,77325.6000,70296.0000,151312.14000000,06/03/2017 @ 12:00:00 AM
-23697,"Mistmidnight, Tiger",The Forsaken Sepulcher of Sorrows,31.36,Incubi's Glittering Tin Of The Future,98.00,192.96,212.26,18910.0800,20801.4800,52165.10521600,06/03/2017 @ 12:00:00 AM
-35769,"Lawslayer, Valentine",The Fen of the Necromancer,32.21,Magicians' Legendary Poison Metal,131.00,-52.81,-48.01,-6918.1100,-6289.3100,-17461.52998200,06/03/2017 @ 12:00:00 AM
-1863,"Mistseeker, Grave",The Bastion of the Lich Tyrant,5.36,Negative Mercury,216.00,4115.00,68.00,888840.0000,14688.0000,951957.10080000,06/03/2017 @ 12:00:00 AM
-21437,"Seraphheart, Storm",Citadel Ward,4.40,Witchs' Forbidden Rockrainbow Bronze,195.00,245.63,245.63,47897.8500,47897.8500,100010.71080000,06/03/2017 @ 12:00:00 AM
-9142,"Godseeker, Cult",Barad Kesa,5.10,Meteoric Mirrormuck Orichalcum Of The Forests,321.00,491.62,368.50,157810.0200,118288.5000,290179.54452000,06/03/2017 @ 12:00:00 AM
-33649,"Goddess of Knowledge, Baltha",Pewold Keep,29.00,Forgotten Mithril,82.00,600.28,545.71,49222.9600,44748.2200,121222.82220000,06/03/2017 @ 12:00:00 AM
-8003,"Godseeker, Cult",Gawold Castle,10.29,Unknowable Mindsilver,140.00,174.90,174.90,24486.0000,24486.0000,54011.21880000,06/03/2017 @ 12:00:00 AM
-572,"The Firey, Evilember",The Beggar and Cask,25.10,Stone Soulsteel Of The Skies,239.00,3459.15,340.58,826736.8500,81398.6200,1136077.47297000,06/03/2017 @ 12:00:00 AM
-616,"Jackalguard, Gale",The Bastion of Sthasu the Gruesome,40.00,Unicorns' Fatal Magma Metal Of The Ocean,258.00,903.00,23.00,232974.0000,5934.0000,334471.20000000,06/03/2017 @ 12:00:00 AM
-5273,"Goddess of Law, Eumyan",Gena's Hold,4.00,Phantasmal Tin Of The Swamps,273.00,3207.64,305.00,875685.7200,83265.0000,997308.74880000,06/03/2017 @ 12:00:00 AM
-26241,"Lord of Animals, Suriel",Moor Village,11.32,Unspeakable Rotsoul Mithril Of Souls,230.00,370.26,336.60,85159.8000,77418.0000,180981.60696000,06/03/2017 @ 12:00:00 AM
-12004,"Darkzealot, Dawn",Citadel Ward,4.40,Zephyr Adamant,188.00,481.77,-44.14,90572.7600,-8298.3200,85894.51536000,06/03/2017 @ 12:00:00 AM
-3561,"God of Thieves, Maeglodor",Arcanist's Farthing,29.00,Mind Lead,146.00,756.00,199.17,110376.0000,29078.8200,179896.71780000,06/03/2017 @ 12:00:00 AM
-12286,"The Freezer, Burnbrood",Hafeld Keep,47.59,Fairies' Supreme Mistsmoke Lead Of The Future,178.00,2622.69,454.30,466838.8200,80865.4000,808356.65829800,06/03/2017 @ 12:00:00 AM
+11145,Springsprocket,North Arcanist's Farthing,2.50,Swordbronze,232.00,333.30,303.00,77325.6000,70296.0000,151312.14000000,06/03/2007 @ 12:00:00 AM
+23697,"Tiger, Mistmidnight",The Forsaken Sepulcher of Sorrows,31.36,Incubi's Glittering Tin Of The Future,98.00,192.96,212.26,18910.0800,20801.4800,52165.10521600,06/03/2007 @ 12:00:00 AM
+35769,"Valentine, Lawslayer",The Fen of the Necromancer,32.21,Magicians' Legendary Poison Metal,131.00,-52.81,-48.01,-6918.1100,-6289.3100,-17461.52998200,06/03/2007 @ 12:00:00 AM
+1863,"Grave, Mistseeker",The Bastion of the Lich Tyrant,5.36,Negative Mercury,216.00,4115.00,68.00,888840.0000,14688.0000,951957.10080000,06/03/2007 @ 12:00:00 AM
+21437,"Storm, Seraphheart",Citadel Ward,4.40,Witchs' Forbidden Rockrainbow Bronze,195.00,245.63,245.63,47897.8500,47897.8500,100010.71080000,06/03/2007 @ 12:00:00 AM
+9142,"Cult, Godseeker",Barad Kesa,5.10,Meteoric Mirrormuck Orichalcum Of The Forests,321.00,491.62,368.50,157810.0200,118288.5000,290179.54452000,06/03/2007 @ 12:00:00 AM
+33649,"Baltha, Goddess of Knowledge",Pewold Keep,29.00,Forgotten Mithril,82.00,600.28,545.71,49222.9600,44748.2200,121222.82220000,06/03/2007 @ 12:00:00 AM
+8003,"Cult, Godseeker",Gawold Castle,10.29,Unknowable Mindsilver,140.00,174.90,174.90,24486.0000,24486.0000,54011.21880000,06/03/2007 @ 12:00:00 AM
+572,"Evilember, The Firey",The Beggar and Cask,25.10,Stone Soulsteel Of The Skies,239.00,3459.15,340.58,826736.8500,81398.6200,1136077.47297000,06/03/2007 @ 12:00:00 AM
+616,"Gale, Jackalguard",The Bastion of Sthasu the Gruesome,40.00,Unicorns' Fatal Magma Metal Of The Ocean,258.00,903.00,23.00,232974.0000,5934.0000,334471.20000000,06/03/2007 @ 12:00:00 AM
+5273,"Eumyan, Goddess of Law",Gena's Hold,4.00,Phantasmal Tin Of The Swamps,273.00,3207.64,305.00,875685.7200,83265.0000,997308.74880000,06/03/2007 @ 12:00:00 AM
+26241,"Suriel, Lord of Animals",Moor Village,11.32,Unspeakable Rotsoul Mithril Of Souls,230.00,370.26,336.60,85159.8000,77418.0000,180981.60696000,06/03/2007 @ 12:00:00 AM
+12004,"Dawn, Darkzealot",Citadel Ward,4.40,Zephyr Adamant,188.00,481.77,-44.14,90572.7600,-8298.3200,85894.51536000,06/03/2007 @ 12:00:00 AM
+3561,"Maeglodor, God of Thieves",Arcanist's Farthing,29.00,Mind Lead,146.00,756.00,199.17,110376.0000,29078.8200,179896.71780000,06/03/2007 @ 12:00:00 AM
+12286,"Burnbrood, The Freezer",Hafeld Keep,47.59,Fairies' Supreme Mistsmoke Lead Of The Future,178.00,2622.69,454.30,466838.8200,80865.4000,808356.65829800,06/03/2007 @ 12:00:00 AM

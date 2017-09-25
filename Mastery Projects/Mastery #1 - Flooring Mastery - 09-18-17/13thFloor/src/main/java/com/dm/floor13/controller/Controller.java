@@ -12,6 +12,7 @@ import com.dm.floor13.model.Order;
 import com.dm.floor13.service.OrderService;
 import com.dm.floor13.ui.ConsoleTextViewImpl;
 import java.time.LocalDate;
+import java.time.LocalDateTime;
 import java.util.List;
 
 /**
@@ -129,6 +130,7 @@ public class Controller {
                     // Try to add the order
                     try {
                         // Confirm successful addition
+                        safe.setRevisionDate(LocalDateTime.now());
                         String newNumber = service.addUpdateOrder(safe).getOrderNumber();
                         view.addOrderSuccess(newNumber);
                         valid = true;

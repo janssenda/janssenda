@@ -1,20 +1,20 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-1001,"Tombreaper, Rouge",Palace Farthing,13.00,Vampires' Fang Emeraldsilver,268.00,2033.69,80.84,545028.9200,21665.1200,640364.26520000,06/18/2017 @ 12:00:00 AM
-1106,"The Living Device, Mecharig",The Fen of the Necromancer,20.00,Vampires' Fang Emeraldsilver,227.00,2033.69,80.84,461647.6300,18350.6800,575997.97200000,06/18/2017 @ 12:00:00 AM
-36524,Flameshiver,The Fen of the Necromancer,32.21,Phantasmal Tin Of The Swamps,211.00,405.96,369.05,85657.5600,77869.5500,216199.19213100,06/18/2017 @ 12:00:00 AM
-3827,Springcoil,The Hunter and Rose,39.60,Falserainbow Lead,87.00,872.99,70.18,75950.1300,6105.6600,114549.88284000,06/18/2017 @ 12:00:00 AM
-21145,Chainhorror,The Fen of the Necromancer,20.00,Incubi's Iron Of The Dawn,253.00,174.99,174.99,44272.4700,44272.4700,106253.92800000,06/18/2017 @ 12:00:00 AM
-11880,Metalghoul,Reyny Keep,-3.35,Violetdream Iron,188.00,414.98,377.25,78016.2400,70923.0000,143949.77546000,06/18/2017 @ 12:00:00 AM
-31157,Bonescare,The Bastion of Gothmog of Udun,-2.66,Planar Mudtin Of Trolls,98.00,191.40,174.00,18757.2000,17052.0000,34856.67528000,06/18/2017 @ 12:00:00 AM
-18291,"Rougehate, Rune",Gili's Delve,35.89,Toxic Mistlead Of The Past,69.00,396.06,396.06,27328.1400,27328.1400,74272.41889200,06/18/2017 @ 12:00:00 AM
-30339,"God of the Lost, Lionare",The Tower of Sabiesu the Awesome,10.00,Swordbronze,110.00,403.29,366.63,44361.9000,40329.3000,93160.32000000,06/18/2017 @ 12:00:00 AM
-29406,Cinderember,The Citadel of Alammius,32.67,Unknown Fatelightning Steel Of The Glacier,183.00,145.08,159.59,26549.6400,29204.9700,73969.64108700,06/18/2017 @ 12:00:00 AM
-28300,"The Grasping, Nailpiston",Barad Cune,49.21,Negative Rockglitter Mercury Of Trolls,136.00,235.59,214.17,32040.2400,29127.1200,91267.81785600,06/18/2017 @ 12:00:00 AM
-7931,"Mystery, Lord",The Bastion of Sthasu the Gruesome,40.00,Zephyr Adamant,183.00,481.77,-44.14,88163.9100,-8077.6200,112120.80600000,06/18/2017 @ 12:00:00 AM
-26203,"The Unspeakable, Terrorghoul",North Arcanist's Farthing,3.03,Starsmoke Bronze Of Life,117.00,-438.00,420.81,-51246.0000,49234.7700,-2072.17026900,06/18/2017 @ 12:00:00 AM
-14535,"The Terrifying, Deathspike",The Archer and Scroll,49.68,Negative Rockglitter Mercury Of Trolls,382.00,3502.00,214.17,1337764.0000,81812.9400,2124822.76379200,06/18/2017 @ 12:00:00 AM
-26673,"Goddess of Trickery, Alik",Citadel Ward,4.40,Swordbronze,185.00,403.29,366.63,74608.6500,67826.5500,148702.34880000,06/18/2017 @ 12:00:00 AM
-14683,Spikecrank,The Secret Catacombs of Ulfang the Black,28.82,Lycanthropes' Gold,195.00,371.80,338.00,72501.0000,65910.0000,178301.05020000,06/18/2017 @ 12:00:00 AM
-15999,"The Chiller, Chillfire",The Fortress of Asmamur,-2.66,Sirens' Rockgold,193.00,306.13,306.13,59083.0900,59083.0900,115022.95961200,06/18/2017 @ 12:00:00 AM
-13525,"Veil, Bane",The Lewd King,41.80,Nymphs' Luminous Rotmercury Of The Skies,280.00,335.50,369.05,93940.0000,103334.0000,279734.53200000,06/18/2017 @ 12:00:00 AM
-26785,Bolttrap,Reheath Stronghold,39.60,Muck Orichalcum Of Ogres,259.00,143.37,130.34,37132.8300,33758.0600,98963.68244000,06/18/2017 @ 12:00:00 AM
+1001,"Tombreaper, Rouge",Palace Farthing,13.00,Vampires' Fang Emeraldsilver,268.00,2033.69,80.84,545028.9200,21665.1200,640364.26520000,06/18/1947 @ 12:00:00 AM
+1106,"The Living Device, Mecharig",The Fen of the Necromancer,20.00,Vampires' Fang Emeraldsilver,227.00,2033.69,80.84,461647.6300,18350.6800,575997.97200000,06/18/1947 @ 12:00:00 AM
+36524,Flameshiver,The Fen of the Necromancer,32.21,Phantasmal Tin Of The Swamps,211.00,405.96,369.05,85657.5600,77869.5500,216199.19213100,06/18/1947 @ 12:00:00 AM
+3827,Springcoil,The Hunter and Rose,39.60,Falserainbow Lead,87.00,872.99,70.18,75950.1300,6105.6600,114549.88284000,06/18/1947 @ 12:00:00 AM
+21145,Chainhorror,The Fen of the Necromancer,20.00,Incubi's Iron Of The Dawn,253.00,174.99,174.99,44272.4700,44272.4700,106253.92800000,06/18/1947 @ 12:00:00 AM
+11880,Metalghoul,Reyny Keep,-3.35,Violetdream Iron,188.00,414.98,377.25,78016.2400,70923.0000,143949.77546000,06/18/1947 @ 12:00:00 AM
+31157,Bonescare,The Bastion of Gothmog of Udun,-2.66,Planar Mudtin Of Trolls,98.00,191.40,174.00,18757.2000,17052.0000,34856.67528000,06/18/1947 @ 12:00:00 AM
+18291,"Rougehate, Rune",Gili's Delve,35.89,Toxic Mistlead Of The Past,69.00,396.06,396.06,27328.1400,27328.1400,74272.41889200,06/18/1947 @ 12:00:00 AM
+30339,"God of the Lost, Lionare",The Tower of Sabiesu the Awesome,10.00,Swordbronze,110.00,403.29,366.63,44361.9000,40329.3000,93160.32000000,06/18/1947 @ 12:00:00 AM
+29406,Cinderember,The Citadel of Alammius,32.67,Unknown Fatelightning Steel Of The Glacier,183.00,145.08,159.59,26549.6400,29204.9700,73969.64108700,06/18/1947 @ 12:00:00 AM
+28300,"The Grasping, Nailpiston",Barad Cune,49.21,Negative Rockglitter Mercury Of Trolls,136.00,235.59,214.17,32040.2400,29127.1200,91267.81785600,06/18/1947 @ 12:00:00 AM
+7931,"Mystery, Lord",The Bastion of Sthasu the Gruesome,40.00,Zephyr Adamant,183.00,481.77,-44.14,88163.9100,-8077.6200,112120.80600000,06/18/1947 @ 12:00:00 AM
+26203,"The Unspeakable, Terrorghoul",North Arcanist's Farthing,3.03,Starsmoke Bronze Of Life,117.00,-438.00,420.81,-51246.0000,49234.7700,-2072.17026900,06/18/1947 @ 12:00:00 AM
+14535,"The Terrifying, Deathspike",The Archer and Scroll,49.68,Negative Rockglitter Mercury Of Trolls,382.00,3502.00,214.17,1337764.0000,81812.9400,2124822.76379200,06/18/1947 @ 12:00:00 AM
+26673,"Goddess of Trickery, Alik",Citadel Ward,4.40,Swordbronze,185.00,403.29,366.63,74608.6500,67826.5500,148702.34880000,06/18/1947 @ 12:00:00 AM
+14683,Spikecrank,The Secret Catacombs of Ulfang the Black,28.82,Lycanthropes' Gold,195.00,371.80,338.00,72501.0000,65910.0000,178301.05020000,06/18/1947 @ 12:00:00 AM
+15999,"The Chiller, Chillfire",The Fortress of Asmamur,-2.66,Sirens' Rockgold,193.00,306.13,306.13,59083.0900,59083.0900,115022.95961200,06/18/1947 @ 12:00:00 AM
+13525,"Veil, Bane",The Lewd King,41.80,Nymphs' Luminous Rotmercury Of The Skies,280.00,335.50,369.05,93940.0000,103334.0000,279734.53200000,06/18/1947 @ 12:00:00 AM
+26785,Bolttrap,Reheath Stronghold,39.60,Muck Orichalcum Of Ogres,259.00,143.37,130.34,37132.8300,33758.0600,98963.68244000,06/18/1977 @ 12:00:00 AM

@@ -1,26 +1,26 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-36629,Chainhorror,The Fen of the Necromancer,32.21,Vampires' Hammer Emeraldmetal,226.00,93.70,85.18,21176.2000,19250.6800,53448.37804800,05/14/2017 @ 12:00:00 AM
-24845,"Angelchild, Harmony",Bifar's Deep,12.21,Negative Rockglitter Mercury Of Trolls,95.00,235.59,214.17,22381.0500,20346.1500,47944.19112000,05/14/2017 @ 12:00:00 AM
-35610,Deathbrood,Citadel Ward,4.40,Lycanthropes' Gold,166.00,449.88,408.98,74680.0800,67890.6800,148843.87344000,05/14/2017 @ 12:00:00 AM
-23837,"Goddess of Knowledge, Baltha",Bifar's Deep,12.21,Tritons' Time Stoneiron Of Legend,238.00,341.59,375.75,81298.4200,89428.5000,191572.67693200,05/14/2017 @ 12:00:00 AM
-21307,"The Evil, Flameflare",Grori's Deep,30.25,Starsmoke Bronze Of Life,27.00,-438.00,420.81,-11826.0000,11361.8700,-604.52932500,05/14/2017 @ 12:00:00 AM
-35983,"Goddess of the Earth, Gono",The Fen of the Necromancer,32.21,Magicians' Legendary Poison Metal,187.00,-52.81,-48.01,-9875.4700,-8977.8700,-24926.00081400,05/14/2017 @ 12:00:00 AM
-9294,"The Binder, Springpulley",Reheath Stronghold,39.60,Planar Mudtin Of Trolls,153.00,191.40,174.00,29284.2000,26622.0000,78045.05520000,05/14/2017 @ 12:00:00 AM
-18044,"The Evil, Flameflare",Kada's Deep,8.42,Starsmoke Bronze Of Life,250.00,-438.00,420.81,-109500.0000,105202.5000,-4659.34950000,05/14/2017 @ 12:00:00 AM
-21784,"God of Death, Avriel",Moor Village,11.32,Starsmoke Bronze Of Life,36.00,-438.00,420.81,-15768.0000,15149.1600,-688.89268800,05/14/2017 @ 12:00:00 AM
-18165,"Runetomb, Song",Peley Keep,20.92,Fairies' Supreme Mistsmoke Lead Of The Future,197.00,499.73,454.30,98446.8100,89497.1000,227261.77597200,05/14/2017 @ 12:00:00 AM
-31092,"The Disinterred, Spikebrood",The Fortress of Akkun the Grim,27.03,Ensorceled Sandmetal Of Spirits,100.00,85.18,77.44,8518.0000,7744.0000,20657.61860000,05/14/2017 @ 12:00:00 AM
-30283,"Tsunami, Seraphim",The Greedy Wench,13.31,Incubi's Glittering Tin Of The Future,196.00,192.96,233.49,37820.1600,45764.0400,94709.25702000,05/14/2017 @ 12:00:00 AM
-30670,Emberfire,The Fortress of Akkun the Grim,27.03,Ensorceled Sandmetal Of Spirits,295.00,85.18,77.44,25128.1000,22844.8000,60939.97487000,05/14/2017 @ 12:00:00 AM
-8991,"The Grasping, Beamsprocket",Love Keep,40.56,Meteoric Mirrormuck Orichalcum Of The Forests,68.00,491.62,368.50,33430.1600,25058.0000,82210.95769600,05/14/2017 @ 12:00:00 AM
-17719,Deathbrood,The Bastion of the Vampire Duke,37.90,Shadow Metal,189.00,1606.00,298.00,303534.0000,56322.0000,496241.42400000,05/14/2017 @ 12:00:00 AM
-7973,"God of Luck, Ariel",Gawold Castle,10.29,Unknowable Mindsilver,282.00,174.90,174.90,49321.8000,49321.8000,108794.02644000,05/14/2017 @ 12:00:00 AM
-5458,"The Evil, Flameflare",The Barrow of Terrible Horror,24.90,Phantasmal Smokezephyr Mercury Of Men,208.00,211.20,192.00,43929.6000,39936.0000,104748.13440000,05/14/2017 @ 12:00:00 AM
-26268,"Reaper, Dagger",Moor Village,11.32,Fleshshock Mercury,284.00,-31.02,-28.20,-8809.6800,-8008.8000,-18722.33193600,05/14/2017 @ 12:00:00 AM
-15577,"The Disinterred, Spikebrood",The Tower of Aramum,20.00,Djinni's Mind Fogiron,106.00,57.23,52.03,6066.3800,5515.1800,13897.87200000,05/14/2017 @ 12:00:00 AM
-5906,Springcoil,Reheath Stronghold,39.60,Tritons' Time Stoneiron Of Legend,175.00,2235.00,310.54,391125.0000,54344.5000,621875.42200000,05/14/2017 @ 12:00:00 AM
-2089,"Godseeker, Cult",Pewold Keep,29.00,Undeads' Mind Orichalcum Of The Twilight,229.00,1169.00,274.00,267701.0000,62746.0000,426276.63000000,05/14/2017 @ 12:00:00 AM
-13362,"Reaper, Dagger",The Hunter and Rose,39.60,Magicians' Legendary Poison Metal,102.00,-52.81,-48.01,-5386.6200,-4897.0200,-14355.96144000,05/14/2017 @ 12:00:00 AM
-25381,"Felldrake, Magus",The Pirate's Pipe,16.94,Phantasmal Smokezephyr Mercury Of Men,203.00,211.20,192.00,42873.6000,38976.0000,95714.92224000,05/14/2017 @ 12:00:00 AM
-4740,"The Unspeakable, Scarechain",Shainan's Hold,43.67,Incubi's Glittering Tin Of The Future,298.00,4393.29,175.42,1309200.4200,52275.1600,1956031.96578600,05/14/2017 @ 12:00:00 AM
-24113,"The Grasping, Beamsprocket",The Dungeon of Merciless Woe,3.97,Incubi's Glittering Tin Of The Future,121.00,192.96,212.26,23348.1600,25683.4600,50978.17531400,05/14/2017 @ 12:00:00 AM
+36629,Chainhorror,The Fen of the Necromancer,32.21,Vampires' Hammer Emeraldmetal,226.00,93.70,85.18,21176.2000,19250.6800,53448.37804800,05/14/2007 @ 12:00:00 AM
+24845,"Harmony, Angelchild",Bifar's Deep,12.21,Negative Rockglitter Mercury Of Trolls,95.00,235.59,214.17,22381.0500,20346.1500,47944.19112000,05/14/2007 @ 12:00:00 AM
+35610,Deathbrood,Citadel Ward,4.40,Lycanthropes' Gold,166.00,449.88,408.98,74680.0800,67890.6800,148843.87344000,05/14/2007 @ 12:00:00 AM
+23837,"Baltha, Goddess of Knowledge",Bifar's Deep,12.21,Tritons' Time Stoneiron Of Legend,238.00,341.59,375.75,81298.4200,89428.5000,191572.67693200,05/14/2007 @ 12:00:00 AM
+21307,"Flameflare, The Evil",Grori's Deep,30.25,Starsmoke Bronze Of Life,27.00,-438.00,420.81,-11826.0000,11361.8700,-604.52932500,05/14/2007 @ 12:00:00 AM
+35983,"Gono, Goddess of the Earth",The Fen of the Necromancer,32.21,Magicians' Legendary Poison Metal,187.00,-52.81,-48.01,-9875.4700,-8977.8700,-24926.00081400,05/14/2007 @ 12:00:00 AM
+9294,"Springpulley, The Binder",Reheath Stronghold,39.60,Planar Mudtin Of Trolls,153.00,191.40,174.00,29284.2000,26622.0000,78045.05520000,05/14/2007 @ 12:00:00 AM
+18044,"Flameflare, The Evil",Kada's Deep,8.42,Starsmoke Bronze Of Life,250.00,-438.00,420.81,-109500.0000,105202.5000,-4659.34950000,05/14/2007 @ 12:00:00 AM
+21784,"Avriel, God of Death",Moor Village,11.32,Starsmoke Bronze Of Life,36.00,-438.00,420.81,-15768.0000,15149.1600,-688.89268800,05/14/2007 @ 12:00:00 AM
+18165,"Song, Runetomb",Peley Keep,20.92,Fairies' Supreme Mistsmoke Lead Of The Future,197.00,499.73,454.30,98446.8100,89497.1000,227261.77597200,05/14/2007 @ 12:00:00 AM
+31092,"Spikebrood, The Disinterred",The Fortress of Akkun the Grim,27.03,Ensorceled Sandmetal Of Spirits,100.00,85.18,77.44,8518.0000,7744.0000,20657.61860000,05/14/2007 @ 12:00:00 AM
+30283,"Seraphim, Tsunami",The Greedy Wench,13.31,Incubi's Glittering Tin Of The Future,196.00,192.96,233.49,37820.1600,45764.0400,94709.25702000,05/14/2017 @ 12:00:00 AM
+30670,Emberfire,The Fortress of Akkun the Grim,27.03,Ensorceled Sandmetal Of Spirits,295.00,85.18,77.44,25128.1000,22844.8000,60939.97487000,05/14/2007 @ 12:00:00 AM
+8991,"Beamsprocket, The Grasping",Love Keep,40.56,Meteoric Mirrormuck Orichalcum Of The Forests,68.00,491.62,368.50,33430.1600,25058.0000,82210.95769600,05/14/2017 @ 12:00:00 AM
+17719,Deathbrood,The Bastion of the Vampire Duke,37.90,Shadow Metal,189.00,1606.00,298.00,303534.0000,56322.0000,496241.42400000,05/14/2007 @ 12:00:00 AM
+7973,"Ariel, God of Luck",Gawold Castle,10.29,Unknowable Mindsilver,282.00,174.90,174.90,49321.8000,49321.8000,108794.02644000,05/14/2007 @ 12:00:00 AM
+5458,"Flameflare, The Evil",The Barrow of Terrible Horror,24.90,Phantasmal Smokezephyr Mercury Of Men,208.00,211.20,192.00,43929.6000,39936.0000,104748.13440000,05/14/2007 @ 12:00:00 AM
+26268,"Dagger, Reaper",Moor Village,11.32,Fleshshock Mercury,284.00,-31.02,-28.20,-8809.6800,-8008.8000,-18722.33193600,05/14/2007 @ 12:00:00 AM
+15577,"Spikebrood, The Disinterred",The Tower of Aramum,20.00,Djinni's Mind Fogiron,106.00,57.23,52.03,6066.3800,5515.1800,13897.87200000,05/14/2007 @ 12:00:00 AM
+5906,Springcoil,Reheath Stronghold,39.60,Tritons' Time Stoneiron Of Legend,175.00,2235.00,310.54,391125.0000,54344.5000,621875.42200000,05/14/2007 @ 12:00:00 AM
+2089,"Cult, Godseeker",Pewold Keep,29.00,Undeads' Mind Orichalcum Of The Twilight,229.00,1169.00,274.00,267701.0000,62746.0000,426276.63000000,05/14/2007 @ 12:00:00 AM
+13362,"Dagger, Reaper",The Hunter and Rose,39.60,Magicians' Legendary Poison Metal,102.00,-52.81,-48.01,-5386.6200,-4897.0200,-14355.96144000,05/14/2017 @ 12:00:00 AM
+25381,"Magus, Felldrake",The Pirate's Pipe,16.94,Phantasmal Smokezephyr Mercury Of Men,203.00,211.20,192.00,42873.6000,38976.0000,95714.92224000,05/14/2007 @ 12:00:00 AM
+4740,"Scarechain, The Unspeakable",Shainan's Hold,43.67,Incubi's Glittering Tin Of The Future,298.00,4393.29,175.42,1309200.4200,52275.1600,1956031.96578600,05/14/2007 @ 12:00:00 AM
+24113,"Beamsprocket, The Grasping",The Dungeon of Merciless Woe,3.97,Incubi's Glittering Tin Of The Future,121.00,192.96,212.26,23348.1600,25683.4600,50978.17531400,05/14/2007 @ 12:00:00 AM

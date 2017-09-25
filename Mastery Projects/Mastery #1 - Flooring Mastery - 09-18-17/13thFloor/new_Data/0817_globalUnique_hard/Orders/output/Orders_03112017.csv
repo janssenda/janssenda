@@ -1,21 +1,21 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-25687,"Wolf, Jericho",Gili's Delve,35.89,Phantasmal Smokezephyr Mercury Of Men,298.00,211.20,192.00,62937.6000,57216.0000,163276.72704000,03/11/2017 @ 12:00:00 AM
-36667,Bolttrap,The Fen of the Necromancer,32.21,Heavenly Dreamsilver Of The Night,190.00,719.00,346.06,136610.0000,65751.4000,267542.00694000,03/11/2017 @ 12:00:00 AM
-35324,"Dire, Wind",The Fen of the Necromancer,32.21,Violetdream Iron,232.00,502.13,502.13,116494.1600,116494.1600,308033.85787200,03/11/2017 @ 12:00:00 AM
-34236,Springsprocket,The Cuitamba Jungle,46.75,Warlocks' Timerot Mithril,225.00,194.65,194.65,43796.2500,43796.2500,128541.99375000,03/11/2017 @ 12:00:00 AM
-22426,"Mist, Claw",Pewold Keep,29.00,Fleshshock Mercury,14.00,-31.02,-28.20,-434.2800,-394.8000,-1069.51320000,03/11/2017 @ 12:00:00 AM
-33454,Bonescare,The Archer and Scroll,60.12,Forgotten Mithril,257.00,600.28,545.71,154271.9600,140247.4700,471584.51131600,03/11/2017 @ 12:00:00 AM
-32259,"Godwarlock, Sunrise",Hafeld Keep,47.59,Fairies' Supreme Mistsmoke Lead Of The Future,128.00,499.73,549.70,63965.4400,70361.6000,198253.27833600,03/11/2017 @ 12:00:00 AM
-33706,"The Cremator, Blazeflare",Pewold Keep,29.00,Undeads' Mind Orichalcum Of The Twilight,105.00,1169.00,364.69,122745.0000,38292.4500,207738.31050000,03/11/2017 @ 12:00:00 AM
-20637,"Jackalguard, Gale",Mahyrst Keep,31.30,Negative Rockglitter Mercury Of Trolls,169.00,3502.00,214.17,591838.0000,36194.7300,824606.97449000,03/11/2017 @ 12:00:00 AM
-9613,Bronzespawn,The Pirate's Pipe,15.40,Timeiron,113.00,3255.00,-16.25,367815.0000,-1836.2500,422339.47750000,03/11/2017 @ 12:00:00 AM
-31613,"God of Luck, Ariel",The Demon and Toad,-1.21,Pearl Mirrorice Steel Of Changelings,103.00,365.42,365.42,37638.2600,37638.2600,74365.67410800,03/11/2017 @ 12:00:00 AM
-31700,"Tomblion, Shadow",Noble's Village,6.57,Warlocks' Timerot Mithril,268.00,194.65,194.65,52166.2000,52166.2000,111187.03868000,03/11/2017 @ 12:00:00 AM
-8829,"Godwarlock, Sunrise",The Demon and Toad,-1.10,Planar Mudtin Of Trolls,174.00,191.40,174.00,33303.6000,30276.0000,62880.22440000,03/11/2017 @ 12:00:00 AM
-6241,"Rougehate, Rune",The Wizard's House,20.00,Fleshshock Mercury,167.00,-31.02,-28.20,-5180.3400,-4709.4000,-11867.68800000,03/11/2017 @ 12:00:00 AM
-28441,"Goddess of Thieves, Melcha",The Bastion of the Vampire Duke,45.86,Vampires' Fang Emeraldsilver,201.00,2033.69,80.84,408771.6900,16248.8400,619934.94505800,03/11/2017 @ 12:00:00 AM
-26047,"The Grasping, Nailpiston",Barad Cune,49.21,Fleshshock Mercury,150.00,-31.02,-28.20,-4653.0000,-4230.0000,-13254.32430000,03/11/2017 @ 12:00:00 AM
-15498,"The Grasping, Nettool",The Dungeon of Merciless Woe,3.61,Golems' Stonesapphire Gold Of The Glacier,281.00,176.00,160.00,49456.0000,44960.0000,97824.41760000,03/11/2017 @ 12:00:00 AM
-26141,"Lord of the Sun, Maglioneth",Archfane District,15.29,Starsmoke Bronze Of Life,261.00,-438.00,420.81,-114318.0000,109831.4100,-5172.58961100,03/11/2017 @ 12:00:00 AM
-12028,"The Skeletal, Spiketerror",Castle Village,42.98,Sprites' Transcendent Mud Lead Of The South,162.00,3338.65,242.80,540861.3000,39333.6000,829562.66802000,03/11/2017 @ 12:00:00 AM
-2124,"Lonedrake, Clash",The Dismal Marsh,27.00,Magicians' Legendary Poison Metal,294.00,-52.81,-48.01,-15526.1400,-14114.9400,-37644.17160000,03/11/2017 @ 12:00:00 AM
+25687,"Jericho, Wolf",Gili's Delve,35.89,Phantasmal Smokezephyr Mercury Of Men,298.00,211.20,192.00,62937.6000,57216.0000,163276.72704000,03/11/2007 @ 12:00:00 AM
+36667,Bolttrap,The Fen of the Necromancer,32.21,Heavenly Dreamsilver Of The Night,190.00,719.00,346.06,136610.0000,65751.4000,267542.00694000,03/11/2007 @ 12:00:00 AM
+35324,"Wind, Dire",The Fen of the Necromancer,32.21,Violetdream Iron,232.00,502.13,502.13,116494.1600,116494.1600,308033.85787200,03/11/2007 @ 12:00:00 AM
+34236,Springsprocket,The Cuitamba Jungle,46.75,Warlocks' Timerot Mithril,225.00,194.65,194.65,43796.2500,43796.2500,128541.99375000,03/11/2007 @ 12:00:00 AM
+22426,"Claw, Mist",Pewold Keep,29.00,Fleshshock Mercury,14.00,-31.02,-28.20,-434.2800,-394.8000,-1069.51320000,03/11/2007 @ 12:00:00 AM
+33454,Bonescare,The Archer and Scroll,60.12,Forgotten Mithril,257.00,600.28,545.71,154271.9600,140247.4700,471584.51131600,03/11/2007 @ 12:00:00 AM
+32259,"Sunrise, Godwarlock",Hafeld Keep,47.59,Fairies' Supreme Mistsmoke Lead Of The Future,128.00,499.73,549.70,63965.4400,70361.6000,198253.27833600,03/11/2007 @ 12:00:00 AM
+33706,"Blazeflare, The Cremator",Pewold Keep,29.00,Undeads' Mind Orichalcum Of The Twilight,105.00,1169.00,364.69,122745.0000,38292.4500,207738.31050000,03/11/2007 @ 12:00:00 AM
+20637,"Gale, Jackalguard",Mahyrst Keep,31.30,Negative Rockglitter Mercury Of Trolls,169.00,3502.00,214.17,591838.0000,36194.7300,824606.97449000,03/11/2007 @ 12:00:00 AM
+9613,Bronzespawn,The Pirate's Pipe,15.40,Timeiron,113.00,3255.00,-16.25,367815.0000,-1836.2500,422339.47750000,03/11/2007 @ 12:00:00 AM
+31613,"Ariel, God of Luck",The Demon and Toad,-1.21,Pearl Mirrorice Steel Of Changelings,103.00,365.42,365.42,37638.2600,37638.2600,74365.67410800,03/11/2007 @ 12:00:00 AM
+31700,"Shadow, Tomblion",Noble's Village,6.57,Warlocks' Timerot Mithril,268.00,194.65,194.65,52166.2000,52166.2000,111187.03868000,03/11/2007 @ 12:00:00 AM
+8829,"Sunrise, Godwarlock",The Demon and Toad,-1.10,Planar Mudtin Of Trolls,174.00,191.40,174.00,33303.6000,30276.0000,62880.22440000,03/11/2007 @ 12:00:00 AM
+6241,"Rune, Rougehate",The Wizard's House,20.00,Fleshshock Mercury,167.00,-31.02,-28.20,-5180.3400,-4709.4000,-11867.68800000,03/11/2007 @ 12:00:00 AM
+28441,"Melcha, Goddess of Thieves",The Bastion of the Vampire Duke,45.86,Vampires' Fang Emeraldsilver,201.00,2033.69,80.84,408771.6900,16248.8400,619934.94505800,03/11/2007 @ 12:00:00 AM
+26047,"Nailpiston, The Grasping",Barad Cune,49.21,Fleshshock Mercury,150.00,-31.02,-28.20,-4653.0000,-4230.0000,-13254.32430000,03/11/2007 @ 12:00:00 AM
+15498,"Nettool, The Grasping",The Dungeon of Merciless Woe,3.61,Golems' Stonesapphire Gold Of The Glacier,281.00,176.00,160.00,49456.0000,44960.0000,97824.41760000,03/11/2007 @ 12:00:00 AM
+26141,"Maglioneth, Lord of the Sun",Archfane District,15.29,Starsmoke Bronze Of Life,261.00,-438.00,420.81,-114318.0000,109831.4100,-5172.58961100,03/11/2007 @ 12:00:00 AM
+12028,"Spiketerror, The Skeletal",Castle Village,42.98,Sprites' Transcendent Mud Lead Of The South,162.00,3338.65,242.80,540861.3000,39333.6000,829562.66802000,03/11/2007 @ 12:00:00 AM
+2124,"Clash, Lonedrake",The Dismal Marsh,27.00,Magicians' Legendary Poison Metal,294.00,-52.81,-48.01,-15526.1400,-14114.9400,-37644.17160000,03/11/2007 @ 12:00:00 AM

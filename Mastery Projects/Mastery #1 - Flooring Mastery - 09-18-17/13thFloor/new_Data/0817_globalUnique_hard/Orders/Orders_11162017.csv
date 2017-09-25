@@ -1,16 +1,16 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-36511,"Runetomb, Song",The Fen of the Necromancer,32.21,Phantasmal Tin Of The Swamps,216.00,405.96,369.05,87687.3600,79714.8000,221322.39573600,11/16/2017 @ 12:00:00 AM
-12947,"The Evil, Burnchill",Noble's Village,5.43,Vampires' Fang Emeraldsilver,73.00,2033.69,80.84,148459.3700,5901.3200,162742.47546700,11/16/2017 @ 12:00:00 AM
-19438,"The Machine, Wheelbolt",Weke Tower,47.19,Trolls' Mist Poisonplatinum Of The Twilight,164.00,484.62,440.56,79477.6800,72251.8400,223330.68048800,11/16/2017 @ 12:00:00 AM
-33703,"The Evil, Flameflare",The Archer and Scroll,60.12,Undeads' Mind Orichalcum Of The Twilight,215.00,1169.00,364.69,251335.0000,78408.3500,527985.05202000,11/16/2017 @ 12:00:00 AM
-32571,Chainhorror,North Arcanist's Farthing,3.66,Fairies' Supreme Mistsmoke Lead Of The Future,220.00,499.73,549.70,109940.6000,120934.0000,239324.61036000,11/16/2017 @ 12:00:00 AM
-491,"Tombreaper, Rouge",Gili's Delve,35.89,Magicians' Legendary Poison Metal,232.00,3615.00,-48.01,838680.0000,-11138.3200,1124546.38895200,11/16/2017 @ 12:00:00 AM
-7784,Cinderember,Gawold Castle,10.29,Sapphire Mindlead,219.00,-44.77,-40.70,-9804.6300,-8913.3000,-20644.00499700,11/16/2017 @ 12:00:00 AM
-30705,"Knightclaw, Sunset",Mahyrst Keep,31.30,Ensorceled Sandmetal Of Spirits,286.00,85.18,77.44,24361.4800,22147.8400,61066.73716000,11/16/2017 @ 12:00:00 AM
-17712,Bronzespawn,Kada's Deep,8.42,Shadow Metal,151.00,1606.00,298.00,242506.0000,44998.0000,311711.83680000,11/16/2017 @ 12:00:00 AM
-6588,"Amberslayer, Flora",The Wizard's House,20.00,Hidden Shadowice Lead,144.00,3068.90,-15.00,441921.6000,-2160.0000,527713.92000000,11/16/2017 @ 12:00:00 AM
-16559,"Veil, Bane",Reyny Keep,-3.35,Swordbronze,118.00,333.30,303.00,39329.4000,35754.0000,72568.10610000,11/16/2017 @ 12:00:00 AM
-4022,Cinderflame,Kada's Deep,7.65,Forgotten Mithril,187.00,3909.75,451.00,731123.2500,84337.0000,877842.95912500,11/16/2017 @ 12:00:00 AM
-6936,"Godseeker, Cult",Archfane District,15.29,Vampires' Hammer Emeraldmetal,122.00,77.44,70.40,9447.6800,8588.8000,20794.25779200,11/16/2017 @ 12:00:00 AM
-6969,"The Horrorific, Evilfear",Barad Kesa,5.10,Vampires' Hammer Emeraldmetal,221.00,77.44,70.40,17114.2400,15558.4000,34338.94464000,11/16/2017 @ 12:00:00 AM
-25617,"Darkzealot, Dawn",Kada's Deep,8.42,Incubi's Glittering Tin Of The Future,26.00,192.96,233.49,5016.9600,6070.7400,12021.28434000,11/16/2017 @ 12:00:00 AM
+36511,"Song, Runetomb",The Fen of the Necromancer,32.21,Phantasmal Tin Of The Swamps,216.00,405.96,369.05,87687.3600,79714.8000,221322.39573600,11/16/2007 @ 12:00:00 AM
+12947,"Burnchill, The Evil",Noble's Village,5.43,Vampires' Fang Emeraldsilver,73.00,2033.69,80.84,148459.3700,5901.3200,162742.47546700,11/16/2007 @ 12:00:00 AM
+19438,"Wheelbolt, The Machine",Weke Tower,47.19,Trolls' Mist Poisonplatinum Of The Twilight,164.00,484.62,440.56,79477.6800,72251.8400,223330.68048800,11/16/2007 @ 12:00:00 AM
+33703,"Flameflare, The Evil",The Archer and Scroll,60.12,Undeads' Mind Orichalcum Of The Twilight,215.00,1169.00,364.69,251335.0000,78408.3500,527985.05202000,11/16/2007 @ 12:00:00 AM
+32571,Chainhorror,North Arcanist's Farthing,3.66,Fairies' Supreme Mistsmoke Lead Of The Future,220.00,499.73,549.70,109940.6000,120934.0000,239324.61036000,11/16/2007 @ 12:00:00 AM
+491,"Rouge, Tombreaper",Gili's Delve,35.89,Magicians' Legendary Poison Metal,232.00,3615.00,-48.01,838680.0000,-11138.3200,1124546.38895200,11/16/2007 @ 12:00:00 AM
+7784,Cinderember,Gawold Castle,10.29,Sapphire Mindlead,219.00,-44.77,-40.70,-9804.6300,-8913.3000,-20644.00499700,11/16/2007 @ 12:00:00 AM
+30705,"Sunset, Knightclaw",Mahyrst Keep,31.30,Ensorceled Sandmetal Of Spirits,286.00,85.18,77.44,24361.4800,22147.8400,61066.73716000,11/16/2007 @ 12:00:00 AM
+17712,Bronzespawn,Kada's Deep,8.42,Shadow Metal,151.00,1606.00,298.00,242506.0000,44998.0000,311711.83680000,11/16/2007 @ 12:00:00 AM
+6588,"Flora, Amberslayer",The Wizard's House,20.00,Hidden Shadowice Lead,144.00,3068.90,-15.00,441921.6000,-2160.0000,527713.92000000,11/16/2007 @ 12:00:00 AM
+16559,"Bane, Veil",Reyny Keep,-3.35,Swordbronze,118.00,333.30,303.00,39329.4000,35754.0000,72568.10610000,11/16/2007 @ 12:00:00 AM
+4022,Cinderflame,Kada's Deep,7.65,Forgotten Mithril,187.00,3909.75,451.00,731123.2500,84337.0000,877842.95912500,11/16/2007 @ 12:00:00 AM
+6936,"Cult, Godseeker",Archfane District,15.29,Vampires' Hammer Emeraldmetal,122.00,77.44,70.40,9447.6800,8588.8000,20794.25779200,11/16/2007 @ 12:00:00 AM
+6969,"Evilfear, The Horrorific",Barad Kesa,5.10,Vampires' Hammer Emeraldmetal,221.00,77.44,70.40,17114.2400,15558.4000,34338.94464000,11/16/2007 @ 12:00:00 AM
+25617,"Dawn, Darkzealot",Kada's Deep,8.42,Incubi's Glittering Tin Of The Future,26.00,192.96,233.49,5016.9600,6070.7400,12021.28434000,11/16/2007 @ 12:00:00 AM

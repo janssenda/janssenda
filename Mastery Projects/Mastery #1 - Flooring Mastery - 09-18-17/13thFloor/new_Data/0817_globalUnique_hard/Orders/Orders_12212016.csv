@@ -1,25 +1,25 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-37652,"Angelchild, Harmony",The Greedy Wench,13.31,Stone Soulsteel Of The Skies,131.00,453.31,453.31,59383.6100,59383.6100,134575.13698200,12/21/2016 @ 12:00:00 AM
-1211,"Tombreaper, Rouge",The Archer and Blade,15.00,Yellow Mistearth Copper,194.00,3587.00,238.00,695878.0000,46172.0000,853357.50000000,12/21/2016 @ 12:00:00 AM
-36533,"God of Luck, Ariel",The Fen of the Necromancer,32.21,Vampires' Hammer Emeraldmetal,137.00,93.70,85.18,12836.9000,11669.6600,32400.12297600,12/21/2016 @ 12:00:00 AM
-10064,"The Disinterred, Spikebrood",The Lost Crypts of Sorrows,2.20,Emerald Orichalcum,314.00,1957.00,118.01,614498.0000,37055.1400,665887.30908000,12/21/2016 @ 12:00:00 AM
-34012,"God of Death, Avriel",The Cuitamba Jungle,46.75,Unspeakable Rotsoul Mithril Of Souls,263.00,370.26,336.60,97378.3800,88525.8000,272814.38415000,12/21/2016 @ 12:00:00 AM
-36678,"Lord of the Sea, Penur",The Fen of the Necromancer,32.21,Phantasmal Tin Of The Swamps,311.00,405.96,369.05,126253.5600,114774.5500,318663.26423100,12/21/2016 @ 12:00:00 AM
-23847,"Lionwatcher, Law",The Dungeon of Merciless Woe,3.97,Tritons' Time Stoneiron Of Legend,49.00,341.59,375.75,16737.9100,18411.7500,36545.10150200,12/21/2016 @ 12:00:00 AM
-35842,"God of Resurrection, Gadriel",Bifar's Deep,12.21,Yellow Mistearth Copper,271.00,287.98,261.80,78042.5800,70947.8000,167182.10539800,12/21/2016 @ 12:00:00 AM
-34725,Deathbrood,Barad Kesa,6.17,Yellow Mistearth Copper,142.00,287.98,261.80,40893.1600,37175.6000,82885.60249200,12/21/2016 @ 12:00:00 AM
-19179,"Jester, Seraph",Mahyrst Keep,31.30,Foul Ice Bronze Of Life,309.00,292.82,266.20,90481.3800,82255.8000,226803.91734000,12/21/2016 @ 12:00:00 AM
-21522,"Seeker, Fate",The Bastion of Gothmog of Udun,-2.42,Yellow Mistearth Copper,168.00,287.98,261.80,48380.6400,43982.4000,90127.85443200,12/21/2016 @ 12:00:00 AM
-31017,"The Cadaverous, Chainblade",The Nulukkhath Spires,28.99,Ensorceled Sandmetal Of Spirits,219.00,85.18,77.44,18654.4200,16959.3600,45938.21482200,12/21/2016 @ 12:00:00 AM
-21841,"Mistmidnight, Tiger",The Bastion of Gothmog of Udun,-2.42,Yellow Mistearth Copper,218.00,287.98,261.80,62779.6400,57072.4000,116951.62063200,12/21/2016 @ 12:00:00 AM
-8205,"Felldrake, Magus",Gawold Castle,10.29,Unknowable Mindsilver,143.00,174.90,174.90,25010.7000,25010.7000,55168.60206000,12/21/2016 @ 12:00:00 AM
-20704,"Goddess of Fate, Azah",Arcanist's Farthing,29.00,Poison Adamant,82.00,110.96,100.87,9098.7200,8271.3400,22407.37740000,12/21/2016 @ 12:00:00 AM
-31506,Ironbrood,Weke Tower,47.19,Fairies' Supreme Mistsmoke Lead Of The Future,188.00,499.73,549.70,93949.2400,103343.6000,290395.33119600,12/21/2016 @ 12:00:00 AM
-18683,"The Freezer, Burnbrood",The Citadel of Alammius,29.70,Venom Jewelmetal Of The Desert,346.00,701.92,222.50,242864.3200,76985.0000,414844.56804000,12/21/2016 @ 12:00:00 AM
-29317,"Mist, Claw",The Nulukkhath Spires,28.99,Fleshshock Mercury,45.00,-31.02,-28.20,-1395.9000,-1269.0000,-3437.45451000,12/21/2016 @ 12:00:00 AM
-31749,Emberspawn,Gifeld Castle,33.01,Pearl Mirrorice Steel Of Changelings,161.00,365.42,365.42,58832.6200,58832.6200,156506.53572400,12/21/2016 @ 12:00:00 AM
-17533,Graveterror,Kada's Deep,8.42,Ghostly Soul Adamant,173.00,414.70,377.00,71743.1000,65221.0000,148496.47722000,12/21/2016 @ 12:00:00 AM
-724,"Lord of Death, Addon",Palace Farthing,13.00,Ghostly Magic Adamant,234.00,901.35,45.00,210915.9000,10530.0000,250233.86700000,12/21/2016 @ 12:00:00 AM
-769,Bronzespawn,The Shadow Downs,34.00,Zephyr Iron,139.00,2249.71,233.69,312709.6900,32482.9100,462558.08400000,12/21/2016 @ 12:00:00 AM
-5613,"Ivycaster, Fate",Pawic Keep,31.90,Grayplatinum,169.00,2548.00,86.73,430612.0000,14657.3700,587310.29903000,12/21/2016 @ 12:00:00 AM
-26401,"God of Death, Selik",The Dungeon of Merciless Woe,3.97,Starsmoke Bronze Of Life,168.00,-438.00,420.81,-73584.0000,70696.0800,-3002.57042400,12/21/2016 @ 12:00:00 AM
+37652,"Harmony, Angelchild",The Greedy Wench,13.31,Stone Soulsteel Of The Skies,131.00,453.31,453.31,59383.6100,59383.6100,134575.13698200,12/21/2006 @ 12:00:00 AM
+1211,"Rouge, Tombreaper",The Archer and Blade,15.00,Yellow Mistearth Copper,194.00,3587.00,238.00,695878.0000,46172.0000,853357.50000000,12/21/2006 @ 12:00:00 AM
+36533,"Ariel, God of Luck",The Fen of the Necromancer,32.21,Vampires' Hammer Emeraldmetal,137.00,93.70,85.18,12836.9000,11669.6600,32400.12297600,12/21/2006 @ 12:00:00 AM
+10064,"Spikebrood, The Disinterred",The Lost Crypts of Sorrows,2.20,Emerald Orichalcum,314.00,1957.00,118.01,614498.0000,37055.1400,665887.30908000,12/21/2006 @ 12:00:00 AM
+34012,"Avriel, God of Death",The Cuitamba Jungle,46.75,Unspeakable Rotsoul Mithril Of Souls,263.00,370.26,336.60,97378.3800,88525.8000,272814.38415000,12/21/2006 @ 12:00:00 AM
+36678,"Penur, Lord of the Sea",The Fen of the Necromancer,32.21,Phantasmal Tin Of The Swamps,311.00,405.96,369.05,126253.5600,114774.5500,318663.26423100,12/21/2006 @ 12:00:00 AM
+23847,"Law, Lionwatcher",The Dungeon of Merciless Woe,3.97,Tritons' Time Stoneiron Of Legend,49.00,341.59,375.75,16737.9100,18411.7500,36545.10150200,12/21/2006 @ 12:00:00 AM
+35842,"Gadriel, God of Resurrection",Bifar's Deep,12.21,Yellow Mistearth Copper,271.00,287.98,261.80,78042.5800,70947.8000,167182.10539800,12/21/2006 @ 12:00:00 AM
+34725,Deathbrood,Barad Kesa,6.17,Yellow Mistearth Copper,142.00,287.98,261.80,40893.1600,37175.6000,82885.60249200,12/21/2006 @ 12:00:00 AM
+19179,"Seraph, Jester",Mahyrst Keep,31.30,Foul Ice Bronze Of Life,309.00,292.82,266.20,90481.3800,82255.8000,226803.91734000,12/21/2016 @ 12:00:00 AM
+21522,"Fate, Seeker",The Bastion of Gothmog of Udun,-2.42,Yellow Mistearth Copper,168.00,287.98,261.80,48380.6400,43982.4000,90127.85443200,12/21/2006 @ 12:00:00 AM
+31017,"Chainblade, The Cadaverous",The Nulukkhath Spires,28.99,Ensorceled Sandmetal Of Spirits,219.00,85.18,77.44,18654.4200,16959.3600,45938.21482200,12/21/2006 @ 12:00:00 AM
+21841,"Tiger, Mistmidnight",The Bastion of Gothmog of Udun,-2.42,Yellow Mistearth Copper,218.00,287.98,261.80,62779.6400,57072.4000,116951.62063200,12/21/2006 @ 12:00:00 AM
+8205,"Magus, Felldrake",Gawold Castle,10.29,Unknowable Mindsilver,143.00,174.90,174.90,25010.7000,25010.7000,55168.60206000,12/21/2006 @ 12:00:00 AM
+20704,"Azah, Goddess of Fate",Arcanist's Farthing,29.00,Poison Adamant,82.00,110.96,100.87,9098.7200,8271.3400,22407.37740000,12/21/2006 @ 12:00:00 AM
+31506,Ironbrood,Weke Tower,47.19,Fairies' Supreme Mistsmoke Lead Of The Future,188.00,499.73,549.70,93949.2400,103343.6000,290395.33119600,12/21/2006 @ 12:00:00 AM
+18683,"Burnbrood, The Freezer",The Citadel of Alammius,29.70,Venom Jewelmetal Of The Desert,346.00,701.92,222.50,242864.3200,76985.0000,414844.56804000,12/21/2006 @ 12:00:00 AM
+29317,"Claw, Mist",The Nulukkhath Spires,28.99,Fleshshock Mercury,45.00,-31.02,-28.20,-1395.9000,-1269.0000,-3437.45451000,12/21/2006 @ 12:00:00 AM
+31749,Emberspawn,Gifeld Castle,33.01,Pearl Mirrorice Steel Of Changelings,161.00,365.42,365.42,58832.6200,58832.6200,156506.53572400,12/21/2006 @ 12:00:00 AM
+17533,Graveterror,Kada's Deep,8.42,Ghostly Soul Adamant,173.00,414.70,377.00,71743.1000,65221.0000,148496.47722000,12/21/2006 @ 12:00:00 AM
+724,"Addon, Lord of Death",Palace Farthing,13.00,Ghostly Magic Adamant,234.00,901.35,45.00,210915.9000,10530.0000,250233.86700000,12/21/2006 @ 12:00:00 AM
+769,Bronzespawn,The Shadow Downs,34.00,Zephyr Iron,139.00,2249.71,233.69,312709.6900,32482.9100,462558.08400000,12/21/2006 @ 12:00:00 AM
+5613,"Fate, Ivycaster",Pawic Keep,31.90,Grayplatinum,169.00,2548.00,86.73,430612.0000,14657.3700,587310.29903000,12/21/2006 @ 12:00:00 AM
+26401,"Selik, God of Death",The Dungeon of Merciless Woe,3.97,Starsmoke Bronze Of Life,168.00,-438.00,420.81,-73584.0000,70696.0800,-3002.57042400,12/21/2016 @ 12:00:00 AM

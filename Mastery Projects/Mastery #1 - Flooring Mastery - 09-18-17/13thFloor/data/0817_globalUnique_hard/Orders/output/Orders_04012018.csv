@@ -1,16 +1,16 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-3641,"The Freezer, Burnbrood",The Fortress of Akkun the Grim,27.03,Mind Lead,47.00,756.00,199.17,35532.0000,9360.9900,57027.56519700,04/01/2018 @ 12:00:00 AM
-36670,"The Binder, Springpulley",The Fen of the Necromancer,32.21,Ensorceled Sandmetal Of Spirits,180.00,85.18,93.70,15332.4000,16866.0000,42569.50464000,04/01/2018 @ 12:00:00 AM
-10067,"Goddess of the Earth, Gono",The Lost Crypts of Sorrows,2.20,Undeads' Mind Orichalcum Of The Twilight,88.00,1169.00,301.40,102872.0000,26523.2000,132241.89440000,04/01/2018 @ 12:00:00 AM
-2781,"Goddess of Thieves, Melcha",Cawold Castle,35.00,Zephyr Adamant,338.00,481.77,-40.13,162838.2600,-13563.9400,201520.33200000,04/01/2018 @ 12:00:00 AM
-12827,"Anchor, Rose",Noble's Village,5.43,Spirits' Living Wordhammer Tin Of The Trees,278.00,3897.55,128.70,1083518.9000,35778.6000,1180075.35425000,04/01/2018 @ 12:00:00 AM
-34119,"Mist, Claw",Mahyrst Keep,31.30,Poison Adamant,184.00,110.96,100.87,20416.6400,18560.0800,51176.43336000,04/01/2018 @ 12:00:00 AM
-24948,"Lionwatcher, Law",The Bastion of Barbos,25.41,Negative Rockglitter Mercury Of Trolls,332.00,235.59,214.17,78215.8800,71104.4400,187262.61331200,04/01/2018 @ 12:00:00 AM
-24987,Metalbrood,Eved Castle,30.80,Negative Rockglitter Mercury Of Trolls,188.00,235.59,214.17,44290.9200,40263.9600,110597.78304000,04/01/2018 @ 12:00:00 AM
-21224,Evilbrood,The Fen of the Necromancer,20.00,Negative Rockglitter Mercury Of Trolls,298.00,3502.00,214.17,1043596.0000,63822.6600,1328902.39200000,04/01/2018 @ 12:00:00 AM
-30065,Springcoil,The Greedy Wench,13.31,White Platinum,256.00,101.02,91.84,25861.1200,23511.0400,55943.59449600,04/01/2018 @ 12:00:00 AM
-30325,"The Blade, Scarefear",The Greedy Wench,13.31,Heavenly Dreamsilver Of The Night,254.00,719.00,314.60,182626.0000,79908.4000,297477.72864000,04/01/2018 @ 12:00:00 AM
-30467,"Wolf, Jericho",Mahyrst Keep,31.30,Witchs' Forbidden Rockrainbow Bronze,171.00,245.63,245.63,42002.7300,42002.7300,110299.16898000,04/01/2018 @ 12:00:00 AM
-14145,Spikerivet,The Archer and Scroll,49.68,Sphinxes' Unknown Poisongold Of The Future,184.00,3971.47,14.30,730750.4800,2631.2000,1097725.69862400,04/01/2018 @ 12:00:00 AM
-26124,Bolttrap,Citadel Ward,4.40,Starsmoke Bronze Of Life,205.00,-438.00,420.81,-89790.0000,86266.0500,-3679.00380000,04/01/2018 @ 12:00:00 AM
-13163,"Drakecaster, Sephiroth",The Hunter and Rose,39.60,Trolls' Mist Poisonplatinum Of The Twilight,352.00,440.56,400.51,155077.1200,140979.5200,413295.06944000,04/01/2018 @ 12:00:00 AM
+3641,"The Freezer, Burnbrood",The Fortress of Akkun the Grim,27.03,Mind Lead,47.00,756.00,199.17,35532.0000,9360.9900,57027.56519700,04/01/1948 @ 12:00:00 AM
+36670,"The Binder, Springpulley",The Fen of the Necromancer,32.21,Ensorceled Sandmetal Of Spirits,180.00,85.18,93.70,15332.4000,16866.0000,42569.50464000,04/01/1948 @ 12:00:00 AM
+10067,"Goddess of the Earth, Gono",The Lost Crypts of Sorrows,2.20,Undeads' Mind Orichalcum Of The Twilight,88.00,1169.00,301.40,102872.0000,26523.2000,132241.89440000,04/01/1948 @ 12:00:00 AM
+2781,"Goddess of Thieves, Melcha",Cawold Castle,35.00,Zephyr Adamant,338.00,481.77,-40.13,162838.2600,-13563.9400,201520.33200000,04/01/1948 @ 12:00:00 AM
+12827,"Anchor, Rose",Noble's Village,5.43,Spirits' Living Wordhammer Tin Of The Trees,278.00,3897.55,128.70,1083518.9000,35778.6000,1180075.35425000,04/01/1948 @ 12:00:00 AM
+34119,"Mist, Claw",Mahyrst Keep,31.30,Poison Adamant,184.00,110.96,100.87,20416.6400,18560.0800,51176.43336000,04/01/1948 @ 12:00:00 AM
+24948,"Lionwatcher, Law",The Bastion of Barbos,25.41,Negative Rockglitter Mercury Of Trolls,332.00,235.59,214.17,78215.8800,71104.4400,187262.61331200,04/01/1948 @ 12:00:00 AM
+24987,Metalbrood,Eved Castle,30.80,Negative Rockglitter Mercury Of Trolls,188.00,235.59,214.17,44290.9200,40263.9600,110597.78304000,04/01/1948 @ 12:00:00 AM
+21224,Evilbrood,The Fen of the Necromancer,20.00,Negative Rockglitter Mercury Of Trolls,298.00,3502.00,214.17,1043596.0000,63822.6600,1328902.39200000,04/01/1948 @ 12:00:00 AM
+30065,Springcoil,The Greedy Wench,13.31,White Platinum,256.00,101.02,91.84,25861.1200,23511.0400,55943.59449600,04/01/1978 @ 12:00:00 AM
+30325,"The Blade, Scarefear",The Greedy Wench,13.31,Heavenly Dreamsilver Of The Night,254.00,719.00,314.60,182626.0000,79908.4000,297477.72864000,04/01/1948 @ 12:00:00 AM
+30467,"Wolf, Jericho",Mahyrst Keep,31.30,Witchs' Forbidden Rockrainbow Bronze,171.00,245.63,245.63,42002.7300,42002.7300,110299.16898000,04/01/1948 @ 12:00:00 AM
+14145,Spikerivet,The Archer and Scroll,49.68,Sphinxes' Unknown Poisongold Of The Future,184.00,3971.47,14.30,730750.4800,2631.2000,1097725.69862400,04/01/1948 @ 12:00:00 AM
+26124,Bolttrap,Citadel Ward,4.40,Starsmoke Bronze Of Life,205.00,-438.00,420.81,-89790.0000,86266.0500,-3679.00380000,04/01/1948 @ 12:00:00 AM
+13163,"Drakecaster, Sephiroth",The Hunter and Rose,39.60,Trolls' Mist Poisonplatinum Of The Twilight,352.00,440.56,400.51,155077.1200,140979.5200,413295.06944000,04/01/1948 @ 12:00:00 AM

@@ -1,23 +1,23 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-35049,"Gust, Shadow",The Bastion of the Vampire Duke,45.86,Ghouls' Imperial Soulzephyr Mithril Of The Seas,211.00,318.23,318.23,67146.5300,67146.5300,195879.85731600,11/01/2016 @ 12:00:00 AM
-25943,"Mystery, Lord",The Pirate's Pipe,16.94,Toxic Mistlead Of The Past,205.00,396.06,396.06,81192.3000,81192.3000,189892.55124000,11/01/2016 @ 12:00:00 AM
-1771,Chainhorror,The Dungeon of Dismal Terror,40.27,Glittering Orichalcum,75.00,2056.00,330.00,154200.0000,24750.0000,251013.16500000,11/01/2016 @ 12:00:00 AM
-35835,"The Unspeakable, Gravebone",Bifar's Deep,12.21,Lycanthropes' Gold,283.00,449.88,408.98,127316.0400,115741.3400,272734.68609800,11/01/2016 @ 12:00:00 AM
-21456,"Godwarlock, Sunrise",Citadel Ward,4.40,Witchs' Forbidden Rockrainbow Bronze,179.00,245.63,245.63,43967.7700,43967.7700,91804.70376000,11/01/2016 @ 12:00:00 AM
+35049,"Shadow, Gust",The Bastion of the Vampire Duke,45.86,Ghouls' Imperial Soulzephyr Mithril Of The Seas,211.00,318.23,318.23,67146.5300,67146.5300,195879.85731600,11/01/2006 @ 12:00:00 AM
+25943,"Lord, Mystery",The Pirate's Pipe,16.94,Toxic Mistlead Of The Past,205.00,396.06,396.06,81192.3000,81192.3000,189892.55124000,11/01/2006 @ 12:00:00 AM
+1771,Chainhorror,The Dungeon of Dismal Terror,40.27,Glittering Orichalcum,75.00,2056.00,330.00,154200.0000,24750.0000,251013.16500000,11/01/2006 @ 12:00:00 AM
+35835,"Gravebone, The Unspeakable",Bifar's Deep,12.21,Lycanthropes' Gold,283.00,449.88,408.98,127316.0400,115741.3400,272734.68609800,11/01/2006 @ 12:00:00 AM
+21456,"Sunrise, Godwarlock",Citadel Ward,4.40,Witchs' Forbidden Rockrainbow Bronze,179.00,245.63,245.63,43967.7700,43967.7700,91804.70376000,11/01/2006 @ 12:00:00 AM
 22825,Emberspawn,The Tomb of Hellish Ruin,36.30,Fleshshock Mercury,165.00,-31.02,-28.20,-5118.3000,-4653.0000,-13318.28190000,11/01/2016 @ 12:00:00 AM
-20196,"The Mechanical, Snarepiston",The Lewd King,45.98,Emerald Orichalcum,338.00,1957.00,142.79,661466.0000,48263.0200,1036062.42339600,11/01/2016 @ 12:00:00 AM
-20303,"The Grasping, Nailpiston",Fellfen Keep,38.00,Fairies' Supreme Mistsmoke Lead Of The Future,161.00,499.73,499.73,80456.5300,80456.5300,222060.02280000,11/01/2016 @ 12:00:00 AM
-8242,"God of Resurrection, Gadriel",The Grey Plains,39.19,Fleshshock Mercury,44.00,-31.02,-28.20,-1364.8800,-1240.8000,-3626.84599200,11/01/2016 @ 12:00:00 AM
-29016,"The Frigid, Icechill",The Citadel of Alammius,32.67,Stone Soulsteel Of The Skies,169.00,453.31,412.10,76609.3900,69644.9000,194035.56654300,11/01/2016 @ 12:00:00 AM
-29213,"The Freezer, Shiverflame",The Nulukkhath Spires,28.99,Stone Soulsteel Of The Skies,206.00,453.31,412.10,93381.8600,84892.6000,229956.22595400,11/01/2016 @ 12:00:00 AM
-16194,Bronzespawn,The Fortress of Akkun the Grim,27.03,Vampires' Hammer Emeraldmetal,88.00,77.44,77.44,6814.7200,6814.7200,17313.47763200,11/01/2016 @ 12:00:00 AM
-16297,Chainnail,The Secret Shrine of the Gargoyle Count,23.93,Vampires' Hammer Emeraldmetal,284.00,77.44,77.44,21992.9600,21992.9600,54511.75065600,11/01/2016 @ 12:00:00 AM
-30760,Wheelspawn,The Nulukkhath Spires,28.99,Ensorceled Sandmetal Of Spirits,261.00,85.18,77.44,22231.9800,20211.8400,54748.28341800,11/01/2016 @ 12:00:00 AM
-16517,"Seeker, Fate",Gili's Delve,35.89,Swordbronze,28.00,333.30,303.00,9332.4000,8484.0000,24210.70596000,11/01/2016 @ 12:00:00 AM
+20196,"Snarepiston, The Mechanical",The Lewd King,45.98,Emerald Orichalcum,338.00,1957.00,142.79,661466.0000,48263.0200,1036062.42339600,11/01/2006 @ 12:00:00 AM
+20303,"Nailpiston, The Grasping",Fellfen Keep,38.00,Fairies' Supreme Mistsmoke Lead Of The Future,161.00,499.73,499.73,80456.5300,80456.5300,222060.02280000,11/01/2006 @ 12:00:00 AM
+8242,"Gadriel, God of Resurrection",The Grey Plains,39.19,Fleshshock Mercury,44.00,-31.02,-28.20,-1364.8800,-1240.8000,-3626.84599200,11/01/2006 @ 12:00:00 AM
+29016,"Icechill, The Frigid",The Citadel of Alammius,32.67,Stone Soulsteel Of The Skies,169.00,453.31,412.10,76609.3900,69644.9000,194035.56654300,11/01/2006 @ 12:00:00 AM
+29213,"Shiverflame, The Freezer",The Nulukkhath Spires,28.99,Stone Soulsteel Of The Skies,206.00,453.31,412.10,93381.8600,84892.6000,229956.22595400,11/01/2016 @ 12:00:00 AM
+16194,Bronzespawn,The Fortress of Akkun the Grim,27.03,Vampires' Hammer Emeraldmetal,88.00,77.44,77.44,6814.7200,6814.7200,17313.47763200,11/01/2006 @ 12:00:00 AM
+16297,Chainnail,The Secret Shrine of the Gargoyle Count,23.93,Vampires' Hammer Emeraldmetal,284.00,77.44,77.44,21992.9600,21992.9600,54511.75065600,11/01/2006 @ 12:00:00 AM
+30760,Wheelspawn,The Nulukkhath Spires,28.99,Ensorceled Sandmetal Of Spirits,261.00,85.18,77.44,22231.9800,20211.8400,54748.28341800,11/01/2006 @ 12:00:00 AM
+16517,"Fate, Seeker",Gili's Delve,35.89,Swordbronze,28.00,333.30,303.00,9332.4000,8484.0000,24210.70596000,11/01/2006 @ 12:00:00 AM
 29945,Bronzespike,The Greedy Wench,13.31,White Platinum,201.00,101.02,91.84,20305.0200,18459.8400,43924.46286600,11/01/2016 @ 12:00:00 AM
 15351,Emberspawn,The Tower of Aramum,20.00,Golems' Stonesapphire Gold Of The Glacier,262.00,176.00,160.00,46112.0000,41920.0000,105638.40000000,11/01/2016 @ 12:00:00 AM
-15447,"God of Fate, Uriel",The Fortress of Asmamur,-2.66,Starsmoke Bronze Of Life,193.00,-438.00,420.81,-84534.0000,81216.3300,-3229.41997800,11/01/2016 @ 12:00:00 AM
-6879,"The Freezer, Shiverflame",Reyny Keep,-3.35,Trolls' Rubymercury Of The Sunset,356.00,2733.00,443.00,972948.0000,157708.0000,1092779.02400000,11/01/2016 @ 12:00:00 AM
-3111,"Goddess of Knowledge, Baltha",The Cracked Chalice,-4.37,Emerald Orichalcum,35.00,1957.00,118.01,68495.0000,4130.3500,69451.62220500,11/01/2016 @ 12:00:00 AM
-4447,Bronzespike,Shainan's Hold,43.67,Grayplatinum,242.00,2548.00,86.73,616616.0000,20988.6600,916046.61502200,11/01/2016 @ 12:00:00 AM
-37398,"Tombreaper, Rouge",The Greedy Wench,13.31,Stone Soulsteel Of The Skies,201.00,453.31,453.31,91115.3100,91115.3100,206485.51552200,11/01/2016 @ 12:00:00 AM
+15447,"Uriel, God of Fate",The Fortress of Asmamur,-2.66,Starsmoke Bronze Of Life,193.00,-438.00,420.81,-84534.0000,81216.3300,-3229.41997800,11/01/2006 @ 12:00:00 AM
+6879,"Shiverflame, The Freezer",Reyny Keep,-3.35,Trolls' Rubymercury Of The Sunset,356.00,2733.00,443.00,972948.0000,157708.0000,1092779.02400000,11/01/2006 @ 12:00:00 AM
+3111,"Baltha, Goddess of Knowledge",The Cracked Chalice,-4.37,Emerald Orichalcum,35.00,1957.00,118.01,68495.0000,4130.3500,69451.62220500,11/01/2006 @ 12:00:00 AM
+4447,Bronzespike,Shainan's Hold,43.67,Grayplatinum,242.00,2548.00,86.73,616616.0000,20988.6600,916046.61502200,11/01/2006 @ 12:00:00 AM
+37398,"Rouge, Tombreaper",The Greedy Wench,13.31,Stone Soulsteel Of The Skies,201.00,453.31,453.31,91115.3100,91115.3100,206485.51552200,11/01/2016 @ 12:00:00 AM

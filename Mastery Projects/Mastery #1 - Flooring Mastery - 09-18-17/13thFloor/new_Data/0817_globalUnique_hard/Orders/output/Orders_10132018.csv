@@ -1,16 +1,16 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-12427,"The Grasping, Nailpiston",The Tomb of Hellish Ruin,33.00,Violetdream Iron,136.00,414.98,377.25,56437.2800,51306.0000,143298.56240000,10/13/2018 @ 12:00:00 AM
-2602,"Mystery, Lord",Mahyrst Keep,28.45,Glowpearl Adamant Of Spirits,286.00,-111.88,216.40,-31997.6800,61890.4000,38397.19884000,10/13/2018 @ 12:00:00 AM
-10484,"Mystery, Lord",Archfane District,15.29,Fairies' Supreme Mistsmoke Lead Of The Future,91.00,2622.69,454.30,238664.7900,41341.3000,322819.02116100,10/13/2018 @ 12:00:00 AM
-34591,Beamtrap,The Bastion of the Vampire Duke,45.86,Ghouls' Imperial Soulzephyr Mithril Of The Seas,172.00,318.23,318.23,54735.5600,54735.5600,159674.57563200,10/13/2018 @ 12:00:00 AM
-21534,"Dawn, Tarot",Citadel Ward,4.40,Yellow Mistearth Copper,222.00,287.98,261.80,63931.5600,58119.6000,127421.41104000,10/13/2018 @ 12:00:00 AM
-8348,"Bladewitch, Zeal",The Grey Plains,39.19,Zephyr Adamant,138.00,481.77,-44.14,66484.2600,-6091.3200,84060.93318600,10/13/2018 @ 12:00:00 AM
-30315,"Mist, Claw",The Tower of Sabiesu the Awesome,10.00,White Platinum,217.00,101.02,91.84,21921.3400,19929.2800,46035.68200000,10/13/2018 @ 12:00:00 AM
-27093,"Lord of Animals, Suriel",Bifar's Deep,12.21,Heavenly Dreamsilver Of The Night,90.00,719.00,314.60,64710.0000,28314.0000,104382.23040000,10/13/2018 @ 12:00:00 AM
-27385,Cinderflame,The Bastion of Gothmog of Udun,-2.42,Sprites' Transcendent Mud Lead Of The South,309.00,3338.65,267.08,1031642.8500,82527.7200,1087207.64220600,10/13/2018 @ 12:00:00 AM
-26305,"The Binder, Springpulley",Archfane District,15.29,Sapphire Mindlead,56.00,-44.77,-49.25,-2507.1200,-2758.0000,-6070.15684800,10/13/2018 @ 12:00:00 AM
-25152,"Goddess of Knowledge, Baltha",Kada's Deep,8.42,Mind Lead,303.00,241.00,219.09,73023.0000,66384.2700,151145.36213400,10/13/2018 @ 12:00:00 AM
-14631,"Drakecaster, Sephiroth",North Arcanist's Farthing,2.75,Phantasmal Smokezephyr Mercury Of Men,82.00,211.20,192.00,17318.4000,15744.0000,33971.61600000,10/13/2018 @ 12:00:00 AM
-37419,"Goddess of Travel, Lenwenye",The Greedy Wench,13.31,Ghouls' Imperial Soulzephyr Mithril Of The Seas,141.00,318.23,318.23,44870.4300,44870.4300,101685.36846600,10/13/2018 @ 12:00:00 AM
-12184,"Lady of Vengeance, Zepul",Citadel Ward,4.40,Djinni's Evil Sandobsidian Steel Of The Future,195.00,140.58,140.58,27413.1000,27413.1000,57238.55280000,10/13/2018 @ 12:00:00 AM
-37520,"Amberslayer, Flora",The Greedy Wench,13.31,Ghouls' Imperial Soulzephyr Mithril Of The Seas,226.00,318.23,318.23,71919.9800,71919.9800,162985.05867600,10/13/2018 @ 12:00:00 AM
+12427,"Nailpiston, The Grasping",The Tomb of Hellish Ruin,33.00,Violetdream Iron,136.00,414.98,377.25,56437.2800,51306.0000,143298.56240000,10/13/2008 @ 12:00:00 AM
+2602,"Lord, Mystery",Mahyrst Keep,28.45,Glowpearl Adamant Of Spirits,286.00,-111.88,216.40,-31997.6800,61890.4000,38397.19884000,10/13/2008 @ 12:00:00 AM
+10484,"Lord, Mystery",Archfane District,15.29,Fairies' Supreme Mistsmoke Lead Of The Future,91.00,2622.69,454.30,238664.7900,41341.3000,322819.02116100,10/13/2008 @ 12:00:00 AM
+34591,Beamtrap,The Bastion of the Vampire Duke,45.86,Ghouls' Imperial Soulzephyr Mithril Of The Seas,172.00,318.23,318.23,54735.5600,54735.5600,159674.57563200,10/13/2008 @ 12:00:00 AM
+21534,"Tarot, Dawn",Citadel Ward,4.40,Yellow Mistearth Copper,222.00,287.98,261.80,63931.5600,58119.6000,127421.41104000,10/13/2008 @ 12:00:00 AM
+8348,"Zeal, Bladewitch",The Grey Plains,39.19,Zephyr Adamant,138.00,481.77,-44.14,66484.2600,-6091.3200,84060.93318600,10/13/2008 @ 12:00:00 AM
+30315,"Claw, Mist",The Tower of Sabiesu the Awesome,10.00,White Platinum,217.00,101.02,91.84,21921.3400,19929.2800,46035.68200000,10/13/2008 @ 12:00:00 AM
+27093,"Suriel, Lord of Animals",Bifar's Deep,12.21,Heavenly Dreamsilver Of The Night,90.00,719.00,314.60,64710.0000,28314.0000,104382.23040000,10/13/2008 @ 12:00:00 AM
+27385,Cinderflame,The Bastion of Gothmog of Udun,-2.42,Sprites' Transcendent Mud Lead Of The South,309.00,3338.65,267.08,1031642.8500,82527.7200,1087207.64220600,10/13/2008 @ 12:00:00 AM
+26305,"Springpulley, The Binder",Archfane District,15.29,Sapphire Mindlead,56.00,-44.77,-49.25,-2507.1200,-2758.0000,-6070.15684800,10/13/2008 @ 12:00:00 AM
+25152,"Baltha, Goddess of Knowledge",Kada's Deep,8.42,Mind Lead,303.00,241.00,219.09,73023.0000,66384.2700,151145.36213400,10/13/2008 @ 12:00:00 AM
+14631,"Sephiroth, Drakecaster",North Arcanist's Farthing,2.75,Phantasmal Smokezephyr Mercury Of Men,82.00,211.20,192.00,17318.4000,15744.0000,33971.61600000,10/13/2008 @ 12:00:00 AM
+37419,"Lenwenye, Goddess of Travel",The Greedy Wench,13.31,Ghouls' Imperial Soulzephyr Mithril Of The Seas,141.00,318.23,318.23,44870.4300,44870.4300,101685.36846600,10/13/2008 @ 12:00:00 AM
+12184,"Zepul, Lady of Vengeance",Citadel Ward,4.40,Djinni's Evil Sandobsidian Steel Of The Future,195.00,140.58,140.58,27413.1000,27413.1000,57238.55280000,10/13/2008 @ 12:00:00 AM
+37520,"Flora, Amberslayer",The Greedy Wench,13.31,Ghouls' Imperial Soulzephyr Mithril Of The Seas,226.00,318.23,318.23,71919.9800,71919.9800,162985.05867600,10/13/2008 @ 12:00:00 AM

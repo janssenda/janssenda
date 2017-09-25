@@ -1,16 +1,16 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-22471,Metalbrood,The Tomb of Hellish Ruin,36.30,Primordial Mud Orichalcum,195.00,1113.00,20.57,217035.0000,4011.1500,301285.90245000,10/28/2015 @ 12:00:00 AM
-34449,"Lord of Death, Addon",The Bastion of the Lich Tyrant,8.64,Poison Adamant,193.00,110.96,100.87,21415.2800,19467.9100,44415.49761600,10/28/2015 @ 12:00:00 AM
-11812,"The Cadaverous, Chainblade",Hafeld Keep,47.59,Foul Ice Bronze Of Life,298.00,292.82,266.20,87260.3600,79327.6000,245867.17016400,10/28/2015 @ 12:00:00 AM
-21767,"Gust, Shadow",North Arcanist's Farthing,3.03,Yellow Mistearth Copper,134.00,287.98,261.80,38589.3200,35081.2000,75902.73675600,10/28/2015 @ 12:00:00 AM
-19662,"Lady of Fire, Nelalwe",Gifeld Castle,33.01,Emerald Orichalcum,375.00,1957.00,129.81,733875.0000,48678.7500,1040874.74287500,10/28/2015 @ 12:00:00 AM
-986,Ironbrood,Palace Farthing,13.00,Zephyr Adamant,199.00,481.77,-40.13,95872.2300,-7985.8700,99311.58680000,10/28/2015 @ 12:00:00 AM
-27486,"The Cremator, Blazeflare",The Pirate's Pipe,16.94,Sprites' Transcendent Mud Lead Of The South,265.00,3338.65,267.08,884742.2500,70776.2000,1117383.27543000,10/28/2015 @ 12:00:00 AM
-28904,"Ivycaster, Fate",The Nulukkhath Spires,28.99,Hidden Shadowice Lead,150.00,-16.50,-16.50,-2475.0000,-2475.0000,-6385.00500000,10/28/2015 @ 12:00:00 AM
-3068,"Reaper, Dagger",Cawold Castle,35.00,Spectres' Shadowy Terrorglow Adamant Of Life,88.00,-297.62,175.08,-26190.5600,15407.0400,-14557.75200000,10/28/2015 @ 12:00:00 AM
-14447,"Darkzealot, Dawn",The Archer and Scroll,49.68,Phantasmal Smokezephyr Mercury Of Men,200.00,211.20,192.00,42240.0000,38400.0000,120701.95200000,10/28/2015 @ 12:00:00 AM
-3229,Cinderember,Cawold Castle,35.00,Warlocks' Timerot Mithril,354.00,725.00,176.95,256650.0000,62640.3000,431041.90500000,10/28/2015 @ 12:00:00 AM
-14748,"The Horrorific, Evilfear",The Fortress of Akkun the Grim,27.03,Golems' Stonesapphire Gold Of The Glacier,123.00,176.00,160.00,21648.0000,19680.0000,52498.95840000,10/28/2015 @ 12:00:00 AM
-12007,"The Cold, Burnfreeze",The Tomb of Hellish Ruin,33.00,Incubi's Iron Of The Dawn,202.00,174.99,159.08,35347.9800,32134.1600,89751.24620000,10/28/2015 @ 12:00:00 AM
-13491,"God of Resurrection, Gadriel",Kada's Deep,8.42,Warlocks' Timerot Mithril,131.00,725.00,176.95,94975.0000,23180.4500,128104.13889000,10/28/2015 @ 12:00:00 AM
-13584,"God of Resurrection, Gadriel",Dysley Stronghold,35.51,Pearl Mirrorice Steel Of Changelings,140.00,332.20,302.00,46508.0000,42280.0000,120316.61880000,10/28/2015 @ 12:00:00 AM
+22471,Metalbrood,The Tomb of Hellish Ruin,36.30,Primordial Mud Orichalcum,195.00,1113.00,20.57,217035.0000,4011.1500,301285.90245000,10/28/2005 @ 12:00:00 AM
+34449,"Addon, Lord of Death",The Bastion of the Lich Tyrant,8.64,Poison Adamant,193.00,110.96,100.87,21415.2800,19467.9100,44415.49761600,10/28/2015 @ 12:00:00 AM
+11812,"Chainblade, The Cadaverous",Hafeld Keep,47.59,Foul Ice Bronze Of Life,298.00,292.82,266.20,87260.3600,79327.6000,245867.17016400,10/28/2005 @ 12:00:00 AM
+21767,"Shadow, Gust",North Arcanist's Farthing,3.03,Yellow Mistearth Copper,134.00,287.98,261.80,38589.3200,35081.2000,75902.73675600,10/28/2005 @ 12:00:00 AM
+19662,"Nelalwe, Lady of Fire",Gifeld Castle,33.01,Emerald Orichalcum,375.00,1957.00,129.81,733875.0000,48678.7500,1040874.74287500,10/28/2005 @ 12:00:00 AM
+986,Ironbrood,Palace Farthing,13.00,Zephyr Adamant,199.00,481.77,-40.13,95872.2300,-7985.8700,99311.58680000,10/28/2005 @ 12:00:00 AM
+27486,"Blazeflare, The Cremator",The Pirate's Pipe,16.94,Sprites' Transcendent Mud Lead Of The South,265.00,3338.65,267.08,884742.2500,70776.2000,1117383.27543000,10/28/2005 @ 12:00:00 AM
+28904,"Fate, Ivycaster",The Nulukkhath Spires,28.99,Hidden Shadowice Lead,150.00,-16.50,-16.50,-2475.0000,-2475.0000,-6385.00500000,10/28/2005 @ 12:00:00 AM
+3068,"Dagger, Reaper",Cawold Castle,35.00,Spectres' Shadowy Terrorglow Adamant Of Life,88.00,-297.62,175.08,-26190.5600,15407.0400,-14557.75200000,10/28/2005 @ 12:00:00 AM
+14447,"Dawn, Darkzealot",The Archer and Scroll,49.68,Phantasmal Smokezephyr Mercury Of Men,200.00,211.20,192.00,42240.0000,38400.0000,120701.95200000,10/28/2005 @ 12:00:00 AM
+3229,Cinderember,Cawold Castle,35.00,Warlocks' Timerot Mithril,354.00,725.00,176.95,256650.0000,62640.3000,431041.90500000,10/28/2005 @ 12:00:00 AM
+14748,"Evilfear, The Horrorific",The Fortress of Akkun the Grim,27.03,Golems' Stonesapphire Gold Of The Glacier,123.00,176.00,160.00,21648.0000,19680.0000,52498.95840000,10/28/2005 @ 12:00:00 AM
+12007,"Burnfreeze, The Cold",The Tomb of Hellish Ruin,33.00,Incubi's Iron Of The Dawn,202.00,174.99,159.08,35347.9800,32134.1600,89751.24620000,10/28/2005 @ 12:00:00 AM
+13491,"Gadriel, God of Resurrection",Kada's Deep,8.42,Warlocks' Timerot Mithril,131.00,725.00,176.95,94975.0000,23180.4500,128104.13889000,10/28/2005 @ 12:00:00 AM
+13584,"Gadriel, God of Resurrection",Dysley Stronghold,35.51,Pearl Mirrorice Steel Of Changelings,140.00,332.20,302.00,46508.0000,42280.0000,120316.61880000,10/28/2005 @ 12:00:00 AM

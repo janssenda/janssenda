@@ -1,18 +1,18 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-11168,"The Evil, Snowflame",North Arcanist's Farthing,2.50,Lycanthropes' Gold,83.00,371.80,338.00,30859.4000,28054.0000,60386.23500000,09/03/2017 @ 12:00:00 AM
-13989,"Godseeker, Cult",The Archer and Scroll,49.68,Mithril Of The Tropics,154.00,251.56,251.56,38740.2400,38740.2400,115972.78246400,09/03/2017 @ 12:00:00 AM
-11291,Emberspawn,The Fortress of the Lich Queen,18.84,Mistgold Of Men,201.00,412.50,375.00,82912.5000,75375.0000,188108.86500000,09/03/2017 @ 12:00:00 AM
-36753,"Amberslayer, Flora",The Fen of the Necromancer,32.21,Vampires' Hammer Emeraldmetal,102.00,93.70,85.18,9557.4000,8688.3600,24122.71929600,09/03/2017 @ 12:00:00 AM
-23611,"Roguemist, Rouge",Weke Tower,47.19,Forgotten Mithril,257.00,545.71,496.10,140247.4700,127497.7000,394094.11572300,09/03/2017 @ 12:00:00 AM
-22259,"Mistseeker, Grave",The Tower of Sabiesu the Awesome,10.00,Fleshshock Mercury,269.00,-31.02,-28.20,-8344.3800,-7585.8000,-17523.19800000,09/03/2017 @ 12:00:00 AM
-10605,"Goddess of Travel, Lenwenye",Gena's Hold,4.84,Phantasmal Smokezephyr Mercury Of Men,180.00,211.20,192.00,38016.0000,34560.0000,76088.67840000,09/03/2017 @ 12:00:00 AM
-19073,"Knightseraph, Lance",Mahyrst Keep,31.30,Unspeakable Rotsoul Mithril Of Souls,153.00,370.26,336.60,56649.7800,51499.8000,142000.39854000,09/03/2017 @ 12:00:00 AM
-32091,"The Skeletal, Spiketerror",Noble's Village,6.57,Warlocks' Timerot Mithril,134.00,194.65,194.65,26083.1000,26083.1000,55593.51934000,09/03/2017 @ 12:00:00 AM
-18473,"Lord of Plague, Alas",The Citadel of Alammius,29.70,Spirits' Living Wordhammer Tin Of The Trees,162.00,141.57,128.70,22934.3400,20849.4000,56787.51078000,09/03/2017 @ 12:00:00 AM
-30100,"Felldrake, Magus",The Tower of Sabiesu the Awesome,10.00,White Platinum,25.00,101.02,91.84,2525.5000,2296.0000,5303.65000000,09/03/2017 @ 12:00:00 AM
-32988,"The Trapper, Boltcrank",Pewold Keep,29.00,Fairies' Supreme Mistsmoke Lead Of The Future,159.00,499.73,549.70,79457.0700,87402.3000,215248.58730000,09/03/2017 @ 12:00:00 AM
-5540,"The Grasping, Nailpiston",Reheath Stronghold,39.60,Vampires' Hammer Emeraldmetal,81.00,77.44,70.40,6272.6400,5702.4000,16717.15584000,09/03/2017 @ 12:00:00 AM
-28818,"God of Death, Avriel",The Citadel of Alammius,32.67,Stone Soulsteel Of The Skies,30.00,453.31,412.10,13599.3000,12363.0000,34444.18341000,09/03/2017 @ 12:00:00 AM
-27657,"Ivycaster, Fate",The Bastion of Gothmog of Udun,-2.42,Vampires' Hammer Emeraldmetal,178.00,93.70,85.18,16678.6000,15162.0400,31070.09651200,09/03/2017 @ 12:00:00 AM
-3197,Emberfire,The Archer and Scroll,45.16,Vampires' Fang Emeraldsilver,178.00,2033.69,80.84,361996.8200,14389.5200,546362.41114400,09/03/2017 @ 12:00:00 AM
-13518,"The Skeletal, Spiketerror",Kada's Deep,8.42,Pearl Mirrorice Steel Of Changelings,30.00,332.20,302.00,9966.0000,9060.0000,20627.98920000,09/03/2017 @ 12:00:00 AM
+11168,"The Evil, Snowflame",North Arcanist's Farthing,2.50,Lycanthropes' Gold,83.00,371.80,338.00,30859.4000,28054.0000,60386.23500000,09/03/1947 @ 12:00:00 AM
+13989,"Godseeker, Cult",The Archer and Scroll,49.68,Mithril Of The Tropics,154.00,251.56,251.56,38740.2400,38740.2400,115972.78246400,09/03/1977 @ 12:00:00 AM
+11291,Emberspawn,The Fortress of the Lich Queen,18.84,Mistgold Of Men,201.00,412.50,375.00,82912.5000,75375.0000,188108.86500000,09/03/1947 @ 12:00:00 AM
+36753,"Amberslayer, Flora",The Fen of the Necromancer,32.21,Vampires' Hammer Emeraldmetal,102.00,93.70,85.18,9557.4000,8688.3600,24122.71929600,09/03/1977 @ 12:00:00 AM
+23611,"Roguemist, Rouge",Weke Tower,47.19,Forgotten Mithril,257.00,545.71,496.10,140247.4700,127497.7000,394094.11572300,09/03/1947 @ 12:00:00 AM
+22259,"Mistseeker, Grave",The Tower of Sabiesu the Awesome,10.00,Fleshshock Mercury,269.00,-31.02,-28.20,-8344.3800,-7585.8000,-17523.19800000,09/03/1947 @ 12:00:00 AM
+10605,"Goddess of Travel, Lenwenye",Gena's Hold,4.84,Phantasmal Smokezephyr Mercury Of Men,180.00,211.20,192.00,38016.0000,34560.0000,76088.67840000,09/03/1947 @ 12:00:00 AM
+19073,"Knightseraph, Lance",Mahyrst Keep,31.30,Unspeakable Rotsoul Mithril Of Souls,153.00,370.26,336.60,56649.7800,51499.8000,142000.39854000,09/03/1947 @ 12:00:00 AM
+32091,"The Skeletal, Spiketerror",Noble's Village,6.57,Warlocks' Timerot Mithril,134.00,194.65,194.65,26083.1000,26083.1000,55593.51934000,09/03/1947 @ 12:00:00 AM
+18473,"Lord of Plague, Alas",The Citadel of Alammius,29.70,Spirits' Living Wordhammer Tin Of The Trees,162.00,141.57,128.70,22934.3400,20849.4000,56787.51078000,09/03/1947 @ 12:00:00 AM
+30100,"Felldrake, Magus",The Tower of Sabiesu the Awesome,10.00,White Platinum,25.00,101.02,91.84,2525.5000,2296.0000,5303.65000000,09/03/1977 @ 12:00:00 AM
+32988,"The Trapper, Boltcrank",Pewold Keep,29.00,Fairies' Supreme Mistsmoke Lead Of The Future,159.00,499.73,549.70,79457.0700,87402.3000,215248.58730000,09/03/1947 @ 12:00:00 AM
+5540,"The Grasping, Nailpiston",Reheath Stronghold,39.60,Vampires' Hammer Emeraldmetal,81.00,77.44,70.40,6272.6400,5702.4000,16717.15584000,09/03/1947 @ 12:00:00 AM
+28818,"God of Death, Avriel",The Citadel of Alammius,32.67,Stone Soulsteel Of The Skies,30.00,453.31,412.10,13599.3000,12363.0000,34444.18341000,09/03/1947 @ 12:00:00 AM
+27657,"Ivycaster, Fate",The Bastion of Gothmog of Udun,-2.42,Vampires' Hammer Emeraldmetal,178.00,93.70,85.18,16678.6000,15162.0400,31070.09651200,09/03/1987 @ 12:00:00 AM
+3197,Emberfire,The Archer and Scroll,45.16,Vampires' Fang Emeraldsilver,178.00,2033.69,80.84,361996.8200,14389.5200,546362.41114400,09/03/1947 @ 12:00:00 AM
+13518,"The Skeletal, Spiketerror",Kada's Deep,8.42,Pearl Mirrorice Steel Of Changelings,30.00,332.20,302.00,9966.0000,9060.0000,20627.98920000,09/03/1947 @ 12:00:00 AM

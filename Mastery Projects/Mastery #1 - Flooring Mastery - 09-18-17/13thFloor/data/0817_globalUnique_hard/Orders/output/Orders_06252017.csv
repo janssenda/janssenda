@@ -1,17 +1,17 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-1,"Godseeker, Cult",The Pirate's Pipe,16.94,Vampires' Hammer Emeraldmetal,353.00,77.44,77.44,27336.3200,27336.3200,63934.18521600,06/25/2017 @ 12:00:00 AM
-12477,"Lawslayer, Valentine",Hafeld Keep,47.59,Fog Lavaplatinum Of Life,208.00,2232.00,509.41,464256.0000,105957.2800,841577.77995200,06/25/2017 @ 12:00:00 AM
-36626,"Lord of the Sun, Maglioneth",The Fen of the Necromancer,32.21,Phantasmal Tin Of The Swamps,384.00,405.96,369.05,155888.6400,141715.2000,393462.03686400,06/25/2017 @ 12:00:00 AM
-10140,"Mistmidnight, Tiger",The Dungeon of Dismal Terror,44.30,Muck Orichalcum Of Ogres,97.00,2080.00,97.93,201760.0000,9499.2100,304847.04003000,06/25/2017 @ 12:00:00 AM
-23544,"Rougehate, Rune",Moor Village,11.32,Fleshshock Mercury,92.00,-31.02,-28.20,-2853.8400,-2594.4000,-6064.98076800,06/25/2017 @ 12:00:00 AM
-35747,Spikerivet,The Fortress of the Lich Queen,22.79,Magicians' Legendary Poison Metal,263.00,-52.81,-48.01,-13889.0300,-12626.6300,-32558.57891400,06/25/2017 @ 12:00:00 AM
-19012,"Ivycaster, Fate",Gifeld Castle,33.01,Emerald Orichalcum,124.00,1957.00,129.81,242668.0000,16096.4400,344182.58164400,06/25/2017 @ 12:00:00 AM
-19092,"Runetomb, Song",The Bastion of Barbos,25.41,Emerald Orichalcum,159.00,1957.00,129.81,311163.0000,20639.7900,416113.87893900,06/25/2017 @ 12:00:00 AM
-9124,"Goddess of Law, Eumyan",The Demon and Toad,-1.10,Unknowable Mindsilver,203.00,174.90,174.90,35504.7000,35504.7000,70228.29660000,06/25/2017 @ 12:00:00 AM
-19387,"The Unspeakable, Scarechain",The Bastion of Barbos,25.41,Golems' Stonesapphire Gold Of The Glacier,236.00,176.00,160.00,41536.0000,37760.0000,99445.11360000,06/25/2017 @ 12:00:00 AM
-20646,"Spiritraven, Bedlam",The Fen of the Necromancer,20.00,Negative Rockglitter Mercury Of Trolls,277.00,3502.00,214.17,970054.0000,59325.0900,1235254.90800000,06/25/2017 @ 12:00:00 AM
-16138,"Goddess of Knowledge, Baltha",Reyny Keep,-3.35,Incubi's Iron Of The Dawn,286.00,174.99,174.99,50047.1400,50047.1400,96741.12162000,06/25/2017 @ 12:00:00 AM
-30599,"The Cremator, Blazeflare",The Broken Arrow,17.60,Foulopal Copper Of The Skies,350.00,221.83,221.83,77640.5000,77640.5000,182610.45600000,06/25/2017 @ 12:00:00 AM
-17791,Springcoil,Hartshill Ward,48.75,Ghostly Soul Adamant,193.00,414.70,377.00,80037.1000,72761.0000,227287.17375000,06/25/2017 @ 12:00:00 AM
-27663,"Godseeker, Cult",The Bastion of Gothmog of Udun,-2.42,Vampires' Hammer Emeraldmetal,115.00,93.70,85.18,10775.5000,9795.7000,20073.37696000,06/25/2017 @ 12:00:00 AM
-12181,"Mist, Claw",Love Keep,40.56,Sirens' Rockgold,255.00,306.13,278.30,78063.1500,70966.5000,209476.07604000,06/25/2017 @ 12:00:00 AM
+1,"Godseeker, Cult",The Pirate's Pipe,16.94,Vampires' Hammer Emeraldmetal,353.00,77.44,77.44,27336.3200,27336.3200,63934.18521600,06/25/1977 @ 12:00:00 AM
+12477,"Lawslayer, Valentine",Hafeld Keep,47.59,Fog Lavaplatinum Of Life,208.00,2232.00,509.41,464256.0000,105957.2800,841577.77995200,06/25/1947 @ 12:00:00 AM
+36626,"Lord of the Sun, Maglioneth",The Fen of the Necromancer,32.21,Phantasmal Tin Of The Swamps,384.00,405.96,369.05,155888.6400,141715.2000,393462.03686400,06/25/1947 @ 12:00:00 AM
+10140,"Mistmidnight, Tiger",The Dungeon of Dismal Terror,44.30,Muck Orichalcum Of Ogres,97.00,2080.00,97.93,201760.0000,9499.2100,304847.04003000,06/25/1947 @ 12:00:00 AM
+23544,"Rougehate, Rune",Moor Village,11.32,Fleshshock Mercury,92.00,-31.02,-28.20,-2853.8400,-2594.4000,-6064.98076800,06/25/1947 @ 12:00:00 AM
+35747,Spikerivet,The Fortress of the Lich Queen,22.79,Magicians' Legendary Poison Metal,263.00,-52.81,-48.01,-13889.0300,-12626.6300,-32558.57891400,06/25/1987 @ 12:00:00 AM
+19012,"Ivycaster, Fate",Gifeld Castle,33.01,Emerald Orichalcum,124.00,1957.00,129.81,242668.0000,16096.4400,344182.58164400,06/25/1947 @ 12:00:00 AM
+19092,"Runetomb, Song",The Bastion of Barbos,25.41,Emerald Orichalcum,159.00,1957.00,129.81,311163.0000,20639.7900,416113.87893900,06/25/1947 @ 12:00:00 AM
+9124,"Goddess of Law, Eumyan",The Demon and Toad,-1.10,Unknowable Mindsilver,203.00,174.90,174.90,35504.7000,35504.7000,70228.29660000,06/25/1947 @ 12:00:00 AM
+19387,"The Unspeakable, Scarechain",The Bastion of Barbos,25.41,Golems' Stonesapphire Gold Of The Glacier,236.00,176.00,160.00,41536.0000,37760.0000,99445.11360000,06/25/1947 @ 12:00:00 AM
+20646,"Spiritraven, Bedlam",The Fen of the Necromancer,20.00,Negative Rockglitter Mercury Of Trolls,277.00,3502.00,214.17,970054.0000,59325.0900,1235254.90800000,06/25/1947 @ 12:00:00 AM
+16138,"Goddess of Knowledge, Baltha",Reyny Keep,-3.35,Incubi's Iron Of The Dawn,286.00,174.99,174.99,50047.1400,50047.1400,96741.12162000,06/25/1987 @ 12:00:00 AM
+30599,"The Cremator, Blazeflare",The Broken Arrow,17.60,Foulopal Copper Of The Skies,350.00,221.83,221.83,77640.5000,77640.5000,182610.45600000,06/25/1947 @ 12:00:00 AM
+17791,Springcoil,Hartshill Ward,48.75,Ghostly Soul Adamant,193.00,414.70,377.00,80037.1000,72761.0000,227287.17375000,06/25/1947 @ 12:00:00 AM
+27663,"Godseeker, Cult",The Bastion of Gothmog of Udun,-2.42,Vampires' Hammer Emeraldmetal,115.00,93.70,85.18,10775.5000,9795.7000,20073.37696000,06/25/1947 @ 12:00:00 AM
+12181,"Mist, Claw",Love Keep,40.56,Sirens' Rockgold,255.00,306.13,278.30,78063.1500,70966.5000,209476.07604000,06/25/1947 @ 12:00:00 AM

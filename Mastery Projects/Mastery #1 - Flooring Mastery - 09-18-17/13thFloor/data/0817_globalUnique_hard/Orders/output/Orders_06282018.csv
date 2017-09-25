@@ -1,22 +1,22 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-35139,"Godwarlock, Sunrise",Barad Kesa,6.17,Grayplatinum,237.00,2548.00,115.43,603876.0000,27356.9100,670179.98054700,06/28/2018 @ 12:00:00 AM
-37900,Deathbrood,The Greedy Wench,13.31,Ghouls' Imperial Soulzephyr Mithril Of The Seas,162.00,318.23,318.23,51553.2600,51553.2600,116829.99781200,06/28/2018 @ 12:00:00 AM
-36576,Flameshiver,The Fen of the Necromancer,32.21,Heavenly Dreamsilver Of The Night,205.00,719.00,346.06,147395.0000,70942.3000,288663.74433000,06/28/2018 @ 12:00:00 AM
-1325,"Mystery, Lord",The Forsaken Delve of Lord Greywulf,15.62,Negative Mercury,285.00,4115.00,68.00,1172775.0000,19380.0000,1378369.61100000,06/28/2018 @ 12:00:00 AM
-23535,Emberfire,The Secret Catacombs of Ulfang the Black,31.70,Shadowhell Mithril,224.00,462.21,420.19,103535.0400,94122.5600,260315.05920000,06/28/2018 @ 12:00:00 AM
-21046,"Dawn, Tarot",Mahyrst Keep,31.30,Stone Soulsteel Of The Skies,212.00,453.31,412.10,96101.7200,87365.2000,240892.06596000,06/28/2018 @ 12:00:00 AM
-34849,"The Freezer, Burnbrood",Barad Kesa,6.17,Ghouls' Imperial Soulzephyr Mithril Of The Seas,205.00,318.23,318.23,65237.1500,65237.1500,138524.56431000,06/28/2018 @ 12:00:00 AM
-22866,Springcoil,The Nulukkhath Spires,28.99,Warlocks' Timerot Mithril,176.00,194.65,176.95,34258.4000,31143.2000,84361.52384000,06/28/2018 @ 12:00:00 AM
-22949,Evilbrood,The Fortress of Akkun the Grim,27.03,Tritons' Time Stoneiron Of Legend,132.00,341.59,341.59,45089.8800,45089.8800,114555.34912800,06/28/2018 @ 12:00:00 AM
-29038,"The Freezer, Burnbrood",The Nulukkhath Spires,28.99,Heavenly Dreamsilver Of The Night,218.00,719.00,314.60,156742.0000,68582.8000,290646.45952000,06/28/2018 @ 12:00:00 AM
-284,"Reaper, Dagger",Gili's Delve,35.89,Meteoric Dustzephyr Orichalcum,194.00,3549.00,2.00,688506.0000,388.0000,936138.05660000,06/28/2018 @ 12:00:00 AM
-7420,"Felldrake, Magus",Barad Kesa,5.10,Trolls' Mist Poisonplatinum Of The Twilight,280.00,329.00,400.51,92120.0000,112142.8000,214680.20280000,06/28/2018 @ 12:00:00 AM
-7487,"The Terrifying, Deathspike",The Pirate's Pipe,15.40,Swordbronze,365.00,333.30,303.00,121654.5000,110595.0000,268015.92300000,06/28/2018 @ 12:00:00 AM
-6405,Deathbrood,The Wizard's House,20.00,Glittering Orichalcum,155.00,2056.00,330.00,318680.0000,51150.0000,443796.00000000,06/28/2018 @ 12:00:00 AM
-15347,"Dawn, Tarot",The Dungeon of Merciless Woe,3.61,Sirens' Rockgold,180.00,306.13,306.13,55103.4000,55103.4000,114185.26548000,06/28/2018 @ 12:00:00 AM
-5482,Cinderember,Reheath Stronghold,39.60,Venom Jewelmetal Of The Desert,236.00,701.92,167.16,165653.1200,39449.7600,286323.62048000,06/28/2018 @ 12:00:00 AM
-26113,"Reaper, Dagger",North Arcanist's Farthing,3.03,Tin Of The Tundra,301.00,4121.00,397.25,1240421.0000,119572.2500,1401201.04547500,06/28/2018 @ 12:00:00 AM
-27591,"Tombreaper, Rouge",The Pirate's Pipe,16.94,Unknown Fatelightning Steel Of The Glacier,102.00,145.08,159.59,14798.1600,16278.1800,36340.67199600,06/28/2018 @ 12:00:00 AM
-27806,Emberspawn,The Bastion of Gothmog of Udun,-2.42,Vampires' Hammer Emeraldmetal,159.00,93.70,85.18,14898.3000,13543.6200,27753.62553600,06/28/2018 @ 12:00:00 AM
-13207,"Wolf, Jericho",The Hunter and Rose,39.60,Pearl Mirrorice Steel Of Changelings,48.00,332.20,302.00,15945.6000,14496.0000,42496.47360000,06/28/2018 @ 12:00:00 AM
-24105,"Felldrake, Magus",The Scoundrel and Flask,45.25,Unicorns' Fatal Magma Metal Of The Ocean,249.00,25.30,23.00,6299.7000,5727.0000,17468.78175000,06/28/2018 @ 12:00:00 AM
+35139,"Godwarlock, Sunrise",Barad Kesa,6.17,Grayplatinum,237.00,2548.00,115.43,603876.0000,27356.9100,670179.98054700,06/28/1948 @ 12:00:00 AM
+37900,Deathbrood,The Greedy Wench,13.31,Ghouls' Imperial Soulzephyr Mithril Of The Seas,162.00,318.23,318.23,51553.2600,51553.2600,116829.99781200,06/28/1948 @ 12:00:00 AM
+36576,Flameshiver,The Fen of the Necromancer,32.21,Heavenly Dreamsilver Of The Night,205.00,719.00,346.06,147395.0000,70942.3000,288663.74433000,06/28/1948 @ 12:00:00 AM
+1325,"Mystery, Lord",The Forsaken Delve of Lord Greywulf,15.62,Negative Mercury,285.00,4115.00,68.00,1172775.0000,19380.0000,1378369.61100000,06/28/1948 @ 12:00:00 AM
+23535,Emberfire,The Secret Catacombs of Ulfang the Black,31.70,Shadowhell Mithril,224.00,462.21,420.19,103535.0400,94122.5600,260315.05920000,06/28/1948 @ 12:00:00 AM
+21046,"Dawn, Tarot",Mahyrst Keep,31.30,Stone Soulsteel Of The Skies,212.00,453.31,412.10,96101.7200,87365.2000,240892.06596000,06/28/1948 @ 12:00:00 AM
+34849,"The Freezer, Burnbrood",Barad Kesa,6.17,Ghouls' Imperial Soulzephyr Mithril Of The Seas,205.00,318.23,318.23,65237.1500,65237.1500,138524.56431000,06/28/1948 @ 12:00:00 AM
+22866,Springcoil,The Nulukkhath Spires,28.99,Warlocks' Timerot Mithril,176.00,194.65,176.95,34258.4000,31143.2000,84361.52384000,06/28/1948 @ 12:00:00 AM
+22949,Evilbrood,The Fortress of Akkun the Grim,27.03,Tritons' Time Stoneiron Of Legend,132.00,341.59,341.59,45089.8800,45089.8800,114555.34912800,06/28/1948 @ 12:00:00 AM
+29038,"The Freezer, Burnbrood",The Nulukkhath Spires,28.99,Heavenly Dreamsilver Of The Night,218.00,719.00,314.60,156742.0000,68582.8000,290646.45952000,06/28/1978 @ 12:00:00 AM
+284,"Reaper, Dagger",Gili's Delve,35.89,Meteoric Dustzephyr Orichalcum,194.00,3549.00,2.00,688506.0000,388.0000,936138.05660000,06/28/1948 @ 12:00:00 AM
+7420,"Felldrake, Magus",Barad Kesa,5.10,Trolls' Mist Poisonplatinum Of The Twilight,280.00,329.00,400.51,92120.0000,112142.8000,214680.20280000,06/28/1948 @ 12:00:00 AM
+7487,"The Terrifying, Deathspike",The Pirate's Pipe,15.40,Swordbronze,365.00,333.30,303.00,121654.5000,110595.0000,268015.92300000,06/28/1948 @ 12:00:00 AM
+6405,Deathbrood,The Wizard's House,20.00,Glittering Orichalcum,155.00,2056.00,330.00,318680.0000,51150.0000,443796.00000000,06/28/1948 @ 12:00:00 AM
+15347,"Dawn, Tarot",The Dungeon of Merciless Woe,3.61,Sirens' Rockgold,180.00,306.13,306.13,55103.4000,55103.4000,114185.26548000,06/28/1948 @ 12:00:00 AM
+5482,Cinderember,Reheath Stronghold,39.60,Venom Jewelmetal Of The Desert,236.00,701.92,167.16,165653.1200,39449.7600,286323.62048000,06/28/1948 @ 12:00:00 AM
+26113,"Reaper, Dagger",North Arcanist's Farthing,3.03,Tin Of The Tundra,301.00,4121.00,397.25,1240421.0000,119572.2500,1401201.04547500,06/28/1948 @ 12:00:00 AM
+27591,"Tombreaper, Rouge",The Pirate's Pipe,16.94,Unknown Fatelightning Steel Of The Glacier,102.00,145.08,159.59,14798.1600,16278.1800,36340.67199600,06/28/1948 @ 12:00:00 AM
+27806,Emberspawn,The Bastion of Gothmog of Udun,-2.42,Vampires' Hammer Emeraldmetal,159.00,93.70,85.18,14898.3000,13543.6200,27753.62553600,06/28/1948 @ 12:00:00 AM
+13207,"Wolf, Jericho",The Hunter and Rose,39.60,Pearl Mirrorice Steel Of Changelings,48.00,332.20,302.00,15945.6000,14496.0000,42496.47360000,06/28/1948 @ 12:00:00 AM
+24105,"Felldrake, Magus",The Scoundrel and Flask,45.25,Unicorns' Fatal Magma Metal Of The Ocean,249.00,25.30,23.00,6299.7000,5727.0000,17468.78175000,06/28/1948 @ 12:00:00 AM

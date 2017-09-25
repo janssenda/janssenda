@@ -1,16 +1,16 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-35271,"Runetomb, Song",The Fen of the Necromancer,32.21,Ghouls' Imperial Soulzephyr Mithril Of The Seas,315.00,318.23,318.23,100242.4500,100242.4500,265061.08629000,03/18/2017 @ 12:00:00 AM
-10042,Chainnail,Gifeld Castle,27.28,Forgotten Mithril,248.00,3909.75,496.10,969618.0000,123032.8000,1390725.93824000,03/18/2017 @ 12:00:00 AM
-23776,"The Frigid, Icechill",The Lewd King,45.98,Tritons' Time Stoneiron Of Legend,171.00,341.59,375.75,58411.8900,64253.2500,179066.57137200,03/18/2017 @ 12:00:00 AM
-33163,"Darkzealot, Dawn",The Archer and Scroll,60.12,Mind Lead,51.00,241.00,219.09,12291.0000,11173.5900,37571.50150800,03/18/2017 @ 12:00:00 AM
-31071,"The Binder, Springpulley",The Nulukkhath Spires,28.99,Foulopal Copper Of The Skies,214.00,221.83,221.83,47471.6200,47471.6200,122467.28527600,03/18/2017 @ 12:00:00 AM
-9665,"The Evil, Snowflame",Grove Farthing,25.00,God-touched Greengem Platinum,283.00,2181.36,188.14,617324.8800,53243.6200,838210.62500000,03/18/2017 @ 12:00:00 AM
-9893,"The Cadaverous, Chainblade",Castle Village,39.07,Timeiron,137.00,3255.00,-16.25,445935.0000,-2226.2500,617065.75862500,03/18/2017 @ 12:00:00 AM
-32814,"Claw, Slayer",Hafeld Keep,47.59,Magicians' Legendary Poison Metal,275.00,-52.81,-48.01,-14522.7500,-13202.7500,-40920.06545000,03/18/2017 @ 12:00:00 AM
-8825,"Wolf, Jericho",The Black Barrow of Bery,19.80,Unknowable Mindsilver,349.00,174.90,174.90,61040.1000,61040.1000,146252.07960000,03/18/2017 @ 12:00:00 AM
-29554,"The Cremator, Blazeflare",Bifar's Deep,12.21,Heavenly Dreamsilver Of The Night,175.00,719.00,314.60,125825.0000,55055.0000,202965.44800000,03/18/2017 @ 12:00:00 AM
-31925,"Dawn, Tarot",Noble's Village,6.57,Grayplatinum,234.00,2548.00,104.94,596232.0000,24555.9600,661573.72897200,03/18/2017 @ 12:00:00 AM
-30746,Cinderflame,Mahyrst Keep,31.30,Witchs' Forbidden Rockrainbow Bronze,169.00,245.63,245.63,41511.4700,41511.4700,109009.12022000,03/18/2017 @ 12:00:00 AM
-5412,Evilbrood,Dysley Stronghold,32.28,Negative Rockglitter Mercury Of Trolls,237.00,3502.00,194.70,829974.0000,46143.9000,1158928.75812000,03/18/2017 @ 12:00:00 AM
-27880,Flameshiver,The Bastion of Gothmog of Udun,-2.42,Sprites' Transcendent Mud Lead Of The South,195.00,3338.65,267.08,651036.7500,52080.6000,686101.91013000,03/18/2017 @ 12:00:00 AM
-26855,"The Chiller, Chillfire",The Chuallanto Jungle,11.00,Swordbronze,320.00,403.29,366.63,129052.8000,117321.6000,273475.58400000,03/18/2017 @ 12:00:00 AM
+35271,"Song, Runetomb",The Fen of the Necromancer,32.21,Ghouls' Imperial Soulzephyr Mithril Of The Seas,315.00,318.23,318.23,100242.4500,100242.4500,265061.08629000,03/18/2007 @ 12:00:00 AM
+10042,Chainnail,Gifeld Castle,27.28,Forgotten Mithril,248.00,3909.75,496.10,969618.0000,123032.8000,1390725.93824000,03/18/2007 @ 12:00:00 AM
+23776,"Icechill, The Frigid",The Lewd King,45.98,Tritons' Time Stoneiron Of Legend,171.00,341.59,375.75,58411.8900,64253.2500,179066.57137200,03/18/2007 @ 12:00:00 AM
+33163,"Dawn, Darkzealot",The Archer and Scroll,60.12,Mind Lead,51.00,241.00,219.09,12291.0000,11173.5900,37571.50150800,03/18/2007 @ 12:00:00 AM
+31071,"Springpulley, The Binder",The Nulukkhath Spires,28.99,Foulopal Copper Of The Skies,214.00,221.83,221.83,47471.6200,47471.6200,122467.28527600,03/18/2007 @ 12:00:00 AM
+9665,"Snowflame, The Evil",Grove Farthing,25.00,God-touched Greengem Platinum,283.00,2181.36,188.14,617324.8800,53243.6200,838210.62500000,03/18/2007 @ 12:00:00 AM
+9893,"Chainblade, The Cadaverous",Castle Village,39.07,Timeiron,137.00,3255.00,-16.25,445935.0000,-2226.2500,617065.75862500,03/18/2007 @ 12:00:00 AM
+32814,"Slayer, Claw",Hafeld Keep,47.59,Magicians' Legendary Poison Metal,275.00,-52.81,-48.01,-14522.7500,-13202.7500,-40920.06545000,03/18/2007 @ 12:00:00 AM
+8825,"Jericho, Wolf",The Black Barrow of Bery,19.80,Unknowable Mindsilver,349.00,174.90,174.90,61040.1000,61040.1000,146252.07960000,03/18/2007 @ 12:00:00 AM
+29554,"Blazeflare, The Cremator",Bifar's Deep,12.21,Heavenly Dreamsilver Of The Night,175.00,719.00,314.60,125825.0000,55055.0000,202965.44800000,03/18/2007 @ 12:00:00 AM
+31925,"Tarot, Dawn",Noble's Village,6.57,Grayplatinum,234.00,2548.00,104.94,596232.0000,24555.9600,661573.72897200,03/18/2007 @ 12:00:00 AM
+30746,Cinderflame,Mahyrst Keep,31.30,Witchs' Forbidden Rockrainbow Bronze,169.00,245.63,245.63,41511.4700,41511.4700,109009.12022000,03/18/2007 @ 12:00:00 AM
+5412,Evilbrood,Dysley Stronghold,32.28,Negative Rockglitter Mercury Of Trolls,237.00,3502.00,194.70,829974.0000,46143.9000,1158928.75812000,03/18/2007 @ 12:00:00 AM
+27880,Flameshiver,The Bastion of Gothmog of Udun,-2.42,Sprites' Transcendent Mud Lead Of The South,195.00,3338.65,267.08,651036.7500,52080.6000,686101.91013000,03/18/2007 @ 12:00:00 AM
+26855,"Chillfire, The Chiller",The Chuallanto Jungle,11.00,Swordbronze,320.00,403.29,366.63,129052.8000,117321.6000,273475.58400000,03/18/2007 @ 12:00:00 AM

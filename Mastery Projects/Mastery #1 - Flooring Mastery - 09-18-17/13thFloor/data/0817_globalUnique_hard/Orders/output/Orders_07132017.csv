@@ -1,21 +1,21 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-1055,"Anchor, Rose",The Archer and Blade,15.00,Ensorceled Sandmetal Of Spirits,216.00,4149.00,64.00,896184.0000,13824.0000,1046509.20000000,07/13/2017 @ 12:00:00 AM
-24423,"The Chiller, Blazefreeze",The Bastion of Barbos,25.41,Negative Rockglitter Mercury Of Trolls,291.00,235.59,214.17,68556.6900,62323.4700,164136.80865600,07/13/2017 @ 12:00:00 AM
-24640,"The Cold, Burnfreeze",Bifar's Deep,12.21,Negative Rockglitter Mercury Of Trolls,284.00,235.59,214.17,66907.5600,60824.2800,143327.89766400,07/13/2017 @ 12:00:00 AM
-3992,"Tombreaper, Rouge",The Broken Shield,12.00,Unknown Fatelightning Steel Of The Glacier,231.00,119.90,109.00,27696.9000,25179.0000,59221.00800000,07/13/2017 @ 12:00:00 AM
-34053,Deathbrood,The Cuitamba Jungle,46.75,Warlocks' Timerot Mithril,150.00,194.65,194.65,29197.5000,29197.5000,85694.66250000,07/13/2017 @ 12:00:00 AM
-34161,"Lonedrake, Clash",Mahyrst Keep,31.30,Warlocks' Timerot Mithril,218.00,194.65,194.65,42433.7000,42433.7000,111430.89620000,07/13/2017 @ 12:00:00 AM
-2836,"Squallmourner, Storm",The Tomb of Gothmog of Udun,11.00,Litches' Fatal Mithril Of The Past,148.00,3822.00,13.00,565656.0000,1924.0000,630013.80000000,07/13/2017 @ 12:00:00 AM
-23653,"The Firey, Evilember",The Secret Catacombs of Ulfang the Black,31.70,Shadowhell Mithril,119.00,462.21,420.19,55002.9900,50002.6100,138292.37520000,07/13/2017 @ 12:00:00 AM
-34435,"Lord of Plague, Alas",Mahyrst Keep,31.30,Primordial Plague Mercury Of Legend,59.00,73.70,67.00,4348.3000,3953.0000,10899.60690000,07/13/2017 @ 12:00:00 AM
-10504,"God of Love, Prusu",The Dungeon of Merciless Woe,3.61,Phantasmal Smokezephyr Mercury Of Men,105.00,211.20,192.00,22176.0000,20160.0000,43864.32960000,07/13/2017 @ 12:00:00 AM
-20156,"Spiritraven, Bedlam",Reyny Keep,-3.35,Emerald Orichalcum,174.00,1957.00,142.79,340518.0000,24845.4600,353123.78409000,07/13/2017 @ 12:00:00 AM
-19216,"The Freezer, Shiverflame",Mahyrst Keep,31.30,Unspeakable Rotsoul Mithril Of Souls,204.00,370.26,336.60,75533.0400,68666.4000,189333.86472000,07/13/2017 @ 12:00:00 AM
-9248,"Squallmourner, Storm",The Demon and Toad,-1.10,Unknowable Mindsilver,186.00,174.90,174.90,32531.4000,32531.4000,64347.10920000,07/13/2017 @ 12:00:00 AM
-30232,Gravebone,The Greedy Wench,13.31,Incubi's Glittering Tin Of The Future,277.00,192.96,233.49,53449.9200,64676.7300,133849.30711500,07/13/2017 @ 12:00:00 AM
-464,"Gust, Shadow",Gili's Delve,35.89,Meteoric Dustzephyr Orichalcum,273.00,3549.00,2.00,968877.0000,546.0000,1317348.91470000,07/13/2017 @ 12:00:00 AM
-470,"Lonedrake, Clash",The Flying Witch,5.16,Unknown Fatelightning Steel Of The Glacier,393.00,305.86,109.00,120202.9800,42837.0000,171452.84296800,07/13/2017 @ 12:00:00 AM
-8949,Chainhorror,The Lost Sanctum of Woe,43.20,Primordial Plague Mercury Of Legend,184.00,1150.79,67.00,211745.3600,12328.0000,320873.05152000,07/13/2017 @ 12:00:00 AM
-28835,"Anchor, Rose",The Nulukkhath Spires,28.99,Fleshshock Mercury,237.00,-31.02,-28.20,-7351.7400,-6683.4000,-18103.92708600,07/13/2017 @ 12:00:00 AM
-13377,Bronzespawn,The Citadel of Alammius,27.00,Trolls' Mist Poisonplatinum Of The Twilight,248.00,440.56,400.51,109258.8800,99326.4800,264903.40720000,07/13/2017 @ 12:00:00 AM
-37449,Spikespawn,The Greedy Wench,13.31,Ghouls' Imperial Soulzephyr Mithril Of The Seas,242.00,318.23,318.23,77011.6600,77011.6600,174523.82389200,07/13/2017 @ 12:00:00 AM
+1055,"Anchor, Rose",The Archer and Blade,15.00,Ensorceled Sandmetal Of Spirits,216.00,4149.00,64.00,896184.0000,13824.0000,1046509.20000000,07/13/1947 @ 12:00:00 AM
+24423,"The Chiller, Blazefreeze",The Bastion of Barbos,25.41,Negative Rockglitter Mercury Of Trolls,291.00,235.59,214.17,68556.6900,62323.4700,164136.80865600,07/13/1977 @ 12:00:00 AM
+24640,"The Cold, Burnfreeze",Bifar's Deep,12.21,Negative Rockglitter Mercury Of Trolls,284.00,235.59,214.17,66907.5600,60824.2800,143327.89766400,07/13/1947 @ 12:00:00 AM
+3992,"Tombreaper, Rouge",The Broken Shield,12.00,Unknown Fatelightning Steel Of The Glacier,231.00,119.90,109.00,27696.9000,25179.0000,59221.00800000,07/13/1947 @ 12:00:00 AM
+34053,Deathbrood,The Cuitamba Jungle,46.75,Warlocks' Timerot Mithril,150.00,194.65,194.65,29197.5000,29197.5000,85694.66250000,07/13/1947 @ 12:00:00 AM
+34161,"Lonedrake, Clash",Mahyrst Keep,31.30,Warlocks' Timerot Mithril,218.00,194.65,194.65,42433.7000,42433.7000,111430.89620000,07/13/1947 @ 12:00:00 AM
+2836,"Squallmourner, Storm",The Tomb of Gothmog of Udun,11.00,Litches' Fatal Mithril Of The Past,148.00,3822.00,13.00,565656.0000,1924.0000,630013.80000000,07/13/1947 @ 12:00:00 AM
+23653,"The Firey, Evilember",The Secret Catacombs of Ulfang the Black,31.70,Shadowhell Mithril,119.00,462.21,420.19,55002.9900,50002.6100,138292.37520000,07/13/1947 @ 12:00:00 AM
+34435,"Lord of Plague, Alas",Mahyrst Keep,31.30,Primordial Plague Mercury Of Legend,59.00,73.70,67.00,4348.3000,3953.0000,10899.60690000,07/13/1947 @ 12:00:00 AM
+10504,"God of Love, Prusu",The Dungeon of Merciless Woe,3.61,Phantasmal Smokezephyr Mercury Of Men,105.00,211.20,192.00,22176.0000,20160.0000,43864.32960000,07/13/1947 @ 12:00:00 AM
+20156,"Spiritraven, Bedlam",Reyny Keep,-3.35,Emerald Orichalcum,174.00,1957.00,142.79,340518.0000,24845.4600,353123.78409000,07/13/1947 @ 12:00:00 AM
+19216,"The Freezer, Shiverflame",Mahyrst Keep,31.30,Unspeakable Rotsoul Mithril Of Souls,204.00,370.26,336.60,75533.0400,68666.4000,189333.86472000,07/13/1947 @ 12:00:00 AM
+9248,"Squallmourner, Storm",The Demon and Toad,-1.10,Unknowable Mindsilver,186.00,174.90,174.90,32531.4000,32531.4000,64347.10920000,07/13/1947 @ 12:00:00 AM
+30232,Gravebone,The Greedy Wench,13.31,Incubi's Glittering Tin Of The Future,277.00,192.96,233.49,53449.9200,64676.7300,133849.30711500,07/13/1947 @ 12:00:00 AM
+464,"Gust, Shadow",Gili's Delve,35.89,Meteoric Dustzephyr Orichalcum,273.00,3549.00,2.00,968877.0000,546.0000,1317348.91470000,07/13/1947 @ 12:00:00 AM
+470,"Lonedrake, Clash",The Flying Witch,5.16,Unknown Fatelightning Steel Of The Glacier,393.00,305.86,109.00,120202.9800,42837.0000,171452.84296800,07/13/1947 @ 12:00:00 AM
+8949,Chainhorror,The Lost Sanctum of Woe,43.20,Primordial Plague Mercury Of Legend,184.00,1150.79,67.00,211745.3600,12328.0000,320873.05152000,07/13/1947 @ 12:00:00 AM
+28835,"Anchor, Rose",The Nulukkhath Spires,28.99,Fleshshock Mercury,237.00,-31.02,-28.20,-7351.7400,-6683.4000,-18103.92708600,07/13/1947 @ 12:00:00 AM
+13377,Bronzespawn,The Citadel of Alammius,27.00,Trolls' Mist Poisonplatinum Of The Twilight,248.00,440.56,400.51,109258.8800,99326.4800,264903.40720000,07/13/1947 @ 12:00:00 AM
+37449,Spikespawn,The Greedy Wench,13.31,Ghouls' Imperial Soulzephyr Mithril Of The Seas,242.00,318.23,318.23,77011.6600,77011.6600,174523.82389200,07/13/1947 @ 12:00:00 AM

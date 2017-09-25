@@ -1,16 +1,16 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-1468,"Godseeker, Cult",The Broken Arrow,16.00,Foul Ice Bronze Of Life,280.00,-378.00,242.00,-105840.0000,67760.0000,-44172.80000000,05/18/2018 @ 12:00:00 AM
-34751,"Goddess of Thieves, Melcha",The Bastion of the Vampire Duke,45.86,Ghouls' Imperial Soulzephyr Mithril Of The Seas,286.00,318.23,318.23,91013.7800,91013.7800,265505.39901600,05/18/2018 @ 12:00:00 AM
-32341,"The Living Device, Mecharig",The Bastion of the Lich Tyrant,8.64,Fairies' Supreme Mistsmoke Lead Of The Future,257.00,499.73,549.70,128430.6100,141272.9000,293005.89326400,05/18/2018 @ 12:00:00 AM
-19712,"Goddess of Knowledge, Ahah",The Demon and Toad,-1.10,Emerald Orichalcum,288.00,1957.00,142.79,563616.0000,41123.5200,598087.38528000,05/18/2018 @ 12:00:00 AM
-29278,"The Chiller, Chillfire",The Citadel of Alammius,32.67,Unknown Fatelightning Steel Of The Glacier,157.00,145.08,159.59,22777.5600,25055.6300,63460.29317300,05/18/2018 @ 12:00:00 AM
-31649,"Veil, Bane",The Demon and Toad,-1.21,Pearl Mirrorice Steel Of Changelings,206.00,365.42,365.42,75276.5200,75276.5200,148731.34821600,05/18/2018 @ 12:00:00 AM
-9999,Evilbrood,Archring Borough,29.70,Angels' Adamant,173.00,51.48,46.80,8906.0400,8096.4000,22052.16468000,05/18/2018 @ 12:00:00 AM
-31603,"The Grasping, Nettool",Gifeld Castle,33.01,Planar Mudtin Of Trolls,199.00,191.40,174.00,38088.6000,34626.0000,96717.68946000,05/18/2018 @ 12:00:00 AM
-17402,"Roguemist, Rouge",The Scoundrel and Flask,45.25,Plague Tin,66.00,465.25,422.95,30706.5000,27914.7000,85147.29300000,05/18/2018 @ 12:00:00 AM
-18720,"The Chiller, Blazefreeze",Gili's Delve,35.89,Undeads' Mind Orichalcum Of The Twilight,250.00,1169.00,331.54,292250.0000,82885.0000,509770.95150000,05/18/2018 @ 12:00:00 AM
-28327,"God of Protection, Finarfin",Bifar's Deep,12.21,Undeads' Mind Orichalcum Of The Twilight,52.00,1169.00,364.69,60788.0000,18963.8800,89489.58454800,05/18/2018 @ 12:00:00 AM
-27293,"Dawn, Tarot",The Pirate's Pipe,16.94,Sprites' Transcendent Mud Lead Of The South,120.00,3338.65,267.08,400638.0000,32049.6000,505984.87944000,05/18/2018 @ 12:00:00 AM
-4467,"The Cadaverous, Chainblade",Eved Castle,28.00,Fairies' Supreme Mistsmoke Lead Of The Future,297.00,2622.69,413.00,778938.9300,122661.0000,1154047.91040000,05/18/2018 @ 12:00:00 AM
-25222,"Angelchild, Harmony",The Pirate's Pipe,16.94,Primordial Mud Orichalcum,277.00,1113.00,20.57,308301.0000,5697.8900,367190.30196600,05/18/2018 @ 12:00:00 AM
-13290,"God of Resurrection, Gadriel",Dysley Stronghold,35.51,Nymphs' Luminous Rotmercury Of The Skies,211.00,335.50,369.05,70790.5000,77869.5500,201449.23375500,05/18/2018 @ 12:00:00 AM
+1468,"Cult, Godseeker",The Broken Arrow,16.00,Foul Ice Bronze Of Life,280.00,-378.00,242.00,-105840.0000,67760.0000,-44172.80000000,05/18/2008 @ 12:00:00 AM
+34751,"Melcha, Goddess of Thieves",The Bastion of the Vampire Duke,45.86,Ghouls' Imperial Soulzephyr Mithril Of The Seas,286.00,318.23,318.23,91013.7800,91013.7800,265505.39901600,05/18/2008 @ 12:00:00 AM
+32341,"Mecharig, The Living Device",The Bastion of the Lich Tyrant,8.64,Fairies' Supreme Mistsmoke Lead Of The Future,257.00,499.73,549.70,128430.6100,141272.9000,293005.89326400,05/18/2008 @ 12:00:00 AM
+19712,"Ahah, Goddess of Knowledge",The Demon and Toad,-1.10,Emerald Orichalcum,288.00,1957.00,142.79,563616.0000,41123.5200,598087.38528000,05/18/2008 @ 12:00:00 AM
+29278,"Chillfire, The Chiller",The Citadel of Alammius,32.67,Unknown Fatelightning Steel Of The Glacier,157.00,145.08,159.59,22777.5600,25055.6300,63460.29317300,05/18/2008 @ 12:00:00 AM
+31649,"Bane, Veil",The Demon and Toad,-1.21,Pearl Mirrorice Steel Of Changelings,206.00,365.42,365.42,75276.5200,75276.5200,148731.34821600,05/18/2008 @ 12:00:00 AM
+9999,Evilbrood,Archring Borough,29.70,Angels' Adamant,173.00,51.48,46.80,8906.0400,8096.4000,22052.16468000,05/18/2008 @ 12:00:00 AM
+31603,"Nettool, The Grasping",Gifeld Castle,33.01,Planar Mudtin Of Trolls,199.00,191.40,174.00,38088.6000,34626.0000,96717.68946000,05/18/2008 @ 12:00:00 AM
+17402,"Rouge, Roguemist",The Scoundrel and Flask,45.25,Plague Tin,66.00,465.25,422.95,30706.5000,27914.7000,85147.29300000,05/18/2008 @ 12:00:00 AM
+18720,"Blazefreeze, The Chiller",Gili's Delve,35.89,Undeads' Mind Orichalcum Of The Twilight,250.00,1169.00,331.54,292250.0000,82885.0000,509770.95150000,05/18/2008 @ 12:00:00 AM
+28327,"Finarfin, God of Protection",Bifar's Deep,12.21,Undeads' Mind Orichalcum Of The Twilight,52.00,1169.00,364.69,60788.0000,18963.8800,89489.58454800,05/18/2008 @ 12:00:00 AM
+27293,"Tarot, Dawn",The Pirate's Pipe,16.94,Sprites' Transcendent Mud Lead Of The South,120.00,3338.65,267.08,400638.0000,32049.6000,505984.87944000,05/18/2008 @ 12:00:00 AM
+4467,"Chainblade, The Cadaverous",Eved Castle,28.00,Fairies' Supreme Mistsmoke Lead Of The Future,297.00,2622.69,413.00,778938.9300,122661.0000,1154047.91040000,05/18/2008 @ 12:00:00 AM
+25222,"Harmony, Angelchild",The Pirate's Pipe,16.94,Primordial Mud Orichalcum,277.00,1113.00,20.57,308301.0000,5697.8900,367190.30196600,05/18/2008 @ 12:00:00 AM
+13290,"Gadriel, God of Resurrection",Dysley Stronghold,35.51,Nymphs' Luminous Rotmercury Of The Skies,211.00,335.50,369.05,70790.5000,77869.5500,201449.23375500,05/18/2008 @ 12:00:00 AM

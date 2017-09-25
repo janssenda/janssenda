@@ -1,20 +1,20 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-13699,"God of Resurrection, Gadriel",Kada's Deep,8.42,Pearl Mirrorice Steel Of Changelings,2.00,332.20,302.00,664.4000,604.0000,1375.19928000,09/14/2015 @ 12:00:00 AM
-35042,"Tomblion, Shadow",Barad Kesa,6.17,Sprites' Transcendent Mud Lead Of The South,350.00,3338.65,267.08,1168527.5000,93478.0000,1339871.23935000,09/14/2015 @ 12:00:00 AM
-23142,Flameshiver,Weke Tower,47.19,Forgotten Mithril,189.00,545.71,496.10,103139.1900,93762.9000,289820.18627100,09/14/2015 @ 12:00:00 AM
-35403,"The Unspeakable, Scarechain",The Fortress of the Lich Queen,22.79,Ghouls' Imperial Soulzephyr Mithril Of The Seas,46.00,318.23,318.23,14638.5800,14638.5800,35949.42476400,09/14/2015 @ 12:00:00 AM
-35605,Evilbrood,The Nulukkhath Spires,28.99,Lycanthropes' Gold,88.00,449.88,408.98,39589.4400,35990.2400,97490.22923200,09/14/2015 @ 12:00:00 AM
-35571,Chainhorror,Bifar's Deep,12.21,Yellow Mistearth Copper,69.00,287.98,261.80,19870.6200,18064.2000,42566.66152200,09/14/2015 @ 12:00:00 AM
-10434,"Squallmourner, Storm",The Dungeon of Merciless Woe,3.61,Pearl Mirrorice Steel Of Changelings,188.00,2996.00,302.00,563248.0000,56776.0000,642406.86640000,09/14/2015 @ 12:00:00 AM
-21340,"God of Animals, Byzou",North Arcanist's Farthing,3.03,Yellow Mistearth Copper,74.00,287.98,261.80,21310.5200,19373.2000,41916.43671600,09/14/2015 @ 12:00:00 AM
-33971,"The Blade, Steelterror",Reheath Stronghold,39.60,Toxic Mistlead Of The Past,381.00,435.67,396.06,165990.2700,150898.8600,442377.22548000,09/14/2015 @ 12:00:00 AM
-7198,Freezebrood,Barad Kesa,5.10,Vampires' Hammer Emeraldmetal,233.00,77.44,70.40,18043.5200,16403.2000,36203.50272000,09/14/2015 @ 12:00:00 AM
-8513,Metalbrood,The Grey Plains,39.19,Fleshshock Mercury,168.00,-31.02,-28.20,-5211.3600,-4737.6000,-13847.95742400,09/14/2015 @ 12:00:00 AM
-334,"Knightseraph, Lance",Gawold Castle,9.35,Emerald Orichalcum,134.00,1957.00,118.01,262238.0000,15813.3400,304049.14029000,09/14/2015 @ 12:00:00 AM
-8948,"Claw, Slayer",The Lost Sanctum of Woe,43.20,Planar Mudtin Of Trolls,232.00,191.40,174.00,44404.8000,40368.0000,121394.64960000,09/14/2015 @ 12:00:00 AM
-8955,"Angelchild, Harmony",The Tomb of Hellish Ruin,33.00,Meteoric Mirrormuck Orichalcum Of The Forests,149.00,491.62,368.50,73251.3800,54906.5000,170449.98040000,09/14/2015 @ 12:00:00 AM
-15005,"Rougehate, Rune",The Secret Catacombs of Ulfang the Black,28.82,Angels' Adamant,341.00,51.48,46.80,17554.6800,15958.8000,43172.06493600,09/14/2015 @ 12:00:00 AM
-29622,"The Machine, Wheelbolt",Bifar's Deep,12.21,Unknown Fatelightning Steel Of The Glacier,205.00,145.08,159.59,29741.4000,32715.9500,70083.39243500,09/14/2015 @ 12:00:00 AM
-15147,"The Unspeakable, Gravebone",The Secret Shrine of the Gargoyle Count,23.93,Fleshshock Mercury,318.00,-31.02,-28.20,-9864.3600,-8967.6000,-23338.44802800,09/14/2015 @ 12:00:00 AM
-4018,"The Freezer, Shiverflame",Arcanist's Farthing,29.00,Falserainbow Lead,266.00,872.99,70.18,232215.3400,18667.8800,323639.35380000,09/14/2015 @ 12:00:00 AM
-12183,Emberspawn,Love Keep,40.56,Fairies' Supreme Mistsmoke Lead Of The Future,258.00,2622.69,454.30,676654.0200,117209.4000,1115854.42315200,09/14/2015 @ 12:00:00 AM
+13699,"God of Resurrection, Gadriel",Kada's Deep,8.42,Pearl Mirrorice Steel Of Changelings,2.00,332.20,302.00,664.4000,604.0000,1375.19928000,09/14/1945 @ 12:00:00 AM
+35042,"Tomblion, Shadow",Barad Kesa,6.17,Sprites' Transcendent Mud Lead Of The South,350.00,3338.65,267.08,1168527.5000,93478.0000,1339871.23935000,09/14/1945 @ 12:00:00 AM
+23142,Flameshiver,Weke Tower,47.19,Forgotten Mithril,189.00,545.71,496.10,103139.1900,93762.9000,289820.18627100,09/14/1985 @ 12:00:00 AM
+35403,"The Unspeakable, Scarechain",The Fortress of the Lich Queen,22.79,Ghouls' Imperial Soulzephyr Mithril Of The Seas,46.00,318.23,318.23,14638.5800,14638.5800,35949.42476400,09/14/1945 @ 12:00:00 AM
+35605,Evilbrood,The Nulukkhath Spires,28.99,Lycanthropes' Gold,88.00,449.88,408.98,39589.4400,35990.2400,97490.22923200,09/14/1945 @ 12:00:00 AM
+35571,Chainhorror,Bifar's Deep,12.21,Yellow Mistearth Copper,69.00,287.98,261.80,19870.6200,18064.2000,42566.66152200,09/14/1945 @ 12:00:00 AM
+10434,"Squallmourner, Storm",The Dungeon of Merciless Woe,3.61,Pearl Mirrorice Steel Of Changelings,188.00,2996.00,302.00,563248.0000,56776.0000,642406.86640000,09/14/1985 @ 12:00:00 AM
+21340,"God of Animals, Byzou",North Arcanist's Farthing,3.03,Yellow Mistearth Copper,74.00,287.98,261.80,21310.5200,19373.2000,41916.43671600,09/14/1945 @ 12:00:00 AM
+33971,"The Blade, Steelterror",Reheath Stronghold,39.60,Toxic Mistlead Of The Past,381.00,435.67,396.06,165990.2700,150898.8600,442377.22548000,09/14/1945 @ 12:00:00 AM
+7198,Freezebrood,Barad Kesa,5.10,Vampires' Hammer Emeraldmetal,233.00,77.44,70.40,18043.5200,16403.2000,36203.50272000,09/14/1945 @ 12:00:00 AM
+8513,Metalbrood,The Grey Plains,39.19,Fleshshock Mercury,168.00,-31.02,-28.20,-5211.3600,-4737.6000,-13847.95742400,09/14/1945 @ 12:00:00 AM
+334,"Knightseraph, Lance",Gawold Castle,9.35,Emerald Orichalcum,134.00,1957.00,118.01,262238.0000,15813.3400,304049.14029000,09/14/1945 @ 12:00:00 AM
+8948,"Claw, Slayer",The Lost Sanctum of Woe,43.20,Planar Mudtin Of Trolls,232.00,191.40,174.00,44404.8000,40368.0000,121394.64960000,09/14/1945 @ 12:00:00 AM
+8955,"Angelchild, Harmony",The Tomb of Hellish Ruin,33.00,Meteoric Mirrormuck Orichalcum Of The Forests,149.00,491.62,368.50,73251.3800,54906.5000,170449.98040000,09/14/1985 @ 12:00:00 AM
+15005,"Rougehate, Rune",The Secret Catacombs of Ulfang the Black,28.82,Angels' Adamant,341.00,51.48,46.80,17554.6800,15958.8000,43172.06493600,09/14/1945 @ 12:00:00 AM
+29622,"The Machine, Wheelbolt",Bifar's Deep,12.21,Unknown Fatelightning Steel Of The Glacier,205.00,145.08,159.59,29741.4000,32715.9500,70083.39243500,09/14/1945 @ 12:00:00 AM
+15147,"The Unspeakable, Gravebone",The Secret Shrine of the Gargoyle Count,23.93,Fleshshock Mercury,318.00,-31.02,-28.20,-9864.3600,-8967.6000,-23338.44802800,09/14/1945 @ 12:00:00 AM
+4018,"The Freezer, Shiverflame",Arcanist's Farthing,29.00,Falserainbow Lead,266.00,872.99,70.18,232215.3400,18667.8800,323639.35380000,09/14/1985 @ 12:00:00 AM
+12183,Emberspawn,Love Keep,40.56,Fairies' Supreme Mistsmoke Lead Of The Future,258.00,2622.69,454.30,676654.0200,117209.4000,1115854.42315200,09/14/1945 @ 12:00:00 AM

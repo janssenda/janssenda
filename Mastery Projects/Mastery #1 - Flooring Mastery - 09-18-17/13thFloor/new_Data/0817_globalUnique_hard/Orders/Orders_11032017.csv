@@ -1,16 +1,16 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-2536,"Brand, Lightning",Noble's Village,4.49,Stone Soulsteel Of The Skies,298.00,3459.15,340.58,1030826.7000,101492.8400,1183160.68734600,11/03/2017 @ 12:00:00 AM
-1582,Cinderember,The Archer and Blade,15.00,Fog Lavaplatinum Of Life,215.00,2232.00,463.10,479880.0000,99566.5000,666363.47500000,11/03/2017 @ 12:00:00 AM
-24910,"God of War, Ingwenel",The Bastion of Barbos,25.41,Negative Rockglitter Mercury Of Trolls,183.00,235.59,214.17,43112.9700,39193.1100,103220.05492800,11/03/2017 @ 12:00:00 AM
-10296,"The Evil, Flameflare",The Dungeon of Merciless Woe,3.61,Phantasmal Smokezephyr Mercury Of Men,192.00,211.20,192.00,40550.4000,36864.0000,80209.05984000,11/03/2017 @ 12:00:00 AM
-21205,Spikesnare,The Fen of the Necromancer,20.00,Plague Tin,310.00,465.25,422.95,144227.5000,131114.5000,330410.40000000,11/03/2017 @ 12:00:00 AM
-31158,"The Firey, Evilember",The Bastion of Gothmog of Udun,-2.66,Planar Mudtin Of Trolls,164.00,191.40,174.00,31389.6000,28536.0000,58331.57904000,11/03/2017 @ 12:00:00 AM
-20638,"Mist, Claw",Moor Village,11.32,Unknowable Mindsilver,254.00,174.90,174.90,44424.6000,44424.6000,98906.92944000,11/03/2017 @ 12:00:00 AM
-7289,"Claw, Slayer",Archring Borough,29.70,Sirens' Rockgold,252.00,306.13,278.30,77144.7600,70131.6000,191017.43892000,11/03/2017 @ 12:00:00 AM
-6155,Gravebone,Khali's Delve,1.07,Dragons' Poison Glitterflesh Steel Of The North,6.00,742.00,75.00,4452.0000,450.0000,4954.45140000,11/03/2017 @ 12:00:00 AM
-31936,"The Binder, Springpulley",Gifeld Castle,33.01,Fairies' Supreme Mistsmoke Lead Of The Future,231.00,499.73,549.70,115437.6300,126980.7000,322440.62073300,11/03/2017 @ 12:00:00 AM
-29748,Bolttrap,The Greedy Wench,13.31,Incubi's Glittering Tin Of The Future,57.00,192.96,233.49,10998.7200,13308.9300,27542.99821500,11/03/2017 @ 12:00:00 AM
-6959,Gravebone,Archfane District,15.29,Trolls' Mist Poisonplatinum Of The Twilight,159.00,329.00,400.51,52311.0000,63681.0900,133727.28056100,11/03/2017 @ 12:00:00 AM
-14725,"Mist, Claw",The Fortress of Akkun the Grim,27.03,Golems' Stonesapphire Gold Of The Glacier,218.00,176.00,160.00,38368.0000,34880.0000,93046.93440000,11/03/2017 @ 12:00:00 AM
-3494,Springcoil,Noble's Village,4.49,Falserainbow Lead,260.00,872.99,70.18,226977.4000,18246.8000,256234.76658000,11/03/2017 @ 12:00:00 AM
-26791,"Ivycaster, Fate",Reheath Stronghold,39.60,Heavenly Dreamsilver Of The Night,210.00,719.00,314.60,150990.0000,66066.0000,303010.17600000,11/03/2017 @ 12:00:00 AM
+2536,"Lightning, Brand",Noble's Village,4.49,Stone Soulsteel Of The Skies,298.00,3459.15,340.58,1030826.7000,101492.8400,1183160.68734600,11/03/2007 @ 12:00:00 AM
+1582,Cinderember,The Archer and Blade,15.00,Fog Lavaplatinum Of Life,215.00,2232.00,463.10,479880.0000,99566.5000,666363.47500000,11/03/2007 @ 12:00:00 AM
+24910,"Ingwenel, God of War",The Bastion of Barbos,25.41,Negative Rockglitter Mercury Of Trolls,183.00,235.59,214.17,43112.9700,39193.1100,103220.05492800,11/03/2007 @ 12:00:00 AM
+10296,"Flameflare, The Evil",The Dungeon of Merciless Woe,3.61,Phantasmal Smokezephyr Mercury Of Men,192.00,211.20,192.00,40550.4000,36864.0000,80209.05984000,11/03/2007 @ 12:00:00 AM
+21205,Spikesnare,The Fen of the Necromancer,20.00,Plague Tin,310.00,465.25,422.95,144227.5000,131114.5000,330410.40000000,11/03/2007 @ 12:00:00 AM
+31158,"Evilember, The Firey",The Bastion of Gothmog of Udun,-2.66,Planar Mudtin Of Trolls,164.00,191.40,174.00,31389.6000,28536.0000,58331.57904000,11/03/2007 @ 12:00:00 AM
+20638,"Claw, Mist",Moor Village,11.32,Unknowable Mindsilver,254.00,174.90,174.90,44424.6000,44424.6000,98906.92944000,11/03/2007 @ 12:00:00 AM
+7289,"Slayer, Claw",Archring Borough,29.70,Sirens' Rockgold,252.00,306.13,278.30,77144.7600,70131.6000,191017.43892000,11/03/2007 @ 12:00:00 AM
+6155,Gravebone,Khali's Delve,1.07,Dragons' Poison Glitterflesh Steel Of The North,6.00,742.00,75.00,4452.0000,450.0000,4954.45140000,11/03/2007 @ 12:00:00 AM
+31936,"Springpulley, The Binder",Gifeld Castle,33.01,Fairies' Supreme Mistsmoke Lead Of The Future,231.00,499.73,549.70,115437.6300,126980.7000,322440.62073300,11/03/2017 @ 12:00:00 AM
+29748,Bolttrap,The Greedy Wench,13.31,Incubi's Glittering Tin Of The Future,57.00,192.96,233.49,10998.7200,13308.9300,27542.99821500,11/03/2007 @ 12:00:00 AM
+6959,Gravebone,Archfane District,15.29,Trolls' Mist Poisonplatinum Of The Twilight,159.00,329.00,400.51,52311.0000,63681.0900,133727.28056100,11/03/2007 @ 12:00:00 AM
+14725,"Claw, Mist",The Fortress of Akkun the Grim,27.03,Golems' Stonesapphire Gold Of The Glacier,218.00,176.00,160.00,38368.0000,34880.0000,93046.93440000,11/03/2007 @ 12:00:00 AM
+3494,Springcoil,Noble's Village,4.49,Falserainbow Lead,260.00,872.99,70.18,226977.4000,18246.8000,256234.76658000,11/03/2007 @ 12:00:00 AM
+26791,"Fate, Ivycaster",Reheath Stronghold,39.60,Heavenly Dreamsilver Of The Night,210.00,719.00,314.60,150990.0000,66066.0000,303010.17600000,11/03/2007 @ 12:00:00 AM

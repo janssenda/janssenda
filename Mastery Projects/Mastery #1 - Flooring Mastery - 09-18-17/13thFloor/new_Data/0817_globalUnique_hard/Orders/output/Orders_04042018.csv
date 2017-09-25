@@ -1,16 +1,16 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-3862,"God of Thieves, Maeglodor",Arcanist's Farthing,29.00,Forgotten Mithril,180.00,3909.75,451.00,703755.0000,81180.0000,1012566.15000000,04/04/2018 @ 12:00:00 AM
-36567,"God of Fate, Uriel",The Fen of the Necromancer,32.21,Phantasmal Tin Of The Swamps,303.00,405.96,369.05,123005.8800,111822.1500,310466.13846300,04/04/2018 @ 12:00:00 AM
-10291,"God of Fate, Uriel",Archfane District,15.29,Fairies' Supreme Mistsmoke Lead Of The Future,184.00,2622.69,454.30,482574.9600,83591.2000,652732.96586400,04/04/2018 @ 12:00:00 AM
-32290,"Claw, Slayer",The Chuallanto Jungle,11.00,Unspeakable Rotsoul Mithril Of Souls,126.00,370.26,336.60,46652.7600,42411.6000,98861.43960000,04/04/2018 @ 12:00:00 AM
-21759,Bonescare,Grori's Deep,30.25,Yellow Mistearth Copper,270.00,287.98,261.80,77754.6000,70686.0000,193343.88150000,04/04/2018 @ 12:00:00 AM
-32734,"Amberslayer, Flora",The Chuallanto Jungle,11.00,Magicians' Legendary Poison Metal,262.00,-52.81,-48.01,-13836.2200,-12578.6200,-29320.47240000,04/04/2018 @ 12:00:00 AM
-7197,"Wind, Maverick",The Bastion of the Lich Tyrant,6.49,Sapphire Mindlead,181.00,-44.77,-40.70,-8103.3700,-7366.7000,-16474.07754300,04/04/2018 @ 12:00:00 AM
-16106,"The Trapper, Boltcrank",North Arcanist's Farthing,2.75,Undeads' Mind Orichalcum Of The Twilight,290.00,1169.00,301.40,339010.0000,87406.0000,438142.44000000,04/04/2018 @ 12:00:00 AM
-28265,"Mistmidnight, Tiger",Bifar's Deep,12.21,Negative Rockglitter Mercury Of Trolls,90.00,235.59,214.17,21203.1000,19275.3000,45420.81264000,04/04/2018 @ 12:00:00 AM
-7517,"Mist, Claw",The Khazahol Crags,20.68,Unicorns' Fatal Magma Metal Of The Ocean,121.00,903.00,23.00,109263.0000,2783.0000,135217.11280000,04/04/2018 @ 12:00:00 AM
-30638,"Lord of Death, Addon",The Broken Arrow,17.60,Foulopal Copper Of The Skies,207.00,221.83,221.83,45918.8100,45918.8100,108001.04112000,04/04/2018 @ 12:00:00 AM
-29616,"Goddess of Fate, Azah",The Citadel of Alammius,32.67,Heavenly Dreamsilver Of The Night,363.00,719.00,314.60,260997.0000,114199.8000,497773.59456000,04/04/2018 @ 12:00:00 AM
-7978,"Goddess of Law, Eumyan",Gawold Castle,10.29,Unknowable Mindsilver,152.00,174.90,174.90,26584.8000,26584.8000,58640.75184000,04/04/2018 @ 12:00:00 AM
-26320,"Goddess of Trickery, Alik",Moor Village,11.32,Tin Of The Tundra,154.00,4121.00,397.25,634634.0000,61176.5000,774576.24860000,04/04/2018 @ 12:00:00 AM
-14986,"Wind, Maverick",The Secret Catacombs of Ulfang the Black,28.82,Angels' Adamant,136.00,51.48,46.80,7001.2800,6364.8000,17218.18425600,04/04/2018 @ 12:00:00 AM
+3862,"Maeglodor, God of Thieves",Arcanist's Farthing,29.00,Forgotten Mithril,180.00,3909.75,451.00,703755.0000,81180.0000,1012566.15000000,04/04/2008 @ 12:00:00 AM
+36567,"Uriel, God of Fate",The Fen of the Necromancer,32.21,Phantasmal Tin Of The Swamps,303.00,405.96,369.05,123005.8800,111822.1500,310466.13846300,04/04/2008 @ 12:00:00 AM
+10291,"Uriel, God of Fate",Archfane District,15.29,Fairies' Supreme Mistsmoke Lead Of The Future,184.00,2622.69,454.30,482574.9600,83591.2000,652732.96586400,04/04/2008 @ 12:00:00 AM
+32290,"Slayer, Claw",The Chuallanto Jungle,11.00,Unspeakable Rotsoul Mithril Of Souls,126.00,370.26,336.60,46652.7600,42411.6000,98861.43960000,04/04/2008 @ 12:00:00 AM
+21759,Bonescare,Grori's Deep,30.25,Yellow Mistearth Copper,270.00,287.98,261.80,77754.6000,70686.0000,193343.88150000,04/04/2008 @ 12:00:00 AM
+32734,"Flora, Amberslayer",The Chuallanto Jungle,11.00,Magicians' Legendary Poison Metal,262.00,-52.81,-48.01,-13836.2200,-12578.6200,-29320.47240000,04/04/2008 @ 12:00:00 AM
+7197,"Maverick, Wind",The Bastion of the Lich Tyrant,6.49,Sapphire Mindlead,181.00,-44.77,-40.70,-8103.3700,-7366.7000,-16474.07754300,04/04/2008 @ 12:00:00 AM
+16106,"Boltcrank, The Trapper",North Arcanist's Farthing,2.75,Undeads' Mind Orichalcum Of The Twilight,290.00,1169.00,301.40,339010.0000,87406.0000,438142.44000000,04/04/2008 @ 12:00:00 AM
+28265,"Tiger, Mistmidnight",Bifar's Deep,12.21,Negative Rockglitter Mercury Of Trolls,90.00,235.59,214.17,21203.1000,19275.3000,45420.81264000,04/04/2008 @ 12:00:00 AM
+7517,"Claw, Mist",The Khazahol Crags,20.68,Unicorns' Fatal Magma Metal Of The Ocean,121.00,903.00,23.00,109263.0000,2783.0000,135217.11280000,04/04/2008 @ 12:00:00 AM
+30638,"Addon, Lord of Death",The Broken Arrow,17.60,Foulopal Copper Of The Skies,207.00,221.83,221.83,45918.8100,45918.8100,108001.04112000,04/04/2008 @ 12:00:00 AM
+29616,"Azah, Goddess of Fate",The Citadel of Alammius,32.67,Heavenly Dreamsilver Of The Night,363.00,719.00,314.60,260997.0000,114199.8000,497773.59456000,04/04/2008 @ 12:00:00 AM
+7978,"Eumyan, Goddess of Law",Gawold Castle,10.29,Unknowable Mindsilver,152.00,174.90,174.90,26584.8000,26584.8000,58640.75184000,04/04/2008 @ 12:00:00 AM
+26320,"Alik, Goddess of Trickery",Moor Village,11.32,Tin Of The Tundra,154.00,4121.00,397.25,634634.0000,61176.5000,774576.24860000,04/04/2008 @ 12:00:00 AM
+14986,"Maverick, Wind",The Secret Catacombs of Ulfang the Black,28.82,Angels' Adamant,136.00,51.48,46.80,7001.2800,6364.8000,17218.18425600,04/04/2008 @ 12:00:00 AM

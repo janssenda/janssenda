@@ -1,25 +1,25 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-3798,"Lord of Animals, Suriel",The Pirate's Pipe,15.40,Unknown Fatelightning Steel Of The Glacier,125.00,119.90,109.00,14987.5000,13625.0000,33018.82500000,08/08/2017 @ 12:00:00 AM
-24508,"Knightseraph, Lance",Bifar's Deep,12.21,Foul Ice Bronze Of Life,131.00,292.82,266.20,38359.4200,34872.2000,82173.20080200,08/08/2017 @ 12:00:00 AM
-37796,"Mistseeker, Grave",The Greedy Wench,13.31,Stone Soulsteel Of The Skies,284.00,453.31,453.31,128740.0400,128740.0400,291750.67864800,08/08/2017 @ 12:00:00 AM
-2797,"God of Animals, Byzou",Cawold Castle,35.00,Vampires' Fang Emeraldsilver,77.00,2033.69,80.84,156594.1300,6224.6800,219805.39350000,08/08/2017 @ 12:00:00 AM
-24964,"God of the Lost, Lionare",The Forsaken Sepulcher of Sorrows,31.36,Foul Ice Bronze Of Life,144.00,292.82,266.20,42166.0800,38332.8000,105743.32876800,08/08/2017 @ 12:00:00 AM
-32131,Metalbrood,Citadel Ward,4.40,Unspeakable Rotsoul Mithril Of Souls,82.00,370.26,336.60,30361.3200,27601.2000,60512.87088000,08/08/2017 @ 12:00:00 AM
-18009,Springsprocket,Kada's Deep,8.42,Shadow Metal,201.00,1606.00,298.00,322806.0000,59898.0000,414927.67680000,08/08/2017 @ 12:00:00 AM
-10917,"Mistmidnight, Tiger",The Chuallanto Jungle,10.00,Phantasmal Smokezephyr Mercury Of Men,110.00,211.20,192.00,23232.0000,21120.0000,48787.20000000,08/08/2017 @ 12:00:00 AM
-19487,"Gust, Shadow",Weke Tower,47.19,Spirits' Living Wordhammer Tin Of The Trees,225.00,141.57,128.70,31853.2500,28957.5000,89507.34292500,08/08/2017 @ 12:00:00 AM
-31202,"Knightclaw, Sunset",The Demon and Toad,-1.21,Fairies' Supreme Mistsmoke Lead Of The Future,294.00,499.73,549.70,146920.6200,161611.8000,304799.17771800,08/08/2017 @ 12:00:00 AM
-32692,"Veil, Bane",Citadel Ward,4.40,Negative Rockglitter Mercury Of Trolls,172.00,235.59,214.17,40521.4800,36837.2400,80762.50368000,08/08/2017 @ 12:00:00 AM
-30258,"Brand, Lightning",The Greedy Wench,13.31,Heavenly Dreamsilver Of The Night,310.00,719.00,314.60,222890.0000,97526.0000,363063.36960000,08/08/2017 @ 12:00:00 AM
-17200,Deathbrood,Gena's Hold,5.85,Plague Tin,182.00,465.25,422.95,84675.5000,76976.9000,171109.06540000,08/08/2017 @ 12:00:00 AM
-7329,"Felldrake, Magus",The Citadel of Tattena the Sinister,22.39,Sapphire Mindlead,295.00,-44.77,-40.70,-13207.1500,-12006.5000,-30858.98623500,08/08/2017 @ 12:00:00 AM
-31717,"Jackalguard, Gale",The Bastion of Gothmog of Udun,-2.66,Warlocks' Timerot Mithril,250.00,194.65,194.65,48662.5000,48662.5000,94736.15500000,08/08/2017 @ 12:00:00 AM
-29579,"Lawslayer, Valentine",Bifar's Deep,12.21,Stone Soulsteel Of The Skies,237.00,453.31,412.10,107434.4700,97667.7000,230145.14495700,08/08/2017 @ 12:00:00 AM
-8910,"Seeker, Fate",The Lost Sanctum of Woe,43.20,Meteoric Mirrormuck Orichalcum Of The Forests,231.00,491.62,368.50,113564.2200,85123.5000,284520.81504000,08/08/2017 @ 12:00:00 AM
-8984,"Amberslayer, Flora",The Black Barrow of Bery,19.80,Primordial Plague Mercury Of Legend,142.00,1150.79,67.00,163412.1800,9514.0000,207165.56364000,08/08/2017 @ 12:00:00 AM
-4033,"Knightseraph, Lance",The Fortress of Akkun the Grim,27.03,Timeiron,339.00,3255.00,-14.77,1103445.0000,-5007.0300,1395345.75329100,08/08/2017 @ 12:00:00 AM
-4171,"Roguemist, Rouge",Noble's Village,4.49,Timeiron,118.00,3255.00,-14.77,384090.0000,-1742.8600,399514.52658600,08/08/2017 @ 12:00:00 AM
-28746,"Godwarlock, Sunrise",The Bastion of the Vampire Duke,45.86,Vampires' Fang Emeraldsilver,243.00,2033.69,80.84,494186.6700,19644.1200,749473.59029400,08/08/2017 @ 12:00:00 AM
-26576,"The Evil, Burnchill",Citadel Ward,4.40,Shadowhell Mithril,211.00,462.21,420.19,97526.3100,88660.0900,194378.60160000,08/08/2017 @ 12:00:00 AM
-13267,"Amberslayer, Flora",The Citadel of Alammius,27.00,Starsmoke Bronze Of Life,180.00,-438.00,420.81,-78840.0000,75745.8000,-3929.63400000,08/08/2017 @ 12:00:00 AM
-37584,"The Frigid, Icechill",The Greedy Wench,13.31,Ghouls' Imperial Soulzephyr Mithril Of The Seas,239.00,318.23,318.23,76056.9700,76056.9700,172360.30541400,08/08/2017 @ 12:00:00 AM
+3798,"Lord of Animals, Suriel",The Pirate's Pipe,15.40,Unknown Fatelightning Steel Of The Glacier,125.00,119.90,109.00,14987.5000,13625.0000,33018.82500000,08/08/1947 @ 12:00:00 AM
+24508,"Knightseraph, Lance",Bifar's Deep,12.21,Foul Ice Bronze Of Life,131.00,292.82,266.20,38359.4200,34872.2000,82173.20080200,08/08/1947 @ 12:00:00 AM
+37796,"Mistseeker, Grave",The Greedy Wench,13.31,Stone Soulsteel Of The Skies,284.00,453.31,453.31,128740.0400,128740.0400,291750.67864800,08/08/1947 @ 12:00:00 AM
+2797,"God of Animals, Byzou",Cawold Castle,35.00,Vampires' Fang Emeraldsilver,77.00,2033.69,80.84,156594.1300,6224.6800,219805.39350000,08/08/1947 @ 12:00:00 AM
+24964,"God of the Lost, Lionare",The Forsaken Sepulcher of Sorrows,31.36,Foul Ice Bronze Of Life,144.00,292.82,266.20,42166.0800,38332.8000,105743.32876800,08/08/1947 @ 12:00:00 AM
+32131,Metalbrood,Citadel Ward,4.40,Unspeakable Rotsoul Mithril Of Souls,82.00,370.26,336.60,30361.3200,27601.2000,60512.87088000,08/08/1947 @ 12:00:00 AM
+18009,Springsprocket,Kada's Deep,8.42,Shadow Metal,201.00,1606.00,298.00,322806.0000,59898.0000,414927.67680000,08/08/1947 @ 12:00:00 AM
+10917,"Mistmidnight, Tiger",The Chuallanto Jungle,10.00,Phantasmal Smokezephyr Mercury Of Men,110.00,211.20,192.00,23232.0000,21120.0000,48787.20000000,08/08/1947 @ 12:00:00 AM
+19487,"Gust, Shadow",Weke Tower,47.19,Spirits' Living Wordhammer Tin Of The Trees,225.00,141.57,128.70,31853.2500,28957.5000,89507.34292500,08/08/1947 @ 12:00:00 AM
+31202,"Knightclaw, Sunset",The Demon and Toad,-1.21,Fairies' Supreme Mistsmoke Lead Of The Future,294.00,499.73,549.70,146920.6200,161611.8000,304799.17771800,08/08/1947 @ 12:00:00 AM
+32692,"Veil, Bane",Citadel Ward,4.40,Negative Rockglitter Mercury Of Trolls,172.00,235.59,214.17,40521.4800,36837.2400,80762.50368000,08/08/1947 @ 12:00:00 AM
+30258,"Brand, Lightning",The Greedy Wench,13.31,Heavenly Dreamsilver Of The Night,310.00,719.00,314.60,222890.0000,97526.0000,363063.36960000,08/08/1947 @ 12:00:00 AM
+17200,Deathbrood,Gena's Hold,5.85,Plague Tin,182.00,465.25,422.95,84675.5000,76976.9000,171109.06540000,08/08/1947 @ 12:00:00 AM
+7329,"Felldrake, Magus",The Citadel of Tattena the Sinister,22.39,Sapphire Mindlead,295.00,-44.77,-40.70,-13207.1500,-12006.5000,-30858.98623500,08/08/1947 @ 12:00:00 AM
+31717,"Jackalguard, Gale",The Bastion of Gothmog of Udun,-2.66,Warlocks' Timerot Mithril,250.00,194.65,194.65,48662.5000,48662.5000,94736.15500000,08/08/1947 @ 12:00:00 AM
+29579,"Lawslayer, Valentine",Bifar's Deep,12.21,Stone Soulsteel Of The Skies,237.00,453.31,412.10,107434.4700,97667.7000,230145.14495700,08/08/1947 @ 12:00:00 AM
+8910,"Seeker, Fate",The Lost Sanctum of Woe,43.20,Meteoric Mirrormuck Orichalcum Of The Forests,231.00,491.62,368.50,113564.2200,85123.5000,284520.81504000,08/08/1947 @ 12:00:00 AM
+8984,"Amberslayer, Flora",The Black Barrow of Bery,19.80,Primordial Plague Mercury Of Legend,142.00,1150.79,67.00,163412.1800,9514.0000,207165.56364000,08/08/1947 @ 12:00:00 AM
+4033,"Knightseraph, Lance",The Fortress of Akkun the Grim,27.03,Timeiron,339.00,3255.00,-14.77,1103445.0000,-5007.0300,1395345.75329100,08/08/1947 @ 12:00:00 AM
+4171,"Roguemist, Rouge",Noble's Village,4.49,Timeiron,118.00,3255.00,-14.77,384090.0000,-1742.8600,399514.52658600,08/08/1947 @ 12:00:00 AM
+28746,"Godwarlock, Sunrise",The Bastion of the Vampire Duke,45.86,Vampires' Fang Emeraldsilver,243.00,2033.69,80.84,494186.6700,19644.1200,749473.59029400,08/08/1947 @ 12:00:00 AM
+26576,"The Evil, Burnchill",Citadel Ward,4.40,Shadowhell Mithril,211.00,462.21,420.19,97526.3100,88660.0900,194378.60160000,08/08/1947 @ 12:00:00 AM
+13267,"Amberslayer, Flora",The Citadel of Alammius,27.00,Starsmoke Bronze Of Life,180.00,-438.00,420.81,-78840.0000,75745.8000,-3929.63400000,08/08/1947 @ 12:00:00 AM
+37584,"The Frigid, Icechill",The Greedy Wench,13.31,Ghouls' Imperial Soulzephyr Mithril Of The Seas,239.00,318.23,318.23,76056.9700,76056.9700,172360.30541400,08/08/1947 @ 12:00:00 AM

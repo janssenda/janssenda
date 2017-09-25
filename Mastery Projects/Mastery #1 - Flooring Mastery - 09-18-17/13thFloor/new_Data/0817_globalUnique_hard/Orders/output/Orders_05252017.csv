@@ -1,19 +1,19 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-12560,Bolttrap,Gili's Delve,35.89,Djinni's Mind Fogiron,215.00,57.23,52.03,12304.4500,11186.4500,31921.78401000,05/25/2017 @ 12:00:00 AM
-35475,"God of Luck, Ariel",The Nulukkhath Spires,28.99,Violetdream Iron,209.00,502.13,502.13,104945.1700,104945.1700,270737.54956600,05/25/2017 @ 12:00:00 AM
-10166,Gravebone,Castle Village,39.07,Emerald Orichalcum,222.00,1957.00,118.01,434454.0000,26198.2200,640629.04235400,05/25/2017 @ 12:00:00 AM
-36962,Spikerivet,The Fen of the Necromancer,32.21,Grayplatinum,189.00,2548.00,115.43,481572.0000,21816.2700,665529.63176700,05/25/2017 @ 12:00:00 AM
-10597,"Goddess of Law, Eumyan",The Chuallanto Jungle,10.00,Fairies' Supreme Mistsmoke Lead Of The Future,182.00,2622.69,454.30,477329.5800,82682.6000,616013.39800000,05/25/2017 @ 12:00:00 AM
-19357,"Mist, Claw",Gifeld Castle,33.01,Vampires' Fang Emeraldsilver,200.00,2033.69,80.84,406738.0000,16168.0000,562507.27060000,05/25/2017 @ 12:00:00 AM
-20564,"Darkzealot, Dawn",Kada's Deep,8.42,Unknowable Mindsilver,151.00,174.90,174.90,26409.9000,26409.9000,57267.22716000,05/25/2017 @ 12:00:00 AM
-8254,"The Freezer, Shiverflame",Lamp Borough,0.00,Starsmoke Bronze Of Life,144.00,-438.00,420.81,-63072.0000,60596.6400,-2475.36000000,05/25/2017 @ 12:00:00 AM
-19867,"Lonedrake, Clash",The Demon and Toad,-1.10,Unknowable Mindsilver,130.00,174.90,174.90,22737.0000,22737.0000,44973.78600000,05/25/2017 @ 12:00:00 AM
-29443,"The Evil, Burnchill",The Citadel of Alammius,32.67,Fleshshock Mercury,197.00,-31.02,-28.20,-6110.9400,-5555.4000,-15477.73327800,05/25/2017 @ 12:00:00 AM
-543,"The Firey, Evilember",Bergfison's Deep,16.00,Warlocks' Timerot Mithril,351.00,725.00,176.95,254475.0000,62109.4500,367237.96200000,05/25/2017 @ 12:00:00 AM
-654,"Goddess of the Earth, Gono",The Beggar and Cask,25.10,Swordbronze,216.00,-377.00,303.00,-81432.0000,65448.0000,-19995.98400000,05/25/2017 @ 12:00:00 AM
-31902,"Mist, Claw",Noble's Village,6.57,Pearl Mirrorice Steel Of Changelings,243.00,365.42,365.42,88797.0600,88797.0600,189262.05368400,05/25/2017 @ 12:00:00 AM
-16537,"Drakecaster, Sephiroth",Reyny Keep,-3.35,Vampires' Hammer Emeraldmetal,245.00,77.44,77.44,18972.8000,18972.8000,36674.42240000,05/25/2017 @ 12:00:00 AM
-15325,"Runetomb, Song",The Dungeon of Merciless Woe,3.61,Starsmoke Bronze Of Life,98.00,-438.00,420.81,-42924.0000,41239.3800,-1745.43478200,05/25/2017 @ 12:00:00 AM
-27884,"Squallmourner, Storm",The Bastion of Gothmog of Udun,-2.42,Vampires' Hammer Emeraldmetal,301.00,93.70,85.18,28203.7000,25639.1800,52539.88230400,05/25/2017 @ 12:00:00 AM
-4726,"Darkzealot, Dawn",Bergfison's Deep,16.00,Yellow Mistearth Copper,289.00,3587.00,261.80,1036643.0000,75660.2000,1290271.71200000,05/25/2017 @ 12:00:00 AM
-4897,"Mistseeker, Grave",Dysley Stronghold,32.28,Sirens' Rockgold,255.00,306.13,278.30,78063.1500,70966.5000,197136.42102000,05/25/2017 @ 12:00:00 AM
+12560,Bolttrap,Gili's Delve,35.89,Djinni's Mind Fogiron,215.00,57.23,52.03,12304.4500,11186.4500,31921.78401000,05/25/2007 @ 12:00:00 AM
+35475,"Ariel, God of Luck",The Nulukkhath Spires,28.99,Violetdream Iron,209.00,502.13,502.13,104945.1700,104945.1700,270737.54956600,05/25/2007 @ 12:00:00 AM
+10166,Gravebone,Castle Village,39.07,Emerald Orichalcum,222.00,1957.00,118.01,434454.0000,26198.2200,640629.04235400,05/25/2007 @ 12:00:00 AM
+36962,Spikerivet,The Fen of the Necromancer,32.21,Grayplatinum,189.00,2548.00,115.43,481572.0000,21816.2700,665529.63176700,05/25/2007 @ 12:00:00 AM
+10597,"Eumyan, Goddess of Law",The Chuallanto Jungle,10.00,Fairies' Supreme Mistsmoke Lead Of The Future,182.00,2622.69,454.30,477329.5800,82682.6000,616013.39800000,05/25/2007 @ 12:00:00 AM
+19357,"Claw, Mist",Gifeld Castle,33.01,Vampires' Fang Emeraldsilver,200.00,2033.69,80.84,406738.0000,16168.0000,562507.27060000,05/25/2007 @ 12:00:00 AM
+20564,"Dawn, Darkzealot",Kada's Deep,8.42,Unknowable Mindsilver,151.00,174.90,174.90,26409.9000,26409.9000,57267.22716000,05/25/2007 @ 12:00:00 AM
+8254,"Shiverflame, The Freezer",Lamp Borough,0.00,Starsmoke Bronze Of Life,144.00,-438.00,420.81,-63072.0000,60596.6400,-2475.36000000,05/25/2007 @ 12:00:00 AM
+19867,"Clash, Lonedrake",The Demon and Toad,-1.10,Unknowable Mindsilver,130.00,174.90,174.90,22737.0000,22737.0000,44973.78600000,05/25/2007 @ 12:00:00 AM
+29443,"Burnchill, The Evil",The Citadel of Alammius,32.67,Fleshshock Mercury,197.00,-31.02,-28.20,-6110.9400,-5555.4000,-15477.73327800,05/25/2007 @ 12:00:00 AM
+543,"Evilember, The Firey",Bergfison's Deep,16.00,Warlocks' Timerot Mithril,351.00,725.00,176.95,254475.0000,62109.4500,367237.96200000,05/25/2007 @ 12:00:00 AM
+654,"Gono, Goddess of the Earth",The Beggar and Cask,25.10,Swordbronze,216.00,-377.00,303.00,-81432.0000,65448.0000,-19995.98400000,05/25/2007 @ 12:00:00 AM
+31902,"Claw, Mist",Noble's Village,6.57,Pearl Mirrorice Steel Of Changelings,243.00,365.42,365.42,88797.0600,88797.0600,189262.05368400,05/25/2007 @ 12:00:00 AM
+16537,"Sephiroth, Drakecaster",Reyny Keep,-3.35,Vampires' Hammer Emeraldmetal,245.00,77.44,77.44,18972.8000,18972.8000,36674.42240000,05/25/2007 @ 12:00:00 AM
+15325,"Song, Runetomb",The Dungeon of Merciless Woe,3.61,Starsmoke Bronze Of Life,98.00,-438.00,420.81,-42924.0000,41239.3800,-1745.43478200,05/25/2007 @ 12:00:00 AM
+27884,"Storm, Squallmourner",The Bastion of Gothmog of Udun,-2.42,Vampires' Hammer Emeraldmetal,301.00,93.70,85.18,28203.7000,25639.1800,52539.88230400,05/25/2007 @ 12:00:00 AM
+4726,"Dawn, Darkzealot",Bergfison's Deep,16.00,Yellow Mistearth Copper,289.00,3587.00,261.80,1036643.0000,75660.2000,1290271.71200000,05/25/2007 @ 12:00:00 AM
+4897,"Grave, Mistseeker",Dysley Stronghold,32.28,Sirens' Rockgold,255.00,306.13,278.30,78063.1500,70966.5000,197136.42102000,05/25/2007 @ 12:00:00 AM

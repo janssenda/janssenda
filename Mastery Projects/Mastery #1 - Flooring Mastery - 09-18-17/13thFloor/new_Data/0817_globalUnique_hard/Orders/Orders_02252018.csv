@@ -1,19 +1,19 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-12687,"Dire, Wind",Bergfison's Deep,16.00,Vampires' Fang Emeraldsilver,251.00,2033.69,80.84,510456.1900,20290.8400,615666.55480000,02/25/2018 @ 12:00:00 AM
-11532,Gravebone,The Fortress of Asmamur,-2.42,Pearl Mirrorice Steel Of Changelings,266.00,2996.00,302.00,796936.0000,80332.0000,856038.11440000,02/25/2018 @ 12:00:00 AM
-35582,Emberspawn,The Nulukkhath Spires,28.99,Lycanthropes' Gold,173.00,449.88,408.98,77829.2400,70753.5400,191656.92792200,02/25/2018 @ 12:00:00 AM
-1789,"God of Death, Selik",The Warrior and Flagon,9.00,Ghostly Magic Adamant,236.00,49.50,45.00,11682.0000,10620.0000,24309.18000000,02/25/2018 @ 12:00:00 AM
-10681,"Runetomb, Song",The Dungeon of Dismal Terror,44.30,Phantasmal Smokezephyr Mercury Of Men,176.00,211.20,192.00,37171.2000,33792.0000,102399.89760000,02/25/2018 @ 12:00:00 AM
-33485,"The Cremator, Blazeflare",Pewold Keep,29.00,Undeads' Mind Orichalcum Of The Twilight,114.00,1169.00,364.69,133266.0000,41574.6600,225544.45140000,02/25/2018 @ 12:00:00 AM
-10842,"Goddess of Trickery, Alik",The Secret Shrine of the Gargoyle Count,21.75,Fairies' Supreme Mistsmoke Lead Of The Future,31.00,2622.69,454.30,81303.3900,14083.3000,116133.29507500,02/25/2018 @ 12:00:00 AM
-9228,"Godseeker, Cult",Barad Kesa,5.10,Primordial Plague Mercury Of Legend,187.00,1150.79,67.00,215197.7300,12529.0000,239340.79323000,02/25/2018 @ 12:00:00 AM
-7144,"Runetomb, Song",The Bastion of the Vampire Duke,34.45,Swordbronze,203.00,333.30,303.00,67659.9000,61509.0000,173667.58605000,02/25/2018 @ 12:00:00 AM
-588,Graveterror,The Bastion of Sthasu the Gruesome,40.00,Phantasmal Smokezephyr Mercury Of Men,395.00,1330.00,192.00,525350.0000,75840.0000,841666.00000000,02/25/2018 @ 12:00:00 AM
-17672,"Goddess of Trickery, Alik",The Bastion of the Vampire Duke,37.90,Mithril Of The Tropics,367.00,276.72,251.56,101556.2400,92322.5200,267358.81004000,02/25/2018 @ 12:00:00 AM
-16591,"Knightseraph, Lance",North Arcanist's Farthing,2.75,Swordbronze,286.00,333.30,303.00,95323.8000,86658.0000,186986.29950000,02/25/2018 @ 12:00:00 AM
-17954,"Goddess of Law, Eumyan",Kada's Deep,8.42,Shadow Metal,74.00,1606.00,298.00,118844.0000,22052.0000,152759.44320000,02/25/2018 @ 12:00:00 AM
-29996,"Angelchild, Harmony",The Tower of Sabiesu the Awesome,10.00,Incubi's Glittering Tin Of The Future,231.00,192.96,233.49,44573.7600,53936.1900,108360.94500000,02/25/2018 @ 12:00:00 AM
-15513,"Lawslayer, Valentine",The Tower of Aramum,20.00,Starsmoke Bronze Of Life,251.00,-438.00,420.81,-109938.0000,105623.3100,-5177.62800000,02/25/2018 @ 12:00:00 AM
-13200,"Felldrake, Magus",Gifeld Castle,30.01,Nymphs' Luminous Rotmercury Of The Skies,241.00,335.50,369.05,80855.5000,88941.0500,220752.49465500,02/25/2018 @ 12:00:00 AM
-2023,"Lonedrake, Clash",The Broken Arrow,16.00,Spirits' Living Wordhammer Tin Of The Trees,34.00,3897.55,117.00,132516.7000,3978.0000,158333.85200000,02/25/2018 @ 12:00:00 AM
-25626,"Goddess of Travel, Lenwenye",The Pirate's Pipe,16.94,Mithril Of The Tropics,136.00,276.72,276.72,37633.9200,37633.9200,88018.21209600,02/25/2018 @ 12:00:00 AM
+12687,"Wind, Dire",Bergfison's Deep,16.00,Vampires' Fang Emeraldsilver,251.00,2033.69,80.84,510456.1900,20290.8400,615666.55480000,02/25/2008 @ 12:00:00 AM
+11532,Gravebone,The Fortress of Asmamur,-2.42,Pearl Mirrorice Steel Of Changelings,266.00,2996.00,302.00,796936.0000,80332.0000,856038.11440000,02/25/2008 @ 12:00:00 AM
+35582,Emberspawn,The Nulukkhath Spires,28.99,Lycanthropes' Gold,173.00,449.88,408.98,77829.2400,70753.5400,191656.92792200,02/25/2008 @ 12:00:00 AM
+1789,"Selik, God of Death",The Warrior and Flagon,9.00,Ghostly Magic Adamant,236.00,49.50,45.00,11682.0000,10620.0000,24309.18000000,02/25/2008 @ 12:00:00 AM
+10681,"Song, Runetomb",The Dungeon of Dismal Terror,44.30,Phantasmal Smokezephyr Mercury Of Men,176.00,211.20,192.00,37171.2000,33792.0000,102399.89760000,02/25/2008 @ 12:00:00 AM
+33485,"Blazeflare, The Cremator",Pewold Keep,29.00,Undeads' Mind Orichalcum Of The Twilight,114.00,1169.00,364.69,133266.0000,41574.6600,225544.45140000,02/25/2008 @ 12:00:00 AM
+10842,"Alik, Goddess of Trickery",The Secret Shrine of the Gargoyle Count,21.75,Fairies' Supreme Mistsmoke Lead Of The Future,31.00,2622.69,454.30,81303.3900,14083.3000,116133.29507500,02/25/2008 @ 12:00:00 AM
+9228,"Cult, Godseeker",Barad Kesa,5.10,Primordial Plague Mercury Of Legend,187.00,1150.79,67.00,215197.7300,12529.0000,239340.79323000,02/25/2008 @ 12:00:00 AM
+7144,"Song, Runetomb",The Bastion of the Vampire Duke,34.45,Swordbronze,203.00,333.30,303.00,67659.9000,61509.0000,173667.58605000,02/25/2008 @ 12:00:00 AM
+588,Graveterror,The Bastion of Sthasu the Gruesome,40.00,Phantasmal Smokezephyr Mercury Of Men,395.00,1330.00,192.00,525350.0000,75840.0000,841666.00000000,02/25/2008 @ 12:00:00 AM
+17672,"Alik, Goddess of Trickery",The Bastion of the Vampire Duke,37.90,Mithril Of The Tropics,367.00,276.72,251.56,101556.2400,92322.5200,267358.81004000,02/25/2008 @ 12:00:00 AM
+16591,"Lance, Knightseraph",North Arcanist's Farthing,2.75,Swordbronze,286.00,333.30,303.00,95323.8000,86658.0000,186986.29950000,02/25/2008 @ 12:00:00 AM
+17954,"Eumyan, Goddess of Law",Kada's Deep,8.42,Shadow Metal,74.00,1606.00,298.00,118844.0000,22052.0000,152759.44320000,02/25/2008 @ 12:00:00 AM
+29996,"Harmony, Angelchild",The Tower of Sabiesu the Awesome,10.00,Incubi's Glittering Tin Of The Future,231.00,192.96,233.49,44573.7600,53936.1900,108360.94500000,02/25/2008 @ 12:00:00 AM
+15513,"Valentine, Lawslayer",The Tower of Aramum,20.00,Starsmoke Bronze Of Life,251.00,-438.00,420.81,-109938.0000,105623.3100,-5177.62800000,02/25/2008 @ 12:00:00 AM
+13200,"Magus, Felldrake",Gifeld Castle,30.01,Nymphs' Luminous Rotmercury Of The Skies,241.00,335.50,369.05,80855.5000,88941.0500,220752.49465500,02/25/2008 @ 12:00:00 AM
+2023,"Clash, Lonedrake",The Broken Arrow,16.00,Spirits' Living Wordhammer Tin Of The Trees,34.00,3897.55,117.00,132516.7000,3978.0000,158333.85200000,02/25/2008 @ 12:00:00 AM
+25626,"Lenwenye, Goddess of Travel",The Pirate's Pipe,16.94,Mithril Of The Tropics,136.00,276.72,276.72,37633.9200,37633.9200,88018.21209600,02/25/2008 @ 12:00:00 AM

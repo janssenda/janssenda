@@ -1,20 +1,20 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-2502,"Rougehate, Rune",Noble's Village,4.49,Tin Of The Tundra,180.00,4121.00,328.31,741780.0000,59095.8000,836835.12342000,04/25/2018 @ 12:00:00 AM
-1271,"Squallmourner, Storm",The Shadow Downs,34.00,Violetstone Tin Of Death,309.00,2091.85,19.00,646381.6500,5871.0000,874018.55100000,04/25/2018 @ 12:00:00 AM
-3981,Bronzespawn,The Fortress of Gama,3.00,Forgotten Mithril,194.00,3909.75,451.00,758491.5000,87494.0000,871365.06500000,04/25/2018 @ 12:00:00 AM
-11692,"The Skeletal, Spiketerror",The Fortress of Asmamur,-2.42,Pearl Mirrorice Steel Of Changelings,208.00,2996.00,302.00,623168.0000,62816.0000,669383.18720000,04/25/2018 @ 12:00:00 AM
-35855,"Lord of Death, Addon",The Nulukkhath Spires,28.99,Lycanthropes' Gold,109.00,449.88,408.98,49036.9200,44578.8200,120754.94302600,04/25/2018 @ 12:00:00 AM
-22624,"The Chiller, Chillfire",Pewold Keep,29.00,Violetdream Iron,122.00,502.13,456.48,61259.8600,55690.5600,150866.04180000,04/25/2018 @ 12:00:00 AM
-21521,"Tsunami, Seraphim",The Bastion of Gothmog of Udun,-2.42,Starsmoke Bronze Of Life,246.00,-438.00,420.81,-107748.0000,103519.2600,-4126.40449200,04/25/2018 @ 12:00:00 AM
-34938,"Lord of Death, Addon",The Bastion of the Vampire Duke,45.86,Yellow Mistearth Copper,72.00,287.98,261.80,20734.5600,18849.6000,57737.45577600,04/25/2018 @ 12:00:00 AM
-8098,"God of Death, Avriel",The Grey Plains,39.19,Lycanthropes' Gold,114.00,371.80,338.00,42385.2000,38532.0000,112628.65068000,04/25/2018 @ 12:00:00 AM
-29013,Freezebrood,The Citadel of Alammius,32.67,Fleshshock Mercury,256.00,-31.02,-28.20,-7941.1200,-7219.2000,-20113.19654400,04/25/2018 @ 12:00:00 AM
-33941,"Gust, Shadow",Mahyrst Keep,31.30,Primordial Plague Mercury Of Legend,59.00,73.70,67.00,4348.3000,3953.0000,10899.60690000,04/25/2018 @ 12:00:00 AM
-17577,"Godwarlock, Sunrise",Kada's Deep,8.42,Trolls' Rubymercury Of The Sunset,233.00,487.30,487.30,113540.9000,113540.9000,246202.08756000,04/25/2018 @ 12:00:00 AM
-15625,"Seeker, Fate",The Fortress of Asmamur,-2.66,Imperial Fate Steel,259.00,419.10,381.00,108546.9000,98679.0000,201713.69106000,04/25/2018 @ 12:00:00 AM
-3188,"Squallmourner, Storm",The Khazahol Crags,20.68,Witchs' Forbidden Rockrainbow Bronze,300.00,4207.35,223.30,1262205.0000,66990.0000,1604072.52600000,04/25/2018 @ 12:00:00 AM
-27925,"Goddess of Fate, Azah",The Bastion of Gothmog of Udun,-2.42,Vampires' Hammer Emeraldmetal,157.00,93.70,85.18,14710.9000,13373.2600,27404.52332800,04/25/2018 @ 12:00:00 AM
-14598,"The Chiller, Blazefreeze",The Archer and Scroll,49.68,Imperial Fate Steel,203.00,419.10,381.00,85077.3000,77343.0000,243110.70504000,04/25/2018 @ 12:00:00 AM
-13317,Spikespawn,The Hunter and Rose,39.60,Pearl Mirrorice Steel Of Changelings,205.00,332.20,302.00,68101.0000,61910.0000,181495.35600000,04/25/2018 @ 12:00:00 AM
-37443,"The Machine, Wheelbolt",The Greedy Wench,13.31,Stone Soulsteel Of The Skies,197.00,453.31,453.31,89302.0700,89302.0700,202376.35103400,04/25/2018 @ 12:00:00 AM
-36267,"Lonedrake, Clash",The Fen of the Necromancer,32.21,Heavenly Dreamsilver Of The Night,192.00,719.00,346.06,138048.0000,66443.5200,270358.23859200,04/25/2018 @ 12:00:00 AM
+2502,"Rougehate, Rune",Noble's Village,4.49,Tin Of The Tundra,180.00,4121.00,328.31,741780.0000,59095.8000,836835.12342000,04/25/1948 @ 12:00:00 AM
+1271,"Squallmourner, Storm",The Shadow Downs,34.00,Violetstone Tin Of Death,309.00,2091.85,19.00,646381.6500,5871.0000,874018.55100000,04/25/1978 @ 12:00:00 AM
+3981,Bronzespawn,The Fortress of Gama,3.00,Forgotten Mithril,194.00,3909.75,451.00,758491.5000,87494.0000,871365.06500000,04/25/1978 @ 12:00:00 AM
+11692,"The Skeletal, Spiketerror",The Fortress of Asmamur,-2.42,Pearl Mirrorice Steel Of Changelings,208.00,2996.00,302.00,623168.0000,62816.0000,669383.18720000,04/25/1948 @ 12:00:00 AM
+35855,"Lord of Death, Addon",The Nulukkhath Spires,28.99,Lycanthropes' Gold,109.00,449.88,408.98,49036.9200,44578.8200,120754.94302600,04/25/1948 @ 12:00:00 AM
+22624,"The Chiller, Chillfire",Pewold Keep,29.00,Violetdream Iron,122.00,502.13,456.48,61259.8600,55690.5600,150866.04180000,04/25/1978 @ 12:00:00 AM
+21521,"Tsunami, Seraphim",The Bastion of Gothmog of Udun,-2.42,Starsmoke Bronze Of Life,246.00,-438.00,420.81,-107748.0000,103519.2600,-4126.40449200,04/25/1948 @ 12:00:00 AM
+34938,"Lord of Death, Addon",The Bastion of the Vampire Duke,45.86,Yellow Mistearth Copper,72.00,287.98,261.80,20734.5600,18849.6000,57737.45577600,04/25/1978 @ 12:00:00 AM
+8098,"God of Death, Avriel",The Grey Plains,39.19,Lycanthropes' Gold,114.00,371.80,338.00,42385.2000,38532.0000,112628.65068000,04/25/1948 @ 12:00:00 AM
+29013,Freezebrood,The Citadel of Alammius,32.67,Fleshshock Mercury,256.00,-31.02,-28.20,-7941.1200,-7219.2000,-20113.19654400,04/25/1948 @ 12:00:00 AM
+33941,"Gust, Shadow",Mahyrst Keep,31.30,Primordial Plague Mercury Of Legend,59.00,73.70,67.00,4348.3000,3953.0000,10899.60690000,04/25/1948 @ 12:00:00 AM
+17577,"Godwarlock, Sunrise",Kada's Deep,8.42,Trolls' Rubymercury Of The Sunset,233.00,487.30,487.30,113540.9000,113540.9000,246202.08756000,04/25/1948 @ 12:00:00 AM
+15625,"Seeker, Fate",The Fortress of Asmamur,-2.66,Imperial Fate Steel,259.00,419.10,381.00,108546.9000,98679.0000,201713.69106000,04/25/1948 @ 12:00:00 AM
+3188,"Squallmourner, Storm",The Khazahol Crags,20.68,Witchs' Forbidden Rockrainbow Bronze,300.00,4207.35,223.30,1262205.0000,66990.0000,1604072.52600000,04/25/1948 @ 12:00:00 AM
+27925,"Goddess of Fate, Azah",The Bastion of Gothmog of Udun,-2.42,Vampires' Hammer Emeraldmetal,157.00,93.70,85.18,14710.9000,13373.2600,27404.52332800,04/25/1948 @ 12:00:00 AM
+14598,"The Chiller, Blazefreeze",The Archer and Scroll,49.68,Imperial Fate Steel,203.00,419.10,381.00,85077.3000,77343.0000,243110.70504000,04/25/1948 @ 12:00:00 AM
+13317,Spikespawn,The Hunter and Rose,39.60,Pearl Mirrorice Steel Of Changelings,205.00,332.20,302.00,68101.0000,61910.0000,181495.35600000,04/25/1948 @ 12:00:00 AM
+37443,"The Machine, Wheelbolt",The Greedy Wench,13.31,Stone Soulsteel Of The Skies,197.00,453.31,453.31,89302.0700,89302.0700,202376.35103400,04/25/1948 @ 12:00:00 AM
+36267,"Lonedrake, Clash",The Fen of the Necromancer,32.21,Heavenly Dreamsilver Of The Night,192.00,719.00,346.06,138048.0000,66443.5200,270358.23859200,04/25/1948 @ 12:00:00 AM

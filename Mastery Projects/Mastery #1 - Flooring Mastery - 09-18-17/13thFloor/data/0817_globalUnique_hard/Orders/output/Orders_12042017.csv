@@ -1,19 +1,19 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-25683,"The Evil, Snowflame",The Fortress of the Lich Queen,20.72,Negative Rockglitter Mercury Of Trolls,205.00,235.59,214.17,48295.9500,43904.8500,111304.80576000,12/04/2017 @ 12:00:00 AM
-35423,"Wolf, Jericho",The Fen of the Necromancer,32.21,Violetdream Iron,243.00,502.13,502.13,122017.5900,122017.5900,322638.91147800,12/04/2017 @ 12:00:00 AM
-23926,"Felldrake, Magus",The Lewd King,45.98,Tritons' Time Stoneiron Of Legend,40.00,341.59,375.75,13663.6000,15030.0000,41886.91728000,12/04/2017 @ 12:00:00 AM
-33361,"Spiritraven, Bedlam",Pewold Keep,29.00,Forgotten Mithril,18.00,600.28,545.71,10805.0400,9822.7800,26609.88780000,12/04/2017 @ 12:00:00 AM
-9178,Chainnail,The Tomb of Hellish Ruin,33.00,Planar Mudtin Of Trolls,200.00,191.40,174.00,38280.0000,34800.0000,97196.40000000,12/04/2017 @ 12:00:00 AM
-8141,"The Firey, Evilember",The Drunken Thief,18.41,Zephyr Adamant,265.00,481.77,-44.14,127669.0500,-11697.1000,137322.38599500,12/04/2017 @ 12:00:00 AM
-9567,Bronzespawn,The Fortress of the Lich Queen,17.13,Angels' Adamant,215.00,51.48,46.80,11068.2000,10062.0000,24749.80326000,12/04/2017 @ 12:00:00 AM
-19621,"Mistmidnight, Tiger",Gifeld Castle,33.01,Golems' Stonesapphire Gold Of The Glacier,178.00,176.00,160.00,31328.0000,28480.0000,79550.62080000,12/04/2017 @ 12:00:00 AM
-32965,Springcoil,The Archer and Scroll,60.12,Undeads' Mind Orichalcum Of The Twilight,108.00,1169.00,364.69,126252.0000,39386.5200,265220.39822400,12/04/2017 @ 12:00:00 AM
-29674,Cinderflame,The Greedy Wench,13.31,Swordbronze,168.00,403.29,366.63,67752.7200,61593.8400,146562.58713600,12/04/2017 @ 12:00:00 AM
-17889,"The Grasping, Nettool",The Bastion of the Vampire Duke,37.90,Mithril Of The Tropics,226.00,276.72,251.56,62538.7200,56852.5600,164640.57512000,12/04/2017 @ 12:00:00 AM
-15451,"The Constructed, Snaretool",The Tower of Aramum,20.00,Golems' Stonesapphire Gold Of The Glacier,305.00,176.00,160.00,53680.0000,48800.0000,122976.00000000,12/04/2017 @ 12:00:00 AM
-26280,"Goddess of Trickery, Alik",Moor Village,11.32,Toxic Mistlead Of The Past,228.00,396.06,396.06,90301.6800,90301.6800,201047.66035200,12/04/2017 @ 12:00:00 AM
-5779,"Mist, Claw",The Warrior and Flagon,9.00,Mithril Of Legend,253.00,169.17,186.09,42800.0100,47080.7700,97970.05020000,12/04/2017 @ 12:00:00 AM
-25103,"The Machine, Wheelbolt",The Fortress of Akkun the Grim,27.03,Djinni's Mind Fogiron,267.00,57.23,57.23,15280.4100,15280.4100,38821.40964600,12/04/2017 @ 12:00:00 AM
-25342,"The Blade, Scarefear",Weke Tower,47.19,Mind Lead,255.00,241.00,219.09,61455.0000,55867.9500,172687.65010500,12/04/2017 @ 12:00:00 AM
-14914,"The Machine, Evilcoil",Dysley Stronghold,35.51,Golems' Stonesapphire Gold Of The Glacier,266.00,176.00,160.00,46816.0000,42560.0000,121113.41760000,12/04/2017 @ 12:00:00 AM
-36297,"The Firey, Evilember",The Fen of the Necromancer,32.21,Heavenly Dreamsilver Of The Night,245.00,719.00,346.06,176155.0000,84784.7000,344988.37737000,12/04/2017 @ 12:00:00 AM
+25683,"The Evil, Snowflame",The Fortress of the Lich Queen,20.72,Negative Rockglitter Mercury Of Trolls,205.00,235.59,214.17,48295.9500,43904.8500,111304.80576000,12/04/1977 @ 12:00:00 AM
+35423,"Wolf, Jericho",The Fen of the Necromancer,32.21,Violetdream Iron,243.00,502.13,502.13,122017.5900,122017.5900,322638.91147800,12/04/1947 @ 12:00:00 AM
+23926,"Felldrake, Magus",The Lewd King,45.98,Tritons' Time Stoneiron Of Legend,40.00,341.59,375.75,13663.6000,15030.0000,41886.91728000,12/04/1947 @ 12:00:00 AM
+33361,"Spiritraven, Bedlam",Pewold Keep,29.00,Forgotten Mithril,18.00,600.28,545.71,10805.0400,9822.7800,26609.88780000,12/04/1947 @ 12:00:00 AM
+9178,Chainnail,The Tomb of Hellish Ruin,33.00,Planar Mudtin Of Trolls,200.00,191.40,174.00,38280.0000,34800.0000,97196.40000000,12/04/1947 @ 12:00:00 AM
+8141,"The Firey, Evilember",The Drunken Thief,18.41,Zephyr Adamant,265.00,481.77,-44.14,127669.0500,-11697.1000,137322.38599500,12/04/1947 @ 12:00:00 AM
+9567,Bronzespawn,The Fortress of the Lich Queen,17.13,Angels' Adamant,215.00,51.48,46.80,11068.2000,10062.0000,24749.80326000,12/04/1947 @ 12:00:00 AM
+19621,"Mistmidnight, Tiger",Gifeld Castle,33.01,Golems' Stonesapphire Gold Of The Glacier,178.00,176.00,160.00,31328.0000,28480.0000,79550.62080000,12/04/1987 @ 12:00:00 AM
+32965,Springcoil,The Archer and Scroll,60.12,Undeads' Mind Orichalcum Of The Twilight,108.00,1169.00,364.69,126252.0000,39386.5200,265220.39822400,12/04/1947 @ 12:00:00 AM
+29674,Cinderflame,The Greedy Wench,13.31,Swordbronze,168.00,403.29,366.63,67752.7200,61593.8400,146562.58713600,12/04/1947 @ 12:00:00 AM
+17889,"The Grasping, Nettool",The Bastion of the Vampire Duke,37.90,Mithril Of The Tropics,226.00,276.72,251.56,62538.7200,56852.5600,164640.57512000,12/04/1947 @ 12:00:00 AM
+15451,"The Constructed, Snaretool",The Tower of Aramum,20.00,Golems' Stonesapphire Gold Of The Glacier,305.00,176.00,160.00,53680.0000,48800.0000,122976.00000000,12/04/1947 @ 12:00:00 AM
+26280,"Goddess of Trickery, Alik",Moor Village,11.32,Toxic Mistlead Of The Past,228.00,396.06,396.06,90301.6800,90301.6800,201047.66035200,12/04/1947 @ 12:00:00 AM
+5779,"Mist, Claw",The Warrior and Flagon,9.00,Mithril Of Legend,253.00,169.17,186.09,42800.0100,47080.7700,97970.05020000,12/04/1947 @ 12:00:00 AM
+25103,"The Machine, Wheelbolt",The Fortress of Akkun the Grim,27.03,Djinni's Mind Fogiron,267.00,57.23,57.23,15280.4100,15280.4100,38821.40964600,12/04/1947 @ 12:00:00 AM
+25342,"The Blade, Scarefear",Weke Tower,47.19,Mind Lead,255.00,241.00,219.09,61455.0000,55867.9500,172687.65010500,12/04/1947 @ 12:00:00 AM
+14914,"The Machine, Evilcoil",Dysley Stronghold,35.51,Golems' Stonesapphire Gold Of The Glacier,266.00,176.00,160.00,46816.0000,42560.0000,121113.41760000,12/04/1947 @ 12:00:00 AM
+36297,"The Firey, Evilember",The Fen of the Necromancer,32.21,Heavenly Dreamsilver Of The Night,245.00,719.00,346.06,176155.0000,84784.7000,344988.37737000,12/04/1947 @ 12:00:00 AM

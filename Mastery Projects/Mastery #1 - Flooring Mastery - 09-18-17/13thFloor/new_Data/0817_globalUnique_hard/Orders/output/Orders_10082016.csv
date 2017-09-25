@@ -1,8 +1,8 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-13827,"Drakecaster, Sephiroth",Gifeld Castle,30.01,Magicians' Legendary Poison Metal,224.00,-52.81,-48.01,-11829.4400,-10754.2400,-29361.04236800,10/08/2016 @ 12:00:00 AM
-23672,"The Cremator, Blazeflare",Weke Tower,47.19,Forgotten Mithril,252.00,545.71,496.10,137518.9200,125017.2000,386426.91502800,10/08/2016 @ 12:00:00 AM
-22419,"Lady of Fire, Nelalwe",The Tower of Sabiesu the Awesome,10.00,Fleshshock Mercury,229.00,-31.02,-28.20,-7103.5800,-6457.8000,-14917.51800000,10/08/2016 @ 12:00:00 AM
-31565,"Bladewitch, Zeal",Weke Tower,47.19,Grayplatinum,74.00,2548.00,104.94,188552.0000,7765.5600,288959.81656400,10/08/2016 @ 12:00:00 AM
-7471,"Dire, Wind",The Bastion of the Lich Tyrant,6.49,Unicorns' Fatal Magma Metal Of The Ocean,146.00,903.00,23.00,131838.0000,3358.0000,143970.22040000,10/08/2016 @ 12:00:00 AM
-7541,"Dire, Wind",Barad Kesa,5.10,Vampires' Hammer Emeraldmetal,163.00,77.44,70.40,12622.7200,11475.2000,25326.91392000,10/08/2016 @ 12:00:00 AM
-4018,"The Freezer, Burnbrood",The Tomb of Hellish Ruin,33.00,Trolls' Rubymercury Of The Sunset,113.00,2733.00,443.00,308829.0000,50059.0000,477321.04000000,10/08/2016 @ 12:00:00 AM
+13827,"Sephiroth, Drakecaster",Gifeld Castle,30.01,Magicians' Legendary Poison Metal,224.00,-52.81,-48.01,-11829.4400,-10754.2400,-29361.04236800,10/08/2006 @ 12:00:00 AM
+23672,"Blazeflare, The Cremator",Weke Tower,47.19,Forgotten Mithril,252.00,545.71,496.10,137518.9200,125017.2000,386426.91502800,10/08/2016 @ 12:00:00 AM
+22419,"Nelalwe, Lady of Fire",The Tower of Sabiesu the Awesome,10.00,Fleshshock Mercury,229.00,-31.02,-28.20,-7103.5800,-6457.8000,-14917.51800000,10/08/2016 @ 12:00:00 AM
+31565,"Zeal, Bladewitch",Weke Tower,47.19,Grayplatinum,74.00,2548.00,104.94,188552.0000,7765.5600,288959.81656400,10/08/2006 @ 12:00:00 AM
+7471,"Wind, Dire",The Bastion of the Lich Tyrant,6.49,Unicorns' Fatal Magma Metal Of The Ocean,146.00,903.00,23.00,131838.0000,3358.0000,143970.22040000,10/08/2006 @ 12:00:00 AM
+7541,"Wind, Dire",Barad Kesa,5.10,Vampires' Hammer Emeraldmetal,163.00,77.44,70.40,12622.7200,11475.2000,25326.91392000,10/08/2006 @ 12:00:00 AM
+4018,"Burnbrood, The Freezer",The Tomb of Hellish Ruin,33.00,Trolls' Rubymercury Of The Sunset,113.00,2733.00,443.00,308829.0000,50059.0000,477321.04000000,10/08/2006 @ 12:00:00 AM

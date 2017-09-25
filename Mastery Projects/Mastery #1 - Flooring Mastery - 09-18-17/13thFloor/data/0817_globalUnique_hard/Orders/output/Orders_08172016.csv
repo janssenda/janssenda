@@ -1,18 +1,18 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-33209,"Roguemist, Rouge",Pewold Keep,29.00,Forgotten Mithril,73.00,600.28,545.71,43820.4400,39836.8300,107917.87830000,08/17/2016 @ 12:00:00 AM
-35901,"Lord of Animals, Suriel",The Fen of the Necromancer,32.21,Violetdream Iron,87.00,502.13,502.13,43685.3100,43685.3100,115512.69670200,08/17/2016 @ 12:00:00 AM
-1934,"Bladewitch, Zeal",The Tower of Sheshbazzu,4.00,Glittering Orichalcum,192.00,2056.00,330.00,394752.0000,63360.0000,476436.48000000,08/17/2016 @ 12:00:00 AM
-34968,Bronzespawn,The Bastion of the Vampire Duke,45.86,Sprites' Transcendent Mud Lead Of The South,220.00,3338.65,267.08,734503.0000,58757.6000,1157049.91116000,08/17/2016 @ 12:00:00 AM
-19486,"Bladewitch, Zeal",Gifeld Castle,33.01,Golems' Stonesapphire Gold Of The Glacier,143.00,176.00,160.00,25168.0000,22880.0000,63908.64480000,08/17/2016 @ 12:00:00 AM
-33994,Emberspawn,Mahyrst Keep,31.30,Primordial Plague Mercury Of Legend,41.00,73.70,67.00,3021.7000,2747.0000,7574.30310000,08/17/2016 @ 12:00:00 AM
-8389,"God of Resurrection, Gadriel",The Bastion of Sthasu the Gruesome,40.00,Unknowable Mindsilver,118.00,174.90,174.90,20638.2000,20638.2000,57786.96000000,08/17/2016 @ 12:00:00 AM
-32934,"Drakecaster, Sephiroth",Pewold Keep,29.00,Mind Lead,182.00,241.00,219.09,43862.0000,39874.3800,108019.93020000,08/17/2016 @ 12:00:00 AM
-645,Emberspawn,The Bastion of the Lich Tyrant,4.87,Incubi's Mirrorfog Iron Of The Ocean,120.00,768.03,421.32,92163.6000,50558.4000,149672.56140000,08/17/2016 @ 12:00:00 AM
-676,"Ivycaster, Fate",The Flying Witch,5.16,Zephyr Iron,258.00,2249.71,233.69,580425.1800,60292.0200,673778.20752000,08/17/2016 @ 12:00:00 AM
-5244,"Godwarlock, Sunrise",The Barrow of Terrible Horror,24.90,Sirens' Rockgold,124.00,306.13,278.30,37960.1200,34509.2000,90514.18068000,08/17/2016 @ 12:00:00 AM
-16592,"Tsunami, Seraphim",Khali's Delve,1.18,Incubi's Iron Of The Dawn,198.00,174.99,174.99,34648.0200,34648.0200,70113.73327200,08/17/2016 @ 12:00:00 AM
-26207,"Mystery, Lord",Barad Cune,49.21,Starsmoke Bronze Of Life,194.00,-438.00,420.81,-84972.0000,81637.1400,-4975.94460600,08/17/2016 @ 12:00:00 AM
-5698,"Lord of Plague, Alas",The Warrior and Flagon,9.00,Mind Lead,150.00,219.09,199.17,32863.5000,29875.5000,68385.51000000,08/17/2016 @ 12:00:00 AM
-27686,"Gust, Shadow",The Bastion of Gothmog of Udun,-2.42,Sprites' Transcendent Mud Lead Of The South,182.00,3338.65,267.08,607634.3000,48608.5600,640361.78278800,08/17/2016 @ 12:00:00 AM
-24081,"Seraphheart, Storm",Fellfen Keep,38.00,Toxic Mistlead Of The Past,87.00,396.06,396.06,34457.2200,34457.2200,95101.92720000,08/17/2016 @ 12:00:00 AM
-25609,"Dire, Wind",The Pirate's Pipe,16.94,Incubi's Iron Of The Dawn,152.00,192.49,174.99,29258.4800,26598.4800,65319.12902400,08/17/2016 @ 12:00:00 AM
+33209,"Roguemist, Rouge",Pewold Keep,29.00,Forgotten Mithril,73.00,600.28,545.71,43820.4400,39836.8300,107917.87830000,08/17/1986 @ 12:00:00 AM
+35901,"Lord of Animals, Suriel",The Fen of the Necromancer,32.21,Violetdream Iron,87.00,502.13,502.13,43685.3100,43685.3100,115512.69670200,08/17/1946 @ 12:00:00 AM
+1934,"Bladewitch, Zeal",The Tower of Sheshbazzu,4.00,Glittering Orichalcum,192.00,2056.00,330.00,394752.0000,63360.0000,476436.48000000,08/17/1946 @ 12:00:00 AM
+34968,Bronzespawn,The Bastion of the Vampire Duke,45.86,Sprites' Transcendent Mud Lead Of The South,220.00,3338.65,267.08,734503.0000,58757.6000,1157049.91116000,08/17/1946 @ 12:00:00 AM
+19486,"Bladewitch, Zeal",Gifeld Castle,33.01,Golems' Stonesapphire Gold Of The Glacier,143.00,176.00,160.00,25168.0000,22880.0000,63908.64480000,08/17/1946 @ 12:00:00 AM
+33994,Emberspawn,Mahyrst Keep,31.30,Primordial Plague Mercury Of Legend,41.00,73.70,67.00,3021.7000,2747.0000,7574.30310000,08/17/1946 @ 12:00:00 AM
+8389,"God of Resurrection, Gadriel",The Bastion of Sthasu the Gruesome,40.00,Unknowable Mindsilver,118.00,174.90,174.90,20638.2000,20638.2000,57786.96000000,08/17/1946 @ 12:00:00 AM
+32934,"Drakecaster, Sephiroth",Pewold Keep,29.00,Mind Lead,182.00,241.00,219.09,43862.0000,39874.3800,108019.93020000,08/17/1946 @ 12:00:00 AM
+645,Emberspawn,The Bastion of the Lich Tyrant,4.87,Incubi's Mirrorfog Iron Of The Ocean,120.00,768.03,421.32,92163.6000,50558.4000,149672.56140000,08/17/1946 @ 12:00:00 AM
+676,"Ivycaster, Fate",The Flying Witch,5.16,Zephyr Iron,258.00,2249.71,233.69,580425.1800,60292.0200,673778.20752000,08/17/1946 @ 12:00:00 AM
+5244,"Godwarlock, Sunrise",The Barrow of Terrible Horror,24.90,Sirens' Rockgold,124.00,306.13,278.30,37960.1200,34509.2000,90514.18068000,08/17/1946 @ 12:00:00 AM
+16592,"Tsunami, Seraphim",Khali's Delve,1.18,Incubi's Iron Of The Dawn,198.00,174.99,174.99,34648.0200,34648.0200,70113.73327200,08/17/1946 @ 12:00:00 AM
+26207,"Mystery, Lord",Barad Cune,49.21,Starsmoke Bronze Of Life,194.00,-438.00,420.81,-84972.0000,81637.1400,-4975.94460600,08/17/1986 @ 12:00:00 AM
+5698,"Lord of Plague, Alas",The Warrior and Flagon,9.00,Mind Lead,150.00,219.09,199.17,32863.5000,29875.5000,68385.51000000,08/17/1946 @ 12:00:00 AM
+27686,"Gust, Shadow",The Bastion of Gothmog of Udun,-2.42,Sprites' Transcendent Mud Lead Of The South,182.00,3338.65,267.08,607634.3000,48608.5600,640361.78278800,08/17/1946 @ 12:00:00 AM
+24081,"Seraphheart, Storm",Fellfen Keep,38.00,Toxic Mistlead Of The Past,87.00,396.06,396.06,34457.2200,34457.2200,95101.92720000,08/17/1976 @ 12:00:00 AM
+25609,"Dire, Wind",The Pirate's Pipe,16.94,Incubi's Iron Of The Dawn,152.00,192.49,174.99,29258.4800,26598.4800,65319.12902400,08/17/1946 @ 12:00:00 AM

@@ -1,17 +1,17 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-25843,"Runetomb, Song",The Black Barrow of Bery,23.96,Grayplatinum,155.00,2548.00,104.94,394940.0000,16265.7000,509730.58572000,10/07/2018 @ 12:00:00 AM
-12686,Flameshiver,Noble's Village,5.43,Spirits' Living Wordhammer Tin Of The Trees,227.00,3897.55,128.70,884743.8500,29214.9000,963586.71012500,10/07/2018 @ 12:00:00 AM
-36798,Spikesnare,The Fen of the Necromancer,32.21,Heavenly Dreamsilver Of The Night,95.00,719.00,346.06,68305.0000,32875.7000,133771.00347000,10/07/2018 @ 12:00:00 AM
-2891,"Goddess of Trickery, Alik",The Cracked Chalice,-4.37,Emerald Orichalcum,284.00,1957.00,118.01,555788.0000,33514.8400,563550.30589200,10/07/2018 @ 12:00:00 AM
-21083,"Jackalguard, Gale",Mahyrst Keep,31.30,Plague Tin,169.00,465.25,422.95,78627.2500,71478.5500,197088.91540000,10/07/2018 @ 12:00:00 AM
-21368,"Lady of Vengeance, Zepul",Reyny Keep,-3.35,Starsmoke Bronze Of Life,204.00,-438.00,420.81,-89352.0000,85845.2400,-3389.28354000,10/07/2018 @ 12:00:00 AM
-34726,"Wolf, Jericho",Barad Kesa,6.17,Grayplatinum,201.00,2548.00,115.43,512148.0000,23201.4300,568380.48983100,10/07/2018 @ 12:00:00 AM
-20388,"The Cremator, Blazeflare",Fellfen Keep,38.00,Unknowable Mindsilver,131.00,174.90,174.90,22911.9000,22911.9000,63236.84400000,10/07/2018 @ 12:00:00 AM
-8264,Bonescare,Lamp Borough,0.00,Zephyr Adamant,246.00,481.77,-44.14,118515.4200,-10858.4400,107656.98000000,10/07/2018 @ 12:00:00 AM
-18326,"Knightseraph, Lance",The Dancing Minstrel,39.62,Lycanthropes' Gold,97.00,371.80,338.00,36064.6000,32786.0000,96129.20772000,10/07/2018 @ 12:00:00 AM
-29272,Metalbrood,The Citadel of Alammius,32.67,Hidden Shadowice Lead,252.00,-16.50,-16.50,-4158.0000,-4158.0000,-11032.83720000,10/07/2018 @ 12:00:00 AM
-8757,"Felldrake, Magus",Reheath Stronghold,39.60,Planar Mudtin Of Trolls,122.00,191.40,174.00,23350.8000,21228.0000,62232.00480000,10/07/2018 @ 12:00:00 AM
-6406,"Tsunami, Seraphim",The Shadow Downs,34.00,Nymphs' Luminous Rotmercury Of The Skies,241.00,335.50,305.00,80855.5000,73505.0000,206843.07000000,10/07/2018 @ 12:00:00 AM
-900,"Goddess of Knowledge, Ahah",Bifar's Deep,10.09,Ghostly Magic Adamant,91.00,901.35,45.00,82022.8500,4095.0000,94807.14106500,10/07/2018 @ 12:00:00 AM
-5957,"Godseeker, Cult",The Warrior and Flagon,9.00,Grayplatinum,97.00,2548.00,86.73,247156.0000,8412.8100,278570.00290000,10/07/2018 @ 12:00:00 AM
-14828,"Lonedrake, Clash",The Secret Catacombs of Ulfang the Black,28.82,Angels' Adamant,174.00,51.48,46.80,8957.5200,8143.2000,22029.14750400,10/07/2018 @ 12:00:00 AM
+25843,"Runetomb, Song",The Black Barrow of Bery,23.96,Grayplatinum,155.00,2548.00,104.94,394940.0000,16265.7000,509730.58572000,10/07/1948 @ 12:00:00 AM
+12686,Flameshiver,Noble's Village,5.43,Spirits' Living Wordhammer Tin Of The Trees,227.00,3897.55,128.70,884743.8500,29214.9000,963586.71012500,10/07/1948 @ 12:00:00 AM
+36798,Spikesnare,The Fen of the Necromancer,32.21,Heavenly Dreamsilver Of The Night,95.00,719.00,346.06,68305.0000,32875.7000,133771.00347000,10/07/1948 @ 12:00:00 AM
+2891,"Goddess of Trickery, Alik",The Cracked Chalice,-4.37,Emerald Orichalcum,284.00,1957.00,118.01,555788.0000,33514.8400,563550.30589200,10/07/1948 @ 12:00:00 AM
+21083,"Jackalguard, Gale",Mahyrst Keep,31.30,Plague Tin,169.00,465.25,422.95,78627.2500,71478.5500,197088.91540000,10/07/1948 @ 12:00:00 AM
+21368,"Lady of Vengeance, Zepul",Reyny Keep,-3.35,Starsmoke Bronze Of Life,204.00,-438.00,420.81,-89352.0000,85845.2400,-3389.28354000,10/07/1948 @ 12:00:00 AM
+34726,"Wolf, Jericho",Barad Kesa,6.17,Grayplatinum,201.00,2548.00,115.43,512148.0000,23201.4300,568380.48983100,10/07/1948 @ 12:00:00 AM
+20388,"The Cremator, Blazeflare",Fellfen Keep,38.00,Unknowable Mindsilver,131.00,174.90,174.90,22911.9000,22911.9000,63236.84400000,10/07/1948 @ 12:00:00 AM
+8264,Bonescare,Lamp Borough,0.00,Zephyr Adamant,246.00,481.77,-44.14,118515.4200,-10858.4400,107656.98000000,10/07/1948 @ 12:00:00 AM
+18326,"Knightseraph, Lance",The Dancing Minstrel,39.62,Lycanthropes' Gold,97.00,371.80,338.00,36064.6000,32786.0000,96129.20772000,10/07/1978 @ 12:00:00 AM
+29272,Metalbrood,The Citadel of Alammius,32.67,Hidden Shadowice Lead,252.00,-16.50,-16.50,-4158.0000,-4158.0000,-11032.83720000,10/07/1948 @ 12:00:00 AM
+8757,"Felldrake, Magus",Reheath Stronghold,39.60,Planar Mudtin Of Trolls,122.00,191.40,174.00,23350.8000,21228.0000,62232.00480000,10/07/1948 @ 12:00:00 AM
+6406,"Tsunami, Seraphim",The Shadow Downs,34.00,Nymphs' Luminous Rotmercury Of The Skies,241.00,335.50,305.00,80855.5000,73505.0000,206843.07000000,10/07/1948 @ 12:00:00 AM
+900,"Goddess of Knowledge, Ahah",Bifar's Deep,10.09,Ghostly Magic Adamant,91.00,901.35,45.00,82022.8500,4095.0000,94807.14106500,10/07/1978 @ 12:00:00 AM
+5957,"Godseeker, Cult",The Warrior and Flagon,9.00,Grayplatinum,97.00,2548.00,86.73,247156.0000,8412.8100,278570.00290000,10/07/1948 @ 12:00:00 AM
+14828,"Lonedrake, Clash",The Secret Catacombs of Ulfang the Black,28.82,Angels' Adamant,174.00,51.48,46.80,8957.5200,8143.2000,22029.14750400,10/07/1948 @ 12:00:00 AM

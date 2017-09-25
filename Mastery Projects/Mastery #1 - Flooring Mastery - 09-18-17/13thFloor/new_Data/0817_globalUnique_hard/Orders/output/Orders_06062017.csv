@@ -1,19 +1,19 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-23233,"Godseeker, Cult",The Fortress of Akkun the Grim,27.03,Tritons' Time Stoneiron Of Legend,303.00,341.59,341.59,103501.7700,103501.7700,262956.59686200,06/06/2017 @ 12:00:00 AM
-2747,"Reaper, Dagger",The Tomb of Gothmog of Udun,11.00,Violetdream Iron,174.00,2680.00,377.25,466320.0000,65641.5000,590477.26500000,06/06/2017 @ 12:00:00 AM
-24878,"The Evil, Snowflame",Eved Castle,30.80,Negative Rockglitter Mercury Of Trolls,196.00,235.59,214.17,46175.6400,41977.3200,115304.07168000,06/06/2017 @ 12:00:00 AM
-34460,Gravebone,Barad Cune,49.21,Unspeakable Rotsoul Mithril Of Souls,287.00,370.26,336.60,106264.6200,96604.2000,302700.56632200,06/06/2017 @ 12:00:00 AM
-32156,"Wind, Maverick",North Arcanist's Farthing,3.66,Yellow Mistearth Copper,182.00,287.98,261.80,52412.3600,47647.6000,103722.15453600,06/06/2017 @ 12:00:00 AM
-8089,"Gust, Shadow",Gawold Castle,10.29,Falserainbow Lead,64.00,872.99,70.18,55871.3600,4491.5200,66574.22035200,06/06/2017 @ 12:00:00 AM
-33725,"Knightseraph, Lance",The Archer and Scroll,60.12,Undeads' Mind Orichalcum Of The Twilight,371.00,1169.00,364.69,433699.0000,135299.9900,911081.18278800,06/06/2017 @ 12:00:00 AM
-9800,"Spiritraven, Bedlam",Castle Village,39.07,Angels' Adamant,210.00,51.48,46.80,10810.8000,9828.0000,28702.37916000,06/06/2017 @ 12:00:00 AM
-18698,"Lord of the Sea, Penur",Barad Cune,49.21,Fairies' Supreme Mistsmoke Lead Of The Future,281.00,499.73,454.30,140424.1300,127658.3000,400005.79380300,06/06/2017 @ 12:00:00 AM
-30398,"God of Fate, Uriel",The Greedy Wench,13.31,White Platinum,248.00,101.02,91.84,25052.9600,22776.3200,54195.35716800,06/06/2017 @ 12:00:00 AM
-27085,"Ivycaster, Fate",Citadel Ward,4.40,Swordbronze,129.00,403.29,366.63,52024.4100,47295.2700,103689.74592000,06/06/2017 @ 12:00:00 AM
-17645,"Seeker, Fate",Bergfison's Deep,16.00,Trolls' Rubymercury Of The Sunset,320.00,487.30,487.30,155936.0000,155936.0000,361771.52000000,06/06/2017 @ 12:00:00 AM
-18958,Freezebrood,Weke Tower,47.19,Golems' Stonesapphire Gold Of The Glacier,128.00,176.00,160.00,22528.0000,20480.0000,63303.47520000,06/06/2017 @ 12:00:00 AM
-6602,"Amberslayer, Flora",The Drunken Thief,18.41,Trolls' Rubymercury Of The Sunset,119.00,2733.00,443.00,325227.0000,52717.0000,447523.49040000,06/06/2017 @ 12:00:00 AM
-15507,"Goddess of Law, Eumyan",The Dungeon of Merciless Woe,3.61,Golems' Stonesapphire Gold Of The Glacier,129.00,176.00,160.00,22704.0000,20640.0000,44908.71840000,06/06/2017 @ 12:00:00 AM
-15780,"Brand, Lightning",The Tower of Aramum,20.00,Shadowhell Mithril,45.00,462.21,420.19,20799.4500,18908.5500,47649.60000000,06/06/2017 @ 12:00:00 AM
-14701,"Tsunami, Seraphim",Dysley Stronghold,35.51,Golems' Stonesapphire Gold Of The Glacier,199.00,176.00,160.00,35024.0000,31840.0000,90607.40640000,06/06/2017 @ 12:00:00 AM
-25627,Freezebrood,Weke Tower,47.19,Ghostly Soul Adamant,220.00,414.70,377.00,91234.0000,82940.0000,256366.71060000,06/06/2017 @ 12:00:00 AM
+23233,"Cult, Godseeker",The Fortress of Akkun the Grim,27.03,Tritons' Time Stoneiron Of Legend,303.00,341.59,341.59,103501.7700,103501.7700,262956.59686200,06/06/2007 @ 12:00:00 AM
+2747,"Dagger, Reaper",The Tomb of Gothmog of Udun,11.00,Violetdream Iron,174.00,2680.00,377.25,466320.0000,65641.5000,590477.26500000,06/06/2007 @ 12:00:00 AM
+24878,"Snowflame, The Evil",Eved Castle,30.80,Negative Rockglitter Mercury Of Trolls,196.00,235.59,214.17,46175.6400,41977.3200,115304.07168000,06/06/2007 @ 12:00:00 AM
+34460,Gravebone,Barad Cune,49.21,Unspeakable Rotsoul Mithril Of Souls,287.00,370.26,336.60,106264.6200,96604.2000,302700.56632200,06/06/2007 @ 12:00:00 AM
+32156,"Maverick, Wind",North Arcanist's Farthing,3.66,Yellow Mistearth Copper,182.00,287.98,261.80,52412.3600,47647.6000,103722.15453600,06/06/2007 @ 12:00:00 AM
+8089,"Shadow, Gust",Gawold Castle,10.29,Falserainbow Lead,64.00,872.99,70.18,55871.3600,4491.5200,66574.22035200,06/06/2007 @ 12:00:00 AM
+33725,"Lance, Knightseraph",The Archer and Scroll,60.12,Undeads' Mind Orichalcum Of The Twilight,371.00,1169.00,364.69,433699.0000,135299.9900,911081.18278800,06/06/2007 @ 12:00:00 AM
+9800,"Bedlam, Spiritraven",Castle Village,39.07,Angels' Adamant,210.00,51.48,46.80,10810.8000,9828.0000,28702.37916000,06/06/2007 @ 12:00:00 AM
+18698,"Penur, Lord of the Sea",Barad Cune,49.21,Fairies' Supreme Mistsmoke Lead Of The Future,281.00,499.73,454.30,140424.1300,127658.3000,400005.79380300,06/06/2007 @ 12:00:00 AM
+30398,"Uriel, God of Fate",The Greedy Wench,13.31,White Platinum,248.00,101.02,91.84,25052.9600,22776.3200,54195.35716800,06/06/2007 @ 12:00:00 AM
+27085,"Fate, Ivycaster",Citadel Ward,4.40,Swordbronze,129.00,403.29,366.63,52024.4100,47295.2700,103689.74592000,06/06/2007 @ 12:00:00 AM
+17645,"Fate, Seeker",Bergfison's Deep,16.00,Trolls' Rubymercury Of The Sunset,320.00,487.30,487.30,155936.0000,155936.0000,361771.52000000,06/06/2007 @ 12:00:00 AM
+18958,Freezebrood,Weke Tower,47.19,Golems' Stonesapphire Gold Of The Glacier,128.00,176.00,160.00,22528.0000,20480.0000,63303.47520000,06/06/2007 @ 12:00:00 AM
+6602,"Flora, Amberslayer",The Drunken Thief,18.41,Trolls' Rubymercury Of The Sunset,119.00,2733.00,443.00,325227.0000,52717.0000,447523.49040000,06/06/2007 @ 12:00:00 AM
+15507,"Eumyan, Goddess of Law",The Dungeon of Merciless Woe,3.61,Golems' Stonesapphire Gold Of The Glacier,129.00,176.00,160.00,22704.0000,20640.0000,44908.71840000,06/06/2007 @ 12:00:00 AM
+15780,"Lightning, Brand",The Tower of Aramum,20.00,Shadowhell Mithril,45.00,462.21,420.19,20799.4500,18908.5500,47649.60000000,06/06/2007 @ 12:00:00 AM
+14701,"Seraphim, Tsunami",Dysley Stronghold,35.51,Golems' Stonesapphire Gold Of The Glacier,199.00,176.00,160.00,35024.0000,31840.0000,90607.40640000,06/06/2007 @ 12:00:00 AM
+25627,Freezebrood,Weke Tower,47.19,Ghostly Soul Adamant,220.00,414.70,377.00,91234.0000,82940.0000,256366.71060000,06/06/2007 @ 12:00:00 AM

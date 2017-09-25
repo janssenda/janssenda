@@ -1,14 +1,14 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-11527,"Lawslayer, Valentine",North Arcanist's Farthing,2.50,Phantasmal Lead,159.00,21.92,19.93,3485.2800,3168.8700,6820.50375000,11/22/2016 @ 12:00:00 AM
-34653,"The Blade, Steelterror",Barad Kesa,6.17,Sprites' Transcendent Mud Lead Of The South,333.00,3338.65,267.08,1111770.4500,88937.6400,1274791.77915300,11/22/2016 @ 12:00:00 AM
-21793,"The Skeletal, Spiketerror",North Arcanist's Farthing,3.03,Starsmoke Bronze Of Life,249.00,-438.00,420.81,-109062.0000,104781.6900,-4410.00339300,11/22/2016 @ 12:00:00 AM
-20575,"Claw, Slayer",The Demon and Toad,-1.10,Fairies' Supreme Mistsmoke Lead Of The Future,188.00,499.73,499.73,93949.2400,93949.2400,185831.59672000,11/22/2016 @ 12:00:00 AM
-19569,"God of Death, Avriel",Gifeld Castle,33.01,Grayplatinum,195.00,2548.00,104.94,496860.0000,20463.3000,688091.72133000,11/22/2016 @ 12:00:00 AM
-29028,"Brand, Lightning",Bifar's Deep,12.21,Fleshshock Mercury,280.00,-31.02,-28.20,-8685.6000,-7896.0000,-18606.21336000,11/22/2016 @ 12:00:00 AM
-17289,"The Cold, Burnfreeze",The Scoundrel and Flask,45.25,Incubi's Glittering Tin Of The Future,231.00,192.96,212.26,44573.7600,49032.0600,135962.45355000,11/22/2016 @ 12:00:00 AM
-17290,"Mystery, Lord",North Arcanist's Farthing,2.75,Golems' Stonesapphire Gold Of The Glacier,164.00,176.00,160.00,28864.0000,26240.0000,56619.36000000,11/22/2016 @ 12:00:00 AM
-9859,"The Constructed, Snaretool",Hartshill Ward,40.29,Forgotten Mithril,181.00,3909.75,496.10,707664.7500,89794.1000,1118755.02066500,11/22/2016 @ 12:00:00 AM
-525,Spikespawn,The Flying Witch,5.16,Magicians' Legendary Poison Metal,152.00,3615.00,-48.01,549480.0000,-7297.5200,570159.09596800,11/22/2016 @ 12:00:00 AM
-29527,"Mystery, Lord",The Citadel of Alammius,32.67,Fleshshock Mercury,139.00,-31.02,-28.20,-4311.7800,-3919.8000,-10920.83718600,11/22/2016 @ 12:00:00 AM
-26225,"Lord of the Sun, Maglioneth",Archfane District,15.29,Unspeakable Rotsoul Mithril Of Souls,273.00,370.26,336.60,101080.9800,91891.8000,222478.31806200,11/22/2016 @ 12:00:00 AM
-26338,"The Grasping, Beamsprocket",Citadel Ward,4.40,Starsmoke Bronze Of Life,145.00,-438.00,420.81,-63510.0000,61017.4500,-2602.22220000,11/22/2016 @ 12:00:00 AM
+11527,"Valentine, Lawslayer",North Arcanist's Farthing,2.50,Phantasmal Lead,159.00,21.92,19.93,3485.2800,3168.8700,6820.50375000,11/22/2016 @ 12:00:00 AM
+34653,"Steelterror, The Blade",Barad Kesa,6.17,Sprites' Transcendent Mud Lead Of The South,333.00,3338.65,267.08,1111770.4500,88937.6400,1274791.77915300,11/22/2006 @ 12:00:00 AM
+21793,"Spiketerror, The Skeletal",North Arcanist's Farthing,3.03,Starsmoke Bronze Of Life,249.00,-438.00,420.81,-109062.0000,104781.6900,-4410.00339300,11/22/2006 @ 12:00:00 AM
+20575,"Slayer, Claw",The Demon and Toad,-1.10,Fairies' Supreme Mistsmoke Lead Of The Future,188.00,499.73,499.73,93949.2400,93949.2400,185831.59672000,11/22/2006 @ 12:00:00 AM
+19569,"Avriel, God of Death",Gifeld Castle,33.01,Grayplatinum,195.00,2548.00,104.94,496860.0000,20463.3000,688091.72133000,11/22/2006 @ 12:00:00 AM
+29028,"Lightning, Brand",Bifar's Deep,12.21,Fleshshock Mercury,280.00,-31.02,-28.20,-8685.6000,-7896.0000,-18606.21336000,11/22/2006 @ 12:00:00 AM
+17289,"Burnfreeze, The Cold",The Scoundrel and Flask,45.25,Incubi's Glittering Tin Of The Future,231.00,192.96,212.26,44573.7600,49032.0600,135962.45355000,11/22/2006 @ 12:00:00 AM
+17290,"Lord, Mystery",North Arcanist's Farthing,2.75,Golems' Stonesapphire Gold Of The Glacier,164.00,176.00,160.00,28864.0000,26240.0000,56619.36000000,11/22/2006 @ 12:00:00 AM
+9859,"Snaretool, The Constructed",Hartshill Ward,40.29,Forgotten Mithril,181.00,3909.75,496.10,707664.7500,89794.1000,1118755.02066500,11/22/2006 @ 12:00:00 AM
+525,Spikespawn,The Flying Witch,5.16,Magicians' Legendary Poison Metal,152.00,3615.00,-48.01,549480.0000,-7297.5200,570159.09596800,11/22/2006 @ 12:00:00 AM
+29527,"Lord, Mystery",The Citadel of Alammius,32.67,Fleshshock Mercury,139.00,-31.02,-28.20,-4311.7800,-3919.8000,-10920.83718600,11/22/2006 @ 12:00:00 AM
+26225,"Maglioneth, Lord of the Sun",Archfane District,15.29,Unspeakable Rotsoul Mithril Of Souls,273.00,370.26,336.60,101080.9800,91891.8000,222478.31806200,11/22/2006 @ 12:00:00 AM
+26338,"Beamsprocket, The Grasping",Citadel Ward,4.40,Starsmoke Bronze Of Life,145.00,-438.00,420.81,-63510.0000,61017.4500,-2602.22220000,11/22/2006 @ 12:00:00 AM

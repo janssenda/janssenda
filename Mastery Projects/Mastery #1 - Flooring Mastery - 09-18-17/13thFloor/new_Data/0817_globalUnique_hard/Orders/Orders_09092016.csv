@@ -1,17 +1,17 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-14995,"The Freezer, Burnbrood",The Secret Shrine of the Gargoyle Count,23.93,Primordial Plague Mercury Of Legend,232.00,73.70,67.00,17098.4000,15544.0000,40453.72632000,09/09/2016 @ 12:00:00 AM
-24436,"Veil, Bane",Bifar's Deep,12.21,Foul Ice Bronze Of Life,139.00,292.82,266.20,40701.9800,37001.8000,87191.41153800,09/09/2016 @ 12:00:00 AM
-11535,"Gust, Shadow",North Arcanist's Farthing,2.50,Imperial Fate Steel,116.00,419.10,381.00,48615.6000,44196.0000,95131.89000000,09/09/2016 @ 12:00:00 AM
-34341,"God of Fate, Uriel",Mahyrst Keep,31.30,Primordial Plague Mercury Of Legend,114.00,73.70,67.00,8401.8000,7638.0000,21060.25740000,09/09/2016 @ 12:00:00 AM
-9320,"Squallmourner, Storm",The Tomb of Hellish Ruin,33.00,Djinni's Spectral Shadowlead Of Life,309.00,1718.00,259.12,530862.0000,80068.0800,812537.00640000,09/09/2016 @ 12:00:00 AM
-8057,"Lord of Animals, Suriel",The Drunken Thief,18.41,Starsmoke Bronze Of Life,55.00,-438.00,420.81,-24090.0000,23144.5500,-1119.50734500,09/09/2016 @ 12:00:00 AM
-8079,Gravebone,The Grey Plains,39.19,Unknowable Mindsilver,214.00,174.90,174.90,37428.6000,37428.6000,104193.73668000,09/09/2016 @ 12:00:00 AM
-9480,"The Frigid, Icechill",Reheath Stronghold,39.60,Djinni's Spectral Shadowlead Of Life,351.00,1718.00,259.12,603018.0000,90951.1200,968780.89152000,09/09/2016 @ 12:00:00 AM
-21968,"The Cold, Burnfreeze",Pewold Keep,29.00,Warlocks' Timerot Mithril,128.00,194.65,176.95,24915.2000,22649.6000,61358.59200000,09/09/2016 @ 12:00:00 AM
-30030,"God of Protection, Finarfin",The Greedy Wench,13.31,Heavenly Dreamsilver Of The Night,187.00,719.00,314.60,134453.0000,58830.2000,219009.19392000,09/09/2016 @ 12:00:00 AM
-30148,"Seeker, Fate",The Tower of Sabiesu the Awesome,10.00,White Platinum,163.00,101.02,91.84,16466.2600,14969.9200,34579.79800000,09/09/2016 @ 12:00:00 AM
-18983,"Goddess of Trickery, Alik",Weke Tower,47.19,Emerald Orichalcum,89.00,1957.00,129.81,174173.0000,11553.0900,273370.23187100,09/09/2016 @ 12:00:00 AM
-5355,"Godseeker, Cult",Grori's Deep,27.50,Unspeakable Rotsoul Mithril Of Souls,157.00,2076.95,306.00,326081.1500,48042.0000,477007.01625000,09/09/2016 @ 12:00:00 AM
-28859,"Lady of Fire, Nelalwe",The Nulukkhath Spires,28.99,Stone Soulsteel Of The Skies,378.00,453.31,412.10,171351.1800,155773.8000,421958.51170200,09/09/2016 @ 12:00:00 AM
-25099,"Squallmourner, Storm",Weke Tower,47.19,Djinni's Mind Fogiron,154.00,57.23,57.23,8813.4200,8813.4200,25944.94579600,09/09/2016 @ 12:00:00 AM
-25495,"Veil, Bane",Weke Tower,47.19,Mind Lead,292.00,241.00,219.09,70372.0000,63974.2800,197744.28953200,09/09/2016 @ 12:00:00 AM
+14995,"Burnbrood, The Freezer",The Secret Shrine of the Gargoyle Count,23.93,Primordial Plague Mercury Of Legend,232.00,73.70,67.00,17098.4000,15544.0000,40453.72632000,09/09/2006 @ 12:00:00 AM
+24436,"Bane, Veil",Bifar's Deep,12.21,Foul Ice Bronze Of Life,139.00,292.82,266.20,40701.9800,37001.8000,87191.41153800,09/09/2006 @ 12:00:00 AM
+11535,"Shadow, Gust",North Arcanist's Farthing,2.50,Imperial Fate Steel,116.00,419.10,381.00,48615.6000,44196.0000,95131.89000000,09/09/2006 @ 12:00:00 AM
+34341,"Uriel, God of Fate",Mahyrst Keep,31.30,Primordial Plague Mercury Of Legend,114.00,73.70,67.00,8401.8000,7638.0000,21060.25740000,09/09/2006 @ 12:00:00 AM
+9320,"Storm, Squallmourner",The Tomb of Hellish Ruin,33.00,Djinni's Spectral Shadowlead Of Life,309.00,1718.00,259.12,530862.0000,80068.0800,812537.00640000,09/09/2006 @ 12:00:00 AM
+8057,"Suriel, Lord of Animals",The Drunken Thief,18.41,Starsmoke Bronze Of Life,55.00,-438.00,420.81,-24090.0000,23144.5500,-1119.50734500,09/09/2006 @ 12:00:00 AM
+8079,Gravebone,The Grey Plains,39.19,Unknowable Mindsilver,214.00,174.90,174.90,37428.6000,37428.6000,104193.73668000,09/09/2006 @ 12:00:00 AM
+9480,"Icechill, The Frigid",Reheath Stronghold,39.60,Djinni's Spectral Shadowlead Of Life,351.00,1718.00,259.12,603018.0000,90951.1200,968780.89152000,09/09/2006 @ 12:00:00 AM
+21968,"Burnfreeze, The Cold",Pewold Keep,29.00,Warlocks' Timerot Mithril,128.00,194.65,176.95,24915.2000,22649.6000,61358.59200000,09/09/2006 @ 12:00:00 AM
+30030,"Finarfin, God of Protection",The Greedy Wench,13.31,Heavenly Dreamsilver Of The Night,187.00,719.00,314.60,134453.0000,58830.2000,219009.19392000,09/09/2006 @ 12:00:00 AM
+30148,"Fate, Seeker",The Tower of Sabiesu the Awesome,10.00,White Platinum,163.00,101.02,91.84,16466.2600,14969.9200,34579.79800000,09/09/2006 @ 12:00:00 AM
+18983,"Alik, Goddess of Trickery",Weke Tower,47.19,Emerald Orichalcum,89.00,1957.00,129.81,174173.0000,11553.0900,273370.23187100,09/09/2006 @ 12:00:00 AM
+5355,"Cult, Godseeker",Grori's Deep,27.50,Unspeakable Rotsoul Mithril Of Souls,157.00,2076.95,306.00,326081.1500,48042.0000,477007.01625000,09/09/2006 @ 12:00:00 AM
+28859,"Nelalwe, Lady of Fire",The Nulukkhath Spires,28.99,Stone Soulsteel Of The Skies,378.00,453.31,412.10,171351.1800,155773.8000,421958.51170200,09/09/2016 @ 12:00:00 AM
+25099,"Storm, Squallmourner",Weke Tower,47.19,Djinni's Mind Fogiron,154.00,57.23,57.23,8813.4200,8813.4200,25944.94579600,09/09/2006 @ 12:00:00 AM
+25495,"Bane, Veil",Weke Tower,47.19,Mind Lead,292.00,241.00,219.09,70372.0000,63974.2800,197744.28953200,09/09/2006 @ 12:00:00 AM

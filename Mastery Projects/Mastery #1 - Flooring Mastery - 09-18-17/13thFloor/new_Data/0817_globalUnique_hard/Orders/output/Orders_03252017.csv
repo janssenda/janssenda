@@ -1,16 +1,16 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-11205,"Gust, Shadow",North Arcanist's Farthing,2.50,Primordial Plague Mercury Of Legend,187.00,1150.79,67.00,215197.7300,12529.0000,233419.89825000,03/25/2017 @ 12:00:00 AM
-23312,"Dawn, Tarot",The Secret Catacombs of Ulfang the Black,31.70,Forgotten Mithril,233.00,545.71,496.10,127150.4300,115591.3000,319690.85841000,03/25/2017 @ 12:00:00 AM
-11654,"Lord of Animals, Suriel",The Fortress of the Lich Queen,18.84,Imperial Fate Steel,122.00,419.10,381.00,51130.2000,46482.0000,116002.33848000,03/25/2017 @ 12:00:00 AM
-34299,"The Chiller, Chillfire",The Cuitamba Jungle,46.75,Unspeakable Rotsoul Mithril Of Souls,308.00,370.26,336.60,114040.0800,103672.8000,319493.65140000,03/25/2017 @ 12:00:00 AM
-11927,"The Skeletal, Spiketerror",Hafeld Keep,47.59,Djinni's Evil Sandobsidian Steel Of The Future,108.00,140.58,140.58,15182.6400,15182.6400,44816.11675200,03/25/2017 @ 12:00:00 AM
-10960,Gravebone,The Dungeon of Dismal Terror,44.30,Phantasmal Smokezephyr Mercury Of Men,242.00,211.20,192.00,51110.4000,46464.0000,140799.85920000,03/25/2017 @ 12:00:00 AM
-14016,"Reaper, Dagger",Gili's Delve,35.89,Negative Rockglitter Mercury Of Trolls,271.00,3502.00,214.17,949042.0000,58040.0700,1368523.82492300,03/25/2017 @ 12:00:00 AM
-28707,"God of War, Ingwenel",Barad Cune,49.21,Vampires' Fang Emeraldsilver,121.00,2033.69,80.84,246076.4900,9781.6400,381765.91577300,03/25/2017 @ 12:00:00 AM
-4241,Bonescare,The Forsaken Delve of Lord Greywulf,15.62,Unknown Fatelightning Steel Of The Glacier,262.00,119.90,109.00,31413.8000,28558.0000,69339.39516000,03/25/2017 @ 12:00:00 AM
-26562,"Runetomb, Song",The Chuallanto Jungle,11.00,Shadowhell Mithril,300.00,462.21,420.19,138663.0000,126057.0000,293839.20000000,03/25/2017 @ 12:00:00 AM
-3330,"Runetomb, Song",The Tomb of Gothmog of Udun,11.00,Unknowable Mindsilver,223.00,34.00,159.00,7582.0000,35457.0000,47773.29000000,03/25/2017 @ 12:00:00 AM
-13412,"Reaper, Dagger",The Citadel of Alammius,27.00,Magicians' Legendary Poison Metal,208.00,-52.81,-48.01,-10984.4800,-9986.0800,-26632.61120000,03/25/2017 @ 12:00:00 AM
-36011,Chainhorror,The Nulukkhath Spires,28.99,Vampires' Fang Emeraldsilver,344.00,2033.69,88.92,699589.3600,30588.4800,941856.39581600,03/25/2017 @ 12:00:00 AM
-24269,"Drakecaster, Sephiroth",Bifar's Deep,12.21,Negative Rockglitter Mercury Of Trolls,251.00,235.59,214.17,59133.0900,53756.6700,126673.59969600,03/25/2017 @ 12:00:00 AM
-26885,"Tombreaper, Rouge",Citadel Ward,4.40,Foulopal Copper Of The Skies,177.00,221.83,201.66,39263.9100,35693.8200,78255.87012000,03/25/2017 @ 12:00:00 AM
+11205,"Shadow, Gust",North Arcanist's Farthing,2.50,Primordial Plague Mercury Of Legend,187.00,1150.79,67.00,215197.7300,12529.0000,233419.89825000,03/25/2007 @ 12:00:00 AM
+23312,"Tarot, Dawn",The Secret Catacombs of Ulfang the Black,31.70,Forgotten Mithril,233.00,545.71,496.10,127150.4300,115591.3000,319690.85841000,03/25/2017 @ 12:00:00 AM
+11654,"Suriel, Lord of Animals",The Fortress of the Lich Queen,18.84,Imperial Fate Steel,122.00,419.10,381.00,51130.2000,46482.0000,116002.33848000,03/25/2007 @ 12:00:00 AM
+34299,"Chillfire, The Chiller",The Cuitamba Jungle,46.75,Unspeakable Rotsoul Mithril Of Souls,308.00,370.26,336.60,114040.0800,103672.8000,319493.65140000,03/25/2007 @ 12:00:00 AM
+11927,"Spiketerror, The Skeletal",Hafeld Keep,47.59,Djinni's Evil Sandobsidian Steel Of The Future,108.00,140.58,140.58,15182.6400,15182.6400,44816.11675200,03/25/2007 @ 12:00:00 AM
+10960,Gravebone,The Dungeon of Dismal Terror,44.30,Phantasmal Smokezephyr Mercury Of Men,242.00,211.20,192.00,51110.4000,46464.0000,140799.85920000,03/25/2007 @ 12:00:00 AM
+14016,"Dagger, Reaper",Gili's Delve,35.89,Negative Rockglitter Mercury Of Trolls,271.00,3502.00,214.17,949042.0000,58040.0700,1368523.82492300,03/25/2007 @ 12:00:00 AM
+28707,"Ingwenel, God of War",Barad Cune,49.21,Vampires' Fang Emeraldsilver,121.00,2033.69,80.84,246076.4900,9781.6400,381765.91577300,03/25/2007 @ 12:00:00 AM
+4241,Bonescare,The Forsaken Delve of Lord Greywulf,15.62,Unknown Fatelightning Steel Of The Glacier,262.00,119.90,109.00,31413.8000,28558.0000,69339.39516000,03/25/2007 @ 12:00:00 AM
+26562,"Song, Runetomb",The Chuallanto Jungle,11.00,Shadowhell Mithril,300.00,462.21,420.19,138663.0000,126057.0000,293839.20000000,03/25/2007 @ 12:00:00 AM
+3330,"Song, Runetomb",The Tomb of Gothmog of Udun,11.00,Unknowable Mindsilver,223.00,34.00,159.00,7582.0000,35457.0000,47773.29000000,03/25/2007 @ 12:00:00 AM
+13412,"Dagger, Reaper",The Citadel of Alammius,27.00,Magicians' Legendary Poison Metal,208.00,-52.81,-48.01,-10984.4800,-9986.0800,-26632.61120000,03/25/2007 @ 12:00:00 AM
+36011,Chainhorror,The Nulukkhath Spires,28.99,Vampires' Fang Emeraldsilver,344.00,2033.69,88.92,699589.3600,30588.4800,941856.39581600,03/25/2007 @ 12:00:00 AM
+24269,"Sephiroth, Drakecaster",Bifar's Deep,12.21,Negative Rockglitter Mercury Of Trolls,251.00,235.59,214.17,59133.0900,53756.6700,126673.59969600,03/25/2007 @ 12:00:00 AM
+26885,"Rouge, Tombreaper",Citadel Ward,4.40,Foulopal Copper Of The Skies,177.00,221.83,201.66,39263.9100,35693.8200,78255.87012000,03/25/2017 @ 12:00:00 AM

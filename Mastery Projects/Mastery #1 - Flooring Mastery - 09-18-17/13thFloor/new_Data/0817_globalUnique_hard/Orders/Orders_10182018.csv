@@ -1,20 +1,20 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-37873,"Dire, Wind",The Greedy Wench,13.31,Stone Soulsteel Of The Skies,102.00,453.31,453.31,46237.6200,46237.6200,104783.69444400,10/18/2018 @ 12:00:00 AM
-11476,Springcoil,The Fen of the Necromancer,20.00,Emerald Orichalcum,216.00,1957.00,118.01,422712.0000,25490.1600,537842.59200000,10/18/2018 @ 12:00:00 AM
-9000,"God of Animals, Byzou",The Lost Sanctum of Woe,43.20,Primordial Plague Mercury Of Legend,369.00,1150.79,67.00,424641.5100,24723.0000,643489.97832000,10/18/2018 @ 12:00:00 AM
-19101,"God of Fate, Uriel",Mahyrst Keep,31.30,Grayplatinum,149.00,2548.00,104.94,379652.0000,15636.0600,519013.22278000,10/18/2018 @ 12:00:00 AM
-22734,"Spiritraven, Bedlam",The Tomb of Hellish Ruin,36.30,Primordial Mud Orichalcum,289.00,1113.00,20.57,321657.0000,5944.7300,446521.15799000,10/18/2018 @ 12:00:00 AM
-9088,"Goddess of Knowledge, Baltha",The Black Barrow of Bery,19.80,Planar Mudtin Of Trolls,84.00,191.40,174.00,16077.6000,14616.0000,36770.93280000,10/18/2018 @ 12:00:00 AM
-33694,"The Disinterred, Spikebrood",The Archer and Scroll,60.12,Undeads' Mind Orichalcum Of The Twilight,264.00,1169.00,364.69,308616.0000,96278.1600,648316.52899200,10/18/2018 @ 12:00:00 AM
-8359,"God of the Lost, Lionare",Gawold Castle,10.29,Phantasmal Smokezephyr Mercury Of Men,223.00,211.20,192.00,47097.6000,42816.0000,99165.70944000,10/18/2018 @ 12:00:00 AM
-20619,"The Freezer, Shiverflame",Arcanist's Farthing,29.00,Vampires' Fang Emeraldsilver,105.00,2033.69,80.84,213537.4500,8488.2000,286413.08850000,10/18/2018 @ 12:00:00 AM
-9774,Evilbrood,The Fortress of the Lich Queen,17.13,Forgotten Mithril,117.00,3909.75,496.10,457440.7500,58043.7000,603786.93628500,10/18/2018 @ 12:00:00 AM
-31699,"Tsunami, Seraphim",Weke Tower,47.19,Fairies' Supreme Mistsmoke Lead Of The Future,110.00,499.73,549.70,54970.3000,60467.0000,169912.16187000,10/18/2018 @ 12:00:00 AM
-8656,"Drakecaster, Sephiroth",Reheath Stronghold,39.60,Primordial Plague Mercury Of Legend,145.00,1150.79,67.00,166864.5500,9715.0000,246505.05180000,10/18/2018 @ 12:00:00 AM
-28124,Gravebone,Bifar's Deep,12.21,Undeads' Mind Orichalcum Of The Twilight,111.00,1169.00,364.69,129759.0000,40480.5900,191025.84393900,10/18/2018 @ 12:00:00 AM
-412,"The Firey, Evilember",The Bastion of Sthasu the Gruesome,40.00,Ghostly Soul Adamant,129.00,411.00,377.00,53019.0000,48633.0000,142312.80000000,10/18/2018 @ 12:00:00 AM
-28397,"Seraphheart, Storm",Barad Cune,49.21,Vampires' Fang Emeraldsilver,106.00,2033.69,80.84,215571.1400,8569.0400,334439.56257800,10/18/2018 @ 12:00:00 AM
-5003,"The Cadaverous, Chainblade",The Tower of Sabiesu the Awesome,10.00,Phantasmal Smokezephyr Mercury Of Men,234.00,211.20,192.00,49420.8000,44928.0000,103783.68000000,10/18/2018 @ 12:00:00 AM
-29727,"God of Death, Avriel",The Greedy Wench,13.31,Swordbronze,316.00,403.29,366.63,127439.6400,115855.0800,275677.24723200,10/18/2018 @ 12:00:00 AM
-30829,"Godseeker, Cult",The Fortress of Akkun the Grim,27.03,Ensorceled Sandmetal Of Spirits,258.00,85.18,77.44,21976.4400,19979.5200,53296.65598800,10/18/2018 @ 12:00:00 AM
-14275,Emberfire,North Arcanist's Farthing,2.75,Mind Lead,347.00,241.00,219.09,83627.0000,76024.2300,164041.63882500,10/18/2018 @ 12:00:00 AM
+37873,"Wind, Dire",The Greedy Wench,13.31,Stone Soulsteel Of The Skies,102.00,453.31,453.31,46237.6200,46237.6200,104783.69444400,10/18/2008 @ 12:00:00 AM
+11476,Springcoil,The Fen of the Necromancer,20.00,Emerald Orichalcum,216.00,1957.00,118.01,422712.0000,25490.1600,537842.59200000,10/18/2008 @ 12:00:00 AM
+9000,"Byzou, God of Animals",The Lost Sanctum of Woe,43.20,Primordial Plague Mercury Of Legend,369.00,1150.79,67.00,424641.5100,24723.0000,643489.97832000,10/18/2008 @ 12:00:00 AM
+19101,"Uriel, God of Fate",Mahyrst Keep,31.30,Grayplatinum,149.00,2548.00,104.94,379652.0000,15636.0600,519013.22278000,10/18/2008 @ 12:00:00 AM
+22734,"Bedlam, Spiritraven",The Tomb of Hellish Ruin,36.30,Primordial Mud Orichalcum,289.00,1113.00,20.57,321657.0000,5944.7300,446521.15799000,10/18/2008 @ 12:00:00 AM
+9088,"Baltha, Goddess of Knowledge",The Black Barrow of Bery,19.80,Planar Mudtin Of Trolls,84.00,191.40,174.00,16077.6000,14616.0000,36770.93280000,10/18/2008 @ 12:00:00 AM
+33694,"Spikebrood, The Disinterred",The Archer and Scroll,60.12,Undeads' Mind Orichalcum Of The Twilight,264.00,1169.00,364.69,308616.0000,96278.1600,648316.52899200,10/18/2008 @ 12:00:00 AM
+8359,"Lionare, God of the Lost",Gawold Castle,10.29,Phantasmal Smokezephyr Mercury Of Men,223.00,211.20,192.00,47097.6000,42816.0000,99165.70944000,10/18/2008 @ 12:00:00 AM
+20619,"Shiverflame, The Freezer",Arcanist's Farthing,29.00,Vampires' Fang Emeraldsilver,105.00,2033.69,80.84,213537.4500,8488.2000,286413.08850000,10/18/2008 @ 12:00:00 AM
+9774,Evilbrood,The Fortress of the Lich Queen,17.13,Forgotten Mithril,117.00,3909.75,496.10,457440.7500,58043.7000,603786.93628500,10/18/2008 @ 12:00:00 AM
+31699,"Seraphim, Tsunami",Weke Tower,47.19,Fairies' Supreme Mistsmoke Lead Of The Future,110.00,499.73,549.70,54970.3000,60467.0000,169912.16187000,10/18/2008 @ 12:00:00 AM
+8656,"Sephiroth, Drakecaster",Reheath Stronghold,39.60,Primordial Plague Mercury Of Legend,145.00,1150.79,67.00,166864.5500,9715.0000,246505.05180000,10/18/2008 @ 12:00:00 AM
+28124,Gravebone,Bifar's Deep,12.21,Undeads' Mind Orichalcum Of The Twilight,111.00,1169.00,364.69,129759.0000,40480.5900,191025.84393900,10/18/2008 @ 12:00:00 AM
+412,"Evilember, The Firey",The Bastion of Sthasu the Gruesome,40.00,Ghostly Soul Adamant,129.00,411.00,377.00,53019.0000,48633.0000,142312.80000000,10/18/2008 @ 12:00:00 AM
+28397,"Storm, Seraphheart",Barad Cune,49.21,Vampires' Fang Emeraldsilver,106.00,2033.69,80.84,215571.1400,8569.0400,334439.56257800,10/18/2008 @ 12:00:00 AM
+5003,"Chainblade, The Cadaverous",The Tower of Sabiesu the Awesome,10.00,Phantasmal Smokezephyr Mercury Of Men,234.00,211.20,192.00,49420.8000,44928.0000,103783.68000000,10/18/2008 @ 12:00:00 AM
+29727,"Avriel, God of Death",The Greedy Wench,13.31,Swordbronze,316.00,403.29,366.63,127439.6400,115855.0800,275677.24723200,10/18/2008 @ 12:00:00 AM
+30829,"Cult, Godseeker",The Fortress of Akkun the Grim,27.03,Ensorceled Sandmetal Of Spirits,258.00,85.18,77.44,21976.4400,19979.5200,53296.65598800,10/18/2008 @ 12:00:00 AM
+14275,Emberfire,North Arcanist's Farthing,2.75,Mind Lead,347.00,241.00,219.09,83627.0000,76024.2300,164041.63882500,10/18/2008 @ 12:00:00 AM

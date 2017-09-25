@@ -1,21 +1,21 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-25675,"Dawn, Tarot",The Fortress of Akkun the Grim,27.03,Mithril Of The Tropics,67.00,276.72,276.72,18540.2400,18540.2400,47103.33374400,09/29/2017 @ 12:00:00 AM
-24324,"Wind, Maverick",The Forsaken Sepulcher of Sorrows,31.36,Foul Ice Bronze Of Life,323.00,292.82,266.20,94580.8600,85982.6000,237188.16105600,09/29/2017 @ 12:00:00 AM
-13860,"Tsunami, Seraphim",Kada's Deep,8.42,Magicians' Legendary Poison Metal,185.00,-52.81,-48.01,-9769.8500,-8881.8500,-20222.17314000,09/29/2017 @ 12:00:00 AM
-23123,"God of Fate, Uriel",The Fortress of Akkun the Grim,27.03,Forgotten Mithril,43.00,545.71,496.10,23465.5300,21332.3000,56906.68344900,09/29/2017 @ 12:00:00 AM
-11527,"God of Animals, Byzou",North Arcanist's Farthing,2.50,Emerald Orichalcum,246.00,1957.00,118.01,481422.0000,29030.4600,523213.77150000,09/29/2017 @ 12:00:00 AM
-11520,"The Evil, Burnchill",North Arcanist's Farthing,2.50,Phantasmal Lead,58.00,21.92,19.93,1271.3600,1155.9400,2487.98250000,09/29/2017 @ 12:00:00 AM
-21438,"Amberslayer, Flora",North Arcanist's Farthing,3.03,Starsmoke Bronze Of Life,213.00,-438.00,420.81,-93294.0000,89632.5300,-3772.41254100,09/29/2017 @ 12:00:00 AM
-21436,"Drakecaster, Sephiroth",Citadel Ward,4.40,Starsmoke Bronze Of Life,134.00,-438.00,420.81,-58692.0000,56388.5400,-2404.81224000,09/29/2017 @ 12:00:00 AM
-10927,"The Evil, Snowflame",Gena's Hold,4.84,Phantasmal Smokezephyr Mercury Of Men,333.00,211.20,192.00,70329.6000,63936.0000,140764.05504000,09/29/2017 @ 12:00:00 AM
-20537,Spikesnare,Reyny Keep,-3.35,Unknowable Mindsilver,125.00,174.90,174.90,21862.5000,21862.5000,42260.21250000,09/29/2017 @ 12:00:00 AM
-30158,"Goddess of Travel, Lenwenye",The Tower of Sabiesu the Awesome,10.00,Incubi's Glittering Tin Of The Future,259.00,192.96,233.49,49976.6400,60473.9100,121495.60500000,09/29/2017 @ 12:00:00 AM
-8449,"Angelchild, Harmony",The Bastion of Sthasu the Gruesome,40.00,Lycanthropes' Gold,177.00,371.80,338.00,65808.6000,59826.0000,175888.44000000,09/29/2017 @ 12:00:00 AM
-18789,Chainnail,The Bastion of Barbos,25.41,Trolls' Mist Poisonplatinum Of The Twilight,118.00,484.62,440.56,57185.1600,51986.0800,136911.65208400,09/29/2017 @ 12:00:00 AM
-29528,"God of Protection, Finarfin",Bifar's Deep,12.21,Unknown Fatelightning Steel Of The Glacier,226.00,145.08,159.59,32788.0800,36067.3400,77262.66678200,09/29/2017 @ 12:00:00 AM
-6489,"God of Fate, Uriel",Archring Borough,29.70,Fleshshock Mercury,236.00,-31.02,-28.20,-7320.7200,-6655.2000,-18126.76824000,09/29/2017 @ 12:00:00 AM
-6803,"Godwarlock, Sunrise",The Lost Sanctum of Woe,43.20,Dragons' Poison Glitterflesh Steel Of The North,231.00,742.00,75.00,171402.0000,17325.0000,270257.06400000,09/29/2017 @ 12:00:00 AM
-3032,"Brand, Lightning",The Fortress of the Lich Queen,17.13,Emerald Orichalcum,309.00,1957.00,118.01,604713.0000,36465.0900,751011.89681700,09/29/2017 @ 12:00:00 AM
-3187,Emberspawn,The Archer and Scroll,45.16,Warlocks' Timerot Mithril,65.00,725.00,176.95,47125.0000,11501.7500,85102.59030000,09/29/2017 @ 12:00:00 AM
-12071,"The Evil, Burnchill",Citadel Ward,4.40,Phantasmal Tin Of The Swamps,143.00,3207.64,305.00,458692.5200,43615.0000,524409.05088000,09/29/2017 @ 12:00:00 AM
-24115,Bolttrap,Fellfen Keep,38.00,Incubi's Glittering Tin Of The Future,283.00,192.96,212.26,54607.6800,60069.5800,158254.61880000,09/29/2017 @ 12:00:00 AM
+25675,"Tarot, Dawn",The Fortress of Akkun the Grim,27.03,Mithril Of The Tropics,67.00,276.72,276.72,18540.2400,18540.2400,47103.33374400,09/29/2007 @ 12:00:00 AM
+24324,"Maverick, Wind",The Forsaken Sepulcher of Sorrows,31.36,Foul Ice Bronze Of Life,323.00,292.82,266.20,94580.8600,85982.6000,237188.16105600,09/29/2007 @ 12:00:00 AM
+13860,"Seraphim, Tsunami",Kada's Deep,8.42,Magicians' Legendary Poison Metal,185.00,-52.81,-48.01,-9769.8500,-8881.8500,-20222.17314000,09/29/2007 @ 12:00:00 AM
+23123,"Uriel, God of Fate",The Fortress of Akkun the Grim,27.03,Forgotten Mithril,43.00,545.71,496.10,23465.5300,21332.3000,56906.68344900,09/29/2007 @ 12:00:00 AM
+11527,"Byzou, God of Animals",North Arcanist's Farthing,2.50,Emerald Orichalcum,246.00,1957.00,118.01,481422.0000,29030.4600,523213.77150000,09/29/2007 @ 12:00:00 AM
+11520,"Burnchill, The Evil",North Arcanist's Farthing,2.50,Phantasmal Lead,58.00,21.92,19.93,1271.3600,1155.9400,2487.98250000,09/29/2007 @ 12:00:00 AM
+21438,"Flora, Amberslayer",North Arcanist's Farthing,3.03,Starsmoke Bronze Of Life,213.00,-438.00,420.81,-93294.0000,89632.5300,-3772.41254100,09/29/2007 @ 12:00:00 AM
+21436,"Sephiroth, Drakecaster",Citadel Ward,4.40,Starsmoke Bronze Of Life,134.00,-438.00,420.81,-58692.0000,56388.5400,-2404.81224000,09/29/2007 @ 12:00:00 AM
+10927,"Snowflame, The Evil",Gena's Hold,4.84,Phantasmal Smokezephyr Mercury Of Men,333.00,211.20,192.00,70329.6000,63936.0000,140764.05504000,09/29/2007 @ 12:00:00 AM
+20537,Spikesnare,Reyny Keep,-3.35,Unknowable Mindsilver,125.00,174.90,174.90,21862.5000,21862.5000,42260.21250000,09/29/2007 @ 12:00:00 AM
+30158,"Lenwenye, Goddess of Travel",The Tower of Sabiesu the Awesome,10.00,Incubi's Glittering Tin Of The Future,259.00,192.96,233.49,49976.6400,60473.9100,121495.60500000,09/29/2007 @ 12:00:00 AM
+8449,"Harmony, Angelchild",The Bastion of Sthasu the Gruesome,40.00,Lycanthropes' Gold,177.00,371.80,338.00,65808.6000,59826.0000,175888.44000000,09/29/2007 @ 12:00:00 AM
+18789,Chainnail,The Bastion of Barbos,25.41,Trolls' Mist Poisonplatinum Of The Twilight,118.00,484.62,440.56,57185.1600,51986.0800,136911.65208400,09/29/2007 @ 12:00:00 AM
+29528,"Finarfin, God of Protection",Bifar's Deep,12.21,Unknown Fatelightning Steel Of The Glacier,226.00,145.08,159.59,32788.0800,36067.3400,77262.66678200,09/29/2007 @ 12:00:00 AM
+6489,"Uriel, God of Fate",Archring Borough,29.70,Fleshshock Mercury,236.00,-31.02,-28.20,-7320.7200,-6655.2000,-18126.76824000,09/29/2007 @ 12:00:00 AM
+6803,"Sunrise, Godwarlock",The Lost Sanctum of Woe,43.20,Dragons' Poison Glitterflesh Steel Of The North,231.00,742.00,75.00,171402.0000,17325.0000,270257.06400000,09/29/2007 @ 12:00:00 AM
+3032,"Lightning, Brand",The Fortress of the Lich Queen,17.13,Emerald Orichalcum,309.00,1957.00,118.01,604713.0000,36465.0900,751011.89681700,09/29/2007 @ 12:00:00 AM
+3187,Emberspawn,The Archer and Scroll,45.16,Warlocks' Timerot Mithril,65.00,725.00,176.95,47125.0000,11501.7500,85102.59030000,09/29/2007 @ 12:00:00 AM
+12071,"Burnchill, The Evil",Citadel Ward,4.40,Phantasmal Tin Of The Swamps,143.00,3207.64,305.00,458692.5200,43615.0000,524409.05088000,09/29/2007 @ 12:00:00 AM
+24115,Bolttrap,Fellfen Keep,38.00,Incubi's Glittering Tin Of The Future,283.00,192.96,212.26,54607.6800,60069.5800,158254.61880000,09/29/2007 @ 12:00:00 AM

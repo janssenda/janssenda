@@ -1,9 +1,9 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-35746,"Lord of Nightmares, Iran",The Nulukkhath Spires,28.99,Lycanthropes' Gold,324.00,449.88,408.98,145761.1200,132509.5200,358941.29853600,08/22/2015 @ 12:00:00 AM
-35720,"The Cold, Burnfreeze",The Fortress of the Lich Queen,22.79,Ghouls' Imperial Soulzephyr Mithril Of The Seas,280.00,318.23,318.23,89104.4000,89104.4000,218822.58552000,08/22/2015 @ 12:00:00 AM
-20581,"The Disinterred, Spikebrood",The Greedy Wench,13.31,Magicians' Legendary Poison Metal,209.00,-52.81,-48.01,-11037.2900,-10034.0900,-23875.98067800,08/22/2015 @ 12:00:00 AM
-27263,Wheelspawn,The Pirate's Pipe,16.94,Sprites' Transcendent Mud Lead Of The South,291.00,3338.65,267.08,971547.1500,77720.2800,1227013.33264200,08/22/2015 @ 12:00:00 AM
-5342,"Ivycaster, Fate",The Dismal Marsh,27.00,Phantasmal Smokezephyr Mercury Of Men,275.00,211.20,192.00,58080.0000,52800.0000,140817.60000000,08/22/2015 @ 12:00:00 AM
-15545,"Lord of the Sun, Maglioneth",The Fortress of Asmamur,-2.66,Starsmoke Bronze Of Life,314.00,-438.00,420.81,-137532.0000,132134.3400,-5254.08224400,08/22/2015 @ 12:00:00 AM
-25017,"Seraphheart, Storm",The Bastion of Barbos,25.41,Foul Ice Bronze Of Life,263.00,292.82,266.20,77011.6600,70010.6000,184380.61626600,08/22/2015 @ 12:00:00 AM
-26767,"God of Luck, Ariel",Khali's Delve,1.30,Heavenly Dreamsilver Of The Night,116.00,719.00,314.60,83404.0000,36493.6000,121456.26880000,08/22/2015 @ 12:00:00 AM
+35746,"Iran, Lord of Nightmares",The Nulukkhath Spires,28.99,Lycanthropes' Gold,324.00,449.88,408.98,145761.1200,132509.5200,358941.29853600,08/22/2005 @ 12:00:00 AM
+35720,"Burnfreeze, The Cold",The Fortress of the Lich Queen,22.79,Ghouls' Imperial Soulzephyr Mithril Of The Seas,280.00,318.23,318.23,89104.4000,89104.4000,218822.58552000,08/22/2015 @ 12:00:00 AM
+20581,"Spikebrood, The Disinterred",The Greedy Wench,13.31,Magicians' Legendary Poison Metal,209.00,-52.81,-48.01,-11037.2900,-10034.0900,-23875.98067800,08/22/2005 @ 12:00:00 AM
+27263,Wheelspawn,The Pirate's Pipe,16.94,Sprites' Transcendent Mud Lead Of The South,291.00,3338.65,267.08,971547.1500,77720.2800,1227013.33264200,08/22/2005 @ 12:00:00 AM
+5342,"Fate, Ivycaster",The Dismal Marsh,27.00,Phantasmal Smokezephyr Mercury Of Men,275.00,211.20,192.00,58080.0000,52800.0000,140817.60000000,08/22/2005 @ 12:00:00 AM
+15545,"Maglioneth, Lord of the Sun",The Fortress of Asmamur,-2.66,Starsmoke Bronze Of Life,314.00,-438.00,420.81,-137532.0000,132134.3400,-5254.08224400,08/22/2005 @ 12:00:00 AM
+25017,"Storm, Seraphheart",The Bastion of Barbos,25.41,Foul Ice Bronze Of Life,263.00,292.82,266.20,77011.6600,70010.6000,184380.61626600,08/22/2015 @ 12:00:00 AM
+26767,"Ariel, God of Luck",Khali's Delve,1.30,Heavenly Dreamsilver Of The Night,116.00,719.00,314.60,83404.0000,36493.6000,121456.26880000,08/22/2015 @ 12:00:00 AM

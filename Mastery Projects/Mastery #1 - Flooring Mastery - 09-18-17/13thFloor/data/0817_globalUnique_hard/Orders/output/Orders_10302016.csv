@@ -1,20 +1,20 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-12619,Cinderember,Noble's Village,5.43,White Platinum,249.00,83.49,91.84,20789.0100,22868.1600,46027.75433100,10/30/2016 @ 12:00:00 AM
-35402,"The Blade, Scarefear",Bifar's Deep,12.21,Lycanthropes' Gold,321.00,449.88,408.98,144411.4800,131282.5800,309356.30472600,10/30/2016 @ 12:00:00 AM
-23706,"Lord of Death, Addon",The Scoundrel and Flask,45.25,Djinni's Mind Fogiron,167.00,57.23,57.23,9557.4100,9557.4100,27764.27605000,10/30/2016 @ 12:00:00 AM
-33033,"Runetomb, Song",Pewold Keep,29.00,Mind Lead,312.00,241.00,219.09,75192.0000,68356.0800,185177.02320000,10/30/2016 @ 12:00:00 AM
-19022,"The Disinterred, Spikebrood",Mahyrst Keep,31.30,Foul Ice Bronze Of Life,186.00,292.82,266.20,54464.5200,49513.2000,136522.74636000,10/30/2016 @ 12:00:00 AM
-32674,Springsprocket,The Chuallanto Jungle,11.00,Grayplatinum,306.00,2548.00,104.94,779688.0000,32111.6400,901097.60040000,10/30/2016 @ 12:00:00 AM
-20611,"Mist, Claw",Mahyrst Keep,31.30,Grayplatinum,253.00,2548.00,104.94,644644.0000,26549.8200,881277.48566000,10/30/2016 @ 12:00:00 AM
-20729,"God of Death, Avriel",Moor Village,11.32,Vampires' Fang Emeraldsilver,234.00,2033.69,80.84,475883.4600,18916.5600,550811.38226400,10/30/2016 @ 12:00:00 AM
-8590,"God of Luck, Ariel",The Bastion of Sthasu the Gruesome,40.00,Starsmoke Bronze Of Life,273.00,-438.00,420.81,-119574.0000,114881.1300,-6570.01800000,10/30/2016 @ 12:00:00 AM
-458,"Mistseeker, Grave",The Bastion of Sthasu the Gruesome,40.00,Ghostly Soul Adamant,275.00,411.00,377.00,113025.0000,103675.0000,303380.00000000,10/30/2016 @ 12:00:00 AM
-7577,"The Blade, Steelterror",The Khazahol Crags,20.68,Vampires' Hammer Emeraldmetal,249.00,77.44,70.40,19282.5600,17529.6000,44424.91468800,10/30/2016 @ 12:00:00 AM
-5381,"The Evil, Burnchill",Dysley Stronghold,32.28,Unspeakable Rotsoul Mithril Of Souls,290.00,2076.95,306.00,602315.5000,88740.0000,914128.21540000,10/30/2016 @ 12:00:00 AM
-16907,"The Constructed, Snaretool",North Arcanist's Farthing,2.75,Warlocks' Timerot Mithril,192.00,725.00,176.95,139200.0000,33974.4000,177936.69600000,10/30/2016 @ 12:00:00 AM
-14217,"Drakecaster, Sephiroth",Gili's Delve,35.89,Vampires' Hammer Emeraldmetal,242.00,77.44,70.40,18740.4800,17036.8000,48617.74579200,10/30/2016 @ 12:00:00 AM
-13044,"Lord of Animals, Suriel",Bifar's Deep,10.09,Foulopal Copper Of The Skies,259.00,201.66,201.66,52229.9400,52229.9400,114999.88189200,10/30/2016 @ 12:00:00 AM
-14467,"The Living Device, Mecharig",North Arcanist's Farthing,2.75,Negative Rockglitter Mercury Of Trolls,175.00,3502.00,214.17,612850.0000,37479.7500,668213.81812500,10/30/2016 @ 12:00:00 AM
-27912,"Seraphheart, Storm",The Bastion of Gothmog of Udun,-2.42,Unknown Fatelightning Steel Of The Glacier,175.00,145.08,159.59,25389.0000,27928.2500,52026.97255000,10/30/2016 @ 12:00:00 AM
-14678,"Felldrake, Magus",The Fortress of Akkun the Grim,27.03,Lycanthropes' Gold,58.00,371.80,338.00,21564.4000,19604.0000,52296.21852000,10/30/2016 @ 12:00:00 AM
-24252,"God of Resurrection, Gadriel",The Lewd King,45.98,Toxic Mistlead Of The Past,144.00,396.06,396.06,57032.6400,57032.6400,166512.49574400,10/30/2016 @ 12:00:00 AM
+12619,Cinderember,Noble's Village,5.43,White Platinum,249.00,83.49,91.84,20789.0100,22868.1600,46027.75433100,10/30/1946 @ 12:00:00 AM
+35402,"The Blade, Scarefear",Bifar's Deep,12.21,Lycanthropes' Gold,321.00,449.88,408.98,144411.4800,131282.5800,309356.30472600,10/30/1946 @ 12:00:00 AM
+23706,"Lord of Death, Addon",The Scoundrel and Flask,45.25,Djinni's Mind Fogiron,167.00,57.23,57.23,9557.4100,9557.4100,27764.27605000,10/30/1946 @ 12:00:00 AM
+33033,"Runetomb, Song",Pewold Keep,29.00,Mind Lead,312.00,241.00,219.09,75192.0000,68356.0800,185177.02320000,10/30/1946 @ 12:00:00 AM
+19022,"The Disinterred, Spikebrood",Mahyrst Keep,31.30,Foul Ice Bronze Of Life,186.00,292.82,266.20,54464.5200,49513.2000,136522.74636000,10/30/1946 @ 12:00:00 AM
+32674,Springsprocket,The Chuallanto Jungle,11.00,Grayplatinum,306.00,2548.00,104.94,779688.0000,32111.6400,901097.60040000,10/30/1946 @ 12:00:00 AM
+20611,"Mist, Claw",Mahyrst Keep,31.30,Grayplatinum,253.00,2548.00,104.94,644644.0000,26549.8200,881277.48566000,10/30/1946 @ 12:00:00 AM
+20729,"God of Death, Avriel",Moor Village,11.32,Vampires' Fang Emeraldsilver,234.00,2033.69,80.84,475883.4600,18916.5600,550811.38226400,10/30/1946 @ 12:00:00 AM
+8590,"God of Luck, Ariel",The Bastion of Sthasu the Gruesome,40.00,Starsmoke Bronze Of Life,273.00,-438.00,420.81,-119574.0000,114881.1300,-6570.01800000,10/30/1946 @ 12:00:00 AM
+458,"Mistseeker, Grave",The Bastion of Sthasu the Gruesome,40.00,Ghostly Soul Adamant,275.00,411.00,377.00,113025.0000,103675.0000,303380.00000000,10/30/1946 @ 12:00:00 AM
+7577,"The Blade, Steelterror",The Khazahol Crags,20.68,Vampires' Hammer Emeraldmetal,249.00,77.44,70.40,19282.5600,17529.6000,44424.91468800,10/30/1946 @ 12:00:00 AM
+5381,"The Evil, Burnchill",Dysley Stronghold,32.28,Unspeakable Rotsoul Mithril Of Souls,290.00,2076.95,306.00,602315.5000,88740.0000,914128.21540000,10/30/1946 @ 12:00:00 AM
+16907,"The Constructed, Snaretool",North Arcanist's Farthing,2.75,Warlocks' Timerot Mithril,192.00,725.00,176.95,139200.0000,33974.4000,177936.69600000,10/30/1946 @ 12:00:00 AM
+14217,"Drakecaster, Sephiroth",Gili's Delve,35.89,Vampires' Hammer Emeraldmetal,242.00,77.44,70.40,18740.4800,17036.8000,48617.74579200,10/30/1946 @ 12:00:00 AM
+13044,"Lord of Animals, Suriel",Bifar's Deep,10.09,Foulopal Copper Of The Skies,259.00,201.66,201.66,52229.9400,52229.9400,114999.88189200,10/30/1976 @ 12:00:00 AM
+14467,"The Living Device, Mecharig",North Arcanist's Farthing,2.75,Negative Rockglitter Mercury Of Trolls,175.00,3502.00,214.17,612850.0000,37479.7500,668213.81812500,10/30/1946 @ 12:00:00 AM
+27912,"Seraphheart, Storm",The Bastion of Gothmog of Udun,-2.42,Unknown Fatelightning Steel Of The Glacier,175.00,145.08,159.59,25389.0000,27928.2500,52026.97255000,10/30/1946 @ 12:00:00 AM
+14678,"Felldrake, Magus",The Fortress of Akkun the Grim,27.03,Lycanthropes' Gold,58.00,371.80,338.00,21564.4000,19604.0000,52296.21852000,10/30/1946 @ 12:00:00 AM
+24252,"God of Resurrection, Gadriel",The Lewd King,45.98,Toxic Mistlead Of The Past,144.00,396.06,396.06,57032.6400,57032.6400,166512.49574400,10/30/1946 @ 12:00:00 AM

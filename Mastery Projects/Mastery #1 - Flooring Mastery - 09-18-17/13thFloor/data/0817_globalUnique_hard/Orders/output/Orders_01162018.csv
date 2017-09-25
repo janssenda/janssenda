@@ -1,23 +1,23 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-37722,"Mist, Claw",The Greedy Wench,13.31,Ghouls' Imperial Soulzephyr Mithril Of The Seas,148.00,318.23,318.23,47098.0400,47098.0400,106733.57824800,01/16/2018 @ 12:00:00 AM
-3744,Chainhorror,Arcanist's Farthing,29.00,Unknown Fatelightning Steel Of The Glacier,326.00,119.90,109.00,39087.4000,35534.0000,96261.60600000,01/16/2018 @ 12:00:00 AM
-12493,"The Blade, Steelterror",Grori's Deep,27.50,Foul Ice Bronze Of Life,90.00,292.82,266.20,26353.8000,23958.0000,64147.54500000,01/16/2018 @ 12:00:00 AM
-37910,Cinderember,The Greedy Wench,13.31,Ghouls' Imperial Soulzephyr Mithril Of The Seas,164.00,318.23,318.23,52189.7200,52189.7200,118272.34346400,01/16/2018 @ 12:00:00 AM
-10379,Ironbrood,The Dungeon of Dismal Terror,44.30,Tritons' Time Stoneiron Of Legend,191.00,2235.00,310.54,426885.0000,59313.1400,701583.91602000,01/16/2018 @ 12:00:00 AM
-11759,Metalghoul,Gifeld Castle,27.28,Zephyr Adamant,206.00,481.77,-44.14,99244.6200,-9092.8400,114745.18558400,01/16/2018 @ 12:00:00 AM
-33209,"Lawslayer, Valentine",The Archer and Scroll,60.12,Fairies' Supreme Mistsmoke Lead Of The Future,185.00,499.73,549.70,92450.0500,101694.5000,310864.25346000,01/16/2018 @ 12:00:00 AM
-35902,"Knightseraph, Lance",The Nulukkhath Spires,28.99,Lycanthropes' Gold,329.00,449.88,408.98,148010.5200,134554.4200,364480.51610600,01/16/2018 @ 12:00:00 AM
-35990,Cinderflame,Bifar's Deep,12.21,Lycanthropes' Gold,140.00,449.88,408.98,62983.2000,57257.2000,134921.75284000,01/16/2018 @ 12:00:00 AM
-33418,"Reaper, Dagger",Pewold Keep,29.00,Mind Lead,115.00,241.00,219.09,27715.0000,25195.3500,68254.35150000,01/16/2018 @ 12:00:00 AM
-9095,"Lord of the Sun, Maglioneth",The Demon and Toad,-1.10,Unknowable Mindsilver,269.00,174.90,174.90,47048.1000,47048.1000,93061.14180000,01/16/2018 @ 12:00:00 AM
-34703,Wheelspawn,The Bastion of the Vampire Duke,45.86,Yellow Mistearth Copper,285.00,287.98,261.80,82074.3000,74613.0000,228544.09578000,01/16/2018 @ 12:00:00 AM
-32114,"The Unspeakable, Terrorghoul",Hafeld Keep,47.59,Fairies' Supreme Mistsmoke Lead Of The Future,84.00,499.73,549.70,41977.3200,46174.8000,130103.71390800,01/16/2018 @ 12:00:00 AM
-22991,"Seraphheart, Storm",Moor Village,11.32,Forgotten Mithril,69.00,545.71,496.10,37653.9900,34230.9000,80022.25954800,01/16/2018 @ 12:00:00 AM
-9368,"God of War, Ingwenel",Barad Kesa,5.10,Meteoric Mirrormuck Orichalcum Of The Forests,276.00,491.62,368.50,135687.1200,101706.0000,249500.16912000,01/16/2018 @ 12:00:00 AM
-33906,"Amberslayer, Flora",Barad Cune,49.21,Unspeakable Rotsoul Mithril Of Souls,308.00,370.26,336.60,114040.0800,103672.8000,324849.38824800,01/16/2018 @ 12:00:00 AM
-18427,"Angelchild, Harmony",The Tomb of Hellish Ruin,36.30,Phantasmal Tin Of The Swamps,129.00,3207.64,335.50,413785.5600,43279.5000,622979.67678000,01/16/2018 @ 12:00:00 AM
-8560,Spikecrank,Lamp Borough,0.00,Phantasmal Smokezephyr Mercury Of Men,192.00,211.20,192.00,40550.4000,36864.0000,77414.40000000,01/16/2018 @ 12:00:00 AM
-31961,"The Firey, Evilember",Weke Tower,47.19,Fairies' Supreme Mistsmoke Lead Of The Future,279.00,499.73,549.70,139424.6700,153366.3000,430959.02874300,01/16/2018 @ 12:00:00 AM
-6900,"God of Resurrection, Gadriel",The Barrow of Terrible Horror,27.39,Nymphs' Luminous Rotmercury Of The Skies,252.00,335.50,305.00,84546.0000,76860.0000,205615.10340000,01/16/2018 @ 12:00:00 AM
-15833,"Seraphheart, Storm",The Fortress of Asmamur,-2.66,Sirens' Rockgold,225.00,306.13,306.13,68879.2500,68879.2500,134094.12390000,01/16/2018 @ 12:00:00 AM
-25503,"Lonedrake, Clash",The Fortress of the Lich Queen,20.72,Primordial Mud Orichalcum,185.00,1113.00,20.57,205905.0000,3805.4500,253162.45524000,01/16/2018 @ 12:00:00 AM
+37722,"Mist, Claw",The Greedy Wench,13.31,Ghouls' Imperial Soulzephyr Mithril Of The Seas,148.00,318.23,318.23,47098.0400,47098.0400,106733.57824800,01/16/1948 @ 12:00:00 AM
+3744,Chainhorror,Arcanist's Farthing,29.00,Unknown Fatelightning Steel Of The Glacier,326.00,119.90,109.00,39087.4000,35534.0000,96261.60600000,01/16/1948 @ 12:00:00 AM
+12493,"The Blade, Steelterror",Grori's Deep,27.50,Foul Ice Bronze Of Life,90.00,292.82,266.20,26353.8000,23958.0000,64147.54500000,01/16/1948 @ 12:00:00 AM
+37910,Cinderember,The Greedy Wench,13.31,Ghouls' Imperial Soulzephyr Mithril Of The Seas,164.00,318.23,318.23,52189.7200,52189.7200,118272.34346400,01/16/1948 @ 12:00:00 AM
+10379,Ironbrood,The Dungeon of Dismal Terror,44.30,Tritons' Time Stoneiron Of Legend,191.00,2235.00,310.54,426885.0000,59313.1400,701583.91602000,01/16/1948 @ 12:00:00 AM
+11759,Metalghoul,Gifeld Castle,27.28,Zephyr Adamant,206.00,481.77,-44.14,99244.6200,-9092.8400,114745.18558400,01/16/1988 @ 12:00:00 AM
+33209,"Lawslayer, Valentine",The Archer and Scroll,60.12,Fairies' Supreme Mistsmoke Lead Of The Future,185.00,499.73,549.70,92450.0500,101694.5000,310864.25346000,01/16/1978 @ 12:00:00 AM
+35902,"Knightseraph, Lance",The Nulukkhath Spires,28.99,Lycanthropes' Gold,329.00,449.88,408.98,148010.5200,134554.4200,364480.51610600,01/16/1948 @ 12:00:00 AM
+35990,Cinderflame,Bifar's Deep,12.21,Lycanthropes' Gold,140.00,449.88,408.98,62983.2000,57257.2000,134921.75284000,01/16/1948 @ 12:00:00 AM
+33418,"Reaper, Dagger",Pewold Keep,29.00,Mind Lead,115.00,241.00,219.09,27715.0000,25195.3500,68254.35150000,01/16/1948 @ 12:00:00 AM
+9095,"Lord of the Sun, Maglioneth",The Demon and Toad,-1.10,Unknowable Mindsilver,269.00,174.90,174.90,47048.1000,47048.1000,93061.14180000,01/16/1948 @ 12:00:00 AM
+34703,Wheelspawn,The Bastion of the Vampire Duke,45.86,Yellow Mistearth Copper,285.00,287.98,261.80,82074.3000,74613.0000,228544.09578000,01/16/1948 @ 12:00:00 AM
+32114,"The Unspeakable, Terrorghoul",Hafeld Keep,47.59,Fairies' Supreme Mistsmoke Lead Of The Future,84.00,499.73,549.70,41977.3200,46174.8000,130103.71390800,01/16/1948 @ 12:00:00 AM
+22991,"Seraphheart, Storm",Moor Village,11.32,Forgotten Mithril,69.00,545.71,496.10,37653.9900,34230.9000,80022.25954800,01/16/1948 @ 12:00:00 AM
+9368,"God of War, Ingwenel",Barad Kesa,5.10,Meteoric Mirrormuck Orichalcum Of The Forests,276.00,491.62,368.50,135687.1200,101706.0000,249500.16912000,01/16/1948 @ 12:00:00 AM
+33906,"Amberslayer, Flora",Barad Cune,49.21,Unspeakable Rotsoul Mithril Of Souls,308.00,370.26,336.60,114040.0800,103672.8000,324849.38824800,01/16/1948 @ 12:00:00 AM
+18427,"Angelchild, Harmony",The Tomb of Hellish Ruin,36.30,Phantasmal Tin Of The Swamps,129.00,3207.64,335.50,413785.5600,43279.5000,622979.67678000,01/16/1948 @ 12:00:00 AM
+8560,Spikecrank,Lamp Borough,0.00,Phantasmal Smokezephyr Mercury Of Men,192.00,211.20,192.00,40550.4000,36864.0000,77414.40000000,01/16/1948 @ 12:00:00 AM
+31961,"The Firey, Evilember",Weke Tower,47.19,Fairies' Supreme Mistsmoke Lead Of The Future,279.00,499.73,549.70,139424.6700,153366.3000,430959.02874300,01/16/1948 @ 12:00:00 AM
+6900,"God of Resurrection, Gadriel",The Barrow of Terrible Horror,27.39,Nymphs' Luminous Rotmercury Of The Skies,252.00,335.50,305.00,84546.0000,76860.0000,205615.10340000,01/16/1948 @ 12:00:00 AM
+15833,"Seraphheart, Storm",The Fortress of Asmamur,-2.66,Sirens' Rockgold,225.00,306.13,306.13,68879.2500,68879.2500,134094.12390000,01/16/1948 @ 12:00:00 AM
+25503,"Lonedrake, Clash",The Fortress of the Lich Queen,20.72,Primordial Mud Orichalcum,185.00,1113.00,20.57,205905.0000,3805.4500,253162.45524000,01/16/1948 @ 12:00:00 AM

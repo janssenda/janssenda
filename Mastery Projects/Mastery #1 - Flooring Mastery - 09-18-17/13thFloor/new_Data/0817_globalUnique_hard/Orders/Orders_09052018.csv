@@ -1,21 +1,21 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-23025,Bronzespike,The Fortress of Akkun the Grim,27.03,Tritons' Time Stoneiron Of Legend,152.00,341.59,341.59,51921.6800,51921.6800,131912.22020800,09/05/2018 @ 12:00:00 AM
-12345,Gravebone,Castle Village,42.98,Incubi's Iron Of The Dawn,99.00,174.99,159.08,17324.0100,15748.9200,47287.67531400,09/05/2018 @ 12:00:00 AM
-11124,Metalbrood,The Broken Shield,12.00,Violetstone Tin Of Death,297.00,2091.85,20.90,621279.4500,6207.3000,702785.16000000,09/05/2018 @ 12:00:00 AM
-10103,"Mist, Claw",Grove Farthing,25.00,Muck Orichalcum Of Ogres,39.00,2080.00,97.93,81120.0000,3819.2700,106174.08750000,09/05/2018 @ 12:00:00 AM
-36660,"Lady of Vengeance, Zepul",The Fen of the Necromancer,32.21,Vampires' Hammer Emeraldmetal,118.00,93.70,85.18,11056.6000,10051.2400,27906.67526400,09/05/2018 @ 12:00:00 AM
-12882,"Felldrake, Magus",Noble's Village,5.43,Foulopal Copper Of The Skies,297.00,201.66,201.66,59893.0200,59893.0200,126290.42197200,09/05/2018 @ 12:00:00 AM
-35495,"The Freezer, Burnbrood",The Fortress of the Lich Queen,22.79,Vampires' Fang Emeraldsilver,333.00,2033.69,88.92,677218.7700,29610.3600,867915.48872700,09/05/2018 @ 12:00:00 AM
-35656,Graveterror,The Nulukkhath Spires,28.99,Magicians' Legendary Poison Metal,197.00,-52.81,-48.01,-10403.5700,-9457.9700,-25619.40044600,09/05/2018 @ 12:00:00 AM
-1784,"Seeker, Fate",The Forsaken Delve of Lord Greywulf,15.62,Spirits' Living Wordhammer Tin Of The Trees,207.00,3897.55,117.00,806792.8500,24219.0000,960815.90097000,09/05/2018 @ 12:00:00 AM
-21434,"Jester, Seraph",The Bastion of Gothmog of Udun,-2.42,Starsmoke Bronze Of Life,342.00,-438.00,420.81,-149796.0000,143917.0200,-5736.70868400,09/05/2018 @ 12:00:00 AM
-33463,"Brand, Lightning",The Archer and Scroll,60.12,Undeads' Mind Orichalcum Of The Twilight,156.00,1169.00,364.69,182364.0000,56891.6400,383096.13076800,09/05/2018 @ 12:00:00 AM
-9391,"Drakecaster, Sephiroth",The Black Barrow of Bery,19.80,Planar Mudtin Of Trolls,102.00,191.40,174.00,19522.8000,17748.0000,44650.41840000,09/05/2018 @ 12:00:00 AM
-18191,Ironbrood,The Dancing Minstrel,39.62,Fairies' Supreme Mistsmoke Lead Of The Future,200.00,499.73,454.30,99946.0000,90860.0000,266403.33720000,09/05/2018 @ 12:00:00 AM
-28152,"Godseeker, Cult",Barad Cune,49.21,Undeads' Mind Orichalcum Of The Twilight,181.00,1169.00,364.69,211589.0000,66008.8900,414203.81166900,09/05/2018 @ 12:00:00 AM
-28801,"The Grasping, Beamsprocket",The Chuallanto Jungle,11.00,Undeads' Mind Orichalcum Of The Twilight,129.00,1169.00,364.69,150801.0000,47045.0100,219609.07110000,09/05/2018 @ 12:00:00 AM
-4569,"Godseeker, Cult",Kada's Deep,7.65,Sphinxes' Unknown Poisongold Of The Future,229.00,3971.47,14.30,909466.6300,3274.7000,982566.04174500,09/05/2018 @ 12:00:00 AM
-4739,"Goddess of Knowledge, Ahah",The Tower of Sabiesu the Awesome,10.00,Violetdream Iron,206.00,2680.00,377.25,552080.0000,77713.5000,692772.85000000,09/05/2018 @ 12:00:00 AM
-3483,"The Terrifying, Deathspike",The Hunter and Rose,39.60,Unknown Fatelightning Steel Of The Glacier,147.00,119.90,109.00,17625.3000,16023.0000,46973.02680000,09/05/2018 @ 12:00:00 AM
-12207,Gravebone,The Nulukkhath Spires,28.99,Phantasmal Tin Of The Swamps,234.00,3207.64,305.00,750587.7600,71370.0000,1060243.31462400,09/05/2018 @ 12:00:00 AM
-26771,"Knightseraph, Lance",Bifar's Deep,12.21,Heavenly Dreamsilver Of The Night,35.00,719.00,314.60,25165.0000,11011.0000,40593.08960000,09/05/2018 @ 12:00:00 AM
+23025,Bronzespike,The Fortress of Akkun the Grim,27.03,Tritons' Time Stoneiron Of Legend,152.00,341.59,341.59,51921.6800,51921.6800,131912.22020800,09/05/2008 @ 12:00:00 AM
+12345,Gravebone,Castle Village,42.98,Incubi's Iron Of The Dawn,99.00,174.99,159.08,17324.0100,15748.9200,47287.67531400,09/05/2008 @ 12:00:00 AM
+11124,Metalbrood,The Broken Shield,12.00,Violetstone Tin Of Death,297.00,2091.85,20.90,621279.4500,6207.3000,702785.16000000,09/05/2008 @ 12:00:00 AM
+10103,"Claw, Mist",Grove Farthing,25.00,Muck Orichalcum Of Ogres,39.00,2080.00,97.93,81120.0000,3819.2700,106174.08750000,09/05/2008 @ 12:00:00 AM
+36660,"Zepul, Lady of Vengeance",The Fen of the Necromancer,32.21,Vampires' Hammer Emeraldmetal,118.00,93.70,85.18,11056.6000,10051.2400,27906.67526400,09/05/2008 @ 12:00:00 AM
+12882,"Magus, Felldrake",Noble's Village,5.43,Foulopal Copper Of The Skies,297.00,201.66,201.66,59893.0200,59893.0200,126290.42197200,09/05/2008 @ 12:00:00 AM
+35495,"Burnbrood, The Freezer",The Fortress of the Lich Queen,22.79,Vampires' Fang Emeraldsilver,333.00,2033.69,88.92,677218.7700,29610.3600,867915.48872700,09/05/2008 @ 12:00:00 AM
+35656,Graveterror,The Nulukkhath Spires,28.99,Magicians' Legendary Poison Metal,197.00,-52.81,-48.01,-10403.5700,-9457.9700,-25619.40044600,09/05/2008 @ 12:00:00 AM
+1784,"Fate, Seeker",The Forsaken Delve of Lord Greywulf,15.62,Spirits' Living Wordhammer Tin Of The Trees,207.00,3897.55,117.00,806792.8500,24219.0000,960815.90097000,09/05/2008 @ 12:00:00 AM
+21434,"Seraph, Jester",The Bastion of Gothmog of Udun,-2.42,Starsmoke Bronze Of Life,342.00,-438.00,420.81,-149796.0000,143917.0200,-5736.70868400,09/05/2008 @ 12:00:00 AM
+33463,"Lightning, Brand",The Archer and Scroll,60.12,Undeads' Mind Orichalcum Of The Twilight,156.00,1169.00,364.69,182364.0000,56891.6400,383096.13076800,09/05/2008 @ 12:00:00 AM
+9391,"Sephiroth, Drakecaster",The Black Barrow of Bery,19.80,Planar Mudtin Of Trolls,102.00,191.40,174.00,19522.8000,17748.0000,44650.41840000,09/05/2008 @ 12:00:00 AM
+18191,Ironbrood,The Dancing Minstrel,39.62,Fairies' Supreme Mistsmoke Lead Of The Future,200.00,499.73,454.30,99946.0000,90860.0000,266403.33720000,09/05/2008 @ 12:00:00 AM
+28152,"Cult, Godseeker",Barad Cune,49.21,Undeads' Mind Orichalcum Of The Twilight,181.00,1169.00,364.69,211589.0000,66008.8900,414203.81166900,09/05/2008 @ 12:00:00 AM
+28801,"Beamsprocket, The Grasping",The Chuallanto Jungle,11.00,Undeads' Mind Orichalcum Of The Twilight,129.00,1169.00,364.69,150801.0000,47045.0100,219609.07110000,09/05/2008 @ 12:00:00 AM
+4569,"Cult, Godseeker",Kada's Deep,7.65,Sphinxes' Unknown Poisongold Of The Future,229.00,3971.47,14.30,909466.6300,3274.7000,982566.04174500,09/05/2008 @ 12:00:00 AM
+4739,"Ahah, Goddess of Knowledge",The Tower of Sabiesu the Awesome,10.00,Violetdream Iron,206.00,2680.00,377.25,552080.0000,77713.5000,692772.85000000,09/05/2008 @ 12:00:00 AM
+3483,"Deathspike, The Terrifying",The Hunter and Rose,39.60,Unknown Fatelightning Steel Of The Glacier,147.00,119.90,109.00,17625.3000,16023.0000,46973.02680000,09/05/2008 @ 12:00:00 AM
+12207,Gravebone,The Nulukkhath Spires,28.99,Phantasmal Tin Of The Swamps,234.00,3207.64,305.00,750587.7600,71370.0000,1060243.31462400,09/05/2008 @ 12:00:00 AM
+26771,"Lance, Knightseraph",Bifar's Deep,12.21,Heavenly Dreamsilver Of The Night,35.00,719.00,314.60,25165.0000,11011.0000,40593.08960000,09/05/2008 @ 12:00:00 AM

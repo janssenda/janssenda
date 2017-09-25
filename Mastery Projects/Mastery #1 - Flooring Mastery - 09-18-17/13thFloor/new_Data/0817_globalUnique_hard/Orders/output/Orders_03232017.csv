@@ -1,14 +1,14 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-11560,"God of Love, Prusu",The Fortress of the Lich Queen,18.84,Violetdream Iron,147.00,414.98,377.25,61002.0600,55455.7500,138398.46140400,03/23/2017 @ 12:00:00 AM
-21309,"Godwarlock, Sunrise",Citadel Ward,4.40,Starsmoke Bronze Of Life,263.00,-438.00,420.81,-115194.0000,110673.0300,-4719.89268000,03/23/2017 @ 12:00:00 AM
-10890,"God of Love, Prusu",Kada's Deep,7.65,Phantasmal Smokezephyr Mercury Of Men,123.00,211.20,192.00,25977.6000,23616.0000,53387.51040000,03/23/2017 @ 12:00:00 AM
-34925,"The Binder, Springpulley",The Bastion of the Vampire Duke,45.86,Ghouls' Imperial Soulzephyr Mithril Of The Seas,272.00,318.23,318.23,86558.5600,86558.5600,252508.63123200,03/23/2017 @ 12:00:00 AM
-10936,"Felldrake, Magus",The Dungeon of Merciless Woe,3.61,Tritons' Time Stoneiron Of Legend,65.00,2235.00,310.54,145275.0000,20185.1000,171433.20961000,03/23/2017 @ 12:00:00 AM
-17004,"Jackalguard, Gale",North Arcanist's Farthing,2.75,Incubi's Glittering Tin Of The Future,192.00,192.96,212.26,37048.3200,40753.9200,79941.80160000,03/23/2017 @ 12:00:00 AM
-20843,"Goddess of Knowledge, Ahah",Mahyrst Keep,31.30,Plague Tin,144.00,465.25,422.95,66996.0000,60904.8000,167933.75040000,03/23/2017 @ 12:00:00 AM
-28035,"The Machine, Wheelbolt",Barad Cune,49.21,Negative Rockglitter Mercury Of Trolls,215.00,235.59,214.17,50651.8500,46046.5500,144283.68264000,03/23/2017 @ 12:00:00 AM
-16090,"Mistseeker, Grave",Gili's Delve,35.89,Lycanthropes' Gold,227.00,371.80,338.00,84398.6000,76726.0000,218952.21894000,03/23/2017 @ 12:00:00 AM
-6079,"Lawslayer, Valentine",The Warrior and Flagon,9.00,Mithril Of Legend,152.00,169.17,186.09,25713.8400,28285.6800,58859.47680000,03/23/2017 @ 12:00:00 AM
+11560,"Prusu, God of Love",The Fortress of the Lich Queen,18.84,Violetdream Iron,147.00,414.98,377.25,61002.0600,55455.7500,138398.46140400,03/23/2007 @ 12:00:00 AM
+21309,"Sunrise, Godwarlock",Citadel Ward,4.40,Starsmoke Bronze Of Life,263.00,-438.00,420.81,-115194.0000,110673.0300,-4719.89268000,03/23/2007 @ 12:00:00 AM
+10890,"Prusu, God of Love",Kada's Deep,7.65,Phantasmal Smokezephyr Mercury Of Men,123.00,211.20,192.00,25977.6000,23616.0000,53387.51040000,03/23/2007 @ 12:00:00 AM
+34925,"Springpulley, The Binder",The Bastion of the Vampire Duke,45.86,Ghouls' Imperial Soulzephyr Mithril Of The Seas,272.00,318.23,318.23,86558.5600,86558.5600,252508.63123200,03/23/2007 @ 12:00:00 AM
+10936,"Magus, Felldrake",The Dungeon of Merciless Woe,3.61,Tritons' Time Stoneiron Of Legend,65.00,2235.00,310.54,145275.0000,20185.1000,171433.20961000,03/23/2007 @ 12:00:00 AM
+17004,"Gale, Jackalguard",North Arcanist's Farthing,2.75,Incubi's Glittering Tin Of The Future,192.00,192.96,212.26,37048.3200,40753.9200,79941.80160000,03/23/2007 @ 12:00:00 AM
+20843,"Ahah, Goddess of Knowledge",Mahyrst Keep,31.30,Plague Tin,144.00,465.25,422.95,66996.0000,60904.8000,167933.75040000,03/23/2007 @ 12:00:00 AM
+28035,"Wheelbolt, The Machine",Barad Cune,49.21,Negative Rockglitter Mercury Of Trolls,215.00,235.59,214.17,50651.8500,46046.5500,144283.68264000,03/23/2007 @ 12:00:00 AM
+16090,"Grave, Mistseeker",Gili's Delve,35.89,Lycanthropes' Gold,227.00,371.80,338.00,84398.6000,76726.0000,218952.21894000,03/23/2007 @ 12:00:00 AM
+6079,"Valentine, Lawslayer",The Warrior and Flagon,9.00,Mithril Of Legend,152.00,169.17,186.09,25713.8400,28285.6800,58859.47680000,03/23/2007 @ 12:00:00 AM
 27266,Metalghoul,The Pirate's Pipe,16.94,Vampires' Hammer Emeraldmetal,80.00,93.70,85.18,7496.0000,6814.4000,16734.58176000,03/23/2017 @ 12:00:00 AM
-6740,"God of Luck, Ariel",The Chuallanto Jungle,10.00,Fleshshock Mercury,251.00,-31.02,-28.20,-7786.0200,-7078.2000,-16350.64200000,03/23/2017 @ 12:00:00 AM
-25457,"Ivycaster, Fate",Gili's Delve,35.89,Ghostly Soul Adamant,353.00,414.70,377.00,146389.1000,133081.0000,379771.91889000,03/23/2017 @ 12:00:00 AM
+6740,"Ariel, God of Luck",The Chuallanto Jungle,10.00,Fleshshock Mercury,251.00,-31.02,-28.20,-7786.0200,-7078.2000,-16350.64200000,03/23/2007 @ 12:00:00 AM
+25457,"Fate, Ivycaster",Gili's Delve,35.89,Ghostly Soul Adamant,353.00,414.70,377.00,146389.1000,133081.0000,379771.91889000,03/23/2007 @ 12:00:00 AM

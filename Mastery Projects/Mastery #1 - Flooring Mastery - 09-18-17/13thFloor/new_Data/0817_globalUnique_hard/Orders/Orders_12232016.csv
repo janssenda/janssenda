@@ -1,14 +1,14 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-2439,"Mist, Claw",The Dismal Marsh,27.00,Forgotten Mithril,148.00,3909.75,451.00,578643.0000,66748.0000,819646.57000000,12/23/2016 @ 12:00:00 AM
-37836,"The Blade, Scarefear",The Greedy Wench,13.31,Stone Soulsteel Of The Skies,223.00,453.31,453.31,101088.1300,101088.1300,229085.92020600,12/23/2016 @ 12:00:00 AM
-23140,"Godwarlock, Sunrise",The Fortress of Akkun the Grim,27.03,Tritons' Time Stoneiron Of Legend,77.00,341.59,341.59,26302.4300,26302.4300,66823.95365800,12/23/2016 @ 12:00:00 AM
-34177,"The Constructed, Snaretool",Mahyrst Keep,31.30,Primordial Plague Mercury Of Legend,326.00,73.70,67.00,24026.2000,21842.0000,60224.94660000,12/23/2016 @ 12:00:00 AM
-33065,"Gust, Shadow",The Archer and Scroll,60.12,Fairies' Supreme Mistsmoke Lead Of The Future,174.00,499.73,549.70,86953.0200,95647.8000,292380.43298400,12/23/2016 @ 12:00:00 AM
-21535,"The Machine, Evilcoil",North Arcanist's Farthing,3.03,Yellow Mistearth Copper,151.00,287.98,261.80,43484.9800,39531.8000,85532.18843400,12/23/2016 @ 12:00:00 AM
-32346,"Amberslayer, Flora",Citadel Ward,4.40,Negative Rockglitter Mercury Of Trolls,135.00,235.59,214.17,31804.6500,28912.9500,63389.17440000,12/23/2016 @ 12:00:00 AM
-8320,"God of Death, Avriel",The Black Barrow of Bery,19.80,Fleshshock Mercury,261.00,-31.02,-28.20,-8096.2200,-7360.2000,-18516.79116000,12/23/2016 @ 12:00:00 AM
-6768,"God of Resurrection, Gadriel",The Barrow of Terrible Horror,27.39,Violetdream Iron,256.00,414.98,377.25,106234.8800,96576.0000,258360.78003200,12/23/2016 @ 12:00:00 AM
-27484,"Lord of the Sea, Penur",The Pirate's Pipe,16.94,Unknown Fatelightning Steel Of The Glacier,167.00,145.08,159.59,24228.3600,26651.5300,59498.94336600,12/23/2016 @ 12:00:00 AM
-14612,"The Chiller, Chillfire",Gili's Delve,35.89,Negative Rockglitter Mercury Of Trolls,236.00,3502.00,214.17,826472.0000,50544.1200,1191777.20546800,12/23/2016 @ 12:00:00 AM
-2100,"Lionwatcher, Law",Pewold Keep,29.00,Meteoric Mirrormuck Orichalcum Of The Forests,210.00,491.62,368.50,103240.2000,77385.0000,233006.50800000,12/23/2016 @ 12:00:00 AM
-26742,"Gust, Shadow",Khali's Delve,1.30,Swordbronze,201.00,403.29,366.63,81061.2900,73692.6300,156765.72096000,12/23/2016 @ 12:00:00 AM
+2439,"Claw, Mist",The Dismal Marsh,27.00,Forgotten Mithril,148.00,3909.75,451.00,578643.0000,66748.0000,819646.57000000,12/23/2006 @ 12:00:00 AM
+37836,"Scarefear, The Blade",The Greedy Wench,13.31,Stone Soulsteel Of The Skies,223.00,453.31,453.31,101088.1300,101088.1300,229085.92020600,12/23/2006 @ 12:00:00 AM
+23140,"Sunrise, Godwarlock",The Fortress of Akkun the Grim,27.03,Tritons' Time Stoneiron Of Legend,77.00,341.59,341.59,26302.4300,26302.4300,66823.95365800,12/23/2006 @ 12:00:00 AM
+34177,"Snaretool, The Constructed",Mahyrst Keep,31.30,Primordial Plague Mercury Of Legend,326.00,73.70,67.00,24026.2000,21842.0000,60224.94660000,12/23/2006 @ 12:00:00 AM
+33065,"Shadow, Gust",The Archer and Scroll,60.12,Fairies' Supreme Mistsmoke Lead Of The Future,174.00,499.73,549.70,86953.0200,95647.8000,292380.43298400,12/23/2006 @ 12:00:00 AM
+21535,"Evilcoil, The Machine",North Arcanist's Farthing,3.03,Yellow Mistearth Copper,151.00,287.98,261.80,43484.9800,39531.8000,85532.18843400,12/23/2006 @ 12:00:00 AM
+32346,"Flora, Amberslayer",Citadel Ward,4.40,Negative Rockglitter Mercury Of Trolls,135.00,235.59,214.17,31804.6500,28912.9500,63389.17440000,12/23/2006 @ 12:00:00 AM
+8320,"Avriel, God of Death",The Black Barrow of Bery,19.80,Fleshshock Mercury,261.00,-31.02,-28.20,-8096.2200,-7360.2000,-18516.79116000,12/23/2006 @ 12:00:00 AM
+6768,"Gadriel, God of Resurrection",The Barrow of Terrible Horror,27.39,Violetdream Iron,256.00,414.98,377.25,106234.8800,96576.0000,258360.78003200,12/23/2006 @ 12:00:00 AM
+27484,"Penur, Lord of the Sea",The Pirate's Pipe,16.94,Unknown Fatelightning Steel Of The Glacier,167.00,145.08,159.59,24228.3600,26651.5300,59498.94336600,12/23/2006 @ 12:00:00 AM
+14612,"Chillfire, The Chiller",Gili's Delve,35.89,Negative Rockglitter Mercury Of Trolls,236.00,3502.00,214.17,826472.0000,50544.1200,1191777.20546800,12/23/2006 @ 12:00:00 AM
+2100,"Law, Lionwatcher",Pewold Keep,29.00,Meteoric Mirrormuck Orichalcum Of The Forests,210.00,491.62,368.50,103240.2000,77385.0000,233006.50800000,12/23/2006 @ 12:00:00 AM
+26742,"Shadow, Gust",Khali's Delve,1.30,Swordbronze,201.00,403.29,366.63,81061.2900,73692.6300,156765.72096000,12/23/2006 @ 12:00:00 AM

@@ -1,18 +1,18 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-2465,"The Binder, Springpulley",The Tower of Sabiesu the Awesome,10.00,Falserainbow Lead,196.00,872.99,63.80,171106.0400,12504.8000,201971.92400000,04/01/2017 @ 12:00:00 AM
-2533,"Gust, Shadow",Pewold Keep,29.00,Unholy Poison Copper Of The Mountains,235.00,4312.00,57.00,1013320.0000,13395.0000,1324462.35000000,04/01/2017 @ 12:00:00 AM
-12663,"Lord of Death, Addon",Noble's Village,5.43,God-touched Greengem Platinum,25.00,206.95,206.95,5173.7500,5173.7500,10909.36925000,04/01/2017 @ 12:00:00 AM
-23299,"Darkzealot, Dawn",Moor Village,11.32,Fleshshock Mercury,267.00,-31.02,-28.20,-8282.3400,-7529.4000,-17601.62896800,04/01/2017 @ 12:00:00 AM
-3904,"God of War, Ingwenel",The Cuitamba Jungle,42.50,Forgotten Mithril,203.00,3909.75,451.00,793679.2500,91553.0000,1261455.95625000,04/01/2017 @ 12:00:00 AM
-22415,Cinderflame,The Nulukkhath Spires,28.99,Fog Lavaplatinum Of Life,184.00,560.35,509.41,103104.4000,93731.4400,253898.55001600,04/01/2017 @ 12:00:00 AM
-32119,"Anchor, Rose",The Fen of the Necromancer,29.28,Grayplatinum,277.00,2548.00,104.94,705796.0000,29068.3800,950032.67046400,04/01/2017 @ 12:00:00 AM
-19122,"The Evil, Snowflame",Weke Tower,47.19,Spirits' Living Wordhammer Tin Of The Trees,54.00,141.57,128.70,7644.7800,6949.8000,21481.76230200,04/01/2017 @ 12:00:00 AM
-9157,"The Binder, Springpulley",The Black Barrow of Bery,19.80,Unknowable Mindsilver,168.00,174.90,174.90,29383.2000,29383.2000,70402.14720000,04/01/2017 @ 12:00:00 AM
-34860,"God of Resurrection, Gadriel",Barad Kesa,6.17,Grayplatinum,129.00,2548.00,115.43,328692.0000,14890.4700,364781.50839900,04/01/2017 @ 12:00:00 AM
-16162,Metalbrood,Khali's Delve,1.18,Incubi's Iron Of The Dawn,200.00,174.99,174.99,34998.0000,34998.0000,70821.95280000,04/01/2017 @ 12:00:00 AM
-6251,"The Freezer, Burnbrood",The Barrow of Terrible Horror,27.39,Fleshshock Mercury,165.00,-31.02,-28.20,-5118.3000,-4653.0000,-12447.65907000,04/01/2017 @ 12:00:00 AM
-7751,Spikecrank,The Bastion of the Vampire Duke,34.45,Sirens' Rockgold,290.00,306.13,278.30,88777.7000,80707.0000,227872.17915000,04/01/2017 @ 12:00:00 AM
-25037,"Goddess of Knowledge, Baltha",The Forsaken Sepulcher of Sorrows,31.36,Foul Ice Bronze Of Life,210.00,292.82,266.20,61492.2000,55902.0000,154209.02112000,04/01/2017 @ 12:00:00 AM
-25129,"Veil, Bane",Weke Tower,47.19,Primordial Mud Orichalcum,220.00,1113.00,20.57,244860.0000,4525.4000,367070.37026000,04/01/2017 @ 12:00:00 AM
-5884,"The Chiller, Chillfire",Reheath Stronghold,39.60,Dragons' Poison Glitterflesh Steel Of The North,46.00,742.00,75.00,34132.0000,3450.0000,52464.47200000,04/01/2017 @ 12:00:00 AM
-3299,"Jester, Seraph",The Cracked Chalice,-4.37,Emerald Orichalcum,258.00,1957.00,118.01,504906.0000,30446.5800,511957.67225400,04/01/2017 @ 12:00:00 AM
+2465,"Springpulley, The Binder",The Tower of Sabiesu the Awesome,10.00,Falserainbow Lead,196.00,872.99,63.80,171106.0400,12504.8000,201971.92400000,04/01/2007 @ 12:00:00 AM
+2533,"Shadow, Gust",Pewold Keep,29.00,Unholy Poison Copper Of The Mountains,235.00,4312.00,57.00,1013320.0000,13395.0000,1324462.35000000,04/01/2007 @ 12:00:00 AM
+12663,"Addon, Lord of Death",Noble's Village,5.43,God-touched Greengem Platinum,25.00,206.95,206.95,5173.7500,5173.7500,10909.36925000,04/01/2007 @ 12:00:00 AM
+23299,"Dawn, Darkzealot",Moor Village,11.32,Fleshshock Mercury,267.00,-31.02,-28.20,-8282.3400,-7529.4000,-17601.62896800,04/01/2007 @ 12:00:00 AM
+3904,"Ingwenel, God of War",The Cuitamba Jungle,42.50,Forgotten Mithril,203.00,3909.75,451.00,793679.2500,91553.0000,1261455.95625000,04/01/2017 @ 12:00:00 AM
+22415,Cinderflame,The Nulukkhath Spires,28.99,Fog Lavaplatinum Of Life,184.00,560.35,509.41,103104.4000,93731.4400,253898.55001600,04/01/2007 @ 12:00:00 AM
+32119,"Rose, Anchor",The Fen of the Necromancer,29.28,Grayplatinum,277.00,2548.00,104.94,705796.0000,29068.3800,950032.67046400,04/01/2007 @ 12:00:00 AM
+19122,"Snowflame, The Evil",Weke Tower,47.19,Spirits' Living Wordhammer Tin Of The Trees,54.00,141.57,128.70,7644.7800,6949.8000,21481.76230200,04/01/2007 @ 12:00:00 AM
+9157,"Springpulley, The Binder",The Black Barrow of Bery,19.80,Unknowable Mindsilver,168.00,174.90,174.90,29383.2000,29383.2000,70402.14720000,04/01/2007 @ 12:00:00 AM
+34860,"Gadriel, God of Resurrection",Barad Kesa,6.17,Grayplatinum,129.00,2548.00,115.43,328692.0000,14890.4700,364781.50839900,04/01/2007 @ 12:00:00 AM
+16162,Metalbrood,Khali's Delve,1.18,Incubi's Iron Of The Dawn,200.00,174.99,174.99,34998.0000,34998.0000,70821.95280000,04/01/2007 @ 12:00:00 AM
+6251,"Burnbrood, The Freezer",The Barrow of Terrible Horror,27.39,Fleshshock Mercury,165.00,-31.02,-28.20,-5118.3000,-4653.0000,-12447.65907000,04/01/2007 @ 12:00:00 AM
+7751,Spikecrank,The Bastion of the Vampire Duke,34.45,Sirens' Rockgold,290.00,306.13,278.30,88777.7000,80707.0000,227872.17915000,04/01/2007 @ 12:00:00 AM
+25037,"Baltha, Goddess of Knowledge",The Forsaken Sepulcher of Sorrows,31.36,Foul Ice Bronze Of Life,210.00,292.82,266.20,61492.2000,55902.0000,154209.02112000,04/01/2007 @ 12:00:00 AM
+25129,"Bane, Veil",Weke Tower,47.19,Primordial Mud Orichalcum,220.00,1113.00,20.57,244860.0000,4525.4000,367070.37026000,04/01/2007 @ 12:00:00 AM
+5884,"Chillfire, The Chiller",Reheath Stronghold,39.60,Dragons' Poison Glitterflesh Steel Of The North,46.00,742.00,75.00,34132.0000,3450.0000,52464.47200000,04/01/2007 @ 12:00:00 AM
+3299,"Seraph, Jester",The Cracked Chalice,-4.37,Emerald Orichalcum,258.00,1957.00,118.01,504906.0000,30446.5800,511957.67225400,04/01/2007 @ 12:00:00 AM

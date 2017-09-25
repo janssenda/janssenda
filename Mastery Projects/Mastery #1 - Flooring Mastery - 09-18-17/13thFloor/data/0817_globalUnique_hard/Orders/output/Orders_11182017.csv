@@ -1,16 +1,16 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-25693,Flameshiver,The Fortress of the Lich Queen,20.72,Incubi's Glittering Tin Of The Future,167.00,192.96,233.49,32224.3200,38992.8300,85973.34348000,11/18/2017 @ 12:00:00 AM
-12964,"The Cold, Burnfreeze",Noble's Village,5.43,Incubi's Iron Of The Dawn,160.00,174.99,174.99,27998.4000,27998.4000,59037.42624000,11/18/2017 @ 12:00:00 AM
-35609,"Gust, Shadow",The Fen of the Necromancer,32.21,Lycanthropes' Gold,183.00,449.88,408.98,82328.0400,74843.3400,207796.28149800,11/18/2017 @ 12:00:00 AM
-34462,"The Freezer, Shiverflame",Mahyrst Keep,31.30,Poison Adamant,157.00,110.96,100.87,17420.7200,15836.5900,43666.84803000,11/18/2017 @ 12:00:00 AM
-33899,"The Cold, Burnfreeze",The Bastion of the Lich Tyrant,8.64,Warlocks' Timerot Mithril,189.00,194.65,194.65,36788.8500,36788.8500,79934.81328000,11/18/2017 @ 12:00:00 AM
-106,"Angelchild, Harmony",Bergfison's Deep,16.00,Incubi's Mirrorfog Iron Of The Ocean,234.00,768.03,421.32,179719.0200,98588.8800,322837.16400000,11/18/2017 @ 12:00:00 AM
-110,"Godseeker, Cult",Gawold Castle,9.35,Rot Silver Of The Past,273.00,2998.00,248.74,818454.0000,67906.0200,969234.68187000,11/18/2017 @ 12:00:00 AM
-8497,"God of Death, Selik",The Hunter and Rose,39.60,Zephyr Adamant,245.00,481.77,-44.14,118033.6500,-10814.3000,149678.21260000,11/18/2017 @ 12:00:00 AM
-20888,"Brand, Lightning",Moor Village,11.32,Plague Tin,291.00,465.25,422.95,135387.7500,123078.4500,287724.57384000,11/18/2017 @ 12:00:00 AM
-29995,"God of Resurrection, Gadriel",The Greedy Wench,13.31,Incubi's Glittering Tin Of The Future,78.00,192.96,233.49,15050.8800,18212.2200,37690.41861000,11/18/2017 @ 12:00:00 AM
-16789,"Lady of Vengeance, Zepul",Gena's Hold,5.85,Incubi's Glittering Tin Of The Future,83.00,192.96,212.26,16015.6800,17617.5800,35600.80571000,11/18/2017 @ 12:00:00 AM
-4387,Emberspawn,The Tower of Sabiesu the Awesome,10.00,Incubi's Glittering Tin Of The Future,378.00,4393.29,175.42,1660663.6200,66308.7600,1899669.61800000,11/18/2017 @ 12:00:00 AM
-5823,"Jackalguard, Gale",Khali's Delve,1.07,Mithril Of Legend,202.00,169.17,186.09,34172.3400,37590.1800,72530.37896400,11/18/2017 @ 12:00:00 AM
-3231,"Lonedrake, Clash",The Archer and Scroll,45.16,Unknowable Mindsilver,124.00,34.00,159.00,4216.0000,19716.0000,34739.69120000,11/18/2017 @ 12:00:00 AM
-25440,Springcoil,Kada's Deep,8.42,Incubi's Glittering Tin Of The Future,109.00,192.96,233.49,21032.6400,25450.4100,50396.92281000,11/18/2017 @ 12:00:00 AM
+25693,Flameshiver,The Fortress of the Lich Queen,20.72,Incubi's Glittering Tin Of The Future,167.00,192.96,233.49,32224.3200,38992.8300,85973.34348000,11/18/1947 @ 12:00:00 AM
+12964,"The Cold, Burnfreeze",Noble's Village,5.43,Incubi's Iron Of The Dawn,160.00,174.99,174.99,27998.4000,27998.4000,59037.42624000,11/18/1947 @ 12:00:00 AM
+35609,"Gust, Shadow",The Fen of the Necromancer,32.21,Lycanthropes' Gold,183.00,449.88,408.98,82328.0400,74843.3400,207796.28149800,11/18/1947 @ 12:00:00 AM
+34462,"The Freezer, Shiverflame",Mahyrst Keep,31.30,Poison Adamant,157.00,110.96,100.87,17420.7200,15836.5900,43666.84803000,11/18/1977 @ 12:00:00 AM
+33899,"The Cold, Burnfreeze",The Bastion of the Lich Tyrant,8.64,Warlocks' Timerot Mithril,189.00,194.65,194.65,36788.8500,36788.8500,79934.81328000,11/18/1947 @ 12:00:00 AM
+106,"Angelchild, Harmony",Bergfison's Deep,16.00,Incubi's Mirrorfog Iron Of The Ocean,234.00,768.03,421.32,179719.0200,98588.8800,322837.16400000,11/18/1947 @ 12:00:00 AM
+110,"Godseeker, Cult",Gawold Castle,9.35,Rot Silver Of The Past,273.00,2998.00,248.74,818454.0000,67906.0200,969234.68187000,11/18/1947 @ 12:00:00 AM
+8497,"God of Death, Selik",The Hunter and Rose,39.60,Zephyr Adamant,245.00,481.77,-44.14,118033.6500,-10814.3000,149678.21260000,11/18/1977 @ 12:00:00 AM
+20888,"Brand, Lightning",Moor Village,11.32,Plague Tin,291.00,465.25,422.95,135387.7500,123078.4500,287724.57384000,11/18/1947 @ 12:00:00 AM
+29995,"God of Resurrection, Gadriel",The Greedy Wench,13.31,Incubi's Glittering Tin Of The Future,78.00,192.96,233.49,15050.8800,18212.2200,37690.41861000,11/18/1947 @ 12:00:00 AM
+16789,"Lady of Vengeance, Zepul",Gena's Hold,5.85,Incubi's Glittering Tin Of The Future,83.00,192.96,212.26,16015.6800,17617.5800,35600.80571000,11/18/1947 @ 12:00:00 AM
+4387,Emberspawn,The Tower of Sabiesu the Awesome,10.00,Incubi's Glittering Tin Of The Future,378.00,4393.29,175.42,1660663.6200,66308.7600,1899669.61800000,11/18/1947 @ 12:00:00 AM
+5823,"Jackalguard, Gale",Khali's Delve,1.07,Mithril Of Legend,202.00,169.17,186.09,34172.3400,37590.1800,72530.37896400,11/18/1947 @ 12:00:00 AM
+3231,"Lonedrake, Clash",The Archer and Scroll,45.16,Unknowable Mindsilver,124.00,34.00,159.00,4216.0000,19716.0000,34739.69120000,11/18/1947 @ 12:00:00 AM
+25440,Springcoil,Kada's Deep,8.42,Incubi's Glittering Tin Of The Future,109.00,192.96,233.49,21032.6400,25450.4100,50396.92281000,11/18/1947 @ 12:00:00 AM

@@ -1,19 +1,19 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-13683,Ironbrood,The Citadel of Alammius,27.00,Trolls' Mist Poisonplatinum Of The Twilight,215.00,440.56,400.51,94720.4000,86109.6500,229654.16350000,08/16/2017 @ 12:00:00 AM
-35237,"Spiritraven, Bedlam",Bifar's Deep,12.21,Magicians' Legendary Poison Metal,188.00,-52.81,-48.01,-9928.2800,-9025.8800,-21268.46293600,08/16/2017 @ 12:00:00 AM
-12866,"The Trapper, Boltcrank",Bifar's Deep,10.09,White Platinum,265.00,83.49,91.84,22124.8500,24337.6000,51150.51120500,08/16/2017 @ 12:00:00 AM
-23674,"God of Luck, Ariel",The Secret Catacombs of Ulfang the Black,31.70,Planar Mudtin Of Trolls,191.00,191.40,174.00,36557.4000,33234.0000,91915.27380000,08/16/2017 @ 12:00:00 AM
-35703,"The Frigid, Icechill",Bifar's Deep,12.21,Violetdream Iron,210.00,502.13,502.13,105447.3000,105447.3000,236644.83066000,08/16/2017 @ 12:00:00 AM
-10440,Emberfire,The Secret Shrine of the Gargoyle Count,21.75,Tritons' Time Stoneiron Of Legend,182.00,2235.00,310.54,406770.0000,56518.2800,564053.48090000,08/16/2017 @ 12:00:00 AM
-21408,Bronzespawn,Citadel Ward,4.40,Witchs' Forbidden Rockrainbow Bronze,127.00,245.63,245.63,31195.0100,31195.0100,65135.18088000,08/16/2017 @ 12:00:00 AM
-10743,"Lord of Animals, Suriel",Reheath Stronghold,39.60,Tritons' Time Stoneiron Of Legend,201.00,2235.00,310.54,449235.0000,62418.5400,714268.34184000,08/16/2017 @ 12:00:00 AM
-8084,"Mist, Claw",The Drunken Thief,18.41,Fleshshock Mercury,137.00,-31.02,-28.20,-4249.7400,-3863.4000,-9606.76907400,08/16/2017 @ 12:00:00 AM
-30005,"The Cold, Burnfreeze",The Tower of Sabiesu the Awesome,10.00,Heavenly Dreamsilver Of The Night,228.00,719.00,314.60,163932.0000,71728.8000,259226.88000000,08/16/2017 @ 12:00:00 AM
-31761,"The Skeletal, Spiketerror",Gifeld Castle,33.01,Planar Mudtin Of Trolls,78.00,191.40,174.00,14929.2000,13572.0000,37909.44612000,08/16/2017 @ 12:00:00 AM
-6279,"The Trapper, Boltcrank",The Shadow Downs,34.00,Nymphs' Luminous Rotmercury Of The Skies,185.00,335.50,305.00,62067.5000,56425.0000,158779.95000000,08/16/2017 @ 12:00:00 AM
-29681,"Runetomb, Song",The Tower of Sabiesu the Awesome,10.00,Heavenly Dreamsilver Of The Night,195.00,719.00,314.60,140205.0000,61347.0000,221707.20000000,08/16/2017 @ 12:00:00 AM
-17716,"The Chiller, Chillfire",Hartshill Ward,48.75,Ghostly Soul Adamant,76.00,414.70,377.00,31517.2000,28652.0000,89501.68500000,08/16/2017 @ 12:00:00 AM
-899,Wheelspawn,Palace Farthing,13.00,Yellow Mistearth Copper,68.00,3587.00,238.00,243916.0000,16184.0000,293913.00000000,08/16/2017 @ 12:00:00 AM
-4024,Deathbrood,Noble's Village,4.49,Unknown Fatelightning Steel Of The Glacier,247.00,119.90,109.00,29615.3000,26923.0000,59076.86967000,08/16/2017 @ 12:00:00 AM
-6985,"God of the Lost, Lionare",The Bastion of the Lich Tyrant,6.49,Planar Rainfate Mithril,68.00,179.30,163.00,12192.4000,11084.0000,24787.03836000,08/16/2017 @ 12:00:00 AM
-26422,Wheelspawn,The Black Barrow of Bery,23.96,Starsmoke Bronze Of Life,213.00,-438.00,420.81,-93294.0000,89632.5300,-4538.75821200,08/16/2017 @ 12:00:00 AM
+13683,Ironbrood,The Citadel of Alammius,27.00,Trolls' Mist Poisonplatinum Of The Twilight,215.00,440.56,400.51,94720.4000,86109.6500,229654.16350000,08/16/1947 @ 12:00:00 AM
+35237,"Spiritraven, Bedlam",Bifar's Deep,12.21,Magicians' Legendary Poison Metal,188.00,-52.81,-48.01,-9928.2800,-9025.8800,-21268.46293600,08/16/1947 @ 12:00:00 AM
+12866,"The Trapper, Boltcrank",Bifar's Deep,10.09,White Platinum,265.00,83.49,91.84,22124.8500,24337.6000,51150.51120500,08/16/1947 @ 12:00:00 AM
+23674,"God of Luck, Ariel",The Secret Catacombs of Ulfang the Black,31.70,Planar Mudtin Of Trolls,191.00,191.40,174.00,36557.4000,33234.0000,91915.27380000,08/16/1947 @ 12:00:00 AM
+35703,"The Frigid, Icechill",Bifar's Deep,12.21,Violetdream Iron,210.00,502.13,502.13,105447.3000,105447.3000,236644.83066000,08/16/1947 @ 12:00:00 AM
+10440,Emberfire,The Secret Shrine of the Gargoyle Count,21.75,Tritons' Time Stoneiron Of Legend,182.00,2235.00,310.54,406770.0000,56518.2800,564053.48090000,08/16/1947 @ 12:00:00 AM
+21408,Bronzespawn,Citadel Ward,4.40,Witchs' Forbidden Rockrainbow Bronze,127.00,245.63,245.63,31195.0100,31195.0100,65135.18088000,08/16/1947 @ 12:00:00 AM
+10743,"Lord of Animals, Suriel",Reheath Stronghold,39.60,Tritons' Time Stoneiron Of Legend,201.00,2235.00,310.54,449235.0000,62418.5400,714268.34184000,08/16/1947 @ 12:00:00 AM
+8084,"Mist, Claw",The Drunken Thief,18.41,Fleshshock Mercury,137.00,-31.02,-28.20,-4249.7400,-3863.4000,-9606.76907400,08/16/1947 @ 12:00:00 AM
+30005,"The Cold, Burnfreeze",The Tower of Sabiesu the Awesome,10.00,Heavenly Dreamsilver Of The Night,228.00,719.00,314.60,163932.0000,71728.8000,259226.88000000,08/16/1947 @ 12:00:00 AM
+31761,"The Skeletal, Spiketerror",Gifeld Castle,33.01,Planar Mudtin Of Trolls,78.00,191.40,174.00,14929.2000,13572.0000,37909.44612000,08/16/1947 @ 12:00:00 AM
+6279,"The Trapper, Boltcrank",The Shadow Downs,34.00,Nymphs' Luminous Rotmercury Of The Skies,185.00,335.50,305.00,62067.5000,56425.0000,158779.95000000,08/16/1947 @ 12:00:00 AM
+29681,"Runetomb, Song",The Tower of Sabiesu the Awesome,10.00,Heavenly Dreamsilver Of The Night,195.00,719.00,314.60,140205.0000,61347.0000,221707.20000000,08/16/1947 @ 12:00:00 AM
+17716,"The Chiller, Chillfire",Hartshill Ward,48.75,Ghostly Soul Adamant,76.00,414.70,377.00,31517.2000,28652.0000,89501.68500000,08/16/1947 @ 12:00:00 AM
+899,Wheelspawn,Palace Farthing,13.00,Yellow Mistearth Copper,68.00,3587.00,238.00,243916.0000,16184.0000,293913.00000000,08/16/1947 @ 12:00:00 AM
+4024,Deathbrood,Noble's Village,4.49,Unknown Fatelightning Steel Of The Glacier,247.00,119.90,109.00,29615.3000,26923.0000,59076.86967000,08/16/1947 @ 12:00:00 AM
+6985,"God of the Lost, Lionare",The Bastion of the Lich Tyrant,6.49,Planar Rainfate Mithril,68.00,179.30,163.00,12192.4000,11084.0000,24787.03836000,08/16/1947 @ 12:00:00 AM
+26422,Wheelspawn,The Black Barrow of Bery,23.96,Starsmoke Bronze Of Life,213.00,-438.00,420.81,-93294.0000,89632.5300,-4538.75821200,08/16/1947 @ 12:00:00 AM

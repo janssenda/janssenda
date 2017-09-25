@@ -1,14 +1,14 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-12725,"Mist, Claw",The Tomb of Hellish Ruin,33.00,God-touched Greengem Platinum,70.00,206.95,206.95,14486.5000,14486.5000,38534.09000000,05/21/2018 @ 12:00:00 AM
-35390,Cinderflame,The Nulukkhath Spires,28.99,Magicians' Legendary Poison Metal,201.00,-52.81,-48.01,-10614.8100,-9650.0100,-26139.59131800,05/21/2018 @ 12:00:00 AM
-10150,Metalbrood,Grove Farthing,25.00,Timeiron,208.00,3255.00,-16.25,677040.0000,-3380.0000,842075.00000000,05/21/2018 @ 12:00:00 AM
-22874,"Seeker, Fate",The Tower of Sabiesu the Awesome,10.00,Primordial Mud Orichalcum,310.00,1113.00,20.57,345030.0000,6376.7000,386547.37000000,05/21/2018 @ 12:00:00 AM
-9463,"The Grasping, Nailpiston",The Tomb of Hellish Ruin,33.00,Planar Mudtin Of Trolls,38.00,191.40,174.00,7273.2000,6612.0000,18467.31600000,05/21/2018 @ 12:00:00 AM
-32673,"Runetomb, Song",The Chuallanto Jungle,11.00,Magicians' Legendary Poison Metal,335.00,-52.81,-48.01,-17691.3500,-16083.3500,-37489.91700000,05/21/2018 @ 12:00:00 AM
-32609,"Knightseraph, Lance",North Arcanist's Farthing,3.66,Grayplatinum,261.00,2548.00,104.94,665028.0000,27389.3400,717759.81464400,05/21/2018 @ 12:00:00 AM
-26048,"Tombreaper, Rouge",The Pirate's Pipe,16.94,Grayplatinum,337.00,2548.00,104.94,858676.0000,35364.7800,1045491.28813200,05/21/2018 @ 12:00:00 AM
-16925,"The Constructed, Snaretool",North Arcanist's Farthing,2.75,Grayplatinum,212.00,2548.00,104.94,540176.0000,22247.2800,577889.92020000,05/21/2018 @ 12:00:00 AM
-37219,Gravebone,The Greedy Wench,13.31,Stone Soulsteel Of The Skies,234.00,453.31,453.31,106074.5400,106074.5400,240386.12254800,05/21/2018 @ 12:00:00 AM
-2081,"The Chiller, Chillfire",The Warrior and Flagon,9.00,Meteoric Mirrormuck Orichalcum Of The Forests,256.00,491.62,368.50,125854.7200,94336.0000,240007.88480000,05/21/2018 @ 12:00:00 AM
-36125,"Spiritraven, Bedlam",The Fen of the Necromancer,32.21,Ensorceled Sandmetal Of Spirits,241.00,85.18,93.70,20528.3800,22581.7000,56995.83676800,05/21/2018 @ 12:00:00 AM
-25450,"Amberslayer, Flora",The Fortress of the Lich Queen,20.72,Incubi's Glittering Tin Of The Future,260.00,192.96,233.49,50169.6000,60707.4000,133850.71440000,05/21/2018 @ 12:00:00 AM
+12725,"Mist, Claw",The Tomb of Hellish Ruin,33.00,God-touched Greengem Platinum,70.00,206.95,206.95,14486.5000,14486.5000,38534.09000000,05/21/1948 @ 12:00:00 AM
+35390,Cinderflame,The Nulukkhath Spires,28.99,Magicians' Legendary Poison Metal,201.00,-52.81,-48.01,-10614.8100,-9650.0100,-26139.59131800,05/21/1948 @ 12:00:00 AM
+10150,Metalbrood,Grove Farthing,25.00,Timeiron,208.00,3255.00,-16.25,677040.0000,-3380.0000,842075.00000000,05/21/1948 @ 12:00:00 AM
+22874,"Seeker, Fate",The Tower of Sabiesu the Awesome,10.00,Primordial Mud Orichalcum,310.00,1113.00,20.57,345030.0000,6376.7000,386547.37000000,05/21/1948 @ 12:00:00 AM
+9463,"The Grasping, Nailpiston",The Tomb of Hellish Ruin,33.00,Planar Mudtin Of Trolls,38.00,191.40,174.00,7273.2000,6612.0000,18467.31600000,05/21/1948 @ 12:00:00 AM
+32673,"Runetomb, Song",The Chuallanto Jungle,11.00,Magicians' Legendary Poison Metal,335.00,-52.81,-48.01,-17691.3500,-16083.3500,-37489.91700000,05/21/1948 @ 12:00:00 AM
+32609,"Knightseraph, Lance",North Arcanist's Farthing,3.66,Grayplatinum,261.00,2548.00,104.94,665028.0000,27389.3400,717759.81464400,05/21/1948 @ 12:00:00 AM
+26048,"Tombreaper, Rouge",The Pirate's Pipe,16.94,Grayplatinum,337.00,2548.00,104.94,858676.0000,35364.7800,1045491.28813200,05/21/1948 @ 12:00:00 AM
+16925,"The Constructed, Snaretool",North Arcanist's Farthing,2.75,Grayplatinum,212.00,2548.00,104.94,540176.0000,22247.2800,577889.92020000,05/21/1948 @ 12:00:00 AM
+37219,Gravebone,The Greedy Wench,13.31,Stone Soulsteel Of The Skies,234.00,453.31,453.31,106074.5400,106074.5400,240386.12254800,05/21/1948 @ 12:00:00 AM
+2081,"The Chiller, Chillfire",The Warrior and Flagon,9.00,Meteoric Mirrormuck Orichalcum Of The Forests,256.00,491.62,368.50,125854.7200,94336.0000,240007.88480000,05/21/1948 @ 12:00:00 AM
+36125,"Spiritraven, Bedlam",The Fen of the Necromancer,32.21,Ensorceled Sandmetal Of Spirits,241.00,85.18,93.70,20528.3800,22581.7000,56995.83676800,05/21/1948 @ 12:00:00 AM
+25450,"Amberslayer, Flora",The Fortress of the Lich Queen,20.72,Incubi's Glittering Tin Of The Future,260.00,192.96,233.49,50169.6000,60707.4000,133850.71440000,05/21/1948 @ 12:00:00 AM

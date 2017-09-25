@@ -1,18 +1,18 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-35182,"Roguemist, Rouge",Barad Kesa,6.17,Yellow Mistearth Copper,99.00,287.98,261.80,28510.0200,25918.2000,57786.44117400,04/09/2017 @ 12:00:00 AM
-12617,"God of Love, Prusu",Bifar's Deep,10.09,God-touched Greengem Platinum,189.00,206.95,206.95,39113.5500,39113.5500,86120.21439000,04/09/2017 @ 12:00:00 AM
-24737,"Drakecaster, Sephiroth",Bifar's Deep,12.21,Foul Ice Bronze Of Life,254.00,292.82,266.20,74376.2800,67614.8000,159328.19086800,04/09/2017 @ 12:00:00 AM
-22166,"Knightseraph, Lance",The Tomb of Hellish Ruin,36.30,Warlocks' Timerot Mithril,234.00,194.65,176.95,45548.1000,41406.3000,118518.84720000,04/09/2017 @ 12:00:00 AM
-11673,"Gust, Shadow",The Broken Shield,12.00,Swordbronze,188.00,333.30,303.00,62660.4000,56964.0000,133979.32800000,04/09/2017 @ 12:00:00 AM
-21533,"God of Animals, Byzou",Reyny Keep,-3.35,Starsmoke Bronze Of Life,134.00,-438.00,420.81,-58692.0000,56388.5400,-2226.29409000,04/09/2017 @ 12:00:00 AM
-31088,"The Cold, Burnfreeze",Mahyrst Keep,31.30,Ensorceled Sandmetal Of Spirits,248.00,85.18,77.44,21124.6400,19205.1200,52952.97488000,04/09/2017 @ 12:00:00 AM
-21872,"The Disinterred, Spikebrood",Citadel Ward,4.40,Yellow Mistearth Copper,301.00,287.98,261.80,86681.9800,78801.8000,172765.06632000,04/09/2017 @ 12:00:00 AM
-18771,"The Blade, Scarefear",The Tower of Sabiesu the Awesome,10.00,Venom Jewelmetal Of The Desert,332.00,701.92,222.50,233037.4400,73870.0000,337598.18400000,04/09/2017 @ 12:00:00 AM
-18823,"Goddess of Trickery, Alik",Weke Tower,47.19,Grayplatinum,239.00,2548.00,104.94,608972.0000,25080.6600,933262.11025400,04/09/2017 @ 12:00:00 AM
-29547,"The Constructed, Snaretool",The Citadel of Alammius,32.67,Fleshshock Mercury,225.00,-31.02,-28.20,-6979.5000,-6345.0000,-17677.61415000,04/09/2017 @ 12:00:00 AM
-17551,"Mist, Claw",The Bastion of the Vampire Duke,37.90,Shadow Metal,146.00,1606.00,298.00,234476.0000,43508.0000,383339.93600000,04/09/2017 @ 12:00:00 AM
-18938,"Lord of the Sun, Maglioneth",Mahyrst Keep,31.30,Grayplatinum,110.00,2548.00,104.94,280280.0000,11543.4000,383164.12420000,04/09/2017 @ 12:00:00 AM
-17741,"The Constructed, Snaretool",Bergfison's Deep,16.00,Mithril Of The Tropics,55.00,276.72,251.56,15219.6000,13835.8000,33704.26400000,04/09/2017 @ 12:00:00 AM
-26135,"The Grasping, Nettool",Barad Cune,49.21,Unspeakable Rotsoul Mithril Of Souls,163.00,370.26,336.60,60352.3800,54865.8000,171917.04637800,04/09/2017 @ 12:00:00 AM
-15642,"The Constructed, Snaretool",The Fortress of Asmamur,-2.66,Imperial Fate Steel,165.00,419.10,381.00,69151.5000,62865.0000,128504.86110000,04/09/2017 @ 12:00:00 AM
-15607,Spikesnare,The Dungeon of Merciless Woe,3.61,Djinni's Mind Fogiron,287.00,57.23,52.03,16425.0100,14932.6100,32489.63008200,04/09/2017 @ 12:00:00 AM
+35182,"Roguemist, Rouge",Barad Kesa,6.17,Yellow Mistearth Copper,99.00,287.98,261.80,28510.0200,25918.2000,57786.44117400,04/09/1947 @ 12:00:00 AM
+12617,"God of Love, Prusu",Bifar's Deep,10.09,God-touched Greengem Platinum,189.00,206.95,206.95,39113.5500,39113.5500,86120.21439000,04/09/1987 @ 12:00:00 AM
+24737,"Drakecaster, Sephiroth",Bifar's Deep,12.21,Foul Ice Bronze Of Life,254.00,292.82,266.20,74376.2800,67614.8000,159328.19086800,04/09/1947 @ 12:00:00 AM
+22166,"Knightseraph, Lance",The Tomb of Hellish Ruin,36.30,Warlocks' Timerot Mithril,234.00,194.65,176.95,45548.1000,41406.3000,118518.84720000,04/09/1947 @ 12:00:00 AM
+11673,"Gust, Shadow",The Broken Shield,12.00,Swordbronze,188.00,333.30,303.00,62660.4000,56964.0000,133979.32800000,04/09/1947 @ 12:00:00 AM
+21533,"God of Animals, Byzou",Reyny Keep,-3.35,Starsmoke Bronze Of Life,134.00,-438.00,420.81,-58692.0000,56388.5400,-2226.29409000,04/09/1947 @ 12:00:00 AM
+31088,"The Cold, Burnfreeze",Mahyrst Keep,31.30,Ensorceled Sandmetal Of Spirits,248.00,85.18,77.44,21124.6400,19205.1200,52952.97488000,04/09/1947 @ 12:00:00 AM
+21872,"The Disinterred, Spikebrood",Citadel Ward,4.40,Yellow Mistearth Copper,301.00,287.98,261.80,86681.9800,78801.8000,172765.06632000,04/09/1947 @ 12:00:00 AM
+18771,"The Blade, Scarefear",The Tower of Sabiesu the Awesome,10.00,Venom Jewelmetal Of The Desert,332.00,701.92,222.50,233037.4400,73870.0000,337598.18400000,04/09/1947 @ 12:00:00 AM
+18823,"Goddess of Trickery, Alik",Weke Tower,47.19,Grayplatinum,239.00,2548.00,104.94,608972.0000,25080.6600,933262.11025400,04/09/1987 @ 12:00:00 AM
+29547,"The Constructed, Snaretool",The Citadel of Alammius,32.67,Fleshshock Mercury,225.00,-31.02,-28.20,-6979.5000,-6345.0000,-17677.61415000,04/09/1947 @ 12:00:00 AM
+17551,"Mist, Claw",The Bastion of the Vampire Duke,37.90,Shadow Metal,146.00,1606.00,298.00,234476.0000,43508.0000,383339.93600000,04/09/1947 @ 12:00:00 AM
+18938,"Lord of the Sun, Maglioneth",Mahyrst Keep,31.30,Grayplatinum,110.00,2548.00,104.94,280280.0000,11543.4000,383164.12420000,04/09/1947 @ 12:00:00 AM
+17741,"The Constructed, Snaretool",Bergfison's Deep,16.00,Mithril Of The Tropics,55.00,276.72,251.56,15219.6000,13835.8000,33704.26400000,04/09/1947 @ 12:00:00 AM
+26135,"The Grasping, Nettool",Barad Cune,49.21,Unspeakable Rotsoul Mithril Of Souls,163.00,370.26,336.60,60352.3800,54865.8000,171917.04637800,04/09/1947 @ 12:00:00 AM
+15642,"The Constructed, Snaretool",The Fortress of Asmamur,-2.66,Imperial Fate Steel,165.00,419.10,381.00,69151.5000,62865.0000,128504.86110000,04/09/1947 @ 12:00:00 AM
+15607,Spikesnare,The Dungeon of Merciless Woe,3.61,Djinni's Mind Fogiron,287.00,57.23,52.03,16425.0100,14932.6100,32489.63008200,04/09/1947 @ 12:00:00 AM

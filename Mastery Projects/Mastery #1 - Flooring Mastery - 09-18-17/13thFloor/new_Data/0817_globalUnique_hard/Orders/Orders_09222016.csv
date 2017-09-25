@@ -1,18 +1,18 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-36350,"Wind, Maverick",The Fen of the Necromancer,32.21,Heavenly Dreamsilver Of The Night,237.00,719.00,346.06,170403.0000,82016.2200,333723.45076200,09/22/2016 @ 12:00:00 AM
-12603,"The Blade, Scarefear",Bifar's Deep,10.09,Djinni's Mind Fogiron,195.00,57.23,52.03,11159.8500,10145.8500,23455.44513000,09/22/2016 @ 12:00:00 AM
-1253,"The Machine, Wheelbolt",Bifar's Deep,10.09,Ensorceled Sandmetal Of Spirits,197.00,4149.00,64.00,817353.0000,12608.0000,913704.06490000,09/22/2016 @ 12:00:00 AM
-11357,"The Frigid, Icechill",The Fortress of the Lich Queen,18.84,Shadow Metal,133.00,1606.00,298.00,213598.0000,39634.0000,300940.90880000,09/22/2016 @ 12:00:00 AM
-35378,"The Blade, Scarefear",Citadel Ward,4.40,Magicians' Legendary Poison Metal,239.00,-52.81,-48.01,-12621.5900,-11474.3900,-25156.20312000,09/22/2016 @ 12:00:00 AM
-34075,"The Terrifying, Deathspike",Reheath Stronghold,39.60,Warlocks' Timerot Mithril,94.00,194.65,194.65,18297.1000,18297.1000,51085.50320000,09/22/2016 @ 12:00:00 AM
-1502,"Roguemist, Rouge",Archring Borough,27.00,Spirits' Living Wordhammer Tin Of The Trees,216.00,3897.55,117.00,841870.8000,25272.0000,1101271.35600000,09/22/2016 @ 12:00:00 AM
-35924,"Seeker, Fate",Citadel Ward,4.40,Yellow Mistearth Copper,99.00,287.98,261.80,28510.0200,25918.2000,56823.06168000,09/22/2016 @ 12:00:00 AM
-33833,"Knightclaw, Sunset",The Cuitamba Jungle,46.75,Unicorns' Fatal Magma Metal Of The Ocean,238.00,25.30,27.83,6021.4000,6623.5400,18556.44945000,09/22/2016 @ 12:00:00 AM
-32794,Spikespawn,The Fen of the Necromancer,29.28,Yellow Mistearth Copper,312.00,287.98,261.80,89849.7600,81681.6000,221755.74220800,09/22/2016 @ 12:00:00 AM
-19878,"Lady of Vengeance, Zepul",Dysley Stronghold,35.51,Shadow Metal,340.00,1606.00,298.00,546040.0000,101320.0000,877237.53600000,09/22/2016 @ 12:00:00 AM
-29894,"The Unspeakable, Gravebone",The Greedy Wench,13.31,Heavenly Dreamsilver Of The Night,166.00,719.00,314.60,119354.0000,52223.6000,194414.57856000,09/22/2016 @ 12:00:00 AM
-28756,"Tomblion, Shadow",Barad Kesa,5.61,Undeads' Mind Orichalcum Of The Twilight,162.00,1169.00,364.69,189378.0000,59079.7800,262396.26145800,09/22/2016 @ 12:00:00 AM
-4417,Springcoil,The Tower of Sabiesu the Awesome,10.00,Fairies' Supreme Mistsmoke Lead Of The Future,86.00,2622.69,413.00,225551.3400,35518.0000,287176.27400000,09/22/2016 @ 12:00:00 AM
-15776,"Lonedrake, Clash",The Fortress of Asmamur,-2.66,Imperial Fate Steel,182.00,419.10,381.00,76276.2000,69342.0000,141744.75588000,09/22/2016 @ 12:00:00 AM
-13143,"God of Fate, Sielach",Gili's Delve,35.89,Pearl Mirrorice Steel Of Changelings,221.00,332.20,302.00,73416.2000,66742.0000,190460.97798000,09/22/2016 @ 12:00:00 AM
-37335,"The Freezer, Burnbrood",The Greedy Wench,13.31,Ghouls' Imperial Soulzephyr Mithril Of The Seas,112.00,318.23,318.23,35641.7600,35641.7600,80771.35651200,09/22/2016 @ 12:00:00 AM
+36350,"Maverick, Wind",The Fen of the Necromancer,32.21,Heavenly Dreamsilver Of The Night,237.00,719.00,346.06,170403.0000,82016.2200,333723.45076200,09/22/2006 @ 12:00:00 AM
+12603,"Scarefear, The Blade",Bifar's Deep,10.09,Djinni's Mind Fogiron,195.00,57.23,52.03,11159.8500,10145.8500,23455.44513000,09/22/2006 @ 12:00:00 AM
+1253,"Wheelbolt, The Machine",Bifar's Deep,10.09,Ensorceled Sandmetal Of Spirits,197.00,4149.00,64.00,817353.0000,12608.0000,913704.06490000,09/22/2006 @ 12:00:00 AM
+11357,"Icechill, The Frigid",The Fortress of the Lich Queen,18.84,Shadow Metal,133.00,1606.00,298.00,213598.0000,39634.0000,300940.90880000,09/22/2006 @ 12:00:00 AM
+35378,"Scarefear, The Blade",Citadel Ward,4.40,Magicians' Legendary Poison Metal,239.00,-52.81,-48.01,-12621.5900,-11474.3900,-25156.20312000,09/22/2006 @ 12:00:00 AM
+34075,"Deathspike, The Terrifying",Reheath Stronghold,39.60,Warlocks' Timerot Mithril,94.00,194.65,194.65,18297.1000,18297.1000,51085.50320000,09/22/2006 @ 12:00:00 AM
+1502,"Rouge, Roguemist",Archring Borough,27.00,Spirits' Living Wordhammer Tin Of The Trees,216.00,3897.55,117.00,841870.8000,25272.0000,1101271.35600000,09/22/2006 @ 12:00:00 AM
+35924,"Fate, Seeker",Citadel Ward,4.40,Yellow Mistearth Copper,99.00,287.98,261.80,28510.0200,25918.2000,56823.06168000,09/22/2006 @ 12:00:00 AM
+33833,"Sunset, Knightclaw",The Cuitamba Jungle,46.75,Unicorns' Fatal Magma Metal Of The Ocean,238.00,25.30,27.83,6021.4000,6623.5400,18556.44945000,09/22/2006 @ 12:00:00 AM
+32794,Spikespawn,The Fen of the Necromancer,29.28,Yellow Mistearth Copper,312.00,287.98,261.80,89849.7600,81681.6000,221755.74220800,09/22/2006 @ 12:00:00 AM
+19878,"Zepul, Lady of Vengeance",Dysley Stronghold,35.51,Shadow Metal,340.00,1606.00,298.00,546040.0000,101320.0000,877237.53600000,09/22/2006 @ 12:00:00 AM
+29894,"Gravebone, The Unspeakable",The Greedy Wench,13.31,Heavenly Dreamsilver Of The Night,166.00,719.00,314.60,119354.0000,52223.6000,194414.57856000,09/22/2006 @ 12:00:00 AM
+28756,"Shadow, Tomblion",Barad Kesa,5.61,Undeads' Mind Orichalcum Of The Twilight,162.00,1169.00,364.69,189378.0000,59079.7800,262396.26145800,09/22/2006 @ 12:00:00 AM
+4417,Springcoil,The Tower of Sabiesu the Awesome,10.00,Fairies' Supreme Mistsmoke Lead Of The Future,86.00,2622.69,413.00,225551.3400,35518.0000,287176.27400000,09/22/2006 @ 12:00:00 AM
+15776,"Clash, Lonedrake",The Fortress of Asmamur,-2.66,Imperial Fate Steel,182.00,419.10,381.00,76276.2000,69342.0000,141744.75588000,09/22/2006 @ 12:00:00 AM
+13143,"Sielach, God of Fate",Gili's Delve,35.89,Pearl Mirrorice Steel Of Changelings,221.00,332.20,302.00,73416.2000,66742.0000,190460.97798000,09/22/2016 @ 12:00:00 AM
+37335,"Burnbrood, The Freezer",The Greedy Wench,13.31,Ghouls' Imperial Soulzephyr Mithril Of The Seas,112.00,318.23,318.23,35641.7600,35641.7600,80771.35651200,09/22/2006 @ 12:00:00 AM

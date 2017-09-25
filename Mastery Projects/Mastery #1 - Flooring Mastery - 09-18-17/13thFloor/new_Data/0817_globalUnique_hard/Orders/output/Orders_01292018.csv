@@ -1,14 +1,14 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-12629,"Darkzealot, Dawn",Gili's Delve,35.89,Spirits' Living Wordhammer Tin Of The Trees,239.00,3897.55,128.70,931514.4500,30759.3000,1307633.79887500,01/29/2018 @ 12:00:00 AM
-22328,Chainnail,The Tomb of Hellish Ruin,36.30,Violetdream Iron,207.00,502.13,456.48,103940.9100,94491.3600,270463.18401000,01/29/2018 @ 12:00:00 AM
-23924,"Ivycaster, Fate",The Lewd King,45.98,Tritons' Time Stoneiron Of Legend,319.00,341.59,375.75,108967.2100,119864.2500,334048.16530800,01/29/2018 @ 12:00:00 AM
-22732,"Jackalguard, Gale",The Tower of Sabiesu the Awesome,10.00,Shadowhell Mithril,180.00,462.21,420.19,83197.8000,75634.2000,174715.20000000,01/29/2018 @ 12:00:00 AM
-9229,"Spiritraven, Bedlam",The Demon and Toad,-1.10,Primordial Plague Mercury Of Legend,224.00,1150.79,67.00,257776.9600,15008.0000,269784.32544000,01/29/2018 @ 12:00:00 AM
-33808,"Drakecaster, Sephiroth",The Cuitamba Jungle,46.75,Unicorns' Fatal Magma Metal Of The Ocean,252.00,25.30,27.83,6375.6000,7013.1600,19648.00530000,01/29/2018 @ 12:00:00 AM
-8539,"The Evil, Flameflare",Archtemple District,37.85,Lycanthropes' Gold,281.00,371.80,338.00,104475.8000,94978.0000,274947.06330000,01/29/2018 @ 12:00:00 AM
-29364,"The Unspeakable, Scarechain",The Citadel of Alammius,32.67,Heavenly Dreamsilver Of The Night,186.00,719.00,314.60,133734.0000,58515.6000,255057.54432000,01/29/2018 @ 12:00:00 AM
-31692,Spikespawn,Hafeld Keep,47.59,Planar Mudtin Of Trolls,113.00,191.40,174.00,21628.2000,19662.0000,60940.20618000,01/29/2018 @ 12:00:00 AM
-16426,"Tomblion, Shadow",Gili's Delve,35.89,Incubi's Iron Of The Dawn,101.00,174.99,174.99,17673.9900,17673.9900,48034.37002200,01/29/2018 @ 12:00:00 AM
-7918,Spikecrank,Gawold Castle,10.29,Zephyr Adamant,38.00,481.77,-44.14,18307.2600,-1677.3200,18341.16082600,01/29/2018 @ 12:00:00 AM
-14266,"Tombreaper, Rouge",The Archer and Scroll,49.68,Mithril Of The Tropics,208.00,251.56,251.56,52324.4800,52324.4800,156638.56332800,01/29/2018 @ 12:00:00 AM
-5732,"Wolf, Jericho",Pawic Keep,31.90,Nymphs' Luminous Rotmercury Of The Skies,202.00,335.50,305.00,67771.0000,61610.0000,170653.53900000,01/29/2018 @ 12:00:00 AM
+12629,"Dawn, Darkzealot",Gili's Delve,35.89,Spirits' Living Wordhammer Tin Of The Trees,239.00,3897.55,128.70,931514.4500,30759.3000,1307633.79887500,01/29/2008 @ 12:00:00 AM
+22328,Chainnail,The Tomb of Hellish Ruin,36.30,Violetdream Iron,207.00,502.13,456.48,103940.9100,94491.3600,270463.18401000,01/29/2008 @ 12:00:00 AM
+23924,"Fate, Ivycaster",The Lewd King,45.98,Tritons' Time Stoneiron Of Legend,319.00,341.59,375.75,108967.2100,119864.2500,334048.16530800,01/29/2008 @ 12:00:00 AM
+22732,"Gale, Jackalguard",The Tower of Sabiesu the Awesome,10.00,Shadowhell Mithril,180.00,462.21,420.19,83197.8000,75634.2000,174715.20000000,01/29/2008 @ 12:00:00 AM
+9229,"Bedlam, Spiritraven",The Demon and Toad,-1.10,Primordial Plague Mercury Of Legend,224.00,1150.79,67.00,257776.9600,15008.0000,269784.32544000,01/29/2008 @ 12:00:00 AM
+33808,"Sephiroth, Drakecaster",The Cuitamba Jungle,46.75,Unicorns' Fatal Magma Metal Of The Ocean,252.00,25.30,27.83,6375.6000,7013.1600,19648.00530000,01/29/2008 @ 12:00:00 AM
+8539,"Flameflare, The Evil",Archtemple District,37.85,Lycanthropes' Gold,281.00,371.80,338.00,104475.8000,94978.0000,274947.06330000,01/29/2008 @ 12:00:00 AM
+29364,"Scarechain, The Unspeakable",The Citadel of Alammius,32.67,Heavenly Dreamsilver Of The Night,186.00,719.00,314.60,133734.0000,58515.6000,255057.54432000,01/29/2008 @ 12:00:00 AM
+31692,Spikespawn,Hafeld Keep,47.59,Planar Mudtin Of Trolls,113.00,191.40,174.00,21628.2000,19662.0000,60940.20618000,01/29/2008 @ 12:00:00 AM
+16426,"Shadow, Tomblion",Gili's Delve,35.89,Incubi's Iron Of The Dawn,101.00,174.99,174.99,17673.9900,17673.9900,48034.37002200,01/29/2008 @ 12:00:00 AM
+7918,Spikecrank,Gawold Castle,10.29,Zephyr Adamant,38.00,481.77,-44.14,18307.2600,-1677.3200,18341.16082600,01/29/2008 @ 12:00:00 AM
+14266,"Rouge, Tombreaper",The Archer and Scroll,49.68,Mithril Of The Tropics,208.00,251.56,251.56,52324.4800,52324.4800,156638.56332800,01/29/2008 @ 12:00:00 AM
+5732,"Jericho, Wolf",Pawic Keep,31.90,Nymphs' Luminous Rotmercury Of The Skies,202.00,335.50,305.00,67771.0000,61610.0000,170653.53900000,01/29/2008 @ 12:00:00 AM

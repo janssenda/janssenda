@@ -1,22 +1,22 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-36572,"Godwarlock, Sunrise",The Fen of the Necromancer,32.21,Vampires' Hammer Emeraldmetal,201.00,93.70,85.18,18833.7000,17121.1800,47535.94684800,06/20/2018 @ 12:00:00 AM
-12705,"Tomblion, Shadow",Archfane District,15.29,White Platinum,201.00,83.49,91.84,16781.4900,18459.8400,40629.72935700,06/20/2018 @ 12:00:00 AM
-36757,"Darkzealot, Dawn",The Fen of the Necromancer,32.21,Vampires' Hammer Emeraldmetal,73.00,93.70,85.18,6840.1000,6218.1400,17264.29910400,06/20/2018 @ 12:00:00 AM
-22021,"The Freezer, Shiverflame",The Nulukkhath Spires,28.99,Primordial Mud Orichalcum,276.00,1113.00,20.57,307188.0000,5677.3200,403564.97626800,06/20/2018 @ 12:00:00 AM
-22351,"Ivycaster, Fate",The Nulukkhath Spires,28.99,Fog Lavaplatinum Of Life,334.00,560.35,509.41,187156.9000,170142.9400,460881.06361600,06/20/2018 @ 12:00:00 AM
-33007,"God of Thieves, Maeglodor",Pewold Keep,29.00,Fairies' Supreme Mistsmoke Lead Of The Future,186.00,499.73,549.70,92949.7800,102244.2000,251800.23420000,06/20/2018 @ 12:00:00 AM
-10349,"The Firey, Evilember",The Chuallanto Jungle,10.00,Phantasmal Smokezephyr Mercury Of Men,238.00,211.20,192.00,50265.6000,45696.0000,105557.76000000,06/20/2018 @ 12:00:00 AM
-35602,"Rougehate, Rune",Citadel Ward,4.40,Violetdream Iron,135.00,502.13,502.13,67787.5500,67787.5500,141540.40440000,06/20/2018 @ 12:00:00 AM
-11653,"Mist, Claw",Mahyrst Keep,28.45,Shadow Metal,211.00,1606.00,298.00,338866.0000,62878.0000,516040.16800000,06/20/2018 @ 12:00:00 AM
-11862,"Dawn, Tarot",Castle Village,42.98,Fog Lavaplatinum Of Life,95.00,2232.00,509.41,212040.0000,48393.9500,372368.46171000,06/20/2018 @ 12:00:00 AM
-9505,"Tombreaper, Rouge",The Lost Crypts of Sorrows,2.20,Timeiron,270.00,3255.00,-16.25,878850.0000,-4387.5000,893700.67500000,06/20/2018 @ 12:00:00 AM
-31757,Ironbrood,Hafeld Keep,47.59,Warlocks' Timerot Mithril,242.00,194.65,194.65,47105.3000,47105.3000,139045.42454000,06/20/2018 @ 12:00:00 AM
-16370,"The Evil, Snowflame",The Secret Shrine of the Gargoyle Count,23.93,Lycanthropes' Gold,248.00,371.80,338.00,92206.4000,83824.0000,218154.47472000,06/20/2018 @ 12:00:00 AM
-27171,"Seeker, Fate",The Pirate's Pipe,16.94,Vampires' Hammer Emeraldmetal,203.00,93.70,85.18,19021.1000,17291.5400,42464.00121600,06/20/2018 @ 12:00:00 AM
-17940,"God of Fate, Sielach",Kada's Deep,8.42,Starsmoke Bronze Of Life,140.00,-438.00,420.81,-61320.0000,58913.4000,-2609.23572000,06/20/2018 @ 12:00:00 AM
-28691,"Lord of Animals, Suriel",Barad Cune,49.21,Stone Soulsteel Of The Skies,102.00,453.31,412.10,46237.6200,42034.2000,131710.38262200,06/20/2018 @ 12:00:00 AM
-26007,"Lord of Plague, Alas",The Dungeon of Merciless Woe,3.97,Grayplatinum,145.00,2548.00,104.94,369460.0000,15216.3000,399947.94911000,06/20/2018 @ 12:00:00 AM
-14118,"The Machine, Wheelbolt",The Broken Arrow,17.60,Negative Rockglitter Mercury Of Trolls,203.00,3502.00,214.17,710906.0000,43476.5100,887153.83176000,06/20/2018 @ 12:00:00 AM
-16817,"Godwarlock, Sunrise",Gena's Hold,5.85,Golems' Stonesapphire Gold Of The Glacier,247.00,176.00,160.00,43472.0000,39520.0000,87847.03200000,06/20/2018 @ 12:00:00 AM
-2155,"The Skeletal, Spiketerror",The Forsaken Tomb of Devastation,38.65,Falserainbow Lead,329.00,872.99,63.80,287213.7100,20990.2000,427324.72121500,06/20/2018 @ 12:00:00 AM
-37432,"Mistmidnight, Tiger",The Greedy Wench,13.31,Ghouls' Imperial Soulzephyr Mithril Of The Seas,275.00,318.23,318.23,87513.2500,87513.2500,198322.52715000,06/20/2018 @ 12:00:00 AM
+36572,"Godwarlock, Sunrise",The Fen of the Necromancer,32.21,Vampires' Hammer Emeraldmetal,201.00,93.70,85.18,18833.7000,17121.1800,47535.94684800,06/20/1948 @ 12:00:00 AM
+12705,"Tomblion, Shadow",Archfane District,15.29,White Platinum,201.00,83.49,91.84,16781.4900,18459.8400,40629.72935700,06/20/1948 @ 12:00:00 AM
+36757,"Darkzealot, Dawn",The Fen of the Necromancer,32.21,Vampires' Hammer Emeraldmetal,73.00,93.70,85.18,6840.1000,6218.1400,17264.29910400,06/20/1948 @ 12:00:00 AM
+22021,"The Freezer, Shiverflame",The Nulukkhath Spires,28.99,Primordial Mud Orichalcum,276.00,1113.00,20.57,307188.0000,5677.3200,403564.97626800,06/20/1948 @ 12:00:00 AM
+22351,"Ivycaster, Fate",The Nulukkhath Spires,28.99,Fog Lavaplatinum Of Life,334.00,560.35,509.41,187156.9000,170142.9400,460881.06361600,06/20/1948 @ 12:00:00 AM
+33007,"God of Thieves, Maeglodor",Pewold Keep,29.00,Fairies' Supreme Mistsmoke Lead Of The Future,186.00,499.73,549.70,92949.7800,102244.2000,251800.23420000,06/20/1948 @ 12:00:00 AM
+10349,"The Firey, Evilember",The Chuallanto Jungle,10.00,Phantasmal Smokezephyr Mercury Of Men,238.00,211.20,192.00,50265.6000,45696.0000,105557.76000000,06/20/1948 @ 12:00:00 AM
+35602,"Rougehate, Rune",Citadel Ward,4.40,Violetdream Iron,135.00,502.13,502.13,67787.5500,67787.5500,141540.40440000,06/20/1948 @ 12:00:00 AM
+11653,"Mist, Claw",Mahyrst Keep,28.45,Shadow Metal,211.00,1606.00,298.00,338866.0000,62878.0000,516040.16800000,06/20/1948 @ 12:00:00 AM
+11862,"Dawn, Tarot",Castle Village,42.98,Fog Lavaplatinum Of Life,95.00,2232.00,509.41,212040.0000,48393.9500,372368.46171000,06/20/1978 @ 12:00:00 AM
+9505,"Tombreaper, Rouge",The Lost Crypts of Sorrows,2.20,Timeiron,270.00,3255.00,-16.25,878850.0000,-4387.5000,893700.67500000,06/20/1948 @ 12:00:00 AM
+31757,Ironbrood,Hafeld Keep,47.59,Warlocks' Timerot Mithril,242.00,194.65,194.65,47105.3000,47105.3000,139045.42454000,06/20/1948 @ 12:00:00 AM
+16370,"The Evil, Snowflame",The Secret Shrine of the Gargoyle Count,23.93,Lycanthropes' Gold,248.00,371.80,338.00,92206.4000,83824.0000,218154.47472000,06/20/1948 @ 12:00:00 AM
+27171,"Seeker, Fate",The Pirate's Pipe,16.94,Vampires' Hammer Emeraldmetal,203.00,93.70,85.18,19021.1000,17291.5400,42464.00121600,06/20/1948 @ 12:00:00 AM
+17940,"God of Fate, Sielach",Kada's Deep,8.42,Starsmoke Bronze Of Life,140.00,-438.00,420.81,-61320.0000,58913.4000,-2609.23572000,06/20/1948 @ 12:00:00 AM
+28691,"Lord of Animals, Suriel",Barad Cune,49.21,Stone Soulsteel Of The Skies,102.00,453.31,412.10,46237.6200,42034.2000,131710.38262200,06/20/1948 @ 12:00:00 AM
+26007,"Lord of Plague, Alas",The Dungeon of Merciless Woe,3.97,Grayplatinum,145.00,2548.00,104.94,369460.0000,15216.3000,399947.94911000,06/20/1948 @ 12:00:00 AM
+14118,"The Machine, Wheelbolt",The Broken Arrow,17.60,Negative Rockglitter Mercury Of Trolls,203.00,3502.00,214.17,710906.0000,43476.5100,887153.83176000,06/20/1948 @ 12:00:00 AM
+16817,"Godwarlock, Sunrise",Gena's Hold,5.85,Golems' Stonesapphire Gold Of The Glacier,247.00,176.00,160.00,43472.0000,39520.0000,87847.03200000,06/20/1948 @ 12:00:00 AM
+2155,"The Skeletal, Spiketerror",The Forsaken Tomb of Devastation,38.65,Falserainbow Lead,329.00,872.99,63.80,287213.7100,20990.2000,427324.72121500,06/20/1948 @ 12:00:00 AM
+37432,"Mistmidnight, Tiger",The Greedy Wench,13.31,Ghouls' Imperial Soulzephyr Mithril Of The Seas,275.00,318.23,318.23,87513.2500,87513.2500,198322.52715000,06/20/1948 @ 12:00:00 AM

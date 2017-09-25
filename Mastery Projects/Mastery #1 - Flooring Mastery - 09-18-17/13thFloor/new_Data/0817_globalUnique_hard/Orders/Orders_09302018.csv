@@ -1,19 +1,19 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-25885,"Spiritraven, Bedlam",Archfane District,15.29,Unspeakable Rotsoul Mithril Of Souls,113.00,370.26,336.60,41839.3800,38035.8000,92088.09502200,09/30/2018 @ 12:00:00 AM
-35461,Emberspawn,Bifar's Deep,12.21,Lycanthropes' Gold,131.00,449.88,408.98,58934.2800,53576.3800,126248.21158600,09/30/2018 @ 12:00:00 AM
-11482,"Godwarlock, Sunrise",The Broken Shield,12.00,Shadow Metal,237.00,1606.00,298.00,380622.0000,70626.0000,505397.76000000,09/30/2018 @ 12:00:00 AM
-1851,"Dawn, Tarot",The Warrior and Flagon,9.00,Spirits' Living Wordhammer Tin Of The Trees,188.00,3897.55,117.00,732739.4000,21996.0000,822661.58600000,09/30/2018 @ 12:00:00 AM
-30159,"Lord of the Sun, Maglioneth",The Tower of Sabiesu the Awesome,10.00,Incubi's Glittering Tin Of The Future,248.00,192.96,233.49,47854.0800,57905.5200,116335.56000000,09/30/2018 @ 12:00:00 AM
-32887,"Reaper, Dagger",The Chuallanto Jungle,11.00,Magicians' Legendary Poison Metal,267.00,-52.81,-48.01,-14100.2700,-12818.6700,-29880.02340000,09/30/2018 @ 12:00:00 AM
-30347,Spikerivet,The Greedy Wench,13.31,Incubi's Glittering Tin Of The Future,176.00,192.96,233.49,33960.9600,41094.2400,85045.04712000,09/30/2018 @ 12:00:00 AM
-8666,"Goddess of Law, Eumyan",The Tower of Aces the Accursed,-3.34,Unknowable Mindsilver,334.00,174.90,174.90,58416.6000,58416.6000,112930.97112000,09/30/2018 @ 12:00:00 AM
-17459,"Mystery, Lord",The Scoundrel and Flask,45.25,Golems' Stonesapphire Gold Of The Glacier,91.00,176.00,160.00,16016.0000,14560.0000,44411.64000000,09/30/2018 @ 12:00:00 AM
-18891,Bolttrap,Gifeld Castle,33.01,Unspeakable Rotsoul Mithril Of Souls,124.00,370.26,336.60,45912.2400,41738.4000,116584.11626400,09/30/2018 @ 12:00:00 AM
-6509,"Gust, Shadow",North Grove Ward,41.80,Trolls' Rubymercury Of The Sunset,227.00,2733.00,443.00,620391.0000,100561.0000,1022309.93600000,09/30/2018 @ 12:00:00 AM
-30877,Chainnail,Mahyrst Keep,31.30,Foulopal Copper Of The Skies,227.00,221.83,221.83,50355.4100,50355.4100,132233.30666000,09/30/2018 @ 12:00:00 AM
-16552,"Wolf, Jericho",North Arcanist's Farthing,2.75,Undeads' Mind Orichalcum Of The Twilight,363.00,1169.00,301.40,424347.0000,109408.2000,548433.46800000,09/30/2018 @ 12:00:00 AM
-37056,"Felldrake, Magus",The Greedy Wench,13.31,Ghouls' Imperial Soulzephyr Mithril Of The Seas,338.00,318.23,318.23,107561.7400,107561.7400,243756.41518800,09/30/2018 @ 12:00:00 AM
-5775,Deathbrood,Pawic Keep,31.90,Venom Jewelmetal Of The Desert,188.00,701.92,167.16,131960.9600,31426.0800,215507.50576000,09/30/2018 @ 12:00:00 AM
-3335,Emberfire,Cawold Castle,35.00,Zephyr Adamant,223.00,481.77,-40.13,107434.7100,-8948.9900,132955.72200000,09/30/2018 @ 12:00:00 AM
-3433,"The Evil, Flameflare",The Fortress of Akkun the Grim,27.03,Mind Lead,33.00,756.00,199.17,24948.0000,6572.6100,40040.63088300,09/30/2018 @ 12:00:00 AM
-25490,"Gust, Shadow",The Fortress of the Lich Queen,20.72,Negative Rockglitter Mercury Of Trolls,115.00,235.59,214.17,27092.8500,24629.5500,62439.28128000,09/30/2018 @ 12:00:00 AM
+25885,"Bedlam, Spiritraven",Archfane District,15.29,Unspeakable Rotsoul Mithril Of Souls,113.00,370.26,336.60,41839.3800,38035.8000,92088.09502200,09/30/2008 @ 12:00:00 AM
+35461,Emberspawn,Bifar's Deep,12.21,Lycanthropes' Gold,131.00,449.88,408.98,58934.2800,53576.3800,126248.21158600,09/30/2008 @ 12:00:00 AM
+11482,"Sunrise, Godwarlock",The Broken Shield,12.00,Shadow Metal,237.00,1606.00,298.00,380622.0000,70626.0000,505397.76000000,09/30/2008 @ 12:00:00 AM
+1851,"Tarot, Dawn",The Warrior and Flagon,9.00,Spirits' Living Wordhammer Tin Of The Trees,188.00,3897.55,117.00,732739.4000,21996.0000,822661.58600000,09/30/2008 @ 12:00:00 AM
+30159,"Maglioneth, Lord of the Sun",The Tower of Sabiesu the Awesome,10.00,Incubi's Glittering Tin Of The Future,248.00,192.96,233.49,47854.0800,57905.5200,116335.56000000,09/30/2008 @ 12:00:00 AM
+32887,"Dagger, Reaper",The Chuallanto Jungle,11.00,Magicians' Legendary Poison Metal,267.00,-52.81,-48.01,-14100.2700,-12818.6700,-29880.02340000,09/30/2008 @ 12:00:00 AM
+30347,Spikerivet,The Greedy Wench,13.31,Incubi's Glittering Tin Of The Future,176.00,192.96,233.49,33960.9600,41094.2400,85045.04712000,09/30/2008 @ 12:00:00 AM
+8666,"Eumyan, Goddess of Law",The Tower of Aces the Accursed,-3.34,Unknowable Mindsilver,334.00,174.90,174.90,58416.6000,58416.6000,112930.97112000,09/30/2008 @ 12:00:00 AM
+17459,"Lord, Mystery",The Scoundrel and Flask,45.25,Golems' Stonesapphire Gold Of The Glacier,91.00,176.00,160.00,16016.0000,14560.0000,44411.64000000,09/30/2008 @ 12:00:00 AM
+18891,Bolttrap,Gifeld Castle,33.01,Unspeakable Rotsoul Mithril Of Souls,124.00,370.26,336.60,45912.2400,41738.4000,116584.11626400,09/30/2008 @ 12:00:00 AM
+6509,"Shadow, Gust",North Grove Ward,41.80,Trolls' Rubymercury Of The Sunset,227.00,2733.00,443.00,620391.0000,100561.0000,1022309.93600000,09/30/2008 @ 12:00:00 AM
+30877,Chainnail,Mahyrst Keep,31.30,Foulopal Copper Of The Skies,227.00,221.83,221.83,50355.4100,50355.4100,132233.30666000,09/30/2008 @ 12:00:00 AM
+16552,"Jericho, Wolf",North Arcanist's Farthing,2.75,Undeads' Mind Orichalcum Of The Twilight,363.00,1169.00,301.40,424347.0000,109408.2000,548433.46800000,09/30/2008 @ 12:00:00 AM
+37056,"Magus, Felldrake",The Greedy Wench,13.31,Ghouls' Imperial Soulzephyr Mithril Of The Seas,338.00,318.23,318.23,107561.7400,107561.7400,243756.41518800,09/30/2008 @ 12:00:00 AM
+5775,Deathbrood,Pawic Keep,31.90,Venom Jewelmetal Of The Desert,188.00,701.92,167.16,131960.9600,31426.0800,215507.50576000,09/30/2008 @ 12:00:00 AM
+3335,Emberfire,Cawold Castle,35.00,Zephyr Adamant,223.00,481.77,-40.13,107434.7100,-8948.9900,132955.72200000,09/30/2008 @ 12:00:00 AM
+3433,"Flameflare, The Evil",The Fortress of Akkun the Grim,27.03,Mind Lead,33.00,756.00,199.17,24948.0000,6572.6100,40040.63088300,09/30/2008 @ 12:00:00 AM
+25490,"Shadow, Gust",The Fortress of the Lich Queen,20.72,Negative Rockglitter Mercury Of Trolls,115.00,235.59,214.17,27092.8500,24629.5500,62439.28128000,09/30/2008 @ 12:00:00 AM

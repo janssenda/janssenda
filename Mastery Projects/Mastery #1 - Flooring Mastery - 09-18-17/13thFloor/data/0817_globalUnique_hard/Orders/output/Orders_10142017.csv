@@ -1,18 +1,18 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-37636,"The Constructed, Snaretool",The Greedy Wench,13.31,Ghouls' Imperial Soulzephyr Mithril Of The Seas,23.00,318.23,318.23,7319.2900,7319.2900,16586.97499800,10/14/2017 @ 12:00:00 AM
-25941,"The Horrorific, Evilfear",Moor Village,11.32,Starsmoke Bronze Of Life,89.00,-438.00,420.81,-38982.0000,37452.0900,-1703.09581200,10/14/2017 @ 12:00:00 AM
-2765,"Veil, Bane",Cawold Castle,35.00,Falserainbow Lead,109.00,872.99,70.18,95155.9100,7649.6200,138787.46550000,10/14/2017 @ 12:00:00 AM
-1743,"Squallmourner, Storm",The Bastion of the Lich Tyrant,5.36,Negative Mercury,208.00,4115.00,68.00,855920.0000,14144.0000,916699.43040000,10/14/2017 @ 12:00:00 AM
-23868,"Roguemist, Rouge",The Lewd King,45.98,Unicorns' Fatal Magma Metal Of The Ocean,273.00,25.30,23.00,6906.9000,6279.0000,19248.77682000,10/14/2017 @ 12:00:00 AM
-32777,"Mistmidnight, Tiger",The Bastion of the Lich Tyrant,8.64,Magicians' Legendary Poison Metal,124.00,-52.81,-48.01,-6548.4400,-5953.2400,-13581.82515200,10/14/2017 @ 12:00:00 AM
-9970,"Roguemist, Rouge",The Pirate's Pipe,15.40,God-touched Greengem Platinum,220.00,2181.36,188.14,479899.2000,41390.8000,601568.66000000,10/14/2017 @ 12:00:00 AM
-8723,"The Living Device, Mecharig",The Tomb of Hellish Ruin,33.00,Unknowable Mindsilver,271.00,174.90,174.90,47397.9000,47397.9000,126078.41400000,10/14/2017 @ 12:00:00 AM
-15056,Gravebone,Dysley Stronghold,35.51,Lycanthropes' Gold,174.00,371.80,338.00,64693.2000,58812.0000,167361.89652000,10/14/2017 @ 12:00:00 AM
-7736,"Lionwatcher, Law",Archring Borough,29.70,Sirens' Rockgold,208.00,306.13,278.30,63675.0400,57886.4000,157665.18768000,10/14/2017 @ 12:00:00 AM
-16599,"Lord of Death, Addon",Khali's Delve,1.18,Vampires' Hammer Emeraldmetal,387.00,77.44,77.44,29969.2800,29969.2800,60645.83500800,10/14/2017 @ 12:00:00 AM
-30890,"Felldrake, Magus",The Tower of Sabiesu the Awesome,10.00,Witchs' Forbidden Rockrainbow Bronze,58.00,245.63,245.63,14246.5400,14246.5400,31342.38800000,10/14/2017 @ 12:00:00 AM
-15225,"Jackalguard, Gale",The Secret Shrine of the Gargoyle Count,23.93,Lycanthropes' Gold,110.00,371.80,338.00,40898.0000,37180.0000,96762.06540000,10/14/2017 @ 12:00:00 AM
-16613,"Seeker, Fate",Gili's Delve,35.89,Swordbronze,180.00,333.30,303.00,59994.0000,54540.0000,155640.25260000,10/14/2017 @ 12:00:00 AM
-15358,Gravebone,The Dungeon of Merciless Woe,3.61,Starsmoke Bronze Of Life,165.00,-438.00,420.81,-72270.0000,69433.6500,-2938.74223500,10/14/2017 @ 12:00:00 AM
-5764,Graveterror,Reheath Stronghold,39.60,Mind Lead,305.00,219.09,199.17,66822.4500,60746.8500,178086.74280000,10/14/2017 @ 12:00:00 AM
-13143,"Drakecaster, Sephiroth",Kada's Deep,8.42,Sapphire Mindlead,204.00,-44.77,-40.70,-9133.0800,-8302.8000,-18903.98109600,10/14/2017 @ 12:00:00 AM
+37636,"The Constructed, Snaretool",The Greedy Wench,13.31,Ghouls' Imperial Soulzephyr Mithril Of The Seas,23.00,318.23,318.23,7319.2900,7319.2900,16586.97499800,10/14/1947 @ 12:00:00 AM
+25941,"The Horrorific, Evilfear",Moor Village,11.32,Starsmoke Bronze Of Life,89.00,-438.00,420.81,-38982.0000,37452.0900,-1703.09581200,10/14/1977 @ 12:00:00 AM
+2765,"Veil, Bane",Cawold Castle,35.00,Falserainbow Lead,109.00,872.99,70.18,95155.9100,7649.6200,138787.46550000,10/14/1947 @ 12:00:00 AM
+1743,"Squallmourner, Storm",The Bastion of the Lich Tyrant,5.36,Negative Mercury,208.00,4115.00,68.00,855920.0000,14144.0000,916699.43040000,10/14/1977 @ 12:00:00 AM
+23868,"Roguemist, Rouge",The Lewd King,45.98,Unicorns' Fatal Magma Metal Of The Ocean,273.00,25.30,23.00,6906.9000,6279.0000,19248.77682000,10/14/1947 @ 12:00:00 AM
+32777,"Mistmidnight, Tiger",The Bastion of the Lich Tyrant,8.64,Magicians' Legendary Poison Metal,124.00,-52.81,-48.01,-6548.4400,-5953.2400,-13581.82515200,10/14/1987 @ 12:00:00 AM
+9970,"Roguemist, Rouge",The Pirate's Pipe,15.40,God-touched Greengem Platinum,220.00,2181.36,188.14,479899.2000,41390.8000,601568.66000000,10/14/1947 @ 12:00:00 AM
+8723,"The Living Device, Mecharig",The Tomb of Hellish Ruin,33.00,Unknowable Mindsilver,271.00,174.90,174.90,47397.9000,47397.9000,126078.41400000,10/14/1947 @ 12:00:00 AM
+15056,Gravebone,Dysley Stronghold,35.51,Lycanthropes' Gold,174.00,371.80,338.00,64693.2000,58812.0000,167361.89652000,10/14/1947 @ 12:00:00 AM
+7736,"Lionwatcher, Law",Archring Borough,29.70,Sirens' Rockgold,208.00,306.13,278.30,63675.0400,57886.4000,157665.18768000,10/14/1947 @ 12:00:00 AM
+16599,"Lord of Death, Addon",Khali's Delve,1.18,Vampires' Hammer Emeraldmetal,387.00,77.44,77.44,29969.2800,29969.2800,60645.83500800,10/14/1947 @ 12:00:00 AM
+30890,"Felldrake, Magus",The Tower of Sabiesu the Awesome,10.00,Witchs' Forbidden Rockrainbow Bronze,58.00,245.63,245.63,14246.5400,14246.5400,31342.38800000,10/14/1947 @ 12:00:00 AM
+15225,"Jackalguard, Gale",The Secret Shrine of the Gargoyle Count,23.93,Lycanthropes' Gold,110.00,371.80,338.00,40898.0000,37180.0000,96762.06540000,10/14/1947 @ 12:00:00 AM
+16613,"Seeker, Fate",Gili's Delve,35.89,Swordbronze,180.00,333.30,303.00,59994.0000,54540.0000,155640.25260000,10/14/1947 @ 12:00:00 AM
+15358,Gravebone,The Dungeon of Merciless Woe,3.61,Starsmoke Bronze Of Life,165.00,-438.00,420.81,-72270.0000,69433.6500,-2938.74223500,10/14/1947 @ 12:00:00 AM
+5764,Graveterror,Reheath Stronghold,39.60,Mind Lead,305.00,219.09,199.17,66822.4500,60746.8500,178086.74280000,10/14/1947 @ 12:00:00 AM
+13143,"Drakecaster, Sephiroth",Kada's Deep,8.42,Sapphire Mindlead,204.00,-44.77,-40.70,-9133.0800,-8302.8000,-18903.98109600,10/14/1977 @ 12:00:00 AM

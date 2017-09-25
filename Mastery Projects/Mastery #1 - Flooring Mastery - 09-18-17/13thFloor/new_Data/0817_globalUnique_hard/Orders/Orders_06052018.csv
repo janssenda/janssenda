@@ -1,19 +1,19 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-3709,"Amberslayer, Flora",Noble's Village,4.49,Unknown Fatelightning Steel Of The Glacier,243.00,119.90,109.00,29135.7000,26487.0000,58120.15923000,06/05/2018 @ 12:00:00 AM
-11210,Flameshiver,The Fortress of the Lich Queen,18.84,Swordbronze,200.00,333.30,303.00,66660.0000,60600.0000,151235.78400000,06/05/2018 @ 12:00:00 AM
-12506,"Runetomb, Song",The Tomb of Hellish Ruin,33.00,Spirits' Living Wordhammer Tin Of The Trees,165.00,3897.55,128.70,643095.7500,21235.5000,883560.56250000,06/05/2018 @ 12:00:00 AM
-36573,"Tsunami, Seraphim",The Fen of the Necromancer,32.21,Heavenly Dreamsilver Of The Night,110.00,719.00,346.06,79090.0000,38066.6000,154892.74086000,06/05/2018 @ 12:00:00 AM
-22352,Metalbrood,Pewold Keep,29.00,Warlocks' Timerot Mithril,125.00,194.65,176.95,24331.2500,22118.7500,59920.50000000,06/05/2018 @ 12:00:00 AM
-22338,"The Disinterred, Spikebrood",The Nulukkhath Spires,28.99,Fog Lavaplatinum Of Life,229.00,560.35,509.41,128320.1500,116654.8900,315993.30409600,06/05/2018 @ 12:00:00 AM
-10718,"The Machine, Wheelbolt",The Secret Shrine of the Gargoyle Count,21.75,Tritons' Time Stoneiron Of Legend,168.00,2235.00,310.54,375480.0000,52170.7200,520664.75160000,06/05/2018 @ 12:00:00 AM
-19994,Deathbrood,The Lewd King,45.98,Shadow Metal,259.00,1606.00,298.00,415954.0000,77182.0000,719879.93280000,06/05/2018 @ 12:00:00 AM
-31815,"Goddess of Knowledge, Ahah",The Demon and Toad,-1.21,Warlocks' Timerot Mithril,163.00,194.65,194.65,31727.9500,31727.9500,62688.08361000,06/05/2018 @ 12:00:00 AM
-5034,"The Cremator, Blazeflare",The Dancing Minstrel,36.02,Sirens' Rockgold,168.00,306.13,278.30,51429.8400,46754.4000,133550.20324800,06/05/2018 @ 12:00:00 AM
-29637,"God of Animals, Byzou",The Nulukkhath Spires,28.99,Fleshshock Mercury,338.00,-31.02,-28.20,-10484.7600,-9531.6000,-25819.10276400,06/05/2018 @ 12:00:00 AM
-28654,"Jester, Seraph",The Bastion of the Vampire Duke,45.86,Stone Soulsteel Of The Skies,222.00,453.31,412.10,100634.8200,91486.2000,280227.71977200,06/05/2018 @ 12:00:00 AM
-15327,"Dawn, Tarot",The Fortress of Asmamur,-2.66,Imperial Fate Steel,110.00,419.10,381.00,46101.0000,41910.0000,85669.90740000,06/05/2018 @ 12:00:00 AM
-15535,"Drakecaster, Sephiroth",The Dungeon of Merciless Woe,3.61,Djinni's Mind Fogiron,196.00,57.23,52.03,11217.0800,10197.8800,22188.04005600,06/05/2018 @ 12:00:00 AM
-14385,"Godseeker, Cult",The Secret Catacombs of Ulfang the Black,28.82,Djinni's Evil Sandobsidian Steel Of The Future,262.00,140.58,140.58,36831.9600,36831.9600,94893.86174400,06/05/2018 @ 12:00:00 AM
-27896,Emberspawn,The Pirate's Pipe,16.94,Vampires' Hammer Emeraldmetal,129.00,93.70,85.18,12087.3000,10988.2200,26984.51308800,06/05/2018 @ 12:00:00 AM
-25573,"God of Thieves, Maeglodor",Kada's Deep,8.42,Mithril Of The Tropics,241.00,276.72,276.72,66689.5200,66689.5200,144609.55516800,06/05/2018 @ 12:00:00 AM
-26885,"Angelchild, Harmony",Khali's Delve,1.30,Shadowhell Mithril,193.00,462.21,420.19,89206.5300,81096.6700,172517.14160000,06/05/2018 @ 12:00:00 AM
+3709,"Flora, Amberslayer",Noble's Village,4.49,Unknown Fatelightning Steel Of The Glacier,243.00,119.90,109.00,29135.7000,26487.0000,58120.15923000,06/05/2008 @ 12:00:00 AM
+11210,Flameshiver,The Fortress of the Lich Queen,18.84,Swordbronze,200.00,333.30,303.00,66660.0000,60600.0000,151235.78400000,06/05/2008 @ 12:00:00 AM
+12506,"Song, Runetomb",The Tomb of Hellish Ruin,33.00,Spirits' Living Wordhammer Tin Of The Trees,165.00,3897.55,128.70,643095.7500,21235.5000,883560.56250000,06/05/2008 @ 12:00:00 AM
+36573,"Seraphim, Tsunami",The Fen of the Necromancer,32.21,Heavenly Dreamsilver Of The Night,110.00,719.00,346.06,79090.0000,38066.6000,154892.74086000,06/05/2008 @ 12:00:00 AM
+22352,Metalbrood,Pewold Keep,29.00,Warlocks' Timerot Mithril,125.00,194.65,176.95,24331.2500,22118.7500,59920.50000000,06/05/2008 @ 12:00:00 AM
+22338,"Spikebrood, The Disinterred",The Nulukkhath Spires,28.99,Fog Lavaplatinum Of Life,229.00,560.35,509.41,128320.1500,116654.8900,315993.30409600,06/05/2008 @ 12:00:00 AM
+10718,"Wheelbolt, The Machine",The Secret Shrine of the Gargoyle Count,21.75,Tritons' Time Stoneiron Of Legend,168.00,2235.00,310.54,375480.0000,52170.7200,520664.75160000,06/05/2008 @ 12:00:00 AM
+19994,Deathbrood,The Lewd King,45.98,Shadow Metal,259.00,1606.00,298.00,415954.0000,77182.0000,719879.93280000,06/05/2008 @ 12:00:00 AM
+31815,"Ahah, Goddess of Knowledge",The Demon and Toad,-1.21,Warlocks' Timerot Mithril,163.00,194.65,194.65,31727.9500,31727.9500,62688.08361000,06/05/2008 @ 12:00:00 AM
+5034,"Blazeflare, The Cremator",The Dancing Minstrel,36.02,Sirens' Rockgold,168.00,306.13,278.30,51429.8400,46754.4000,133550.20324800,06/05/2008 @ 12:00:00 AM
+29637,"Byzou, God of Animals",The Nulukkhath Spires,28.99,Fleshshock Mercury,338.00,-31.02,-28.20,-10484.7600,-9531.6000,-25819.10276400,06/05/2008 @ 12:00:00 AM
+28654,"Seraph, Jester",The Bastion of the Vampire Duke,45.86,Stone Soulsteel Of The Skies,222.00,453.31,412.10,100634.8200,91486.2000,280227.71977200,06/05/2008 @ 12:00:00 AM
+15327,"Tarot, Dawn",The Fortress of Asmamur,-2.66,Imperial Fate Steel,110.00,419.10,381.00,46101.0000,41910.0000,85669.90740000,06/05/2008 @ 12:00:00 AM
+15535,"Sephiroth, Drakecaster",The Dungeon of Merciless Woe,3.61,Djinni's Mind Fogiron,196.00,57.23,52.03,11217.0800,10197.8800,22188.04005600,06/05/2018 @ 12:00:00 AM
+14385,"Cult, Godseeker",The Secret Catacombs of Ulfang the Black,28.82,Djinni's Evil Sandobsidian Steel Of The Future,262.00,140.58,140.58,36831.9600,36831.9600,94893.86174400,06/05/2008 @ 12:00:00 AM
+27896,Emberspawn,The Pirate's Pipe,16.94,Vampires' Hammer Emeraldmetal,129.00,93.70,85.18,12087.3000,10988.2200,26984.51308800,06/05/2008 @ 12:00:00 AM
+25573,"Maeglodor, God of Thieves",Kada's Deep,8.42,Mithril Of The Tropics,241.00,276.72,276.72,66689.5200,66689.5200,144609.55516800,06/05/2008 @ 12:00:00 AM
+26885,"Harmony, Angelchild",Khali's Delve,1.30,Shadowhell Mithril,193.00,462.21,420.19,89206.5300,81096.6700,172517.14160000,06/05/2008 @ 12:00:00 AM

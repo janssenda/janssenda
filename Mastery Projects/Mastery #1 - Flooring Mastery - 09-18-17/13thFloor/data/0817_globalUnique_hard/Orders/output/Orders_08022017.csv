@@ -1,23 +1,23 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-25838,Gravebone,Barad Cune,49.21,Sapphire Mindlead,229.00,-44.77,-49.25,-10252.3300,-11278.2500,-32125.77841800,08/02/2017 @ 12:00:00 AM
-11311,"Tombreaper, Rouge",The Fortress of Asmamur,-2.42,Mistgold Of Men,127.00,412.50,375.00,52387.5000,47625.0000,97592.19750000,08/02/2017 @ 12:00:00 AM
-1353,"The Unspeakable, Terrorghoul",The Archer and Blade,15.00,Foul Ice Bronze Of Life,155.00,-378.00,242.00,-58590.0000,37510.0000,-24242.00000000,08/02/2017 @ 12:00:00 AM
-10304,"The Binder, Springpulley",Arcanist's Farthing,29.00,Pearl Mirrorice Steel Of Changelings,290.00,2996.00,302.00,868840.0000,87580.0000,1233781.80000000,08/02/2017 @ 12:00:00 AM
-21112,"God of Luck, Ariel",Mahyrst Keep,31.30,Fairies' Supreme Mistsmoke Lead Of The Future,180.00,499.73,499.73,89951.4000,89951.4000,236212.37640000,08/02/2017 @ 12:00:00 AM
-18089,"Rougehate, Rune",The Citadel of Alammius,29.70,Undeads' Mind Orichalcum Of The Twilight,85.00,1169.00,331.54,99365.0000,28180.9000,165427.03230000,08/02/2017 @ 12:00:00 AM
-20363,"The Evil, Snowflame",Dysley Stronghold,35.51,Emerald Orichalcum,187.00,1957.00,142.79,365959.0000,26701.7300,532094.55522300,08/02/2017 @ 12:00:00 AM
-20605,"The Cadaverous, Chainblade",Gena's Hold,5.85,Grayplatinum,347.00,2548.00,104.94,884156.0000,36414.1800,974423.53553000,08/02/2017 @ 12:00:00 AM
-19746,"The Blade, Scarefear",The Greedy Wench,13.31,Magicians' Legendary Poison Metal,190.00,-52.81,-48.01,-10033.9000,-9121.9000,-21705.43698000,08/02/2017 @ 12:00:00 AM
-29227,Emberspawn,The Citadel of Alammius,32.67,Fleshshock Mercury,159.00,-31.02,-28.20,-4932.1800,-4483.8000,-12492.18066600,08/02/2017 @ 12:00:00 AM
-264,"The Disinterred, Spikebrood",The Flying Witch,5.16,Magicians' Legendary Poison Metal,53.00,3615.00,-48.01,191595.0000,-2544.5300,198805.47425200,08/02/2017 @ 12:00:00 AM
-30822,Spikespawn,The Fortress of Akkun the Grim,27.03,Ensorceled Sandmetal Of Spirits,103.00,85.18,77.44,8773.5400,7976.3200,21277.34715800,08/02/2017 @ 12:00:00 AM
-7987,"The Unspeakable, Terrorghoul",The Hunter and Rose,39.60,Starsmoke Bronze Of Life,223.00,-438.00,420.81,-97674.0000,93840.6300,-5351.38452000,08/02/2017 @ 12:00:00 AM
-14033,Deathbrood,Gena's Hold,5.85,Vampires' Hammer Emeraldmetal,68.00,77.44,70.40,5265.9200,4787.2000,10641.22752000,08/02/2017 @ 12:00:00 AM
-26198,"Goddess of Knowledge, Baltha",North Arcanist's Farthing,3.03,Tin Of The Tundra,292.00,4121.00,397.25,1203332.0000,115997.0000,1359304.66870000,08/02/2017 @ 12:00:00 AM
-16708,"Dawn, Tarot",The Scoundrel and Flask,45.25,Golems' Stonesapphire Gold Of The Glacier,251.00,176.00,160.00,44176.0000,40160.0000,122498.04000000,08/02/2017 @ 12:00:00 AM
-28810,Chainnail,The Chuallanto Jungle,11.00,Stone Soulsteel Of The Skies,332.00,453.31,412.10,150498.9200,136817.2000,318920.89320000,08/02/2017 @ 12:00:00 AM
-26239,"Mist, Claw",Citadel Ward,4.40,Unspeakable Rotsoul Mithril Of Souls,235.00,370.26,336.60,87011.1000,79101.0000,173421.03240000,08/02/2017 @ 12:00:00 AM
-5699,"Roguemist, Rouge",Khali's Delve,1.07,Vampires' Hammer Emeraldmetal,172.00,77.44,70.40,13319.6800,12108.8000,25700.56473600,08/02/2017 @ 12:00:00 AM
-5749,Chainhorror,The Bastion of the Vampire Duke,34.45,Mind Lead,228.00,219.09,199.17,49952.5200,45410.7600,128215.92996000,08/02/2017 @ 12:00:00 AM
-14546,"Dawn, Tarot",The Broken Arrow,17.60,Mind Lead,311.00,241.00,219.09,74951.0000,68136.9900,168271.47624000,08/02/2017 @ 12:00:00 AM
-27949,Chainnail,Bifar's Deep,12.21,Stone Soulsteel Of The Skies,179.00,453.31,412.10,81142.4900,73765.9000,173822.70441900,08/02/2017 @ 12:00:00 AM
+25838,Gravebone,Barad Cune,49.21,Sapphire Mindlead,229.00,-44.77,-49.25,-10252.3300,-11278.2500,-32125.77841800,08/02/1947 @ 12:00:00 AM
+11311,"Tombreaper, Rouge",The Fortress of Asmamur,-2.42,Mistgold Of Men,127.00,412.50,375.00,52387.5000,47625.0000,97592.19750000,08/02/1947 @ 12:00:00 AM
+1353,"The Unspeakable, Terrorghoul",The Archer and Blade,15.00,Foul Ice Bronze Of Life,155.00,-378.00,242.00,-58590.0000,37510.0000,-24242.00000000,08/02/1947 @ 12:00:00 AM
+10304,"The Binder, Springpulley",Arcanist's Farthing,29.00,Pearl Mirrorice Steel Of Changelings,290.00,2996.00,302.00,868840.0000,87580.0000,1233781.80000000,08/02/1947 @ 12:00:00 AM
+21112,"God of Luck, Ariel",Mahyrst Keep,31.30,Fairies' Supreme Mistsmoke Lead Of The Future,180.00,499.73,499.73,89951.4000,89951.4000,236212.37640000,08/02/1947 @ 12:00:00 AM
+18089,"Rougehate, Rune",The Citadel of Alammius,29.70,Undeads' Mind Orichalcum Of The Twilight,85.00,1169.00,331.54,99365.0000,28180.9000,165427.03230000,08/02/1947 @ 12:00:00 AM
+20363,"The Evil, Snowflame",Dysley Stronghold,35.51,Emerald Orichalcum,187.00,1957.00,142.79,365959.0000,26701.7300,532094.55522300,08/02/1947 @ 12:00:00 AM
+20605,"The Cadaverous, Chainblade",Gena's Hold,5.85,Grayplatinum,347.00,2548.00,104.94,884156.0000,36414.1800,974423.53553000,08/02/1947 @ 12:00:00 AM
+19746,"The Blade, Scarefear",The Greedy Wench,13.31,Magicians' Legendary Poison Metal,190.00,-52.81,-48.01,-10033.9000,-9121.9000,-21705.43698000,08/02/1947 @ 12:00:00 AM
+29227,Emberspawn,The Citadel of Alammius,32.67,Fleshshock Mercury,159.00,-31.02,-28.20,-4932.1800,-4483.8000,-12492.18066600,08/02/1947 @ 12:00:00 AM
+264,"The Disinterred, Spikebrood",The Flying Witch,5.16,Magicians' Legendary Poison Metal,53.00,3615.00,-48.01,191595.0000,-2544.5300,198805.47425200,08/02/1947 @ 12:00:00 AM
+30822,Spikespawn,The Fortress of Akkun the Grim,27.03,Ensorceled Sandmetal Of Spirits,103.00,85.18,77.44,8773.5400,7976.3200,21277.34715800,08/02/1947 @ 12:00:00 AM
+7987,"The Unspeakable, Terrorghoul",The Hunter and Rose,39.60,Starsmoke Bronze Of Life,223.00,-438.00,420.81,-97674.0000,93840.6300,-5351.38452000,08/02/1947 @ 12:00:00 AM
+14033,Deathbrood,Gena's Hold,5.85,Vampires' Hammer Emeraldmetal,68.00,77.44,70.40,5265.9200,4787.2000,10641.22752000,08/02/1947 @ 12:00:00 AM
+26198,"Goddess of Knowledge, Baltha",North Arcanist's Farthing,3.03,Tin Of The Tundra,292.00,4121.00,397.25,1203332.0000,115997.0000,1359304.66870000,08/02/1947 @ 12:00:00 AM
+16708,"Dawn, Tarot",The Scoundrel and Flask,45.25,Golems' Stonesapphire Gold Of The Glacier,251.00,176.00,160.00,44176.0000,40160.0000,122498.04000000,08/02/1947 @ 12:00:00 AM
+28810,Chainnail,The Chuallanto Jungle,11.00,Stone Soulsteel Of The Skies,332.00,453.31,412.10,150498.9200,136817.2000,318920.89320000,08/02/1947 @ 12:00:00 AM
+26239,"Mist, Claw",Citadel Ward,4.40,Unspeakable Rotsoul Mithril Of Souls,235.00,370.26,336.60,87011.1000,79101.0000,173421.03240000,08/02/1947 @ 12:00:00 AM
+5699,"Roguemist, Rouge",Khali's Delve,1.07,Vampires' Hammer Emeraldmetal,172.00,77.44,70.40,13319.6800,12108.8000,25700.56473600,08/02/1947 @ 12:00:00 AM
+5749,Chainhorror,The Bastion of the Vampire Duke,34.45,Mind Lead,228.00,219.09,199.17,49952.5200,45410.7600,128215.92996000,08/02/1947 @ 12:00:00 AM
+14546,"Dawn, Tarot",The Broken Arrow,17.60,Mind Lead,311.00,241.00,219.09,74951.0000,68136.9900,168271.47624000,08/02/1947 @ 12:00:00 AM
+27949,Chainnail,Bifar's Deep,12.21,Stone Soulsteel Of The Skies,179.00,453.31,412.10,81142.4900,73765.9000,173822.70441900,08/02/1947 @ 12:00:00 AM

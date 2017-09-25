@@ -1,16 +1,16 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-2311,"Tombreaper, Rouge",Mahyrst Keep,28.45,Falserainbow Lead,225.00,872.99,63.80,196422.7500,14355.0000,270744.01987500,05/05/2017 @ 12:00:00 AM
-13890,"God of Thieves, Maeglodor",The Secret Catacombs of Ulfang the Black,28.82,Phantasmal Smokezephyr Mercury Of Men,345.00,211.20,192.00,72864.0000,66240.0000,179193.77280000,05/05/2017 @ 12:00:00 AM
-36422,"Goddess of Thieves, Melcha",The Fen of the Necromancer,32.21,Grayplatinum,108.00,2548.00,115.43,275184.0000,12466.4400,380302.64672400,05/05/2017 @ 12:00:00 AM
-88,Graveterror,Bergfison's Deep,16.00,Phantasmal Smokezephyr Mercury Of Men,72.00,1330.00,192.00,95760.0000,13824.0000,127117.44000000,05/05/2017 @ 12:00:00 AM
-35183,"The Constructed, Snaretool",Barad Kesa,6.17,Ghouls' Imperial Soulzephyr Mithril Of The Seas,185.00,318.23,318.23,58872.5500,58872.5500,125009.97267000,05/05/2017 @ 12:00:00 AM
-13911,"God of War, Ingwenel",The Archer and Scroll,49.68,Mithril Of The Tropics,237.00,251.56,251.56,59619.7200,59619.7200,178477.59379200,05/05/2017 @ 12:00:00 AM
-1454,"The Evil, Snowflame",The Warrior and Flagon,9.00,Ghostly Magic Adamant,228.00,49.50,45.00,11286.0000,10260.0000,23485.14000000,05/05/2017 @ 12:00:00 AM
-29096,"The Binder, Springpulley",The Citadel of Alammius,32.67,Stone Soulsteel Of The Skies,329.00,453.31,412.10,149138.9900,135580.9000,377737.87806300,05/05/2017 @ 12:00:00 AM
-8350,"Darkzealot, Dawn",The Bastion of Sthasu the Gruesome,40.00,Lycanthropes' Gold,187.00,371.80,338.00,69526.6000,63206.0000,185825.64000000,05/05/2017 @ 12:00:00 AM
-17583,"Brand, Lightning",The Bastion of the Vampire Duke,37.90,Poison Adamant,125.00,110.96,100.87,13870.0000,12608.7500,36514.19625000,05/05/2017 @ 12:00:00 AM
-6864,"Knightclaw, Sunset",The Chuallanto Jungle,10.00,Shadowhell Mithril,363.00,462.21,420.19,167782.2300,152528.9700,352342.32000000,05/05/2017 @ 12:00:00 AM
-14519,"Goddess of Travel, Lenwenye",The Broken Arrow,17.60,Sphinxes' Unknown Poisongold Of The Future,184.00,3971.47,14.30,730750.4800,2631.2000,862456.85568000,05/05/2017 @ 12:00:00 AM
-37359,"Tombreaper, Rouge",The Greedy Wench,13.31,Stone Soulsteel Of The Skies,209.00,453.31,453.31,94741.7900,94741.7900,214703.84449800,05/05/2017 @ 12:00:00 AM
-4838,"Roguemist, Rouge",Hartshill Ward,40.29,Litches' Fatal Mithril Of The Past,72.00,3822.00,13.00,275184.0000,936.0000,387368.74800000,05/05/2017 @ 12:00:00 AM
-14984,"Angelchild, Harmony",The Fortress of Akkun the Grim,27.03,Mind Lead,75.00,241.00,219.09,18075.0000,16431.7500,43833.92452500,05/05/2017 @ 12:00:00 AM
+2311,"Tombreaper, Rouge",Mahyrst Keep,28.45,Falserainbow Lead,225.00,872.99,63.80,196422.7500,14355.0000,270744.01987500,05/05/1977 @ 12:00:00 AM
+13890,"God of Thieves, Maeglodor",The Secret Catacombs of Ulfang the Black,28.82,Phantasmal Smokezephyr Mercury Of Men,345.00,211.20,192.00,72864.0000,66240.0000,179193.77280000,05/05/1947 @ 12:00:00 AM
+36422,"Goddess of Thieves, Melcha",The Fen of the Necromancer,32.21,Grayplatinum,108.00,2548.00,115.43,275184.0000,12466.4400,380302.64672400,05/05/1947 @ 12:00:00 AM
+88,Graveterror,Bergfison's Deep,16.00,Phantasmal Smokezephyr Mercury Of Men,72.00,1330.00,192.00,95760.0000,13824.0000,127117.44000000,05/05/1947 @ 12:00:00 AM
+35183,"The Constructed, Snaretool",Barad Kesa,6.17,Ghouls' Imperial Soulzephyr Mithril Of The Seas,185.00,318.23,318.23,58872.5500,58872.5500,125009.97267000,05/05/1947 @ 12:00:00 AM
+13911,"God of War, Ingwenel",The Archer and Scroll,49.68,Mithril Of The Tropics,237.00,251.56,251.56,59619.7200,59619.7200,178477.59379200,05/05/1947 @ 12:00:00 AM
+1454,"The Evil, Snowflame",The Warrior and Flagon,9.00,Ghostly Magic Adamant,228.00,49.50,45.00,11286.0000,10260.0000,23485.14000000,05/05/1947 @ 12:00:00 AM
+29096,"The Binder, Springpulley",The Citadel of Alammius,32.67,Stone Soulsteel Of The Skies,329.00,453.31,412.10,149138.9900,135580.9000,377737.87806300,05/05/1987 @ 12:00:00 AM
+8350,"Darkzealot, Dawn",The Bastion of Sthasu the Gruesome,40.00,Lycanthropes' Gold,187.00,371.80,338.00,69526.6000,63206.0000,185825.64000000,05/05/1947 @ 12:00:00 AM
+17583,"Brand, Lightning",The Bastion of the Vampire Duke,37.90,Poison Adamant,125.00,110.96,100.87,13870.0000,12608.7500,36514.19625000,05/05/1947 @ 12:00:00 AM
+6864,"Knightclaw, Sunset",The Chuallanto Jungle,10.00,Shadowhell Mithril,363.00,462.21,420.19,167782.2300,152528.9700,352342.32000000,05/05/1947 @ 12:00:00 AM
+14519,"Goddess of Travel, Lenwenye",The Broken Arrow,17.60,Sphinxes' Unknown Poisongold Of The Future,184.00,3971.47,14.30,730750.4800,2631.2000,862456.85568000,05/05/1947 @ 12:00:00 AM
+37359,"Tombreaper, Rouge",The Greedy Wench,13.31,Stone Soulsteel Of The Skies,209.00,453.31,453.31,94741.7900,94741.7900,214703.84449800,05/05/1947 @ 12:00:00 AM
+4838,"Roguemist, Rouge",Hartshill Ward,40.29,Litches' Fatal Mithril Of The Past,72.00,3822.00,13.00,275184.0000,936.0000,387368.74800000,05/05/1947 @ 12:00:00 AM
+14984,"Angelchild, Harmony",The Fortress of Akkun the Grim,27.03,Mind Lead,75.00,241.00,219.09,18075.0000,16431.7500,43833.92452500,05/05/1947 @ 12:00:00 AM

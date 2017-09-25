@@ -1,13 +1,13 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-13712,Springcoil,Khali's Delve,1.18,Magicians' Legendary Poison Metal,214.00,-52.81,-48.01,-11301.3400,-10274.1400,-21830.07066400,03/06/2018 @ 12:00:00 AM
-25861,"Wolf, Jericho",The Pirate's Pipe,16.94,Grayplatinum,329.00,2548.00,104.94,838292.0000,34525.2600,1020672.50384400,03/06/2018 @ 12:00:00 AM
-2518,"Lady of Fire, Nelalwe",The Forsaken Tomb of Devastation,38.65,Stone Soulsteel Of The Skies,197.00,3459.15,340.58,681452.5500,67094.2600,1037860.15206500,03/06/2018 @ 12:00:00 AM
-1624,"Dire, Wind",The Secret Shrine of the Gargoyle Count,19.77,Spirits' Living Wordhammer Tin Of The Trees,111.00,3897.55,117.00,432628.0500,12987.0000,533713.14538500,03/06/2018 @ 12:00:00 AM
-32317,"The Unspeakable, Gravebone",The Chuallanto Jungle,11.00,Grayplatinum,336.00,2548.00,104.94,856128.0000,35259.8400,989440.50240000,03/06/2018 @ 12:00:00 AM
-9319,Evilbrood,The Lost Sanctum of Woe,43.20,Djinni's Spectral Shadowlead Of Life,245.00,1718.00,259.12,420910.0000,63484.4000,693652.78080000,03/06/2018 @ 12:00:00 AM
-17005,"Seeker, Fate",Gena's Hold,5.85,Plague Tin,199.00,465.25,422.95,92584.7500,84167.0500,187091.78030000,03/06/2018 @ 12:00:00 AM
-21960,"Veil, Bane",The Tower of Sabiesu the Awesome,10.00,Primordial Mud Orichalcum,222.00,1113.00,20.57,247086.0000,4566.5400,276817.79400000,03/06/2018 @ 12:00:00 AM
-9791,"Goddess of Travel, Lenwenye",The Dungeon of Dismal Terror,44.30,God-touched Greengem Platinum,213.00,2181.36,188.14,464629.6800,40073.8200,728287.15050000,03/06/2018 @ 12:00:00 AM
-8671,"Brand, Lightning",Barad Kesa,5.10,Djinni's Spectral Shadowlead Of Life,63.00,1718.00,259.12,108234.0000,16324.5600,130911.04656000,03/06/2018 @ 12:00:00 AM
-16179,"Goddess of Thieves, Melcha",Reyny Keep,-3.35,Swordbronze,212.00,333.30,303.00,70659.6000,64236.0000,130376.59740000,03/06/2018 @ 12:00:00 AM
-4489,"Goddess of Travel, Lenwenye",Eved Castle,28.00,Spectres' Shadowy Terrorglow Adamant Of Life,245.00,-297.62,175.08,-72916.9000,42894.6000,-38428.54400000,03/06/2018 @ 12:00:00 AM
+13712,Springcoil,Khali's Delve,1.18,Magicians' Legendary Poison Metal,214.00,-52.81,-48.01,-11301.3400,-10274.1400,-21830.07066400,03/06/2008 @ 12:00:00 AM
+25861,"Jericho, Wolf",The Pirate's Pipe,16.94,Grayplatinum,329.00,2548.00,104.94,838292.0000,34525.2600,1020672.50384400,03/06/2008 @ 12:00:00 AM
+2518,"Nelalwe, Lady of Fire",The Forsaken Tomb of Devastation,38.65,Stone Soulsteel Of The Skies,197.00,3459.15,340.58,681452.5500,67094.2600,1037860.15206500,03/06/2008 @ 12:00:00 AM
+1624,"Wind, Dire",The Secret Shrine of the Gargoyle Count,19.77,Spirits' Living Wordhammer Tin Of The Trees,111.00,3897.55,117.00,432628.0500,12987.0000,533713.14538500,03/06/2008 @ 12:00:00 AM
+32317,"Gravebone, The Unspeakable",The Chuallanto Jungle,11.00,Grayplatinum,336.00,2548.00,104.94,856128.0000,35259.8400,989440.50240000,03/06/2008 @ 12:00:00 AM
+9319,Evilbrood,The Lost Sanctum of Woe,43.20,Djinni's Spectral Shadowlead Of Life,245.00,1718.00,259.12,420910.0000,63484.4000,693652.78080000,03/06/2008 @ 12:00:00 AM
+17005,"Fate, Seeker",Gena's Hold,5.85,Plague Tin,199.00,465.25,422.95,92584.7500,84167.0500,187091.78030000,03/06/2008 @ 12:00:00 AM
+21960,"Bane, Veil",The Tower of Sabiesu the Awesome,10.00,Primordial Mud Orichalcum,222.00,1113.00,20.57,247086.0000,4566.5400,276817.79400000,03/06/2008 @ 12:00:00 AM
+9791,"Lenwenye, Goddess of Travel",The Dungeon of Dismal Terror,44.30,God-touched Greengem Platinum,213.00,2181.36,188.14,464629.6800,40073.8200,728287.15050000,03/06/2008 @ 12:00:00 AM
+8671,"Lightning, Brand",Barad Kesa,5.10,Djinni's Spectral Shadowlead Of Life,63.00,1718.00,259.12,108234.0000,16324.5600,130911.04656000,03/06/2008 @ 12:00:00 AM
+16179,"Melcha, Goddess of Thieves",Reyny Keep,-3.35,Swordbronze,212.00,333.30,303.00,70659.6000,64236.0000,130376.59740000,03/06/2008 @ 12:00:00 AM
+4489,"Lenwenye, Goddess of Travel",Eved Castle,28.00,Spectres' Shadowy Terrorglow Adamant Of Life,245.00,-297.62,175.08,-72916.9000,42894.6000,-38428.54400000,03/06/2008 @ 12:00:00 AM

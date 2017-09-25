@@ -1,15 +1,15 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-11198,"Jester, Seraph",The Fen of the Necromancer,20.00,Swordbronze,223.00,333.30,303.00,74325.9000,67569.0000,170273.88000000,11/18/2016 @ 12:00:00 AM
-2598,"Felldrake, Magus",The Dismal Marsh,27.00,Falserainbow Lead,149.00,872.99,63.80,130075.5100,9506.2000,177268.77170000,11/18/2016 @ 12:00:00 AM
-12799,"The Evil, Flameflare",Archfane District,15.29,Vampires' Fang Emeraldsilver,308.00,2033.69,80.84,626376.5200,24898.7200,750855.22419600,11/18/2016 @ 12:00:00 AM
-2784,"Seraphheart, Storm",The Tomb of Gothmog of Udun,11.00,Witchs' Forbidden Rockrainbow Bronze,115.00,4207.35,223.30,483845.2500,25679.5000,565572.47250000,11/18/2016 @ 12:00:00 AM
-34270,"Wind, Maverick",The Bastion of the Lich Tyrant,8.64,Swordbronze,301.00,403.29,366.63,121390.2900,110355.6300,251768.76748800,11/18/2016 @ 12:00:00 AM
-21065,Cinderember,Mahyrst Keep,31.30,Sirens' Rockgold,267.00,336.74,336.74,89909.5800,89909.5800,236102.55708000,11/18/2016 @ 12:00:00 AM
-23827,"Spiritraven, Bedlam",The Forsaken Sepulcher of Sorrows,31.36,Toxic Mistlead Of The Past,40.00,396.06,396.06,15842.4000,15842.4000,41621.15328000,11/18/2016 @ 12:00:00 AM
-21361,"Godseeker, Cult",Moor Village,11.32,Starsmoke Bronze Of Life,215.00,-438.00,420.81,-94170.0000,90474.1500,-4114.22022000,11/18/2016 @ 12:00:00 AM
-20381,"Goddess of Knowledge, Baltha",The Demon and Toad,-1.10,Emerald Orichalcum,148.00,1957.00,142.79,289636.0000,21132.9200,307350.46188000,11/18/2016 @ 12:00:00 AM
-8014,"Darkzealot, Dawn",Gawold Castle,10.29,Unknowable Mindsilver,175.00,174.90,174.90,30607.5000,30607.5000,67514.02350000,11/18/2016 @ 12:00:00 AM
-8498,"Goddess of Knowledge, Ahah",The Grey Plains,39.19,Unknowable Mindsilver,238.00,174.90,174.90,41626.2000,41626.2000,115879.01556000,11/18/2016 @ 12:00:00 AM
-6065,"Wolf, Jericho",Reheath Stronghold,39.60,Grayplatinum,94.00,2548.00,86.73,239512.0000,8152.6200,345739.80952000,11/18/2016 @ 12:00:00 AM
-29503,"God of Death, Avriel",Bifar's Deep,12.21,Heavenly Dreamsilver Of The Night,136.00,719.00,314.60,97784.0000,42785.6000,157733.14816000,11/18/2016 @ 12:00:00 AM
-17780,Chainnail,Kada's Deep,8.42,Trolls' Rubymercury Of The Sunset,249.00,487.30,487.30,121337.7000,121337.7000,263108.66868000,11/18/2016 @ 12:00:00 AM
+11198,"Jester, Seraph",The Fen of the Necromancer,20.00,Swordbronze,223.00,333.30,303.00,74325.9000,67569.0000,170273.88000000,11/18/1946 @ 12:00:00 AM
+2598,"Felldrake, Magus",The Dismal Marsh,27.00,Falserainbow Lead,149.00,872.99,63.80,130075.5100,9506.2000,177268.77170000,11/18/1986 @ 12:00:00 AM
+12799,"The Evil, Flameflare",Archfane District,15.29,Vampires' Fang Emeraldsilver,308.00,2033.69,80.84,626376.5200,24898.7200,750855.22419600,11/18/1946 @ 12:00:00 AM
+2784,"Seraphheart, Storm",The Tomb of Gothmog of Udun,11.00,Witchs' Forbidden Rockrainbow Bronze,115.00,4207.35,223.30,483845.2500,25679.5000,565572.47250000,11/18/1946 @ 12:00:00 AM
+34270,"Wind, Maverick",The Bastion of the Lich Tyrant,8.64,Swordbronze,301.00,403.29,366.63,121390.2900,110355.6300,251768.76748800,11/18/1946 @ 12:00:00 AM
+21065,Cinderember,Mahyrst Keep,31.30,Sirens' Rockgold,267.00,336.74,336.74,89909.5800,89909.5800,236102.55708000,11/18/1946 @ 12:00:00 AM
+23827,"Spiritraven, Bedlam",The Forsaken Sepulcher of Sorrows,31.36,Toxic Mistlead Of The Past,40.00,396.06,396.06,15842.4000,15842.4000,41621.15328000,11/18/1946 @ 12:00:00 AM
+21361,"Godseeker, Cult",Moor Village,11.32,Starsmoke Bronze Of Life,215.00,-438.00,420.81,-94170.0000,90474.1500,-4114.22022000,11/18/1946 @ 12:00:00 AM
+20381,"Goddess of Knowledge, Baltha",The Demon and Toad,-1.10,Emerald Orichalcum,148.00,1957.00,142.79,289636.0000,21132.9200,307350.46188000,11/18/1986 @ 12:00:00 AM
+8014,"Darkzealot, Dawn",Gawold Castle,10.29,Unknowable Mindsilver,175.00,174.90,174.90,30607.5000,30607.5000,67514.02350000,11/18/1946 @ 12:00:00 AM
+8498,"Goddess of Knowledge, Ahah",The Grey Plains,39.19,Unknowable Mindsilver,238.00,174.90,174.90,41626.2000,41626.2000,115879.01556000,11/18/1986 @ 12:00:00 AM
+6065,"Wolf, Jericho",Reheath Stronghold,39.60,Grayplatinum,94.00,2548.00,86.73,239512.0000,8152.6200,345739.80952000,11/18/1946 @ 12:00:00 AM
+29503,"God of Death, Avriel",Bifar's Deep,12.21,Heavenly Dreamsilver Of The Night,136.00,719.00,314.60,97784.0000,42785.6000,157733.14816000,11/18/1946 @ 12:00:00 AM
+17780,Chainnail,Kada's Deep,8.42,Trolls' Rubymercury Of The Sunset,249.00,487.30,487.30,121337.7000,121337.7000,263108.66868000,11/18/1946 @ 12:00:00 AM

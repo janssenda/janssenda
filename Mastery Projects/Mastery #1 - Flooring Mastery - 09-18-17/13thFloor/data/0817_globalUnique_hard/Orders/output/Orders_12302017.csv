@@ -1,19 +1,19 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-12405,"Ivycaster, Fate",The Tomb of Hellish Ruin,33.00,Sprites' Transcendent Mud Lead Of The South,162.00,3338.65,242.80,540861.3000,39333.6000,771659.21700000,12/30/2017 @ 12:00:00 AM
-1308,Spikerivet,The Secret Shrine of the Gargoyle Count,19.77,Negative Mercury,212.00,4115.00,68.00,872380.0000,14416.0000,1062115.56920000,12/30/2017 @ 12:00:00 AM
-23500,"Lord of the Sun, Maglioneth",The Secret Catacombs of Ulfang the Black,31.70,Tritons' Time Stoneiron Of Legend,124.00,341.59,341.59,42357.1600,42357.1600,111568.75944000,12/30/2017 @ 12:00:00 AM
-22325,"Angelchild, Harmony",The Tower of Sabiesu the Awesome,10.00,Imperial Fate Steel,61.00,419.10,381.00,25565.1000,23241.0000,53686.71000000,12/30/2017 @ 12:00:00 AM
-10719,"Lady of Fire, Nelalwe",Archfane District,15.29,Phantasmal Smokezephyr Mercury Of Men,270.00,211.20,192.00,57024.0000,51840.0000,125509.30560000,12/30/2017 @ 12:00:00 AM
-17285,"Lord of Nightmares, Iran",Gena's Hold,5.85,Warlocks' Timerot Mithril,199.00,725.00,176.95,144275.0000,35213.0500,189988.10092500,12/30/2017 @ 12:00:00 AM
-29213,"Tombreaper, Rouge",The Nulukkhath Spires,28.99,Unknown Fatelightning Steel Of The Glacier,266.00,145.08,159.59,38591.2800,42450.9400,104536.35957800,12/30/2017 @ 12:00:00 AM
-8627,"Lord of Nightmares, Iran",Gawold Castle,10.29,Zephyr Adamant,234.00,481.77,-44.14,112734.1800,-10328.7600,112942.93771800,12/30/2017 @ 12:00:00 AM
-17449,"Wind, Maverick",North Arcanist's Farthing,2.75,Plague Tin,175.00,465.25,422.95,81418.7500,74016.2500,159709.46250000,12/30/2017 @ 12:00:00 AM
-7518,"Brand, Lightning",Archfane District,15.29,Planar Mudtin Of Trolls,183.00,3529.02,174.00,645810.6600,31842.0000,781265.75171400,12/30/2017 @ 12:00:00 AM
-592,"The Freezer, Burnbrood",Gawold Castle,9.35,Stone Soulsteel Of The Skies,146.00,3459.15,340.58,505035.9000,49724.6800,606630.69423000,12/30/2017 @ 12:00:00 AM
-31875,"The Machine, Wheelbolt",Noble's Village,6.57,Warlocks' Timerot Mithril,164.00,194.65,194.65,31922.6000,31922.6000,68039.82964000,12/30/2017 @ 12:00:00 AM
-6346,Wheelspawn,Khali's Delve,1.18,Phantasmal Tin Of The Swamps,120.00,3207.64,305.00,384916.8000,36600.0000,426490.69824000,12/30/2017 @ 12:00:00 AM
-7929,Ironbrood,Gawold Castle,10.29,Phantasmal Smokezephyr Mercury Of Men,297.00,211.20,192.00,62726.4000,57024.0000,132072.71616000,12/30/2017 @ 12:00:00 AM
-5647,"Drakecaster, Sephiroth",The Bastion of the Vampire Duke,34.45,Venom Jewelmetal Of The Desert,176.00,701.92,167.16,123537.9200,29420.1600,205652.13856000,12/30/2017 @ 12:00:00 AM
-6996,"The Evil, Snowflame",The Citadel of Tattena the Sinister,22.39,Vampires' Hammer Emeraldmetal,129.00,77.44,70.40,9989.7600,9081.6000,23341.43750400,12/30/2017 @ 12:00:00 AM
-3066,"The Grasping, Nailpiston",The Tomb of Gothmog of Udun,11.00,Litches' Fatal Mithril Of The Past,97.00,3822.00,13.00,370734.0000,1261.0000,412914.45000000,12/30/2017 @ 12:00:00 AM
-13500,"The Cold, Burnfreeze",Kada's Deep,8.42,Magicians' Legendary Poison Metal,348.00,-52.81,-48.01,-18377.8800,-16707.4800,-38039.54731200,12/30/2017 @ 12:00:00 AM
+12405,"Ivycaster, Fate",The Tomb of Hellish Ruin,33.00,Sprites' Transcendent Mud Lead Of The South,162.00,3338.65,242.80,540861.3000,39333.6000,771659.21700000,12/30/1947 @ 12:00:00 AM
+1308,Spikerivet,The Secret Shrine of the Gargoyle Count,19.77,Negative Mercury,212.00,4115.00,68.00,872380.0000,14416.0000,1062115.56920000,12/30/1947 @ 12:00:00 AM
+23500,"Lord of the Sun, Maglioneth",The Secret Catacombs of Ulfang the Black,31.70,Tritons' Time Stoneiron Of Legend,124.00,341.59,341.59,42357.1600,42357.1600,111568.75944000,12/30/1947 @ 12:00:00 AM
+22325,"Angelchild, Harmony",The Tower of Sabiesu the Awesome,10.00,Imperial Fate Steel,61.00,419.10,381.00,25565.1000,23241.0000,53686.71000000,12/30/1947 @ 12:00:00 AM
+10719,"Lady of Fire, Nelalwe",Archfane District,15.29,Phantasmal Smokezephyr Mercury Of Men,270.00,211.20,192.00,57024.0000,51840.0000,125509.30560000,12/30/1947 @ 12:00:00 AM
+17285,"Lord of Nightmares, Iran",Gena's Hold,5.85,Warlocks' Timerot Mithril,199.00,725.00,176.95,144275.0000,35213.0500,189988.10092500,12/30/1947 @ 12:00:00 AM
+29213,"Tombreaper, Rouge",The Nulukkhath Spires,28.99,Unknown Fatelightning Steel Of The Glacier,266.00,145.08,159.59,38591.2800,42450.9400,104536.35957800,12/30/1977 @ 12:00:00 AM
+8627,"Lord of Nightmares, Iran",Gawold Castle,10.29,Zephyr Adamant,234.00,481.77,-44.14,112734.1800,-10328.7600,112942.93771800,12/30/1947 @ 12:00:00 AM
+17449,"Wind, Maverick",North Arcanist's Farthing,2.75,Plague Tin,175.00,465.25,422.95,81418.7500,74016.2500,159709.46250000,12/30/1947 @ 12:00:00 AM
+7518,"Brand, Lightning",Archfane District,15.29,Planar Mudtin Of Trolls,183.00,3529.02,174.00,645810.6600,31842.0000,781265.75171400,12/30/1947 @ 12:00:00 AM
+592,"The Freezer, Burnbrood",Gawold Castle,9.35,Stone Soulsteel Of The Skies,146.00,3459.15,340.58,505035.9000,49724.6800,606630.69423000,12/30/1947 @ 12:00:00 AM
+31875,"The Machine, Wheelbolt",Noble's Village,6.57,Warlocks' Timerot Mithril,164.00,194.65,194.65,31922.6000,31922.6000,68039.82964000,12/30/1947 @ 12:00:00 AM
+6346,Wheelspawn,Khali's Delve,1.18,Phantasmal Tin Of The Swamps,120.00,3207.64,305.00,384916.8000,36600.0000,426490.69824000,12/30/1947 @ 12:00:00 AM
+7929,Ironbrood,Gawold Castle,10.29,Phantasmal Smokezephyr Mercury Of Men,297.00,211.20,192.00,62726.4000,57024.0000,132072.71616000,12/30/1977 @ 12:00:00 AM
+5647,"Drakecaster, Sephiroth",The Bastion of the Vampire Duke,34.45,Venom Jewelmetal Of The Desert,176.00,701.92,167.16,123537.9200,29420.1600,205652.13856000,12/30/1947 @ 12:00:00 AM
+6996,"The Evil, Snowflame",The Citadel of Tattena the Sinister,22.39,Vampires' Hammer Emeraldmetal,129.00,77.44,70.40,9989.7600,9081.6000,23341.43750400,12/30/1947 @ 12:00:00 AM
+3066,"The Grasping, Nailpiston",The Tomb of Gothmog of Udun,11.00,Litches' Fatal Mithril Of The Past,97.00,3822.00,13.00,370734.0000,1261.0000,412914.45000000,12/30/1947 @ 12:00:00 AM
+13500,"The Cold, Burnfreeze",Kada's Deep,8.42,Magicians' Legendary Poison Metal,348.00,-52.81,-48.01,-18377.8800,-16707.4800,-38039.54731200,12/30/1947 @ 12:00:00 AM

@@ -1,24 +1,24 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-25684,Cinderember,Weke Tower,47.19,Planar Mudtin Of Trolls,205.00,191.40,174.00,39237.0000,35670.0000,110255.61330000,08/13/2017 @ 12:00:00 AM
-1372,"The Skeletal, Spiketerror",The Secret Shrine of the Gargoyle Count,19.77,Foul Ice Bronze Of Life,334.00,-378.00,242.00,-126252.0000,80828.0000,-54404.32480000,08/13/2017 @ 12:00:00 AM
-1676,"God of Resurrection, Gadriel",The Tower of Sheshbazzu,4.00,Foul Ice Bronze Of Life,134.00,-378.00,242.00,-50652.0000,32428.0000,-18952.96000000,08/13/2017 @ 12:00:00 AM
-34463,"Mist, Claw",The Bastion of the Lich Tyrant,8.64,Toxic Mistlead Of The Past,243.00,435.67,396.06,105867.8100,96242.5800,219572.72769600,08/13/2017 @ 12:00:00 AM
-10654,Flameshiver,The Bastion of the Vampire Duke,37.90,Phantasmal Smokezephyr Mercury Of Men,186.00,211.20,192.00,39283.2000,35712.0000,103418.38080000,08/13/2017 @ 12:00:00 AM
-22842,"Lord of Death, Addon",Pewold Keep,29.00,Violetdream Iron,128.00,502.13,456.48,64272.6400,58429.4400,158285.68320000,08/13/2017 @ 12:00:00 AM
-30066,"Jackalguard, Gale",The Greedy Wench,13.31,Incubi's Glittering Tin Of The Future,285.00,192.96,233.49,54993.6000,66544.6500,137714.99107500,08/13/2017 @ 12:00:00 AM
-18405,Gravebone,The Khazahol Crags,22.75,Spirits' Living Wordhammer Tin Of The Trees,243.00,141.57,128.70,34401.5100,31274.1000,80616.81127500,08/13/2017 @ 12:00:00 AM
-30255,"Anchor, Rose",The Tower of Sabiesu the Awesome,10.00,Incubi's Glittering Tin Of The Future,247.00,192.96,233.49,47661.1200,57672.0300,115866.46500000,08/13/2017 @ 12:00:00 AM
-9942,Metalghoul,Gifeld Castle,27.28,Angels' Adamant,288.00,51.48,46.80,14826.2400,13478.4000,36026.14579200,08/13/2017 @ 12:00:00 AM
-8605,Beamtrap,The Black Barrow of Bery,19.80,Phantasmal Smokezephyr Mercury Of Men,167.00,211.20,192.00,35270.4000,32064.0000,80666.61120000,08/13/2017 @ 12:00:00 AM
-17421,"The Constructed, Snaretool",Gena's Hold,5.85,Grayplatinum,313.00,2548.00,104.94,797524.0000,32846.2200,878946.87787000,08/13/2017 @ 12:00:00 AM
-28237,Spikecrank,Bifar's Deep,12.21,Stone Soulsteel Of The Skies,289.00,453.31,412.10,131006.5900,119096.9000,280641.12612900,08/13/2017 @ 12:00:00 AM
-17514,"Goddess of Thieves, Melcha",Kada's Deep,8.42,Shadow Metal,102.00,1606.00,298.00,163812.0000,30396.0000,210560.31360000,08/13/2017 @ 12:00:00 AM
-7778,"Seeker, Fate",Gawold Castle,10.29,Sapphire Mindlead,379.00,-44.77,-40.70,-16967.8300,-15425.3000,-35726.38307700,08/13/2017 @ 12:00:00 AM
-16502,"The Grasping, Nailpiston",Khali's Delve,1.18,Incubi's Iron Of The Dawn,306.00,174.99,174.99,53546.9400,53546.9400,108357.58778400,08/13/2017 @ 12:00:00 AM
-6913,"Amberslayer, Flora",Noble's Village,4.94,Sapphire Mindlead,66.00,-44.77,-40.70,-2954.8200,-2686.2000,-5919.68638800,08/13/2017 @ 12:00:00 AM
-27630,Metalbrood,The Bastion of Gothmog of Udun,-2.42,Vampires' Hammer Emeraldmetal,249.00,93.70,85.18,23331.3000,21209.8200,43463.22489600,08/13/2017 @ 12:00:00 AM
-5761,"The Grasping, Beamsprocket",The Warrior and Flagon,9.00,Undeads' Mind Orichalcum Of The Twilight,196.00,1169.00,301.40,229124.0000,59074.4000,314136.25600000,08/13/2017 @ 12:00:00 AM
-37103,"Lord of the Sea, Penur",The Greedy Wench,13.31,Stone Soulsteel Of The Skies,107.00,453.31,453.31,48504.1700,48504.1700,109920.15005400,08/13/2017 @ 12:00:00 AM
-3350,"Goddess of Knowledge, Baltha",The Lazy Sage,21.93,Litches' Fatal Mithril Of The Past,115.00,3822.00,13.00,439530.0000,1495.0000,537741.78250000,08/13/2017 @ 12:00:00 AM
-37396,Cinderember,The Greedy Wench,13.31,Ghouls' Imperial Soulzephyr Mithril Of The Seas,126.00,318.23,318.23,40096.9800,40096.9800,90867.77607600,08/13/2017 @ 12:00:00 AM
-24274,Beamtrap,Eved Castle,30.80,Negative Rockglitter Mercury Of Trolls,232.00,235.59,214.17,54656.8800,49687.4400,136482.37056000,08/13/2017 @ 12:00:00 AM
+25684,Cinderember,Weke Tower,47.19,Planar Mudtin Of Trolls,205.00,191.40,174.00,39237.0000,35670.0000,110255.61330000,08/13/2007 @ 12:00:00 AM
+1372,"Spiketerror, The Skeletal",The Secret Shrine of the Gargoyle Count,19.77,Foul Ice Bronze Of Life,334.00,-378.00,242.00,-126252.0000,80828.0000,-54404.32480000,08/13/2007 @ 12:00:00 AM
+1676,"Gadriel, God of Resurrection",The Tower of Sheshbazzu,4.00,Foul Ice Bronze Of Life,134.00,-378.00,242.00,-50652.0000,32428.0000,-18952.96000000,08/13/2007 @ 12:00:00 AM
+34463,"Claw, Mist",The Bastion of the Lich Tyrant,8.64,Toxic Mistlead Of The Past,243.00,435.67,396.06,105867.8100,96242.5800,219572.72769600,08/13/2007 @ 12:00:00 AM
+10654,Flameshiver,The Bastion of the Vampire Duke,37.90,Phantasmal Smokezephyr Mercury Of Men,186.00,211.20,192.00,39283.2000,35712.0000,103418.38080000,08/13/2007 @ 12:00:00 AM
+22842,"Addon, Lord of Death",Pewold Keep,29.00,Violetdream Iron,128.00,502.13,456.48,64272.6400,58429.4400,158285.68320000,08/13/2007 @ 12:00:00 AM
+30066,"Gale, Jackalguard",The Greedy Wench,13.31,Incubi's Glittering Tin Of The Future,285.00,192.96,233.49,54993.6000,66544.6500,137714.99107500,08/13/2007 @ 12:00:00 AM
+18405,Gravebone,The Khazahol Crags,22.75,Spirits' Living Wordhammer Tin Of The Trees,243.00,141.57,128.70,34401.5100,31274.1000,80616.81127500,08/13/2007 @ 12:00:00 AM
+30255,"Rose, Anchor",The Tower of Sabiesu the Awesome,10.00,Incubi's Glittering Tin Of The Future,247.00,192.96,233.49,47661.1200,57672.0300,115866.46500000,08/13/2007 @ 12:00:00 AM
+9942,Metalghoul,Gifeld Castle,27.28,Angels' Adamant,288.00,51.48,46.80,14826.2400,13478.4000,36026.14579200,08/13/2007 @ 12:00:00 AM
+8605,Beamtrap,The Black Barrow of Bery,19.80,Phantasmal Smokezephyr Mercury Of Men,167.00,211.20,192.00,35270.4000,32064.0000,80666.61120000,08/13/2007 @ 12:00:00 AM
+17421,"Snaretool, The Constructed",Gena's Hold,5.85,Grayplatinum,313.00,2548.00,104.94,797524.0000,32846.2200,878946.87787000,08/13/2007 @ 12:00:00 AM
+28237,Spikecrank,Bifar's Deep,12.21,Stone Soulsteel Of The Skies,289.00,453.31,412.10,131006.5900,119096.9000,280641.12612900,08/13/2007 @ 12:00:00 AM
+17514,"Melcha, Goddess of Thieves",Kada's Deep,8.42,Shadow Metal,102.00,1606.00,298.00,163812.0000,30396.0000,210560.31360000,08/13/2007 @ 12:00:00 AM
+7778,"Fate, Seeker",Gawold Castle,10.29,Sapphire Mindlead,379.00,-44.77,-40.70,-16967.8300,-15425.3000,-35726.38307700,08/13/2007 @ 12:00:00 AM
+16502,"Nailpiston, The Grasping",Khali's Delve,1.18,Incubi's Iron Of The Dawn,306.00,174.99,174.99,53546.9400,53546.9400,108357.58778400,08/13/2007 @ 12:00:00 AM
+6913,"Flora, Amberslayer",Noble's Village,4.94,Sapphire Mindlead,66.00,-44.77,-40.70,-2954.8200,-2686.2000,-5919.68638800,08/13/2007 @ 12:00:00 AM
+27630,Metalbrood,The Bastion of Gothmog of Udun,-2.42,Vampires' Hammer Emeraldmetal,249.00,93.70,85.18,23331.3000,21209.8200,43463.22489600,08/13/2007 @ 12:00:00 AM
+5761,"Beamsprocket, The Grasping",The Warrior and Flagon,9.00,Undeads' Mind Orichalcum Of The Twilight,196.00,1169.00,301.40,229124.0000,59074.4000,314136.25600000,08/13/2007 @ 12:00:00 AM
+37103,"Penur, Lord of the Sea",The Greedy Wench,13.31,Stone Soulsteel Of The Skies,107.00,453.31,453.31,48504.1700,48504.1700,109920.15005400,08/13/2007 @ 12:00:00 AM
+3350,"Baltha, Goddess of Knowledge",The Lazy Sage,21.93,Litches' Fatal Mithril Of The Past,115.00,3822.00,13.00,439530.0000,1495.0000,537741.78250000,08/13/2007 @ 12:00:00 AM
+37396,Cinderember,The Greedy Wench,13.31,Ghouls' Imperial Soulzephyr Mithril Of The Seas,126.00,318.23,318.23,40096.9800,40096.9800,90867.77607600,08/13/2007 @ 12:00:00 AM
+24274,Beamtrap,Eved Castle,30.80,Negative Rockglitter Mercury Of Trolls,232.00,235.59,214.17,54656.8800,49687.4400,136482.37056000,08/13/2007 @ 12:00:00 AM

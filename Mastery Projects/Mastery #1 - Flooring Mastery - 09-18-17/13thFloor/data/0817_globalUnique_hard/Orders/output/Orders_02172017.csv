@@ -1,22 +1,22 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-3768,"Tombreaper, Rouge",The Hunter and Rose,39.60,Primordial Plague Mercury Of Legend,219.00,1150.79,67.00,252023.0100,14673.0000,372307.62996000,02/17/2017 @ 12:00:00 AM
-36429,"The Freezer, Shiverflame",The Fen of the Necromancer,32.21,Grayplatinum,70.00,2548.00,115.43,178360.0000,8080.1000,246492.45621000,02/17/2017 @ 12:00:00 AM
-11686,"Goddess of Travel, Lenwenye",The Black Barrow of Bery,19.80,Phantasmal Lead,78.00,21.92,19.93,1709.7600,1554.5400,3910.63140000,02/17/2017 @ 12:00:00 AM
-35785,"God of Resurrection, Gadriel",Citadel Ward,4.40,Ghouls' Imperial Soulzephyr Mithril Of The Seas,86.00,318.23,318.23,27367.7800,27367.7800,57143.92464000,02/17/2017 @ 12:00:00 AM
-11887,"Tsunami, Seraphim",Gifeld Castle,27.28,Phantasmal Tin Of The Swamps,187.00,3207.64,305.00,599828.6800,57035.0000,836056.09190400,02/17/2017 @ 12:00:00 AM
-9046,"God of Death, Avriel",The Tower of Aces the Accursed,-3.34,Djinni's Spectral Shadowlead Of Life,123.00,1718.00,259.12,211314.0000,31871.7600,235063.35561600,02/17/2017 @ 12:00:00 AM
-20152,"Drakecaster, Sephiroth",The Lewd King,45.98,Magicians' Legendary Poison Metal,249.00,-52.81,-48.01,-13149.6900,-11954.4900,-36647.08196400,02/17/2017 @ 12:00:00 AM
-33562,"Knightseraph, Lance",Pewold Keep,29.00,Undeads' Mind Orichalcum Of The Twilight,242.00,1169.00,364.69,282898.0000,88254.9800,478787.34420000,02/17/2017 @ 12:00:00 AM
-34931,"The Firey, Evilember",The Bastion of the Vampire Duke,45.86,Yellow Mistearth Copper,177.00,287.98,261.80,50972.4600,46338.6000,141937.91211600,02/17/2017 @ 12:00:00 AM
-34912,"Lord of Death, Addon",The Bastion of the Vampire Duke,45.86,Sprites' Transcendent Mud Lead Of The South,363.00,3338.65,267.08,1211929.9500,96950.0400,1909132.35341400,02/17/2017 @ 12:00:00 AM
-9548,"Mistmidnight, Tiger",Grove Farthing,25.00,Angels' Adamant,101.00,51.48,46.80,5199.4800,4726.8000,12407.85000000,02/17/2017 @ 12:00:00 AM
-7128,"Wind, Maverick",Archfane District,15.29,Unicorns' Fatal Magma Metal Of The Ocean,263.00,903.00,23.00,237489.0000,6049.0000,280774.96020000,02/17/2017 @ 12:00:00 AM
-6569,"Goddess of Thieves, Melcha",The Barrow of Terrible Horror,27.39,Dragons' Poison Glitterflesh Steel Of The North,139.00,742.00,75.00,103138.0000,10425.0000,144667.90570000,02/17/2017 @ 12:00:00 AM
-28569,Spikecrank,Bifar's Deep,12.21,Negative Rockglitter Mercury Of Trolls,239.00,235.59,214.17,56306.0100,51186.6300,120617.49134400,02/17/2017 @ 12:00:00 AM
-6644,"Mystery, Lord",The Chuallanto Jungle,10.00,Shadowhell Mithril,175.00,462.21,420.19,80886.7500,73533.2500,169862.00000000,02/17/2017 @ 12:00:00 AM
-5452,Springsprocket,Dysley Stronghold,32.28,Unknowable Mindsilver,162.00,174.90,159.00,28333.8000,25758.0000,71552.63304000,02/17/2017 @ 12:00:00 AM
-5763,"The Blade, Scarefear",The Warrior and Flagon,9.00,Unholy Poison Copper Of The Mountains,201.00,4312.00,68.97,866712.0000,13862.9700,959826.71730000,02/17/2017 @ 12:00:00 AM
-3123,Bronzespawn,The Lazy Sage,21.93,Witchs' Forbidden Rockrainbow Bronze,158.00,4207.35,223.30,664761.3000,35281.4000,853562.06411000,02/17/2017 @ 12:00:00 AM
-14520,"Felldrake, Magus",Gena's Hold,5.85,Sphinxes' Unknown Poisongold Of The Future,32.00,3971.47,14.30,127087.0400,457.6000,135006.00144000,02/17/2017 @ 12:00:00 AM
-14906,"Godseeker, Cult",The Secret Shrine of the Gargoyle Count,23.93,Mind Lead,296.00,241.00,219.09,71336.0000,64850.6400,168776.10295200,02/17/2017 @ 12:00:00 AM
-14961,Metalbrood,The Secret Catacombs of Ulfang the Black,28.82,Mind Lead,208.00,241.00,219.09,50128.0000,45570.7200,123279.09110400,02/17/2017 @ 12:00:00 AM
+3768,"Tombreaper, Rouge",The Hunter and Rose,39.60,Primordial Plague Mercury Of Legend,219.00,1150.79,67.00,252023.0100,14673.0000,372307.62996000,02/17/1977 @ 12:00:00 AM
+36429,"The Freezer, Shiverflame",The Fen of the Necromancer,32.21,Grayplatinum,70.00,2548.00,115.43,178360.0000,8080.1000,246492.45621000,02/17/1947 @ 12:00:00 AM
+11686,"Goddess of Travel, Lenwenye",The Black Barrow of Bery,19.80,Phantasmal Lead,78.00,21.92,19.93,1709.7600,1554.5400,3910.63140000,02/17/1947 @ 12:00:00 AM
+35785,"God of Resurrection, Gadriel",Citadel Ward,4.40,Ghouls' Imperial Soulzephyr Mithril Of The Seas,86.00,318.23,318.23,27367.7800,27367.7800,57143.92464000,02/17/1947 @ 12:00:00 AM
+11887,"Tsunami, Seraphim",Gifeld Castle,27.28,Phantasmal Tin Of The Swamps,187.00,3207.64,305.00,599828.6800,57035.0000,836056.09190400,02/17/1947 @ 12:00:00 AM
+9046,"God of Death, Avriel",The Tower of Aces the Accursed,-3.34,Djinni's Spectral Shadowlead Of Life,123.00,1718.00,259.12,211314.0000,31871.7600,235063.35561600,02/17/1947 @ 12:00:00 AM
+20152,"Drakecaster, Sephiroth",The Lewd King,45.98,Magicians' Legendary Poison Metal,249.00,-52.81,-48.01,-13149.6900,-11954.4900,-36647.08196400,02/17/1947 @ 12:00:00 AM
+33562,"Knightseraph, Lance",Pewold Keep,29.00,Undeads' Mind Orichalcum Of The Twilight,242.00,1169.00,364.69,282898.0000,88254.9800,478787.34420000,02/17/1947 @ 12:00:00 AM
+34931,"The Firey, Evilember",The Bastion of the Vampire Duke,45.86,Yellow Mistearth Copper,177.00,287.98,261.80,50972.4600,46338.6000,141937.91211600,02/17/1947 @ 12:00:00 AM
+34912,"Lord of Death, Addon",The Bastion of the Vampire Duke,45.86,Sprites' Transcendent Mud Lead Of The South,363.00,3338.65,267.08,1211929.9500,96950.0400,1909132.35341400,02/17/1947 @ 12:00:00 AM
+9548,"Mistmidnight, Tiger",Grove Farthing,25.00,Angels' Adamant,101.00,51.48,46.80,5199.4800,4726.8000,12407.85000000,02/17/1947 @ 12:00:00 AM
+7128,"Wind, Maverick",Archfane District,15.29,Unicorns' Fatal Magma Metal Of The Ocean,263.00,903.00,23.00,237489.0000,6049.0000,280774.96020000,02/17/1947 @ 12:00:00 AM
+6569,"Goddess of Thieves, Melcha",The Barrow of Terrible Horror,27.39,Dragons' Poison Glitterflesh Steel Of The North,139.00,742.00,75.00,103138.0000,10425.0000,144667.90570000,02/17/1947 @ 12:00:00 AM
+28569,Spikecrank,Bifar's Deep,12.21,Negative Rockglitter Mercury Of Trolls,239.00,235.59,214.17,56306.0100,51186.6300,120617.49134400,02/17/1947 @ 12:00:00 AM
+6644,"Mystery, Lord",The Chuallanto Jungle,10.00,Shadowhell Mithril,175.00,462.21,420.19,80886.7500,73533.2500,169862.00000000,02/17/1977 @ 12:00:00 AM
+5452,Springsprocket,Dysley Stronghold,32.28,Unknowable Mindsilver,162.00,174.90,159.00,28333.8000,25758.0000,71552.63304000,02/17/1947 @ 12:00:00 AM
+5763,"The Blade, Scarefear",The Warrior and Flagon,9.00,Unholy Poison Copper Of The Mountains,201.00,4312.00,68.97,866712.0000,13862.9700,959826.71730000,02/17/1947 @ 12:00:00 AM
+3123,Bronzespawn,The Lazy Sage,21.93,Witchs' Forbidden Rockrainbow Bronze,158.00,4207.35,223.30,664761.3000,35281.4000,853562.06411000,02/17/1947 @ 12:00:00 AM
+14520,"Felldrake, Magus",Gena's Hold,5.85,Sphinxes' Unknown Poisongold Of The Future,32.00,3971.47,14.30,127087.0400,457.6000,135006.00144000,02/17/1947 @ 12:00:00 AM
+14906,"Godseeker, Cult",The Secret Shrine of the Gargoyle Count,23.93,Mind Lead,296.00,241.00,219.09,71336.0000,64850.6400,168776.10295200,02/17/1947 @ 12:00:00 AM
+14961,Metalbrood,The Secret Catacombs of Ulfang the Black,28.82,Mind Lead,208.00,241.00,219.09,50128.0000,45570.7200,123279.09110400,02/17/1947 @ 12:00:00 AM

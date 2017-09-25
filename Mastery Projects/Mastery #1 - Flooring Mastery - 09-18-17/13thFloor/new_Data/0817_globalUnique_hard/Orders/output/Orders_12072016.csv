@@ -1,24 +1,24 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-36351,"Squallmourner, Storm",The Fen of the Necromancer,32.21,Phantasmal Tin Of The Swamps,33.00,405.96,369.05,13396.6800,12178.6500,33813.14379300,12/07/2016 @ 12:00:00 AM
-24450,"The Blade, Steelterror",The Forsaken Sepulcher of Sorrows,31.36,Ensorceled Sandmetal Of Spirits,148.00,85.18,77.44,12606.6400,11461.1200,31615.40953600,12/07/2016 @ 12:00:00 AM
-23189,"Tombreaper, Rouge",Weke Tower,47.19,Forgotten Mithril,281.00,545.71,496.10,153344.5100,139404.1000,430896.67905900,12/07/2016 @ 12:00:00 AM
-23714,"Reaper, Dagger",Bifar's Deep,12.21,Phantasmal Tin Of The Swamps,91.00,405.96,369.05,36942.3600,33583.5500,79137.12361100,12/07/2016 @ 12:00:00 AM
-9496,Cinderember,Archring Borough,29.70,Emerald Orichalcum,46.00,1957.00,118.01,90022.0000,5428.4600,123799.24662000,12/07/2016 @ 12:00:00 AM
-9523,"The Skeletal, Spiketerror",Grove Farthing,25.00,Muck Orichalcum Of Ogres,124.00,2080.00,97.93,257920.0000,12143.3200,337579.15000000,12/07/2016 @ 12:00:00 AM
-8452,Bronzespike,Gawold Castle,10.29,Falserainbow Lead,178.00,872.99,70.18,155392.2200,12492.0400,185159.55035400,12/07/2016 @ 12:00:00 AM
-18411,"The Machine, Evilcoil",The Tomb of Hellish Ruin,36.30,Phantasmal Tin Of The Swamps,207.00,3207.64,335.50,663981.4800,69448.5000,999665.06274000,12/07/2016 @ 12:00:00 AM
-17238,"Goddess of Trickery, Alik",Gena's Hold,5.85,Warlocks' Timerot Mithril,40.00,725.00,176.95,29000.0000,7078.0000,38188.56300000,12/07/2016 @ 12:00:00 AM
-29335,"Dire, Wind",Bifar's Deep,12.21,Stone Soulsteel Of The Skies,213.00,453.31,412.10,96555.0300,87777.3000,206839.30749300,12/07/2016 @ 12:00:00 AM
-9912,"Runetomb, Song",Gifeld Castle,27.28,Undeads' Mind Orichalcum Of The Twilight,183.00,1169.00,301.40,213927.0000,55156.2000,342489.09696000,12/07/2016 @ 12:00:00 AM
-378,"Lady of Vengeance, Zepul",Eved Castle,28.00,Phantasmal Smokezephyr Mercury Of Men,218.00,1330.00,192.00,289940.0000,41856.0000,424698.88000000,12/07/2016 @ 12:00:00 AM
-18798,"Veil, Bane",Weke Tower,47.19,Emerald Orichalcum,319.00,1957.00,129.81,624283.0000,41409.3900,979832.62884100,12/07/2016 @ 12:00:00 AM
-31846,"Lord of Nightmares, Iran",The Bastion of Gothmog of Udun,-2.66,Fairies' Supreme Mistsmoke Lead Of The Future,205.00,499.73,549.70,102444.6500,112688.5000,209410.60821000,12/07/2016 @ 12:00:00 AM
-31901,Graveterror,Gifeld Castle,33.01,Fairies' Supreme Mistsmoke Lead Of The Future,209.00,499.73,549.70,104443.5700,114887.3000,291731.99018700,12/07/2016 @ 12:00:00 AM
-16477,Wheelspawn,Khali's Delve,1.18,Lycanthropes' Gold,235.00,371.80,338.00,87373.0000,79430.0000,168771.27540000,12/07/2016 @ 12:00:00 AM
-17904,Spikesnare,Kada's Deep,8.42,Mithril Of The Tropics,153.00,276.72,251.56,42338.1600,38488.6800,87632.45992800,12/07/2016 @ 12:00:00 AM
-3121,"Spiritraven, Bedlam",The Lazy Sage,21.93,Spectres' Shadowy Terrorglow Adamant Of Life,259.00,-297.62,175.08,-77083.5800,45345.7200,-38697.97269800,12/07/2016 @ 12:00:00 AM
-14457,Cinderember,Noble's Village,5.43,Mithril Of The Tropics,300.00,251.56,251.56,75468.0000,75468.0000,159131.82480000,12/07/2016 @ 12:00:00 AM
-14537,"Lionwatcher, Law",The Secret Catacombs of Ulfang the Black,28.82,Sphinxes' Unknown Poisongold Of The Future,324.00,3971.47,14.30,1286756.2800,4633.2000,1663567.92813600,12/07/2016 @ 12:00:00 AM
-4774,"The Terrifying, Deathspike",The Secret Catacombs of Ulfang the Black,28.82,Spectres' Shadowy Terrorglow Adamant Of Life,142.00,-297.62,175.08,-42262.0400,24861.3600,-22415.55597600,12/07/2016 @ 12:00:00 AM
-14922,"The Evil, Snowflame",The Fortress of Akkun the Grim,27.03,Fleshshock Mercury,70.00,-31.02,-28.20,-2171.4000,-1974.0000,-5265.90162000,12/07/2016 @ 12:00:00 AM
-36229,Springcoil,The Fen of the Necromancer,32.21,Vampires' Hammer Emeraldmetal,97.00,93.70,85.18,9088.9000,8262.4600,22940.23305600,12/07/2016 @ 12:00:00 AM
+36351,"Storm, Squallmourner",The Fen of the Necromancer,32.21,Phantasmal Tin Of The Swamps,33.00,405.96,369.05,13396.6800,12178.6500,33813.14379300,12/07/2006 @ 12:00:00 AM
+24450,"Steelterror, The Blade",The Forsaken Sepulcher of Sorrows,31.36,Ensorceled Sandmetal Of Spirits,148.00,85.18,77.44,12606.6400,11461.1200,31615.40953600,12/07/2006 @ 12:00:00 AM
+23189,"Rouge, Tombreaper",Weke Tower,47.19,Forgotten Mithril,281.00,545.71,496.10,153344.5100,139404.1000,430896.67905900,12/07/2006 @ 12:00:00 AM
+23714,"Dagger, Reaper",Bifar's Deep,12.21,Phantasmal Tin Of The Swamps,91.00,405.96,369.05,36942.3600,33583.5500,79137.12361100,12/07/2006 @ 12:00:00 AM
+9496,Cinderember,Archring Borough,29.70,Emerald Orichalcum,46.00,1957.00,118.01,90022.0000,5428.4600,123799.24662000,12/07/2006 @ 12:00:00 AM
+9523,"Spiketerror, The Skeletal",Grove Farthing,25.00,Muck Orichalcum Of Ogres,124.00,2080.00,97.93,257920.0000,12143.3200,337579.15000000,12/07/2006 @ 12:00:00 AM
+8452,Bronzespike,Gawold Castle,10.29,Falserainbow Lead,178.00,872.99,70.18,155392.2200,12492.0400,185159.55035400,12/07/2006 @ 12:00:00 AM
+18411,"Evilcoil, The Machine",The Tomb of Hellish Ruin,36.30,Phantasmal Tin Of The Swamps,207.00,3207.64,335.50,663981.4800,69448.5000,999665.06274000,12/07/2006 @ 12:00:00 AM
+17238,"Alik, Goddess of Trickery",Gena's Hold,5.85,Warlocks' Timerot Mithril,40.00,725.00,176.95,29000.0000,7078.0000,38188.56300000,12/07/2006 @ 12:00:00 AM
+29335,"Wind, Dire",Bifar's Deep,12.21,Stone Soulsteel Of The Skies,213.00,453.31,412.10,96555.0300,87777.3000,206839.30749300,12/07/2006 @ 12:00:00 AM
+9912,"Song, Runetomb",Gifeld Castle,27.28,Undeads' Mind Orichalcum Of The Twilight,183.00,1169.00,301.40,213927.0000,55156.2000,342489.09696000,12/07/2016 @ 12:00:00 AM
+378,"Zepul, Lady of Vengeance",Eved Castle,28.00,Phantasmal Smokezephyr Mercury Of Men,218.00,1330.00,192.00,289940.0000,41856.0000,424698.88000000,12/07/2006 @ 12:00:00 AM
+18798,"Bane, Veil",Weke Tower,47.19,Emerald Orichalcum,319.00,1957.00,129.81,624283.0000,41409.3900,979832.62884100,12/07/2006 @ 12:00:00 AM
+31846,"Iran, Lord of Nightmares",The Bastion of Gothmog of Udun,-2.66,Fairies' Supreme Mistsmoke Lead Of The Future,205.00,499.73,549.70,102444.6500,112688.5000,209410.60821000,12/07/2006 @ 12:00:00 AM
+31901,Graveterror,Gifeld Castle,33.01,Fairies' Supreme Mistsmoke Lead Of The Future,209.00,499.73,549.70,104443.5700,114887.3000,291731.99018700,12/07/2006 @ 12:00:00 AM
+16477,Wheelspawn,Khali's Delve,1.18,Lycanthropes' Gold,235.00,371.80,338.00,87373.0000,79430.0000,168771.27540000,12/07/2006 @ 12:00:00 AM
+17904,Spikesnare,Kada's Deep,8.42,Mithril Of The Tropics,153.00,276.72,251.56,42338.1600,38488.6800,87632.45992800,12/07/2006 @ 12:00:00 AM
+3121,"Bedlam, Spiritraven",The Lazy Sage,21.93,Spectres' Shadowy Terrorglow Adamant Of Life,259.00,-297.62,175.08,-77083.5800,45345.7200,-38697.97269800,12/07/2006 @ 12:00:00 AM
+14457,Cinderember,Noble's Village,5.43,Mithril Of The Tropics,300.00,251.56,251.56,75468.0000,75468.0000,159131.82480000,12/07/2006 @ 12:00:00 AM
+14537,"Law, Lionwatcher",The Secret Catacombs of Ulfang the Black,28.82,Sphinxes' Unknown Poisongold Of The Future,324.00,3971.47,14.30,1286756.2800,4633.2000,1663567.92813600,12/07/2006 @ 12:00:00 AM
+4774,"Deathspike, The Terrifying",The Secret Catacombs of Ulfang the Black,28.82,Spectres' Shadowy Terrorglow Adamant Of Life,142.00,-297.62,175.08,-42262.0400,24861.3600,-22415.55597600,12/07/2006 @ 12:00:00 AM
+14922,"Snowflame, The Evil",The Fortress of Akkun the Grim,27.03,Fleshshock Mercury,70.00,-31.02,-28.20,-2171.4000,-1974.0000,-5265.90162000,12/07/2006 @ 12:00:00 AM
+36229,Springcoil,The Fen of the Necromancer,32.21,Vampires' Hammer Emeraldmetal,97.00,93.70,85.18,9088.9000,8262.4600,22940.23305600,12/07/2006 @ 12:00:00 AM

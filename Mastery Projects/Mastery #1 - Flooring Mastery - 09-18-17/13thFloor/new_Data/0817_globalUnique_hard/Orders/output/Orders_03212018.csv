@@ -1,20 +1,20 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-23119,Ironbrood,The Lewd King,45.98,Shadowhell Mithril,289.00,462.21,420.19,133578.6900,121434.9100,372268.85328000,03/21/2018 @ 12:00:00 AM
-36412,"Darkzealot, Dawn",The Fen of the Necromancer,32.21,Vampires' Hammer Emeraldmetal,56.00,93.70,85.18,5247.2000,4770.0800,13243.84588800,03/21/2018 @ 12:00:00 AM
-1249,Chainnail,The Fortress of Asmamur,-2.00,Falserainbow Lead,244.00,872.99,58.00,213009.5600,14152.0000,222618.32880000,03/21/2018 @ 12:00:00 AM
-3980,"Lord of the Sun, Maglioneth",The Forsaken Delve of Lord Greywulf,15.62,Mind Lead,133.00,756.00,199.17,100548.0000,26489.6100,146880.88468200,03/21/2018 @ 12:00:00 AM
-34121,"Goddess of Knowledge, Baltha",Barad Cune,49.21,Unspeakable Rotsoul Mithril Of Souls,50.00,370.26,336.60,18513.0000,16830.0000,52735.29030000,03/21/2018 @ 12:00:00 AM
-22361,"Lord of Animals, Suriel",The Tomb of Hellish Ruin,36.30,Imperial Fate Steel,237.00,419.10,381.00,99326.7000,90297.0000,258457.10310000,03/21/2018 @ 12:00:00 AM
-11933,"The Machine, Evilcoil",Gifeld Castle,27.28,Foul Ice Bronze Of Life,82.00,292.82,266.20,24011.2400,21828.4000,58344.69379200,03/21/2018 @ 12:00:00 AM
-9206,"Lord of the Sea, Penur",The Tower of Aces the Accursed,-3.34,Unknown Fatelightning Steel Of The Glacier,123.00,119.90,131.89,14747.7000,16222.4700,29935.76632200,03/21/2018 @ 12:00:00 AM
-31091,"Amberslayer, Flora",The Tower of Sabiesu the Awesome,10.00,Ensorceled Sandmetal Of Spirits,178.00,85.18,77.44,15162.0400,13784.3200,31840.99600000,03/21/2018 @ 12:00:00 AM
-31242,"The Cadaverous, Chainblade",Gifeld Castle,33.01,Grayplatinum,258.00,2548.00,104.94,657384.0000,27074.5200,910398.27745200,03/21/2018 @ 12:00:00 AM
-8301,"Gust, Shadow",The Bastion of Sthasu the Gruesome,40.00,Phantasmal Smokezephyr Mercury Of Men,194.00,211.20,192.00,40972.8000,37248.0000,109509.12000000,03/21/2018 @ 12:00:00 AM
-31474,"The Cremator, Blazeflare",Noble's Village,6.57,Grayplatinum,202.00,2548.00,104.94,514696.0000,21197.8800,571102.10791600,03/21/2018 @ 12:00:00 AM
-9738,"Lawslayer, Valentine",Gifeld Castle,27.28,Angels' Adamant,264.00,51.48,46.80,13590.7200,12355.2000,33023.96697600,03/21/2018 @ 12:00:00 AM
-18661,"God of War, Ingwenel",The Khazahol Crags,22.75,Fairies' Supreme Mistsmoke Lead Of The Future,202.00,499.73,454.30,100945.4600,91768.6000,236556.50865000,03/21/2018 @ 12:00:00 AM
-19922,"Goddess of Travel, Lenwenye",The Demon and Toad,-1.10,Unknowable Mindsilver,305.00,174.90,174.90,53344.5000,53344.5000,105515.42100000,03/21/2018 @ 12:00:00 AM
-8977,"Felldrake, Magus",The Black Barrow of Bery,19.80,Djinni's Spectral Shadowlead Of Life,170.00,1718.00,259.12,292060.0000,44050.4000,402660.25920000,03/21/2018 @ 12:00:00 AM
-26129,"The Skeletal, Spiketerror",North Arcanist's Farthing,3.03,Tin Of The Tundra,169.00,4121.00,397.25,696449.0000,67135.2500,786720.85277500,03/21/2018 @ 12:00:00 AM
-16852,"Reaper, Dagger",Gena's Hold,5.85,Warlocks' Timerot Mithril,257.00,725.00,176.95,186325.0000,45476.1500,245361.51727500,03/21/2018 @ 12:00:00 AM
-3599,"The Chiller, Blazefreeze",The Hunter and Rose,39.60,Trolls' Rubymercury Of The Sunset,232.00,2733.00,443.00,634056.0000,102776.0000,1028617.47200000,03/21/2018 @ 12:00:00 AM
+23119,Ironbrood,The Lewd King,45.98,Shadowhell Mithril,289.00,462.21,420.19,133578.6900,121434.9100,372268.85328000,03/21/2008 @ 12:00:00 AM
+36412,"Dawn, Darkzealot",The Fen of the Necromancer,32.21,Vampires' Hammer Emeraldmetal,56.00,93.70,85.18,5247.2000,4770.0800,13243.84588800,03/21/2008 @ 12:00:00 AM
+1249,Chainnail,The Fortress of Asmamur,-2.00,Falserainbow Lead,244.00,872.99,58.00,213009.5600,14152.0000,222618.32880000,03/21/2008 @ 12:00:00 AM
+3980,"Maglioneth, Lord of the Sun",The Forsaken Delve of Lord Greywulf,15.62,Mind Lead,133.00,756.00,199.17,100548.0000,26489.6100,146880.88468200,03/21/2008 @ 12:00:00 AM
+34121,"Baltha, Goddess of Knowledge",Barad Cune,49.21,Unspeakable Rotsoul Mithril Of Souls,50.00,370.26,336.60,18513.0000,16830.0000,52735.29030000,03/21/2008 @ 12:00:00 AM
+22361,"Suriel, Lord of Animals",The Tomb of Hellish Ruin,36.30,Imperial Fate Steel,237.00,419.10,381.00,99326.7000,90297.0000,258457.10310000,03/21/2008 @ 12:00:00 AM
+11933,"Evilcoil, The Machine",Gifeld Castle,27.28,Foul Ice Bronze Of Life,82.00,292.82,266.20,24011.2400,21828.4000,58344.69379200,03/21/2008 @ 12:00:00 AM
+9206,"Penur, Lord of the Sea",The Tower of Aces the Accursed,-3.34,Unknown Fatelightning Steel Of The Glacier,123.00,119.90,131.89,14747.7000,16222.4700,29935.76632200,03/21/2008 @ 12:00:00 AM
+31091,"Flora, Amberslayer",The Tower of Sabiesu the Awesome,10.00,Ensorceled Sandmetal Of Spirits,178.00,85.18,77.44,15162.0400,13784.3200,31840.99600000,03/21/2008 @ 12:00:00 AM
+31242,"Chainblade, The Cadaverous",Gifeld Castle,33.01,Grayplatinum,258.00,2548.00,104.94,657384.0000,27074.5200,910398.27745200,03/21/2008 @ 12:00:00 AM
+8301,"Shadow, Gust",The Bastion of Sthasu the Gruesome,40.00,Phantasmal Smokezephyr Mercury Of Men,194.00,211.20,192.00,40972.8000,37248.0000,109509.12000000,03/21/2008 @ 12:00:00 AM
+31474,"Blazeflare, The Cremator",Noble's Village,6.57,Grayplatinum,202.00,2548.00,104.94,514696.0000,21197.8800,571102.10791600,03/21/2008 @ 12:00:00 AM
+9738,"Valentine, Lawslayer",Gifeld Castle,27.28,Angels' Adamant,264.00,51.48,46.80,13590.7200,12355.2000,33023.96697600,03/21/2008 @ 12:00:00 AM
+18661,"Ingwenel, God of War",The Khazahol Crags,22.75,Fairies' Supreme Mistsmoke Lead Of The Future,202.00,499.73,454.30,100945.4600,91768.6000,236556.50865000,03/21/2008 @ 12:00:00 AM
+19922,"Lenwenye, Goddess of Travel",The Demon and Toad,-1.10,Unknowable Mindsilver,305.00,174.90,174.90,53344.5000,53344.5000,105515.42100000,03/21/2008 @ 12:00:00 AM
+8977,"Magus, Felldrake",The Black Barrow of Bery,19.80,Djinni's Spectral Shadowlead Of Life,170.00,1718.00,259.12,292060.0000,44050.4000,402660.25920000,03/21/2008 @ 12:00:00 AM
+26129,"Spiketerror, The Skeletal",North Arcanist's Farthing,3.03,Tin Of The Tundra,169.00,4121.00,397.25,696449.0000,67135.2500,786720.85277500,03/21/2008 @ 12:00:00 AM
+16852,"Dagger, Reaper",Gena's Hold,5.85,Warlocks' Timerot Mithril,257.00,725.00,176.95,186325.0000,45476.1500,245361.51727500,03/21/2008 @ 12:00:00 AM
+3599,"Blazefreeze, The Chiller",The Hunter and Rose,39.60,Trolls' Rubymercury Of The Sunset,232.00,2733.00,443.00,634056.0000,102776.0000,1028617.47200000,03/21/2008 @ 12:00:00 AM

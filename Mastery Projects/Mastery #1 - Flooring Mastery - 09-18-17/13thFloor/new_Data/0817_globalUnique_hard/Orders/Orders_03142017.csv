@@ -1,15 +1,15 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-33006,"The Horrorific, Evilfear",The Archer and Scroll,60.12,Undeads' Mind Orichalcum Of The Twilight,274.00,1169.00,364.69,320306.0000,99925.0600,672873.97327200,03/14/2017 @ 12:00:00 AM
-21285,"Tsunami, Seraphim",The Fen of the Necromancer,20.00,Unknowable Mindsilver,175.00,174.90,174.90,30607.5000,30607.5000,73458.00000000,03/14/2017 @ 12:00:00 AM
-9038,"Rougehate, Rune",The Lost Sanctum of Woe,43.20,Primordial Plague Mercury Of Legend,143.00,1150.79,67.00,164562.9700,9581.0000,249374.16504000,03/14/2017 @ 12:00:00 AM
-22751,Spikerivet,The Tower of Sabiesu the Awesome,10.00,Primordial Mud Orichalcum,264.00,1113.00,20.57,293832.0000,5430.4800,329188.72800000,03/14/2017 @ 12:00:00 AM
-22896,"Knightseraph, Lance",Reheath Stronghold,39.60,Fleshshock Mercury,13.00,-31.02,-28.20,-403.2600,-366.6000,-1074.72456000,03/14/2017 @ 12:00:00 AM
-21678,"Lord of Plague, Alas",The Bastion of Gothmog of Udun,-2.42,Starsmoke Bronze Of Life,39.00,-438.00,420.81,-17082.0000,16411.5900,-654.18607800,03/14/2017 @ 12:00:00 AM
-7166,"The Freezer, Burnbrood",Gawold Castle,10.29,Vampires' Hammer Emeraldmetal,139.00,77.44,70.40,10764.1600,9785.6000,22664.33030400,03/14/2017 @ 12:00:00 AM
-18569,"God of Death, Selik",The Tomb of Hellish Ruin,36.30,Lycanthropes' Gold,150.00,371.80,338.00,55770.0000,50700.0000,145118.61000000,03/14/2017 @ 12:00:00 AM
-30362,"Seeker, Fate",The Greedy Wench,13.31,Heavenly Dreamsilver Of The Night,189.00,719.00,314.60,135891.0000,59459.4000,221351.53824000,03/14/2017 @ 12:00:00 AM
-7321,"Tsunami, Seraphim",The Khazahol Crags,20.68,Sirens' Rockgold,178.00,306.13,278.30,54491.1400,49537.4000,125541.64207200,03/14/2017 @ 12:00:00 AM
-29516,"Lonedrake, Clash",Bifar's Deep,12.21,Hidden Shadowice Lead,172.00,-16.50,-16.50,-2838.0000,-2838.0000,-6369.03960000,03/14/2017 @ 12:00:00 AM
-6593,"Gust, Shadow",The Lost Sanctum of Woe,43.20,Fleshshock Mercury,188.00,-31.02,-28.20,-5831.7600,-5301.6000,-15942.97152000,03/14/2017 @ 12:00:00 AM
-26024,"Mistseeker, Grave",Barad Cune,49.21,Grayplatinum,165.00,2548.00,104.94,420420.0000,17315.1000,653144.54271000,03/14/2017 @ 12:00:00 AM
-3580,"Darkzealot, Dawn",The Black Barrow of Zago the Possessed,12.34,Unknown Fatelightning Steel Of The Glacier,193.00,119.90,109.00,23140.7000,21037.0000,49629.22818000,03/14/2017 @ 12:00:00 AM
+33006,"Evilfear, The Horrorific",The Archer and Scroll,60.12,Undeads' Mind Orichalcum Of The Twilight,274.00,1169.00,364.69,320306.0000,99925.0600,672873.97327200,03/14/2007 @ 12:00:00 AM
+21285,"Seraphim, Tsunami",The Fen of the Necromancer,20.00,Unknowable Mindsilver,175.00,174.90,174.90,30607.5000,30607.5000,73458.00000000,03/14/2007 @ 12:00:00 AM
+9038,"Rune, Rougehate",The Lost Sanctum of Woe,43.20,Primordial Plague Mercury Of Legend,143.00,1150.79,67.00,164562.9700,9581.0000,249374.16504000,03/14/2007 @ 12:00:00 AM
+22751,Spikerivet,The Tower of Sabiesu the Awesome,10.00,Primordial Mud Orichalcum,264.00,1113.00,20.57,293832.0000,5430.4800,329188.72800000,03/14/2007 @ 12:00:00 AM
+22896,"Lance, Knightseraph",Reheath Stronghold,39.60,Fleshshock Mercury,13.00,-31.02,-28.20,-403.2600,-366.6000,-1074.72456000,03/14/2007 @ 12:00:00 AM
+21678,"Alas, Lord of Plague",The Bastion of Gothmog of Udun,-2.42,Starsmoke Bronze Of Life,39.00,-438.00,420.81,-17082.0000,16411.5900,-654.18607800,03/14/2007 @ 12:00:00 AM
+7166,"Burnbrood, The Freezer",Gawold Castle,10.29,Vampires' Hammer Emeraldmetal,139.00,77.44,70.40,10764.1600,9785.6000,22664.33030400,03/14/2007 @ 12:00:00 AM
+18569,"Selik, God of Death",The Tomb of Hellish Ruin,36.30,Lycanthropes' Gold,150.00,371.80,338.00,55770.0000,50700.0000,145118.61000000,03/14/2007 @ 12:00:00 AM
+30362,"Fate, Seeker",The Greedy Wench,13.31,Heavenly Dreamsilver Of The Night,189.00,719.00,314.60,135891.0000,59459.4000,221351.53824000,03/14/2007 @ 12:00:00 AM
+7321,"Seraphim, Tsunami",The Khazahol Crags,20.68,Sirens' Rockgold,178.00,306.13,278.30,54491.1400,49537.4000,125541.64207200,03/14/2007 @ 12:00:00 AM
+29516,"Clash, Lonedrake",Bifar's Deep,12.21,Hidden Shadowice Lead,172.00,-16.50,-16.50,-2838.0000,-2838.0000,-6369.03960000,03/14/2007 @ 12:00:00 AM
+6593,"Shadow, Gust",The Lost Sanctum of Woe,43.20,Fleshshock Mercury,188.00,-31.02,-28.20,-5831.7600,-5301.6000,-15942.97152000,03/14/2007 @ 12:00:00 AM
+26024,"Grave, Mistseeker",Barad Cune,49.21,Grayplatinum,165.00,2548.00,104.94,420420.0000,17315.1000,653144.54271000,03/14/2007 @ 12:00:00 AM
+3580,"Dawn, Darkzealot",The Black Barrow of Zago the Possessed,12.34,Unknown Fatelightning Steel Of The Glacier,193.00,119.90,109.00,23140.7000,21037.0000,49629.22818000,03/14/2007 @ 12:00:00 AM

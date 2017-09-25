@@ -1,17 +1,17 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-23,"God of Luck, Ariel",The Bastion of the Lich Tyrant,4.87,Incubi's Mirrorfog Iron Of The Ocean,252.00,768.03,421.32,193543.5600,106172.6400,314312.37894000,03/16/2017 @ 12:00:00 AM
-35163,"God of Protection, Finarfin",The Bastion of the Vampire Duke,45.86,Grayplatinum,177.00,2548.00,115.43,450996.0000,20431.1100,687623.58264600,03/16/2017 @ 12:00:00 AM
-24658,"Godseeker, Cult",Bifar's Deep,12.21,Ensorceled Sandmetal Of Spirits,321.00,85.18,77.44,27342.7800,24858.2400,58574.76454200,03/16/2017 @ 12:00:00 AM
-34004,"Knightseraph, Lance",The Cuitamba Jungle,46.75,Toxic Mistlead Of The Past,291.00,435.67,396.06,126779.9700,115253.4600,355184.05852500,03/16/2017 @ 12:00:00 AM
-10185,"Lord of the Sea, Penur",The Lost Crypts of Sorrows,2.20,Muck Orichalcum Of Ogres,192.00,2080.00,97.93,399360.0000,18802.5600,427362.13632000,03/16/2017 @ 12:00:00 AM
-35646,"The Trapper, Boltcrank",The Fortress of the Lich Queen,22.79,Yellow Mistearth Copper,58.00,287.98,261.80,16702.8400,15184.4000,39154.34199600,03/16/2017 @ 12:00:00 AM
-33151,Emberfire,The Archer and Scroll,60.12,Fairies' Supreme Mistsmoke Lead Of The Future,98.00,499.73,549.70,48973.5400,53870.6000,164674.03696800,03/16/2017 @ 12:00:00 AM
-19153,"The Machine, Wheelbolt",The Bastion of Barbos,25.41,Unspeakable Rotsoul Mithril Of Souls,231.00,370.26,336.60,85530.0600,77754.6000,204775.29210600,03/16/2017 @ 12:00:00 AM
-18209,"The Skeletal, Spiketerror",Peley Keep,20.92,Toxic Mistlead Of The Past,216.00,396.06,396.06,85548.9600,85548.9600,206891.60486400,03/16/2017 @ 12:00:00 AM
-21920,"Goddess of Thieves, Melcha",Moor Village,11.32,Starsmoke Bronze Of Life,263.00,-438.00,420.81,-115194.0000,110673.0300,-5032.74380400,03/16/2017 @ 12:00:00 AM
-15040,"Claw, Slayer",The Secret Catacombs of Ulfang the Black,28.82,Lycanthropes' Gold,43.00,371.80,338.00,15987.4000,14534.0000,39317.66748000,03/16/2017 @ 12:00:00 AM
-31923,Deathbrood,Gifeld Castle,33.01,Fairies' Supreme Mistsmoke Lead Of The Future,297.00,499.73,549.70,148419.8100,163260.9000,414566.51237100,03/16/2017 @ 12:00:00 AM
-15288,Bolttrap,Dysley Stronghold,35.51,Fleshshock Mercury,181.00,-31.02,-28.20,-5614.6200,-5104.2000,-14525.07298200,03/16/2017 @ 12:00:00 AM
-30839,"Roguemist, Rouge",The Nulukkhath Spires,28.99,Ensorceled Sandmetal Of Spirits,233.00,85.18,77.44,19846.9400,18043.5200,48874.90435400,03/16/2017 @ 12:00:00 AM
-17978,"Goddess of Travel, Lenwenye",Kada's Deep,8.42,Shadow Metal,153.00,1606.00,298.00,245718.0000,45594.0000,315840.47040000,03/16/2017 @ 12:00:00 AM
-26667,"Lord of Animals, Suriel",Bifar's Deep,12.21,Swordbronze,196.00,403.29,366.63,79044.8400,71859.4800,169329.73747200,03/16/2017 @ 12:00:00 AM
+23,"Ariel, God of Luck",The Bastion of the Lich Tyrant,4.87,Incubi's Mirrorfog Iron Of The Ocean,252.00,768.03,421.32,193543.5600,106172.6400,314312.37894000,03/16/2007 @ 12:00:00 AM
+35163,"Finarfin, God of Protection",The Bastion of the Vampire Duke,45.86,Grayplatinum,177.00,2548.00,115.43,450996.0000,20431.1100,687623.58264600,03/16/2007 @ 12:00:00 AM
+24658,"Cult, Godseeker",Bifar's Deep,12.21,Ensorceled Sandmetal Of Spirits,321.00,85.18,77.44,27342.7800,24858.2400,58574.76454200,03/16/2007 @ 12:00:00 AM
+34004,"Lance, Knightseraph",The Cuitamba Jungle,46.75,Toxic Mistlead Of The Past,291.00,435.67,396.06,126779.9700,115253.4600,355184.05852500,03/16/2007 @ 12:00:00 AM
+10185,"Penur, Lord of the Sea",The Lost Crypts of Sorrows,2.20,Muck Orichalcum Of Ogres,192.00,2080.00,97.93,399360.0000,18802.5600,427362.13632000,03/16/2007 @ 12:00:00 AM
+35646,"Boltcrank, The Trapper",The Fortress of the Lich Queen,22.79,Yellow Mistearth Copper,58.00,287.98,261.80,16702.8400,15184.4000,39154.34199600,03/16/2007 @ 12:00:00 AM
+33151,Emberfire,The Archer and Scroll,60.12,Fairies' Supreme Mistsmoke Lead Of The Future,98.00,499.73,549.70,48973.5400,53870.6000,164674.03696800,03/16/2007 @ 12:00:00 AM
+19153,"Wheelbolt, The Machine",The Bastion of Barbos,25.41,Unspeakable Rotsoul Mithril Of Souls,231.00,370.26,336.60,85530.0600,77754.6000,204775.29210600,03/16/2007 @ 12:00:00 AM
+18209,"Spiketerror, The Skeletal",Peley Keep,20.92,Toxic Mistlead Of The Past,216.00,396.06,396.06,85548.9600,85548.9600,206891.60486400,03/16/2007 @ 12:00:00 AM
+21920,"Melcha, Goddess of Thieves",Moor Village,11.32,Starsmoke Bronze Of Life,263.00,-438.00,420.81,-115194.0000,110673.0300,-5032.74380400,03/16/2007 @ 12:00:00 AM
+15040,"Slayer, Claw",The Secret Catacombs of Ulfang the Black,28.82,Lycanthropes' Gold,43.00,371.80,338.00,15987.4000,14534.0000,39317.66748000,03/16/2007 @ 12:00:00 AM
+31923,Deathbrood,Gifeld Castle,33.01,Fairies' Supreme Mistsmoke Lead Of The Future,297.00,499.73,549.70,148419.8100,163260.9000,414566.51237100,03/16/2007 @ 12:00:00 AM
+15288,Bolttrap,Dysley Stronghold,35.51,Fleshshock Mercury,181.00,-31.02,-28.20,-5614.6200,-5104.2000,-14525.07298200,03/16/2007 @ 12:00:00 AM
+30839,"Rouge, Roguemist",The Nulukkhath Spires,28.99,Ensorceled Sandmetal Of Spirits,233.00,85.18,77.44,19846.9400,18043.5200,48874.90435400,03/16/2007 @ 12:00:00 AM
+17978,"Lenwenye, Goddess of Travel",Kada's Deep,8.42,Shadow Metal,153.00,1606.00,298.00,245718.0000,45594.0000,315840.47040000,03/16/2007 @ 12:00:00 AM
+26667,"Suriel, Lord of Animals",Bifar's Deep,12.21,Swordbronze,196.00,403.29,366.63,79044.8400,71859.4800,169329.73747200,03/16/2007 @ 12:00:00 AM

@@ -1,17 +1,17 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-1400,"The Blade, Scarefear",The Archer and Blade,15.00,Fog Lavaplatinum Of Life,140.00,2232.00,463.10,312480.0000,64834.0000,433911.10000000,06/09/2017 @ 12:00:00 AM
-11527,Springsprocket,The Black Barrow of Bery,19.80,Primordial Plague Mercury Of Legend,111.00,1150.79,67.00,127737.6900,7437.0000,161939.27862000,06/09/2017 @ 12:00:00 AM
-35453,"The Grasping, Beamsprocket",Citadel Ward,4.40,Yellow Mistearth Copper,166.00,287.98,261.80,47804.6800,43458.8000,95279.07312000,06/09/2017 @ 12:00:00 AM
-36931,"Lord of the Sea, Penur",The Fen of the Necromancer,32.21,Ensorceled Sandmetal Of Spirits,117.00,85.18,93.70,9966.0600,10962.9000,27670.17801600,06/09/2017 @ 12:00:00 AM
-21723,"Rougehate, Rune",Moor Village,11.32,Yellow Mistearth Copper,264.00,287.98,261.80,76026.7200,69115.2000,161571.98534400,06/09/2017 @ 12:00:00 AM
-30038,"Brand, Lightning",The Greedy Wench,13.31,Swordbronze,310.00,403.29,366.63,125019.9000,113655.3000,270442.86912000,06/09/2017 @ 12:00:00 AM
-9783,"Tomblion, Shadow",Gifeld Castle,27.28,Timeiron,156.00,3255.00,-16.25,507780.0000,-2535.0000,643075.83600000,06/09/2017 @ 12:00:00 AM
-7176,"Lord of Plague, Alas",The Pirate's Pipe,15.40,Sirens' Rockgold,261.00,306.13,278.30,79899.9300,72636.3000,176026.80942000,06/09/2017 @ 12:00:00 AM
-19734,"The Unspeakable, Terrorghoul",The Demon and Toad,-1.10,Magicians' Legendary Poison Metal,282.00,-52.81,-48.01,-14892.4200,-13538.8200,-28118.49636000,06/09/2017 @ 12:00:00 AM
-30268,"God of Luck, Ariel",The Tower of Sabiesu the Awesome,10.00,Incubi's Glittering Tin Of The Future,84.00,192.96,233.49,16208.6400,19613.1600,39403.98000000,06/09/2017 @ 12:00:00 AM
-20990,Graveterror,The Tomb of Hellish Ruin,36.30,Negative Rockglitter Mercury Of Trolls,171.00,3502.00,214.17,598842.0000,36623.0700,866138.89041000,06/09/2017 @ 12:00:00 AM
-17570,Chainhorror,Kada's Deep,8.42,Shadow Metal,311.00,1606.00,298.00,499466.0000,92678.0000,642002.52480000,06/09/2017 @ 12:00:00 AM
-13320,"The Binder, Springpulley",The Hunter and Rose,39.60,Trolls' Mist Poisonplatinum Of The Twilight,147.00,440.56,400.51,64762.3200,58874.9700,172597.65684000,06/09/2017 @ 12:00:00 AM
-36025,Deathbrood,Citadel Ward,4.40,Ghouls' Imperial Soulzephyr Mithril Of The Seas,271.00,318.23,318.23,86240.3300,86240.3300,180069.80904000,06/09/2017 @ 12:00:00 AM
-24149,"Darkzealot, Dawn",The Scoundrel and Flask,45.25,Toxic Mistlead Of The Past,261.00,396.06,396.06,103371.6600,103371.6600,300294.67230000,06/09/2017 @ 12:00:00 AM
-12283,"Tombreaper, Rouge",The Nulukkhath Spires,28.99,Djinni's Evil Sandobsidian Steel Of The Future,201.00,140.58,140.58,28256.5800,28256.5800,72896.32508400,06/09/2017 @ 12:00:00 AM
+1400,"The Blade, Scarefear",The Archer and Blade,15.00,Fog Lavaplatinum Of Life,140.00,2232.00,463.10,312480.0000,64834.0000,433911.10000000,06/09/1947 @ 12:00:00 AM
+11527,Springsprocket,The Black Barrow of Bery,19.80,Primordial Plague Mercury Of Legend,111.00,1150.79,67.00,127737.6900,7437.0000,161939.27862000,06/09/1997 @ 12:00:00 AM
+35453,"The Grasping, Beamsprocket",Citadel Ward,4.40,Yellow Mistearth Copper,166.00,287.98,261.80,47804.6800,43458.8000,95279.07312000,06/09/1947 @ 12:00:00 AM
+36931,"Lord of the Sea, Penur",The Fen of the Necromancer,32.21,Ensorceled Sandmetal Of Spirits,117.00,85.18,93.70,9966.0600,10962.9000,27670.17801600,06/09/1947 @ 12:00:00 AM
+21723,"Rougehate, Rune",Moor Village,11.32,Yellow Mistearth Copper,264.00,287.98,261.80,76026.7200,69115.2000,161571.98534400,06/09/1947 @ 12:00:00 AM
+30038,"Brand, Lightning",The Greedy Wench,13.31,Swordbronze,310.00,403.29,366.63,125019.9000,113655.3000,270442.86912000,06/09/1947 @ 12:00:00 AM
+9783,"Tomblion, Shadow",Gifeld Castle,27.28,Timeiron,156.00,3255.00,-16.25,507780.0000,-2535.0000,643075.83600000,06/09/1947 @ 12:00:00 AM
+7176,"Lord of Plague, Alas",The Pirate's Pipe,15.40,Sirens' Rockgold,261.00,306.13,278.30,79899.9300,72636.3000,176026.80942000,06/09/1947 @ 12:00:00 AM
+19734,"The Unspeakable, Terrorghoul",The Demon and Toad,-1.10,Magicians' Legendary Poison Metal,282.00,-52.81,-48.01,-14892.4200,-13538.8200,-28118.49636000,06/09/1987 @ 12:00:00 AM
+30268,"God of Luck, Ariel",The Tower of Sabiesu the Awesome,10.00,Incubi's Glittering Tin Of The Future,84.00,192.96,233.49,16208.6400,19613.1600,39403.98000000,06/09/1947 @ 12:00:00 AM
+20990,Graveterror,The Tomb of Hellish Ruin,36.30,Negative Rockglitter Mercury Of Trolls,171.00,3502.00,214.17,598842.0000,36623.0700,866138.89041000,06/09/1947 @ 12:00:00 AM
+17570,Chainhorror,Kada's Deep,8.42,Shadow Metal,311.00,1606.00,298.00,499466.0000,92678.0000,642002.52480000,06/09/1977 @ 12:00:00 AM
+13320,"The Binder, Springpulley",The Hunter and Rose,39.60,Trolls' Mist Poisonplatinum Of The Twilight,147.00,440.56,400.51,64762.3200,58874.9700,172597.65684000,06/09/1947 @ 12:00:00 AM
+36025,Deathbrood,Citadel Ward,4.40,Ghouls' Imperial Soulzephyr Mithril Of The Seas,271.00,318.23,318.23,86240.3300,86240.3300,180069.80904000,06/09/1947 @ 12:00:00 AM
+24149,"Darkzealot, Dawn",The Scoundrel and Flask,45.25,Toxic Mistlead Of The Past,261.00,396.06,396.06,103371.6600,103371.6600,300294.67230000,06/09/1987 @ 12:00:00 AM
+12283,"Tombreaper, Rouge",The Nulukkhath Spires,28.99,Djinni's Evil Sandobsidian Steel Of The Future,201.00,140.58,140.58,28256.5800,28256.5800,72896.32508400,06/09/1977 @ 12:00:00 AM

@@ -1,15 +1,15 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-13665,"Jackalguard, Gale",Dysley Stronghold,35.51,Nymphs' Luminous Rotmercury Of The Skies,203.00,335.50,369.05,68106.5000,74917.1500,193811.34811500,04/07/2016 @ 12:00:00 AM
-35110,Flameshiver,Barad Kesa,6.17,Grayplatinum,246.00,2548.00,115.43,626808.0000,28395.7800,695629.85322600,04/07/2016 @ 12:00:00 AM
-11337,"Mist, Claw",The Fortress of Asmamur,-2.42,Lycanthropes' Gold,222.00,371.80,338.00,82539.6000,75036.0000,153762.27048000,04/07/2016 @ 12:00:00 AM
-11474,Freezebrood,The Fortress of the Lich Queen,18.84,Lycanthropes' Gold,224.00,371.80,338.00,83283.2000,75712.0000,188949.89568000,04/07/2016 @ 12:00:00 AM
-23705,"Tombreaper, Rouge",The Lewd King,45.98,Tritons' Time Stoneiron Of Legend,336.00,341.59,375.75,114774.2400,126252.0000,351850.10515200,04/07/2016 @ 12:00:00 AM
-34747,"Godwarlock, Sunrise",Barad Kesa,6.17,Sprites' Transcendent Mud Lead Of The South,165.00,3338.65,267.08,550877.2500,44068.2000,631653.58426500,04/07/2016 @ 12:00:00 AM
-292,"Godseeker, Cult",Bergfison's Deep,16.00,Warlocks' Timerot Mithril,229.00,725.00,176.95,166025.0000,40521.5500,239593.99800000,04/07/2016 @ 12:00:00 AM
-17300,"Jester, Seraph",Gena's Hold,5.85,Incubi's Glittering Tin Of The Future,204.00,192.96,212.26,39363.8400,43301.0400,87500.77548000,04/07/2016 @ 12:00:00 AM
-29718,"Seeker, Fate",The Greedy Wench,13.31,Incubi's Glittering Tin Of The Future,147.00,192.96,233.49,28365.1200,34323.0300,71031.94276500,04/07/2016 @ 12:00:00 AM
-27204,"The Frigid, Icechill",The Bastion of Gothmog of Udun,-2.42,Sprites' Transcendent Mud Lead Of The South,227.00,3338.65,267.08,757873.5500,60627.1600,798692.99281800,04/07/2016 @ 12:00:00 AM
-931,"Tsunami, Seraphim",The Archer and Blade,15.00,Violetstone Tin Of Death,178.00,2091.85,19.00,372349.3000,3382.0000,432090.99500000,04/07/2016 @ 12:00:00 AM
-15319,"The Skeletal, Spiketerror",The Secret Catacombs of Ulfang the Black,28.82,Primordial Plague Mercury Of Legend,239.00,73.70,67.00,17614.3000,16013.0000,43318.68786000,04/07/2016 @ 12:00:00 AM
-6766,"Lionwatcher, Law",Khali's Delve,1.18,Glittering Orichalcum,185.00,2056.00,330.00,380360.0000,61050.0000,446618.63800000,04/07/2016 @ 12:00:00 AM
-25113,Springsprocket,The Fortress of the Lich Queen,20.72,Primordial Mud Orichalcum,39.00,1113.00,20.57,43407.0000,802.2300,53369.38245600,04/07/2016 @ 12:00:00 AM
+13665,"Gale, Jackalguard",Dysley Stronghold,35.51,Nymphs' Luminous Rotmercury Of The Skies,203.00,335.50,369.05,68106.5000,74917.1500,193811.34811500,04/07/2006 @ 12:00:00 AM
+35110,Flameshiver,Barad Kesa,6.17,Grayplatinum,246.00,2548.00,115.43,626808.0000,28395.7800,695629.85322600,04/07/2006 @ 12:00:00 AM
+11337,"Claw, Mist",The Fortress of Asmamur,-2.42,Lycanthropes' Gold,222.00,371.80,338.00,82539.6000,75036.0000,153762.27048000,04/07/2006 @ 12:00:00 AM
+11474,Freezebrood,The Fortress of the Lich Queen,18.84,Lycanthropes' Gold,224.00,371.80,338.00,83283.2000,75712.0000,188949.89568000,04/07/2006 @ 12:00:00 AM
+23705,"Rouge, Tombreaper",The Lewd King,45.98,Tritons' Time Stoneiron Of Legend,336.00,341.59,375.75,114774.2400,126252.0000,351850.10515200,04/07/2006 @ 12:00:00 AM
+34747,"Sunrise, Godwarlock",Barad Kesa,6.17,Sprites' Transcendent Mud Lead Of The South,165.00,3338.65,267.08,550877.2500,44068.2000,631653.58426500,04/07/2016 @ 12:00:00 AM
+292,"Cult, Godseeker",Bergfison's Deep,16.00,Warlocks' Timerot Mithril,229.00,725.00,176.95,166025.0000,40521.5500,239593.99800000,04/07/2006 @ 12:00:00 AM
+17300,"Seraph, Jester",Gena's Hold,5.85,Incubi's Glittering Tin Of The Future,204.00,192.96,212.26,39363.8400,43301.0400,87500.77548000,04/07/2006 @ 12:00:00 AM
+29718,"Fate, Seeker",The Greedy Wench,13.31,Incubi's Glittering Tin Of The Future,147.00,192.96,233.49,28365.1200,34323.0300,71031.94276500,04/07/2006 @ 12:00:00 AM
+27204,"Icechill, The Frigid",The Bastion of Gothmog of Udun,-2.42,Sprites' Transcendent Mud Lead Of The South,227.00,3338.65,267.08,757873.5500,60627.1600,798692.99281800,04/07/2006 @ 12:00:00 AM
+931,"Seraphim, Tsunami",The Archer and Blade,15.00,Violetstone Tin Of Death,178.00,2091.85,19.00,372349.3000,3382.0000,432090.99500000,04/07/2006 @ 12:00:00 AM
+15319,"Spiketerror, The Skeletal",The Secret Catacombs of Ulfang the Black,28.82,Primordial Plague Mercury Of Legend,239.00,73.70,67.00,17614.3000,16013.0000,43318.68786000,04/07/2006 @ 12:00:00 AM
+6766,"Law, Lionwatcher",Khali's Delve,1.18,Glittering Orichalcum,185.00,2056.00,330.00,380360.0000,61050.0000,446618.63800000,04/07/2006 @ 12:00:00 AM
+25113,Springsprocket,The Fortress of the Lich Queen,20.72,Primordial Mud Orichalcum,39.00,1113.00,20.57,43407.0000,802.2300,53369.38245600,04/07/2006 @ 12:00:00 AM

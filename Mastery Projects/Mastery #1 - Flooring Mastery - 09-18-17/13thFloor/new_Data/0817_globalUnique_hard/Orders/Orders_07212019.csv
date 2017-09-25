@@ -1,23 +1,22 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-35084,"Rougehate, Rune",Barad Kesa,6.17,Ghouls' Imperial Soulzephyr Mithril Of The Seas,215.00,318.23,318.23,68419.4500,68419.4500,145281.86013000,07/21/2019 @ 12:00:00 AM
-10017,Graveterror,Castle Village,39.07,Forgotten Mithril,224.00,3909.75,496.10,875784.0000,111126.4000,1372496.29328000,07/21/2019 @ 12:00:00 AM
-12617,"The Frigid, Icechill",Bifar's Deep,10.09,Djinni's Mind Fogiron,217.00,57.23,52.03,12418.9100,11290.5100,26101.70047800,07/21/2019 @ 12:00:00 AM
-22122,"Reaper, Dagger",The Nulukkhath Spires,28.99,Violetdream Iron,199.00,502.13,456.48,99923.8700,90839.5200,246065.69676100,07/21/2019 @ 12:00:00 AM
-34027,"Knightclaw, Sunset",Reheath Stronghold,39.60,Primordial Plague Mercury Of Legend,306.00,73.70,67.00,22552.2000,20502.0000,60103.66320000,07/21/2019 @ 12:00:00 AM
-34072,Springcoil,Reheath Stronghold,39.60,Poison Adamant,94.00,110.96,100.87,10430.2400,9481.7800,27797.17992000,07/21/2019 @ 12:00:00 AM
-9039,"The Machine, Evilcoil",Love Keep,40.56,Planar Mudtin Of Trolls,301.00,191.40,174.00,57611.4000,52374.0000,154595.47824000,07/21/2019 @ 12:00:00 AM
-21590,Beamtrap,The Bastion of Gothmog of Udun,-2.42,Yellow Mistearth Copper,56.00,287.98,261.80,16126.8800,14660.8000,30042.61814400,07/21/2019 @ 12:00:00 AM
-21578,"Tsunami, Seraphim",The Bastion of Gothmog of Udun,-2.42,Starsmoke Bronze Of Life,177.00,-438.00,420.81,-77526.0000,74483.3700,-2968.99835400,07/21/2019 @ 12:00:00 AM
-7130,Metalbrood,Noble's Village,4.94,Planar Mudtin Of Trolls,123.00,3529.02,174.00,434069.4600,21402.0000,477971.75012400,07/21/2019 @ 12:00:00 AM
-8476,"Lord of the Sea, Penur",Archtemple District,37.85,Zephyr Adamant,310.00,481.77,-44.14,149348.7000,-13683.4000,187014.61605000,07/21/2019 @ 12:00:00 AM
-388,"Goddess of Travel, Lenwenye",Gawold Castle,9.35,Unknown Fatelightning Steel Of The Glacier,204.00,305.86,109.00,62395.4400,22236.0000,92544.47964000,07/21/2019 @ 12:00:00 AM
-7612,"Goddess of Law, Eumyan",Noble's Village,4.94,Sirens' Rockgold,169.00,306.13,278.30,51735.9700,47032.7000,103647.84229800,07/21/2019 @ 12:00:00 AM
-15003,Spikesnare,The Secret Shrine of the Gargoyle Count,23.93,Mind Lead,163.00,241.00,219.09,39283.0000,35711.6700,92940.89453100,07/21/2019 @ 12:00:00 AM
-27127,"Jackalguard, Gale",The Bastion of Gothmog of Udun,-2.42,Vampires' Hammer Emeraldmetal,354.00,93.70,85.18,33169.8000,30153.7200,61791.09081600,07/21/2019 @ 12:00:00 AM
-5202,"The Freezer, Shiverflame",The Tower of Sabiesu the Awesome,10.00,Phantasmal Smokezephyr Mercury Of Men,206.00,211.20,192.00,43507.2000,39552.0000,91365.12000000,07/21/2019 @ 12:00:00 AM
-15535,"The Cadaverous, Chainblade",The Dungeon of Merciless Woe,3.61,Starsmoke Bronze Of Life,238.00,-438.00,420.81,-104244.0000,100152.7800,-4238.91304200,07/21/2019 @ 12:00:00 AM
-25090,"The Freezer, Burnbrood",Bifar's Deep,12.21,Ensorceled Sandmetal Of Spirits,111.00,85.18,77.44,9454.9800,8595.8400,20254.82512200,07/21/2019 @ 12:00:00 AM
-27706,"Knightseraph, Lance",The Pirate's Pipe,16.94,Vampires' Hammer Emeraldmetal,155.00,93.70,85.18,14523.5000,13202.9000,32423.25216000,07/21/2019 @ 12:00:00 AM
-5868,"God of Fate, Uriel",Reheath Stronghold,39.60,Unholy Poison Copper Of The Mountains,81.00,4312.00,68.97,349272.0000,5586.5700,495382.56372000,07/21/2019 @ 12:00:00 AM
-13397,"Brand, Lightning",The Bastion of the Vampire Duke,37.90,Poison Adamant,87.00,110.96,100.87,9653.5200,8775.6900,25413.88059000,07/21/2019 @ 12:00:00 AM
-10017,07/21/2019,,Graveterror,Hafeld Keep,224.00,Forgotten Mithril,47.59,3909.75,496.10,875784.0000,111126.4000,1456581.05936000,09/24/2017 @ 10:24:14 PM
+35084,"Rune, Rougehate",Barad Kesa,6.17,Ghouls' Imperial Soulzephyr Mithril Of The Seas,215.00,318.23,318.23,68419.4500,68419.4500,145281.86013000,07/21/2009 @ 12:00:00 AM
+10017,Graveterror,Castle Village,39.07,Forgotten Mithril,224.00,3909.75,496.10,875784.0000,111126.4000,1372496.29328000,07/21/2009 @ 12:00:00 AM
+12617,"Icechill, The Frigid",Bifar's Deep,10.09,Djinni's Mind Fogiron,217.00,57.23,52.03,12418.9100,11290.5100,26101.70047800,07/21/2009 @ 12:00:00 AM
+22122,"Dagger, Reaper",The Nulukkhath Spires,28.99,Violetdream Iron,199.00,502.13,456.48,99923.8700,90839.5200,246065.69676100,07/21/2009 @ 12:00:00 AM
+34027,"Sunset, Knightclaw",Reheath Stronghold,39.60,Primordial Plague Mercury Of Legend,306.00,73.70,67.00,22552.2000,20502.0000,60103.66320000,07/21/2009 @ 12:00:00 AM
+34072,Springcoil,Reheath Stronghold,39.60,Poison Adamant,94.00,110.96,100.87,10430.2400,9481.7800,27797.17992000,07/21/2009 @ 12:00:00 AM
+9039,"Evilcoil, The Machine",Love Keep,40.56,Planar Mudtin Of Trolls,301.00,191.40,174.00,57611.4000,52374.0000,154595.47824000,07/21/2009 @ 12:00:00 AM
+21590,Beamtrap,The Bastion of Gothmog of Udun,-2.42,Yellow Mistearth Copper,56.00,287.98,261.80,16126.8800,14660.8000,30042.61814400,07/21/2009 @ 12:00:00 AM
+21578,"Seraphim, Tsunami",The Bastion of Gothmog of Udun,-2.42,Starsmoke Bronze Of Life,177.00,-438.00,420.81,-77526.0000,74483.3700,-2968.99835400,07/21/2009 @ 12:00:00 AM
+7130,Metalbrood,Noble's Village,4.94,Planar Mudtin Of Trolls,123.00,3529.02,174.00,434069.4600,21402.0000,477971.75012400,07/21/2009 @ 12:00:00 AM
+8476,"Penur, Lord of the Sea",Archtemple District,37.85,Zephyr Adamant,310.00,481.77,-44.14,149348.7000,-13683.4000,187014.61605000,07/21/2009 @ 12:00:00 AM
+388,"Lenwenye, Goddess of Travel",Gawold Castle,9.35,Unknown Fatelightning Steel Of The Glacier,204.00,305.86,109.00,62395.4400,22236.0000,92544.47964000,07/21/2009 @ 12:00:00 AM
+7612,"Eumyan, Goddess of Law",Noble's Village,4.94,Sirens' Rockgold,169.00,306.13,278.30,51735.9700,47032.7000,103647.84229800,07/21/2009 @ 12:00:00 AM
+15003,Spikesnare,The Secret Shrine of the Gargoyle Count,23.93,Mind Lead,163.00,241.00,219.09,39283.0000,35711.6700,92940.89453100,07/21/2009 @ 12:00:00 AM
+27127,"Gale, Jackalguard",The Bastion of Gothmog of Udun,-2.42,Vampires' Hammer Emeraldmetal,354.00,93.70,85.18,33169.8000,30153.7200,61791.09081600,07/21/2009 @ 12:00:00 AM
+5202,"Shiverflame, The Freezer",The Tower of Sabiesu the Awesome,10.00,Phantasmal Smokezephyr Mercury Of Men,206.00,211.20,192.00,43507.2000,39552.0000,91365.12000000,07/21/2009 @ 12:00:00 AM
+15535,"Chainblade, The Cadaverous",The Dungeon of Merciless Woe,3.61,Starsmoke Bronze Of Life,238.00,-438.00,420.81,-104244.0000,100152.7800,-4238.91304200,07/21/2009 @ 12:00:00 AM
+25090,"Burnbrood, The Freezer",Bifar's Deep,12.21,Ensorceled Sandmetal Of Spirits,111.00,85.18,77.44,9454.9800,8595.8400,20254.82512200,07/21/2009 @ 12:00:00 AM
+27706,"Lance, Knightseraph",The Pirate's Pipe,16.94,Vampires' Hammer Emeraldmetal,155.00,93.70,85.18,14523.5000,13202.9000,32423.25216000,07/21/2009 @ 12:00:00 AM
+5868,"Uriel, God of Fate",Reheath Stronghold,39.60,Unholy Poison Copper Of The Mountains,81.00,4312.00,68.97,349272.0000,5586.5700,495382.56372000,07/21/2009 @ 12:00:00 AM
+13397,"Lightning, Brand",The Bastion of the Vampire Duke,37.90,Poison Adamant,87.00,110.96,100.87,9653.5200,8775.6900,25413.88059000,07/21/2009 @ 12:00:00 AM

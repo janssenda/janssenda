@@ -1,17 +1,17 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-13689,Emberspawn,The Lewd King,41.80,Warlocks' Timerot Mithril,162.00,725.00,176.95,117450.0000,28665.9000,207192.34620000,07/09/2018 @ 12:00:00 AM
-11177,"The Blade, Scarefear",The Broken Shield,12.00,Violetdream Iron,361.00,414.98,377.25,149807.7800,136187.2500,320314.43360000,07/09/2018 @ 12:00:00 AM
-35413,"Goddess of Fate, Azah",The Nulukkhath Spires,28.99,Yellow Mistearth Copper,314.00,287.98,261.80,90425.7200,82205.2000,222676.62370800,07/09/2018 @ 12:00:00 AM
-11481,"God of Death, Avriel",The Fen of the Necromancer,20.00,Imperial Fate Steel,297.00,419.10,381.00,124472.7000,113157.0000,285155.64000000,07/09/2018 @ 12:00:00 AM
-22692,"God of Animals, Byzou",The Nulukkhath Spires,28.99,Warlocks' Timerot Mithril,226.00,194.65,176.95,43990.9000,39990.7000,108327.86584000,07/09/2018 @ 12:00:00 AM
-32783,"Mystery, Lord",Citadel Ward,4.40,Yellow Mistearth Copper,209.00,287.98,261.80,60187.8200,54716.2000,119959.79688000,07/09/2018 @ 12:00:00 AM
-19711,"Roguemist, Rouge",Eved Castle,30.80,Fairies' Supreme Mistsmoke Lead Of The Future,149.00,499.73,499.73,74459.7700,74459.7700,194786.75832000,07/09/2018 @ 12:00:00 AM
-29708,"God of Luck, Ariel",The Greedy Wench,13.31,Incubi's Glittering Tin Of The Future,234.00,192.96,233.49,45152.6400,54636.6600,113071.25583000,07/09/2018 @ 12:00:00 AM
-6661,"The Freezer, Shiverflame",The Wizard's House,20.00,Golems' Stonesapphire Gold Of The Glacier,224.00,589.00,160.00,131936.0000,35840.0000,201331.20000000,07/09/2018 @ 12:00:00 AM
-4153,"Tsunami, Seraphim",The Forsaken Delve of Lord Greywulf,15.62,Mind Lead,342.00,756.00,199.17,258552.0000,68116.1400,377693.70346800,07/09/2018 @ 12:00:00 AM
-4193,Bronzespike,The Fortress of Gama,3.00,Unknown Fatelightning Steel Of The Glacier,209.00,119.90,109.00,25059.1000,22781.0000,49275.30300000,07/09/2018 @ 12:00:00 AM
-27423,"Seraphheart, Storm",The Bastion of Gothmog of Udun,-2.42,Unknown Fatelightning Steel Of The Glacier,187.00,145.08,159.59,27129.9600,29843.3300,55594.53638200,07/09/2018 @ 12:00:00 AM
-4228,"Lady of Vengeance, Zepul",The Black Barrow of Zago the Possessed,12.34,Trolls' Rubymercury Of The Sunset,212.00,2733.00,443.00,579396.0000,93916.0000,756398.70080000,07/09/2018 @ 12:00:00 AM
-26499,"The Cremator, Blazeflare",Citadel Ward,4.40,Swordbronze,143.00,403.29,366.63,57670.4700,52428.0900,114942.89664000,07/09/2018 @ 12:00:00 AM
-5881,Gravebone,Pawic Keep,31.90,Venom Jewelmetal Of The Desert,183.00,701.92,167.16,128451.3600,30590.2800,209775.92316000,07/09/2018 @ 12:00:00 AM
-24112,"God of Animals, Byzou",The Dungeon of Merciless Woe,3.97,Unicorns' Fatal Magma Metal Of The Ocean,158.00,25.30,23.00,3997.4000,3634.0000,7934.36658000,07/09/2018 @ 12:00:00 AM
+13689,Emberspawn,The Lewd King,41.80,Warlocks' Timerot Mithril,162.00,725.00,176.95,117450.0000,28665.9000,207192.34620000,07/09/1948 @ 12:00:00 AM
+11177,"The Blade, Scarefear",The Broken Shield,12.00,Violetdream Iron,361.00,414.98,377.25,149807.7800,136187.2500,320314.43360000,07/09/1948 @ 12:00:00 AM
+35413,"Goddess of Fate, Azah",The Nulukkhath Spires,28.99,Yellow Mistearth Copper,314.00,287.98,261.80,90425.7200,82205.2000,222676.62370800,07/09/1948 @ 12:00:00 AM
+11481,"God of Death, Avriel",The Fen of the Necromancer,20.00,Imperial Fate Steel,297.00,419.10,381.00,124472.7000,113157.0000,285155.64000000,07/09/1948 @ 12:00:00 AM
+22692,"God of Animals, Byzou",The Nulukkhath Spires,28.99,Warlocks' Timerot Mithril,226.00,194.65,176.95,43990.9000,39990.7000,108327.86584000,07/09/1948 @ 12:00:00 AM
+32783,"Mystery, Lord",Citadel Ward,4.40,Yellow Mistearth Copper,209.00,287.98,261.80,60187.8200,54716.2000,119959.79688000,07/09/1948 @ 12:00:00 AM
+19711,"Roguemist, Rouge",Eved Castle,30.80,Fairies' Supreme Mistsmoke Lead Of The Future,149.00,499.73,499.73,74459.7700,74459.7700,194786.75832000,07/09/1948 @ 12:00:00 AM
+29708,"God of Luck, Ariel",The Greedy Wench,13.31,Incubi's Glittering Tin Of The Future,234.00,192.96,233.49,45152.6400,54636.6600,113071.25583000,07/09/1948 @ 12:00:00 AM
+6661,"The Freezer, Shiverflame",The Wizard's House,20.00,Golems' Stonesapphire Gold Of The Glacier,224.00,589.00,160.00,131936.0000,35840.0000,201331.20000000,07/09/1978 @ 12:00:00 AM
+4153,"Tsunami, Seraphim",The Forsaken Delve of Lord Greywulf,15.62,Mind Lead,342.00,756.00,199.17,258552.0000,68116.1400,377693.70346800,07/09/1948 @ 12:00:00 AM
+4193,Bronzespike,The Fortress of Gama,3.00,Unknown Fatelightning Steel Of The Glacier,209.00,119.90,109.00,25059.1000,22781.0000,49275.30300000,07/09/1948 @ 12:00:00 AM
+27423,"Seraphheart, Storm",The Bastion of Gothmog of Udun,-2.42,Unknown Fatelightning Steel Of The Glacier,187.00,145.08,159.59,27129.9600,29843.3300,55594.53638200,07/09/1948 @ 12:00:00 AM
+4228,"Lady of Vengeance, Zepul",The Black Barrow of Zago the Possessed,12.34,Trolls' Rubymercury Of The Sunset,212.00,2733.00,443.00,579396.0000,93916.0000,756398.70080000,07/09/1948 @ 12:00:00 AM
+26499,"The Cremator, Blazeflare",Citadel Ward,4.40,Swordbronze,143.00,403.29,366.63,57670.4700,52428.0900,114942.89664000,07/09/1948 @ 12:00:00 AM
+5881,Gravebone,Pawic Keep,31.90,Venom Jewelmetal Of The Desert,183.00,701.92,167.16,128451.3600,30590.2800,209775.92316000,07/09/1948 @ 12:00:00 AM
+24112,"God of Animals, Byzou",The Dungeon of Merciless Woe,3.97,Unicorns' Fatal Magma Metal Of The Ocean,158.00,25.30,23.00,3997.4000,3634.0000,7934.36658000,07/09/1948 @ 12:00:00 AM

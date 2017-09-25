@@ -1,19 +1,19 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-2305,"The Cremator, Blazeflare",Tower Farthing,17.63,Timeiron,211.00,3255.00,-14.77,686805.0000,-3116.4700,804222.81783900,12/01/2017 @ 12:00:00 AM
-12543,"The Firey, Evilember",Bergfison's Deep,16.00,Incubi's Iron Of The Dawn,304.00,174.99,174.99,53196.9600,53196.9600,123416.94720000,12/01/2017 @ 12:00:00 AM
-12528,"Goddess of Knowledge, Baltha",The Tomb of Hellish Ruin,33.00,Foulopal Copper Of The Skies,202.00,201.66,201.66,40735.3200,40735.3200,108355.95120000,12/01/2017 @ 12:00:00 AM
-35319,"Godwarlock, Sunrise",The Fen of the Necromancer,32.21,Yellow Mistearth Copper,38.00,287.98,261.80,10943.2400,9948.4000,27620.83724400,12/01/2017 @ 12:00:00 AM
-11391,"Seeker, Fate",The Broken Shield,12.00,Lycanthropes' Gold,305.00,371.80,338.00,113399.0000,103090.0000,242467.68000000,12/01/2017 @ 12:00:00 AM
-34170,"Roguemist, Rouge",Reheath Stronghold,39.60,Warlocks' Timerot Mithril,178.00,194.65,194.65,34647.7000,34647.7000,96736.37840000,12/01/2017 @ 12:00:00 AM
-36946,"Drakecaster, Sephiroth",The Fen of the Necromancer,32.21,Ensorceled Sandmetal Of Spirits,186.00,85.18,93.70,15843.4800,17428.2000,43988.48812800,12/01/2017 @ 12:00:00 AM
-11968,"The Blade, Scarefear",The Citadel of Tattena the Sinister,22.39,Mistgold Of Men,103.00,412.50,375.00,42487.5000,38625.0000,99273.58875000,12/01/2017 @ 12:00:00 AM
-20003,"Lord of Death, Addon",Dysley Stronghold,35.51,Magicians' Legendary Poison Metal,320.00,-52.81,-48.01,-16899.2000,-15363.2000,-43718.77824000,12/01/2017 @ 12:00:00 AM
-22752,"Knightclaw, Sunset",The Tomb of Hellish Ruin,36.30,Warlocks' Timerot Mithril,313.00,194.65,176.95,60925.4500,55385.3500,158531.62040000,12/01/2017 @ 12:00:00 AM
-32102,"The Constructed, Snaretool",The Bastion of Gothmog of Udun,-2.66,Warlocks' Timerot Mithril,113.00,194.65,194.65,21995.4500,21995.4500,42820.74206000,12/01/2017 @ 12:00:00 AM
-32190,"Mistseeker, Grave",The Chuallanto Jungle,11.00,Unspeakable Rotsoul Mithril Of Souls,262.00,370.26,336.60,97008.1200,88189.2000,205569.02520000,12/01/2017 @ 12:00:00 AM
-31456,"Goddess of Knowledge, Baltha",Gifeld Castle,33.01,Pearl Mirrorice Steel Of Changelings,215.00,365.42,365.42,78565.3000,78565.3000,208999.41106000,12/01/2017 @ 12:00:00 AM
-19759,"The Constructed, Snaretool",The Forsaken Hive of Galima the Mighty,0.39,Fairies' Supreme Mistsmoke Lead Of The Future,59.00,499.73,499.73,29484.0700,29484.0700,59198.11574600,12/01/2017 @ 12:00:00 AM
-28228,"The Constructed, Snaretool",The Chuallanto Jungle,11.00,Undeads' Mind Orichalcum Of The Twilight,326.00,1169.00,364.69,381094.0000,118888.9400,554981.06340000,12/01/2017 @ 12:00:00 AM
-26093,"Lawslayer, Valentine",Archfane District,15.29,Sapphire Mindlead,112.00,-44.77,-49.25,-5014.2400,-5516.0000,-12140.31369600,12/01/2017 @ 12:00:00 AM
-15461,"Runetomb, Song",The Tower of Aramum,20.00,Starsmoke Bronze Of Life,103.00,-438.00,420.81,-45114.0000,43343.4300,-2124.68400000,12/01/2017 @ 12:00:00 AM
-14410,Springsprocket,The Secret Catacombs of Ulfang the Black,28.82,Negative Rockglitter Mercury Of Trolls,209.00,3502.00,214.17,731918.0000,44761.5300,1000518.57054600,12/01/2017 @ 12:00:00 AM
+2305,"Blazeflare, The Cremator",Tower Farthing,17.63,Timeiron,211.00,3255.00,-14.77,686805.0000,-3116.4700,804222.81783900,12/01/2007 @ 12:00:00 AM
+12543,"Evilember, The Firey",Bergfison's Deep,16.00,Incubi's Iron Of The Dawn,304.00,174.99,174.99,53196.9600,53196.9600,123416.94720000,12/01/2007 @ 12:00:00 AM
+12528,"Baltha, Goddess of Knowledge",The Tomb of Hellish Ruin,33.00,Foulopal Copper Of The Skies,202.00,201.66,201.66,40735.3200,40735.3200,108355.95120000,12/01/2007 @ 12:00:00 AM
+35319,"Sunrise, Godwarlock",The Fen of the Necromancer,32.21,Yellow Mistearth Copper,38.00,287.98,261.80,10943.2400,9948.4000,27620.83724400,12/01/2007 @ 12:00:00 AM
+11391,"Fate, Seeker",The Broken Shield,12.00,Lycanthropes' Gold,305.00,371.80,338.00,113399.0000,103090.0000,242467.68000000,12/01/2007 @ 12:00:00 AM
+34170,"Rouge, Roguemist",Reheath Stronghold,39.60,Warlocks' Timerot Mithril,178.00,194.65,194.65,34647.7000,34647.7000,96736.37840000,12/01/2007 @ 12:00:00 AM
+36946,"Sephiroth, Drakecaster",The Fen of the Necromancer,32.21,Ensorceled Sandmetal Of Spirits,186.00,85.18,93.70,15843.4800,17428.2000,43988.48812800,12/01/2007 @ 12:00:00 AM
+11968,"Scarefear, The Blade",The Citadel of Tattena the Sinister,22.39,Mistgold Of Men,103.00,412.50,375.00,42487.5000,38625.0000,99273.58875000,12/01/2007 @ 12:00:00 AM
+20003,"Addon, Lord of Death",Dysley Stronghold,35.51,Magicians' Legendary Poison Metal,320.00,-52.81,-48.01,-16899.2000,-15363.2000,-43718.77824000,12/01/2007 @ 12:00:00 AM
+22752,"Sunset, Knightclaw",The Tomb of Hellish Ruin,36.30,Warlocks' Timerot Mithril,313.00,194.65,176.95,60925.4500,55385.3500,158531.62040000,12/01/2007 @ 12:00:00 AM
+32102,"Snaretool, The Constructed",The Bastion of Gothmog of Udun,-2.66,Warlocks' Timerot Mithril,113.00,194.65,194.65,21995.4500,21995.4500,42820.74206000,12/01/2007 @ 12:00:00 AM
+32190,"Grave, Mistseeker",The Chuallanto Jungle,11.00,Unspeakable Rotsoul Mithril Of Souls,262.00,370.26,336.60,97008.1200,88189.2000,205569.02520000,12/01/2007 @ 12:00:00 AM
+31456,"Baltha, Goddess of Knowledge",Gifeld Castle,33.01,Pearl Mirrorice Steel Of Changelings,215.00,365.42,365.42,78565.3000,78565.3000,208999.41106000,12/01/2007 @ 12:00:00 AM
+19759,"Snaretool, The Constructed",The Forsaken Hive of Galima the Mighty,0.39,Fairies' Supreme Mistsmoke Lead Of The Future,59.00,499.73,499.73,29484.0700,29484.0700,59198.11574600,12/01/2007 @ 12:00:00 AM
+28228,"Snaretool, The Constructed",The Chuallanto Jungle,11.00,Undeads' Mind Orichalcum Of The Twilight,326.00,1169.00,364.69,381094.0000,118888.9400,554981.06340000,12/01/2007 @ 12:00:00 AM
+26093,"Valentine, Lawslayer",Archfane District,15.29,Sapphire Mindlead,112.00,-44.77,-49.25,-5014.2400,-5516.0000,-12140.31369600,12/01/2007 @ 12:00:00 AM
+15461,"Song, Runetomb",The Tower of Aramum,20.00,Starsmoke Bronze Of Life,103.00,-438.00,420.81,-45114.0000,43343.4300,-2124.68400000,12/01/2007 @ 12:00:00 AM
+14410,Springsprocket,The Secret Catacombs of Ulfang the Black,28.82,Negative Rockglitter Mercury Of Trolls,209.00,3502.00,214.17,731918.0000,44761.5300,1000518.57054600,12/01/2007 @ 12:00:00 AM

@@ -1,19 +1,19 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-52,Spikesnare,The Bastion of Sthasu the Gruesome,40.00,Succubi's Evil Mindzephyr Adamant Of The Desert,182.00,555.09,39.00,101026.3800,7098.0000,151374.13200000,04/06/2018 @ 12:00:00 AM
-11472,"Wolf, Jericho",The Fortress of the Lich Queen,18.84,Phantasmal Lead,273.00,21.92,19.93,5984.1600,5440.8900,13577.52942000,04/06/2018 @ 12:00:00 AM
-12883,"Lionwatcher, Law",Gili's Delve,35.89,Dragons' Poison Glitterflesh Steel Of The North,160.00,742.00,82.50,118720.0000,13200.0000,179266.08800000,04/06/2018 @ 12:00:00 AM
-23621,"Goddess of Knowledge, Baltha",The Fortress of Akkun the Grim,27.03,Tritons' Time Stoneiron Of Legend,109.00,341.59,341.59,37233.3100,37233.3100,94594.94738600,04/06/2018 @ 12:00:00 AM
-33136,"The Chiller, Blazefreeze",Pewold Keep,29.00,Forgotten Mithril,55.00,600.28,545.71,33015.4000,30014.0500,81307.99050000,04/06/2018 @ 12:00:00 AM
-10460,Bronzespike,The Chuallanto Jungle,10.00,Pearl Mirrorice Steel Of Changelings,259.00,2996.00,302.00,775964.0000,78218.0000,939600.20000000,04/06/2018 @ 12:00:00 AM
-33477,Chainnail,The Archer and Scroll,60.12,Mind Lead,236.00,241.00,219.09,56876.0000,51705.2400,173860.28148800,04/06/2018 @ 12:00:00 AM
-33671,"God of Resurrection, Gadriel",Pewold Keep,29.00,Fairies' Supreme Mistsmoke Lead Of The Future,200.00,499.73,549.70,99946.0000,109940.0000,270752.94000000,04/06/2018 @ 12:00:00 AM
-31125,"God of Fate, Sielach",The Nulukkhath Spires,28.99,Ensorceled Sandmetal Of Spirits,135.00,85.18,77.44,11499.3000,10454.4000,28318.07763000,04/06/2018 @ 12:00:00 AM
-144,"Mistmidnight, Tiger",Gili's Delve,35.89,Unicorns' Fatal Magma Metal Of The Ocean,216.00,903.00,23.00,195048.0000,4968.0000,271801.74240000,04/06/2018 @ 12:00:00 AM
-17247,"Mist, Claw",The Scoundrel and Flask,45.25,Warlocks' Timerot Mithril,155.00,725.00,176.95,112375.0000,27427.2500,203062.76812500,04/06/2018 @ 12:00:00 AM
-8648,Wheelspawn,Gena's Hold,4.40,Unknowable Mindsilver,111.00,174.90,174.90,19413.9000,19413.9000,40536.22320000,04/06/2018 @ 12:00:00 AM
-30690,Spikerivet,The Nulukkhath Spires,28.99,Ensorceled Sandmetal Of Spirits,203.00,85.18,77.44,17291.5400,15720.3200,42581.99821400,04/06/2018 @ 12:00:00 AM
-6320,"The Unspeakable, Scarechain",The Wizard's House,20.00,Violetdream Iron,264.00,414.98,377.25,109554.7200,99594.0000,250978.46400000,04/06/2018 @ 12:00:00 AM
-15190,"Lord of Nightmares, Iran",The Secret Shrine of the Gargoyle Count,23.93,Mind Lead,83.00,241.00,219.09,20003.0000,18184.4700,47325.73157100,04/06/2018 @ 12:00:00 AM
-30899,"The Machine, Wheelbolt",The Broken Arrow,17.60,Witchs' Forbidden Rockrainbow Bronze,80.00,245.63,245.63,19650.4000,19650.4000,46217.74080000,04/06/2018 @ 12:00:00 AM
-36089,"Tombreaper, Rouge",The Fen of the Necromancer,32.21,Grayplatinum,243.00,2548.00,115.43,619164.0000,28049.4900,855680.95512900,04/06/2018 @ 12:00:00 AM
-24204,"The Disinterred, Spikebrood",The Forsaken Sepulcher of Sorrows,31.36,Tritons' Time Stoneiron Of Legend,41.00,341.59,375.75,14005.1900,15405.7500,38634.21078400,04/06/2018 @ 12:00:00 AM
+52,Spikesnare,The Bastion of Sthasu the Gruesome,40.00,Succubi's Evil Mindzephyr Adamant Of The Desert,182.00,555.09,39.00,101026.3800,7098.0000,151374.13200000,04/06/2008 @ 12:00:00 AM
+11472,"Jericho, Wolf",The Fortress of the Lich Queen,18.84,Phantasmal Lead,273.00,21.92,19.93,5984.1600,5440.8900,13577.52942000,04/06/2008 @ 12:00:00 AM
+12883,"Law, Lionwatcher",Gili's Delve,35.89,Dragons' Poison Glitterflesh Steel Of The North,160.00,742.00,82.50,118720.0000,13200.0000,179266.08800000,04/06/2008 @ 12:00:00 AM
+23621,"Baltha, Goddess of Knowledge",The Fortress of Akkun the Grim,27.03,Tritons' Time Stoneiron Of Legend,109.00,341.59,341.59,37233.3100,37233.3100,94594.94738600,04/06/2008 @ 12:00:00 AM
+33136,"Blazefreeze, The Chiller",Pewold Keep,29.00,Forgotten Mithril,55.00,600.28,545.71,33015.4000,30014.0500,81307.99050000,04/06/2008 @ 12:00:00 AM
+10460,Bronzespike,The Chuallanto Jungle,10.00,Pearl Mirrorice Steel Of Changelings,259.00,2996.00,302.00,775964.0000,78218.0000,939600.20000000,04/06/2008 @ 12:00:00 AM
+33477,Chainnail,The Archer and Scroll,60.12,Mind Lead,236.00,241.00,219.09,56876.0000,51705.2400,173860.28148800,04/06/2008 @ 12:00:00 AM
+33671,"Gadriel, God of Resurrection",Pewold Keep,29.00,Fairies' Supreme Mistsmoke Lead Of The Future,200.00,499.73,549.70,99946.0000,109940.0000,270752.94000000,04/06/2008 @ 12:00:00 AM
+31125,"Sielach, God of Fate",The Nulukkhath Spires,28.99,Ensorceled Sandmetal Of Spirits,135.00,85.18,77.44,11499.3000,10454.4000,28318.07763000,04/06/2008 @ 12:00:00 AM
+144,"Tiger, Mistmidnight",Gili's Delve,35.89,Unicorns' Fatal Magma Metal Of The Ocean,216.00,903.00,23.00,195048.0000,4968.0000,271801.74240000,04/06/2008 @ 12:00:00 AM
+17247,"Claw, Mist",The Scoundrel and Flask,45.25,Warlocks' Timerot Mithril,155.00,725.00,176.95,112375.0000,27427.2500,203062.76812500,04/06/2008 @ 12:00:00 AM
+8648,Wheelspawn,Gena's Hold,4.40,Unknowable Mindsilver,111.00,174.90,174.90,19413.9000,19413.9000,40536.22320000,04/06/2008 @ 12:00:00 AM
+30690,Spikerivet,The Nulukkhath Spires,28.99,Ensorceled Sandmetal Of Spirits,203.00,85.18,77.44,17291.5400,15720.3200,42581.99821400,04/06/2008 @ 12:00:00 AM
+6320,"Scarechain, The Unspeakable",The Wizard's House,20.00,Violetdream Iron,264.00,414.98,377.25,109554.7200,99594.0000,250978.46400000,04/06/2008 @ 12:00:00 AM
+15190,"Iran, Lord of Nightmares",The Secret Shrine of the Gargoyle Count,23.93,Mind Lead,83.00,241.00,219.09,20003.0000,18184.4700,47325.73157100,04/06/2008 @ 12:00:00 AM
+30899,"Wheelbolt, The Machine",The Broken Arrow,17.60,Witchs' Forbidden Rockrainbow Bronze,80.00,245.63,245.63,19650.4000,19650.4000,46217.74080000,04/06/2008 @ 12:00:00 AM
+36089,"Rouge, Tombreaper",The Fen of the Necromancer,32.21,Grayplatinum,243.00,2548.00,115.43,619164.0000,28049.4900,855680.95512900,04/06/2008 @ 12:00:00 AM
+24204,"Spikebrood, The Disinterred",The Forsaken Sepulcher of Sorrows,31.36,Tritons' Time Stoneiron Of Legend,41.00,341.59,375.75,14005.1900,15405.7500,38634.21078400,04/06/2008 @ 12:00:00 AM

@@ -1,17 +1,17 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-11223,"Ivycaster, Fate",The Fen of the Necromancer,20.00,Violetstone Tin Of Death,61.00,2091.85,20.90,127602.8500,1274.9000,154653.30000000,03/30/2017 @ 12:00:00 AM
-23222,"Goddess of Law, Eumyan",Moor Village,11.32,Tritons' Time Stoneiron Of Legend,320.00,341.59,341.59,109308.8000,109308.8000,243365.11232000,03/30/2017 @ 12:00:00 AM
-3965,"Mystery, Lord",The Forsaken Delve of Lord Greywulf,15.62,Mind Lead,271.00,756.00,199.17,204876.0000,53975.0700,299283.60713400,03/30/2017 @ 12:00:00 AM
-36892,"Mist, Claw",The Fen of the Necromancer,32.21,Grayplatinum,104.00,2548.00,115.43,264992.0000,12004.7200,366217.36351200,03/30/2017 @ 12:00:00 AM
-36896,"The Disinterred, Spikebrood",The Fen of the Necromancer,32.21,Grayplatinum,123.00,2548.00,115.43,313404.0000,14197.8900,433122.45876900,03/30/2017 @ 12:00:00 AM
-34395,"Roguemist, Rouge",Mahyrst Keep,31.30,Poison Adamant,245.00,110.96,100.87,27185.2000,24713.1500,68142.53355000,03/30/2017 @ 12:00:00 AM
-23806,"The Horrorific, Evilfear",The Lewd King,45.98,Unicorns' Fatal Magma Metal Of The Ocean,274.00,25.30,23.00,6932.2000,6302.0000,19319.28516000,03/30/2017 @ 12:00:00 AM
-19378,Evilbrood,Weke Tower,47.19,Foul Ice Bronze Of Life,317.00,292.82,266.20,92823.9400,84385.4000,260834.42754600,03/30/2017 @ 12:00:00 AM
-31170,"Anchor, Rose",Hafeld Keep,47.59,Grayplatinum,197.00,2548.00,104.94,501956.0000,20673.1800,771348.40676200,03/30/2017 @ 12:00:00 AM
-8328,"The Unspeakable, Gravebone",The Bastion of Sthasu the Gruesome,40.00,Zephyr Adamant,198.00,481.77,-44.14,95390.4600,-8739.7200,121311.03600000,03/30/2017 @ 12:00:00 AM
-19738,"Tsunami, Seraphim",Kada's Deep,8.42,Magicians' Legendary Poison Metal,155.00,-52.81,-48.01,-8185.5500,-7441.5500,-16942.90182000,03/30/2017 @ 12:00:00 AM
-7780,"The Trapper, Boltcrank",Barad Kesa,5.10,Sirens' Rockgold,156.00,306.13,278.30,47756.2800,43414.8000,95820.80508000,03/30/2017 @ 12:00:00 AM
-5577,"Goddess of Law, Eumyan",Pawic Keep,31.90,Tritons' Time Stoneiron Of Legend,167.00,2235.00,310.54,373245.0000,51860.1800,560713.73242000,03/30/2017 @ 12:00:00 AM
-27562,"Lonedrake, Clash",The Pirate's Pipe,16.94,Vampires' Hammer Emeraldmetal,83.00,93.70,85.18,7777.1000,7069.9400,17362.12857600,03/30/2017 @ 12:00:00 AM
-13386,"God of Resurrection, Gadriel",The Bastion of the Vampire Duke,37.90,Warlocks' Timerot Mithril,355.00,725.00,176.95,257375.0000,62817.2500,441545.11275000,03/30/2017 @ 12:00:00 AM
-24114,"Jackalguard, Gale",The Lewd King,45.98,Incubi's Glittering Tin Of The Future,304.00,192.96,212.26,58659.8400,64527.0400,179828.20742400,03/30/2017 @ 12:00:00 AM
+11223,"Ivycaster, Fate",The Fen of the Necromancer,20.00,Violetstone Tin Of Death,61.00,2091.85,20.90,127602.8500,1274.9000,154653.30000000,03/30/1947 @ 12:00:00 AM
+23222,"Goddess of Law, Eumyan",Moor Village,11.32,Tritons' Time Stoneiron Of Legend,320.00,341.59,341.59,109308.8000,109308.8000,243365.11232000,03/30/1947 @ 12:00:00 AM
+3965,"Mystery, Lord",The Forsaken Delve of Lord Greywulf,15.62,Mind Lead,271.00,756.00,199.17,204876.0000,53975.0700,299283.60713400,03/30/1947 @ 12:00:00 AM
+36892,"Mist, Claw",The Fen of the Necromancer,32.21,Grayplatinum,104.00,2548.00,115.43,264992.0000,12004.7200,366217.36351200,03/30/1947 @ 12:00:00 AM
+36896,"The Disinterred, Spikebrood",The Fen of the Necromancer,32.21,Grayplatinum,123.00,2548.00,115.43,313404.0000,14197.8900,433122.45876900,03/30/1947 @ 12:00:00 AM
+34395,"Roguemist, Rouge",Mahyrst Keep,31.30,Poison Adamant,245.00,110.96,100.87,27185.2000,24713.1500,68142.53355000,03/30/1947 @ 12:00:00 AM
+23806,"The Horrorific, Evilfear",The Lewd King,45.98,Unicorns' Fatal Magma Metal Of The Ocean,274.00,25.30,23.00,6932.2000,6302.0000,19319.28516000,03/30/1987 @ 12:00:00 AM
+19378,Evilbrood,Weke Tower,47.19,Foul Ice Bronze Of Life,317.00,292.82,266.20,92823.9400,84385.4000,260834.42754600,03/30/1947 @ 12:00:00 AM
+31170,"Anchor, Rose",Hafeld Keep,47.59,Grayplatinum,197.00,2548.00,104.94,501956.0000,20673.1800,771348.40676200,03/30/1947 @ 12:00:00 AM
+8328,"The Unspeakable, Gravebone",The Bastion of Sthasu the Gruesome,40.00,Zephyr Adamant,198.00,481.77,-44.14,95390.4600,-8739.7200,121311.03600000,03/30/1947 @ 12:00:00 AM
+19738,"Tsunami, Seraphim",Kada's Deep,8.42,Magicians' Legendary Poison Metal,155.00,-52.81,-48.01,-8185.5500,-7441.5500,-16942.90182000,03/30/1947 @ 12:00:00 AM
+7780,"The Trapper, Boltcrank",Barad Kesa,5.10,Sirens' Rockgold,156.00,306.13,278.30,47756.2800,43414.8000,95820.80508000,03/30/1947 @ 12:00:00 AM
+5577,"Goddess of Law, Eumyan",Pawic Keep,31.90,Tritons' Time Stoneiron Of Legend,167.00,2235.00,310.54,373245.0000,51860.1800,560713.73242000,03/30/1947 @ 12:00:00 AM
+27562,"Lonedrake, Clash",The Pirate's Pipe,16.94,Vampires' Hammer Emeraldmetal,83.00,93.70,85.18,7777.1000,7069.9400,17362.12857600,03/30/1947 @ 12:00:00 AM
+13386,"God of Resurrection, Gadriel",The Bastion of the Vampire Duke,37.90,Warlocks' Timerot Mithril,355.00,725.00,176.95,257375.0000,62817.2500,441545.11275000,03/30/1947 @ 12:00:00 AM
+24114,"Jackalguard, Gale",The Lewd King,45.98,Incubi's Glittering Tin Of The Future,304.00,192.96,212.26,58659.8400,64527.0400,179828.20742400,03/30/1947 @ 12:00:00 AM

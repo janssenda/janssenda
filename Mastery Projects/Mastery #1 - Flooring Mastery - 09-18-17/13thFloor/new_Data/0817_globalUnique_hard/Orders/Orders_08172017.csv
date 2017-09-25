@@ -1,20 +1,20 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-1089,"God of Fate, Sielach",Palace Farthing,13.00,Ensorceled Sandmetal Of Spirits,146.00,4149.00,64.00,605754.0000,9344.0000,695060.74000000,08/17/2017 @ 12:00:00 AM
-36315,"Goddess of Thieves, Melcha",The Fen of the Necromancer,32.21,Grayplatinum,329.00,2548.00,115.43,838292.0000,37976.4700,1158514.54418700,08/17/2017 @ 12:00:00 AM
-12594,"Lionwatcher, Law",Noble's Village,5.43,God-touched Greengem Platinum,271.00,206.95,206.95,56083.4500,56083.4500,118257.56267000,08/17/2017 @ 12:00:00 AM
-34624,"God of Love, Prusu",The Bastion of the Vampire Duke,45.86,Grayplatinum,81.00,2548.00,115.43,206388.0000,9349.8300,314675.19883800,08/17/2017 @ 12:00:00 AM
-10634,"Knightseraph, Lance",The Drunken Thief,18.41,Phantasmal Smokezephyr Mercury Of Men,311.00,211.20,192.00,65683.2000,59712.0000,148480.45632000,08/17/2017 @ 12:00:00 AM
-19196,"Tsunami, Seraphim",The Bastion of Barbos,25.41,Unspeakable Rotsoul Mithril Of Souls,160.00,370.26,336.60,59241.6000,53856.0000,141835.70016000,08/17/2017 @ 12:00:00 AM
-30088,Emberspawn,The Greedy Wench,13.31,Heavenly Dreamsilver Of The Night,262.00,719.00,314.60,188378.0000,82425.2000,306847.10592000,08/17/2017 @ 12:00:00 AM
-351,"God of Fate, Uriel",The Bastion of the Lich Tyrant,4.87,Succubi's Evil Mindzephyr Adamant Of The Desert,341.00,555.09,39.00,189285.6900,13299.0000,212450.56440300,08/17/2017 @ 12:00:00 AM
-29569,"Mistmidnight, Tiger",The Nulukkhath Spires,28.99,Heavenly Dreamsilver Of The Night,288.00,719.00,314.60,207072.0000,90604.8000,383973.30432000,08/17/2017 @ 12:00:00 AM
-7779,"The Mechanical, Snarepiston",Gawold Castle,10.29,Trolls' Mist Poisonplatinum Of The Twilight,127.00,329.00,400.51,41783.0000,50864.7700,102181.22553300,08/17/2017 @ 12:00:00 AM
-17811,Springsprocket,Bergfison's Deep,16.00,Ghostly Soul Adamant,113.00,414.70,377.00,46861.1000,42601.0000,103776.03600000,08/17/2017 @ 12:00:00 AM
-4023,"Knightseraph, Lance",The Fortress of Gama,3.00,Falserainbow Lead,308.00,872.99,70.18,268880.9200,21615.4400,299211.25080000,08/17/2017 @ 12:00:00 AM
-28811,"The Evil, Snowflame",Bifar's Deep,12.21,Unknown Fatelightning Steel Of The Glacier,342.00,145.08,159.59,49617.3600,54579.7800,116919.61079400,08/17/2017 @ 12:00:00 AM
-28800,Springcoil,Barad Kesa,5.61,Undeads' Mind Orichalcum Of The Twilight,257.00,1169.00,364.69,300433.0000,93725.3300,416270.61231300,08/17/2017 @ 12:00:00 AM
-3181,"Lord of Plague, Alas",Cawold Castle,35.00,Emerald Orichalcum,276.00,1957.00,118.01,540132.0000,32570.7600,773148.72600000,08/17/2017 @ 12:00:00 AM
-13135,Spikecrank,The Hunter and Rose,39.60,Warlocks' Timerot Mithril,188.00,725.00,176.95,136300.0000,33266.6000,236714.97360000,08/17/2017 @ 12:00:00 AM
-26491,Metalbrood,Gili's Delve,35.89,Swordbronze,259.00,403.29,366.63,104452.1100,94957.1700,270977.27059200,08/17/2017 @ 12:00:00 AM
-25153,"God of War, Ingwenel",Weke Tower,47.19,Ghostly Soul Adamant,313.00,414.70,377.00,129801.1000,118001.0000,364739.91099000,08/17/2017 @ 12:00:00 AM
-12130,"Wolf, Jericho",Love Keep,40.56,Foul Ice Bronze Of Life,43.00,292.82,266.20,12591.2600,11446.6000,33787.61601600,08/17/2017 @ 12:00:00 AM
+1089,"Sielach, God of Fate",Palace Farthing,13.00,Ensorceled Sandmetal Of Spirits,146.00,4149.00,64.00,605754.0000,9344.0000,695060.74000000,08/17/2017 @ 12:00:00 AM
+36315,"Melcha, Goddess of Thieves",The Fen of the Necromancer,32.21,Grayplatinum,329.00,2548.00,115.43,838292.0000,37976.4700,1158514.54418700,08/17/2007 @ 12:00:00 AM
+12594,"Law, Lionwatcher",Noble's Village,5.43,God-touched Greengem Platinum,271.00,206.95,206.95,56083.4500,56083.4500,118257.56267000,08/17/2007 @ 12:00:00 AM
+34624,"Prusu, God of Love",The Bastion of the Vampire Duke,45.86,Grayplatinum,81.00,2548.00,115.43,206388.0000,9349.8300,314675.19883800,08/17/2007 @ 12:00:00 AM
+10634,"Lance, Knightseraph",The Drunken Thief,18.41,Phantasmal Smokezephyr Mercury Of Men,311.00,211.20,192.00,65683.2000,59712.0000,148480.45632000,08/17/2007 @ 12:00:00 AM
+19196,"Seraphim, Tsunami",The Bastion of Barbos,25.41,Unspeakable Rotsoul Mithril Of Souls,160.00,370.26,336.60,59241.6000,53856.0000,141835.70016000,08/17/2007 @ 12:00:00 AM
+30088,Emberspawn,The Greedy Wench,13.31,Heavenly Dreamsilver Of The Night,262.00,719.00,314.60,188378.0000,82425.2000,306847.10592000,08/17/2007 @ 12:00:00 AM
+351,"Uriel, God of Fate",The Bastion of the Lich Tyrant,4.87,Succubi's Evil Mindzephyr Adamant Of The Desert,341.00,555.09,39.00,189285.6900,13299.0000,212450.56440300,08/17/2007 @ 12:00:00 AM
+29569,"Tiger, Mistmidnight",The Nulukkhath Spires,28.99,Heavenly Dreamsilver Of The Night,288.00,719.00,314.60,207072.0000,90604.8000,383973.30432000,08/17/2007 @ 12:00:00 AM
+7779,"Snarepiston, The Mechanical",Gawold Castle,10.29,Trolls' Mist Poisonplatinum Of The Twilight,127.00,329.00,400.51,41783.0000,50864.7700,102181.22553300,08/17/2007 @ 12:00:00 AM
+17811,Springsprocket,Bergfison's Deep,16.00,Ghostly Soul Adamant,113.00,414.70,377.00,46861.1000,42601.0000,103776.03600000,08/17/2007 @ 12:00:00 AM
+4023,"Lance, Knightseraph",The Fortress of Gama,3.00,Falserainbow Lead,308.00,872.99,70.18,268880.9200,21615.4400,299211.25080000,08/17/2007 @ 12:00:00 AM
+28811,"Snowflame, The Evil",Bifar's Deep,12.21,Unknown Fatelightning Steel Of The Glacier,342.00,145.08,159.59,49617.3600,54579.7800,116919.61079400,08/17/2007 @ 12:00:00 AM
+28800,Springcoil,Barad Kesa,5.61,Undeads' Mind Orichalcum Of The Twilight,257.00,1169.00,364.69,300433.0000,93725.3300,416270.61231300,08/17/2007 @ 12:00:00 AM
+3181,"Alas, Lord of Plague",Cawold Castle,35.00,Emerald Orichalcum,276.00,1957.00,118.01,540132.0000,32570.7600,773148.72600000,08/17/2007 @ 12:00:00 AM
+13135,Spikecrank,The Hunter and Rose,39.60,Warlocks' Timerot Mithril,188.00,725.00,176.95,136300.0000,33266.6000,236714.97360000,08/17/2007 @ 12:00:00 AM
+26491,Metalbrood,Gili's Delve,35.89,Swordbronze,259.00,403.29,366.63,104452.1100,94957.1700,270977.27059200,08/17/2007 @ 12:00:00 AM
+25153,"Ingwenel, God of War",Weke Tower,47.19,Ghostly Soul Adamant,313.00,414.70,377.00,129801.1000,118001.0000,364739.91099000,08/17/2007 @ 12:00:00 AM
+12130,"Jericho, Wolf",Love Keep,40.56,Foul Ice Bronze Of Life,43.00,292.82,266.20,12591.2600,11446.6000,33787.61601600,08/17/2007 @ 12:00:00 AM

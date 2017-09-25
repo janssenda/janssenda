@@ -1,14 +1,14 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-23162,"Veil, Bane",Weke Tower,47.19,Forgotten Mithril,33.00,545.71,496.10,18008.4300,16371.3000,50603.52458700,09/06/2016 @ 12:00:00 AM
-11274,"Knightclaw, Sunset",The Fortress of Asmamur,-2.42,Mistgold Of Men,178.00,412.50,375.00,73425.0000,66750.0000,136782.76500000,09/06/2016 @ 12:00:00 AM
-24986,"Lord of Nightmares, Iran",Eved Castle,30.80,Negative Rockglitter Mercury Of Trolls,235.00,235.59,214.17,55363.6500,50329.9500,138247.22880000,09/06/2016 @ 12:00:00 AM
-22566,"The Grasping, Beamsprocket",The Tower of Sabiesu the Awesome,10.00,Fleshshock Mercury,97.00,-31.02,-28.20,-3008.9400,-2735.4000,-6318.77400000,09/06/2016 @ 12:00:00 AM
-33486,Deathbrood,The Archer and Scroll,60.12,Undeads' Mind Orichalcum Of The Twilight,193.00,1169.00,364.69,225617.0000,70385.1700,473958.67460400,09/06/2016 @ 12:00:00 AM
-20265,"Bladewitch, Zeal",Fellfen Keep,38.00,Unknowable Mindsilver,206.00,174.90,174.90,36029.4000,36029.4000,99441.14400000,09/06/2016 @ 12:00:00 AM
-31171,Flameshiver,The Demon and Toad,-1.21,Pearl Mirrorice Steel Of Changelings,314.00,365.42,365.42,114741.8800,114741.8800,226707.00650400,09/06/2016 @ 12:00:00 AM
-19870,Springsprocket,Fellfen Keep,38.00,Unknowable Mindsilver,330.00,174.90,174.90,57717.0000,57717.0000,159298.92000000,09/06/2016 @ 12:00:00 AM
-31790,"God of Fate, Uriel",Weke Tower,47.19,Fairies' Supreme Mistsmoke Lead Of The Future,174.00,499.73,549.70,86953.0200,95647.8000,268770.14695800,09/06/2016 @ 12:00:00 AM
-6355,"Seeker, Fate",The Chuallanto Jungle,10.00,Golems' Stonesapphire Gold Of The Glacier,204.00,589.00,160.00,120156.0000,32640.0000,168075.60000000,09/06/2016 @ 12:00:00 AM
-4505,"Lonedrake, Clash",Bergfison's Deep,16.00,Grayplatinum,137.00,2548.00,86.73,349076.0000,11882.0100,418711.29160000,09/06/2016 @ 12:00:00 AM
-14840,"Knightclaw, Sunset",The Fortress of Akkun the Grim,27.03,Fleshshock Mercury,305.00,-31.02,-28.20,-9461.1000,-8601.0000,-22944.28563000,09/06/2016 @ 12:00:00 AM
-24258,"Angelchild, Harmony",The Lewd King,45.98,Incubi's Glittering Tin Of The Future,352.00,192.96,212.26,67921.9200,74715.5200,208222.13491200,09/06/2016 @ 12:00:00 AM
+23162,"Veil, Bane",Weke Tower,47.19,Forgotten Mithril,33.00,545.71,496.10,18008.4300,16371.3000,50603.52458700,09/06/1946 @ 12:00:00 AM
+11274,"Knightclaw, Sunset",The Fortress of Asmamur,-2.42,Mistgold Of Men,178.00,412.50,375.00,73425.0000,66750.0000,136782.76500000,09/06/1946 @ 12:00:00 AM
+24986,"Lord of Nightmares, Iran",Eved Castle,30.80,Negative Rockglitter Mercury Of Trolls,235.00,235.59,214.17,55363.6500,50329.9500,138247.22880000,09/06/1946 @ 12:00:00 AM
+22566,"The Grasping, Beamsprocket",The Tower of Sabiesu the Awesome,10.00,Fleshshock Mercury,97.00,-31.02,-28.20,-3008.9400,-2735.4000,-6318.77400000,09/06/1946 @ 12:00:00 AM
+33486,Deathbrood,The Archer and Scroll,60.12,Undeads' Mind Orichalcum Of The Twilight,193.00,1169.00,364.69,225617.0000,70385.1700,473958.67460400,09/06/1946 @ 12:00:00 AM
+20265,"Bladewitch, Zeal",Fellfen Keep,38.00,Unknowable Mindsilver,206.00,174.90,174.90,36029.4000,36029.4000,99441.14400000,09/06/1946 @ 12:00:00 AM
+31171,Flameshiver,The Demon and Toad,-1.21,Pearl Mirrorice Steel Of Changelings,314.00,365.42,365.42,114741.8800,114741.8800,226707.00650400,09/06/1946 @ 12:00:00 AM
+19870,Springsprocket,Fellfen Keep,38.00,Unknowable Mindsilver,330.00,174.90,174.90,57717.0000,57717.0000,159298.92000000,09/06/1946 @ 12:00:00 AM
+31790,"God of Fate, Uriel",Weke Tower,47.19,Fairies' Supreme Mistsmoke Lead Of The Future,174.00,499.73,549.70,86953.0200,95647.8000,268770.14695800,09/06/1946 @ 12:00:00 AM
+6355,"Seeker, Fate",The Chuallanto Jungle,10.00,Golems' Stonesapphire Gold Of The Glacier,204.00,589.00,160.00,120156.0000,32640.0000,168075.60000000,09/06/1946 @ 12:00:00 AM
+4505,"Lonedrake, Clash",Bergfison's Deep,16.00,Grayplatinum,137.00,2548.00,86.73,349076.0000,11882.0100,418711.29160000,09/06/1946 @ 12:00:00 AM
+14840,"Knightclaw, Sunset",The Fortress of Akkun the Grim,27.03,Fleshshock Mercury,305.00,-31.02,-28.20,-9461.1000,-8601.0000,-22944.28563000,09/06/1986 @ 12:00:00 AM
+24258,"Angelchild, Harmony",The Lewd King,45.98,Incubi's Glittering Tin Of The Future,352.00,192.96,212.26,67921.9200,74715.5200,208222.13491200,09/06/1946 @ 12:00:00 AM

@@ -1,14 +1,14 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-36311,"Godseeker, Cult",The Fen of the Necromancer,32.21,Grayplatinum,52.00,2548.00,115.43,132496.0000,6002.3600,183108.68175600,07/21/2018 @ 12:00:00 AM
-1475,"Runetomb, Song",The Secret Shrine of the Gargoyle Count,19.77,Negative Mercury,214.00,4115.00,68.00,880610.0000,14552.0000,1072135.52740000,07/21/2018 @ 12:00:00 AM
-21838,Metalbrood,Reyny Keep,-3.35,Starsmoke Bronze Of Life,182.00,-438.00,420.81,-79716.0000,76587.4200,-3023.77257000,07/21/2018 @ 12:00:00 AM
-358,"Ivycaster, Fate",Gili's Delve,35.89,Shadow Metal,367.00,1606.00,298.00,589402.0000,109366.0000,949555.83520000,07/21/2018 @ 12:00:00 AM
-7358,"Goddess of Law, Eumyan",Barad Kesa,5.10,Sapphire Mindlead,215.00,-44.77,-40.70,-9625.5500,-8750.5000,-19313.22855000,07/21/2018 @ 12:00:00 AM
-17412,"Dire, Wind",Gena's Hold,5.85,Grayplatinum,342.00,2548.00,104.94,871416.0000,35889.4800,960382.85058000,07/21/2018 @ 12:00:00 AM
-18807,Bronzespike,Weke Tower,47.19,Toxic Mistlead Of The Past,375.00,396.06,396.06,148522.5000,148522.5000,437220.53550000,07/21/2018 @ 12:00:00 AM
-7878,"The Skeletal, Spiketerror",The Grey Plains,39.19,Phantasmal Smokezephyr Mercury Of Men,176.00,211.20,192.00,37171.2000,33792.0000,98773.67808000,07/21/2018 @ 12:00:00 AM
-29948,"Claw, Slayer",The Tower of Sabiesu the Awesome,10.00,Heavenly Dreamsilver Of The Night,314.00,719.00,314.60,225766.0000,98784.4000,357005.44000000,07/21/2018 @ 12:00:00 AM
-6950,"Dawn, Tarot",The Bastion of the Lich Tyrant,6.49,Swordbronze,326.00,333.30,303.00,108655.8000,98778.0000,220896.25362000,07/21/2018 @ 12:00:00 AM
-25155,"God of the Lost, Lionare",Weke Tower,47.19,Phantasmal Smokezephyr Mercury Of Men,231.00,211.20,192.00,48787.2000,44352.0000,137091.58848000,07/21/2018 @ 12:00:00 AM
-37117,"The Grasping, Nettool",The Greedy Wench,13.31,Stone Soulsteel Of The Skies,383.00,453.31,453.31,173617.7300,173617.7300,393452.49972600,07/21/2018 @ 12:00:00 AM
-26556,"God of Luck, Ariel",Reheath Stronghold,39.60,Muck Orichalcum Of Ogres,96.00,143.37,130.34,13763.5200,12512.6400,36681.51936000,07/21/2018 @ 12:00:00 AM
+36311,"Cult, Godseeker",The Fen of the Necromancer,32.21,Grayplatinum,52.00,2548.00,115.43,132496.0000,6002.3600,183108.68175600,07/21/2008 @ 12:00:00 AM
+1475,"Song, Runetomb",The Secret Shrine of the Gargoyle Count,19.77,Negative Mercury,214.00,4115.00,68.00,880610.0000,14552.0000,1072135.52740000,07/21/2008 @ 12:00:00 AM
+21838,Metalbrood,Reyny Keep,-3.35,Starsmoke Bronze Of Life,182.00,-438.00,420.81,-79716.0000,76587.4200,-3023.77257000,07/21/2008 @ 12:00:00 AM
+358,"Fate, Ivycaster",Gili's Delve,35.89,Shadow Metal,367.00,1606.00,298.00,589402.0000,109366.0000,949555.83520000,07/21/2008 @ 12:00:00 AM
+7358,"Eumyan, Goddess of Law",Barad Kesa,5.10,Sapphire Mindlead,215.00,-44.77,-40.70,-9625.5500,-8750.5000,-19313.22855000,07/21/2008 @ 12:00:00 AM
+17412,"Wind, Dire",Gena's Hold,5.85,Grayplatinum,342.00,2548.00,104.94,871416.0000,35889.4800,960382.85058000,07/21/2008 @ 12:00:00 AM
+18807,Bronzespike,Weke Tower,47.19,Toxic Mistlead Of The Past,375.00,396.06,396.06,148522.5000,148522.5000,437220.53550000,07/21/2008 @ 12:00:00 AM
+7878,"Spiketerror, The Skeletal",The Grey Plains,39.19,Phantasmal Smokezephyr Mercury Of Men,176.00,211.20,192.00,37171.2000,33792.0000,98773.67808000,07/21/2008 @ 12:00:00 AM
+29948,"Slayer, Claw",The Tower of Sabiesu the Awesome,10.00,Heavenly Dreamsilver Of The Night,314.00,719.00,314.60,225766.0000,98784.4000,357005.44000000,07/21/2008 @ 12:00:00 AM
+6950,"Tarot, Dawn",The Bastion of the Lich Tyrant,6.49,Swordbronze,326.00,333.30,303.00,108655.8000,98778.0000,220896.25362000,07/21/2008 @ 12:00:00 AM
+25155,"Lionare, God of the Lost",Weke Tower,47.19,Phantasmal Smokezephyr Mercury Of Men,231.00,211.20,192.00,48787.2000,44352.0000,137091.58848000,07/21/2008 @ 12:00:00 AM
+37117,"Nettool, The Grasping",The Greedy Wench,13.31,Stone Soulsteel Of The Skies,383.00,453.31,453.31,173617.7300,173617.7300,393452.49972600,07/21/2008 @ 12:00:00 AM
+26556,"Ariel, God of Luck",Reheath Stronghold,39.60,Muck Orichalcum Of Ogres,96.00,143.37,130.34,13763.5200,12512.6400,36681.51936000,07/21/2008 @ 12:00:00 AM

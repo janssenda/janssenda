@@ -1,44 +1,44 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-12547,"Rougehate, Rune",Gili's Delve,35.89,Spirits' Living Wordhammer Tin Of The Trees,223.00,3897.55,128.70,869153.6500,28700.1000,1220093.46087500,12/31/2016 @ 12:00:00 AM
-12522,"Dawn, Tarot",Gili's Delve,35.89,White Platinum,193.00,83.49,91.84,16113.5700,17725.1200,45983.39584100,12/31/2016 @ 12:00:00 AM
-25782,Chainhorror,The Pirate's Pipe,16.94,Starsmoke Bronze Of Life,198.00,-438.00,420.81,-86724.0000,83320.3800,-3980.19322800,12/31/2016 @ 12:00:00 AM
-10000,"Runetomb, Song",Grove Farthing,25.00,Emerald Orichalcum,265.00,1957.00,118.01,518605.0000,31272.6500,687347.06250000,12/31/2016 @ 12:00:00 AM
-12732,"Jester, Seraph",Gili's Delve,35.89,Vampires' Fang Emeraldsilver,204.00,2033.69,80.84,414872.7600,16491.3600,586180.70266800,12/31/2016 @ 12:00:00 AM
-10068,"Anchor, Rose",Archring Borough,29.70,Timeiron,331.00,3255.00,-16.25,1077405.0000,-5378.7500,1390418.04625000,12/31/2016 @ 12:00:00 AM
-35540,"Felldrake, Magus",The Fen of the Necromancer,32.21,Magicians' Legendary Poison Metal,213.00,-52.81,-48.01,-11248.5300,-10226.1300,-28391.64798600,12/31/2016 @ 12:00:00 AM
-36867,"Mistseeker, Grave",The Fen of the Necromancer,32.21,Vampires' Hammer Emeraldmetal,230.00,93.70,85.18,21551.0000,19591.4000,54394.36704000,12/31/2016 @ 12:00:00 AM
-11615,"The Evil, Snowflame",The Broken Shield,12.00,Primordial Plague Mercury Of Legend,122.00,1150.79,67.00,140396.3800,8174.0000,166398.82560000,12/31/2016 @ 12:00:00 AM
-33059,Chainnail,Pewold Keep,29.00,Undeads' Mind Orichalcum Of The Twilight,142.00,1169.00,364.69,165998.0000,51785.9800,280941.33420000,12/31/2016 @ 12:00:00 AM
-22703,Beamtrap,Pewold Keep,29.00,Primordial Mud Orichalcum,145.00,1113.00,20.57,161385.0000,2982.6500,212034.26850000,12/31/2016 @ 12:00:00 AM
-32090,"Dawn, Tarot",Noble's Village,6.57,Warlocks' Timerot Mithril,204.00,194.65,194.65,39708.6000,39708.6000,84634.91004000,12/31/2016 @ 12:00:00 AM
-20093,"God of Resurrection, Gadriel",Eved Castle,30.80,Unknowable Mindsilver,143.00,174.90,174.90,25010.7000,25010.7000,65427.99120000,12/31/2016 @ 12:00:00 AM
-22881,"God of Fate, Uriel",Pewold Keep,29.00,Violetdream Iron,147.00,502.13,456.48,73813.1100,67102.5600,181781.21430000,12/31/2016 @ 12:00:00 AM
-22838,"Brand, Lightning",The Nulukkhath Spires,28.99,Fog Lavaplatinum Of Life,185.00,560.35,509.41,103664.7500,94240.8500,255278.43344000,12/31/2016 @ 12:00:00 AM
-10807,"Ivycaster, Fate",Arcanist's Farthing,29.00,Pearl Mirrorice Steel Of Changelings,235.00,2996.00,302.00,704060.0000,70970.0000,999788.70000000,12/31/2016 @ 12:00:00 AM
-136,Ironbrood,Eved Castle,28.00,Incubi's Mirrorfog Iron Of The Ocean,135.00,768.03,421.32,103684.0500,56878.2000,205519.68000000,12/31/2016 @ 12:00:00 AM
-20736,"Lawslayer, Valentine",Mahyrst Keep,31.30,Fairies' Supreme Mistsmoke Lead Of The Future,261.00,499.73,499.73,130429.5300,130429.5300,342507.94578000,12/31/2016 @ 12:00:00 AM
-30280,"Seraphheart, Storm",The Tower of Sabiesu the Awesome,10.00,Incubi's Glittering Tin Of The Future,134.00,192.96,233.49,25856.6400,31287.6600,62858.73000000,12/31/2016 @ 12:00:00 AM
-30326,"The Terrifying, Deathspike",The Tower of Sabiesu the Awesome,10.00,Heavenly Dreamsilver Of The Night,172.00,719.00,314.60,123668.0000,54111.2000,195557.12000000,12/31/2016 @ 12:00:00 AM
-16099,"Amberslayer, Flora",Khali's Delve,1.18,Incubi's Iron Of The Dawn,98.00,174.99,174.99,17149.0200,17149.0200,34702.75687200,12/31/2016 @ 12:00:00 AM
-28083,"The Unspeakable, Gravebone",Barad Kesa,5.61,Vampires' Fang Emeraldsilver,243.00,2033.69,80.84,494186.6700,19644.1200,542656.69731900,12/31/2016 @ 12:00:00 AM
-16170,"Roguemist, Rouge",The Fortress of Akkun the Grim,27.03,Swordbronze,150.00,333.30,303.00,49995.0000,45450.0000,121243.78350000,12/31/2016 @ 12:00:00 AM
-8702,"Bladewitch, Zeal",The Lost Crypts of Sorrows,2.20,Unknown Fatelightning Steel Of The Glacier,217.00,119.90,131.89,26018.3000,28620.1300,55840.47546000,12/31/2016 @ 12:00:00 AM
-29410,"God of Animals, Byzou",The Citadel of Alammius,32.67,Hidden Shadowice Lead,233.00,-16.50,-16.50,-3844.5000,-3844.5000,-10200.99630000,12/31/2016 @ 12:00:00 AM
-527,Springsprocket,The Flying Witch,5.16,Magicians' Legendary Poison Metal,139.00,3615.00,-48.01,502485.0000,-6673.3900,521395.48907600,12/31/2016 @ 12:00:00 AM
-7546,"Lord of Animals, Suriel",The Bastion of Sthasu the Gruesome,40.00,Planar Mudtin Of Trolls,201.00,3529.02,174.00,709333.0200,34974.0000,1042029.82800000,12/31/2016 @ 12:00:00 AM
-30616,"Lawslayer, Valentine",The Tower of Sabiesu the Awesome,10.00,Witchs' Forbidden Rockrainbow Bronze,206.00,245.63,245.63,50599.7800,50599.7800,111319.51600000,12/31/2016 @ 12:00:00 AM
-7786,"Tombreaper, Rouge",The Pirate's Pipe,15.40,Vampires' Hammer Emeraldmetal,331.00,77.44,70.40,25632.6400,23302.4000,56471.03616000,12/31/2016 @ 12:00:00 AM
-15260,Chainnail,The Fortress of Akkun the Grim,27.03,Primordial Plague Mercury Of Legend,159.00,73.70,67.00,11718.3000,10653.0000,28418.26239000,12/31/2016 @ 12:00:00 AM
-30887,"Lord of the Sea, Penur",The Fortress of Akkun the Grim,27.03,Ensorceled Sandmetal Of Spirits,245.00,85.18,77.44,20869.1000,18972.8000,50611.16557000,12/31/2016 @ 12:00:00 AM
-29893,"God of Animals, Byzou",The Greedy Wench,13.31,Swordbronze,201.00,403.29,366.63,81061.2900,73692.6300,175351.66675200,12/31/2016 @ 12:00:00 AM
-27346,"Mistseeker, Grave",The Bastion of Gothmog of Udun,-2.42,Vampires' Hammer Emeraldmetal,282.00,93.70,85.18,26423.4000,24020.7600,49223.41132800,12/31/2016 @ 12:00:00 AM
-6809,"God of Fate, Uriel",Khali's Delve,1.18,Dragons' Poison Glitterflesh Steel Of The North,306.00,742.00,75.00,227052.0000,22950.0000,252952.02360000,12/31/2016 @ 12:00:00 AM
-6957,"God of the Lost, Lionare",Gawold Castle,10.29,Vampires' Hammer Emeraldmetal,289.00,77.44,70.40,22380.1600,20345.6000,47122.24070400,12/31/2016 @ 12:00:00 AM
-26313,"The Constructed, Snaretool",The Black Barrow of Bery,23.96,Warlocks' Timerot Mithril,298.00,194.65,176.95,58005.7000,52731.1000,137269.33728000,12/31/2016 @ 12:00:00 AM
-15690,"God of Fate, Sielach",The Tower of Aramum,20.00,Imperial Fate Steel,266.00,419.10,381.00,111480.6000,101346.0000,255391.92000000,12/31/2016 @ 12:00:00 AM
-13245,"The Freezer, Burnbrood",Gifeld Castle,30.01,Poison Adamant,179.00,110.96,100.87,19861.8400,18055.7300,49296.63275700,12/31/2016 @ 12:00:00 AM
-27854,"The Evil, Snowflame",The Bastion of Gothmog of Udun,-2.42,Sprites' Transcendent Mud Lead Of The South,116.00,3338.65,267.08,387283.4000,30981.2800,408142.67474400,12/31/2016 @ 12:00:00 AM
-27985,"Roguemist, Rouge",Barad Kesa,5.61,Undeads' Mind Orichalcum Of The Twilight,110.00,1169.00,364.69,128590.0000,40115.9000,178170.30099000,12/31/2016 @ 12:00:00 AM
-15990,Spikecrank,The Fortress of Asmamur,-2.66,Shadowhell Mithril,92.00,462.21,420.19,42523.3200,38657.4800,79021.39072000,12/31/2016 @ 12:00:00 AM
-37416,"Reaper, Dagger",The Greedy Wench,13.31,Ghouls' Imperial Soulzephyr Mithril Of The Seas,235.00,318.23,318.23,74784.0500,74784.0500,169475.61411000,12/31/2016 @ 12:00:00 AM
-4885,"Lady of Vengeance, Zepul",The Dancing Minstrel,36.02,God-touched Greengem Platinum,164.00,2181.36,188.14,357743.0400,30854.9600,528570.99960000,12/31/2016 @ 12:00:00 AM
+12547,"Rougehate, Rune",Gili's Delve,35.89,Spirits' Living Wordhammer Tin Of The Trees,223.00,3897.55,128.70,869153.6500,28700.1000,1220093.46087500,12/31/1946 @ 12:00:00 AM
+12522,"Dawn, Tarot",Gili's Delve,35.89,White Platinum,193.00,83.49,91.84,16113.5700,17725.1200,45983.39584100,12/31/1946 @ 12:00:00 AM
+25782,Chainhorror,The Pirate's Pipe,16.94,Starsmoke Bronze Of Life,198.00,-438.00,420.81,-86724.0000,83320.3800,-3980.19322800,12/31/1946 @ 12:00:00 AM
+10000,"Runetomb, Song",Grove Farthing,25.00,Emerald Orichalcum,265.00,1957.00,118.01,518605.0000,31272.6500,687347.06250000,12/31/1946 @ 12:00:00 AM
+12732,"Jester, Seraph",Gili's Delve,35.89,Vampires' Fang Emeraldsilver,204.00,2033.69,80.84,414872.7600,16491.3600,586180.70266800,12/31/1946 @ 12:00:00 AM
+10068,"Anchor, Rose",Archring Borough,29.70,Timeiron,331.00,3255.00,-16.25,1077405.0000,-5378.7500,1390418.04625000,12/31/1946 @ 12:00:00 AM
+35540,"Felldrake, Magus",The Fen of the Necromancer,32.21,Magicians' Legendary Poison Metal,213.00,-52.81,-48.01,-11248.5300,-10226.1300,-28391.64798600,12/31/1946 @ 12:00:00 AM
+36867,"Mistseeker, Grave",The Fen of the Necromancer,32.21,Vampires' Hammer Emeraldmetal,230.00,93.70,85.18,21551.0000,19591.4000,54394.36704000,12/31/1976 @ 12:00:00 AM
+11615,"The Evil, Snowflame",The Broken Shield,12.00,Primordial Plague Mercury Of Legend,122.00,1150.79,67.00,140396.3800,8174.0000,166398.82560000,12/31/1946 @ 12:00:00 AM
+33059,Chainnail,Pewold Keep,29.00,Undeads' Mind Orichalcum Of The Twilight,142.00,1169.00,364.69,165998.0000,51785.9800,280941.33420000,12/31/1946 @ 12:00:00 AM
+22703,Beamtrap,Pewold Keep,29.00,Primordial Mud Orichalcum,145.00,1113.00,20.57,161385.0000,2982.6500,212034.26850000,12/31/1946 @ 12:00:00 AM
+32090,"Dawn, Tarot",Noble's Village,6.57,Warlocks' Timerot Mithril,204.00,194.65,194.65,39708.6000,39708.6000,84634.91004000,12/31/1946 @ 12:00:00 AM
+20093,"God of Resurrection, Gadriel",Eved Castle,30.80,Unknowable Mindsilver,143.00,174.90,174.90,25010.7000,25010.7000,65427.99120000,12/31/1946 @ 12:00:00 AM
+22881,"God of Fate, Uriel",Pewold Keep,29.00,Violetdream Iron,147.00,502.13,456.48,73813.1100,67102.5600,181781.21430000,12/31/1946 @ 12:00:00 AM
+22838,"Brand, Lightning",The Nulukkhath Spires,28.99,Fog Lavaplatinum Of Life,185.00,560.35,509.41,103664.7500,94240.8500,255278.43344000,12/31/1986 @ 12:00:00 AM
+10807,"Ivycaster, Fate",Arcanist's Farthing,29.00,Pearl Mirrorice Steel Of Changelings,235.00,2996.00,302.00,704060.0000,70970.0000,999788.70000000,12/31/1946 @ 12:00:00 AM
+136,Ironbrood,Eved Castle,28.00,Incubi's Mirrorfog Iron Of The Ocean,135.00,768.03,421.32,103684.0500,56878.2000,205519.68000000,12/31/1946 @ 12:00:00 AM
+20736,"Lawslayer, Valentine",Mahyrst Keep,31.30,Fairies' Supreme Mistsmoke Lead Of The Future,261.00,499.73,499.73,130429.5300,130429.5300,342507.94578000,12/31/1946 @ 12:00:00 AM
+30280,"Seraphheart, Storm",The Tower of Sabiesu the Awesome,10.00,Incubi's Glittering Tin Of The Future,134.00,192.96,233.49,25856.6400,31287.6600,62858.73000000,12/31/1946 @ 12:00:00 AM
+30326,"The Terrifying, Deathspike",The Tower of Sabiesu the Awesome,10.00,Heavenly Dreamsilver Of The Night,172.00,719.00,314.60,123668.0000,54111.2000,195557.12000000,12/31/1946 @ 12:00:00 AM
+16099,"Amberslayer, Flora",Khali's Delve,1.18,Incubi's Iron Of The Dawn,98.00,174.99,174.99,17149.0200,17149.0200,34702.75687200,12/31/1946 @ 12:00:00 AM
+28083,"The Unspeakable, Gravebone",Barad Kesa,5.61,Vampires' Fang Emeraldsilver,243.00,2033.69,80.84,494186.6700,19644.1200,542656.69731900,12/31/1946 @ 12:00:00 AM
+16170,"Roguemist, Rouge",The Fortress of Akkun the Grim,27.03,Swordbronze,150.00,333.30,303.00,49995.0000,45450.0000,121243.78350000,12/31/1946 @ 12:00:00 AM
+8702,"Bladewitch, Zeal",The Lost Crypts of Sorrows,2.20,Unknown Fatelightning Steel Of The Glacier,217.00,119.90,131.89,26018.3000,28620.1300,55840.47546000,12/31/1946 @ 12:00:00 AM
+29410,"God of Animals, Byzou",The Citadel of Alammius,32.67,Hidden Shadowice Lead,233.00,-16.50,-16.50,-3844.5000,-3844.5000,-10200.99630000,12/31/1946 @ 12:00:00 AM
+527,Springsprocket,The Flying Witch,5.16,Magicians' Legendary Poison Metal,139.00,3615.00,-48.01,502485.0000,-6673.3900,521395.48907600,12/31/1946 @ 12:00:00 AM
+7546,"Lord of Animals, Suriel",The Bastion of Sthasu the Gruesome,40.00,Planar Mudtin Of Trolls,201.00,3529.02,174.00,709333.0200,34974.0000,1042029.82800000,12/31/1946 @ 12:00:00 AM
+30616,"Lawslayer, Valentine",The Tower of Sabiesu the Awesome,10.00,Witchs' Forbidden Rockrainbow Bronze,206.00,245.63,245.63,50599.7800,50599.7800,111319.51600000,12/31/1946 @ 12:00:00 AM
+7786,"Tombreaper, Rouge",The Pirate's Pipe,15.40,Vampires' Hammer Emeraldmetal,331.00,77.44,70.40,25632.6400,23302.4000,56471.03616000,12/31/1946 @ 12:00:00 AM
+15260,Chainnail,The Fortress of Akkun the Grim,27.03,Primordial Plague Mercury Of Legend,159.00,73.70,67.00,11718.3000,10653.0000,28418.26239000,12/31/1946 @ 12:00:00 AM
+30887,"Lord of the Sea, Penur",The Fortress of Akkun the Grim,27.03,Ensorceled Sandmetal Of Spirits,245.00,85.18,77.44,20869.1000,18972.8000,50611.16557000,12/31/1946 @ 12:00:00 AM
+29893,"God of Animals, Byzou",The Greedy Wench,13.31,Swordbronze,201.00,403.29,366.63,81061.2900,73692.6300,175351.66675200,12/31/1946 @ 12:00:00 AM
+27346,"Mistseeker, Grave",The Bastion of Gothmog of Udun,-2.42,Vampires' Hammer Emeraldmetal,282.00,93.70,85.18,26423.4000,24020.7600,49223.41132800,12/31/1946 @ 12:00:00 AM
+6809,"God of Fate, Uriel",Khali's Delve,1.18,Dragons' Poison Glitterflesh Steel Of The North,306.00,742.00,75.00,227052.0000,22950.0000,252952.02360000,12/31/1946 @ 12:00:00 AM
+6957,"God of the Lost, Lionare",Gawold Castle,10.29,Vampires' Hammer Emeraldmetal,289.00,77.44,70.40,22380.1600,20345.6000,47122.24070400,12/31/1946 @ 12:00:00 AM
+26313,"The Constructed, Snaretool",The Black Barrow of Bery,23.96,Warlocks' Timerot Mithril,298.00,194.65,176.95,58005.7000,52731.1000,137269.33728000,12/31/1946 @ 12:00:00 AM
+15690,"God of Fate, Sielach",The Tower of Aramum,20.00,Imperial Fate Steel,266.00,419.10,381.00,111480.6000,101346.0000,255391.92000000,12/31/1946 @ 12:00:00 AM
+13245,"The Freezer, Burnbrood",Gifeld Castle,30.01,Poison Adamant,179.00,110.96,100.87,19861.8400,18055.7300,49296.63275700,12/31/1946 @ 12:00:00 AM
+27854,"The Evil, Snowflame",The Bastion of Gothmog of Udun,-2.42,Sprites' Transcendent Mud Lead Of The South,116.00,3338.65,267.08,387283.4000,30981.2800,408142.67474400,12/31/1946 @ 12:00:00 AM
+27985,"Roguemist, Rouge",Barad Kesa,5.61,Undeads' Mind Orichalcum Of The Twilight,110.00,1169.00,364.69,128590.0000,40115.9000,178170.30099000,12/31/1946 @ 12:00:00 AM
+15990,Spikecrank,The Fortress of Asmamur,-2.66,Shadowhell Mithril,92.00,462.21,420.19,42523.3200,38657.4800,79021.39072000,12/31/1946 @ 12:00:00 AM
+37416,"Reaper, Dagger",The Greedy Wench,13.31,Ghouls' Imperial Soulzephyr Mithril Of The Seas,235.00,318.23,318.23,74784.0500,74784.0500,169475.61411000,12/31/1946 @ 12:00:00 AM
+4885,"Lady of Vengeance, Zepul",The Dancing Minstrel,36.02,God-touched Greengem Platinum,164.00,2181.36,188.14,357743.0400,30854.9600,528570.99960000,12/31/1946 @ 12:00:00 AM

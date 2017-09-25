@@ -1,15 +1,15 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-25662,"Tsunami, Seraphim",Kada's Deep,8.42,Planar Mudtin Of Trolls,345.00,191.40,174.00,66033.0000,60030.0000,136677.50460000,07/13/2018 @ 12:00:00 AM
-13952,"The Blade, Scarefear",The Secret Catacombs of Ulfang the Black,28.82,Phantasmal Smokezephyr Mercury Of Men,143.00,211.20,192.00,30201.6000,27456.0000,74274.52032000,07/13/2018 @ 12:00:00 AM
-1354,"Roguemist, Rouge",Archring Borough,27.00,Fog Lavaplatinum Of Life,238.00,2232.00,463.10,531216.0000,110217.8000,814620.92600000,07/13/2018 @ 12:00:00 AM
-10192,"Godseeker, Cult",The Lost Crypts of Sorrows,2.20,Angels' Adamant,329.00,51.48,46.80,16936.9200,15397.2000,33045.47064000,07/13/2018 @ 12:00:00 AM
-36955,"Squallmourner, Storm",The Fen of the Necromancer,32.21,Vampires' Hammer Emeraldmetal,241.00,93.70,85.18,22581.7000,20528.3800,56995.83676800,07/13/2018 @ 12:00:00 AM
-23975,"Lord of the Sun, Maglioneth",The Scoundrel and Flask,45.25,Djinni's Mind Fogiron,239.00,57.23,57.23,13677.9700,13677.9700,39734.50285000,07/13/2018 @ 12:00:00 AM
-31016,"God of Death, Avriel",Mahyrst Keep,31.30,Witchs' Forbidden Rockrainbow Bronze,111.00,245.63,245.63,27264.9300,27264.9300,71597.70618000,07/13/2018 @ 12:00:00 AM
-8086,"Lord of Death, Addon",The Grey Plains,39.19,Starsmoke Bronze Of Life,194.00,-438.00,420.81,-84972.0000,81637.1400,-4641.79163400,07/13/2018 @ 12:00:00 AM
-29063,"God of Resurrection, Gadriel",Bifar's Deep,12.21,Hidden Shadowice Lead,114.00,-16.50,-16.50,-1881.0000,-1881.0000,-4221.34020000,07/13/2018 @ 12:00:00 AM
-29291,Bronzespawn,The Citadel of Alammius,32.67,Stone Soulsteel Of The Skies,54.00,453.31,412.10,24478.7400,22253.4000,61999.53013800,07/13/2018 @ 12:00:00 AM
-28003,"Jester, Seraph",Bifar's Deep,12.21,Undeads' Mind Orichalcum Of The Twilight,115.00,1169.00,364.69,134435.0000,41939.3500,197909.65813500,07/13/2018 @ 12:00:00 AM
-30405,Springsprocket,The Greedy Wench,13.31,Incubi's Glittering Tin Of The Future,167.00,192.96,233.49,32224.3200,38992.8300,80696.15266500,07/13/2018 @ 12:00:00 AM
-4146,Bronzespike,The Pirate's Pipe,15.40,Trolls' Rubymercury Of The Sunset,275.00,2733.00,443.00,751575.0000,121825.0000,1007903.60000000,07/13/2018 @ 12:00:00 AM
-36041,"The Unspeakable, Gravebone",Bifar's Deep,12.21,Ghouls' Imperial Soulzephyr Mithril Of The Seas,294.00,318.23,318.23,93559.6200,93559.6200,209966.49920400,07/13/2018 @ 12:00:00 AM
+25662,"Seraphim, Tsunami",Kada's Deep,8.42,Planar Mudtin Of Trolls,345.00,191.40,174.00,66033.0000,60030.0000,136677.50460000,07/13/2008 @ 12:00:00 AM
+13952,"Scarefear, The Blade",The Secret Catacombs of Ulfang the Black,28.82,Phantasmal Smokezephyr Mercury Of Men,143.00,211.20,192.00,30201.6000,27456.0000,74274.52032000,07/13/2008 @ 12:00:00 AM
+1354,"Rouge, Roguemist",Archring Borough,27.00,Fog Lavaplatinum Of Life,238.00,2232.00,463.10,531216.0000,110217.8000,814620.92600000,07/13/2008 @ 12:00:00 AM
+10192,"Cult, Godseeker",The Lost Crypts of Sorrows,2.20,Angels' Adamant,329.00,51.48,46.80,16936.9200,15397.2000,33045.47064000,07/13/2008 @ 12:00:00 AM
+36955,"Storm, Squallmourner",The Fen of the Necromancer,32.21,Vampires' Hammer Emeraldmetal,241.00,93.70,85.18,22581.7000,20528.3800,56995.83676800,07/13/2008 @ 12:00:00 AM
+23975,"Maglioneth, Lord of the Sun",The Scoundrel and Flask,45.25,Djinni's Mind Fogiron,239.00,57.23,57.23,13677.9700,13677.9700,39734.50285000,07/13/2008 @ 12:00:00 AM
+31016,"Avriel, God of Death",Mahyrst Keep,31.30,Witchs' Forbidden Rockrainbow Bronze,111.00,245.63,245.63,27264.9300,27264.9300,71597.70618000,07/13/2008 @ 12:00:00 AM
+8086,"Addon, Lord of Death",The Grey Plains,39.19,Starsmoke Bronze Of Life,194.00,-438.00,420.81,-84972.0000,81637.1400,-4641.79163400,07/13/2008 @ 12:00:00 AM
+29063,"Gadriel, God of Resurrection",Bifar's Deep,12.21,Hidden Shadowice Lead,114.00,-16.50,-16.50,-1881.0000,-1881.0000,-4221.34020000,07/13/2008 @ 12:00:00 AM
+29291,Bronzespawn,The Citadel of Alammius,32.67,Stone Soulsteel Of The Skies,54.00,453.31,412.10,24478.7400,22253.4000,61999.53013800,07/13/2008 @ 12:00:00 AM
+28003,"Seraph, Jester",Bifar's Deep,12.21,Undeads' Mind Orichalcum Of The Twilight,115.00,1169.00,364.69,134435.0000,41939.3500,197909.65813500,07/13/2008 @ 12:00:00 AM
+30405,Springsprocket,The Greedy Wench,13.31,Incubi's Glittering Tin Of The Future,167.00,192.96,233.49,32224.3200,38992.8300,80696.15266500,07/13/2008 @ 12:00:00 AM
+4146,Bronzespike,The Pirate's Pipe,15.40,Trolls' Rubymercury Of The Sunset,275.00,2733.00,443.00,751575.0000,121825.0000,1007903.60000000,07/13/2008 @ 12:00:00 AM
+36041,"Gravebone, The Unspeakable",Bifar's Deep,12.21,Ghouls' Imperial Soulzephyr Mithril Of The Seas,294.00,318.23,318.23,93559.6200,93559.6200,209966.49920400,07/13/2008 @ 12:00:00 AM

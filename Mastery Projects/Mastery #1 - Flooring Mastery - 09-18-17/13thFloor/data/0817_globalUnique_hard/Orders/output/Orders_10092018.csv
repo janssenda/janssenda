@@ -1,18 +1,18 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-1054,"Mystery, Lord",The Archer and Blade,15.00,Ensorceled Sandmetal Of Spirits,69.00,4149.00,64.00,286281.0000,4416.0000,334301.55000000,10/09/2018 @ 12:00:00 AM
-35765,"Mystery, Lord",The Fen of the Necromancer,32.21,Lycanthropes' Gold,341.00,449.88,408.98,153409.0800,139462.1800,387205.09284600,10/09/2018 @ 12:00:00 AM
-19235,"Godseeker, Cult",Mahyrst Keep,31.30,Golems' Stonesapphire Gold Of The Glacier,166.00,176.00,160.00,29216.0000,26560.0000,73233.88800000,10/09/2018 @ 12:00:00 AM
-19246,"Knightseraph, Lance",The Bastion of Barbos,25.41,Foul Ice Bronze Of Life,206.00,292.82,266.20,60320.9200,54837.2000,144419.79829200,10/09/2018 @ 12:00:00 AM
-18222,"Reaper, Dagger",Gili's Delve,35.89,Spirits' Living Wordhammer Tin Of The Trees,147.00,141.57,128.70,20810.7900,18918.9000,53988.67574100,10/09/2018 @ 12:00:00 AM
-32594,"Squallmourner, Storm",The Fen of the Necromancer,29.28,Negative Rockglitter Mercury Of Trolls,174.00,235.59,214.17,40992.6600,37265.5800,101172.25267200,10/09/2018 @ 12:00:00 AM
-18288,Spikecrank,The Khazahol Crags,22.75,Unicorns' Fatal Magma Metal Of The Ocean,302.00,25.30,23.00,7640.6000,6946.0000,17905.05150000,10/09/2018 @ 12:00:00 AM
-21924,"Roguemist, Rouge",The Tower of Sabiesu the Awesome,10.00,Fog Lavaplatinum Of Life,254.00,560.35,509.41,142328.9000,129390.1400,298890.94400000,10/09/2018 @ 12:00:00 AM
-17138,"The Cadaverous, Chainblade",Gena's Hold,5.85,Plague Tin,166.00,465.25,422.95,77231.5000,70209.7000,156066.51020000,10/09/2018 @ 12:00:00 AM
-7386,"God of Protection, Finarfin",The Pirate's Pipe,15.40,Swordbronze,238.00,333.30,303.00,79325.4000,72114.0000,174761.06760000,10/09/2018 @ 12:00:00 AM
-461,"God of Resurrection, Gadriel",The Bastion of Sthasu the Gruesome,40.00,Meteoric Dustzephyr Orichalcum,182.00,3549.00,2.00,645918.0000,364.0000,904794.80000000,10/09/2018 @ 12:00:00 AM
-6153,"The Grasping, Nettool",Reheath Stronghold,39.60,Tritons' Time Stoneiron Of Legend,164.00,2235.00,310.54,366540.0000,50928.5600,582786.10976000,10/09/2018 @ 12:00:00 AM
-31877,"The Evil, Burnchill",Noble's Village,6.57,Warlocks' Timerot Mithril,199.00,194.65,194.65,38735.3500,38735.3500,82560.52499000,10/09/2018 @ 12:00:00 AM
-16425,"The Constructed, Snaretool",Khali's Delve,1.18,Incubi's Iron Of The Dawn,347.00,174.99,174.99,60721.5300,60721.5300,122876.08810800,10/09/2018 @ 12:00:00 AM
-5492,Bronzespike,Reheath Stronghold,39.60,Mithril Of Legend,156.00,169.17,186.09,26390.5200,29030.0400,77367.10176000,10/09/2018 @ 12:00:00 AM
-5641,"The Cremator, Blazeflare",The Bastion of the Vampire Duke,34.45,Mithril Of Legend,246.00,169.17,186.09,41615.8200,45778.1400,117501.17922000,10/09/2018 @ 12:00:00 AM
-25009,"Godseeker, Cult",The Forsaken Sepulcher of Sorrows,31.36,Foul Ice Bronze Of Life,110.00,292.82,266.20,32210.2000,29282.0000,80776.15392000,10/09/2018 @ 12:00:00 AM
+1054,"Mystery, Lord",The Archer and Blade,15.00,Ensorceled Sandmetal Of Spirits,69.00,4149.00,64.00,286281.0000,4416.0000,334301.55000000,10/09/1948 @ 12:00:00 AM
+35765,"Mystery, Lord",The Fen of the Necromancer,32.21,Lycanthropes' Gold,341.00,449.88,408.98,153409.0800,139462.1800,387205.09284600,10/09/1948 @ 12:00:00 AM
+19235,"Godseeker, Cult",Mahyrst Keep,31.30,Golems' Stonesapphire Gold Of The Glacier,166.00,176.00,160.00,29216.0000,26560.0000,73233.88800000,10/09/1948 @ 12:00:00 AM
+19246,"Knightseraph, Lance",The Bastion of Barbos,25.41,Foul Ice Bronze Of Life,206.00,292.82,266.20,60320.9200,54837.2000,144419.79829200,10/09/1978 @ 12:00:00 AM
+18222,"Reaper, Dagger",Gili's Delve,35.89,Spirits' Living Wordhammer Tin Of The Trees,147.00,141.57,128.70,20810.7900,18918.9000,53988.67574100,10/09/1948 @ 12:00:00 AM
+32594,"Squallmourner, Storm",The Fen of the Necromancer,29.28,Negative Rockglitter Mercury Of Trolls,174.00,235.59,214.17,40992.6600,37265.5800,101172.25267200,10/09/1948 @ 12:00:00 AM
+18288,Spikecrank,The Khazahol Crags,22.75,Unicorns' Fatal Magma Metal Of The Ocean,302.00,25.30,23.00,7640.6000,6946.0000,17905.05150000,10/09/1948 @ 12:00:00 AM
+21924,"Roguemist, Rouge",The Tower of Sabiesu the Awesome,10.00,Fog Lavaplatinum Of Life,254.00,560.35,509.41,142328.9000,129390.1400,298890.94400000,10/09/1978 @ 12:00:00 AM
+17138,"The Cadaverous, Chainblade",Gena's Hold,5.85,Plague Tin,166.00,465.25,422.95,77231.5000,70209.7000,156066.51020000,10/09/1978 @ 12:00:00 AM
+7386,"God of Protection, Finarfin",The Pirate's Pipe,15.40,Swordbronze,238.00,333.30,303.00,79325.4000,72114.0000,174761.06760000,10/09/1948 @ 12:00:00 AM
+461,"God of Resurrection, Gadriel",The Bastion of Sthasu the Gruesome,40.00,Meteoric Dustzephyr Orichalcum,182.00,3549.00,2.00,645918.0000,364.0000,904794.80000000,10/09/1948 @ 12:00:00 AM
+6153,"The Grasping, Nettool",Reheath Stronghold,39.60,Tritons' Time Stoneiron Of Legend,164.00,2235.00,310.54,366540.0000,50928.5600,582786.10976000,10/09/1948 @ 12:00:00 AM
+31877,"The Evil, Burnchill",Noble's Village,6.57,Warlocks' Timerot Mithril,199.00,194.65,194.65,38735.3500,38735.3500,82560.52499000,10/09/1948 @ 12:00:00 AM
+16425,"The Constructed, Snaretool",Khali's Delve,1.18,Incubi's Iron Of The Dawn,347.00,174.99,174.99,60721.5300,60721.5300,122876.08810800,10/09/1978 @ 12:00:00 AM
+5492,Bronzespike,Reheath Stronghold,39.60,Mithril Of Legend,156.00,169.17,186.09,26390.5200,29030.0400,77367.10176000,10/09/1948 @ 12:00:00 AM
+5641,"The Cremator, Blazeflare",The Bastion of the Vampire Duke,34.45,Mithril Of Legend,246.00,169.17,186.09,41615.8200,45778.1400,117501.17922000,10/09/1948 @ 12:00:00 AM
+25009,"Godseeker, Cult",The Forsaken Sepulcher of Sorrows,31.36,Foul Ice Bronze Of Life,110.00,292.82,266.20,32210.2000,29282.0000,80776.15392000,10/09/1948 @ 12:00:00 AM

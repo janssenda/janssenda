@@ -1,16 +1,16 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-1045,"God of Fate, Uriel",Palace Farthing,13.00,Magicians' Legendary Poison Metal,306.00,3615.00,-48.01,1106190.0000,-14691.0600,1233393.80220000,11/14/2017 @ 12:00:00 AM
-99,Bolttrap,Gili's Delve,35.89,Unknown Fatelightning Steel Of The Glacier,237.00,305.86,109.00,72488.8200,25833.0000,133609.52119800,11/14/2017 @ 12:00:00 AM
-35290,"The Chiller, Chillfire",Bifar's Deep,12.21,Yellow Mistearth Copper,191.00,287.98,261.80,55004.1800,50003.8000,117829.45435800,11/14/2017 @ 12:00:00 AM
-1474,Bonescare,The Nulukkhath Spires,28.99,Mithril Of The Tropics,260.00,1565.76,189.00,407097.6000,49140.0000,588500.88024000,11/14/2017 @ 12:00:00 AM
-22254,"The Cremator, Blazeflare",The Nulukkhath Spires,28.99,Shadowhell Mithril,182.00,462.21,420.19,84122.2200,76474.5800,207153.81232000,11/14/2017 @ 12:00:00 AM
-33021,"The Freezer, Shiverflame",The Archer and Scroll,60.12,Fairies' Supreme Mistsmoke Lead Of The Future,127.00,499.73,549.70,63465.7100,69811.9000,213404.10913200,11/14/2017 @ 12:00:00 AM
-21260,"Goddess of Thieves, Melcha",Moor Village,11.32,Negative Rockglitter Mercury Of Trolls,303.00,3502.00,214.17,1061106.0000,64893.5100,1253462.65453200,11/14/2017 @ 12:00:00 AM
-20355,"Dawn, Tarot",Fellfen Keep,38.00,Emerald Orichalcum,143.00,1957.00,142.79,279851.0000,20418.9700,414372.55860000,11/14/2017 @ 12:00:00 AM
-20506,"Bladewitch, Zeal",The Greedy Wench,13.31,Unknowable Mindsilver,237.00,174.90,174.90,41451.3000,41451.3000,93936.93606000,11/14/2017 @ 12:00:00 AM
-28204,"Wolf, Jericho",The Fortress of Akkun the Grim,27.03,Negative Rockglitter Mercury Of Trolls,98.00,235.59,214.17,23087.8200,20988.6600,55990.35254400,11/14/2017 @ 12:00:00 AM
-6323,"Mist, Claw",The Wizard's House,20.00,Fleshshock Mercury,295.00,-31.02,-28.20,-9150.9000,-8319.0000,-20963.88000000,11/14/2017 @ 12:00:00 AM
-30724,Spikespawn,Mahyrst Keep,31.30,Foulopal Copper Of The Skies,287.00,221.83,221.83,63665.2100,63665.2100,167184.84146000,11/14/2017 @ 12:00:00 AM
-16847,"The Cold, Burnfreeze",Gena's Hold,5.85,Warlocks' Timerot Mithril,306.00,725.00,176.95,221850.0000,54146.7000,292142.50695000,11/14/2017 @ 12:00:00 AM
-2112,"God of Resurrection, Gadriel",The Pirate's Pipe,15.40,Timeiron,176.00,3255.00,-14.77,572880.0000,-2599.5200,658103.67392000,11/14/2017 @ 12:00:00 AM
-26947,"Tsunami, Seraphim",Reheath Stronghold,39.60,Swordbronze,141.00,403.29,366.63,56863.8900,51694.8300,151547.97312000,11/14/2017 @ 12:00:00 AM
+1045,"God of Fate, Uriel",Palace Farthing,13.00,Magicians' Legendary Poison Metal,306.00,3615.00,-48.01,1106190.0000,-14691.0600,1233393.80220000,11/14/1947 @ 12:00:00 AM
+99,Bolttrap,Gili's Delve,35.89,Unknown Fatelightning Steel Of The Glacier,237.00,305.86,109.00,72488.8200,25833.0000,133609.52119800,11/14/1947 @ 12:00:00 AM
+35290,"The Chiller, Chillfire",Bifar's Deep,12.21,Yellow Mistearth Copper,191.00,287.98,261.80,55004.1800,50003.8000,117829.45435800,11/14/1947 @ 12:00:00 AM
+1474,Bonescare,The Nulukkhath Spires,28.99,Mithril Of The Tropics,260.00,1565.76,189.00,407097.6000,49140.0000,588500.88024000,11/14/1947 @ 12:00:00 AM
+22254,"The Cremator, Blazeflare",The Nulukkhath Spires,28.99,Shadowhell Mithril,182.00,462.21,420.19,84122.2200,76474.5800,207153.81232000,11/14/1947 @ 12:00:00 AM
+33021,"The Freezer, Shiverflame",The Archer and Scroll,60.12,Fairies' Supreme Mistsmoke Lead Of The Future,127.00,499.73,549.70,63465.7100,69811.9000,213404.10913200,11/14/1947 @ 12:00:00 AM
+21260,"Goddess of Thieves, Melcha",Moor Village,11.32,Negative Rockglitter Mercury Of Trolls,303.00,3502.00,214.17,1061106.0000,64893.5100,1253462.65453200,11/14/1947 @ 12:00:00 AM
+20355,"Dawn, Tarot",Fellfen Keep,38.00,Emerald Orichalcum,143.00,1957.00,142.79,279851.0000,20418.9700,414372.55860000,11/14/1947 @ 12:00:00 AM
+20506,"Bladewitch, Zeal",The Greedy Wench,13.31,Unknowable Mindsilver,237.00,174.90,174.90,41451.3000,41451.3000,93936.93606000,11/14/1947 @ 12:00:00 AM
+28204,"Wolf, Jericho",The Fortress of Akkun the Grim,27.03,Negative Rockglitter Mercury Of Trolls,98.00,235.59,214.17,23087.8200,20988.6600,55990.35254400,11/14/1947 @ 12:00:00 AM
+6323,"Mist, Claw",The Wizard's House,20.00,Fleshshock Mercury,295.00,-31.02,-28.20,-9150.9000,-8319.0000,-20963.88000000,11/14/1947 @ 12:00:00 AM
+30724,Spikespawn,Mahyrst Keep,31.30,Foulopal Copper Of The Skies,287.00,221.83,221.83,63665.2100,63665.2100,167184.84146000,11/14/1947 @ 12:00:00 AM
+16847,"The Cold, Burnfreeze",Gena's Hold,5.85,Warlocks' Timerot Mithril,306.00,725.00,176.95,221850.0000,54146.7000,292142.50695000,11/14/1947 @ 12:00:00 AM
+2112,"God of Resurrection, Gadriel",The Pirate's Pipe,15.40,Timeiron,176.00,3255.00,-14.77,572880.0000,-2599.5200,658103.67392000,11/14/1947 @ 12:00:00 AM
+26947,"Tsunami, Seraphim",Reheath Stronghold,39.60,Swordbronze,141.00,403.29,366.63,56863.8900,51694.8300,151547.97312000,11/14/1947 @ 12:00:00 AM

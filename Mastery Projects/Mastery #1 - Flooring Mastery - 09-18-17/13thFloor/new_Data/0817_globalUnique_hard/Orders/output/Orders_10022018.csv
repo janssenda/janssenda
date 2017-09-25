@@ -1,18 +1,18 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-12796,"Tsunami, Seraphim",Noble's Village,5.43,Vampires' Fang Emeraldsilver,288.00,2033.69,80.84,585702.7200,23281.9200,642052.50595200,10/02/2018 @ 12:00:00 AM
-10242,"Dawn, Tarot",Castle Village,39.07,Undeads' Mind Orichalcum Of The Twilight,205.00,1169.00,301.40,239645.0000,61787.0000,419201.48240000,10/02/2018 @ 12:00:00 AM
-22805,"The Evil, Burnchill",Pewold Keep,29.00,Fog Lavaplatinum Of Life,336.00,560.35,509.41,188277.6000,171161.7600,463676.77440000,10/02/2018 @ 12:00:00 AM
-21916,"Darkzealot, Dawn",The Bastion of Gothmog of Udun,-2.42,Witchs' Forbidden Rockrainbow Bronze,284.00,245.63,245.63,69758.9200,69758.9200,136141.50827200,10/02/2018 @ 12:00:00 AM
-29174,"The Blade, Steelterror",The Nulukkhath Spires,28.99,Heavenly Dreamsilver Of The Night,283.00,719.00,314.60,203477.0000,89031.8000,377307.10112000,10/02/2018 @ 12:00:00 AM
-8555,"The Skeletal, Spiketerror",The Hunter and Rose,39.60,Unicorns' Fatal Magma Metal Of The Ocean,125.00,903.00,23.00,112875.0000,2875.0000,161587.00000000,10/02/2018 @ 12:00:00 AM
-28018,Springcoil,Bifar's Deep,12.21,Negative Rockglitter Mercury Of Trolls,158.00,235.59,214.17,37223.2200,33838.8600,79738.75996800,10/02/2018 @ 12:00:00 AM
-29442,"The Evil, Snowflame",The Citadel of Alammius,32.67,Heavenly Dreamsilver Of The Night,253.00,719.00,314.60,181907.0000,79593.8000,346933.11136000,10/02/2018 @ 12:00:00 AM
-29506,"Runetomb, Song",The Citadel of Alammius,32.67,Hidden Shadowice Lead,148.00,-16.50,-16.50,-2442.0000,-2442.0000,-6479.60280000,10/02/2018 @ 12:00:00 AM
-6765,"The Freezer, Burnbrood",The Shadow Downs,34.00,Glittering Orichalcum,170.00,2056.00,330.00,349520.0000,56100.0000,543530.80000000,10/02/2018 @ 12:00:00 AM
-26136,"Anchor, Rose",Citadel Ward,4.40,Grayplatinum,323.00,2548.00,104.94,823004.0000,33895.6200,894603.20328000,10/02/2018 @ 12:00:00 AM
-26204,"Runetomb, Song",The Dungeon of Merciless Woe,3.97,Tin Of The Tundra,216.00,4121.00,397.25,890136.0000,85806.0000,1014686.89740000,10/02/2018 @ 12:00:00 AM
-16930,"Wolf, Jericho",Gena's Hold,5.85,Incubi's Glittering Tin Of The Future,111.00,192.96,212.26,21418.5600,23560.8600,47610.71607000,10/02/2018 @ 12:00:00 AM
-13080,"Dawn, Tarot",Archfane District,15.29,Foulopal Copper Of The Skies,214.00,201.66,201.66,43155.2400,43155.2400,99507.35239200,10/02/2018 @ 12:00:00 AM
-27934,Gravebone,Barad Cune,49.21,Vampires' Fang Emeraldsilver,243.00,2033.69,80.84,494186.6700,19644.1200,766686.92175900,10/02/2018 @ 12:00:00 AM
-12140,"Runetomb, Song",Gifeld Castle,27.28,Mistgold Of Men,54.00,412.50,375.00,22275.0000,20250.0000,54125.82000000,10/02/2018 @ 12:00:00 AM
-37592,Bonescare,The Greedy Wench,13.31,Stone Soulsteel Of The Skies,157.00,453.31,453.31,71169.6700,71169.6700,161284.70615400,10/02/2018 @ 12:00:00 AM
+12796,"Seraphim, Tsunami",Noble's Village,5.43,Vampires' Fang Emeraldsilver,288.00,2033.69,80.84,585702.7200,23281.9200,642052.50595200,10/02/2008 @ 12:00:00 AM
+10242,"Tarot, Dawn",Castle Village,39.07,Undeads' Mind Orichalcum Of The Twilight,205.00,1169.00,301.40,239645.0000,61787.0000,419201.48240000,10/02/2008 @ 12:00:00 AM
+22805,"Burnchill, The Evil",Pewold Keep,29.00,Fog Lavaplatinum Of Life,336.00,560.35,509.41,188277.6000,171161.7600,463676.77440000,10/02/2008 @ 12:00:00 AM
+21916,"Dawn, Darkzealot",The Bastion of Gothmog of Udun,-2.42,Witchs' Forbidden Rockrainbow Bronze,284.00,245.63,245.63,69758.9200,69758.9200,136141.50827200,10/02/2008 @ 12:00:00 AM
+29174,"Steelterror, The Blade",The Nulukkhath Spires,28.99,Heavenly Dreamsilver Of The Night,283.00,719.00,314.60,203477.0000,89031.8000,377307.10112000,10/02/2008 @ 12:00:00 AM
+8555,"Spiketerror, The Skeletal",The Hunter and Rose,39.60,Unicorns' Fatal Magma Metal Of The Ocean,125.00,903.00,23.00,112875.0000,2875.0000,161587.00000000,10/02/2008 @ 12:00:00 AM
+28018,Springcoil,Bifar's Deep,12.21,Negative Rockglitter Mercury Of Trolls,158.00,235.59,214.17,37223.2200,33838.8600,79738.75996800,10/02/2008 @ 12:00:00 AM
+29442,"Snowflame, The Evil",The Citadel of Alammius,32.67,Heavenly Dreamsilver Of The Night,253.00,719.00,314.60,181907.0000,79593.8000,346933.11136000,10/02/2008 @ 12:00:00 AM
+29506,"Song, Runetomb",The Citadel of Alammius,32.67,Hidden Shadowice Lead,148.00,-16.50,-16.50,-2442.0000,-2442.0000,-6479.60280000,10/02/2008 @ 12:00:00 AM
+6765,"Burnbrood, The Freezer",The Shadow Downs,34.00,Glittering Orichalcum,170.00,2056.00,330.00,349520.0000,56100.0000,543530.80000000,10/02/2008 @ 12:00:00 AM
+26136,"Rose, Anchor",Citadel Ward,4.40,Grayplatinum,323.00,2548.00,104.94,823004.0000,33895.6200,894603.20328000,10/02/2008 @ 12:00:00 AM
+26204,"Song, Runetomb",The Dungeon of Merciless Woe,3.97,Tin Of The Tundra,216.00,4121.00,397.25,890136.0000,85806.0000,1014686.89740000,10/02/2008 @ 12:00:00 AM
+16930,"Jericho, Wolf",Gena's Hold,5.85,Incubi's Glittering Tin Of The Future,111.00,192.96,212.26,21418.5600,23560.8600,47610.71607000,10/02/2008 @ 12:00:00 AM
+13080,"Tarot, Dawn",Archfane District,15.29,Foulopal Copper Of The Skies,214.00,201.66,201.66,43155.2400,43155.2400,99507.35239200,10/02/2008 @ 12:00:00 AM
+27934,Gravebone,Barad Cune,49.21,Vampires' Fang Emeraldsilver,243.00,2033.69,80.84,494186.6700,19644.1200,766686.92175900,10/02/2008 @ 12:00:00 AM
+12140,"Song, Runetomb",Gifeld Castle,27.28,Mistgold Of Men,54.00,412.50,375.00,22275.0000,20250.0000,54125.82000000,10/02/2008 @ 12:00:00 AM
+37592,Bonescare,The Greedy Wench,13.31,Stone Soulsteel Of The Skies,157.00,453.31,453.31,71169.6700,71169.6700,161284.70615400,10/02/2008 @ 12:00:00 AM

@@ -1,20 +1,20 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-11104,"Spiritraven, Bedlam",The Fen of the Necromancer,20.00,Swordbronze,111.00,333.30,303.00,36996.3000,33633.0000,84755.16000000,02/04/2016 @ 12:00:00 AM
-11019,Beamtrap,Mahyrst Keep,28.45,Phantasmal Lead,310.00,21.92,19.93,6795.2000,6178.3000,16664.46075000,02/04/2016 @ 12:00:00 AM
-1219,Bonescare,The Fortress of Asmamur,-2.00,Starlight Pearldream Bronze,147.00,-494.37,67.00,-72672.3900,9849.0000,-61566.92220000,02/04/2016 @ 12:00:00 AM
-13985,"Lord of the Sea, Penur",Gili's Delve,35.89,Negative Rockglitter Mercury Of Trolls,181.00,3502.00,214.17,633862.0000,38764.7700,914032.51775300,02/04/2016 @ 12:00:00 AM
-11253,"The Trapper, Boltcrank",Mahyrst Keep,28.45,Violetstone Tin Of Death,213.00,2091.85,20.90,445564.0500,4451.7000,578045.23087500,02/04/2016 @ 12:00:00 AM
-10471,"God of the Lost, Lionare",Arcanist's Farthing,29.00,Dragons' Poison Glitterflesh Steel Of The North,130.00,742.00,75.00,96460.0000,9750.0000,137010.90000000,02/04/2016 @ 12:00:00 AM
-23828,"Jackalguard, Gale",Fellfen Keep,38.00,Djinni's Mind Fogiron,150.00,57.23,57.23,8584.5000,8584.5000,23693.22000000,02/04/2016 @ 12:00:00 AM
-10857,"Godseeker, Cult",The Dungeon of Merciless Woe,3.61,Dragons' Poison Glitterflesh Steel Of The North,111.00,742.00,75.00,82362.0000,8325.0000,93960.80070000,02/04/2016 @ 12:00:00 AM
-10952,"Anchor, Rose",The Drunken Thief,18.41,Dragons' Poison Glitterflesh Steel Of The North,312.00,742.00,75.00,231504.0000,23400.0000,301831.82640000,02/04/2016 @ 12:00:00 AM
-19629,"Mistseeker, Grave",Gifeld Castle,33.01,Spirits' Living Wordhammer Tin Of The Trees,56.00,141.57,128.70,7927.9200,7207.2000,20131.22311200,02/04/2016 @ 12:00:00 AM
-8435,Bonescare,Gawold Castle,10.29,Phantasmal Smokezephyr Mercury Of Men,328.00,211.20,192.00,69273.6000,62976.0000,145858.08384000,02/04/2016 @ 12:00:00 AM
-19893,"God of Luck, Ariel",Reyny Keep,-3.35,Fairies' Supreme Mistsmoke Lead Of The Future,26.00,499.73,499.73,12992.9800,12992.9800,25115.43034000,02/04/2016 @ 12:00:00 AM
-18719,"Godseeker, Cult",Peley Keep,20.92,Phantasmal Tin Of The Swamps,237.00,3207.64,335.50,760210.6800,79513.5000,1015394.47845600,02/04/2016 @ 12:00:00 AM
-31962,"Roguemist, Rouge",Gifeld Castle,33.01,Grayplatinum,215.00,2548.00,104.94,547820.0000,22562.1000,758665.23121000,02/04/2016 @ 12:00:00 AM
-5358,"God of Love, Prusu",The Dancing Minstrel,36.02,Forgotten Mithril,221.00,3909.75,451.00,864054.7500,99671.0000,1310859.76515000,02/04/2016 @ 12:00:00 AM
-3213,"Goddess of Trickery, Alik",The Cracked Chalice,-4.37,Litches' Fatal Mithril Of The Past,215.00,3822.00,13.00,821730.0000,2795.0000,788493.25750000,02/04/2016 @ 12:00:00 AM
-37256,"Brand, Lightning",The Greedy Wench,13.31,Ghouls' Imperial Soulzephyr Mithril Of The Seas,361.00,318.23,318.23,114881.0300,114881.0300,260343.39018600,02/04/2016 @ 12:00:00 AM
-12324,"Goddess of Thieves, Melcha",The Nulukkhath Spires,28.99,Foul Ice Bronze Of Life,167.00,292.82,266.20,48900.9400,44455.4000,120420.34296600,02/04/2016 @ 12:00:00 AM
-12219,"The Chiller, Blazefreeze",Love Keep,40.56,Zephyr Adamant,156.00,481.77,-44.14,75156.1200,-6885.8400,95960.70556800,02/04/2016 @ 12:00:00 AM
+11104,"Spiritraven, Bedlam",The Fen of the Necromancer,20.00,Swordbronze,111.00,333.30,303.00,36996.3000,33633.0000,84755.16000000,02/04/1946 @ 12:00:00 AM
+11019,Beamtrap,Mahyrst Keep,28.45,Phantasmal Lead,310.00,21.92,19.93,6795.2000,6178.3000,16664.46075000,02/04/1946 @ 12:00:00 AM
+1219,Bonescare,The Fortress of Asmamur,-2.00,Starlight Pearldream Bronze,147.00,-494.37,67.00,-72672.3900,9849.0000,-61566.92220000,02/04/1946 @ 12:00:00 AM
+13985,"Lord of the Sea, Penur",Gili's Delve,35.89,Negative Rockglitter Mercury Of Trolls,181.00,3502.00,214.17,633862.0000,38764.7700,914032.51775300,02/04/1986 @ 12:00:00 AM
+11253,"The Trapper, Boltcrank",Mahyrst Keep,28.45,Violetstone Tin Of Death,213.00,2091.85,20.90,445564.0500,4451.7000,578045.23087500,02/04/1946 @ 12:00:00 AM
+10471,"God of the Lost, Lionare",Arcanist's Farthing,29.00,Dragons' Poison Glitterflesh Steel Of The North,130.00,742.00,75.00,96460.0000,9750.0000,137010.90000000,02/04/1946 @ 12:00:00 AM
+23828,"Jackalguard, Gale",Fellfen Keep,38.00,Djinni's Mind Fogiron,150.00,57.23,57.23,8584.5000,8584.5000,23693.22000000,02/04/1946 @ 12:00:00 AM
+10857,"Godseeker, Cult",The Dungeon of Merciless Woe,3.61,Dragons' Poison Glitterflesh Steel Of The North,111.00,742.00,75.00,82362.0000,8325.0000,93960.80070000,02/04/1946 @ 12:00:00 AM
+10952,"Anchor, Rose",The Drunken Thief,18.41,Dragons' Poison Glitterflesh Steel Of The North,312.00,742.00,75.00,231504.0000,23400.0000,301831.82640000,02/04/1986 @ 12:00:00 AM
+19629,"Mistseeker, Grave",Gifeld Castle,33.01,Spirits' Living Wordhammer Tin Of The Trees,56.00,141.57,128.70,7927.9200,7207.2000,20131.22311200,02/04/1946 @ 12:00:00 AM
+8435,Bonescare,Gawold Castle,10.29,Phantasmal Smokezephyr Mercury Of Men,328.00,211.20,192.00,69273.6000,62976.0000,145858.08384000,02/04/1946 @ 12:00:00 AM
+19893,"God of Luck, Ariel",Reyny Keep,-3.35,Fairies' Supreme Mistsmoke Lead Of The Future,26.00,499.73,499.73,12992.9800,12992.9800,25115.43034000,02/04/1996 @ 12:00:00 AM
+18719,"Godseeker, Cult",Peley Keep,20.92,Phantasmal Tin Of The Swamps,237.00,3207.64,335.50,760210.6800,79513.5000,1015394.47845600,02/04/1946 @ 12:00:00 AM
+31962,"Roguemist, Rouge",Gifeld Castle,33.01,Grayplatinum,215.00,2548.00,104.94,547820.0000,22562.1000,758665.23121000,02/04/1946 @ 12:00:00 AM
+5358,"God of Love, Prusu",The Dancing Minstrel,36.02,Forgotten Mithril,221.00,3909.75,451.00,864054.7500,99671.0000,1310859.76515000,02/04/1946 @ 12:00:00 AM
+3213,"Goddess of Trickery, Alik",The Cracked Chalice,-4.37,Litches' Fatal Mithril Of The Past,215.00,3822.00,13.00,821730.0000,2795.0000,788493.25750000,02/04/1946 @ 12:00:00 AM
+37256,"Brand, Lightning",The Greedy Wench,13.31,Ghouls' Imperial Soulzephyr Mithril Of The Seas,361.00,318.23,318.23,114881.0300,114881.0300,260343.39018600,02/04/1986 @ 12:00:00 AM
+12324,"Goddess of Thieves, Melcha",The Nulukkhath Spires,28.99,Foul Ice Bronze Of Life,167.00,292.82,266.20,48900.9400,44455.4000,120420.34296600,02/04/1946 @ 12:00:00 AM
+12219,"The Chiller, Blazefreeze",Love Keep,40.56,Zephyr Adamant,156.00,481.77,-44.14,75156.1200,-6885.8400,95960.70556800,02/04/1946 @ 12:00:00 AM

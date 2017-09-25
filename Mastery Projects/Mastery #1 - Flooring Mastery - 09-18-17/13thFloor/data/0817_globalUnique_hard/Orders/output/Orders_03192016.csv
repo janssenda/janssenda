@@ -1,17 +1,17 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-37628,"Knightclaw, Sunset",The Greedy Wench,13.31,Stone Soulsteel Of The Skies,95.00,453.31,453.31,43064.4500,43064.4500,97592.65659000,03/19/2016 @ 12:00:00 AM
-39,"God of Fate, Sielach",The Flying Witch,5.16,Unicorns' Fatal Magma Metal Of The Ocean,185.00,903.00,23.00,167055.0000,4255.0000,180149.59600000,03/19/2016 @ 12:00:00 AM
-23249,"Reaper, Dagger",Weke Tower,47.19,Shadowhell Mithril,192.00,462.21,420.19,88744.3200,80676.4800,249370.47552000,03/19/2016 @ 12:00:00 AM
-2661,"The Blade, Steelterror",The Forsaken Tomb of Devastation,38.65,Unholy Poison Copper Of The Mountains,246.00,4312.00,57.00,1060752.0000,14022.0000,1490174.15100000,03/19/2016 @ 12:00:00 AM
-12813,Wheelspawn,Bifar's Deep,10.09,White Platinum,186.00,83.49,91.84,15529.1400,17082.2400,35901.86824200,03/19/2016 @ 12:00:00 AM
-12996,Graveterror,Bergfison's Deep,16.00,White Platinum,168.00,83.49,91.84,14026.3200,15429.1200,34168.31040000,03/19/2016 @ 12:00:00 AM
-9223,"Wind, Maverick",Reheath Stronghold,39.60,Unknown Fatelightning Steel Of The Glacier,337.00,119.90,131.89,40406.3000,44446.9300,118455.10908000,03/19/2016 @ 12:00:00 AM
-20473,"Drakecaster, Sephiroth",The Forsaken Hive of Galima the Mighty,0.39,Magicians' Legendary Poison Metal,132.00,-52.81,-48.01,-6970.9200,-6337.3200,-13360.14213600,03/19/2016 @ 12:00:00 AM
-29533,"The Unspeakable, Scarechain",Bifar's Deep,12.21,Fleshshock Mercury,167.00,-31.02,-28.20,-5180.3400,-4709.4000,-11097.27725400,03/19/2016 @ 12:00:00 AM
-31821,"Seeker, Fate",Hafeld Keep,47.59,Fairies' Supreme Mistsmoke Lead Of The Future,103.00,499.73,549.70,51472.1900,56619.1000,159531.93491100,03/19/2016 @ 12:00:00 AM
-16363,"Dawn, Tarot",The Secret Shrine of the Gargoyle Count,23.93,Incubi's Iron Of The Dawn,257.00,174.99,174.99,44972.4300,44972.4300,111468.66499800,03/19/2016 @ 12:00:00 AM
-16550,Bronzespawn,The Pirate's Pipe,16.94,Tritons' Time Stoneiron Of Legend,266.00,341.59,341.59,90862.9400,90862.9400,212510.24407200,03/19/2016 @ 12:00:00 AM
-26028,"The Binder, Springpulley",Archfane District,15.29,Unspeakable Rotsoul Mithril Of Souls,116.00,370.26,336.60,42950.1600,39045.6000,94532.91170400,03/19/2016 @ 12:00:00 AM
-16778,"Drakecaster, Sephiroth",North Arcanist's Farthing,2.75,Golems' Stonesapphire Gold Of The Glacier,151.00,176.00,160.00,26576.0000,24160.0000,52131.24000000,03/19/2016 @ 12:00:00 AM
-14626,Wheelspawn,Gili's Delve,35.89,Imperial Fate Steel,380.00,419.10,381.00,159258.0000,144780.0000,413157.23820000,03/19/2016 @ 12:00:00 AM
-13302,"Goddess of Trickery, Alik",The Hunter and Rose,39.60,Warlocks' Timerot Mithril,222.00,725.00,176.95,160950.0000,39282.9000,279525.12840000,03/19/2016 @ 12:00:00 AM
+37628,"Knightclaw, Sunset",The Greedy Wench,13.31,Stone Soulsteel Of The Skies,95.00,453.31,453.31,43064.4500,43064.4500,97592.65659000,03/19/1946 @ 12:00:00 AM
+39,"God of Fate, Sielach",The Flying Witch,5.16,Unicorns' Fatal Magma Metal Of The Ocean,185.00,903.00,23.00,167055.0000,4255.0000,180149.59600000,03/19/1986 @ 12:00:00 AM
+23249,"Reaper, Dagger",Weke Tower,47.19,Shadowhell Mithril,192.00,462.21,420.19,88744.3200,80676.4800,249370.47552000,03/19/1946 @ 12:00:00 AM
+2661,"The Blade, Steelterror",The Forsaken Tomb of Devastation,38.65,Unholy Poison Copper Of The Mountains,246.00,4312.00,57.00,1060752.0000,14022.0000,1490174.15100000,03/19/1946 @ 12:00:00 AM
+12813,Wheelspawn,Bifar's Deep,10.09,White Platinum,186.00,83.49,91.84,15529.1400,17082.2400,35901.86824200,03/19/1946 @ 12:00:00 AM
+12996,Graveterror,Bergfison's Deep,16.00,White Platinum,168.00,83.49,91.84,14026.3200,15429.1200,34168.31040000,03/19/1946 @ 12:00:00 AM
+9223,"Wind, Maverick",Reheath Stronghold,39.60,Unknown Fatelightning Steel Of The Glacier,337.00,119.90,131.89,40406.3000,44446.9300,118455.10908000,03/19/1946 @ 12:00:00 AM
+20473,"Drakecaster, Sephiroth",The Forsaken Hive of Galima the Mighty,0.39,Magicians' Legendary Poison Metal,132.00,-52.81,-48.01,-6970.9200,-6337.3200,-13360.14213600,03/19/1946 @ 12:00:00 AM
+29533,"The Unspeakable, Scarechain",Bifar's Deep,12.21,Fleshshock Mercury,167.00,-31.02,-28.20,-5180.3400,-4709.4000,-11097.27725400,03/19/1946 @ 12:00:00 AM
+31821,"Seeker, Fate",Hafeld Keep,47.59,Fairies' Supreme Mistsmoke Lead Of The Future,103.00,499.73,549.70,51472.1900,56619.1000,159531.93491100,03/19/1946 @ 12:00:00 AM
+16363,"Dawn, Tarot",The Secret Shrine of the Gargoyle Count,23.93,Incubi's Iron Of The Dawn,257.00,174.99,174.99,44972.4300,44972.4300,111468.66499800,03/19/1946 @ 12:00:00 AM
+16550,Bronzespawn,The Pirate's Pipe,16.94,Tritons' Time Stoneiron Of Legend,266.00,341.59,341.59,90862.9400,90862.9400,212510.24407200,03/19/1946 @ 12:00:00 AM
+26028,"The Binder, Springpulley",Archfane District,15.29,Unspeakable Rotsoul Mithril Of Souls,116.00,370.26,336.60,42950.1600,39045.6000,94532.91170400,03/19/1946 @ 12:00:00 AM
+16778,"Drakecaster, Sephiroth",North Arcanist's Farthing,2.75,Golems' Stonesapphire Gold Of The Glacier,151.00,176.00,160.00,26576.0000,24160.0000,52131.24000000,03/19/1946 @ 12:00:00 AM
+14626,Wheelspawn,Gili's Delve,35.89,Imperial Fate Steel,380.00,419.10,381.00,159258.0000,144780.0000,413157.23820000,03/19/1946 @ 12:00:00 AM
+13302,"Goddess of Trickery, Alik",The Hunter and Rose,39.60,Warlocks' Timerot Mithril,222.00,725.00,176.95,160950.0000,39282.9000,279525.12840000,03/19/1946 @ 12:00:00 AM

@@ -1,20 +1,20 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-25965,"Drakecaster, Sephiroth",The Black Barrow of Bery,23.96,Starsmoke Bronze Of Life,303.00,-438.00,420.81,-132714.0000,127505.4300,-6456.54337200,02/13/2016 @ 12:00:00 AM
-25974,"God of War, Ingwenel",The Black Barrow of Bery,23.96,Tin Of The Tundra,218.00,4121.00,397.25,898378.0000,86600.5000,1220979.34860000,02/13/2016 @ 12:00:00 AM
-24733,"God of Death, Avriel",The Bastion of Barbos,25.41,Negative Rockglitter Mercury Of Trolls,145.00,235.59,214.17,34160.5500,31054.6500,81786.38232000,02/13/2016 @ 12:00:00 AM
-10442,Evilbrood,The Dungeon of Merciless Woe,3.61,Phantasmal Smokezephyr Mercury Of Men,222.00,211.20,192.00,46886.4000,42624.0000,92741.72544000,02/13/2016 @ 12:00:00 AM
-1887,"God of Death, Avriel",The Warrior and Flagon,9.00,Negative Mercury,145.00,4115.00,68.00,596675.0000,9860.0000,661123.15000000,02/13/2016 @ 12:00:00 AM
-34924,Gravebone,Barad Kesa,6.17,Sprites' Transcendent Mud Lead Of The South,286.00,3338.65,267.08,954853.9000,76384.8800,1094866.21272600,02/13/2016 @ 12:00:00 AM
-10941,Bronzespike,Reheath Stronghold,39.60,Dragons' Poison Glitterflesh Steel Of The North,282.00,742.00,75.00,209244.0000,21150.0000,321630.02400000,02/13/2016 @ 12:00:00 AM
-8319,"God of Love, Prusu",Lamp Borough,0.00,Lycanthropes' Gold,204.00,371.80,338.00,75847.2000,68952.0000,144799.20000000,02/13/2016 @ 12:00:00 AM
-20747,"The Grasping, Beamsprocket",Gena's Hold,5.85,Plague Tin,106.00,465.25,422.95,49316.5000,44832.7000,99656.92820000,02/13/2016 @ 12:00:00 AM
-17226,"Jester, Seraph",Gena's Hold,5.85,Grayplatinum,243.00,2548.00,104.94,619164.0000,25500.4200,682377.28857000,02/13/2016 @ 12:00:00 AM
-16187,"The Trapper, Boltcrank",The Tower of Aramum,20.00,Swordbronze,284.00,333.30,303.00,94657.2000,86052.0000,216851.04000000,02/13/2016 @ 12:00:00 AM
-30748,"Gust, Shadow",Mahyrst Keep,31.30,Foulopal Copper Of The Skies,348.00,221.83,221.83,77196.8400,77196.8400,202718.90184000,02/13/2016 @ 12:00:00 AM
-37180,Bonescare,The Greedy Wench,13.31,Ghouls' Imperial Soulzephyr Mithril Of The Seas,79.00,318.23,318.23,25140.1700,25140.1700,56972.65325400,02/13/2016 @ 12:00:00 AM
-15759,"The Horrorific, Evilfear",The Dungeon of Merciless Woe,3.61,Shadowhell Mithril,207.00,462.21,420.19,95677.4700,86979.3300,189250.71048000,02/13/2016 @ 12:00:00 AM
-27935,"The Machine, Wheelbolt",Barad Kesa,5.61,Stone Soulsteel Of The Skies,259.00,453.31,412.10,117407.2900,106733.9000,236715.51075900,02/13/2016 @ 12:00:00 AM
-24180,"Lord of Nightmares, Iran",Fellfen Keep,38.00,Phantasmal Tin Of The Swamps,235.00,405.96,369.05,95400.6000,86726.7500,251335.74300000,02/13/2016 @ 12:00:00 AM
-2292,"Tombreaper, Rouge",Mahyrst Keep,28.45,Undeads' Mind Orichalcum Of The Twilight,122.00,1169.00,274.00,142618.0000,33428.0000,226131.08700000,02/13/2016 @ 12:00:00 AM
-2299,"Dire, Wind",The Forsaken Tomb of Devastation,38.65,Falserainbow Lead,129.00,872.99,63.80,112615.7100,8230.2000,167552.85421500,02/13/2016 @ 12:00:00 AM
-26862,"Drakecaster, Sephiroth",Citadel Ward,4.40,Heavenly Dreamsilver Of The Night,57.00,719.00,314.60,40983.0000,17932.2000,61507.46880000,02/13/2016 @ 12:00:00 AM
+25965,"Sephiroth, Drakecaster",The Black Barrow of Bery,23.96,Starsmoke Bronze Of Life,303.00,-438.00,420.81,-132714.0000,127505.4300,-6456.54337200,02/13/2006 @ 12:00:00 AM
+25974,"Ingwenel, God of War",The Black Barrow of Bery,23.96,Tin Of The Tundra,218.00,4121.00,397.25,898378.0000,86600.5000,1220979.34860000,02/13/2016 @ 12:00:00 AM
+24733,"Avriel, God of Death",The Bastion of Barbos,25.41,Negative Rockglitter Mercury Of Trolls,145.00,235.59,214.17,34160.5500,31054.6500,81786.38232000,02/13/2016 @ 12:00:00 AM
+10442,Evilbrood,The Dungeon of Merciless Woe,3.61,Phantasmal Smokezephyr Mercury Of Men,222.00,211.20,192.00,46886.4000,42624.0000,92741.72544000,02/13/2006 @ 12:00:00 AM
+1887,"Avriel, God of Death",The Warrior and Flagon,9.00,Negative Mercury,145.00,4115.00,68.00,596675.0000,9860.0000,661123.15000000,02/13/2016 @ 12:00:00 AM
+34924,Gravebone,Barad Kesa,6.17,Sprites' Transcendent Mud Lead Of The South,286.00,3338.65,267.08,954853.9000,76384.8800,1094866.21272600,02/13/2006 @ 12:00:00 AM
+10941,Bronzespike,Reheath Stronghold,39.60,Dragons' Poison Glitterflesh Steel Of The North,282.00,742.00,75.00,209244.0000,21150.0000,321630.02400000,02/13/2006 @ 12:00:00 AM
+8319,"Prusu, God of Love",Lamp Borough,0.00,Lycanthropes' Gold,204.00,371.80,338.00,75847.2000,68952.0000,144799.20000000,02/13/2006 @ 12:00:00 AM
+20747,"Beamsprocket, The Grasping",Gena's Hold,5.85,Plague Tin,106.00,465.25,422.95,49316.5000,44832.7000,99656.92820000,02/13/2006 @ 12:00:00 AM
+17226,"Seraph, Jester",Gena's Hold,5.85,Grayplatinum,243.00,2548.00,104.94,619164.0000,25500.4200,682377.28857000,02/13/2006 @ 12:00:00 AM
+16187,"Boltcrank, The Trapper",The Tower of Aramum,20.00,Swordbronze,284.00,333.30,303.00,94657.2000,86052.0000,216851.04000000,02/13/2006 @ 12:00:00 AM
+30748,"Shadow, Gust",Mahyrst Keep,31.30,Foulopal Copper Of The Skies,348.00,221.83,221.83,77196.8400,77196.8400,202718.90184000,02/13/2006 @ 12:00:00 AM
+37180,Bonescare,The Greedy Wench,13.31,Ghouls' Imperial Soulzephyr Mithril Of The Seas,79.00,318.23,318.23,25140.1700,25140.1700,56972.65325400,02/13/2006 @ 12:00:00 AM
+15759,"Evilfear, The Horrorific",The Dungeon of Merciless Woe,3.61,Shadowhell Mithril,207.00,462.21,420.19,95677.4700,86979.3300,189250.71048000,02/13/2006 @ 12:00:00 AM
+27935,"Wheelbolt, The Machine",Barad Kesa,5.61,Stone Soulsteel Of The Skies,259.00,453.31,412.10,117407.2900,106733.9000,236715.51075900,02/13/2006 @ 12:00:00 AM
+24180,"Iran, Lord of Nightmares",Fellfen Keep,38.00,Phantasmal Tin Of The Swamps,235.00,405.96,369.05,95400.6000,86726.7500,251335.74300000,02/13/2006 @ 12:00:00 AM
+2292,"Rouge, Tombreaper",Mahyrst Keep,28.45,Undeads' Mind Orichalcum Of The Twilight,122.00,1169.00,274.00,142618.0000,33428.0000,226131.08700000,02/13/2006 @ 12:00:00 AM
+2299,"Wind, Dire",The Forsaken Tomb of Devastation,38.65,Falserainbow Lead,129.00,872.99,63.80,112615.7100,8230.2000,167552.85421500,02/13/2006 @ 12:00:00 AM
+26862,"Sephiroth, Drakecaster",Citadel Ward,4.40,Heavenly Dreamsilver Of The Night,57.00,719.00,314.60,40983.0000,17932.2000,61507.46880000,02/13/2006 @ 12:00:00 AM

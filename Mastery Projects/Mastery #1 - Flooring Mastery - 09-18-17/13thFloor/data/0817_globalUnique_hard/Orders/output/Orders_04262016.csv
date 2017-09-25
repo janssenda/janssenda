@@ -1,22 +1,22 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-23041,"Seraphheart, Storm",Reheath Stronghold,39.60,Shadowhell Mithril,163.00,462.21,420.19,75340.2300,68490.9700,200788.35520000,04/26/2016 @ 12:00:00 AM
-23059,Spikespawn,Moor Village,11.32,Tritons' Time Stoneiron Of Legend,238.00,341.59,341.59,81298.4200,81298.4200,181002.80228800,04/26/2016 @ 12:00:00 AM
-2435,Bronzespike,The Forsaken Tomb of Devastation,38.65,Spirits' Living Wordhammer Tin Of The Trees,324.00,3897.55,117.00,1262806.2000,37908.0000,1803440.23830000,04/26/2016 @ 12:00:00 AM
-25966,"Goddess of the Earth, Gono",Barad Cune,49.21,Warlocks' Timerot Mithril,315.00,194.65,176.95,61314.7500,55739.2500,174656.27340000,04/26/2016 @ 12:00:00 AM
-12632,"Gust, Shadow",Noble's Village,5.43,White Platinum,323.00,83.49,91.84,26967.2700,29664.3200,59706.68533700,04/26/2016 @ 12:00:00 AM
-12786,"The Grasping, Nettool",Archfane District,15.29,God-touched Greengem Platinum,193.00,206.95,206.95,39941.3500,39941.3500,92096.76483000,04/26/2016 @ 12:00:00 AM
-22194,"The Frigid, Icechill",The Tower of Sabiesu the Awesome,10.00,Fleshshock Mercury,272.00,-31.02,-28.20,-8437.4400,-7670.4000,-17718.62400000,04/26/2016 @ 12:00:00 AM
-21393,"The Chiller, Blazefreeze",Reyny Keep,-3.35,Starsmoke Bronze Of Life,206.00,-438.00,420.81,-90228.0000,86686.8600,-3422.51181000,04/26/2016 @ 12:00:00 AM
-19131,"Felldrake, Magus",Weke Tower,47.19,Grayplatinum,318.00,2548.00,104.94,810264.0000,33370.9200,1241746.23874800,04/26/2016 @ 12:00:00 AM
-22985,"Amberslayer, Flora",Reheath Stronghold,39.60,Planar Mudtin Of Trolls,276.00,191.40,174.00,52826.4000,48024.0000,140787.15840000,04/26/2016 @ 12:00:00 AM
-31137,"Amberslayer, Flora",The Nulukkhath Spires,28.99,Witchs' Forbidden Rockrainbow Bronze,316.00,245.63,245.63,77619.0800,77619.0800,200241.70258400,04/26/2016 @ 12:00:00 AM
-31893,Graveterror,The Demon and Toad,-1.21,Grayplatinum,192.00,2548.00,104.94,489216.0000,20148.4800,503201.16979200,04/26/2016 @ 12:00:00 AM
-29577,"The Evil, Flameflare",The Citadel of Alammius,32.67,Stone Soulsteel Of The Skies,241.00,453.31,412.10,109247.7100,99316.1000,276701.60672700,04/26/2016 @ 12:00:00 AM
-28347,Emberspawn,Barad Cune,49.21,Undeads' Mind Orichalcum Of The Twilight,146.00,1169.00,364.69,170674.0000,53244.7400,334109.15195400,04/26/2016 @ 12:00:00 AM
-27389,"Goddess of the Earth, Gono",The Pirate's Pipe,16.94,Unknown Fatelightning Steel Of The Glacier,233.00,145.08,159.59,33803.6400,37184.4700,83013.49583400,04/26/2016 @ 12:00:00 AM
-15394,"Mystery, Lord",The Dungeon of Merciless Woe,3.61,Sirens' Rockgold,283.00,306.13,306.13,86634.7900,86634.7900,179524.61183800,04/26/2016 @ 12:00:00 AM
-28684,"Godwarlock, Sunrise",The Fortress of Akkun the Grim,27.03,Negative Rockglitter Mercury Of Trolls,226.00,235.59,214.17,53243.3400,48402.4200,129120.60892800,04/26/2016 @ 12:00:00 AM
-26287,Springsprocket,The Dungeon of Merciless Woe,3.97,Toxic Mistlead Of The Past,122.00,396.06,396.06,48319.3200,48319.3200,100475.19400800,04/26/2016 @ 12:00:00 AM
-28932,"Goddess of Law, Eumyan",The Citadel of Alammius,32.67,Heavenly Dreamsilver Of The Night,104.00,719.00,314.60,74776.0000,32718.4000,142612.82048000,04/26/2016 @ 12:00:00 AM
-13526,"Runetomb, Song",The Hunter and Rose,39.60,Primordial Plague Mercury Of Legend,241.00,73.70,67.00,17761.7000,16147.0000,47336.54520000,04/26/2016 @ 12:00:00 AM
-26810,"The Evil, Snowflame",Khali's Delve,1.30,Swordbronze,324.00,403.29,366.63,130665.9600,118788.1200,252696.98304000,04/26/2016 @ 12:00:00 AM
+23041,"Seraphheart, Storm",Reheath Stronghold,39.60,Shadowhell Mithril,163.00,462.21,420.19,75340.2300,68490.9700,200788.35520000,04/26/1946 @ 12:00:00 AM
+23059,Spikespawn,Moor Village,11.32,Tritons' Time Stoneiron Of Legend,238.00,341.59,341.59,81298.4200,81298.4200,181002.80228800,04/26/1946 @ 12:00:00 AM
+2435,Bronzespike,The Forsaken Tomb of Devastation,38.65,Spirits' Living Wordhammer Tin Of The Trees,324.00,3897.55,117.00,1262806.2000,37908.0000,1803440.23830000,04/26/1946 @ 12:00:00 AM
+25966,"Goddess of the Earth, Gono",Barad Cune,49.21,Warlocks' Timerot Mithril,315.00,194.65,176.95,61314.7500,55739.2500,174656.27340000,04/26/1946 @ 12:00:00 AM
+12632,"Gust, Shadow",Noble's Village,5.43,White Platinum,323.00,83.49,91.84,26967.2700,29664.3200,59706.68533700,04/26/1986 @ 12:00:00 AM
+12786,"The Grasping, Nettool",Archfane District,15.29,God-touched Greengem Platinum,193.00,206.95,206.95,39941.3500,39941.3500,92096.76483000,04/26/1946 @ 12:00:00 AM
+22194,"The Frigid, Icechill",The Tower of Sabiesu the Awesome,10.00,Fleshshock Mercury,272.00,-31.02,-28.20,-8437.4400,-7670.4000,-17718.62400000,04/26/1946 @ 12:00:00 AM
+21393,"The Chiller, Blazefreeze",Reyny Keep,-3.35,Starsmoke Bronze Of Life,206.00,-438.00,420.81,-90228.0000,86686.8600,-3422.51181000,04/26/1986 @ 12:00:00 AM
+19131,"Felldrake, Magus",Weke Tower,47.19,Grayplatinum,318.00,2548.00,104.94,810264.0000,33370.9200,1241746.23874800,04/26/1946 @ 12:00:00 AM
+22985,"Amberslayer, Flora",Reheath Stronghold,39.60,Planar Mudtin Of Trolls,276.00,191.40,174.00,52826.4000,48024.0000,140787.15840000,04/26/1946 @ 12:00:00 AM
+31137,"Amberslayer, Flora",The Nulukkhath Spires,28.99,Witchs' Forbidden Rockrainbow Bronze,316.00,245.63,245.63,77619.0800,77619.0800,200241.70258400,04/26/1946 @ 12:00:00 AM
+31893,Graveterror,The Demon and Toad,-1.21,Grayplatinum,192.00,2548.00,104.94,489216.0000,20148.4800,503201.16979200,04/26/1946 @ 12:00:00 AM
+29577,"The Evil, Flameflare",The Citadel of Alammius,32.67,Stone Soulsteel Of The Skies,241.00,453.31,412.10,109247.7100,99316.1000,276701.60672700,04/26/1946 @ 12:00:00 AM
+28347,Emberspawn,Barad Cune,49.21,Undeads' Mind Orichalcum Of The Twilight,146.00,1169.00,364.69,170674.0000,53244.7400,334109.15195400,04/26/1946 @ 12:00:00 AM
+27389,"Goddess of the Earth, Gono",The Pirate's Pipe,16.94,Unknown Fatelightning Steel Of The Glacier,233.00,145.08,159.59,33803.6400,37184.4700,83013.49583400,04/26/1946 @ 12:00:00 AM
+15394,"Mystery, Lord",The Dungeon of Merciless Woe,3.61,Sirens' Rockgold,283.00,306.13,306.13,86634.7900,86634.7900,179524.61183800,04/26/1946 @ 12:00:00 AM
+28684,"Godwarlock, Sunrise",The Fortress of Akkun the Grim,27.03,Negative Rockglitter Mercury Of Trolls,226.00,235.59,214.17,53243.3400,48402.4200,129120.60892800,04/26/1946 @ 12:00:00 AM
+26287,Springsprocket,The Dungeon of Merciless Woe,3.97,Toxic Mistlead Of The Past,122.00,396.06,396.06,48319.3200,48319.3200,100475.19400800,04/26/1946 @ 12:00:00 AM
+28932,"Goddess of Law, Eumyan",The Citadel of Alammius,32.67,Heavenly Dreamsilver Of The Night,104.00,719.00,314.60,74776.0000,32718.4000,142612.82048000,04/26/1946 @ 12:00:00 AM
+13526,"Runetomb, Song",The Hunter and Rose,39.60,Primordial Plague Mercury Of Legend,241.00,73.70,67.00,17761.7000,16147.0000,47336.54520000,04/26/1946 @ 12:00:00 AM
+26810,"The Evil, Snowflame",Khali's Delve,1.30,Swordbronze,324.00,403.29,366.63,130665.9600,118788.1200,252696.98304000,04/26/1946 @ 12:00:00 AM

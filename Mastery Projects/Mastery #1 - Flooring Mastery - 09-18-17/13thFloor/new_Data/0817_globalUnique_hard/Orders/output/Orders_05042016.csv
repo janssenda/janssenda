@@ -1,16 +1,16 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-35114,"The Unspeakable, Gravebone",The Bastion of the Vampire Duke,45.86,Sprites' Transcendent Mud Lead Of The South,291.00,3338.65,267.08,971547.1500,77720.2800,1530461.47339800,05/04/2016 @ 12:00:00 AM
-36971,"God of Fate, Uriel",The Fen of the Necromancer,32.21,Phantasmal Tin Of The Swamps,119.00,405.96,369.05,48309.2400,43916.9500,121932.24579900,05/04/2016 @ 12:00:00 AM
-34232,Deathbrood,Mahyrst Keep,31.30,Primordial Plague Mercury Of Legend,212.00,73.70,67.00,15624.4000,14204.0000,39164.68920000,05/04/2016 @ 12:00:00 AM
-10531,"Lord of Animals, Suriel",Arcanist's Farthing,29.00,Pearl Mirrorice Steel Of Changelings,219.00,2996.00,302.00,656124.0000,66138.0000,931717.98000000,05/04/2016 @ 12:00:00 AM
-33489,"Goddess of Trickery, Alik",The Archer and Scroll,60.12,Fairies' Supreme Mistsmoke Lead Of The Future,341.00,499.73,549.70,170407.9300,187447.7000,572998.43475600,05/04/2016 @ 12:00:00 AM
-9345,"The Binder, Springpulley",Love Keep,40.56,Djinni's Spectral Shadowlead Of Life,169.00,1718.00,259.12,290342.0000,43791.2800,469657.73836800,05/04/2016 @ 12:00:00 AM
-18122,Flameshiver,Barad Cune,49.21,Fairies' Supreme Mistsmoke Lead Of The Future,324.00,499.73,454.30,161912.5200,147193.2000,461216.64481200,05/04/2016 @ 12:00:00 AM
-30466,"Goddess of the Earth, Gono",Mahyrst Keep,31.30,Witchs' Forbidden Rockrainbow Bronze,210.00,245.63,245.63,51582.3000,51582.3000,135455.11980000,05/04/2016 @ 12:00:00 AM
-15409,"The Frigid, Icechill",The Tower of Aramum,20.00,Imperial Fate Steel,92.00,419.10,381.00,38557.2000,35052.0000,88331.04000000,05/04/2016 @ 12:00:00 AM
-15660,"The Chiller, Chillfire",The Tower of Aramum,20.00,Starsmoke Bronze Of Life,52.00,-438.00,420.81,-22776.0000,21882.1200,-1072.65600000,05/04/2016 @ 12:00:00 AM
-25016,"The Cold, Burnfreeze",Bifar's Deep,12.21,Ensorceled Sandmetal Of Spirits,241.00,85.18,77.44,20528.3800,18663.0400,43976.69238200,05/04/2016 @ 12:00:00 AM
-14860,Metalbrood,The Fortress of Akkun the Grim,27.03,Mind Lead,241.00,241.00,219.09,58081.0000,52800.6900,140853.01080700,05/04/2016 @ 12:00:00 AM
-37454,"Knightclaw, Sunset",The Greedy Wench,13.31,Stone Soulsteel Of The Skies,276.00,453.31,453.31,125113.5600,125113.5600,283532.34967200,05/04/2016 @ 12:00:00 AM
-36157,"The Grasping, Beamsprocket",The Fen of the Necromancer,32.21,Grayplatinum,285.00,2548.00,115.43,726180.0000,32897.5500,1003576.42885500,05/04/2016 @ 12:00:00 AM
-36255,Beamtrap,The Fen of the Necromancer,32.21,Vampires' Hammer Emeraldmetal,149.00,93.70,85.18,13961.3000,12691.8200,35238.08995200,05/04/2016 @ 12:00:00 AM
+35114,"Gravebone, The Unspeakable",The Bastion of the Vampire Duke,45.86,Sprites' Transcendent Mud Lead Of The South,291.00,3338.65,267.08,971547.1500,77720.2800,1530461.47339800,05/04/2006 @ 12:00:00 AM
+36971,"Uriel, God of Fate",The Fen of the Necromancer,32.21,Phantasmal Tin Of The Swamps,119.00,405.96,369.05,48309.2400,43916.9500,121932.24579900,05/04/2016 @ 12:00:00 AM
+34232,Deathbrood,Mahyrst Keep,31.30,Primordial Plague Mercury Of Legend,212.00,73.70,67.00,15624.4000,14204.0000,39164.68920000,05/04/2006 @ 12:00:00 AM
+10531,"Suriel, Lord of Animals",Arcanist's Farthing,29.00,Pearl Mirrorice Steel Of Changelings,219.00,2996.00,302.00,656124.0000,66138.0000,931717.98000000,05/04/2006 @ 12:00:00 AM
+33489,"Alik, Goddess of Trickery",The Archer and Scroll,60.12,Fairies' Supreme Mistsmoke Lead Of The Future,341.00,499.73,549.70,170407.9300,187447.7000,572998.43475600,05/04/2006 @ 12:00:00 AM
+9345,"Springpulley, The Binder",Love Keep,40.56,Djinni's Spectral Shadowlead Of Life,169.00,1718.00,259.12,290342.0000,43791.2800,469657.73836800,05/04/2006 @ 12:00:00 AM
+18122,Flameshiver,Barad Cune,49.21,Fairies' Supreme Mistsmoke Lead Of The Future,324.00,499.73,454.30,161912.5200,147193.2000,461216.64481200,05/04/2006 @ 12:00:00 AM
+30466,"Gono, Goddess of the Earth",Mahyrst Keep,31.30,Witchs' Forbidden Rockrainbow Bronze,210.00,245.63,245.63,51582.3000,51582.3000,135455.11980000,05/04/2006 @ 12:00:00 AM
+15409,"Icechill, The Frigid",The Tower of Aramum,20.00,Imperial Fate Steel,92.00,419.10,381.00,38557.2000,35052.0000,88331.04000000,05/04/2006 @ 12:00:00 AM
+15660,"Chillfire, The Chiller",The Tower of Aramum,20.00,Starsmoke Bronze Of Life,52.00,-438.00,420.81,-22776.0000,21882.1200,-1072.65600000,05/04/2006 @ 12:00:00 AM
+25016,"Burnfreeze, The Cold",Bifar's Deep,12.21,Ensorceled Sandmetal Of Spirits,241.00,85.18,77.44,20528.3800,18663.0400,43976.69238200,05/04/2006 @ 12:00:00 AM
+14860,Metalbrood,The Fortress of Akkun the Grim,27.03,Mind Lead,241.00,241.00,219.09,58081.0000,52800.6900,140853.01080700,05/04/2006 @ 12:00:00 AM
+37454,"Sunset, Knightclaw",The Greedy Wench,13.31,Stone Soulsteel Of The Skies,276.00,453.31,453.31,125113.5600,125113.5600,283532.34967200,05/04/2006 @ 12:00:00 AM
+36157,"Beamsprocket, The Grasping",The Fen of the Necromancer,32.21,Grayplatinum,285.00,2548.00,115.43,726180.0000,32897.5500,1003576.42885500,05/04/2006 @ 12:00:00 AM
+36255,Beamtrap,The Fen of the Necromancer,32.21,Vampires' Hammer Emeraldmetal,149.00,93.70,85.18,13961.3000,12691.8200,35238.08995200,05/04/2006 @ 12:00:00 AM

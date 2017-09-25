@@ -1,17 +1,17 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-1073,"Brand, Lightning",The Bloody Wand,1.98,Meteoric Mirrormuck Orichalcum Of The Forests,252.00,491.62,368.50,123888.2400,92862.0000,221041.89475200,09/20/2015 @ 12:00:00 AM
-1327,"The Constructed, Snaretool",The Warrior and Flagon,9.00,Foul Ice Bronze Of Life,253.00,-378.00,242.00,-95634.0000,61226.0000,-37504.72000000,09/20/2015 @ 12:00:00 AM
-1512,"Drakecaster, Sephiroth",The Forsaken Delve of Lord Greywulf,15.62,Foul Ice Bronze Of Life,354.00,-378.00,242.00,-133812.0000,85668.0000,-55664.09280000,09/20/2015 @ 12:00:00 AM
-35773,Ironbrood,The Fortress of the Lich Queen,22.79,Lycanthropes' Gold,115.00,449.88,408.98,51736.2000,47032.7000,121278.33231000,09/20/2015 @ 12:00:00 AM
-9424,"The Frigid, Icechill",The Lost Sanctum of Woe,43.20,Unknowable Mindsilver,289.00,174.90,174.90,50546.1000,50546.1000,144764.03040000,09/20/2015 @ 12:00:00 AM
-203,"God of Death, Avriel",Gili's Delve,35.89,Warlocks' Timerot Mithril,199.00,725.00,176.95,144275.0000,35213.0500,243906.31114500,09/20/2015 @ 12:00:00 AM
-8514,Chainnail,Gawold Castle,10.29,Unicorns' Fatal Magma Metal Of The Ocean,208.00,903.00,23.00,187824.0000,4784.0000,212427.36320000,09/20/2015 @ 12:00:00 AM
-7405,Metalghoul,Gawold Castle,10.29,Sapphire Mindlead,289.00,-44.77,-40.70,-12938.5300,-11762.3000,-27242.54540700,09/20/2015 @ 12:00:00 AM
-8963,"The Living Device, Mecharig",The Lost Sanctum of Woe,43.20,Planar Mudtin Of Trolls,244.00,191.40,174.00,46701.6000,42456.0000,127673.68320000,09/20/2015 @ 12:00:00 AM
-17702,"Drakecaster, Sephiroth",Kada's Deep,8.42,Poison Adamant,282.00,110.96,100.87,31290.7200,28445.3400,64765.83625200,09/20/2015 @ 12:00:00 AM
-26122,"Tombreaper, Rouge",The Black Barrow of Bery,23.96,Starsmoke Bronze Of Life,195.00,-438.00,420.81,-85410.0000,82057.9500,-4155.20118000,09/20/2015 @ 12:00:00 AM
-16850,"The Unspeakable, Terrorghoul",North Arcanist's Farthing,2.75,Warlocks' Timerot Mithril,387.00,725.00,176.95,280575.0000,68479.6500,358653.65287500,09/20/2015 @ 12:00:00 AM
-14295,Emberfire,Noble's Village,5.43,Vampires' Hammer Emeraldmetal,151.00,77.44,70.40,11693.4400,10630.4000,23536.02451200,09/20/2015 @ 12:00:00 AM
-26599,"The Firey, Evilember",Citadel Ward,4.40,Foulopal Copper Of The Skies,283.00,221.83,201.66,62777.8900,57069.7800,125120.96748000,09/20/2015 @ 12:00:00 AM
-36059,"Goddess of the Earth, Gono",The Nulukkhath Spires,28.99,Magicians' Legendary Poison Metal,25.00,-52.81,-48.01,-1320.2500,-1200.2500,-3251.19295000,09/20/2015 @ 12:00:00 AM
-4921,Wheelspawn,Shainan's Hold,43.67,Phantasmal Smokezephyr Mercury Of Men,190.00,211.20,192.00,40128.0000,36480.0000,110062.71360000,09/20/2015 @ 12:00:00 AM
+1073,"Brand, Lightning",The Bloody Wand,1.98,Meteoric Mirrormuck Orichalcum Of The Forests,252.00,491.62,368.50,123888.2400,92862.0000,221041.89475200,09/20/1945 @ 12:00:00 AM
+1327,"The Constructed, Snaretool",The Warrior and Flagon,9.00,Foul Ice Bronze Of Life,253.00,-378.00,242.00,-95634.0000,61226.0000,-37504.72000000,09/20/1985 @ 12:00:00 AM
+1512,"Drakecaster, Sephiroth",The Forsaken Delve of Lord Greywulf,15.62,Foul Ice Bronze Of Life,354.00,-378.00,242.00,-133812.0000,85668.0000,-55664.09280000,09/20/1945 @ 12:00:00 AM
+35773,Ironbrood,The Fortress of the Lich Queen,22.79,Lycanthropes' Gold,115.00,449.88,408.98,51736.2000,47032.7000,121278.33231000,09/20/1945 @ 12:00:00 AM
+9424,"The Frigid, Icechill",The Lost Sanctum of Woe,43.20,Unknowable Mindsilver,289.00,174.90,174.90,50546.1000,50546.1000,144764.03040000,09/20/1945 @ 12:00:00 AM
+203,"God of Death, Avriel",Gili's Delve,35.89,Warlocks' Timerot Mithril,199.00,725.00,176.95,144275.0000,35213.0500,243906.31114500,09/20/1945 @ 12:00:00 AM
+8514,Chainnail,Gawold Castle,10.29,Unicorns' Fatal Magma Metal Of The Ocean,208.00,903.00,23.00,187824.0000,4784.0000,212427.36320000,09/20/1945 @ 12:00:00 AM
+7405,Metalghoul,Gawold Castle,10.29,Sapphire Mindlead,289.00,-44.77,-40.70,-12938.5300,-11762.3000,-27242.54540700,09/20/1985 @ 12:00:00 AM
+8963,"The Living Device, Mecharig",The Lost Sanctum of Woe,43.20,Planar Mudtin Of Trolls,244.00,191.40,174.00,46701.6000,42456.0000,127673.68320000,09/20/1945 @ 12:00:00 AM
+17702,"Drakecaster, Sephiroth",Kada's Deep,8.42,Poison Adamant,282.00,110.96,100.87,31290.7200,28445.3400,64765.83625200,09/20/1945 @ 12:00:00 AM
+26122,"Tombreaper, Rouge",The Black Barrow of Bery,23.96,Starsmoke Bronze Of Life,195.00,-438.00,420.81,-85410.0000,82057.9500,-4155.20118000,09/20/1985 @ 12:00:00 AM
+16850,"The Unspeakable, Terrorghoul",North Arcanist's Farthing,2.75,Warlocks' Timerot Mithril,387.00,725.00,176.95,280575.0000,68479.6500,358653.65287500,09/20/1945 @ 12:00:00 AM
+14295,Emberfire,Noble's Village,5.43,Vampires' Hammer Emeraldmetal,151.00,77.44,70.40,11693.4400,10630.4000,23536.02451200,09/20/1945 @ 12:00:00 AM
+26599,"The Firey, Evilember",Citadel Ward,4.40,Foulopal Copper Of The Skies,283.00,221.83,201.66,62777.8900,57069.7800,125120.96748000,09/20/1945 @ 12:00:00 AM
+36059,"Goddess of the Earth, Gono",The Nulukkhath Spires,28.99,Magicians' Legendary Poison Metal,25.00,-52.81,-48.01,-1320.2500,-1200.2500,-3251.19295000,09/20/1945 @ 12:00:00 AM
+4921,Wheelspawn,Shainan's Hold,43.67,Phantasmal Smokezephyr Mercury Of Men,190.00,211.20,192.00,40128.0000,36480.0000,110062.71360000,09/20/1945 @ 12:00:00 AM

@@ -1,23 +1,23 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-24476,"God of Death, Avriel",The Bastion of Barbos,25.41,Foul Ice Bronze Of Life,288.00,292.82,266.20,84332.1600,76665.6000,201907.29081600,10/04/2015 @ 12:00:00 AM
-37763,Gravebone,The Greedy Wench,13.31,Stone Soulsteel Of The Skies,212.00,453.31,453.31,96101.7200,96101.7200,217785.71786400,10/04/2015 @ 12:00:00 AM
-2555,"Roguemist, Rouge",The Tomb of Hellish Ruin,30.00,Tin Of The Tundra,127.00,4121.00,328.31,523367.0000,41695.3700,734581.08100000,10/04/2015 @ 12:00:00 AM
-23360,"Runetomb, Song",Moor Village,11.32,Fleshshock Mercury,156.00,-31.02,-28.20,-4839.1200,-4399.2000,-10284.09782400,10/04/2015 @ 12:00:00 AM
-2835,"Felldrake, Magus",The Cracked Chalice,-4.37,Unknowable Mindsilver,181.00,34.00,159.00,6154.0000,28779.0000,33406.42790000,10/04/2015 @ 12:00:00 AM
-10320,Ironbrood,Archfane District,15.29,Tritons' Time Stoneiron Of Legend,394.00,2235.00,310.54,880590.0000,122352.7600,1156292.70800400,10/04/2015 @ 12:00:00 AM
-21146,Bolttrap,Moor Village,11.32,Negative Rockglitter Mercury Of Trolls,163.00,3502.00,214.17,570826.0000,34909.7100,674304.99237200,10/04/2015 @ 12:00:00 AM
-22442,"The Cold, Burnfreeze",The Nulukkhath Spires,28.99,Primordial Mud Orichalcum,187.00,1113.00,20.57,208131.0000,3846.5900,273429.89334100,10/04/2015 @ 12:00:00 AM
-22508,Beamtrap,The Nulukkhath Spires,28.99,Fleshshock Mercury,252.00,-31.02,-28.20,-7817.0400,-7106.4000,-19249.74525600,10/04/2015 @ 12:00:00 AM
-7031,"God of Fate, Uriel",The Pirate's Pipe,15.40,Unicorns' Fatal Magma Metal Of The Ocean,59.00,903.00,23.00,53277.0000,1357.0000,63047.63600000,10/04/2015 @ 12:00:00 AM
-8400,"Drakecaster, Sephiroth",Lamp Borough,0.00,Unknowable Mindsilver,185.00,174.90,174.90,32356.5000,32356.5000,64713.00000000,10/04/2015 @ 12:00:00 AM
-17557,"The Evil, Flameflare",The Bastion of the Vampire Duke,37.90,Starsmoke Bronze Of Life,383.00,-438.00,420.81,-167754.0000,161170.2300,-9079.01883000,10/04/2015 @ 12:00:00 AM
-30707,Springsprocket,The Nulukkhath Spires,28.99,Foulopal Copper Of The Skies,179.00,221.83,221.83,39707.5700,39707.5700,102437.58908600,10/04/2015 @ 12:00:00 AM
-5549,"Seeker, Fate",The Bastion of the Vampire Duke,34.45,Vampires' Hammer Emeraldmetal,203.00,77.44,70.40,15720.3200,14291.2000,40350.48864000,10/04/2015 @ 12:00:00 AM
-28817,"Goddess of Thieves, Melcha",The Nulukkhath Spires,28.99,Unknown Fatelightning Steel Of The Glacier,122.00,145.08,159.59,17699.7600,19469.9800,47945.24762600,10/04/2015 @ 12:00:00 AM
-28808,"Anchor, Rose",The Bastion of the Vampire Duke,45.86,Vampires' Fang Emeraldsilver,134.00,2033.69,80.84,272514.4600,10832.5600,413289.96337200,10/04/2015 @ 12:00:00 AM
-5640,"The Unspeakable, Scarechain",Pawic Keep,31.90,Tritons' Time Stoneiron Of Legend,62.00,2235.00,310.54,138570.0000,19253.4800,208169.17012000,10/04/2015 @ 12:00:00 AM
-3122,Cinderflame,The Lazy Sage,21.93,Spectres' Shadowy Terrorglow Adamant Of Life,196.00,-297.62,175.08,-58333.5200,34315.6800,-29284.95231200,10/04/2015 @ 12:00:00 AM
-14404,"Goddess of Travel, Lenwenye",The Secret Catacombs of Ulfang the Black,28.82,Djinni's Evil Sandobsidian Steel Of The Future,153.00,140.58,140.58,21508.7400,21508.7400,55415.11773600,10/04/2015 @ 12:00:00 AM
-4590,"The Cremator, Blazeflare",Bergfison's Deep,16.00,Incubi's Iron Of The Dawn,170.00,-431.08,159.08,-73283.6000,27043.6000,-53638.40000000,10/04/2015 @ 12:00:00 AM
-14662,"Gust, Shadow",The Secret Catacombs of Ulfang the Black,28.82,Fleshshock Mercury,247.00,-31.02,-28.20,-7661.9400,-6965.4000,-18842.93938800,10/04/2015 @ 12:00:00 AM
-25544,"Anchor, Rose",The Fortress of Akkun the Grim,27.03,Djinni's Mind Fogiron,214.00,57.23,57.23,12247.2200,12247.2200,31115.28713200,10/04/2015 @ 12:00:00 AM
+24476,"God of Death, Avriel",The Bastion of Barbos,25.41,Foul Ice Bronze Of Life,288.00,292.82,266.20,84332.1600,76665.6000,201907.29081600,10/04/1945 @ 12:00:00 AM
+37763,Gravebone,The Greedy Wench,13.31,Stone Soulsteel Of The Skies,212.00,453.31,453.31,96101.7200,96101.7200,217785.71786400,10/04/1945 @ 12:00:00 AM
+2555,"Roguemist, Rouge",The Tomb of Hellish Ruin,30.00,Tin Of The Tundra,127.00,4121.00,328.31,523367.0000,41695.3700,734581.08100000,10/04/1945 @ 12:00:00 AM
+23360,"Runetomb, Song",Moor Village,11.32,Fleshshock Mercury,156.00,-31.02,-28.20,-4839.1200,-4399.2000,-10284.09782400,10/04/1945 @ 12:00:00 AM
+2835,"Felldrake, Magus",The Cracked Chalice,-4.37,Unknowable Mindsilver,181.00,34.00,159.00,6154.0000,28779.0000,33406.42790000,10/04/1985 @ 12:00:00 AM
+10320,Ironbrood,Archfane District,15.29,Tritons' Time Stoneiron Of Legend,394.00,2235.00,310.54,880590.0000,122352.7600,1156292.70800400,10/04/1945 @ 12:00:00 AM
+21146,Bolttrap,Moor Village,11.32,Negative Rockglitter Mercury Of Trolls,163.00,3502.00,214.17,570826.0000,34909.7100,674304.99237200,10/04/1945 @ 12:00:00 AM
+22442,"The Cold, Burnfreeze",The Nulukkhath Spires,28.99,Primordial Mud Orichalcum,187.00,1113.00,20.57,208131.0000,3846.5900,273429.89334100,10/04/1945 @ 12:00:00 AM
+22508,Beamtrap,The Nulukkhath Spires,28.99,Fleshshock Mercury,252.00,-31.02,-28.20,-7817.0400,-7106.4000,-19249.74525600,10/04/1945 @ 12:00:00 AM
+7031,"God of Fate, Uriel",The Pirate's Pipe,15.40,Unicorns' Fatal Magma Metal Of The Ocean,59.00,903.00,23.00,53277.0000,1357.0000,63047.63600000,10/04/1945 @ 12:00:00 AM
+8400,"Drakecaster, Sephiroth",Lamp Borough,0.00,Unknowable Mindsilver,185.00,174.90,174.90,32356.5000,32356.5000,64713.00000000,10/04/1945 @ 12:00:00 AM
+17557,"The Evil, Flameflare",The Bastion of the Vampire Duke,37.90,Starsmoke Bronze Of Life,383.00,-438.00,420.81,-167754.0000,161170.2300,-9079.01883000,10/04/1945 @ 12:00:00 AM
+30707,Springsprocket,The Nulukkhath Spires,28.99,Foulopal Copper Of The Skies,179.00,221.83,221.83,39707.5700,39707.5700,102437.58908600,10/04/1945 @ 12:00:00 AM
+5549,"Seeker, Fate",The Bastion of the Vampire Duke,34.45,Vampires' Hammer Emeraldmetal,203.00,77.44,70.40,15720.3200,14291.2000,40350.48864000,10/04/1945 @ 12:00:00 AM
+28817,"Goddess of Thieves, Melcha",The Nulukkhath Spires,28.99,Unknown Fatelightning Steel Of The Glacier,122.00,145.08,159.59,17699.7600,19469.9800,47945.24762600,10/04/1945 @ 12:00:00 AM
+28808,"Anchor, Rose",The Bastion of the Vampire Duke,45.86,Vampires' Fang Emeraldsilver,134.00,2033.69,80.84,272514.4600,10832.5600,413289.96337200,10/04/1985 @ 12:00:00 AM
+5640,"The Unspeakable, Scarechain",Pawic Keep,31.90,Tritons' Time Stoneiron Of Legend,62.00,2235.00,310.54,138570.0000,19253.4800,208169.17012000,10/04/1945 @ 12:00:00 AM
+3122,Cinderflame,The Lazy Sage,21.93,Spectres' Shadowy Terrorglow Adamant Of Life,196.00,-297.62,175.08,-58333.5200,34315.6800,-29284.95231200,10/04/1945 @ 12:00:00 AM
+14404,"Goddess of Travel, Lenwenye",The Secret Catacombs of Ulfang the Black,28.82,Djinni's Evil Sandobsidian Steel Of The Future,153.00,140.58,140.58,21508.7400,21508.7400,55415.11773600,10/04/1945 @ 12:00:00 AM
+4590,"The Cremator, Blazeflare",Bergfison's Deep,16.00,Incubi's Iron Of The Dawn,170.00,-431.08,159.08,-73283.6000,27043.6000,-53638.40000000,10/04/1945 @ 12:00:00 AM
+14662,"Gust, Shadow",The Secret Catacombs of Ulfang the Black,28.82,Fleshshock Mercury,247.00,-31.02,-28.20,-7661.9400,-6965.4000,-18842.93938800,10/04/1945 @ 12:00:00 AM
+25544,"Anchor, Rose",The Fortress of Akkun the Grim,27.03,Djinni's Mind Fogiron,214.00,57.23,57.23,12247.2200,12247.2200,31115.28713200,10/04/1985 @ 12:00:00 AM

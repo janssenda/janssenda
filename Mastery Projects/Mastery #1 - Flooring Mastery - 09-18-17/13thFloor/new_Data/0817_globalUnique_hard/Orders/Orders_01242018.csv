@@ -1,24 +1,24 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-37764,"Felldrake, Magus",The Greedy Wench,13.31,Stone Soulsteel Of The Skies,313.00,453.31,453.31,141886.0300,141886.0300,321542.12118600,01/24/2018 @ 12:00:00 AM
-13964,"Claw, Slayer",Gena's Hold,5.85,Mithril Of The Tropics,194.00,251.56,251.56,48802.6400,48802.6400,103315.18888000,01/24/2018 @ 12:00:00 AM
-11473,"Jester, Seraph",The Black Barrow of Bery,19.80,Pearl Mirrorice Steel Of Changelings,234.00,2996.00,302.00,701064.0000,70668.0000,924534.93600000,01/24/2018 @ 12:00:00 AM
-23386,"The Horrorific, Evilfear",Moor Village,11.32,Shadowhell Mithril,56.00,462.21,420.19,25883.7600,23530.6400,55008.11008000,01/24/2018 @ 12:00:00 AM
-35550,"Rougehate, Rune",Citadel Ward,4.40,Yellow Mistearth Copper,235.00,287.98,261.80,67675.3000,61523.0000,134883.02520000,01/24/2018 @ 12:00:00 AM
-21252,Bronzespawn,Arcanist's Farthing,29.00,Plague Tin,277.00,465.25,422.95,128874.2500,117157.1500,317380.50600000,01/24/2018 @ 12:00:00 AM
-9187,Bonescare,Gena's Hold,4.40,Primordial Plague Mercury Of Legend,78.00,1150.79,67.00,89761.6200,5226.0000,99167.07528000,01/24/2018 @ 12:00:00 AM
-19367,"The Disinterred, Spikebrood",The Bastion of Barbos,25.41,Emerald Orichalcum,213.00,1957.00,129.81,416841.0000,27649.5300,557435.57367300,01/24/2018 @ 12:00:00 AM
-18131,Deathbrood,Gili's Delve,35.89,Fairies' Supreme Mistsmoke Lead Of The Future,120.00,499.73,454.30,59967.6000,54516.0000,155571.76404000,01/24/2018 @ 12:00:00 AM
-8144,"God of Love, Prusu",Gawold Castle,10.29,Fleshshock Mercury,265.00,-31.02,-28.20,-8220.3000,-7473.0000,-17308.14057000,01/24/2018 @ 12:00:00 AM
-30167,"Lawslayer, Valentine",The Greedy Wench,13.31,Incubi's Glittering Tin Of The Future,202.00,192.96,233.49,38977.9200,47164.9800,97608.51999000,01/24/2018 @ 12:00:00 AM
-28199,"Lonedrake, Clash",The Fortress of Akkun the Grim,27.03,Stone Soulsteel Of The Skies,42.00,453.31,412.10,19039.0200,17308.2000,46171.87356600,01/24/2018 @ 12:00:00 AM
-6223,Bolttrap,Khali's Delve,1.18,Dragons' Poison Glitterflesh Steel Of The North,153.00,742.00,75.00,113526.0000,11475.0000,126476.01180000,01/24/2018 @ 12:00:00 AM
-29607,"Lord of Plague, Alas",The Citadel of Alammius,32.67,Hidden Shadowice Lead,240.00,-16.50,-16.50,-3960.0000,-3960.0000,-10507.46400000,01/24/2018 @ 12:00:00 AM
-29704,"Felldrake, Magus",The Tower of Sabiesu the Awesome,10.00,Incubi's Glittering Tin Of The Future,11.00,192.96,233.49,2122.5600,2568.3900,5160.04500000,01/24/2018 @ 12:00:00 AM
-27102,"The Unspeakable, Gravebone",Khali's Delve,1.30,Swordbronze,150.00,403.29,366.63,60493.5000,54994.5000,116989.34400000,01/24/2018 @ 12:00:00 AM
-27329,Spikecrank,The Bastion of Gothmog of Udun,-2.42,Unknown Fatelightning Steel Of The Glacier,24.00,145.08,159.59,3481.9200,3830.1600,7135.12766400,01/24/2018 @ 12:00:00 AM
-15338,"Drakecaster, Sephiroth",The Fortress of Asmamur,-2.66,Shadowhell Mithril,173.00,462.21,420.19,79962.3300,72692.8700,148594.57168000,01/24/2018 @ 12:00:00 AM
-5406,"Lady of Fire, Nelalwe",The Greedy Wench,12.10,Sirens' Rockgold,202.00,306.13,278.30,61838.2600,56216.6000,132339.49806000,01/24/2018 @ 12:00:00 AM
-14111,Wheelspawn,Gena's Hold,5.85,Imperial Fate Steel,42.00,419.10,381.00,17602.2000,16002.0000,35570.04570000,01/24/2018 @ 12:00:00 AM
-16892,"Drakecaster, Sephiroth",North Arcanist's Farthing,2.75,Grayplatinum,192.00,2548.00,104.94,489216.0000,20148.4800,523372.00320000,01/24/2018 @ 12:00:00 AM
-3277,"Tsunami, Seraphim",The Fortress of the Lich Queen,17.13,Emerald Orichalcum,321.00,1957.00,118.01,628197.0000,37881.2100,780177.40737300,01/24/2018 @ 12:00:00 AM
-26598,"The Trapper, Boltcrank",Citadel Ward,4.40,Muck Orichalcum Of Ogres,178.00,143.37,130.34,25519.8600,23200.5200,50864.07672000,01/24/2018 @ 12:00:00 AM
+37764,"Magus, Felldrake",The Greedy Wench,13.31,Stone Soulsteel Of The Skies,313.00,453.31,453.31,141886.0300,141886.0300,321542.12118600,01/24/2008 @ 12:00:00 AM
+13964,"Slayer, Claw",Gena's Hold,5.85,Mithril Of The Tropics,194.00,251.56,251.56,48802.6400,48802.6400,103315.18888000,01/24/2008 @ 12:00:00 AM
+11473,"Seraph, Jester",The Black Barrow of Bery,19.80,Pearl Mirrorice Steel Of Changelings,234.00,2996.00,302.00,701064.0000,70668.0000,924534.93600000,01/24/2008 @ 12:00:00 AM
+23386,"Evilfear, The Horrorific",Moor Village,11.32,Shadowhell Mithril,56.00,462.21,420.19,25883.7600,23530.6400,55008.11008000,01/24/2008 @ 12:00:00 AM
+35550,"Rune, Rougehate",Citadel Ward,4.40,Yellow Mistearth Copper,235.00,287.98,261.80,67675.3000,61523.0000,134883.02520000,01/24/2008 @ 12:00:00 AM
+21252,Bronzespawn,Arcanist's Farthing,29.00,Plague Tin,277.00,465.25,422.95,128874.2500,117157.1500,317380.50600000,01/24/2008 @ 12:00:00 AM
+9187,Bonescare,Gena's Hold,4.40,Primordial Plague Mercury Of Legend,78.00,1150.79,67.00,89761.6200,5226.0000,99167.07528000,01/24/2008 @ 12:00:00 AM
+19367,"Spikebrood, The Disinterred",The Bastion of Barbos,25.41,Emerald Orichalcum,213.00,1957.00,129.81,416841.0000,27649.5300,557435.57367300,01/24/2008 @ 12:00:00 AM
+18131,Deathbrood,Gili's Delve,35.89,Fairies' Supreme Mistsmoke Lead Of The Future,120.00,499.73,454.30,59967.6000,54516.0000,155571.76404000,01/24/2008 @ 12:00:00 AM
+8144,"Prusu, God of Love",Gawold Castle,10.29,Fleshshock Mercury,265.00,-31.02,-28.20,-8220.3000,-7473.0000,-17308.14057000,01/24/2008 @ 12:00:00 AM
+30167,"Valentine, Lawslayer",The Greedy Wench,13.31,Incubi's Glittering Tin Of The Future,202.00,192.96,233.49,38977.9200,47164.9800,97608.51999000,01/24/2008 @ 12:00:00 AM
+28199,"Clash, Lonedrake",The Fortress of Akkun the Grim,27.03,Stone Soulsteel Of The Skies,42.00,453.31,412.10,19039.0200,17308.2000,46171.87356600,01/24/2008 @ 12:00:00 AM
+6223,Bolttrap,Khali's Delve,1.18,Dragons' Poison Glitterflesh Steel Of The North,153.00,742.00,75.00,113526.0000,11475.0000,126476.01180000,01/24/2008 @ 12:00:00 AM
+29607,"Alas, Lord of Plague",The Citadel of Alammius,32.67,Hidden Shadowice Lead,240.00,-16.50,-16.50,-3960.0000,-3960.0000,-10507.46400000,01/24/2008 @ 12:00:00 AM
+29704,"Magus, Felldrake",The Tower of Sabiesu the Awesome,10.00,Incubi's Glittering Tin Of The Future,11.00,192.96,233.49,2122.5600,2568.3900,5160.04500000,01/24/2008 @ 12:00:00 AM
+27102,"Gravebone, The Unspeakable",Khali's Delve,1.30,Swordbronze,150.00,403.29,366.63,60493.5000,54994.5000,116989.34400000,01/24/2008 @ 12:00:00 AM
+27329,Spikecrank,The Bastion of Gothmog of Udun,-2.42,Unknown Fatelightning Steel Of The Glacier,24.00,145.08,159.59,3481.9200,3830.1600,7135.12766400,01/24/2008 @ 12:00:00 AM
+15338,"Sephiroth, Drakecaster",The Fortress of Asmamur,-2.66,Shadowhell Mithril,173.00,462.21,420.19,79962.3300,72692.8700,148594.57168000,01/24/2008 @ 12:00:00 AM
+5406,"Nelalwe, Lady of Fire",The Greedy Wench,12.10,Sirens' Rockgold,202.00,306.13,278.30,61838.2600,56216.6000,132339.49806000,01/24/2008 @ 12:00:00 AM
+14111,Wheelspawn,Gena's Hold,5.85,Imperial Fate Steel,42.00,419.10,381.00,17602.2000,16002.0000,35570.04570000,01/24/2008 @ 12:00:00 AM
+16892,"Sephiroth, Drakecaster",North Arcanist's Farthing,2.75,Grayplatinum,192.00,2548.00,104.94,489216.0000,20148.4800,523372.00320000,01/24/2008 @ 12:00:00 AM
+3277,"Seraphim, Tsunami",The Fortress of the Lich Queen,17.13,Emerald Orichalcum,321.00,1957.00,118.01,628197.0000,37881.2100,780177.40737300,01/24/2008 @ 12:00:00 AM
+26598,"Boltcrank, The Trapper",Citadel Ward,4.40,Muck Orichalcum Of Ogres,178.00,143.37,130.34,25519.8600,23200.5200,50864.07672000,01/24/2008 @ 12:00:00 AM

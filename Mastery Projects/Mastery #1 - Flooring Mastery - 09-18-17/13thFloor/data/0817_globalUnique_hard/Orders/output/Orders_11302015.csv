@@ -1,22 +1,22 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-12582,"God of Fate, Uriel",The Tomb of Hellish Ruin,33.00,Incubi's Iron Of The Dawn,239.00,174.99,174.99,41822.6100,41822.6100,111248.14260000,11/30/2015 @ 12:00:00 AM
-12733,"Darkzealot, Dawn",Gili's Delve,35.89,Djinni's Mind Fogiron,102.00,57.23,52.03,5837.4600,5307.0600,15144.28822800,11/30/2015 @ 12:00:00 AM
-23393,"Wind, Maverick",The Secret Catacombs of Ulfang the Black,31.70,Shadowhell Mithril,213.00,462.21,420.19,98450.7300,89500.4700,247531.73040000,11/30/2015 @ 12:00:00 AM
-23342,Metalbrood,Reheath Stronghold,39.60,Shadowhell Mithril,220.00,462.21,420.19,101686.2000,92441.8000,271002.68800000,11/30/2015 @ 12:00:00 AM
-12873,"The Cold, Burnfreeze",Noble's Village,5.43,Incubi's Iron Of The Dawn,359.00,174.99,174.99,62821.4100,62821.4100,132465.22512600,11/30/2015 @ 12:00:00 AM
-23678,"Seraphheart, Storm",The Broken Arrow,17.60,Djinni's Mind Fogiron,293.00,57.23,57.23,16768.3900,16768.3900,39439.25328000,11/30/2015 @ 12:00:00 AM
-12977,"The Disinterred, Spikebrood",Archfane District,15.29,Djinni's Mind Fogiron,113.00,57.23,52.03,6466.9900,5879.3900,14234.14150200,11/30/2015 @ 12:00:00 AM
-29143,"God of Fate, Uriel",The Nulukkhath Spires,28.99,Fleshshock Mercury,188.00,-31.02,-28.20,-5831.7600,-5301.6000,-14360.92106400,11/30/2015 @ 12:00:00 AM
-17147,"Lord of Death, Addon",North Arcanist's Farthing,2.75,Grayplatinum,135.00,2548.00,104.94,343980.0000,14166.9000,367995.93975000,11/30/2015 @ 12:00:00 AM
-32732,Bronzespawn,Citadel Ward,4.40,Yellow Mistearth Copper,196.00,287.98,261.80,56444.0800,51312.8000,112498.18272000,11/30/2015 @ 12:00:00 AM
-380,"Goddess of Knowledge, Baltha",Bergfison's Deep,16.00,Zephyr Iron,373.00,2249.71,233.69,839141.8300,87166.3700,1074517.51200000,11/30/2015 @ 12:00:00 AM
-7525,Evilbrood,Archfane District,15.29,Sapphire Mindlead,218.00,-44.77,-40.70,-9759.8600,-8872.6000,-21481.36313400,11/30/2015 @ 12:00:00 AM
-30682,"Tsunami, Seraphim",The Broken Arrow,17.60,Foulopal Copper Of The Skies,201.00,221.83,221.83,44587.8300,44587.8300,104870.57616000,11/30/2015 @ 12:00:00 AM
-7858,"God of Fate, Sielach",Archfane District,15.29,Planar Mudtin Of Trolls,370.00,3529.02,174.00,1305737.4000,64380.0000,1579608.35046000,11/30/2015 @ 12:00:00 AM
-17829,"The Disinterred, Spikebrood",The Bastion of the Vampire Duke,37.90,Starsmoke Bronze Of Life,266.00,-438.00,420.81,-116508.0000,111935.4600,-6305.53266000,11/30/2015 @ 12:00:00 AM
-30916,"Gust, Shadow",The Tower of Sabiesu the Awesome,10.00,Witchs' Forbidden Rockrainbow Bronze,143.00,245.63,245.63,35125.0900,35125.0900,77275.19800000,11/30/2015 @ 12:00:00 AM
-26139,"Brand, Lightning",The Black Barrow of Bery,23.96,Grayplatinum,368.00,2548.00,104.94,937664.0000,38617.9200,1210199.06803200,11/30/2015 @ 12:00:00 AM
-5769,Spikespawn,Reheath Stronghold,39.60,Dragons' Poison Glitterflesh Steel Of The North,195.00,742.00,75.00,144690.0000,14625.0000,222403.74000000,11/30/2015 @ 12:00:00 AM
-3186,"Lionwatcher, Law",The Lazy Sage,21.93,Succubi's Evil Mindzephyr Adamant Of The Desert,208.00,555.09,42.90,115458.7200,8923.2000,151658.87505600,11/30/2015 @ 12:00:00 AM
-25507,Bonescare,The Fortress of Akkun the Grim,27.03,Djinni's Mind Fogiron,181.00,57.23,57.23,10358.6300,10358.6300,26317.13537800,11/30/2015 @ 12:00:00 AM
-26931,"Goddess of Thieves, Melcha",Bifar's Deep,12.21,Muck Orichalcum Of Ogres,303.00,143.37,130.34,43441.1100,39493.0200,93060.38727300,11/30/2015 @ 12:00:00 AM
+12582,"God of Fate, Uriel",The Tomb of Hellish Ruin,33.00,Incubi's Iron Of The Dawn,239.00,174.99,174.99,41822.6100,41822.6100,111248.14260000,11/30/1945 @ 12:00:00 AM
+12733,"Darkzealot, Dawn",Gili's Delve,35.89,Djinni's Mind Fogiron,102.00,57.23,52.03,5837.4600,5307.0600,15144.28822800,11/30/1945 @ 12:00:00 AM
+23393,"Wind, Maverick",The Secret Catacombs of Ulfang the Black,31.70,Shadowhell Mithril,213.00,462.21,420.19,98450.7300,89500.4700,247531.73040000,11/30/1945 @ 12:00:00 AM
+23342,Metalbrood,Reheath Stronghold,39.60,Shadowhell Mithril,220.00,462.21,420.19,101686.2000,92441.8000,271002.68800000,11/30/1945 @ 12:00:00 AM
+12873,"The Cold, Burnfreeze",Noble's Village,5.43,Incubi's Iron Of The Dawn,359.00,174.99,174.99,62821.4100,62821.4100,132465.22512600,11/30/1945 @ 12:00:00 AM
+23678,"Seraphheart, Storm",The Broken Arrow,17.60,Djinni's Mind Fogiron,293.00,57.23,57.23,16768.3900,16768.3900,39439.25328000,11/30/1945 @ 12:00:00 AM
+12977,"The Disinterred, Spikebrood",Archfane District,15.29,Djinni's Mind Fogiron,113.00,57.23,52.03,6466.9900,5879.3900,14234.14150200,11/30/1945 @ 12:00:00 AM
+29143,"God of Fate, Uriel",The Nulukkhath Spires,28.99,Fleshshock Mercury,188.00,-31.02,-28.20,-5831.7600,-5301.6000,-14360.92106400,11/30/1985 @ 12:00:00 AM
+17147,"Lord of Death, Addon",North Arcanist's Farthing,2.75,Grayplatinum,135.00,2548.00,104.94,343980.0000,14166.9000,367995.93975000,11/30/1985 @ 12:00:00 AM
+32732,Bronzespawn,Citadel Ward,4.40,Yellow Mistearth Copper,196.00,287.98,261.80,56444.0800,51312.8000,112498.18272000,11/30/1945 @ 12:00:00 AM
+380,"Goddess of Knowledge, Baltha",Bergfison's Deep,16.00,Zephyr Iron,373.00,2249.71,233.69,839141.8300,87166.3700,1074517.51200000,11/30/1945 @ 12:00:00 AM
+7525,Evilbrood,Archfane District,15.29,Sapphire Mindlead,218.00,-44.77,-40.70,-9759.8600,-8872.6000,-21481.36313400,11/30/1945 @ 12:00:00 AM
+30682,"Tsunami, Seraphim",The Broken Arrow,17.60,Foulopal Copper Of The Skies,201.00,221.83,221.83,44587.8300,44587.8300,104870.57616000,11/30/1945 @ 12:00:00 AM
+7858,"God of Fate, Sielach",Archfane District,15.29,Planar Mudtin Of Trolls,370.00,3529.02,174.00,1305737.4000,64380.0000,1579608.35046000,11/30/1945 @ 12:00:00 AM
+17829,"The Disinterred, Spikebrood",The Bastion of the Vampire Duke,37.90,Starsmoke Bronze Of Life,266.00,-438.00,420.81,-116508.0000,111935.4600,-6305.53266000,11/30/1945 @ 12:00:00 AM
+30916,"Gust, Shadow",The Tower of Sabiesu the Awesome,10.00,Witchs' Forbidden Rockrainbow Bronze,143.00,245.63,245.63,35125.0900,35125.0900,77275.19800000,11/30/1945 @ 12:00:00 AM
+26139,"Brand, Lightning",The Black Barrow of Bery,23.96,Grayplatinum,368.00,2548.00,104.94,937664.0000,38617.9200,1210199.06803200,11/30/1945 @ 12:00:00 AM
+5769,Spikespawn,Reheath Stronghold,39.60,Dragons' Poison Glitterflesh Steel Of The North,195.00,742.00,75.00,144690.0000,14625.0000,222403.74000000,11/30/1945 @ 12:00:00 AM
+3186,"Lionwatcher, Law",The Lazy Sage,21.93,Succubi's Evil Mindzephyr Adamant Of The Desert,208.00,555.09,42.90,115458.7200,8923.2000,151658.87505600,11/30/1945 @ 12:00:00 AM
+25507,Bonescare,The Fortress of Akkun the Grim,27.03,Djinni's Mind Fogiron,181.00,57.23,57.23,10358.6300,10358.6300,26317.13537800,11/30/1945 @ 12:00:00 AM
+26931,"Goddess of Thieves, Melcha",Bifar's Deep,12.21,Muck Orichalcum Of Ogres,303.00,143.37,130.34,43441.1100,39493.0200,93060.38727300,11/30/1945 @ 12:00:00 AM

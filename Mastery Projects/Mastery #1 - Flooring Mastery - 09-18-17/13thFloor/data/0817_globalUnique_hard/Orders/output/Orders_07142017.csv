@@ -1,19 +1,19 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-13718,Bolttrap,Kada's Deep,8.42,Sapphire Mindlead,241.00,-44.77,-40.70,-10789.5700,-9808.7000,-22332.64433400,07/14/2017 @ 12:00:00 AM
-13936,"The Disinterred, Spikebrood",North Arcanist's Farthing,2.75,Mithril Of The Tropics,59.00,251.56,251.56,14842.0400,14842.0400,30500.39220000,07/14/2017 @ 12:00:00 AM
-11295,"Jester, Seraph",Mahyrst Keep,28.45,Swordbronze,267.00,333.30,303.00,88991.1000,80901.0000,218226.40245000,07/14/2017 @ 12:00:00 AM
-1693,"God of the Lost, Lionare",The Forsaken Delve of Lord Greywulf,15.62,Spirits' Living Wordhammer Tin Of The Trees,358.00,3897.55,117.00,1395322.9000,41886.0000,1661700.93018000,07/14/2017 @ 12:00:00 AM
-19126,"God of Death, Avriel",Weke Tower,47.19,Trolls' Mist Poisonplatinum Of The Twilight,132.00,484.62,440.56,63969.8400,58153.9200,179753.96234400,07/14/2017 @ 12:00:00 AM
-32498,"Amberslayer, Flora",Citadel Ward,4.40,Unspeakable Rotsoul Mithril Of Souls,228.00,370.26,336.60,84419.2800,76744.8000,168255.29952000,07/14/2017 @ 12:00:00 AM
-381,"Dawn, Tarot",The Flying Witch,5.16,Unicorns' Fatal Magma Metal Of The Ocean,136.00,903.00,23.00,122808.0000,3128.0000,132434.29760000,07/14/2017 @ 12:00:00 AM
-7575,"Goddess of Trickery, Alik",The Khazahol Crags,20.68,Sapphire Mindlead,64.00,-44.77,-40.70,-2865.2800,-2604.8000,-6601.29254400,07/14/2017 @ 12:00:00 AM
-7639,"Roguemist, Rouge",Noble's Village,4.94,Planar Mudtin Of Trolls,171.00,3529.02,174.00,603462.4200,29754.0000,664497.31114800,07/14/2017 @ 12:00:00 AM
-16317,"Goddess of Fate, Azah",Reyny Keep,-3.35,Undeads' Mind Orichalcum Of The Twilight,159.00,1169.00,301.40,185871.0000,47922.6000,225961.51440000,07/14/2017 @ 12:00:00 AM
-6517,Emberspawn,The Barrow of Terrible Horror,27.39,Hidden Shadowice Lead,89.00,3068.90,-15.00,273132.1000,-1335.0000,346242.32569000,07/14/2017 @ 12:00:00 AM
-4345,"Wolf, Jericho",Pawic Keep,31.90,Litches' Fatal Mithril Of The Past,99.00,3822.00,13.00,378378.0000,1287.0000,500778.13500000,07/14/2017 @ 12:00:00 AM
-16935,Emberspawn,North Arcanist's Farthing,2.75,Grayplatinum,223.00,2548.00,104.94,568204.0000,23401.6200,607874.77455000,07/14/2017 @ 12:00:00 AM
-13226,"The Machine, Evilcoil",The Hunter and Rose,39.60,Nymphs' Luminous Rotmercury Of The Skies,227.00,335.50,369.05,76158.5000,83774.3500,223266.25860000,07/14/2017 @ 12:00:00 AM
-14720,Gravebone,The Secret Shrine of the Gargoyle Count,23.93,Fleshshock Mercury,123.00,-31.02,-28.20,-3815.4600,-3468.6000,-9027.13555800,07/14/2017 @ 12:00:00 AM
-14792,"Mystery, Lord",The Secret Shrine of the Gargoyle Count,23.93,Mind Lead,167.00,241.00,219.09,40247.0000,36588.0300,95221.65267900,07/14/2017 @ 12:00:00 AM
-12264,"Brand, Lightning",Love Keep,40.56,Sirens' Rockgold,376.00,306.13,278.30,115104.8800,104640.8000,308874.52780800,07/14/2017 @ 12:00:00 AM
-4926,"God of Thieves, Maeglodor",The Tower of Aramum,20.00,Negative Rockglitter Mercury Of Trolls,51.00,3502.00,194.70,178602.0000,9929.7000,226238.04000000,07/14/2017 @ 12:00:00 AM
+13718,Bolttrap,Kada's Deep,8.42,Sapphire Mindlead,241.00,-44.77,-40.70,-10789.5700,-9808.7000,-22332.64433400,07/14/1947 @ 12:00:00 AM
+13936,"The Disinterred, Spikebrood",North Arcanist's Farthing,2.75,Mithril Of The Tropics,59.00,251.56,251.56,14842.0400,14842.0400,30500.39220000,07/14/1947 @ 12:00:00 AM
+11295,"Jester, Seraph",Mahyrst Keep,28.45,Swordbronze,267.00,333.30,303.00,88991.1000,80901.0000,218226.40245000,07/14/1947 @ 12:00:00 AM
+1693,"God of the Lost, Lionare",The Forsaken Delve of Lord Greywulf,15.62,Spirits' Living Wordhammer Tin Of The Trees,358.00,3897.55,117.00,1395322.9000,41886.0000,1661700.93018000,07/14/1947 @ 12:00:00 AM
+19126,"God of Death, Avriel",Weke Tower,47.19,Trolls' Mist Poisonplatinum Of The Twilight,132.00,484.62,440.56,63969.8400,58153.9200,179753.96234400,07/14/1947 @ 12:00:00 AM
+32498,"Amberslayer, Flora",Citadel Ward,4.40,Unspeakable Rotsoul Mithril Of Souls,228.00,370.26,336.60,84419.2800,76744.8000,168255.29952000,07/14/1947 @ 12:00:00 AM
+381,"Dawn, Tarot",The Flying Witch,5.16,Unicorns' Fatal Magma Metal Of The Ocean,136.00,903.00,23.00,122808.0000,3128.0000,132434.29760000,07/14/1947 @ 12:00:00 AM
+7575,"Goddess of Trickery, Alik",The Khazahol Crags,20.68,Sapphire Mindlead,64.00,-44.77,-40.70,-2865.2800,-2604.8000,-6601.29254400,07/14/1947 @ 12:00:00 AM
+7639,"Roguemist, Rouge",Noble's Village,4.94,Planar Mudtin Of Trolls,171.00,3529.02,174.00,603462.4200,29754.0000,664497.31114800,07/14/1947 @ 12:00:00 AM
+16317,"Goddess of Fate, Azah",Reyny Keep,-3.35,Undeads' Mind Orichalcum Of The Twilight,159.00,1169.00,301.40,185871.0000,47922.6000,225961.51440000,07/14/1947 @ 12:00:00 AM
+6517,Emberspawn,The Barrow of Terrible Horror,27.39,Hidden Shadowice Lead,89.00,3068.90,-15.00,273132.1000,-1335.0000,346242.32569000,07/14/1947 @ 12:00:00 AM
+4345,"Wolf, Jericho",Pawic Keep,31.90,Litches' Fatal Mithril Of The Past,99.00,3822.00,13.00,378378.0000,1287.0000,500778.13500000,07/14/1947 @ 12:00:00 AM
+16935,Emberspawn,North Arcanist's Farthing,2.75,Grayplatinum,223.00,2548.00,104.94,568204.0000,23401.6200,607874.77455000,07/14/1947 @ 12:00:00 AM
+13226,"The Machine, Evilcoil",The Hunter and Rose,39.60,Nymphs' Luminous Rotmercury Of The Skies,227.00,335.50,369.05,76158.5000,83774.3500,223266.25860000,07/14/1947 @ 12:00:00 AM
+14720,Gravebone,The Secret Shrine of the Gargoyle Count,23.93,Fleshshock Mercury,123.00,-31.02,-28.20,-3815.4600,-3468.6000,-9027.13555800,07/14/1947 @ 12:00:00 AM
+14792,"Mystery, Lord",The Secret Shrine of the Gargoyle Count,23.93,Mind Lead,167.00,241.00,219.09,40247.0000,36588.0300,95221.65267900,07/14/1947 @ 12:00:00 AM
+12264,"Brand, Lightning",Love Keep,40.56,Sirens' Rockgold,376.00,306.13,278.30,115104.8800,104640.8000,308874.52780800,07/14/1947 @ 12:00:00 AM
+4926,"God of Thieves, Maeglodor",The Tower of Aramum,20.00,Negative Rockglitter Mercury Of Trolls,51.00,3502.00,194.70,178602.0000,9929.7000,226238.04000000,07/14/1947 @ 12:00:00 AM

@@ -1,21 +1,21 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-37720,"Tsunami, Seraphim",The Greedy Wench,13.31,Stone Soulsteel Of The Skies,314.00,453.31,453.31,142339.3400,142339.3400,322569.41230800,08/06/2017 @ 12:00:00 AM
-36621,"Seeker, Fate",The Fen of the Necromancer,32.21,Grayplatinum,161.00,2548.00,115.43,410228.0000,18584.2300,566932.64928300,08/06/2017 @ 12:00:00 AM
-25924,"God of Death, Avriel",The Dungeon of Merciless Woe,3.97,Toxic Mistlead Of The Past,99.00,396.06,396.06,39209.9400,39209.9400,81533.14923600,08/06/2017 @ 12:00:00 AM
-37894,Chainhorror,The Greedy Wench,13.31,Ghouls' Imperial Soulzephyr Mithril Of The Seas,117.00,318.23,318.23,37232.9100,37232.9100,84377.22064200,08/06/2017 @ 12:00:00 AM
-33100,"Jackalguard, Gale",The Archer and Scroll,60.12,Undeads' Mind Orichalcum Of The Twilight,241.00,1169.00,364.69,281729.0000,87890.2900,591834.40714800,08/06/2017 @ 12:00:00 AM
-35964,"Godwarlock, Sunrise",Citadel Ward,4.40,Ghouls' Imperial Soulzephyr Mithril Of The Seas,191.00,318.23,318.23,60781.9300,60781.9300,126912.66984000,08/06/2017 @ 12:00:00 AM
-21429,Spikesnare,Citadel Ward,4.40,Yellow Mistearth Copper,164.00,287.98,261.80,47228.7200,42935.2000,94131.13248000,08/06/2017 @ 12:00:00 AM
-21427,"Lionwatcher, Law",The Bastion of Gothmog of Udun,-2.42,Witchs' Forbidden Rockrainbow Bronze,258.00,245.63,245.63,63372.5400,63372.5400,123677.84906400,08/06/2017 @ 12:00:00 AM
-21752,"Lionwatcher, Law",Moor Village,11.32,Witchs' Forbidden Rockrainbow Bronze,74.00,245.63,245.63,18176.6200,18176.6200,40468.42676800,08/06/2017 @ 12:00:00 AM
-20680,"Dawn, Tarot",Mahyrst Keep,31.30,Poison Adamant,138.00,110.96,100.87,15312.4800,13920.0600,38382.32502000,08/06/2017 @ 12:00:00 AM
-21905,"God of Animals, Byzou",North Arcanist's Farthing,3.03,Witchs' Forbidden Rockrainbow Bronze,214.00,245.63,245.63,52564.8200,52564.8200,108315.06809200,08/06/2017 @ 12:00:00 AM
-30281,"The Evil, Snowflame",The Tower of Sabiesu the Awesome,10.00,Heavenly Dreamsilver Of The Night,318.00,719.00,314.60,228642.0000,100042.8000,361553.28000000,08/06/2017 @ 12:00:00 AM
-32837,"Seeker, Fate",North Arcanist's Farthing,3.66,Negative Rockglitter Mercury Of Trolls,152.00,235.59,214.17,35809.6800,32553.8400,70865.62483200,08/06/2017 @ 12:00:00 AM
-6521,"Mistmidnight, Tiger",Khali's Delve,1.18,Glittering Orichalcum,81.00,2056.00,330.00,166536.0000,26730.0000,195546.53880000,08/06/2017 @ 12:00:00 AM
-14222,"Lady of Fire, Nelalwe",Gili's Delve,35.89,Negative Rockglitter Mercury Of Trolls,276.00,3502.00,214.17,966552.0000,59110.9200,1393773.34198800,08/06/2017 @ 12:00:00 AM
-5793,Emberfire,Pawic Keep,31.90,Grayplatinum,78.00,2548.00,86.73,198744.0000,6764.9400,271066.29186000,08/06/2017 @ 12:00:00 AM
-4483,"Goddess of Knowledge, Baltha",Noble's Village,4.49,Grayplatinum,198.00,2548.00,86.73,504504.0000,17172.5400,545099.81664600,08/06/2017 @ 12:00:00 AM
-14565,"Roguemist, Rouge",Gili's Delve,35.89,Phantasmal Smokezephyr Mercury Of Men,248.00,211.20,192.00,52377.6000,47616.0000,135881.30304000,08/06/2017 @ 12:00:00 AM
-26574,Wheelspawn,Citadel Ward,4.40,Muck Orichalcum Of Ogres,200.00,143.37,130.34,28674.0000,26068.0000,57150.64800000,08/06/2017 @ 12:00:00 AM
-3575,"Darkzealot, Dawn",The Cuitamba Jungle,42.50,Falserainbow Lead,181.00,872.99,70.18,158011.1900,12702.5800,243267.12225000,08/06/2017 @ 12:00:00 AM
+37720,"Seraphim, Tsunami",The Greedy Wench,13.31,Stone Soulsteel Of The Skies,314.00,453.31,453.31,142339.3400,142339.3400,322569.41230800,08/06/2007 @ 12:00:00 AM
+36621,"Fate, Seeker",The Fen of the Necromancer,32.21,Grayplatinum,161.00,2548.00,115.43,410228.0000,18584.2300,566932.64928300,08/06/2007 @ 12:00:00 AM
+25924,"Avriel, God of Death",The Dungeon of Merciless Woe,3.97,Toxic Mistlead Of The Past,99.00,396.06,396.06,39209.9400,39209.9400,81533.14923600,08/06/2007 @ 12:00:00 AM
+37894,Chainhorror,The Greedy Wench,13.31,Ghouls' Imperial Soulzephyr Mithril Of The Seas,117.00,318.23,318.23,37232.9100,37232.9100,84377.22064200,08/06/2007 @ 12:00:00 AM
+33100,"Gale, Jackalguard",The Archer and Scroll,60.12,Undeads' Mind Orichalcum Of The Twilight,241.00,1169.00,364.69,281729.0000,87890.2900,591834.40714800,08/06/2007 @ 12:00:00 AM
+35964,"Sunrise, Godwarlock",Citadel Ward,4.40,Ghouls' Imperial Soulzephyr Mithril Of The Seas,191.00,318.23,318.23,60781.9300,60781.9300,126912.66984000,08/06/2007 @ 12:00:00 AM
+21429,Spikesnare,Citadel Ward,4.40,Yellow Mistearth Copper,164.00,287.98,261.80,47228.7200,42935.2000,94131.13248000,08/06/2007 @ 12:00:00 AM
+21427,"Law, Lionwatcher",The Bastion of Gothmog of Udun,-2.42,Witchs' Forbidden Rockrainbow Bronze,258.00,245.63,245.63,63372.5400,63372.5400,123677.84906400,08/06/2007 @ 12:00:00 AM
+21752,"Law, Lionwatcher",Moor Village,11.32,Witchs' Forbidden Rockrainbow Bronze,74.00,245.63,245.63,18176.6200,18176.6200,40468.42676800,08/06/2007 @ 12:00:00 AM
+20680,"Tarot, Dawn",Mahyrst Keep,31.30,Poison Adamant,138.00,110.96,100.87,15312.4800,13920.0600,38382.32502000,08/06/2007 @ 12:00:00 AM
+21905,"Byzou, God of Animals",North Arcanist's Farthing,3.03,Witchs' Forbidden Rockrainbow Bronze,214.00,245.63,245.63,52564.8200,52564.8200,108315.06809200,08/06/2007 @ 12:00:00 AM
+30281,"Snowflame, The Evil",The Tower of Sabiesu the Awesome,10.00,Heavenly Dreamsilver Of The Night,318.00,719.00,314.60,228642.0000,100042.8000,361553.28000000,08/06/2007 @ 12:00:00 AM
+32837,"Fate, Seeker",North Arcanist's Farthing,3.66,Negative Rockglitter Mercury Of Trolls,152.00,235.59,214.17,35809.6800,32553.8400,70865.62483200,08/06/2007 @ 12:00:00 AM
+6521,"Tiger, Mistmidnight",Khali's Delve,1.18,Glittering Orichalcum,81.00,2056.00,330.00,166536.0000,26730.0000,195546.53880000,08/06/2007 @ 12:00:00 AM
+14222,"Nelalwe, Lady of Fire",Gili's Delve,35.89,Negative Rockglitter Mercury Of Trolls,276.00,3502.00,214.17,966552.0000,59110.9200,1393773.34198800,08/06/2007 @ 12:00:00 AM
+5793,Emberfire,Pawic Keep,31.90,Grayplatinum,78.00,2548.00,86.73,198744.0000,6764.9400,271066.29186000,08/06/2007 @ 12:00:00 AM
+4483,"Baltha, Goddess of Knowledge",Noble's Village,4.49,Grayplatinum,198.00,2548.00,86.73,504504.0000,17172.5400,545099.81664600,08/06/2007 @ 12:00:00 AM
+14565,"Rouge, Roguemist",Gili's Delve,35.89,Phantasmal Smokezephyr Mercury Of Men,248.00,211.20,192.00,52377.6000,47616.0000,135881.30304000,08/06/2007 @ 12:00:00 AM
+26574,Wheelspawn,Citadel Ward,4.40,Muck Orichalcum Of Ogres,200.00,143.37,130.34,28674.0000,26068.0000,57150.64800000,08/06/2007 @ 12:00:00 AM
+3575,"Dawn, Darkzealot",The Cuitamba Jungle,42.50,Falserainbow Lead,181.00,872.99,70.18,158011.1900,12702.5800,243267.12225000,08/06/2007 @ 12:00:00 AM

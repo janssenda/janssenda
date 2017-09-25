@@ -1,14 +1,14 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-3647,"God of Death, Avriel",Arcanist's Farthing,29.00,Primordial Plague Mercury Of Legend,120.00,1150.79,67.00,138094.8000,8040.0000,188513.89200000,06/20/2017 @ 12:00:00 AM
-1293,Cinderflame,The Archer and Blade,15.00,Fog Lavaplatinum Of Life,103.00,2232.00,463.10,229896.0000,47699.3000,319234.59500000,06/20/2017 @ 12:00:00 AM
-9443,"Rougehate, Rune",The Demon and Toad,-1.10,Unknown Fatelightning Steel Of The Glacier,263.00,119.90,131.89,31533.7000,34687.0700,65492.34153000,06/20/2017 @ 12:00:00 AM
-33891,"Goddess of Thieves, Melcha",Reheath Stronghold,39.60,Poison Adamant,395.00,110.96,100.87,43829.2000,39843.6500,116807.29860000,06/20/2017 @ 12:00:00 AM
-31398,"Roguemist, Rouge",Hafeld Keep,47.59,Planar Mudtin Of Trolls,201.00,191.40,174.00,38471.4000,34974.0000,108398.06586000,06/20/2017 @ 12:00:00 AM
-30512,"Lady of Fire, Nelalwe",The Fortress of Akkun the Grim,27.03,Witchs' Forbidden Rockrainbow Bronze,50.00,245.63,245.63,12281.5000,12281.5000,31202.37890000,06/20/2017 @ 12:00:00 AM
-6303,"Goddess of Thieves, Melcha",The Lost Sanctum of Woe,43.20,Nymphs' Luminous Rotmercury Of The Skies,317.00,335.50,305.00,106353.5000,96685.0000,290751.13200000,06/20/2017 @ 12:00:00 AM
-30704,Emberspawn,Mahyrst Keep,31.30,Foulopal Copper Of The Skies,177.00,221.83,221.83,39263.9100,39263.9100,103107.02766000,06/20/2017 @ 12:00:00 AM
-28440,"Goddess of Travel, Lenwenye",The Fortress of Akkun the Grim,27.03,Stone Soulsteel Of The Skies,231.00,453.31,412.10,104714.6100,95195.1000,253945.30461300,06/20/2017 @ 12:00:00 AM
-30917,"Goddess of Knowledge, Baltha",The Broken Arrow,17.60,Ensorceled Sandmetal Of Spirits,94.00,85.18,77.44,8006.9200,7279.3600,17976.66528000,06/20/2017 @ 12:00:00 AM
-30901,"The Evil, Burnchill",Mahyrst Keep,31.30,Foulopal Copper Of The Skies,244.00,221.83,221.83,54126.5200,54126.5200,142136.24152000,06/20/2017 @ 12:00:00 AM
-26792,"Darkzealot, Dawn",Bifar's Deep,12.21,Shadowhell Mithril,177.00,462.21,420.19,81811.1700,74373.6300,175254.96408000,06/20/2017 @ 12:00:00 AM
-25445,"Drakecaster, Sephiroth",The Fortress of the Lich Queen,20.72,Negative Rockglitter Mercury Of Trolls,144.00,235.59,214.17,33924.9600,30840.4800,78184.83916800,06/20/2017 @ 12:00:00 AM
+3647,"Avriel, God of Death",Arcanist's Farthing,29.00,Primordial Plague Mercury Of Legend,120.00,1150.79,67.00,138094.8000,8040.0000,188513.89200000,06/20/2007 @ 12:00:00 AM
+1293,Cinderflame,The Archer and Blade,15.00,Fog Lavaplatinum Of Life,103.00,2232.00,463.10,229896.0000,47699.3000,319234.59500000,06/20/2007 @ 12:00:00 AM
+9443,"Rune, Rougehate",The Demon and Toad,-1.10,Unknown Fatelightning Steel Of The Glacier,263.00,119.90,131.89,31533.7000,34687.0700,65492.34153000,06/20/2007 @ 12:00:00 AM
+33891,"Melcha, Goddess of Thieves",Reheath Stronghold,39.60,Poison Adamant,395.00,110.96,100.87,43829.2000,39843.6500,116807.29860000,06/20/2007 @ 12:00:00 AM
+31398,"Rouge, Roguemist",Hafeld Keep,47.59,Planar Mudtin Of Trolls,201.00,191.40,174.00,38471.4000,34974.0000,108398.06586000,06/20/2007 @ 12:00:00 AM
+30512,"Nelalwe, Lady of Fire",The Fortress of Akkun the Grim,27.03,Witchs' Forbidden Rockrainbow Bronze,50.00,245.63,245.63,12281.5000,12281.5000,31202.37890000,06/20/2007 @ 12:00:00 AM
+6303,"Melcha, Goddess of Thieves",The Lost Sanctum of Woe,43.20,Nymphs' Luminous Rotmercury Of The Skies,317.00,335.50,305.00,106353.5000,96685.0000,290751.13200000,06/20/2007 @ 12:00:00 AM
+30704,Emberspawn,Mahyrst Keep,31.30,Foulopal Copper Of The Skies,177.00,221.83,221.83,39263.9100,39263.9100,103107.02766000,06/20/2007 @ 12:00:00 AM
+28440,"Lenwenye, Goddess of Travel",The Fortress of Akkun the Grim,27.03,Stone Soulsteel Of The Skies,231.00,453.31,412.10,104714.6100,95195.1000,253945.30461300,06/20/2007 @ 12:00:00 AM
+30917,"Baltha, Goddess of Knowledge",The Broken Arrow,17.60,Ensorceled Sandmetal Of Spirits,94.00,85.18,77.44,8006.9200,7279.3600,17976.66528000,06/20/2007 @ 12:00:00 AM
+30901,"Burnchill, The Evil",Mahyrst Keep,31.30,Foulopal Copper Of The Skies,244.00,221.83,221.83,54126.5200,54126.5200,142136.24152000,06/20/2007 @ 12:00:00 AM
+26792,"Dawn, Darkzealot",Bifar's Deep,12.21,Shadowhell Mithril,177.00,462.21,420.19,81811.1700,74373.6300,175254.96408000,06/20/2007 @ 12:00:00 AM
+25445,"Sephiroth, Drakecaster",The Fortress of the Lich Queen,20.72,Negative Rockglitter Mercury Of Trolls,144.00,235.59,214.17,33924.9600,30840.4800,78184.83916800,06/20/2007 @ 12:00:00 AM

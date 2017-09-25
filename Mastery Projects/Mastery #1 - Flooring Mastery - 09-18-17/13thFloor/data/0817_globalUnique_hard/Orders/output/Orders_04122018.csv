@@ -1,18 +1,18 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-11383,Wheelspawn,The Fen of the Necromancer,20.00,Zephyr Iron,335.00,282.77,257.06,94727.9500,86115.1000,217011.66000000,04/12/2018 @ 12:00:00 AM
-2907,"Bladewitch, Zeal",The Khazahol Crags,20.68,Succubi's Evil Mindzephyr Adamant Of The Desert,288.00,555.09,42.90,159865.9200,12355.2000,207836.44761600,04/12/2018 @ 12:00:00 AM
-34471,"Seeker, Fate",Barad Cune,49.21,Poison Adamant,98.00,110.96,100.87,10874.0800,9885.2600,30975.01121400,04/12/2018 @ 12:00:00 AM
-33503,"The Grasping, Nettool",Pewold Keep,29.00,Forgotten Mithril,297.00,600.28,545.71,178283.1600,162075.8700,439063.14870000,04/12/2018 @ 12:00:00 AM
-22806,"Wolf, Jericho",The Tomb of Hellish Ruin,36.30,Violetdream Iron,195.00,502.13,456.48,97915.3500,89013.6000,254784.15885000,04/12/2018 @ 12:00:00 AM
-32545,"Lord of Nightmares, Iran",The Fen of the Necromancer,29.28,Negative Rockglitter Mercury Of Trolls,77.00,235.59,214.17,18140.4300,16491.0900,44771.62905600,04/12/2018 @ 12:00:00 AM
-33835,Flameshiver,The Bastion of the Lich Tyrant,8.64,Swordbronze,178.00,403.29,366.63,71785.6200,65260.1400,148886.51366400,04/12/2018 @ 12:00:00 AM
-17089,Graveterror,Gena's Hold,5.85,Golems' Stonesapphire Gold Of The Glacier,133.00,176.00,160.00,23408.0000,21280.0000,47302.24800000,04/12/2018 @ 12:00:00 AM
-8345,Metalbrood,The Bastion of Sthasu the Gruesome,40.00,Falserainbow Lead,240.00,872.99,70.18,209517.6000,16843.2000,316905.12000000,04/12/2018 @ 12:00:00 AM
-29128,"Amberslayer, Flora",The Nulukkhath Spires,28.99,Unknown Fatelightning Steel Of The Glacier,254.00,145.08,159.59,36850.3200,40535.8600,99820.43358200,04/12/2018 @ 12:00:00 AM
-14014,"God of Animals, Byzou",The Secret Catacombs of Ulfang the Black,28.82,Mithril Of The Tropics,133.00,251.56,251.56,33457.4800,33457.4800,86199.85147200,04/12/2018 @ 12:00:00 AM
-14015,"Roguemist, Rouge",The Secret Catacombs of Ulfang the Black,28.82,Djinni's Evil Sandobsidian Steel Of The Future,153.00,140.58,140.58,21508.7400,21508.7400,55415.11773600,04/12/2018 @ 12:00:00 AM
-16754,Emberspawn,The Scoundrel and Flask,45.25,Golems' Stonesapphire Gold Of The Glacier,204.00,176.00,160.00,35904.0000,32640.0000,99560.16000000,04/12/2018 @ 12:00:00 AM
-26289,Flameshiver,North Arcanist's Farthing,3.03,Grayplatinum,103.00,2548.00,104.94,262444.0000,10808.8200,281532.38044600,04/12/2018 @ 12:00:00 AM
-2013,"Rougehate, Rune",The Broken Arrow,16.00,Ghostly Magic Adamant,65.00,49.50,45.00,3217.5000,2925.0000,7125.30000000,04/12/2018 @ 12:00:00 AM
-15960,"Knightclaw, Sunset",The Dungeon of Merciless Woe,3.61,Imperial Fate Steel,124.00,419.10,381.00,51968.4000,47244.0000,102793.96764000,04/12/2018 @ 12:00:00 AM
-4713,"Lord of Nightmares, Iran",Noble's Village,4.49,Tin Of The Tundra,163.00,4121.00,361.14,671723.0000,58865.8200,763392.25801800,04/12/2018 @ 12:00:00 AM
+11383,Wheelspawn,The Fen of the Necromancer,20.00,Zephyr Iron,335.00,282.77,257.06,94727.9500,86115.1000,217011.66000000,04/12/1948 @ 12:00:00 AM
+2907,"Bladewitch, Zeal",The Khazahol Crags,20.68,Succubi's Evil Mindzephyr Adamant Of The Desert,288.00,555.09,42.90,159865.9200,12355.2000,207836.44761600,04/12/1948 @ 12:00:00 AM
+34471,"Seeker, Fate",Barad Cune,49.21,Poison Adamant,98.00,110.96,100.87,10874.0800,9885.2600,30975.01121400,04/12/1948 @ 12:00:00 AM
+33503,"The Grasping, Nettool",Pewold Keep,29.00,Forgotten Mithril,297.00,600.28,545.71,178283.1600,162075.8700,439063.14870000,04/12/1948 @ 12:00:00 AM
+22806,"Wolf, Jericho",The Tomb of Hellish Ruin,36.30,Violetdream Iron,195.00,502.13,456.48,97915.3500,89013.6000,254784.15885000,04/12/1978 @ 12:00:00 AM
+32545,"Lord of Nightmares, Iran",The Fen of the Necromancer,29.28,Negative Rockglitter Mercury Of Trolls,77.00,235.59,214.17,18140.4300,16491.0900,44771.62905600,04/12/1948 @ 12:00:00 AM
+33835,Flameshiver,The Bastion of the Lich Tyrant,8.64,Swordbronze,178.00,403.29,366.63,71785.6200,65260.1400,148886.51366400,04/12/1948 @ 12:00:00 AM
+17089,Graveterror,Gena's Hold,5.85,Golems' Stonesapphire Gold Of The Glacier,133.00,176.00,160.00,23408.0000,21280.0000,47302.24800000,04/12/1948 @ 12:00:00 AM
+8345,Metalbrood,The Bastion of Sthasu the Gruesome,40.00,Falserainbow Lead,240.00,872.99,70.18,209517.6000,16843.2000,316905.12000000,04/12/1948 @ 12:00:00 AM
+29128,"Amberslayer, Flora",The Nulukkhath Spires,28.99,Unknown Fatelightning Steel Of The Glacier,254.00,145.08,159.59,36850.3200,40535.8600,99820.43358200,04/12/1948 @ 12:00:00 AM
+14014,"God of Animals, Byzou",The Secret Catacombs of Ulfang the Black,28.82,Mithril Of The Tropics,133.00,251.56,251.56,33457.4800,33457.4800,86199.85147200,04/12/1948 @ 12:00:00 AM
+14015,"Roguemist, Rouge",The Secret Catacombs of Ulfang the Black,28.82,Djinni's Evil Sandobsidian Steel Of The Future,153.00,140.58,140.58,21508.7400,21508.7400,55415.11773600,04/12/1948 @ 12:00:00 AM
+16754,Emberspawn,The Scoundrel and Flask,45.25,Golems' Stonesapphire Gold Of The Glacier,204.00,176.00,160.00,35904.0000,32640.0000,99560.16000000,04/12/1948 @ 12:00:00 AM
+26289,Flameshiver,North Arcanist's Farthing,3.03,Grayplatinum,103.00,2548.00,104.94,262444.0000,10808.8200,281532.38044600,04/12/1948 @ 12:00:00 AM
+2013,"Rougehate, Rune",The Broken Arrow,16.00,Ghostly Magic Adamant,65.00,49.50,45.00,3217.5000,2925.0000,7125.30000000,04/12/1948 @ 12:00:00 AM
+15960,"Knightclaw, Sunset",The Dungeon of Merciless Woe,3.61,Imperial Fate Steel,124.00,419.10,381.00,51968.4000,47244.0000,102793.96764000,04/12/1948 @ 12:00:00 AM
+4713,"Lord of Nightmares, Iran",Noble's Village,4.49,Tin Of The Tundra,163.00,4121.00,361.14,671723.0000,58865.8200,763392.25801800,04/12/1948 @ 12:00:00 AM

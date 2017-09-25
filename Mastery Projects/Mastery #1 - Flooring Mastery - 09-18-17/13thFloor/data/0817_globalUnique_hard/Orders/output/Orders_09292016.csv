@@ -1,20 +1,20 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-23201,"Seeker, Fate",The Secret Catacombs of Ulfang the Black,31.70,Planar Mudtin Of Trolls,230.00,191.40,174.00,44022.0000,40020.0000,110683.31400000,09/29/2016 @ 12:00:00 AM
-35138,"Drakecaster, Sephiroth",Barad Kesa,6.17,Yellow Mistearth Copper,372.00,287.98,261.80,107128.5600,97389.6000,217136.93047200,09/29/2016 @ 12:00:00 AM
-36437,"Godseeker, Cult",The Fen of the Necromancer,32.21,Heavenly Dreamsilver Of The Night,185.00,719.00,346.06,133015.0000,64021.1000,260501.42781000,09/29/2016 @ 12:00:00 AM
-24562,"Knightseraph, Lance",The Bastion of Barbos,25.41,Foul Ice Bronze Of Life,271.00,292.82,266.20,79354.2200,72140.2000,189989.15212200,09/29/2016 @ 12:00:00 AM
-2635,"God of Love, Prusu",The Dismal Marsh,27.00,Falserainbow Lead,128.00,872.99,63.80,111742.7200,8166.4000,152284.58240000,09/29/2016 @ 12:00:00 AM
-12778,"The Blade, Scarefear",The Tomb of Hellish Ruin,33.00,Vampires' Fang Emeraldsilver,246.00,2033.69,80.84,500287.7400,19886.6400,691831.92540000,09/29/2016 @ 12:00:00 AM
-35517,Springcoil,The Fen of the Necromancer,32.21,Yellow Mistearth Copper,51.00,287.98,261.80,14686.9800,13351.8000,37070.07103800,09/29/2016 @ 12:00:00 AM
-10396,"Lord of the Sun, Maglioneth",The Dungeon of Merciless Woe,3.61,Dragons' Poison Glitterflesh Steel Of The North,298.00,742.00,75.00,221116.0000,22350.0000,252255.12260000,09/29/2016 @ 12:00:00 AM
-10620,"The Blade, Scarefear",Kada's Deep,7.65,Dragons' Poison Glitterflesh Steel Of The North,211.00,742.00,75.00,156562.0000,15825.0000,185574.60550000,09/29/2016 @ 12:00:00 AM
-21403,"Goddess of Law, Eumyan",Reyny Keep,-3.35,Starsmoke Bronze Of Life,297.00,-438.00,420.81,-130086.0000,124980.5700,-4934.39809500,09/29/2016 @ 12:00:00 AM
-33550,Chainhorror,The Archer and Scroll,60.12,Mind Lead,77.00,241.00,219.09,18557.0000,16869.9300,56725.60031600,09/29/2016 @ 12:00:00 AM
-10940,"The Trapper, Boltcrank",Kada's Deep,7.65,Fairies' Supreme Mistsmoke Lead Of The Future,103.00,2622.69,454.30,270137.0700,46792.9000,341175.11270500,09/29/2016 @ 12:00:00 AM
-20663,"Godseeker, Cult",The Fen of the Necromancer,20.00,Sirens' Rockgold,85.00,336.74,336.74,28622.9000,28622.9000,68694.96000000,09/29/2016 @ 12:00:00 AM
-32752,"Mist, Claw",The Chuallanto Jungle,11.00,Yellow Mistearth Copper,306.00,287.98,261.80,88121.8800,80110.8000,186738.27480000,09/29/2016 @ 12:00:00 AM
-20922,"The Frigid, Icechill",The Tomb of Hellish Ruin,36.30,Plague Tin,204.00,465.25,422.95,94911.0000,86281.8000,246965.78640000,09/29/2016 @ 12:00:00 AM
-31770,Metalghoul,The Demon and Toad,-1.21,Warlocks' Timerot Mithril,388.00,194.65,194.65,75524.2000,75524.2000,149220.71436000,09/29/2016 @ 12:00:00 AM
-7545,"Godwarlock, Sunrise",The Bastion of the Vampire Duke,34.45,Swordbronze,201.00,333.30,303.00,66993.3000,60903.0000,171956.57535000,09/29/2016 @ 12:00:00 AM
-17561,"God of Animals, Byzou",Bergfison's Deep,16.00,Starsmoke Bronze Of Life,323.00,-438.00,420.81,-141474.0000,135921.6300,-6440.74920000,09/29/2016 @ 12:00:00 AM
-26056,"Amberslayer, Flora",Archfane District,15.29,Toxic Mistlead Of The Past,145.00,396.06,396.06,57428.7000,57428.7000,132419.09646000,09/29/2016 @ 12:00:00 AM
+23201,"Seeker, Fate",The Secret Catacombs of Ulfang the Black,31.70,Planar Mudtin Of Trolls,230.00,191.40,174.00,44022.0000,40020.0000,110683.31400000,09/29/1946 @ 12:00:00 AM
+35138,"Drakecaster, Sephiroth",Barad Kesa,6.17,Yellow Mistearth Copper,372.00,287.98,261.80,107128.5600,97389.6000,217136.93047200,09/29/1946 @ 12:00:00 AM
+36437,"Godseeker, Cult",The Fen of the Necromancer,32.21,Heavenly Dreamsilver Of The Night,185.00,719.00,346.06,133015.0000,64021.1000,260501.42781000,09/29/1946 @ 12:00:00 AM
+24562,"Knightseraph, Lance",The Bastion of Barbos,25.41,Foul Ice Bronze Of Life,271.00,292.82,266.20,79354.2200,72140.2000,189989.15212200,09/29/1946 @ 12:00:00 AM
+2635,"God of Love, Prusu",The Dismal Marsh,27.00,Falserainbow Lead,128.00,872.99,63.80,111742.7200,8166.4000,152284.58240000,09/29/1946 @ 12:00:00 AM
+12778,"The Blade, Scarefear",The Tomb of Hellish Ruin,33.00,Vampires' Fang Emeraldsilver,246.00,2033.69,80.84,500287.7400,19886.6400,691831.92540000,09/29/1946 @ 12:00:00 AM
+35517,Springcoil,The Fen of the Necromancer,32.21,Yellow Mistearth Copper,51.00,287.98,261.80,14686.9800,13351.8000,37070.07103800,09/29/1946 @ 12:00:00 AM
+10396,"Lord of the Sun, Maglioneth",The Dungeon of Merciless Woe,3.61,Dragons' Poison Glitterflesh Steel Of The North,298.00,742.00,75.00,221116.0000,22350.0000,252255.12260000,09/29/1946 @ 12:00:00 AM
+10620,"The Blade, Scarefear",Kada's Deep,7.65,Dragons' Poison Glitterflesh Steel Of The North,211.00,742.00,75.00,156562.0000,15825.0000,185574.60550000,09/29/1946 @ 12:00:00 AM
+21403,"Goddess of Law, Eumyan",Reyny Keep,-3.35,Starsmoke Bronze Of Life,297.00,-438.00,420.81,-130086.0000,124980.5700,-4934.39809500,09/29/1946 @ 12:00:00 AM
+33550,Chainhorror,The Archer and Scroll,60.12,Mind Lead,77.00,241.00,219.09,18557.0000,16869.9300,56725.60031600,09/29/1946 @ 12:00:00 AM
+10940,"The Trapper, Boltcrank",Kada's Deep,7.65,Fairies' Supreme Mistsmoke Lead Of The Future,103.00,2622.69,454.30,270137.0700,46792.9000,341175.11270500,09/29/1946 @ 12:00:00 AM
+20663,"Godseeker, Cult",The Fen of the Necromancer,20.00,Sirens' Rockgold,85.00,336.74,336.74,28622.9000,28622.9000,68694.96000000,09/29/1946 @ 12:00:00 AM
+32752,"Mist, Claw",The Chuallanto Jungle,11.00,Yellow Mistearth Copper,306.00,287.98,261.80,88121.8800,80110.8000,186738.27480000,09/29/1946 @ 12:00:00 AM
+20922,"The Frigid, Icechill",The Tomb of Hellish Ruin,36.30,Plague Tin,204.00,465.25,422.95,94911.0000,86281.8000,246965.78640000,09/29/1946 @ 12:00:00 AM
+31770,Metalghoul,The Demon and Toad,-1.21,Warlocks' Timerot Mithril,388.00,194.65,194.65,75524.2000,75524.2000,149220.71436000,09/29/1946 @ 12:00:00 AM
+7545,"Godwarlock, Sunrise",The Bastion of the Vampire Duke,34.45,Swordbronze,201.00,333.30,303.00,66993.3000,60903.0000,171956.57535000,09/29/1946 @ 12:00:00 AM
+17561,"God of Animals, Byzou",Bergfison's Deep,16.00,Starsmoke Bronze Of Life,323.00,-438.00,420.81,-141474.0000,135921.6300,-6440.74920000,09/29/1946 @ 12:00:00 AM
+26056,"Amberslayer, Flora",Archfane District,15.29,Toxic Mistlead Of The Past,145.00,396.06,396.06,57428.7000,57428.7000,132419.09646000,09/29/1946 @ 12:00:00 AM

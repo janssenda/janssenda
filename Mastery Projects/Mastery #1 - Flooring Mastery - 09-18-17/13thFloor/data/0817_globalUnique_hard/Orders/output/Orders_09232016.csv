@@ -1,19 +1,19 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
-36723,Spikecrank,The Fen of the Necromancer,32.21,Grayplatinum,156.00,2548.00,115.43,397488.0000,18007.0800,549326.04526800,09/23/2016 @ 12:00:00 AM
-22188,"Lionwatcher, Law",The Tomb of Hellish Ruin,36.30,Violetdream Iron,131.00,502.13,456.48,65779.0300,59798.8800,171162.69133000,09/23/2016 @ 12:00:00 AM
-34158,"Veil, Bane",The Cuitamba Jungle,46.75,Toxic Mistlead Of The Past,116.00,435.67,396.06,50537.7200,45942.9600,141585.39790000,09/23/2016 @ 12:00:00 AM
-12944,"The Binder, Springpulley",Gili's Delve,35.89,Dragons' Poison Glitterflesh Steel Of The North,196.00,742.00,82.50,145432.0000,16170.0000,219600.95780000,09/23/2016 @ 12:00:00 AM
-12970,"God of Death, Avriel",Archfane District,15.29,Djinni's Mind Fogiron,155.00,57.23,52.03,8870.6500,8064.6500,19524.70737000,09/23/2016 @ 12:00:00 AM
-1746,"The Evil, Flameflare",The Broken Arrow,16.00,Spirits' Living Wordhammer Tin Of The Trees,221.00,3897.55,117.00,861358.5500,25857.0000,1029170.03800000,09/23/2016 @ 12:00:00 AM
-33874,Chainnail,Barad Cune,49.21,Swordbronze,24.00,403.29,366.63,9678.9600,8799.1200,27571.14316800,09/23/2016 @ 12:00:00 AM
-17278,"Knightseraph, Lance",North Arcanist's Farthing,2.75,Plague Tin,154.00,465.25,422.95,71648.5000,65134.3000,140544.32700000,09/23/2016 @ 12:00:00 AM
-16076,"Goddess of Knowledge, Baltha",Reyny Keep,-3.35,Undeads' Mind Orichalcum Of The Twilight,151.00,1169.00,301.40,176519.0000,45511.4000,214592.38160000,09/23/2016 @ 12:00:00 AM
-29382,"Mist, Claw",Bifar's Deep,12.21,Hidden Shadowice Lead,204.00,-16.50,-16.50,-3366.0000,-3366.0000,-7553.97720000,09/23/2016 @ 12:00:00 AM
-32961,"The Grasping, Beamsprocket",Pewold Keep,29.00,Forgotten Mithril,269.00,600.28,545.71,161475.3200,146795.9900,397669.98990000,09/23/2016 @ 12:00:00 AM
-7564,Gravebone,The Forsaken Hive of Galima the Mighty,0.39,Swordbronze,176.00,333.30,303.00,58660.8000,53328.0000,112425.55632000,09/23/2016 @ 12:00:00 AM
-28200,"Claw, Slayer",Barad Kesa,5.61,Undeads' Mind Orichalcum Of The Twilight,201.00,1169.00,364.69,234969.0000,73302.6900,325565.73180900,09/23/2016 @ 12:00:00 AM
-4127,"Angelchild, Harmony",The Fortress of Akkun the Grim,27.03,Primordial Plague Mercury Of Legend,288.00,1150.79,67.00,331427.5200,19296.0000,445524.08745600,09/23/2016 @ 12:00:00 AM
-26711,Flameshiver,Khali's Delve,1.30,Muck Orichalcum Of Ogres,171.00,143.37,130.34,24516.2700,22288.1400,47412.86733000,09/23/2016 @ 12:00:00 AM
-12072,Cinderember,The Citadel of Tattena the Sinister,22.39,Sirens' Rockgold,191.00,306.13,278.30,58470.8300,53155.3000,136619.22050700,09/23/2016 @ 12:00:00 AM
-12323,"Runetomb, Song",The Citadel of Tattena the Sinister,22.39,Djinni's Evil Sandobsidian Steel Of The Future,231.00,140.58,140.58,32473.9800,32473.9800,79489.80824400,09/23/2016 @ 12:00:00 AM
-4944,"The Grasping, Nailpiston",The Dismal Marsh,27.00,Primordial False Gold,138.00,1383.00,391.27,190854.0000,53995.2600,310958.56020000,09/23/2016 @ 12:00:00 AM
+36723,Spikecrank,The Fen of the Necromancer,32.21,Grayplatinum,156.00,2548.00,115.43,397488.0000,18007.0800,549326.04526800,09/23/1946 @ 12:00:00 AM
+22188,"Lionwatcher, Law",The Tomb of Hellish Ruin,36.30,Violetdream Iron,131.00,502.13,456.48,65779.0300,59798.8800,171162.69133000,09/23/1946 @ 12:00:00 AM
+34158,"Veil, Bane",The Cuitamba Jungle,46.75,Toxic Mistlead Of The Past,116.00,435.67,396.06,50537.7200,45942.9600,141585.39790000,09/23/1946 @ 12:00:00 AM
+12944,"The Binder, Springpulley",Gili's Delve,35.89,Dragons' Poison Glitterflesh Steel Of The North,196.00,742.00,82.50,145432.0000,16170.0000,219600.95780000,09/23/1946 @ 12:00:00 AM
+12970,"God of Death, Avriel",Archfane District,15.29,Djinni's Mind Fogiron,155.00,57.23,52.03,8870.6500,8064.6500,19524.70737000,09/23/1946 @ 12:00:00 AM
+1746,"The Evil, Flameflare",The Broken Arrow,16.00,Spirits' Living Wordhammer Tin Of The Trees,221.00,3897.55,117.00,861358.5500,25857.0000,1029170.03800000,09/23/1946 @ 12:00:00 AM
+33874,Chainnail,Barad Cune,49.21,Swordbronze,24.00,403.29,366.63,9678.9600,8799.1200,27571.14316800,09/23/1986 @ 12:00:00 AM
+17278,"Knightseraph, Lance",North Arcanist's Farthing,2.75,Plague Tin,154.00,465.25,422.95,71648.5000,65134.3000,140544.32700000,09/23/1946 @ 12:00:00 AM
+16076,"Goddess of Knowledge, Baltha",Reyny Keep,-3.35,Undeads' Mind Orichalcum Of The Twilight,151.00,1169.00,301.40,176519.0000,45511.4000,214592.38160000,09/23/1946 @ 12:00:00 AM
+29382,"Mist, Claw",Bifar's Deep,12.21,Hidden Shadowice Lead,204.00,-16.50,-16.50,-3366.0000,-3366.0000,-7553.97720000,09/23/1996 @ 12:00:00 AM
+32961,"The Grasping, Beamsprocket",Pewold Keep,29.00,Forgotten Mithril,269.00,600.28,545.71,161475.3200,146795.9900,397669.98990000,09/23/1946 @ 12:00:00 AM
+7564,Gravebone,The Forsaken Hive of Galima the Mighty,0.39,Swordbronze,176.00,333.30,303.00,58660.8000,53328.0000,112425.55632000,09/23/1946 @ 12:00:00 AM
+28200,"Claw, Slayer",Barad Kesa,5.61,Undeads' Mind Orichalcum Of The Twilight,201.00,1169.00,364.69,234969.0000,73302.6900,325565.73180900,09/23/1946 @ 12:00:00 AM
+4127,"Angelchild, Harmony",The Fortress of Akkun the Grim,27.03,Primordial Plague Mercury Of Legend,288.00,1150.79,67.00,331427.5200,19296.0000,445524.08745600,09/23/1946 @ 12:00:00 AM
+26711,Flameshiver,Khali's Delve,1.30,Muck Orichalcum Of Ogres,171.00,143.37,130.34,24516.2700,22288.1400,47412.86733000,09/23/1946 @ 12:00:00 AM
+12072,Cinderember,The Citadel of Tattena the Sinister,22.39,Sirens' Rockgold,191.00,306.13,278.30,58470.8300,53155.3000,136619.22050700,09/23/1946 @ 12:00:00 AM
+12323,"Runetomb, Song",The Citadel of Tattena the Sinister,22.39,Djinni's Evil Sandobsidian Steel Of The Future,231.00,140.58,140.58,32473.9800,32473.9800,79489.80824400,09/23/1946 @ 12:00:00 AM
+4944,"The Grasping, Nailpiston",The Dismal Marsh,27.00,Primordial False Gold,138.00,1383.00,391.27,190854.0000,53995.2600,310958.56020000,09/23/1946 @ 12:00:00 AM
