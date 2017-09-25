@@ -9,7 +9,7 @@ Primordial Plague Mercury Of Legend , 73.70 , 67.00
 Tritons' Time Stoneiron Of Legend , 413.33 , 375.75
 White Platinum , 101.02 , 91.84
 Forgotten Mithril , 660.31 , 600.28
-Grayplatinum , 2548.00 , 115.43
+Grayplatinum , 2548.00 , 115.43 
 Heavenly Dreamsilver Of The Night , 719.00 , 346.06
 Lycanthropes' Gold , 449.88 , 408.98
 Mind Lead , 241.00 , 219.09
