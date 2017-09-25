@@ -8,27 +8,17 @@ package com.dm.floor13.dao;
 import com.dm.floor13.exceptions.MissingDataException;
 import com.dm.floor13.exceptions.FileSkipException;
 import com.dm.floor13.model.Product;
-import java.util.Map;
 
 /**
  *
  * @author danimaetrix
  */
 public interface ProductDataDao {
-
-    public void readDataFromFile() throws FileSkipException; 
+    
+    public void readDataFromFile(String filename) throws FileSkipException;
 
     public boolean isProduct(String productName);
 
     public Product getProduct(String productName) throws MissingDataException; 
-    
-    
-    // Current working directory
-//    public String getcurrentDir(); 
-//
-//    public void setcurrentDir(String directory); 
-//
-//    public Map<String, Product> getProductMap();
-//
-//    public int getProductMapSize(); 
+
 }

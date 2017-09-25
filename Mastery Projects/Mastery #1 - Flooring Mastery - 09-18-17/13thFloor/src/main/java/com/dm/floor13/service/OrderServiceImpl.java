@@ -5,23 +5,28 @@
  */
 package com.dm.floor13.service;
 
+import com.dm.floor13.dao.FileHandler;
 import com.dm.floor13.dao.OrderDao;
+import com.dm.floor13.dao.OrderDaoImpl;
 import com.dm.floor13.exceptions.ChangeOrderException;
 import com.dm.floor13.exceptions.FileSkipException;
 import com.dm.floor13.exceptions.MissingDataException;
-import com.dm.floor13.dao.OrderDaoImpl;
 import com.dm.floor13.dao.ProductDataDao;
+import com.dm.floor13.dao.SearchMethod;
 import com.dm.floor13.exceptions.OrderNotFoundException;
-import com.dm.floor13.dao.ProductDataDaoImpl;
 import com.dm.floor13.dao.StateDataDao;
-import com.dm.floor13.dao.StateDataDaoImpl;
+import com.dm.floor13.dao.TrainingOrderDaoImpl;
 import com.dm.floor13.model.Order;
 import com.dm.floor13.model.Product;
 import com.dm.floor13.model.State;
+import java.io.BufferedReader;
+import java.io.FileNotFoundException;
+import java.io.FileReader;
 import java.math.BigDecimal;
 import java.time.LocalDate;
 import java.time.LocalDateTime;
 import java.util.List;
+import java.util.Scanner;
 
 /**
  *
@@ -29,15 +34,42 @@ import java.util.List;
  */
 public class OrderServiceImpl implements OrderService {
 
+    private String orderDir, productList, stateList;
     OrderDao orderDao;
     ProductDataDao productDao;
     StateDataDao stateDao;
+    boolean mode = true;
 
     public OrderServiceImpl(OrderDao orderDao,
             StateDataDao stateDao,
             ProductDataDao productDao) {
 
-        this.orderDao = orderDao;
+        readDataFiles("floor13.cfg");
+        if (mode) {
+            this.orderDao = new TrainingOrderDaoImpl(orderDir);
+        } else {
+            this.orderDao = new OrderDaoImpl(orderDir);
+        }
+
+        this.stateDao = stateDao;
+        this.productDao = productDao;
+        
+        loadData();
+        
+    }
+
+    public OrderServiceImpl(StateDataDao stateDao,
+            ProductDataDao productDao, 
+            FileHandler handler, String dir, String cfgPath) {
+
+        readDataFiles(cfgPath);
+
+        if (mode) {
+            this.orderDao = new TrainingOrderDaoImpl(dir, handler);
+        } else {
+            this.orderDao = new OrderDaoImpl(dir, handler);
+        }
+
         this.stateDao = stateDao;
         this.productDao = productDao;
 
@@ -47,17 +79,34 @@ public class OrderServiceImpl implements OrderService {
     private void loadData() {
 
         try {
-            orderDao.readAllOrdersFromDirectory();
-            stateDao.readDataFromFile();
-            productDao.readDataFromFile();
+            stateDao.readDataFromFile(stateList);
+            productDao.readDataFromFile(productList);            
+            orderDao.readAllOrdersFromDirectory(orderDir);    
         } catch (FileSkipException e) {
 
         }
+
+    }
+
+    private void readDataFiles(String cfgPath) {
+        Scanner sc;
+        try {
+            sc = new Scanner(new BufferedReader(new FileReader(cfgPath)));
+            this.mode = Boolean.parseBoolean(sc.nextLine().split("=")[1].trim());
+            this.orderDir = sc.nextLine().split("=")[1].trim();
+            this.stateList = sc.nextLine().split("=")[1].trim();
+            this.productList = sc.nextLine().split("=")[1].trim();
+            
+            
+        } catch (FileNotFoundException e) {
+
+        }
+
     }
 
     @Override
-    public void fetchOrders() {
-
+    public List<Order> findOrders(SearchMethod method, Object key) {
+        return orderDao.findOrders(method, key);
     }
 
     @Override
@@ -67,16 +116,9 @@ public class OrderServiceImpl implements OrderService {
     }
 
     @Override
-    public boolean removeOrder(String orderNumber) throws OrderNotFoundException,
+    public boolean removeOrder(Order order) throws OrderNotFoundException,
             ChangeOrderException {
-
-        orderDao.removeOrder(orderNumber);
-        if (orderDao.orderExists(orderNumber)) {
-            return false;
-        }
-        
-        return true;
-
+        return orderDao.removeOrder(order);
     }
 
     @Override
@@ -94,6 +136,7 @@ public class OrderServiceImpl implements OrderService {
                 || order.getState() == null
                 || order.getFirstName() == null
                 || order.getLastName() == null) {
+
             return false;
         }
 
@@ -118,6 +161,22 @@ public class OrderServiceImpl implements OrderService {
                 if (order.getDate().compareTo(LocalDate.of(1975, 01, 01)) <= 0) {
                     order.setDate(exOrder.getDate());
                 }
+
+                Product p = order.getProduct();
+                State s = order.getState();
+
+                if (!order.getProduct().getProductName().equals(exOrder.getProduct().getProductName())) {
+                    if (!productDao.isProduct(p.getProductName())) {
+                        return false;
+                    }
+                }
+
+                if (!order.getState().getStateCode().equals(exOrder.getState().getStateCode())) {
+                    if (!stateDao.isState(s.getStateCode())) {
+                        return false;
+                    }
+                }
+
             } catch (OrderNotFoundException e) {
 
             }
@@ -136,17 +195,25 @@ public class OrderServiceImpl implements OrderService {
             }
         }
 
-        Product p = order.getProduct();
-        State s = order.getState();
+//        order.getState().setStateCode(order.getState().getStateCode().trim());       
+//        
+//        order.getProduct().setProductName(StringUtil.capitalFirst
+//                (order.getProduct().getProductName().trim().toLowerCase()));
+        if (!exists) {
 
-        if (!productDao.isProduct(p.getProductName())) {
-            return false;
+            Product p = order.getProduct();
+            State s = order.getState();
+
+            if (!productDao.isProduct(p.getProductName())) {
+                return false;
+            }
+
+            if (!stateDao.isState(s.getStateCode())) {
+                return false;
+            }
         }
 
-        if (!stateDao.isState(s.getStateCode())) {
-            return false;
-        }
-        
+        order.setOrderStatus(false);
         populateOrder(order);
 
         return true;
@@ -195,6 +262,11 @@ public class OrderServiceImpl implements OrderService {
         order.setRevisionDate(LocalDateTime.now());
         order.recalculateData();
         return order;
+    }
+
+    @Override
+    public boolean getMode() {
+        return orderDao.getMode();
     }
 
 }

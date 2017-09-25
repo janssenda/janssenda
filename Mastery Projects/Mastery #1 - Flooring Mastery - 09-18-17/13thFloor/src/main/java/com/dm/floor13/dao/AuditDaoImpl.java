@@ -14,22 +14,19 @@ import java.time.format.DateTimeFormatter;
  * @author danimaetrix
  */
 public class AuditDaoImpl implements AuditDao {
-    
+
     @Override
     public void WriteAuditToFile(String entry) throws FileIOException {
-        LocalDateTime index = LocalDateTime.now();        
+        LocalDateTime index = LocalDateTime.now();
 
-        
-        String logString = 
-                index.format(DateTimeFormatter
+        String logString
+                = index.format(DateTimeFormatter
                         .ofPattern("MM/dd/yy @ hh:mm a - "));
-        
-        FileHandler auditFile = new FileHandler();        
-        
-        
-        auditFile.AuditLogToFile(logString + entry, true,"Audit Log.txt");
-    
+
+        FileHandler auditFile = new FileHandler();
+
+        auditFile.AuditLogToFile(logString + entry, true, "auditLog.txt");
+
     }
-    
-    
+
 }

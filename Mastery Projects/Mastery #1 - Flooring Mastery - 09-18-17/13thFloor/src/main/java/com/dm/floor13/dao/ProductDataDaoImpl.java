@@ -18,25 +18,25 @@ import java.util.Map;
 public class ProductDataDaoImpl implements ProductDataDao {
 
     private Map<String, Product> productMap;
-    private String currentDir, currentRoot;
+    private String currentRoot;
 
 
     public ProductDataDaoImpl() {
-        this.currentDir = "./data/orders";
-        this.currentRoot = "./data";
+        this.currentRoot = "./";
     }
 
-    public ProductDataDaoImpl(String rootdir, String workingdir) {
-        this.currentDir = workingdir;
+    public ProductDataDaoImpl(String rootdir) {
         this.currentRoot = rootdir;
-       }
+       }  
 
-    public void readDataFromFile() throws FileSkipException {
-        FileHandler orderHandler = new FileHandler(currentRoot);
-        Map<String, Product> productMap = null;
+
+    @Override
+    public void readDataFromFile(String filename) throws FileSkipException {
+        FileHandler orderHandler = new LargeDataHandler();
+        Map<String, Product> productMap;
 
         try {
-            productMap = orderHandler.readProductsFromFile(currentRoot + "/Products.txt");
+            productMap = orderHandler.readProductsFromFile(filename);
         } catch (FileIOException e) {
             throw new FileSkipException("Products file was not read - blank, in use, or corrupt...");
         }
@@ -45,14 +45,16 @@ public class ProductDataDaoImpl implements ProductDataDao {
             throw new FileSkipException("Productsfile was not read - blank, in use, or corrupt...");
         }
 
-        this.productMap = productMap;
-    }
+        this.productMap = productMap;        
+        
+    }      
 
-
-    public boolean isProduct(String productName) {
+    @Override
+    public boolean isProduct(String productName) { 
         return productMap.containsKey(productName);
     }
 
+    @Override
     public Product getProduct(String productName) throws MissingDataException {
         if (productMap.containsKey(productName)) {
             return productMap.get(productName);
@@ -63,11 +65,11 @@ public class ProductDataDaoImpl implements ProductDataDao {
 
     // Current working directory
     public String getcurrentDir() {
-        return currentDir;
+        return currentRoot;
     }
 
     public void setcurrentDir(String directory) {
-        this.currentDir = directory;
+        this.currentRoot = directory;
     }    
 
     public Map<String, Product> getProductMap() {

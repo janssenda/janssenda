@@ -70,7 +70,7 @@ public class FileHandler {
         this.orderNumberLength = 5;
     }
 
-    public Map<String, State> readTaxesFromFile(String filename) throws FileIOException {
+    public Map<String, State> readStatesFromFile(String filename) throws FileIOException {
         Scanner scanner;
         Map<String, State> taxRates = new LinkedHashMap<>();
 
@@ -282,7 +282,7 @@ public class FileHandler {
         if (file.exists()) {
             try {
                 Files.copy(file.toPath(), oldFile.toPath(), StandardCopyOption.REPLACE_EXISTING);
-            } catch (IOException e) {
+            } catch (IOException e) {                
                 throw new BackupFileException("Error backing up original file,"
                         + "modification not permitted... ", e);
             }
@@ -313,7 +313,7 @@ public class FileHandler {
 
                 // If our changes fail, we recover the original file
             } catch (IOException e) {
-                oldFile.renameTo(new File(filename));
+                oldFile.renameTo(new File(filename));                
                 throw new FileIOException("Error writing the new file... ");
             } finally {
 
@@ -328,7 +328,7 @@ public class FileHandler {
 
             // Delete the temporary file if all is successful               
             oldFile.delete();
-        } else {
+        } else {            
             throw new MissingFileException("No files for that date exist... ");
         }
 
@@ -456,6 +456,7 @@ public class FileHandler {
     }
 
     public List<Order> readAllOrders(String userDir, int orderNumberLength) {
+
         return readAllOrdersFromFile(userDir, orderNumberLength);
     }
 
@@ -483,7 +484,7 @@ public class FileHandler {
 
         try {
             Integer i = Integer.parseInt(s);
-            return s.length() == orderNumberLength;
+            return s.length() < orderNumberLength+5;
         } catch (NumberFormatException e) {
             return false;
         }
@@ -491,13 +492,13 @@ public class FileHandler {
 
     public List<Order> readOrdersFromSingleFile(String filename, int orderNumberLength)
             throws FileSkipException, MissingFileException {
-
+       
         File file = new File(filename);
         return readOrdersFromSingleFile(file, orderNumberLength);
     }
 
     private List<Order> readOrdersFromSingleFile(File file, int orderNumberLength)
-            throws FileSkipException, MissingFileException {
+            throws FileSkipException, MissingFileException {        
         LocalDate d;
         LocalDateTime drev;
         Scanner scanner;
@@ -532,10 +533,15 @@ public class FileHandler {
                     }
 
                     d = LocalDate.parse(currentTokens[1], DateTimeFormatter.ofPattern(DATEFORMAT));
+                    
+                    if (d.compareTo(LocalDate.now().plusYears(5)) > 0){
+                        d = d.minusYears(100);
+                    }
+                    
                     drev = LocalDateTime.parse(currentTokens[13], DateTimeFormatter.ofPattern(REVDATEFORMAT));
                     State st = new State(currentTokens[4], new BigDecimal(currentTokens[7]));
+                    
                     Product currentProduct = new Product(currentTokens[6]);
-
                     currentProduct.setCostpersqft(new BigDecimal(currentTokens[8]));
                     currentProduct.setLaborpersqft(new BigDecimal(currentTokens[9]));
 
@@ -548,6 +554,7 @@ public class FileHandler {
                     currentOrder.setRevisionDate(drev);
                     currentOrder.setProduct(currentProduct);
                     currentOrder.recalculateData();
+                    currentOrder.setOrderStatus(false);
 
                     orderList.add(currentOrder);
 

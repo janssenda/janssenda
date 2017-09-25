@@ -28,7 +28,7 @@ public class State implements Cloneable {
     }
 
     public State() {
-        this.stateCode = "";
+        this.stateCode = null;
         this.taxRate = null;
     }
 

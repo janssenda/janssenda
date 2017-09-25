@@ -1,0 +1,33 @@
+Pewold Keep , 29.00
+Reheath Stronghold , 39.60
+Gifeld Castle , 33.01
+Weke Tower , 51.91
+The Fortress of the Lich Queen , 22.79
+Hafeld Keep , 47.59
+The Citadel of Alammius , 32.67
+The Bastion of the Vampire Duke , 45.86
+Barad Kesa , 6.17
+The Bastion of Gothmog of Udun , -2.93
+Bifar's Deep , 12.21
+Barad Cune , 49.21
+Khali's Delve , 1.43
+Mahyrst Keep , 31.30
+The Tower of Sabiesu the Awesome , 11.00
+The Fortress of Akkun the Grim , 29.73
+The Dungeon of Merciless Woe , 4.37
+The Chuallanto Jungle , 12.10
+The Nulukkhath Spires , 28.99
+The Fen of the Necromancer , 32.21
+The Cuitamba Jungle , 46.75
+Noble's Village , 6.57
+Archfane District , 16.82
+Arcanist's Farthing , 31.90
+Hartshill Ward , 58.99
+Citadel Ward , 4.40
+The Archer and Scroll , 66.13
+The Demon and Toad , -1.21
+The Scoundrel and Flask , 45.25
+The Broken Arrow , 19.36
+The Pirate's Pipe , 18.63
+The Dancing Minstrel , 47.94
+The Greedy Wench , 13.31

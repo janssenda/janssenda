@@ -1,0 +1,31 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
+11105,Spikespawn,The Broken Shield,12.00,Mistgold Of Men,161.00,412.50,375.00,66412.5000,60375.0000,142002.00000000,06/30/2017 @ 12:00:00 AM
+35179,"The Grasping, Nettool",Barad Kesa,6.17,Sprites' Transcendent Mud Lead Of The South,228.00,3338.65,267.08,761212.2000,60894.2400,872830.40734800,06/30/2017 @ 12:00:00 AM
+13930,"The Cadaverous, Chainblade",Noble's Village,5.43,Sphinxes' Unknown Poisongold Of The Future,73.00,3971.47,14.30,289917.3100,1043.9000,306760.40370300,06/30/2017 @ 12:00:00 AM
+10029,"Lord of Animals, Suriel",Grove Farthing,25.00,Forgotten Mithril,193.00,3909.75,496.10,754581.7500,95747.3000,1062911.31250000,06/30/2017 @ 12:00:00 AM
+35258,"Goddess of Knowledge, Baltha",The Nulukkhath Spires,28.99,Ghouls' Imperial Soulzephyr Mithril Of The Seas,225.00,318.23,318.23,71601.7500,71601.7500,184718.19465000,06/30/2017 @ 12:00:00 AM
+12798,"The Skeletal, Spiketerror",Bergfison's Deep,16.00,God-touched Greengem Platinum,153.00,206.95,206.95,31663.3500,31663.3500,73458.97200000,06/30/2017 @ 12:00:00 AM
+22029,Spikecrank,Pewold Keep,29.00,Warlocks' Timerot Mithril,76.00,194.65,176.95,14793.4000,13448.2000,36431.66400000,06/30/2017 @ 12:00:00 AM
+10332,"Godwarlock, Sunrise",Grori's Deep,27.50,Phantasmal Smokezephyr Mercury Of Men,252.00,211.20,192.00,53222.4000,48384.0000,129548.16000000,06/30/2017 @ 12:00:00 AM
+21417,"Goddess of Thieves, Melcha",Reyny Keep,-3.35,Starsmoke Bronze Of Life,139.00,-438.00,420.81,-60882.0000,58492.5900,-2309.36476500,06/30/2017 @ 12:00:00 AM
+21632,"Lord of the Sun, Maglioneth",Reyny Keep,-3.35,Starsmoke Bronze Of Life,209.00,-438.00,420.81,-91542.0000,87949.2900,-3472.35421500,06/30/2017 @ 12:00:00 AM
+22948,"God of Death, Avriel",The Lewd King,45.98,Planar Mudtin Of Trolls,191.00,191.40,174.00,36557.4000,33234.0000,101881.48572000,06/30/2017 @ 12:00:00 AM
+33821,Emberfire,The Bastion of the Lich Tyrant,8.64,Toxic Mistlead Of The Past,171.00,435.67,396.06,74499.5700,67726.2600,154514.14171200,06/30/2017 @ 12:00:00 AM
+33912,"The Evil, Snowflame",Barad Cune,49.21,Poison Adamant,287.00,110.96,100.87,31845.5200,28949.6900,90712.53284100,06/30/2017 @ 12:00:00 AM
+18489,"Spiritraven, Bedlam",Barad Cune,49.21,Spirits' Living Wordhammer Tin Of The Trees,312.00,141.57,128.70,44169.8400,40154.4000,125820.19850400,06/30/2017 @ 12:00:00 AM
+244,"Roguemist, Rouge",Eved Castle,28.00,Incubi's Mirrorfog Iron Of The Ocean,294.00,768.03,421.32,225800.8200,123868.0800,447576.19200000,06/30/2017 @ 12:00:00 AM
+20948,"Jester, Seraph",The Fen of the Necromancer,20.00,Vampires' Fang Emeraldsilver,216.00,2033.69,80.84,439277.0400,17461.4400,548086.17600000,06/30/2017 @ 12:00:00 AM
+7598,"Anchor, Rose",Archfane District,15.29,Planar Mudtin Of Trolls,136.00,3529.02,174.00,479946.7200,23664.0000,580612.79908800,06/30/2017 @ 12:00:00 AM
+28345,"Brand, Lightning",The Fortress of Akkun the Grim,27.03,Undeads' Mind Orichalcum Of The Twilight,198.00,1169.00,364.69,231462.0000,72208.6200,385752.78858600,06/30/2017 @ 12:00:00 AM
+28500,"Goddess of Fate, Azah",The Fortress of Akkun the Grim,27.03,Negative Rockglitter Mercury Of Trolls,66.00,235.59,214.17,15548.9400,14135.2200,37707.78844800,06/30/2017 @ 12:00:00 AM
+16603,"The Cremator, Blazeflare",Gili's Delve,35.89,Lycanthropes' Gold,346.00,371.80,338.00,128642.8000,116948.0000,333733.33812000,06/30/2017 @ 12:00:00 AM
+14050,"Brand, Lightning",North Arcanist's Farthing,2.75,Vampires' Hammer Emeraldmetal,261.00,77.44,70.40,20211.8400,18374.4000,39647.36160000,06/30/2017 @ 12:00:00 AM
+30963,"The Unspeakable, Terrorghoul",The Nulukkhath Spires,28.99,Foulopal Copper Of The Skies,139.00,221.83,221.83,30834.3700,30834.3700,79546.50772600,06/30/2017 @ 12:00:00 AM
+27584,"Claw, Slayer",The Bastion of Gothmog of Udun,-2.42,Vampires' Hammer Emeraldmetal,126.00,93.70,85.18,11806.2000,10732.6800,21993.43910400,06/30/2017 @ 12:00:00 AM
+27655,"The Freezer, Shiverflame",The Bastion of Gothmog of Udun,-2.42,Vampires' Hammer Emeraldmetal,259.00,93.70,85.18,24268.3000,22061.6200,45208.73593600,06/30/2017 @ 12:00:00 AM
+28962,"Dawn, Tarot",The Citadel of Alammius,32.67,Fleshshock Mercury,98.00,-31.02,-28.20,-3039.9600,-2763.6000,-7699.58305200,06/30/2017 @ 12:00:00 AM
+3262,"The Skeletal, Spiketerror",The Archer and Scroll,45.16,Litches' Fatal Mithril Of The Past,260.00,3822.00,13.00,993720.0000,3380.0000,1447390.36000000,06/30/2017 @ 12:00:00 AM
+4679,"Tsunami, Seraphim",Shainan's Hold,43.67,Sphinxes' Unknown Poisongold Of The Future,230.00,3971.47,14.30,913438.1000,3289.0000,1317061.82457000,06/30/2017 @ 12:00:00 AM
+26612,"Lord of the Sea, Penur",Citadel Ward,4.40,Foulopal Copper Of The Skies,266.00,221.83,201.66,59006.7800,53641.5600,117604.86696000,06/30/2017 @ 12:00:00 AM
+26809,"Mystery, Lord",Citadel Ward,4.40,Shadowhell Mithril,238.00,462.21,420.19,110005.9800,100005.2200,219251.69280000,06/30/2017 @ 12:00:00 AM
+4932,"Roguemist, Rouge",The Barrow of Terrible Horror,24.90,Phantasmal Smokezephyr Mercury Of Men,214.00,211.20,192.00,45196.8000,41088.0000,107769.71520000,06/30/2017 @ 12:00:00 AM

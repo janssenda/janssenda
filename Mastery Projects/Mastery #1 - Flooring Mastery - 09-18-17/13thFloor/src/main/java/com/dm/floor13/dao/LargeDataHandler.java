@@ -1,0 +1,656 @@
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package com.dm.floor13.dao;
+
+import com.dm.floor13.dao.*;
+import com.dm.floor13.exceptions.MissingFileException;
+import com.dm.floor13.exceptions.FileSkipException;
+import com.dm.floor13.exceptions.FileIOException;
+import com.dm.floor13.exceptions.BackupFileException;
+import com.dm.floor13.model.Order;
+import com.dm.floor13.model.Product;
+import com.dm.floor13.model.State;
+import java.io.BufferedReader;
+import java.io.File;
+import java.io.FileNotFoundException;
+import java.io.FileReader;
+import java.io.FileWriter;
+import java.io.IOException;
+import java.io.PrintWriter;
+import java.math.BigDecimal;
+import java.nio.file.Files;
+import java.nio.file.StandardCopyOption;
+import java.time.LocalDate;
+import java.time.LocalDateTime;
+import java.time.format.DateTimeFormatter;
+import java.util.ArrayList;
+import java.util.HashSet;
+import java.util.LinkedHashMap;
+import java.util.List;
+import java.util.Map;
+import java.util.Scanner;
+import java.util.Set;
+import java.util.stream.Collectors;
+
+
+/* This class allocates reading and writing responsibilities according
+to the calling method.  readPricing reads the price map into the system for use
+in the service layer.  Inventory IO methods manage importing and exporting of
+product list.  The product list is a CSV file containing one line for each single
+product (i.e., inventory of 5 coke objects takes 5 lines). Because of this, we can 
+allow each individual product object to retain individually owned values. For example,
+each can may have a different best - by date, and a different message (as is the norm
+in the coca-cola corp currently.  E.g, the names on cans that is part of a marketing campaign.
+Now we can surprise the user with these things, and the may be unique per object!!
+ */
+public class LargeDataHandler extends FileHandler {
+
+    private static final String DELIMITER = ",";            // Delimiter for reading and writing files
+    private static final String DATEFORMAT = "MM/dd/yyyy";
+    private static final String REVDATEFORMAT = "MM/dd/yyyy @ hh:mm:ss a";
+    private int skippedLineCount;
+    private int skippedFileCount;
+    private String DIR;
+
+    // Constructor 
+    public LargeDataHandler() {
+        this.DIR = "./orders";
+        this.skippedLineCount = 0;
+        this.skippedFileCount = 0;        
+    }
+
+    public LargeDataHandler(String directory) {
+        this.DIR = directory;
+        this.skippedLineCount = 0;
+        this.skippedFileCount = 0;
+        
+    }
+
+    public Map<String, State> readStatesFromFile(String filename) throws FileIOException {
+        Scanner scanner;
+        Map<String, State> taxRates = new LinkedHashMap<>();
+
+        try {
+            scanner = new Scanner(new BufferedReader(new FileReader(filename)));
+        } catch (FileNotFoundException e) {
+            throw new FileIOException("Could not open pricing file. Filename"
+                    + " should be 'Taxes.txt'", e);
+        }
+
+        String currentline;
+        String[] currentTokens;
+
+        try {
+
+            scanner.nextLine();
+            while (scanner.hasNextLine()) {
+
+                currentline = scanner.nextLine();
+                try {
+                    currentTokens = currentline.split(DELIMITER);
+
+                    for (int i = 0; i < currentTokens.length; i++) {
+                        currentTokens[i] = currentTokens[i].trim();
+                    }
+                    if (!currentTokens[0].startsWith("//")) {
+
+                        State state = new State();
+
+                        state.setStateCode(currentTokens[0]);
+                        state.setTaxrate(new BigDecimal(currentTokens[1]));
+
+                        taxRates.put(state.getStateCode(), state);
+                    }
+                } catch (Exception e) {
+                    // Skips the line if there is a problem but continues reading file
+                }
+
+            }
+        } catch (Exception e) {
+            throw new FileIOException("Error reading file: empty or corrupt ", e);
+        }
+
+        if (taxRates.isEmpty()) {
+            throw new FileIOException("Error: no pricing data found.  Please"
+                    + " add items to 'priceData.csv'");
+        }
+
+        scanner.close();
+        return taxRates;
+
+    }
+
+    public Map<String, Product> readProductsFromFile(String filename) throws FileIOException {
+        Scanner scanner;
+        Map<String, Product> products = new LinkedHashMap<>();
+
+        try {
+            scanner = new Scanner(new BufferedReader(new FileReader(filename)));
+        } catch (FileNotFoundException e) {
+            throw new FileIOException("Could not open pricing file. Filename"
+                    + " should be 'taxes.csv'", e);
+        }
+
+        String currentline;
+        String[] currentTokens;
+
+        try {
+            scanner.nextLine();
+            while (scanner.hasNextLine()) {
+
+                currentline = scanner.nextLine();
+                try {
+                    currentTokens = currentline.split(DELIMITER);
+
+                    for (int i = 0; i < currentTokens.length; i++) {
+                        currentTokens[i] = currentTokens[i].trim();
+                    }
+
+                    if (!currentTokens[0].startsWith("//")) {
+
+                        Product p = new Product(currentTokens[0]);
+                        p.setCostpersqft(new BigDecimal(currentTokens[1]));
+                        p.setLaborpersqft(new BigDecimal(currentTokens[2]));                        
+                        products.put(p.getProductName(), p);
+                    }
+                } catch (Exception e) {
+                    // Skips the line if there is a problem but continues reading file
+                }
+
+            }
+        } catch (Exception e) {
+            throw new FileIOException("Error reading file: empty or corrupt ", e);
+        }
+
+        if (products.isEmpty()) {
+            throw new FileIOException("Error: no pricing data found.  Please"
+                    + " add items to 'products.csv'");
+        }
+
+        scanner.close();
+        return products;
+
+    }
+
+    // This set of methods writes the entire map to file.  The method can be run in the currrent 
+    // directory with no directory argument, or in a specific directory.  This method is useful for
+    // verifying data integrity, but should not be used for data management.  All files in the specified
+    // directory are erased prior to implementation
+    public void writeAllOrdersSplitFilesByDate(Map<String, List<Order>> orderMap, String directory) {
+        writeOrdersToSplitFiles(orderMap, directory);
+    }
+
+    public void writeAllOrdersSplitFilesByDate(Map<String, List<Order>> orderMap) {
+        writeOrdersToSplitFiles(orderMap, DIR);
+    }
+
+    private void writeOrdersToSplitFiles(Map<String, List<Order>> orderMap, String directory) {
+        skippedFileCount = 0;
+        Map<String, List<Order>> dateMap;
+
+        // Generates non-existend dirs
+        new File(directory).mkdirs();
+
+        File folder = new File(directory);
+
+        // Cleans directory of all files
+        for (File file : folder.listFiles()) {
+            if (!file.isDirectory()) {
+                file.delete();
+            }
+        }
+
+        // Builds map for output such that each file will contain all
+        // orders for that file date
+        dateMap = orderMap.values().stream().flatMap((o) -> o.stream())
+                .collect(Collectors.groupingBy(o -> o.getDate()
+                .format(DateTimeFormatter.ofPattern("MMddyyyy"))));
+
+        // Write all the order date for each date in the map
+        dateMap.forEach((k, v) -> {
+            String name = directory + "Orders_" + k + ".csv";
+
+            try {
+                writeAllOrders(v, name);
+            } catch (FileIOException e) {
+                // Do nothing - skip this file
+                skippedFileCount = skippedFileCount + 1;
+            }
+
+        });
+
+    }
+
+    public void removeOrderFromAll(List<Order> orderList)
+            throws BackupFileException,
+            FileIOException,
+            MissingFileException {
+
+        removeOrderFromAll(orderList, DIR);
+
+    }
+
+    public void removeOrderFromAll(List<Order> orderList, String directory)
+            throws BackupFileException,
+            FileIOException,
+            MissingFileException {
+
+        Set<String> orderNames = new HashSet<>();
+        String orderNumber = orderList.get(0).getOrderNumber();
+
+        // Collect all the filenames that should contain the order number
+        for (int i = 0; i < orderList.size(); i++) {
+            orderNames.add(directory + "/Orders_"
+                    + orderList.get(i).getDate()
+                            .format(DateTimeFormatter.ofPattern("MMddyyyy"))
+                    + ".csv");
+        }
+
+        List<String> nameList = new ArrayList<>();
+        nameList.addAll(orderNames);
+
+        for (int i = 0; i < nameList.size(); i++) {
+            removeOrderFromOne(nameList.get(i), orderNumber, directory);
+        }
+
+    }
+
+    // This method removes an order from a file by making a copy of the file, and then re-creating
+    // the original without the order number.  If successful, the method deletes the backup.
+    // If unsuccessful, the backup is restored.
+    private void removeOrderFromOne(String filename, String orderNumber, String directory)
+            throws BackupFileException,
+            FileIOException,
+            MissingFileException {
+
+        int linecounter = 0;
+        Scanner sc = null;
+        PrintWriter out = null;
+        directory = directory + "/tmp/";
+        new File(directory).mkdirs();
+
+        String tempfilename = directory + orderNumber + "_temp.csv";
+
+        File file = new File(filename);
+        File oldFile = new File(tempfilename);
+
+        if (file.exists()) {
+            try {
+                Files.copy(file.toPath(), oldFile.toPath(), StandardCopyOption.REPLACE_EXISTING);
+            } catch (IOException e) {
+                throw new BackupFileException("Error backing up original file,"
+                        + "modification not permitted... ", e);
+            }
+
+            // Original file has been succesfully backed up, now we can
+            // proceed with attemp to persist our changes
+            try {
+                file.delete();
+                out = new PrintWriter(new FileWriter(filename, false));
+                sc = new Scanner(oldFile);
+
+                while (sc.hasNextLine()) {
+
+                    String currentLine = sc.nextLine();
+                    String[] tokens = currentLine.trim().split(DELIMITER);
+
+                    if (!tokens[0].equals(orderNumber)) {
+                        out.write(currentLine + "\n");
+                        linecounter = linecounter + 1;
+                    }
+
+                }
+
+                // If the file is now empty, delete it
+                if (linecounter <= 1) {
+                    new File(filename).delete();
+                }
+
+                // If our changes fail, we recover the original file
+            } catch (IOException e) {
+                oldFile.renameTo(new File(filename));
+                throw new FileIOException("Error writing the new file... ");
+            } finally {
+
+                if (out != null) {
+                    out.flush();
+                    out.close();
+                }
+                if (sc != null) {
+                    sc.close();
+                }
+            }
+
+            // Delete the temporary file if all is successful               
+            oldFile.delete();
+        } else {
+            throw new MissingFileException("No files for that date exist... ");
+        }
+
+    }
+
+    public void writeSingleOrder(List<Order> orderList)
+            throws FileIOException,
+            BackupFileException {
+
+        writeSingleOrder(orderList, DIR);
+    }
+
+    public void writeSingleOrder(List<Order> orderList, String directory)
+            throws FileIOException,
+            BackupFileException {
+
+        PrintWriter out = null;
+        new File(directory).mkdirs();
+        new File(directory + "/tmp/").mkdirs();
+        boolean header = true;
+
+        String headerst = "Order Number,first_name,last_name,State,Area,Material,Tax,CPSF,"
+                + "LCPSF,MaterialCost,LaborCost,TotalCost, Last Revised\n";
+
+        String tmpDate = orderList.get(0).getDate()
+                .format(DateTimeFormatter.ofPattern("MMddyyyy"));
+
+        String filename = directory + "Orders_" + tmpDate + ".csv";
+        String tempfilename = directory + "/tmp/" + tmpDate + "_temp.csv";
+
+        File file = new File(filename);
+        File oldFile = new File(tempfilename);
+
+        // If the file already exists, we make a copy, and then modify the original.  In
+        // case of a backup copy exception, modification of the orignial file will not be 
+        // permitted.  Backups are stored in /tmp/.
+        if (file.exists()) {
+            header = false;
+            try {
+                Files.copy(file.toPath(), oldFile.toPath(), StandardCopyOption.REPLACE_EXISTING);
+            } catch (IOException e) {
+                throw new BackupFileException("Error backing up original file,"
+                        + "modification not permitted... ", e);
+            }
+        }
+
+        // Original file has been succesfully backed up, now we can
+        // proceed with attempt to persist our changes
+        try {
+
+            out = new PrintWriter(new FileWriter(filename, true));
+
+            if (header) {
+                out.write(headerst);
+            }
+
+            out.write(outputFormat(orderList.get(0)));
+
+            // If our changes fail, we recover the original file
+        } catch (IOException e) {
+            oldFile.renameTo(file);
+            throw new FileIOException("Error opening the order file... ", e);
+        } finally {
+
+            if (out != null) {
+                out.flush();
+                out.close();
+            }
+
+        }
+
+        // Delete the temporary file if all is successful
+        oldFile.delete();
+
+    }
+
+    public void writeAllOrders(List<Order> orderList, String filename) throws FileIOException {
+        PrintWriter out = null;
+        String header = "Order Number,first_name,last_name,State,Area,Material,Tax,CPSF,"
+                + "LCPSF,MaterialCost,LaborCost,TotalCost, Last Revised";
+
+        try {
+            out = new PrintWriter(new FileWriter(filename));
+            out.write(header + "\n");
+            for (int i = 0; i < orderList.size(); i++) {
+                Order order = orderList.get(i);
+                out.write(outputFormat(order));
+            }
+        } catch (IOException e) {
+            throw new FileIOException("Error opening file.  Is it open"
+                    + "\nin another application? ", e);
+        } finally {
+
+            if (out != null) {
+                out.flush();
+                out.close();
+            }
+
+        }
+
+    }
+
+    private String outputFormat(Order order) {
+        Product p = order.getProduct();
+        String name;
+        
+        if (!order.getLastName().equals("")){
+            name = "\"" + order.getLastName() + ", " + order.getFirstName() + "\"";
+        } else {
+             name = order.getFirstName();
+        }
+
+        return (order.getOrderNumber() + DELIMITER
+                //+ order.getDate().format(DateTimeFormatter.ofPattern(DATEFORMAT)) + DELIMITER
+                + name + DELIMITER
+               
+                + order.getState().getStateCode() + DELIMITER
+                + order.getState().getTaxrate().toString() + DELIMITER
+                + p.getProductName() + DELIMITER
+                + order.getArea().toString() + DELIMITER                
+                
+                + p.getCostpersqft().toString() + DELIMITER
+                + p.getLaborpersqft().toString() + DELIMITER
+                + order.getMaterialCost().toString() + DELIMITER
+                + order.getLaborCost().toString() + DELIMITER
+                + order.getTotalCost().toString() + DELIMITER
+                + order.getRevisionDate().format(DateTimeFormatter.ofPattern(REVDATEFORMAT)) + "\n");
+    }
+
+    public List<Order> readAllOrders(String userDir) {
+
+        return readAllOrdersFromFile(userDir, 8);
+    }
+
+    public List<Order> readAllOrders(String userDir, int orderNumberLength) {
+
+        return readAllOrdersFromFile(userDir, 8);
+    }
+
+    private List<Order> readAllOrdersFromFile(String dir, int orderNumberLength) {
+
+        this.skippedLineCount = 0;
+        this.skippedFileCount = 0;
+
+        List<Order> allOrders = new ArrayList<>();
+        File folder = new File(dir);
+        File[] listOfFiles = folder.listFiles();
+
+        for (File file : listOfFiles) {
+            if (file.isFile() && !file.isDirectory()) {
+
+                try {
+                    allOrders.addAll(readOrdersFromSingleFile(file, orderNumberLength));
+                } catch (FileSkipException | MissingFileException e) {
+                    skippedFileCount = skippedFileCount + 1;
+                }
+            }
+        }
+
+        return allOrders;
+    }
+
+    private boolean isOrderNumber(String s, int orderNumberLength) {
+
+        try {
+            Integer.parseInt(s);
+            return s.length() <= orderNumberLength;
+        } catch (NumberFormatException e) {
+            return false;
+        }
+    }
+
+    public List<Order> readOrdersFromSingleFile(String filename, int orderNumberLength)
+            throws FileSkipException, MissingFileException {
+
+        File file = new File(filename);
+        return readOrdersFromSingleFile(file, orderNumberLength);
+    }
+
+    private List<Order> readOrdersFromSingleFile(File file, int orderNumberLength)
+            throws FileSkipException, MissingFileException {
+        LocalDate d = LocalDate.now();
+        LocalDateTime drev = LocalDateTime.now();
+        Scanner scanner;
+        List<Order> orderList = new ArrayList<>();
+        Set<Order> orderSet = new HashSet<>();
+    
+
+        try {
+            scanner = new Scanner(file);
+        } catch (FileNotFoundException e) {
+            throw new MissingFileException("Order file could not be found", e);
+        }
+
+        String[] fileNameTokens = file.getName().split("[_ .]+");
+
+        try {
+            d = LocalDate.parse(fileNameTokens[1], DateTimeFormatter.ofPattern("MMddyyyy"));
+            drev = d.atStartOfDay();
+            //drev = LocalDateTime.parse(fileNameTokens[1], DateTimeFormatter.ofPattern("MMddyyyy"));
+        } catch (Exception e) {
+            throw new FileSkipException("Error reading file: empty or corrupt ");
+        }
+        String currentline;
+
+        try {
+            //scanner.nextLine();
+            while (scanner.hasNextLine()) {
+
+                currentline = scanner.nextLine();
+                try {
+                    String[] currentTokens = currentline.split(DELIMITER);
+
+                    String[] names = currentline.split("\"");
+
+                    int offset;
+                    if (names.length > 1) {
+                        offset = names[1].split(",").length - 1;
+                    } else {
+                        offset = 0;
+                    }
+
+                    for (int i = 0; i < currentTokens.length; i++) {
+                        currentTokens[i] = currentTokens[i].trim();
+                    }
+
+                    Order currentOrder = new Order();
+                    currentOrder.setOrderNumber(currentTokens[0]);
+
+                    if (names.length > 1) {
+
+                        String[] nameSplit = names[1].split("[,]+ ");
+                        currentOrder.setFirstName(nameSplit[0].trim());
+
+                        if (nameSplit.length > 1) {
+                            currentOrder.setLastName(nameSplit[1].trim());
+                        } else {
+                            currentOrder.setLastName("");
+                        }
+                    } else {
+                        String[] nameSplit = currentTokens[1].split(" ");
+                        currentOrder.setFirstName(nameSplit[0].trim());
+
+                        if (nameSplit.length > 1) {
+                            String name = "";
+                            for (int i = 1; i < nameSplit.length; i++) {
+                                name = name + " " + nameSplit[i]; 
+                            }
+                            currentOrder.setLastName(name);
+                        } else {
+                            currentOrder.setLastName("");
+                        }
+                        
+                        
+                    }
+
+                    if (!isOrderNumber(currentTokens[0], orderNumberLength)) {
+                        throw new NumberFormatException("Bad order number");
+                    }
+
+                    State st = new State(currentTokens[2 + offset], new BigDecimal(currentTokens[3 + offset]));
+
+                    Product currentProduct = new Product(currentTokens[4 + offset]);
+                    currentProduct.setCostpersqft(new BigDecimal(currentTokens[6 + offset]));
+                    currentProduct.setLaborpersqft(new BigDecimal(currentTokens[7 + offset]));
+
+                    currentOrder.setState(st);
+                    currentOrder.setDate(d);
+
+                    currentOrder.setArea(new BigDecimal(currentTokens[5 + offset]));
+                    currentOrder.setRevisionDate(drev);
+                    currentOrder.setProduct(currentProduct);
+                    currentOrder.recalculateData();
+                    currentOrder.setOrderStatus(false);
+
+                    orderList.add(currentOrder);
+
+                } catch (Exception e) {
+
+                    skippedLineCount = skippedLineCount + 1;
+                    // Skips the line if there is a problem but continues reading file
+                }
+
+            }
+
+            if (orderList.isEmpty()) {
+                throw new FileSkipException("Error reading file: empty or corrupt ");
+            }
+
+        } catch (Exception e) {
+            scanner.close();
+
+            // Skips the entire file if there are no valid lines
+            throw new FileSkipException("Error reading file: empty or corrupt ", e);
+        }
+
+        scanner.close();
+        return orderList;
+    }
+
+    public void AuditLogToFile(String entry, boolean writeMode, String filename) throws FileIOException {
+        PrintWriter out;
+        String foutName = filename;
+
+        try {
+            out = new PrintWriter(new FileWriter(foutName, writeMode));
+        } catch (IOException e) {
+            throw new FileIOException("Error opening audit file.  Is it open"
+                    + "\nin another application? ", e);
+        }
+
+        out.write(entry);
+        out.write("\r\n");
+        out.flush();
+        out.close();
+
+    }
+
+    public int getSkippedLineCount() {
+        return skippedLineCount;
+    }
+
+    public int getSkippedFileCount() {
+        return skippedFileCount;
+    }
+
+}

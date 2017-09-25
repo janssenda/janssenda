@@ -1,0 +1,14 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
+23193,"Squallmourner, Storm",The Lewd King,45.98,Shadowhell Mithril,222.00,462.21,420.19,102610.6200,93282.1800,285964.30944000,04/11/2017 @ 12:00:00 AM
+11494,"The Machine, Wheelbolt",The Fen of the Necromancer,20.00,Violetdream Iron,374.00,414.98,377.25,155202.5200,141091.5000,355552.82400000,04/11/2017 @ 12:00:00 AM
+23606,"Mistmidnight, Tiger",The Fortress of Akkun the Grim,27.03,Tritons' Time Stoneiron Of Legend,238.00,341.59,341.59,81298.4200,81298.4200,206546.76585200,04/11/2017 @ 12:00:00 AM
+31021,Spikesnare,Mahyrst Keep,31.30,Foulopal Copper Of The Skies,207.00,221.83,221.83,45918.8100,45918.8100,120582.79506000,04/11/2017 @ 12:00:00 AM
+31516,"Ivycaster, Fate",Hafeld Keep,47.59,Planar Mudtin Of Trolls,112.00,191.40,174.00,21436.8000,19488.0000,60400.91232000,04/11/2017 @ 12:00:00 AM
+5036,Bonescare,The Greedy Wench,12.10,Unspeakable Rotsoul Mithril Of Souls,167.00,2076.95,306.00,346850.6500,51102.0000,446104.92065000,04/11/2017 @ 12:00:00 AM
+29645,"Lord of Animals, Suriel",The Citadel of Alammius,32.67,Heavenly Dreamsilver Of The Night,63.00,719.00,314.60,45297.0000,19819.8000,86390.45856000,04/11/2017 @ 12:00:00 AM
+15627,"The Living Device, Mecharig",The Dungeon of Merciless Woe,3.61,Golems' Stonesapphire Gold Of The Glacier,270.00,176.00,160.00,47520.0000,43200.0000,93994.99200000,04/11/2017 @ 12:00:00 AM
+13054,Deathbrood,Bifar's Deep,10.09,Vampires' Fang Emeraldsilver,213.00,2033.69,80.84,433175.9700,17218.9200,495839.73440100,04/11/2017 @ 12:00:00 AM
+13162,"Jackalguard, Gale",Khali's Delve,1.18,Poison Adamant,186.00,110.96,100.87,20638.5600,18761.8200,39865.30448400,04/11/2017 @ 12:00:00 AM
+4654,Metalghoul,Bergfison's Deep,16.00,Yellow Mistearth Copper,323.00,3587.00,261.80,1158601.0000,84561.4000,1442068.38400000,04/11/2017 @ 12:00:00 AM
+25362,"God of Love, Prusu",The Fortress of the Lich Queen,20.72,Mind Lead,211.00,241.00,219.09,50851.0000,46227.9900,117193.75672800,04/11/2017 @ 12:00:00 AM
+4930,"Knightclaw, Sunset",The Tower of Sabiesu the Awesome,10.00,God-touched Greengem Platinum,136.00,2181.36,188.14,296664.9600,25587.0400,354477.20000000,04/11/2017 @ 12:00:00 AM

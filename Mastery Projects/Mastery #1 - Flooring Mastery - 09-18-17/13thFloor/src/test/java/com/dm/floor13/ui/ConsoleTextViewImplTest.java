@@ -31,80 +31,80 @@ import org.junit.Before;
  * @author danimaetrix
  */
 public class ConsoleTextViewImplTest {
-
-    String dir = "./data/orders/test_files/daoTestData";
-    String dirSub = dir + "/testData/";
-
-    OrderDao orderDao = new OrderDaoImpl(dir, dirSub);
-    StateDataDao stateDao = new StateDataDaoImpl(dir, dirSub);
-    ProductDataDao productDao = new ProductDataDaoImpl(dir, dirSub);
-    UserIo io = new UserIoConsoleColorImpl();
-
-    ConsoleTextViewImpl view = new ConsoleTextViewImpl(io);
-
-    OrderServiceImpl service;
-
-    public ConsoleTextViewImplTest() {
-    }
-
-    @Before
-    public void setUp() throws FileSkipException {
-
-        copyDirAndFiles(dir + "/unModifiedData/", dir + "/testData/");
-        this.service = new OrderServiceImpl(orderDao, stateDao, productDao);
-    }
-
-    @After
-    public void tearDown() {
-
-        File folder = new File(dir + "/testData");
-
-        // Cleans directory of all files
-        for (File file : folder.listFiles()) {
-            if (!file.isDirectory()) {
-                file.delete();
-            }
-            if (file.isDirectory()) {
-                file.delete();
-            }
-        }
-
-    }
-
-    @Test
-    public void displayOrderTest() throws OrderNotFoundException {
-
-        Order o = orderDao.getOrder("39568").get(0);
-
-        //view.displayOrder(o);
-//        view.displayMainMenu();
-view.displayUpdateOrder(o);
-
-    }
-
-    public void copyDirAndFiles(String base, String target) {
-
-        new File(target).mkdirs();
-        File folder = new File(base);
-        File[] listOfFiles = folder.listFiles();
-
-        for (File file : listOfFiles) {
-            if (file.isDirectory()) {
-                copyDirAndFiles(file.toString() + "/", target + file.getName() + "/");
-            } else {
-
-                try {
-
-                    Files.copy(file.toPath(), new File(target + file.getName())
-                            .toPath(), StandardCopyOption.REPLACE_EXISTING);
-
-                } catch (IOException e) {
-                    fail("Setup failed");
-                }
-            }
-
-        }
-
-    }
+//
+//    String dir = "./data/orders/test_files/daoTestData";
+//    String dirSub = dir + "/testData/";
+//
+//    OrderDao orderDao = new OrderDaoImpl(dir, dirSub);
+//    StateDataDao stateDao = new StateDataDaoImpl(dir, dirSub);
+//    ProductDataDao productDao = new ProductDataDaoImpl(dir, dirSub);
+//    UserIo io = new UserIoConsoleColorImpl();
+//
+//    ConsoleTextViewImpl view = new ConsoleTextViewImpl(io);
+//
+//    OrderServiceImpl service;
+//
+//    public ConsoleTextViewImplTest() {
+//    }
+//
+//    //@Before
+//    public void setUp() throws FileSkipException {
+//
+//        copyDirAndFiles(dir + "/unModifiedData/", dir + "/testData/");
+//        this.service = new OrderServiceImpl(orderDao, stateDao, productDao);
+//    }
+//
+//    //@After
+//    public void tearDown() {
+//
+//        File folder = new File(dir + "/testData");
+//
+//        // Cleans directory of all files
+//        for (File file : folder.listFiles()) {
+//            if (!file.isDirectory()) {
+//                file.delete();
+//            }
+//            if (file.isDirectory()) {
+//                file.delete();
+//            }
+//        }
+//
+//    }
+//
+//    //@Test
+//    public void displayOrderTest() throws OrderNotFoundException {
+//
+////        Order o = orderDao.getOrder("39568").get(0);
+////
+////        //view.displayOrder(o);
+//////        view.displayMainMenu();
+////        view.updateOrder(o);
+//
+//    }
+//
+//    public void copyDirAndFiles(String base, String target) {
+//
+//        new File(target).mkdirs();
+//        File folder = new File(base);
+//        File[] listOfFiles = folder.listFiles();
+//
+//        for (File file : listOfFiles) {
+//            if (file.isDirectory()) {
+//                copyDirAndFiles(file.toString() + "/", target + file.getName() + "/");
+//            } else {
+//
+//                try {
+//
+//                    Files.copy(file.toPath(), new File(target + file.getName())
+//                            .toPath(), StandardCopyOption.REPLACE_EXISTING);
+//
+//                } catch (IOException e) {
+//                    fail("Setup failed");
+//                }
+//            }
+//
+//        }
+//
+//    }
 
 }

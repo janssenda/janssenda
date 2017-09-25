@@ -8,6 +8,7 @@ package com.dm.floor13.model;
 import java.math.BigDecimal;
 import java.time.LocalDate;
 import java.time.LocalDateTime;
+import java.time.format.DateTimeFormatter;
 import java.util.Objects;
 
 /**
@@ -16,6 +17,7 @@ import java.util.Objects;
  */
 public class Order implements Cloneable {
 
+    private boolean isNew;
     private String orderNumber;
     private String firstName;
     private String lastName;
@@ -31,9 +33,10 @@ public class Order implements Cloneable {
     private BigDecimal totalCost;
 
     public Order() {
+        this.isNew = true;
         this.area = BigDecimal.ZERO;
         this.date = LocalDate.MIN;
-        this.orderNumber = null;
+        this.orderNumber = "< Not Assigned >";
         this.state = new State().clone();
         this.product = new Product().clone();
         this.totalCost = null;
@@ -41,9 +44,8 @@ public class Order implements Cloneable {
         this.materialCost = null;
         this.revisionDate = null;
     }
-    
-    
-    public boolean compareThisTo(Order order){
+
+    public boolean compareThisTo(Order order) {
         return this == order;
     }
 
@@ -55,7 +57,44 @@ public class Order implements Cloneable {
         } catch (CloneNotSupportedException e) {
             newOrder = null;
         }
+
+        newOrder.state = this.state.clone();
+        newOrder.product = this.product.clone();
+
         return newOrder;
+    }
+
+    @Override
+    public String toString() {
+
+        return ("Order#: " + orderNumber
+                + " Date: " + date.format(DateTimeFormatter.ofPattern("MM/dd/yy"))
+                + " Name: " + lastName + ", " + firstName);
+    }
+
+    public boolean containsKeyWord(String key) {
+
+        String cdate = this.date.format(DateTimeFormatter.ofPattern("MM/dd/yyyy")).toLowerCase();
+        String crevdate = this.revisionDate.format(DateTimeFormatter.ofPattern("MM/dd/yyyy")).toLowerCase();
+        
+        return this.orderNumber.toLowerCase().contains(key.toLowerCase())
+                || this.firstName.toLowerCase().contains(key.toLowerCase())
+                || this.firstName.toLowerCase().contains(key.toLowerCase())
+                || this.lastName.toLowerCase().contains(key.toLowerCase())
+                || this.product.getProductName().toLowerCase().contains(key.toLowerCase())
+                || this.state.getStateCode().toLowerCase().contains(key.toLowerCase())
+                || cdate.contains(key.toLowerCase())
+                || crevdate.contains(key.toLowerCase())
+                || this.area.toString().toLowerCase().contains(key.toLowerCase())
+                || this.totalCost.toString().toLowerCase().contains(key.toLowerCase());
+    }
+
+    public void setOrderStatus(boolean status) {
+        this.isNew = status;
+    }
+
+    public boolean isNewOrder() {
+        return this.isNew;
     }
 
     public BigDecimal getMaterialCost() {

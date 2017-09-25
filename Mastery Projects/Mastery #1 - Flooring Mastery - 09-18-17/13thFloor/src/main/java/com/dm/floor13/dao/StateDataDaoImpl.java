@@ -18,39 +18,44 @@ import java.util.Map;
 public class StateDataDaoImpl implements StateDataDao{
 
     private Map<String, State> stateMap;
-    private String currentDir, currentRoot;
+    private String currentRoot;
 
     public StateDataDaoImpl() {
-        this.currentDir = "./data/orders";
-        this.currentRoot = "./data";
+        this.currentRoot = "./";
     }
 
-    public StateDataDaoImpl(String rootdir, String workingdir) {
-        this.currentDir = workingdir;
+    public StateDataDaoImpl(String rootdir) {
         this.currentRoot = rootdir;
     }
+//    @Override
+//    public void readDataFromFile() throws FileSkipException {
+//        readDataFromFile(currentRoot + "/Taxes.txt");
+//    }
 
-    public void readDataFromFile() throws FileSkipException {
-        FileHandler orderHandler = new FileHandler(currentRoot);
-        Map<String, State> stateMap = null;
+    @Override
+    public void readDataFromFile(String filename) throws FileSkipException {
+        FileHandler orderHandler = new LargeDataHandler();
+        Map<String, State> stateMap;
 
-        try {
-            stateMap = orderHandler.readTaxesFromFile(currentRoot + "/Taxes.txt");
+        try {            
+            stateMap = orderHandler.readStatesFromFile(filename);
         } catch (FileIOException e) {
             throw new FileSkipException("Tax file was not read - blank, in use, or corrupt...");
         }
 
         if (stateMap.isEmpty()) {
             throw new FileSkipException("Tax file was not read - blank, in use, or corrupt...");
-        }
-
+        }        
+        
         this.stateMap = stateMap;
     }
 
+    @Override
     public boolean isState(String stateCode) {
         return stateMap.containsKey(stateCode);
     }
 
+    @Override
     public State getState(String stateCode) throws MissingDataException {
         if (stateMap.containsKey(stateCode)) {
             return stateMap.get(stateCode);
@@ -61,11 +66,11 @@ public class StateDataDaoImpl implements StateDataDao{
 
     // Current working directory
     public String getcurrentDir() {
-        return currentDir;
+        return currentRoot;
     }
 
     public void setcurrentDir(String directory) {
-        this.currentDir = directory;
+        this.currentRoot = directory;
     }
 
     public Map<String, State> getStateMap() {

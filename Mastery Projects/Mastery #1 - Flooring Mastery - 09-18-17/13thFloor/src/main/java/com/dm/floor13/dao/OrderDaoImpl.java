@@ -22,35 +22,51 @@ import java.util.stream.Collectors;
  */
 public class OrderDaoImpl implements OrderDao {
 
- 
-    private Map<String, List<Order>> orderMap;
-    private int orderNumberLength;
-    private String currentDir, currentRoot;
-    private int currentOrderNumber;
+    public static final String MODE = "FULL RETAIL";
+
+    protected Map<String, List<Order>> orderMap;
+    private int orderNumberLength = 10;
+    protected String orderDir;
+    protected int currentOrderNumber;
+    protected FileHandler orderHandler;
 
     public OrderDaoImpl() {
-        this.currentDir = "./data/orders";
-        this.currentRoot = "./data";
-        this.orderNumberLength = 5;
+        this.orderDir = "./";
+        this.orderNumberLength = 10;
+        this.orderHandler = new LargeDataHandler(orderDir);
     }
 
-    public OrderDaoImpl(String rootdir, String workingdir) {
-        this.currentDir = workingdir;
-        this.currentRoot = rootdir;
-        this.orderNumberLength = 5;
+    public OrderDaoImpl(String dir) {
+        this.orderDir = dir;
+        this.orderNumberLength = 10;
+        this.orderHandler = new LargeDataHandler(orderDir);
     }
 
+    public OrderDaoImpl(String orderdir, FileHandler fileHandler) {
+        this.orderDir = orderdir;
+        this.orderHandler = fileHandler;
+    }
+
+    public List<Order> findOrders(SearchMethod method, Object key) {
+        OrderSearch search = new OrderSearch(orderMap);
+
+        return search.searchMap(method, key);
+    }
 
     // Reads all orders in the current directory, and sorts them according to order number,
     // and then by revision date.  The result is a map of List<Order> that are keyed by order date,
     // and each list contains all the order revisions from latest (0) to oldest (N).  Upon
-    // first read of a data set, the order global current order number is updated.
+    // first read of a data set, the order global current order number is updated.    
+//    @Override
+//    public Map<String, List<Order>> readAllOrdersFromDirectory() {
+//        
+//        return readAllOrdersFromDirectory(orderDir);
+//    }
+//    
     @Override
-    public Map<String, List<Order>> readAllOrdersFromDirectory() {
+    public Map<String, List<Order>> readAllOrdersFromDirectory(String dir) {
 
-        FileHandler orderHandler = new FileHandler(currentDir);
-
-        List<Order> orders = orderHandler.readAllOrders(currentDir, orderNumberLength);
+        List<Order> orders = orderHandler.readAllOrders(dir, 15);
 
         this.orderMap = orders.stream().sorted((o1, o2)
                 -> -o1.getRevisionDate().compareTo(o2.getRevisionDate()))
@@ -84,6 +100,7 @@ public class OrderDaoImpl implements OrderDao {
         } else {
             throw new OrderNotFoundException("Error: order does not exist...");
         }
+
     }
 
     // Removes an order from all data storage based on order number.
@@ -94,10 +111,11 @@ public class OrderDaoImpl implements OrderDao {
     // the order data is also removed from the map.  All files are backed up in real
     // time to prevent data loss during modification.
     @Override
-    public void removeOrder(String orderNumber) throws OrderNotFoundException, ChangeOrderException {
+    public boolean removeOrder(Order order) throws OrderNotFoundException, ChangeOrderException {
+        String orderNumber = order.getOrderNumber();
 
         if (orderMap.containsKey(orderNumber)) {
-            FileHandler orderHandler = new FileHandler(currentDir);
+            FileHandler orderHandler = new FileHandler(orderDir);
             List<Order> orderList = orderMap.get(orderNumber);
 
             orderMap.remove(orderNumber);
@@ -107,11 +125,12 @@ public class OrderDaoImpl implements OrderDao {
             }
 
             try {
-                orderHandler.removeOrderFromAll(orderList, currentDir);
+                orderHandler.removeOrderFromAll(orderList, orderDir);
 
             } catch (BackupFileException | MissingFileException | FileIOException e) {
                 throw new ChangeOrderException("Problem removing order... ");
             }
+            return true;
 
         } else {
             throw new OrderNotFoundException("Error: order does not exist...");
@@ -131,18 +150,21 @@ public class OrderDaoImpl implements OrderDao {
         if (!orderExists(order.getOrderNumber())) {
             List<Order> newOrder = new ArrayList<>();
             order.setOrderNumber(Integer.toString(currentOrderNumber + 1));
+            order.setOrderStatus(false);
             newOrder.add(order);
 
             order.recalculateData();
             orderMap.put(order.getOrderNumber(), newOrder);
 
-            if (orderMap.get(order.getOrderNumber()).get(0) != order) {
+            if (!orderMap.get(order.getOrderNumber()).get(0).equals(order)) {
                 currentOrderNumber = currentOrderNumber - 1;
+                order.setOrderStatus(false);
+                order.setOrderNumber(null);
                 throw new ChangeOrderException("Problem adding new order... ");
             }
 
             // Try to write the changes to file.  If we fail, remove the order
-            // from the map...
+            // from the map...0
             try {
                 writeSingleOrderToDirectory(newOrder);
             } catch (FileIOException | BackupFileException e) {
@@ -185,7 +207,6 @@ public class OrderDaoImpl implements OrderDao {
     // Updates the current order number by finding the maximum value of order
     // numbers in the map.  Runs at startup and generally does not need to be 
     // re-run, since currentOrderNumber is auto-updated with new entries
-    
     public void updateCurrentOrderNumber() {
 
         this.currentOrderNumber = orderMap.keySet()
@@ -194,7 +215,7 @@ public class OrderDaoImpl implements OrderDao {
                         -> Integer.parseInt(n)).max().getAsInt();
     }
 
-    // Responsiblel for implementing the calls to file database from the add/edit/remove
+    // Responsible for implementing the calls to file database from the add/edit/remove
     // methods described above. Not to be used outside of those methods.
     private void writeSingleOrderToDirectory(List<Order> orderList)
             throws FileIOException,
@@ -206,49 +227,42 @@ public class OrderDaoImpl implements OrderDao {
             throws FileIOException,
             BackupFileException {
 
-        FileHandler orderHandler = new FileHandler(currentDir);
-        orderHandler.writeSingleOrder(orderList, currentDir + path + "/");
+        FileHandler orderHandler = new FileHandler(orderDir);
+        orderHandler.writeSingleOrder(orderList, orderDir + path + "/");
 
     }
 
-    
     @Override
     public boolean orderExists(String orderNumber) {
         return orderMap.containsKey(orderNumber);
     }
 
-    
     // Fetches the current order number
     public int getCurrentOrderNumber() {
         return this.currentOrderNumber;
     }
 
-    
     // Current working directory
     public String getcurrentDir() {
-        return currentDir;
+        return orderDir;
     }
 
     public void setcurrentDir(String directory) {
-        this.currentDir = directory;
+        this.orderDir = directory;
     }
 
-    
     public int getOrderNumberLength() {
         return orderNumberLength;
     }
 
-    
     public void setOrderNumberLength(int orderNumberLength) {
         this.orderNumberLength = orderNumberLength;
     }
 
- 
     public void writeOrdersToDirectory(String path) {
-        FileHandler orderHandler = new FileHandler(currentDir);
-        orderHandler.writeAllOrdersSplitFilesByDate(orderMap, currentDir + path + "/");
+        FileHandler orderHandler = new FileHandler(orderDir);
+        orderHandler.writeAllOrdersSplitFilesByDate(orderMap, orderDir + path + "/");
     }
-
 
     public Map<String, List<Order>> getOrderMap() {
         return orderMap;
@@ -258,10 +272,13 @@ public class OrderDaoImpl implements OrderDao {
         this.orderMap = orderMap;
     }
 
-
     public int getOrderMapSize() {
         return orderMap.size();
     }
 
+    @Override
+    public boolean getMode() {
+        return false;
+    }
 
 }

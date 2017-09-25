@@ -5,6 +5,7 @@
  */
 package com.dm.floor13.service;
 
+import com.dm.floor13.dao.SearchMethod;
 import com.dm.floor13.exceptions.ChangeOrderException;
 import com.dm.floor13.exceptions.OrderNotFoundException;
 import com.dm.floor13.model.Order;
@@ -16,12 +17,13 @@ import java.util.List;
  */
 public interface OrderService {
 
-
-    public void fetchOrders();
+    public boolean getMode();
+    
+    public List<Order> findOrders(SearchMethod method, Object key);
 
     public Order addUpdateOrder(Order order) throws ChangeOrderException; 
 
-    public boolean removeOrder(String orderNumber) throws OrderNotFoundException,
+    public boolean removeOrder(Order order) throws OrderNotFoundException,
             ChangeOrderException; 
             
     public List<Order> getOrder(String orderNumber) throws OrderNotFoundException;  

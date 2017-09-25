@@ -32,18 +32,20 @@ public class UserIoConsoleColorImpl implements UserIo {
 
     @Override
     public LocalDate readDate(String msg) {
-        String dateFormat = "MM/dd/yy";
+        String dateFormat = "MM/dd/yyyy";
         LocalDate date;
         boolean valid = false;
 
         while (!valid){
         String input = readLine(msg);
 
-        try {
+        try {            
             date = LocalDate.parse(input, DateTimeFormatter.ofPattern(dateFormat));
+            
+                    
             return date;            
         } catch (Exception e) {            
-            print("\nBad date format! Please use (MM/dd/yy)... ");
+            print("\nBad date format! Please use (MM/dd/yyyy)... ");
         }
         }
         

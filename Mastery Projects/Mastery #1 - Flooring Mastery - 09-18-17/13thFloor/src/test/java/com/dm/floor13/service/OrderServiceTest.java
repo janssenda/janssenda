@@ -5,6 +5,7 @@
  */
 package com.dm.floor13.service;
 
+import com.dm.floor13.dao.FileHandler;
 import com.dm.floor13.dao.OrderDao;
 import com.dm.floor13.exceptions.ChangeOrderException;
 import com.dm.floor13.exceptions.FileSkipException;
@@ -30,7 +31,6 @@ import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertFalse;
 import static org.junit.Assert.assertNotEquals;
 import static org.junit.Assert.assertNotNull;
-import static org.junit.Assert.assertNull;
 import static org.junit.Assert.assertTrue;
 import static org.junit.Assert.fail;
 import org.junit.Before;
@@ -42,12 +42,18 @@ import org.junit.Test;
  */
 public class OrderServiceTest {
 
-    String dir = "./data/orders/test_files/daoTestData";
-    String dirSub = dir + "/testData/";
+    String cfgPath = "./data/orders/test_files/daoTestData/floor13_test.cfg";
+    String dataDirectory = "./data/orders/test_files/daoTestData";
+    String orderDirectory = dataDirectory + "/testData/";
+    String unModDirectory = dataDirectory + "/unModifiedData/";
+    String productsFile = "./data/orders/test_files/daoTestData/Products.txt";
+    String statesFile = "./data/orders/test_files/daoTestData/Taxes.txt";
 
-    OrderDao orderDao = new OrderDaoImpl(dir, dirSub);
-    StateDataDao stateDao = new StateDataDaoImpl(dir, dirSub);
-    ProductDataDao productDao = new ProductDataDaoImpl(dir, dirSub);
+    FileHandler fileHandler = new FileHandler(orderDirectory);
+
+    OrderDaoImpl orderDao = new OrderDaoImpl(orderDirectory, fileHandler);
+    StateDataDaoImpl stateDao = new StateDataDaoImpl();
+    ProductDataDaoImpl productDao = new ProductDataDaoImpl();
 
     OrderServiceImpl service;
 
@@ -57,14 +63,15 @@ public class OrderServiceTest {
     @Before
     public void setUp() throws FileSkipException {
 
-        copyDirAndFiles(dir + "/unModifiedData/", dir + "/testData/");
-        this.service = new OrderServiceImpl(orderDao, stateDao, productDao);
+        copyDirAndFiles(unModDirectory, orderDirectory);
+        this.service = new OrderServiceImpl(stateDao, productDao,
+                fileHandler, orderDirectory, cfgPath);
     }
 
     @After
     public void tearDown() {
 
-        File folder = new File(dir + "/testData");
+        File folder = new File(orderDirectory);
 
         // Cleans directory of all files
         for (File file : folder.listFiles()) {
@@ -94,12 +101,11 @@ public class OrderServiceTest {
         o.setState(st);
         o.setProduct(p);
 
-        assertTrue(service.validateOrder(o));
-        assertNull(o.getState().getTaxrate());
-        assertNull(o.getProduct().getCostpersqft());
-        assertNull(o.getTotalCost());
-        assertNull(o.getRevisionDate());
-
+//        assertTrue(service.validateOrder(o));
+//        assertNull(o.getState().getTaxrate());
+//        assertNull(o.getProduct().getCostpersqft());
+//        assertNull(o.getTotalCost());
+//        assertNull(o.getRevisionDate());
         service.populateOrder(o);
 
         assertTrue(service.validateOrder(o));
@@ -213,11 +219,6 @@ public class OrderServiceTest {
 
             o = service.getOrder("62052").get(0);
             assertTrue(service.validateOrder(o));
-//            o.setState();
-//            assertFalse(service.validateOrder(o));
-
-            o = service.getOrder("62052").get(0);
-            assertTrue(service.validateOrder(o));
             o.getProduct().setProductName("ajksdhajks");
             assertFalse(service.validateOrder(o));
 
@@ -312,8 +313,8 @@ public class OrderServiceTest {
 
         try {
 
-            assertTrue(service.removeOrder("28633"));
-            assertFalse(service.removeOrder("28633"));
+            assertTrue(service.removeOrder(service.getOrder("28633").get(0)));
+            assertFalse(service.removeOrder(service.getOrder("28633").get(0)));
             fail("Removed twice");
         } catch (OrderNotFoundException | ChangeOrderException e) {
             assertEquals(e.getClass(), OrderNotFoundException.class);
@@ -331,6 +332,22 @@ public class OrderServiceTest {
 
         } catch (MissingDataException e) {
             fail("This state does exist... ");
+        }
+
+    }
+
+    @Test
+    public void testValidSpecific() {
+
+        try {
+            Order o = service.getOrder("28633").get(0);
+
+            o.getState().setStateCode("IN");
+
+            assertTrue(service.validateOrder(o));
+
+        } catch (OrderNotFoundException e) {
+            fail("Order should exist");
         }
 
     }

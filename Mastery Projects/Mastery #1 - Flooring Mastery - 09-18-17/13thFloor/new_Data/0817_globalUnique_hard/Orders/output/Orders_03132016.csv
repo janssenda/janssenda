@@ -1,0 +1,25 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
+25655,"Lord of Animals, Suriel",Gili's Delve,35.89,Phantasmal Smokezephyr Mercury Of Men,311.00,211.20,192.00,65683.2000,59712.0000,170399.53728000,03/13/2016 @ 12:00:00 AM
+26981,"Darkzealot, Dawn",Gili's Delve,35.89,Foulopal Copper Of The Skies,301.00,221.83,201.66,66770.8300,60699.6600,173219.64886100,03/13/2016 @ 12:00:00 AM
+36867,"Rougehate, Rune",The Fen of the Necromancer,32.21,Grayplatinum,174.00,2548.00,115.43,443352.0000,20084.8200,612709.81972200,03/13/2016 @ 12:00:00 AM
+22174,"Mistmidnight, Tiger",The Nulukkhath Spires,28.99,Warlocks' Timerot Mithril,269.00,194.65,176.95,52360.8500,47599.5500,128938.91996000,03/13/2016 @ 12:00:00 AM
+2811,Bronzespike,The Archer and Scroll,45.16,Warlocks' Timerot Mithril,179.00,725.00,176.95,129775.0000,31674.0500,234359.44098000,03/13/2016 @ 12:00:00 AM
+10541,"Mistmidnight, Tiger",The Dungeon of Dismal Terror,44.30,Pearl Mirrorice Steel Of Changelings,188.00,2996.00,302.00,563248.0000,56776.0000,894694.63200000,03/13/2016 @ 12:00:00 AM
+10502,"The Blade, Scarefear",Reheath Stronghold,39.60,Dragons' Poison Glitterflesh Steel Of The North,147.00,742.00,75.00,109074.0000,11025.0000,167658.20400000,03/13/2016 @ 12:00:00 AM
+21388,Gravebone,Reyny Keep,-3.35,Starsmoke Bronze Of Life,148.00,-438.00,420.81,-64824.0000,62279.8800,-2458.89198000,03/13/2016 @ 12:00:00 AM
+9070,"Roguemist, Rouge",Gena's Hold,4.40,Djinni's Spectral Shadowlead Of Life,137.00,1718.00,259.12,235366.0000,35499.4400,282783.51936000,03/13/2016 @ 12:00:00 AM
+20133,"Goddess of Knowledge, Ahah",Dysley Stronghold,35.51,Fairies' Supreme Mistsmoke Lead Of The Future,247.00,499.73,499.73,123433.3100,123433.3100,334528.95676200,03/13/2016 @ 12:00:00 AM
+31025,Metalghoul,Mahyrst Keep,31.30,Ensorceled Sandmetal Of Spirits,157.00,85.18,77.44,13373.2600,12158.0800,33522.64942000,03/13/2016 @ 12:00:00 AM
+31000,"God of Love, Prusu",Mahyrst Keep,31.30,Foulopal Copper Of The Skies,167.00,221.83,221.83,37045.6100,37045.6100,97281.77186000,03/13/2016 @ 12:00:00 AM
+30055,"Drakecaster, Sephiroth",The Greedy Wench,13.31,Heavenly Dreamsilver Of The Night,235.00,719.00,314.60,168965.0000,73931.0000,275225.45760000,03/13/2016 @ 12:00:00 AM
+9798,Evilbrood,Hartshill Ward,40.29,Timeiron,269.00,3255.00,-16.25,875595.0000,-4371.2500,1222239.79887500,03/13/2016 @ 12:00:00 AM
+19839,"Bladewitch, Zeal",Dysley Stronghold,35.51,Magicians' Legendary Poison Metal,60.00,-52.81,-48.01,-3168.6000,-2880.6000,-8197.27092000,03/13/2016 @ 12:00:00 AM
+29491,Bolttrap,The Nulukkhath Spires,28.99,Fleshshock Mercury,259.00,-31.02,-28.20,-8034.1800,-7303.8000,-19784.46040200,03/13/2016 @ 12:00:00 AM
+30456,"Mist, Claw",The Tower of Sabiesu the Awesome,10.00,Ensorceled Sandmetal Of Spirits,221.00,85.18,77.44,18824.7800,17114.2400,39532.92200000,03/13/2016 @ 12:00:00 AM
+29459,"Goddess of Fate, Azah",The Citadel of Alammius,32.67,Fleshshock Mercury,154.00,-31.02,-28.20,-4777.0800,-4342.8000,-12099.34479600,03/13/2016 @ 12:00:00 AM
+17569,Freezebrood,Kada's Deep,8.42,Mithril Of The Tropics,90.00,276.72,251.56,24904.8000,22640.4000,51548.50584000,03/13/2016 @ 12:00:00 AM
+29654,"Squallmourner, Storm",Bifar's Deep,12.21,Fleshshock Mercury,241.00,-31.02,-28.20,-7475.8200,-6796.2000,-16014.63364200,03/13/2016 @ 12:00:00 AM
+5725,"The Skeletal, Spiketerror",Pawic Keep,31.90,Nymphs' Luminous Rotmercury Of The Skies,292.00,335.50,305.00,97966.0000,89060.0000,246687.29400000,03/13/2016 @ 12:00:00 AM
+15805,"Claw, Slayer",The Tower of Aramum,20.00,Imperial Fate Steel,162.00,419.10,381.00,67894.2000,61722.0000,155539.44000000,03/13/2016 @ 12:00:00 AM
+15745,"The Terrifying, Deathspike",The Tower of Aramum,20.00,Sirens' Rockgold,103.00,306.13,306.13,31531.3900,31531.3900,75675.33600000,03/13/2016 @ 12:00:00 AM
+36058,"Veil, Bane",Citadel Ward,4.40,Ghouls' Imperial Soulzephyr Mithril Of The Seas,190.00,318.23,318.23,60463.7000,60463.7000,126248.20560000,03/13/2016 @ 12:00:00 AM
