@@ -251,8 +251,7 @@ public class ConsoleTextViewImpl {
                     order.getState().setStateCode(io.readLine("State: ").trim());
                     break;
                 case 4:
-                    order.getProduct().setProductName(
-                            StringUtil.capitalFirst(io.readLine("Material: ").trim()));
+                    order.getProduct().setProductName(io.readLine("Material: ").trim());
                     break;
                 case 5:
                     order.setArea(io.readBigDecimal("Area (ft^2): "));
