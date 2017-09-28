@@ -7,19 +7,36 @@
 
 $(document).ready(function () {
 
-    var zipCode = "55414";
+    $("#inputError").hide();
+    var units = $("#unitsel").val();
+    var zipCode = "55407";
     var apiKey = "d446ade3c095f0739178c40ed40583be";
 
-    getCurrentWeather(zipCode, apiKey);
-    getFutureWeather(zipCode, apiKey);
+    getCurrentWeather(zipCode, apiKey, units);
+    getFutureWeather(zipCode, apiKey, units);
+
+
+    $("#goButton").click(function () {
+        //$("#console").append($("#unitsel").val());
+
+        var units = $("#unitsel").val();
+        $("#inputError").hide();
+        var zip = $("#zip").val();
+
+        getCurrentWeather(zip, apiKey, units);
+        getFutureWeather(zip, apiKey, units);
+
+    });
+
+
 
 });
 
-function getFutureWeather(zipCode, apiKey) {
+function getFutureWeather(zipCode, apiKey, units) {
 
 
     var callA = "http://api.openweathermap.org/data/2.5/forecast?zip=";
-    var callB = zipCode + ",us&APPID=" + apiKey;
+    var callB = zipCode + ",us&units=" + units + "&APPID=" + apiKey;
     var call = callA + callB;
 
     $.ajax({
@@ -27,49 +44,56 @@ function getFutureWeather(zipCode, apiKey) {
         type: "GET",
         url: call,
         success: function (weatherData) {
-
+            var i = 1;
 
             $.each(weatherData.list, function (index, weekDay) {
 
-                var date = weekDay.dt_text;
-                var type = weekDay.weather[0].main;
-                var desc = weekDay.weather[0].description;
-                var iconCode = weekDay.weather[0].icon;
-
-                var temp = weekDay.main.temp * 9 / 5 - 459.67;
-                var pressure = (weekDay.main.pressure * 100) / 1000;
-                var humidity = weekDay.main.humidity;
-                var temp_min = weekDay.main.temp_min * 9 / 5 - 459.67;
-                var temp_max = weekDay.main.temp_max * 9 / 5 - 459.67;
+                if (index % 8 === 0) {
 
 
-                var divID = "#day" + (index + 1);
+                    date = new Date(weekDay.dt_txt);
+
+                    var type = weekDay.weather[0].main;
+                    var desc = weekDay.weather[0].description;
+                    var iconCode = weekDay.weather[0].icon;
+
+                    var temp = weekDay.main.temp;
+                    var pressure = (weekDay.main.pressure * 100) / 1000;
+                    var humidity = weekDay.main.humidity;
+                    var temp_min = weekDay.main.temp_min;
+                    var temp_max = weekDay.main.temp_max;
+
+                    var iconUrl = "http://openweathermap.org/img/w/" + iconCode + ".png";
+                    var imgCode = '<img id="wicon" src="' + iconUrl + '"></img>';
+
+                    date = moment(date).format("dddd, MMM Do");
+
+                    var infoString = date + "<br>";
+                    infoString += imgCode + " " + type + "<br/>";
+                    infoString += "H "
+                            + Number(temp_max).toFixed(0)
+                            + " &deg;-- L "
+                            + Number(temp_min).toFixed(0) + " &deg;";
+
+                    var units = $("#unitsel").val();
+                    if (units === "metric") {
+                        infoString += "C";
+                    } else {
+                        infoString += "F";
+                    }
 
 
-                var iconUrl = "http://openweathermap.org/img/w/" + iconCode + ".png";
-                var imgCode = '<img id="wicon" src="' + iconUrl + '"></img>';
+                    var divID = "#day" + (i);
+                    i += 1;
+                    $(divID).html(infoString);
 
-                var infoString = date + "<br>";
-                infoString += imgCode + " " + type + "<br/>";
-                infoString += "H " 
-                        + Number(temp_max).toFixed(0) 
-                        + " &deg;-- L " 
-                        + Number(temp_min).toFixed(0)+" &deg;F";
-                
-                $(divID).append(infoString);
-
-                
-
-
-
-
-
+                }
             });
 
 
         },
         error: function () {
-            alert("FAILURE");
+            $("#inputError").show();
         }
     });
 
@@ -79,12 +103,12 @@ function getFutureWeather(zipCode, apiKey) {
 
 }
 
-function getCurrentWeather(zipCode, apiKey) {
+function getCurrentWeather(zipCode, apiKey, units) {
 
 
 
     var callA = "http://api.openweathermap.org/data/2.5/weather?zip=";
-    var callB = zipCode + ",us&APPID=" + apiKey;
+    var callB = zipCode + ",us&units=" + units + "&APPID=" + apiKey;
     var call = callA + callB;
 
     $.ajax({
@@ -92,13 +116,13 @@ function getCurrentWeather(zipCode, apiKey) {
         type: "GET",
         url: call,
         success: function (weatherData) {
-
+            $("#console").text(call);
             var city = weatherData.name;
-            var temp = weatherData.main.temp * 9 / 5 - 459.67;
+            var temp = weatherData.main.temp;
             var pressure = (weatherData.main.pressure * 100) / 1000;
             var humidity = weatherData.main.humidity;
-            var temp_min = weatherData.main.temp_min * 9 / 5 - 459.67;
-            var temp_max = weatherData.main.temp_max * 9 / 5 - 459.67;
+            var temp_min = weatherData.main.temp_min;
+            var temp_max = weatherData.main.temp_max;
 
 
             var lon = weatherData.coord.lon;
@@ -119,26 +143,33 @@ function getCurrentWeather(zipCode, apiKey) {
             var imgCode = '<img id="wicon" src="' + iconUrl + '"></img>';
 
 
-            $("#weatherHeading").append(city);
-            $("#image").append(imgCode);
-            $("#wtype").append(type);
-            $("#desc").append(desc);
+            $("#weatherHeading").html("Current weather in " + city);
+            $("#image").html(imgCode);
+            $("#wtype").html(type);
+            $("#desc").html(desc);
 
-            var current = "Temperature: " + Number(temp).toFixed(2) + " &deg;F" + "<br>";
+            var units = $("#unitsel").val();
+            if (units === "metric") {
+                var unitLabel = "C";
+            } else {
+                var unitLabel = "F";
+            }
+
+            var current = "Temperature: " + Number(temp).toFixed(2) + " &deg;"+unitLabel + "<br>";
             current += "Pressure: " + Number(pressure).toFixed(2) + " kPa" + "<br>";
             current += "Humidity: " + Number(humidity).toFixed(2) + " %" + "<br>";
             current += "Wind: " + Number(windSpd).toFixed(2) + " mph" + "<br>";
 
 
-            $("#currentConditions").append(current);
+            $("#currentConditions").html(current);
 
-//            $("#console").append(output);
+
 
 
 
         },
         error: function () {
-            alert("FAILURE");
+
         }
     });
 }
