@@ -1,24 +1,18 @@
-/*
-To change this license header, choose License Headers in Project Properties.
-To change this template file, choose Tools | Templates
-and open the template in the editor.
-*/
-/* 
-    Created on : Sep 27, 2017, 1:50:01 PM
-    Author     : danimaetrix
-*/
-
-/*.currentWDiv {height: 100px;}*/
 
 
-
-#wicon {height: 120px}
-
-
-
-#wtype {font-size: 20px; text-transform:capitalize; font-weight: bold}
-#desc {font-size:15px; text-transform:capitalize;}
-
-
-#currentConditions {font-weight: bold; font-size: 16px;}
-
+hr {
+    border: 0;
+    clear:both;
+    display:block;
+    width: 96%;
+    background-color:#000000;
+    height: 1px;
+}
+.container .row {
+    padding-left: 0px  !important;
+    padding-right: 0px !important;
+}
+.container .row {
+    margin-left: 0px !important;
+    margin-right: 0px !important;
+}
