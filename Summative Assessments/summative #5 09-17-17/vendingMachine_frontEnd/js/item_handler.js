@@ -1,10 +1,7 @@
-
-
 function loadItem(itemId, displayId) {
     $("#itemDisplay").val(displayId);
     $("#currentItem").val(itemId);
 }
-
 
 
 function getAllItems() {
@@ -17,7 +14,7 @@ function getAllItems() {
             listAllItems(vendingInventory);
         },
         error: function () {
-            alert("failure");
+            $("#serverError").show();
         }
     });
 }
@@ -29,20 +26,27 @@ function vendItem(itemId, totalMoney) {
     $.ajax({
         type: "GET",
         url: call,
+       //timeout: 5000,
         success: function (change) {
             $("#msgTxt").html("Thank you!!! ");
             displayChange(change);
             timeReset();
         },
-        error: function (errmsg) {
-            var msg = JSON.parse(errmsg.responseText).message;
-            $("#msgTxt").html(msg);
+        error: function (errmsg, txtstatus) {
+
+            if (errmsg.readyState === 4) {
+                var msg = JSON.parse(errmsg.responseText).message;
+                $("#msgTxt").html(msg);
+            }
+            else if (errmsg.readyState === 0) {
+                $("#serverError").show();
+            }
+
             timeResetMsg();
         }
     });
 
 }
-
 
 
 function listAllItems(vendingInventory) {

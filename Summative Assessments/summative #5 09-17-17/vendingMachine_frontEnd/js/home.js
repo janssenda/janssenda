@@ -23,6 +23,7 @@ function timeResetMsg() {
 
 function resetAll() {
     var defMsg = "Please insert money";
+    $("#serverError").hide();
     getAllItems();
     $("#msgTxt").html("");
     $("#totalMoney").val(0.00.toFixed(2));
@@ -35,6 +36,7 @@ function resetAll() {
 
 function resetMessages() {
     var defMsg = "Please insert money";
+    $("#serverError").hide();
     getAllItems();
     $("#msgTxt").html("");
     $("#blkTxt").html(defMsg);
