@@ -86,7 +86,7 @@ hr {
 #messages, #changeDisplay {resize: none; font-size: 12px; width:80%;
     margin-top: 5px; height: 45px; overflow: hidden; padding:3px}
 #itemDisplay {font-size: 12px; width:30%; overflow: hidden; margin-left: 10%; margin-top:10px;}
-
++
 
 
 ::-webkit-input-placeholder { /* Chrome */

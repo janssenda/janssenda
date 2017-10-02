@@ -141,10 +141,12 @@ function listAllItems(vendingInventory) {
             index += 1;
         }
         rowContent += "</div>";
+        
+        // Finally, post the items to the main item grid
         $("#itemAreaMainDiv").append(rowContent);
     }
 
-    // Finally, post the items to the main item grid
+
     $("#itemAreaMainDiv").append("<div style='text-align: left; color: #e7e8ea; font-size: 12px;" +
         "margin-bottom: -10px; margin-left: -5px;'>" +
         "Danimae Janssen - 2017</div>");
