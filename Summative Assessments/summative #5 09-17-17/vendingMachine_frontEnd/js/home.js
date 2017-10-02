@@ -6,6 +6,8 @@
 
 
 $(document).ready(function () {
+
+    // Load all modules and start running scripts
     resetAll();
     loadMoneyHandler();
     loadPurchaseHandler();
@@ -13,6 +15,8 @@ $(document).ready(function () {
 });
 
 
+// Reset functions, used to revert to default state after
+// certain operations are completed
 function timeReset() {
     setTimeout(resetAll, 2000);
 }
@@ -45,15 +49,17 @@ function resetMessages() {
     blinkMsg();
 }
 
-
+// Blinking "Please add money" message -- initial state
 function blinkMsg() {
     $('#blkTxt').fadeOut(1);
     setTimeout(function () {
         $('#blkTxt').fadeIn(1);
     }, 1000);
-    setTimeout(blinkMsg, 2000);// or blinkMe();
+    setTimeout(blinkMsg, 2000);
 }
 
+// Visual FX -- not required for functionality.  Handlers listen for
+// mouse activity in main item area
 function loadEffects() {
     el = $("#itemAreaMainDiv");
 

@@ -1,6 +1,8 @@
 function loadPurchaseHandler() {
 
 
+    // Listens for click on the purchase button.  Calls the item
+    // vend service for the item currently loaded in the item ID box
     $("#purchaseButton").click(function () {
 
         $("#blkTxt").html("");
@@ -22,6 +24,7 @@ function loadPurchaseHandler() {
     });
 
 
+    // Triggers the change breakdown
     $("#changeButton").click(function () {
         var totalMoney = $("#totalMoney");
         if (totalMoney.val() > 0) {
@@ -32,10 +35,7 @@ function loadPurchaseHandler() {
 
             $("#msgTxt").html("Thank you!!! ");
 
-            // $("#myModal").modal("show");
-            // $('#myModal').on('hide.bs.modal', function () {
-                timeReset();
-            // });
+            timeReset();
         }
     });
 
