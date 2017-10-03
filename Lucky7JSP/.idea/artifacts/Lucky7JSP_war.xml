@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Lucky7JSP:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="Lucky7JSP-1.0.war">
+      <element id="artifact" artifact-name="Lucky7JSP:war exploded" />
+    </root>
+  </artifact>
+</component>
