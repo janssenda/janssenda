@@ -141,7 +141,7 @@ function listAllItems(vendingInventory) {
             index += 1;
         }
         rowContent += "</div>";
-        
+
         // Finally, post the items to the main item grid
         $("#itemAreaMainDiv").append(rowContent);
     }
