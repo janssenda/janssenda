@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="EchoSpringApp:war">
+    <output-path>$PROJECT_DIR$/out/artifacts/EchoSpringApp_war</output-path>
+    <root id="archive" name="EchoSpringApp_war.war">
+      <element id="artifact" artifact-name="EchoSpringApp:war exploded" />
+    </root>
+  </artifact>
+</component>
