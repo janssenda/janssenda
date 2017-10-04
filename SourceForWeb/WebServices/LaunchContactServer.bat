@@ -1,1 +1,0 @@
-java.exe -jar ContactListRESTService.jar

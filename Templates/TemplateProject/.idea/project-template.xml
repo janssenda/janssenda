@@ -1,5 +1,0 @@
-<template>
-  <input-field default="com.dm">IJ_BASE_PACKAGE</input-field>
-  <input-field default="2.5">WEB_XML_VERSION</input-field>
-  <input-field default="Tomcat 9.0.1">IJ_APPLICATION_SERVER</input-field>
-</template>
