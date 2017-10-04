@@ -13,8 +13,6 @@
         <junit.version>4.12</junit.version>
     </properties>
 
-
-
     <dependencies>
         <dependency>
             <groupId>com.jayway.jsonpath</groupId>
