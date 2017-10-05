@@ -13,6 +13,9 @@
 <div class="container">
     <h1>Company Contacts</h1>
     <hr/>
+    <%--<div class="alert alert-danger">--%>
+        <%--<strong>Check: </strong> ${message}--%>
+    <%--</div>--%>
     <div class="navbar">
         <ul class="nav nav-tabs">
             <li role="presentation">
@@ -48,6 +51,28 @@
                     <th width="15%"></th>
                     <th width="15%"></th>
                 </tr>
+                <c:forEach var="currentContact" items="${contactList}">
+                    <tr>
+                        <td>
+                            <a href="displayContactDetails?contactId=${currentContact.contactId}">
+                                <c:out value="${currentContact.firstName}"/> <c:out value="${currentContact.lastName}"/>
+                            </a>
+                        </td>
+                        <td>
+                            <c:out value="${currentContact.company}"/>
+                        </td>
+                        <td>
+                            <a href="displayEditContactForm?contactId=${currentContact.contactId}">
+                                Edit
+                            </a>
+                        </td>
+                        <td>
+                            <a href="deleteContact?contactId=${currentContact.contactId}">
+                                Delete
+                            </a>
+                        </td>
+                    </tr>
+                </c:forEach>
             </table>
         </div> <!-- End col div -->
         <!--

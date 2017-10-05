@@ -28,10 +28,12 @@ public class ContactListDaoInMemImpl  implements ContactListDao {
     }
 
     @Override
-    public void removeContact(long contactId) {
+    public boolean removeContact(long contactId) {
         if (contactMap.containsKey(contactId)) {
             contactMap.remove(contactId);
+            return true;
         }
+        return false;
     }
 
     @Override

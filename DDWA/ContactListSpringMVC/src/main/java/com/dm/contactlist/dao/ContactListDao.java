@@ -11,7 +11,7 @@ public interface ContactListDao {
         Contact addContact(Contact contact);
 
         // remove the Contact with the given id from the data store
-        void removeContact(long contactId);
+        boolean removeContact(long contactId);
 
         // update the given Contact in the data store
         void updateContact(Contact contact);
