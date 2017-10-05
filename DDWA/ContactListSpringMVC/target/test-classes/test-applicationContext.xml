@@ -15,5 +15,6 @@
        http://www.springframework.org/schema/aop http://www.springframework.org/schema/aop/spring-aop-4.3.xsd">
 
     <!-- Bean definitions go here -->
+    <bean id="contactListDao" class="com.dm.contactlist.dao.ContactListDaoInMemImpl"/>
 
 </beans>

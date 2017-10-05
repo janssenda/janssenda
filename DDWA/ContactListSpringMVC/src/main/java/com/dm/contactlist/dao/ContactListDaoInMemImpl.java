@@ -6,6 +6,7 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
+import java.util.function.Predicate;
 import java.util.stream.Collectors;
 
 public class ContactListDaoInMemImpl  implements ContactListDao {
@@ -61,7 +62,88 @@ public class ContactListDaoInMemImpl  implements ContactListDao {
         String emailSearchCriteria =
                 criteria.get(SearchTerm.EMAIL);
 
+        // Declare all the predicate conditions - remember that
+        // Predicate is a functional interface with one method
+        // called test(T t) that returns a boolean.  Since
+        // Predicate is generic, we get to specify the type of
+        // object we want T to be - in our case, we want T to be
+        // of type Contact.  That means the Predicates declared
+        // here will have one method: boolean test(Contact c)
+        Predicate<Contact> firstNameMatchPredicate;
+        Predicate<Contact> lastNameMatchPredicate;
+        Predicate<Contact> companyMatchPredicate;
+        Predicate<Contact> phoneMatchPredicate;
+        Predicate<Contact> emailMatchPredicate;
 
-        return null;
+
+        // Placeholder predicate - always returns true. Used for
+        // search terms that are empty - if the user didn't specify
+        // a value for one of the search terms, we must return true
+        // because we are ANDing all the search terms together and
+        // our spec says that we return everything in the DAO when
+        // the user leaves all the search terms blank.
+        Predicate<Contact> truePredicate = (c) -> {
+            return true;
+        };
+
+        // Assign values to predicates. If a given search term is empty,
+        // just assign the default truePredicate, otherwise assign the
+        // predicate that only returns true when it finds a match for the
+        // given term.
+        if (firstNameSearchCriteria == null ||
+                firstNameSearchCriteria.isEmpty()) {
+            firstNameMatchPredicate = truePredicate;
+        } else {
+            firstNameMatchPredicate =
+                    (c) -> c.getFirstName().equals(firstNameSearchCriteria);
+        }
+
+        if (lastNameSearchCriteria == null ||
+                lastNameSearchCriteria.isEmpty()) {
+            lastNameMatchPredicate = truePredicate;
+        } else {
+            lastNameMatchPredicate =
+                    (c) -> c.getLastName().equals(lastNameSearchCriteria);
+        }
+
+        if (companySearchCriteria == null ||
+                companySearchCriteria.isEmpty()) {
+            companyMatchPredicate = truePredicate;
+        } else {
+            companyMatchPredicate =
+                    (c) -> c.getCompany().equals(companySearchCriteria);
+        }
+
+        if (phoneSearchCriteria == null ||
+                phoneSearchCriteria.isEmpty()) {
+            phoneMatchPredicate = truePredicate;
+        } else {
+            phoneMatchPredicate =
+                    (c) -> c.getPhone().equals(phoneSearchCriteria);
+        }
+
+        if (emailSearchCriteria == null ||
+                emailSearchCriteria.isEmpty()) {
+            emailMatchPredicate = truePredicate;
+        } else {
+            emailMatchPredicate =
+                    (c) -> c.getEmail().equals(emailSearchCriteria);
+        }
+
+        // Return the list of Contacts that match the given criteria.
+        // To do this we just AND all the predicates together in a
+        // filter operation.
+        return contactMap.values().stream()
+                .filter(firstNameMatchPredicate
+                        .and(lastNameMatchPredicate)
+                        .and(companyMatchPredicate)
+                        .and(phoneMatchPredicate)
+                        .and(emailMatchPredicate))
+                .collect(Collectors.toList());
     }
 }
+
+
+
+
+
