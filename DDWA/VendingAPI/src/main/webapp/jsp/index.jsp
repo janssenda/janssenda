@@ -20,8 +20,9 @@
         <form action="/vendingAPI/jsp/addMoney" method="post">
             <div class="row">
                 <div class="col-lg-12">
-                    <label>Current: </label>
-                    <input id="#moneytotal" type="number" name="current"
+                    <label>totalCash: </label>
+                    <input type="hidden" name="selectedItem" value="${selectedItem}">
+                    <input id="#moneytotal" type="number" name="totalCash"
                            placeholder="0.00" value="${totalCash}" readonly/>
                     <span>&nbsp &nbsp</span>
                     <button class="mbtn" type="submit" name="mbutton" value="dollar">1.00</button>
@@ -36,11 +37,15 @@
     </div>
 
     <div class="row">
-        <div class="col-lg-12">
-            <form action="/vendingAPI/jsp/getChange" method="post">
-                <input type="hidden" name="current" value="${totalCash}">
-                <button type="submit" name="change">Get Change</button>
+        <div class="col-sm-5">
+
+            <form action="/vendingAPI/jsp/vendItem" method="post">
+                <input id="loadBox" type="text" readonly value="${selectedItem}"><br/>
+                <input type="hidden" name="totalCash" value="${totalCash}">
+                <input type="hidden" name="selectedItem" value="${selectedItem}">
+                <button type="submit" name="purchase">Make Purchase</button>
             </form>
+
             <br/>
             <div id="changebox" class="img-rounded">
 
@@ -61,6 +66,26 @@
 
 
             </div>
+            <form action="/vendingAPI/jsp/getChange" method="post">
+                <input type="hidden" name="totalCash" value="${totalCash}">
+                <button type="submit" name="change">Get Change</button>
+            </form>
+        </div>
+        <div class="col-sm-5" style="border: 2px solid black; padding: 5px;">
+
+            <form action="/vendingAPI/jsp/loadItem" method="post">
+                <input type="hidden" name="totalCash" value="${totalCash}">
+                <input type="hidden" name="selectedItem" value="${selectedItem}">
+
+                <c:forEach items="${plist}" var="product">
+                    <button type="submit" name="selectedItemButton"
+                            value="${product.productName}">${product.productName}</button>
+                    : ${product.productPrice}, ${product.productQty} remaining <br/>
+                </c:forEach>
+
+
+            </form>
+
         </div>
 
     </div>

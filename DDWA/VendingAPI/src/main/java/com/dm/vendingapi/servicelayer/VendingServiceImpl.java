@@ -12,8 +12,8 @@ import com.dm.vendingapi.dao.NoItemInventoryException;
 import com.dm.vendingapi.dao.PricingDao;
 import com.dm.vendingapi.dto.Money;
 import com.dm.vendingapi.dto.Product;
+import com.dm.vendingapi.dto.ProductMessenger;
 
-import javax.inject.Inject;
 import java.math.BigDecimal;
 import java.util.ArrayList;
 import java.util.List;
@@ -57,8 +57,21 @@ public class VendingServiceImpl implements VendingService {
 
     // Returns the simple pricemap // not currently needed
     @Override
-    public Map<String, String> returnPriceMap() {
-        return pricing;
+    public List<ProductMessenger> returnInventoryMap() {
+
+        List <ProductMessenger> productList = new ArrayList<>();
+
+        pricing.forEach((k, v) ->{
+
+            ProductMessenger p = new ProductMessenger();
+            p.setProductName(k);
+            p.setProductPrice(v);
+            p.setProductQty(daoInv.getProductQuantity(k));
+            productList.add(p);
+
+        });
+
+        return productList;
     }
 
     // Builds the arraylist for the view class (i.e, prepares the data needed

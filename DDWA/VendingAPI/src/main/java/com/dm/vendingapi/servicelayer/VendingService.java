@@ -9,6 +9,7 @@ import com.dm.vendingapi.dao.FileIOException;
 import com.dm.vendingapi.dao.NoItemInventoryException;
 import com.dm.vendingapi.dto.Money;
 import com.dm.vendingapi.dto.Product;
+import com.dm.vendingapi.dto.ProductMessenger;
 
 import java.util.List;
 import java.util.Map;
@@ -22,7 +23,7 @@ public interface VendingService {
     public Map<String, String> getPricing();
     public void setPricing(Map<String, String> pricing);
     
-    public Map<String, String> returnPriceMap();
+    public List<ProductMessenger>  returnInventoryMap();
 
     // Builds the arraylist for dynamic main menu.  Must be located in service layer
     // because it needs access to BOTH dao implementations

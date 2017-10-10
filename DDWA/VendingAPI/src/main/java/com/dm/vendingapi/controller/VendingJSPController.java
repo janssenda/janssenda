@@ -1,7 +1,9 @@
 package com.dm.vendingapi.controller;
 
 
+import com.dm.vendingapi.dao.NoItemInventoryException;
 import com.dm.vendingapi.dto.Money;
+import com.dm.vendingapi.servicelayer.InsufficientFundsException;
 import com.dm.vendingapi.servicelayer.VendingService;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
@@ -11,6 +13,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import javax.inject.Inject;
 import javax.servlet.http.HttpServletRequest;
 import java.math.BigDecimal;
+import java.math.RoundingMode;
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 import java.util.HashMap;
@@ -20,7 +23,7 @@ import java.util.Map;
 @RequestMapping({"/jsp"})
 public class VendingJSPController {
 
-    VendingService service;
+    private VendingService service;
 
     @Inject
     public VendingJSPController(VendingService service) {
@@ -29,26 +32,116 @@ public class VendingJSPController {
 
     @RequestMapping(value = {"", "/"}, method = RequestMethod.GET)
     public String welcomeMap(Model model) {
+        model = mergeSharedData(model);
+        model.addAttribute("boxmsg", "Welcome!!!");
+        return "index";
+    }
 
-        LocalDateTime d = LocalDateTime.now();
-        String formd = d.format(DateTimeFormatter.ofPattern("MM/dd/yyyy @ hh:mm a"));
-        model.addAttribute("time", formd);
-        model.addAttribute("boxmsg", "Success");
+    @RequestMapping(value = {"/vendItem"}, method = RequestMethod.POST)
+    public String vendItem(HttpServletRequest request, Model model) {
+        model = mergeSharedData(request, model);
+        Money m = new Money(getAsBigDecimal(request.getParameter("totalCash")));
+        String item = request.getParameter("selectedItem");
+
+        try {
+            service.vendProduct(m, item);
+            model.addAttribute("plist", service.returnInventoryMap());
+        } catch (NoItemInventoryException e) {
+            model.addAttribute("boxmsg", "SOLD OUT!!!");
+            return "index";
+        } catch (InsufficientFundsException e){
+
+            String amtShort = new BigDecimal(service.getPricing().get(item))
+                    .subtract(m.getTotalmoney()).setScale(2,RoundingMode.HALF_UP).toString();
+
+            model.addAttribute("boxmsg", "Insufficient Funds!! <br/> Please add $"+amtShort);
+            return "index";
+        }
+
+        model.addAttribute("change", buildChangeMap(m));
+        model.addAttribute("boxmsg", "Thank you!!!");
+        model.addAttribute("totalCash", "0.00");
 
         return "index";
+
     }
 
 
     @RequestMapping(value = {"/getChange"}, method = RequestMethod.POST)
     public String getChange(HttpServletRequest request, Model model) {
-        Double current;
-        try {
-            current = Double.parseDouble(request.getParameter("current"));
-        } catch (NumberFormatException e) {
-            current = 0.0;
+        model = mergeSharedData(request, model);
+        Money m = new Money(getAsBigDecimal(request.getParameter("totalCash")));
+        model.addAttribute("change", buildChangeMap(m));
+        model.addAttribute("boxmsg", "Change: ");
+        model.addAttribute("totalCash", "0.00");
+        return "index";
+    }
+
+    @RequestMapping(value = {"/loadItem"}, method = RequestMethod.POST)
+    public String loadItem(HttpServletRequest request, Model model) {
+        model = mergeSharedData(request, model);
+        model.addAttribute("boxmsg", "Make a selection...");
+        model.addAttribute("selectedItem", request.getParameter("selectedItemButton"));
+        return "index";
+    }
+
+
+    @RequestMapping(value = "/addMoney", method = RequestMethod.POST)
+    public String addMoney(HttpServletRequest request, Model model) {
+
+        model = mergeSharedData(request, model);
+        BigDecimal add;
+        Money m = new Money(getAsBigDecimal(request.getParameter("totalCash")));
+
+        switch(request.getParameter("mbutton")){
+            case "dollar":
+                add = new BigDecimal("1.00");
+                break;
+            case "quarter":
+                add = new BigDecimal("0.25");
+                break;
+            case "dime":
+                add = new BigDecimal("0.10");
+                break;
+            case "nickel":
+                add = new BigDecimal("0.05");
+                break;
+
+            default: add = new BigDecimal("0.00");
         }
 
-        Money m = new Money(BigDecimal.valueOf(current));
+        String newTotal = add.add(m.getTotalmoney()).setScale(2, RoundingMode.HALF_UP).toString();
+        model.addAttribute("totalCash", String.format(newTotal));
+        model.addAttribute("boxmsg", "Make a selection...");
+
+        return "index";
+    }
+
+
+
+    private Model mergeSharedData(HttpServletRequest request, Model model){
+
+        LocalDateTime d = LocalDateTime.now();
+        String formd = d.format(DateTimeFormatter.ofPattern("MM/dd/yyyy @ hh:mm a"));
+
+        model.addAttribute("totalCash", request.getParameter("totalCash"));
+        model.addAttribute("selectedItem", request.getParameter("selectedItem"));
+        model.addAttribute("plist", service.returnInventoryMap());
+        model.addAttribute("time", formd);
+        return model;
+    }
+
+    private Model mergeSharedData(Model model){
+
+        LocalDateTime d = LocalDateTime.now();
+        String formd = d.format(DateTimeFormatter.ofPattern("MM/dd/yyyy @ hh:mm a"));
+
+        model.addAttribute("plist", service.returnInventoryMap());
+        model.addAttribute("time", formd);
+        return model;
+    }
+
+    private Map<String, String> buildChangeMap(Money m){
 
         Map<String, String> changeMap = new HashMap<>();
 
@@ -57,56 +150,18 @@ public class VendingJSPController {
         changeMap.put("nickels", m.getNickels()+"x0.10");
         changeMap.put("pennies", m.getPennies()+"x0.01");
 
-        model.addAttribute("change", changeMap);
-
-        LocalDateTime d = LocalDateTime.now();
-        String formd = d.format(DateTimeFormatter.ofPattern("MM/dd/yyyy @ hh:mm a"));
-        model.addAttribute("time", formd);
-        model.addAttribute("boxmsg", "Change: ");
-        model.addAttribute("totalCash", "0.00");
-        return "index";
+        return changeMap;
     }
 
-
-    @RequestMapping(value = "/addMoney", method = RequestMethod.POST)
-    public String addMoney(HttpServletRequest request, Model model) {
-        Double current, add;
-
+    private BigDecimal getAsBigDecimal(String s){
+        BigDecimal current;
         try {
-            current = Double.parseDouble(request.getParameter("current"));
+            current = new BigDecimal(s);
         } catch (NumberFormatException e) {
-            current = 0.0;
+            current = BigDecimal.ZERO;
         }
 
-        String amntToAdd = request.getParameter("mbutton");
-
-        switch(amntToAdd){
-            case "dollar":
-                add = 1.00;
-                break;
-            case "quarter":
-                add = 0.25;
-                break;
-            case "dime":
-                add = 0.10;
-                break;
-            case "nickel":
-                add = 0.05;
-                break;
-
-            default: add = 0.0;
-        }
-
-        //String newTotal = String.valueOf(add+current);
-        double newTotal = add+current;
-        LocalDateTime d = LocalDateTime.now();
-        String formd = d.format(DateTimeFormatter.ofPattern("MM/dd/yyyy @ hh:mm a"));
-
-        model.addAttribute("totalCash", String.format("%4.2f",newTotal));
-        model.addAttribute("time", formd);
-        model.addAttribute("boxmsg", "Make a selection...");
-
-        return "index";
+        return current;
     }
 
 }

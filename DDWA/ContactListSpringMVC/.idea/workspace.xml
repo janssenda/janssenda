@@ -7,151 +7,277 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f381db57-f1d7-4709-91b7-19143206894f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../VendingAPI/src/main/webapp/css/testPage.css" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../VendingAPI/.idea/artifacts/VendingAPI_war.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../VendingAPI/.idea/artifacts/VendingAPI_war_exploded.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../VendingAPI/.idea/compiler.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../VendingAPI/.idea/libraries/Maven__com_fasterxml_classmate_1_1_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../VendingAPI/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../VendingAPI/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../VendingAPI/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../VendingAPI/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../VendingAPI/.idea/libraries/Maven__javax_inject_javax_inject_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../VendingAPI/.idea/libraries/Maven__javax_servlet_javax_servlet_api_4_0_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../VendingAPI/.idea/libraries/Maven__javax_servlet_jsp_jsp_api_2_2.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../VendingAPI/.idea/libraries/Maven__javax_servlet_jstl_1_2.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../VendingAPI/.idea/libraries/Maven__javax_validation_validation_api_2_0_0_Final.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../VendingAPI/.idea/libraries/Maven__junit_junit_4_12.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../VendingAPI/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_8_dmr.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../VendingAPI/.idea/libraries/Maven__org_apache_commons_commons_dbcp2_2_1_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../VendingAPI/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_4_2.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../VendingAPI/.idea/libraries/Maven__org_aspectj_aspectjtools_1_8_11.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../VendingAPI/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../VendingAPI/.idea/libraries/Maven__org_hibernate_hibernate_validator_5_2_2_Final.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../VendingAPI/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_2_1_Final.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../VendingAPI/.idea/libraries/Maven__org_springframework_spring_aop_5_0_0_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../VendingAPI/.idea/libraries/Maven__org_springframework_spring_beans_5_0_0_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../VendingAPI/.idea/libraries/Maven__org_springframework_spring_context_5_0_0_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../VendingAPI/.idea/libraries/Maven__org_springframework_spring_core_5_0_0_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../VendingAPI/.idea/libraries/Maven__org_springframework_spring_expression_5_0_0_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../VendingAPI/.idea/libraries/Maven__org_springframework_spring_jcl_5_0_0_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../VendingAPI/.idea/libraries/Maven__org_springframework_spring_jdbc_5_0_0_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../VendingAPI/.idea/libraries/Maven__org_springframework_spring_test_5_0_0_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../VendingAPI/.idea/libraries/Maven__org_springframework_spring_tx_5_0_0_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../VendingAPI/.idea/libraries/Maven__org_springframework_spring_web_5_0_0_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../VendingAPI/.idea/libraries/Maven__org_springframework_spring_webmvc_5_0_0_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../VendingAPI/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../VendingAPI/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../VendingAPI/.idea/uiDesigner.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../VendingAPI/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../VendingAPI/VendingAPI.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../VendingAPI/inventoryData.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../VendingAPI/pom.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../VendingAPI/priceData.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../VendingAPI/src/main/java/com/dm/vendingapi/advice/LoggingAspect.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../VendingAPI/src/main/java/com/dm/vendingapi/controller/HelloController.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../VendingAPI/src/main/java/com/dm/vendingapi/controller/VendingRestController.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../VendingAPI/src/main/java/com/dm/vendingapi/dao/AuditDao.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../VendingAPI/src/main/java/com/dm/vendingapi/dao/AuditDaoImpl.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../VendingAPI/src/main/java/com/dm/vendingapi/dao/FileHandler.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../VendingAPI/src/main/java/com/dm/vendingapi/dao/FileIOException.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../VendingAPI/src/main/java/com/dm/vendingapi/dao/InventoryDao.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../VendingAPI/src/main/java/com/dm/vendingapi/dao/InventoryDaoImpl.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../VendingAPI/src/main/java/com/dm/vendingapi/dao/NoItemInventoryException.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../VendingAPI/src/main/java/com/dm/vendingapi/dao/PricingDao.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../VendingAPI/src/main/java/com/dm/vendingapi/dao/PricingDaoImpl.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../VendingAPI/src/main/java/com/dm/vendingapi/dto/Money.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../VendingAPI/src/main/java/com/dm/vendingapi/dto/Product.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../VendingAPI/src/main/java/com/dm/vendingapi/logic/DeathException.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../VendingAPI/src/main/java/com/dm/vendingapi/logic/MachineJameException.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../VendingAPI/src/main/java/com/dm/vendingapi/logic/RealLogic.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../VendingAPI/src/main/java/com/dm/vendingapi/logic/RealLogicIdealImpl.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../VendingAPI/src/main/java/com/dm/vendingapi/logic/RealLogicRealisticImpl.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../VendingAPI/src/main/java/com/dm/vendingapi/servicelayer/InsufficientFundsException.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../VendingAPI/src/main/java/com/dm/vendingapi/servicelayer/VendingService.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../VendingAPI/src/main/java/com/dm/vendingapi/servicelayer/VendingServiceImpl.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../VendingAPI/src/main/resources/spring-persistence.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../VendingAPI/src/main/webapp/WEB-INF/spring-dispatcher-servlet.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../VendingAPI/src/main/webapp/WEB-INF/web.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../VendingAPI/src/main/webapp/css/bootstrap-theme.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../VendingAPI/src/main/webapp/css/bootstrap-theme.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../VendingAPI/src/main/webapp/css/bootstrap.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../VendingAPI/src/main/webapp/css/bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../VendingAPI/src/main/webapp/fonts/glyphicons-halflings-regular.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../VendingAPI/src/main/webapp/fonts/glyphicons-halflings-regular.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../VendingAPI/src/main/webapp/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../VendingAPI/src/main/webapp/fonts/glyphicons-halflings-regular.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../VendingAPI/src/main/webapp/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../VendingAPI/src/main/webapp/js/bootstrap.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../VendingAPI/src/main/webapp/js/bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../VendingAPI/src/main/webapp/js/home.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../VendingAPI/src/main/webapp/js/jquery-2.2.4.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../VendingAPI/src/main/webapp/js/jquery-2.2.4.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../VendingAPI/src/main/webapp/js/jquery-3.2.1.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../VendingAPI/src/main/webapp/js/jquery-3.2.1.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../VendingAPI/src/main/webapp/js/moment.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../VendingAPI/src/main/webapp/js/npm.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../VendingAPI/src/main/webapp/js/popper.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../VendingAPI/src/main/webapp/jsp/hello.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #1 08-27-17/otherex/other_exercises/nbactions.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #1 08-27-17/otherex/other_exercises/pom.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #1 08-27-17/otherex/other_exercises/src/main/java/com/mycompany/other_exercises/main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #1 08-27-17/otherex/other_exercises/src/main/java/com/mycompany/other_exercises/trueRandom.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #1 08-27-17/rockpaperscissors/rockpaperscissors/nbactions.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #1 08-27-17/rockpaperscissors/rockpaperscissors/pom.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #1 08-27-17/rockpaperscissors/rockpaperscissors/rockpaperscissorsflow.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #1 08-27-17/rockpaperscissors/rockpaperscissors/src/main/java/com/mycompany/rockpaperscissors/rockpaperscissors.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #1 08-27-17/rockpaperscissors/rockpaperscissors/src/main/java/com/mycompany/rockpaperscissors/trueRandom.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #1 08-27-17/rockpaperscissors/rockpaperscissors/src/test/java/com/mycompany/rockpaperscissors/rockpaperscissorsTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #1 08-27-17/rockpaperscissors/rockpaperscissors/target/classes/.netbeans_automatic_build" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #1 08-27-17/rockpaperscissors/rockpaperscissors/target/maven-archiver/pom.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #1 08-27-17/rockpaperscissors/rockpaperscissors/target/test-classes/.netbeans_automatic_build" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #2 09-04-17/DVDCollection/target/DVDCollection-1.0-SNAPSHOT.exe" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #2 09-04-17/DVDCollection/target/DVDCollection-1.0-SNAPSHOT.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #2 09-04-17/DVDCollection/target/maven-archiver/pom.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #2 09-04-17/DVDCollection/target/mytestlib.cplib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #2 09-04-17/DVDCollection_Final_Project.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #2 09-04-17/DVDCollection_Original/FoK6g+amU8S47+g+5TSqPA==" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #2 09-04-17/DVDCollection_Original/OyCYgLYxNV0C9ksmFrKF4Q==" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #2 09-04-17/DVDCollection_Original/movies_v1.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #2 09-04-17/DVDCollection_Original/mytestlib.cplib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #2 09-04-17/DVDCollection_Original/mytestlib2.cplib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #2 09-04-17/DVDCollection_Original/nbactions.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #2 09-04-17/DVDCollection_Original/pom.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #2 09-04-17/DVDCollection_Original/src/main/java/com/dm/dvdcollection/App.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #2 09-04-17/DVDCollection_Original/src/main/java/com/dm/dvdcollection/controller/DvdCollectionController.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #2 09-04-17/DVDCollection_Original/src/main/java/com/dm/dvdcollection/dao/CppFileHandler.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #2 09-04-17/DVDCollection_Original/src/main/java/com/dm/dvdcollection/dao/DvdCollectionDao.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #2 09-04-17/DVDCollection_Original/src/main/java/com/dm/dvdcollection/dao/DvdCollectionDaoImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #2 09-04-17/DVDCollection_Original/src/main/java/com/dm/dvdcollection/dao/FileIOException.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #2 09-04-17/DVDCollection_Original/src/main/java/com/dm/dvdcollection/dao/StringEncrypt.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #2 09-04-17/DVDCollection_Original/src/main/java/com/dm/dvdcollection/dto/Title.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #2 09-04-17/DVDCollection_Original/src/main/java/com/dm/dvdcollection/ui/DvdCollectionView.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #2 09-04-17/DVDCollection_Original/src/main/java/com/dm/dvdcollection/ui/GenerateFakeDB.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #2 09-04-17/DVDCollection_Original/src/main/java/com/dm/dvdcollection/ui/InventoryServiceLayer.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #2 09-04-17/DVDCollection_Original/src/main/java/com/dm/dvdcollection/ui/UserIo.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #2 09-04-17/DVDCollection_Original/src/main/java/com/dm/dvdcollection/ui/UserIoConsoleImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #2 09-04-17/DVDCollection_Original/target/DVDCollection-1.0-SNAPSHOT - Shortcut.lnk" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #2 09-04-17/DVDCollection_Original/target/DVDCollection-1.0-SNAPSHOT.exe" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #2 09-04-17/DVDCollection_Original/target/DVDCollection-1.0-SNAPSHOT.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #2 09-04-17/DVDCollection_Original/target/DVDCollection.exe" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #2 09-04-17/DVDCollection_Original/target/IT98piYZ8Y53SJq7veat2A==" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #2 09-04-17/DVDCollection_Original/target/NewLib.cplib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #2 09-04-17/DVDCollection_Original/target/TS7q9QM7zJpgwSypJYtLBcZxUKYPdNNgVjnPZ4qVPOQ=" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #2 09-04-17/DVDCollection_Original/target/bHVanCOEuNCu9qroqaT00Q==" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #2 09-04-17/DVDCollection_Original/target/c8s3asmdgsQOlBc6gdagqVa6MntZ4xvo++NcYGvSbLA=" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #2 09-04-17/DVDCollection_Original/target/maven-archiver/pom.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #2 09-04-17/DVDCollection_Original/target/mytestlib.cplib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #2 09-04-17/DVDCollection_WIthLocalDate/FoK6g+amU8S47+g+5TSqPA==" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #2 09-04-17/DVDCollection_WIthLocalDate/OyCYgLYxNV0C9ksmFrKF4Q==" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #2 09-04-17/DVDCollection_WIthLocalDate/movies_v1.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #2 09-04-17/DVDCollection_WIthLocalDate/mytestlib.cplib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #2 09-04-17/DVDCollection_WIthLocalDate/mytestlib2.cplib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #2 09-04-17/DVDCollection_WIthLocalDate/nbactions.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #2 09-04-17/DVDCollection_WIthLocalDate/pom.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #2 09-04-17/DVDCollection_WIthLocalDate/src/main/java/com/dm/dvdcollection/App.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #2 09-04-17/DVDCollection_WIthLocalDate/src/main/java/com/dm/dvdcollection/controller/DvdCollectionController.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #2 09-04-17/DVDCollection_WIthLocalDate/src/main/java/com/dm/dvdcollection/dao/CppFileHandler.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #2 09-04-17/DVDCollection_WIthLocalDate/src/main/java/com/dm/dvdcollection/dao/DvdCollectionDao.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #2 09-04-17/DVDCollection_WIthLocalDate/src/main/java/com/dm/dvdcollection/dao/DvdCollectionDaoImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #2 09-04-17/DVDCollection_WIthLocalDate/src/main/java/com/dm/dvdcollection/dao/FileIOException.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #2 09-04-17/DVDCollection_WIthLocalDate/src/main/java/com/dm/dvdcollection/dao/StringEncrypt.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #2 09-04-17/DVDCollection_WIthLocalDate/src/main/java/com/dm/dvdcollection/dto/Title.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #2 09-04-17/DVDCollection_WIthLocalDate/src/main/java/com/dm/dvdcollection/ui/DvdCollectionView.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #2 09-04-17/DVDCollection_WIthLocalDate/src/main/java/com/dm/dvdcollection/ui/GenerateFakeDB.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #2 09-04-17/DVDCollection_WIthLocalDate/src/main/java/com/dm/dvdcollection/ui/InventoryServiceLayer.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #2 09-04-17/DVDCollection_WIthLocalDate/src/main/java/com/dm/dvdcollection/ui/UserIo.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #2 09-04-17/DVDCollection_WIthLocalDate/src/main/java/com/dm/dvdcollection/ui/UserIoConsoleImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #2 09-04-17/DVDCollection_WIthLocalDate/target/DVDCollection-1.0-SNAPSHOT - Shortcut.lnk" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #2 09-04-17/DVDCollection_WIthLocalDate/target/DVDCollection-1.0-SNAPSHOT.exe" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #2 09-04-17/DVDCollection_WIthLocalDate/target/DVDCollection-1.0-SNAPSHOT.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #2 09-04-17/DVDCollection_WIthLocalDate/target/DVDCollection.exe" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #2 09-04-17/DVDCollection_WIthLocalDate/target/IT98piYZ8Y53SJq7veat2A==" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #2 09-04-17/DVDCollection_WIthLocalDate/target/NewLib.cplib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #2 09-04-17/DVDCollection_WIthLocalDate/target/TS7q9QM7zJpgwSypJYtLBcZxUKYPdNNgVjnPZ4qVPOQ=" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #2 09-04-17/DVDCollection_WIthLocalDate/target/c8s3asmdgsQOlBc6gdagqVa6MntZ4xvo++NcYGvSbLA=" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #2 09-04-17/DVDCollection_WIthLocalDate/target/maven-archiver/pom.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #2 09-04-17/DVDCollection_WIthLocalDate/target/mytestlib.cplib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #2 09-04-17/DVD_CollectionP_V3_COMPLETE_FINAL.rar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #2 09-04-17/DVD_Collection_V1_COMPLETE.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #2 09-04-17/DVD_Collection_V2_COMPLETE.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #2 09-04-17/movies.xlsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #3 09-08-17/VendingMashine/.priceData.csv.kate-swp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #3 09-08-17/VendingMashine/AsciiMashine.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #3 09-08-17/VendingMashine/inventoryData.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #3 09-08-17/VendingMashine/inventoryData.xlsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #3 09-08-17/VendingMashine/nbactions.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #3 09-08-17/VendingMashine/nbproject/project.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #3 09-08-17/VendingMashine/output.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #3 09-08-17/VendingMashine/pom.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #3 09-08-17/VendingMashine/priceData.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #3 09-08-17/VendingMashine/priceData.xlsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #3 09-08-17/VendingMashine/src/main/java/com/dm/vendingmashine/app/App.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #3 09-08-17/VendingMashine/src/main/java/com/dm/vendingmashine/controller/VendingMashineController.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #3 09-08-17/VendingMashine/src/main/java/com/dm/vendingmashine/dao/FileIOException.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #3 09-08-17/VendingMashine/src/main/java/com/dm/vendingmashine/dao/NoItemInventoryException.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #3 09-08-17/VendingMashine/src/main/java/com/dm/vendingmashine/dao/VendingFileHandler.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #3 09-08-17/VendingMashine/src/main/java/com/dm/vendingmashine/dao/VendingMashineInventoryDao.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #3 09-08-17/VendingMashine/src/main/java/com/dm/vendingmashine/dao/VendingMashineInventoryDaoImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #3 09-08-17/VendingMashine/src/main/java/com/dm/vendingmashine/dao/VendingMashineInventoryDaoStubImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #3 09-08-17/VendingMashine/src/main/java/com/dm/vendingmashine/dao/VendingMashinePricingDao.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #3 09-08-17/VendingMashine/src/main/java/com/dm/vendingmashine/dao/VendingMashinePricingDaoImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #3 09-08-17/VendingMashine/src/main/java/com/dm/vendingmashine/dao/VendingMashinePricingDaoStubImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #3 09-08-17/VendingMashine/src/main/java/com/dm/vendingmashine/dto/Money.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #3 09-08-17/VendingMashine/src/main/java/com/dm/vendingmashine/dto/Product.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #3 09-08-17/VendingMashine/src/main/java/com/dm/vendingmashine/servicelayer/InsufficientFundsException.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #3 09-08-17/VendingMashine/src/main/java/com/dm/vendingmashine/servicelayer/VendingMashineService.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #3 09-08-17/VendingMashine/src/main/java/com/dm/vendingmashine/servicelayer/VendingMashineServiceImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #3 09-08-17/VendingMashine/src/main/java/com/dm/vendingmashine/ui/UserIo.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #3 09-08-17/VendingMashine/src/main/java/com/dm/vendingmashine/ui/UserIoConsoleImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #3 09-08-17/VendingMashine/src/main/java/com/dm/vendingmashine/ui/VendingMashineView.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #3 09-08-17/VendingMashine/src/main/java/com/dm/vendingmashine/ui/VendingMashineViewPrettyImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #3 09-08-17/VendingMashine/src/main/java/com/dm/vendingmashine/ui/VendingMashineViewTextImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #3 09-08-17/VendingMashine/src/test/java/com/dm/vendingmashine/dao/VendingMashineInventoryDaoImplTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #3 09-08-17/VendingMashine/src/test/java/com/dm/vendingmashine/dto/MoneyTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #3 09-08-17/VendingMashine/src/test/java/com/dm/vendingmashine/servicelayer/VendingMashineServiceImplTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #3 09-08-17/VendingMashine/target/VendingMashine-1.0-SNAPSHOT.exe" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #3 09-08-17/VendingMashine/target/VendingMashine-1.0-SNAPSHOT.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #3 09-08-17/VendingMashine/target/classes/.netbeans_automatic_build" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #3 09-08-17/VendingMashine/target/inventoryData.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #3 09-08-17/VendingMashine/target/maven-archiver/pom.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #3 09-08-17/VendingMashine/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #3 09-08-17/VendingMashine/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #3 09-08-17/VendingMashine/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #3 09-08-17/VendingMashine/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #3 09-08-17/VendingMashine/target/output.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #3 09-08-17/VendingMashine/target/priceData.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #3 09-08-17/VendingMashine/target/surefire-reports/TEST-com.dm.vendingmashine.dao.VendingMashineInventoryDaoImplTest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #3 09-08-17/VendingMashine/target/surefire-reports/TEST-com.dm.vendingmashine.dto.MoneyTest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #3 09-08-17/VendingMashine/target/surefire-reports/TEST-com.dm.vendingmashine.servicelayer.VendingMashineServiceImplTest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #3 09-08-17/VendingMashine/target/surefire-reports/com.dm.vendingmashine.dao.VendingMashineInventoryDaoImplTest.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #3 09-08-17/VendingMashine/target/surefire-reports/com.dm.vendingmashine.dto.MoneyTest.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #3 09-08-17/VendingMashine/target/surefire-reports/com.dm.vendingmashine.servicelayer.VendingMashineServiceImplTest.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #3 09-08-17/VendingMashine/target/test-classes/.netbeans_automatic_build" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #3 09-08-17/VendingMashine_V1.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #3 09-08-17/VendingMashine_V2_BeforeBDMONEY.rar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #3 09-08-17/VendingMashine_V3_NOEXCEPTIONS OR TESTS.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #3 09-08-17/VendingMashine_V4_Complete_unmodifiedcontroller.rar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #3 09-08-17/VendingMashine_V5_Final_NoCanASCII.rar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #4 09-17-17/VendingMashineSpringAPI/.priceData.csv.kate-swp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #4 09-17-17/VendingMashineSpringAPI/AsciiMashine.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #4 09-17-17/VendingMashineSpringAPI/AuditLog.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #4 09-17-17/VendingMashineSpringAPI/dependency-reduced-pom.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #4 09-17-17/VendingMashineSpringAPI/inventoryData.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #4 09-17-17/VendingMashineSpringAPI/inventoryData.xlsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #4 09-17-17/VendingMashineSpringAPI/nbactions.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #4 09-17-17/VendingMashineSpringAPI/nbproject/project.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #4 09-17-17/VendingMashineSpringAPI/output.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #4 09-17-17/VendingMashineSpringAPI/pom.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #4 09-17-17/VendingMashineSpringAPI/priceData.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #4 09-17-17/VendingMashineSpringAPI/priceData.xlsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #4 09-17-17/VendingMashineSpringAPI/src/main/java/com/danimaetrix/library/userIO/ColorIO.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #4 09-17-17/VendingMashineSpringAPI/src/main/java/com/danimaetrix/library/userIO/UserIo.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #4 09-17-17/VendingMashineSpringAPI/src/main/java/com/danimaetrix/library/userIO/UserIoConsoleColorImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #4 09-17-17/VendingMashineSpringAPI/src/main/java/com/danimaetrix/library/userIO/UserIoConsoleImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #4 09-17-17/VendingMashineSpringAPI/src/main/java/com/dm/vendingmashine/advice/LoggingAdvice.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #4 09-17-17/VendingMashineSpringAPI/src/main/java/com/dm/vendingmashine/advice/LoggingAspect.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #4 09-17-17/VendingMashineSpringAPI/src/main/java/com/dm/vendingmashine/app/App.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #4 09-17-17/VendingMashineSpringAPI/src/main/java/com/dm/vendingmashine/controller/Controller.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #4 09-17-17/VendingMashineSpringAPI/src/main/java/com/dm/vendingmashine/dao/AuditDao.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #4 09-17-17/VendingMashineSpringAPI/src/main/java/com/dm/vendingmashine/dao/AuditDaoImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #4 09-17-17/VendingMashineSpringAPI/src/main/java/com/dm/vendingmashine/dao/FileHandler.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #4 09-17-17/VendingMashineSpringAPI/src/main/java/com/dm/vendingmashine/dao/FileIOException.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #4 09-17-17/VendingMashineSpringAPI/src/main/java/com/dm/vendingmashine/dao/InventoryDao.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #4 09-17-17/VendingMashineSpringAPI/src/main/java/com/dm/vendingmashine/dao/InventoryDaoImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #4 09-17-17/VendingMashineSpringAPI/src/main/java/com/dm/vendingmashine/dao/NoItemInventoryException.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #4 09-17-17/VendingMashineSpringAPI/src/main/java/com/dm/vendingmashine/dao/PricingDao.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #4 09-17-17/VendingMashineSpringAPI/src/main/java/com/dm/vendingmashine/dao/PricingDaoImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #4 09-17-17/VendingMashineSpringAPI/src/main/java/com/dm/vendingmashine/dto/Money.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #4 09-17-17/VendingMashineSpringAPI/src/main/java/com/dm/vendingmashine/dto/Product.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #4 09-17-17/VendingMashineSpringAPI/src/main/java/com/dm/vendingmashine/logic/DeathException.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #4 09-17-17/VendingMashineSpringAPI/src/main/java/com/dm/vendingmashine/logic/MachineJameException.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #4 09-17-17/VendingMashineSpringAPI/src/main/java/com/dm/vendingmashine/logic/RealLogic.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #4 09-17-17/VendingMashineSpringAPI/src/main/java/com/dm/vendingmashine/logic/RealLogicIdealImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #4 09-17-17/VendingMashineSpringAPI/src/main/java/com/dm/vendingmashine/logic/RealLogicRealisticImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #4 09-17-17/VendingMashineSpringAPI/src/main/java/com/dm/vendingmashine/servicelayer/InsufficientFundsException.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #4 09-17-17/VendingMashineSpringAPI/src/main/java/com/dm/vendingmashine/servicelayer/VendingService.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #4 09-17-17/VendingMashineSpringAPI/src/main/java/com/dm/vendingmashine/servicelayer/VendingServiceImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #4 09-17-17/VendingMashineSpringAPI/src/main/java/com/dm/vendingmashine/ui/AsciiViewImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #4 09-17-17/VendingMashineSpringAPI/src/main/java/com/dm/vendingmashine/ui/TextViewImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #4 09-17-17/VendingMashineSpringAPI/src/main/java/com/dm/vendingmashine/ui/View.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #4 09-17-17/VendingMashineSpringAPI/src/main/resources/applicationContext.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #4 09-17-17/VendingMashineSpringAPI/src/test/java/com/dm/vendingmashine/dao/InventoryDaoImplTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #4 09-17-17/VendingMashineSpringAPI/src/test/java/com/dm/vendingmashine/dto/MoneyTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #4 09-17-17/VendingMashineSpringAPI/src/test/java/com/dm/vendingmashine/servicelayer/VendingServiceImplTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #4 09-17-17/VendingMashineSpringAPI/src/test/resources/applicationContext.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #4 09-17-17/VendingMashineSpringAPI/target/VendingMashineSpringAPI-1.0-SNAPSHOT-shaded.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #4 09-17-17/VendingMashineSpringAPI/target/VendingMashineSpringAPI-1.0-SNAPSHOT.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #4 09-17-17/VendingMashineSpringAPI/target/applicationContext.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #4 09-17-17/VendingMashineSpringAPI/target/classes/applicationContext.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #4 09-17-17/VendingMashineSpringAPI/target/inventoryData.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #4 09-17-17/VendingMashineSpringAPI/target/maven-archiver/pom.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #4 09-17-17/VendingMashineSpringAPI/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #4 09-17-17/VendingMashineSpringAPI/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #4 09-17-17/VendingMashineSpringAPI/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #4 09-17-17/VendingMashineSpringAPI/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #4 09-17-17/VendingMashineSpringAPI/target/original-VendingMashineSpringAPI-1.0-SNAPSHOT.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #4 09-17-17/VendingMashineSpringAPI/target/pom.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #4 09-17-17/VendingMashineSpringAPI/target/priceData.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #4 09-17-17/VendingMashineSpringAPI/target/surefire-reports/TEST-com.dm.vendingmashine.dao.InventoryDaoImplTest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #4 09-17-17/VendingMashineSpringAPI/target/surefire-reports/TEST-com.dm.vendingmashine.dto.MoneyTest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #4 09-17-17/VendingMashineSpringAPI/target/surefire-reports/TEST-com.dm.vendingmashine.servicelayer.VendingServiceImplTest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #4 09-17-17/VendingMashineSpringAPI/target/surefire-reports/com.dm.vendingmashine.dao.InventoryDaoImplTest.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #4 09-17-17/VendingMashineSpringAPI/target/surefire-reports/com.dm.vendingmashine.dto.MoneyTest.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #4 09-17-17/VendingMashineSpringAPI/target/surefire-reports/com.dm.vendingmashine.servicelayer.VendingServiceImplTest.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #4 09-17-17/VendingMashineSpringAPI/target/test-classes/applicationContext.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #4 09-17-17/VendingMashineSpringAPI_AOP_SCHEMA.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #4 09-17-17/VendingMashineSpringAPI_Final2_PreRealism.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #4 09-17-17/VendingMashineSpringAPI_Final_Submission.rar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #4 09-17-17/VendingMashineSpringAPI_Finished_BeforeRealism.rar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #5 09-17-17/VendingMachineRESTWebService.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #5 09-17-17/Wireframes.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #5 09-17-17/screenshot.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #5 09-17-17/vendingMachine_frontEnd/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #5 09-17-17/vendingMachine_frontEnd/.idea/vendingMachine_frontEnd.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #5 09-17-17/vendingMachine_frontEnd/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #5 09-17-17/vendingMachine_frontEnd/css/bootstrap-grid.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #5 09-17-17/vendingMachine_frontEnd/css/bootstrap-grid.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #5 09-17-17/vendingMachine_frontEnd/css/bootstrap-grid.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #5 09-17-17/vendingMachine_frontEnd/css/bootstrap-grid.min.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #5 09-17-17/vendingMachine_frontEnd/css/bootstrap-reboot.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #5 09-17-17/vendingMachine_frontEnd/css/bootstrap-reboot.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #5 09-17-17/vendingMachine_frontEnd/css/bootstrap-reboot.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #5 09-17-17/vendingMachine_frontEnd/css/bootstrap-reboot.min.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #5 09-17-17/vendingMachine_frontEnd/css/bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #5 09-17-17/vendingMachine_frontEnd/css/bootstrap.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #5 09-17-17/vendingMachine_frontEnd/css/bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #5 09-17-17/vendingMachine_frontEnd/css/bootstrap.min.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #5 09-17-17/vendingMachine_frontEnd/css/mycss.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #5 09-17-17/vendingMachine_frontEnd/data.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #5 09-17-17/vendingMachine_frontEnd/fonts/glyphicons-halflings-regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #5 09-17-17/vendingMachine_frontEnd/fonts/glyphicons-halflings-regular.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #5 09-17-17/vendingMachine_frontEnd/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #5 09-17-17/vendingMachine_frontEnd/fonts/glyphicons-halflings-regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #5 09-17-17/vendingMachine_frontEnd/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #5 09-17-17/vendingMachine_frontEnd/images/panel.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #5 09-17-17/vendingMachine_frontEnd/images/panel.psd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #5 09-17-17/vendingMachine_frontEnd/images/screen.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #5 09-17-17/vendingMachine_frontEnd/images/screen2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #5 09-17-17/vendingMachine_frontEnd/images/tube.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #5 09-17-17/vendingMachine_frontEnd/images/vending_machine.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #5 09-17-17/vendingMachine_frontEnd/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #5 09-17-17/vendingMachine_frontEnd/js/bootstrap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #5 09-17-17/vendingMachine_frontEnd/js/bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #5 09-17-17/vendingMachine_frontEnd/js/home.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #5 09-17-17/vendingMachine_frontEnd/js/item_handler.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #5 09-17-17/vendingMachine_frontEnd/js/jquery-2.2.4.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #5 09-17-17/vendingMachine_frontEnd/js/jquery-2.2.4.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #5 09-17-17/vendingMachine_frontEnd/js/jquery-3.2.1.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #5 09-17-17/vendingMachine_frontEnd/js/jquery-3.2.1.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #5 09-17-17/vendingMachine_frontEnd/js/money_handler.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #5 09-17-17/vendingMachine_frontEnd/js/npm.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #5 09-17-17/vendingMachine_frontEnd/js/popper.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ClassProjects/Summative Assessments/summative #5 09-17-17/vendingMachine_frontEnd/js/purchase_handler.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/src/main/webapp/js/home.js" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/../../VendingAPI/src/main/webapp/jsp/index.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../VendingAPI/src/test/resources/test-applicationContext.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../VendingAPI/target/classes/spring-persistence.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../VendingAPI/target/inventoryData.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../VendingAPI/target/priceData.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../VendingAPI/target/spring-mvc-webapp/META-INF/MANIFEST.MF" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../VendingAPI/target/spring-mvc-webapp/WEB-INF/classes/spring-persistence.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../VendingAPI/target/spring-mvc-webapp/WEB-INF/lib/aspectjtools-1.8.11.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../VendingAPI/target/spring-mvc-webapp/WEB-INF/lib/classmate-1.1.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../VendingAPI/target/spring-mvc-webapp/WEB-INF/lib/commons-dbcp2-2.1.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../VendingAPI/target/spring-mvc-webapp/WEB-INF/lib/commons-logging-1.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../VendingAPI/target/spring-mvc-webapp/WEB-INF/lib/commons-pool2-2.4.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../VendingAPI/target/spring-mvc-webapp/WEB-INF/lib/hibernate-validator-5.2.2.Final.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../VendingAPI/target/spring-mvc-webapp/WEB-INF/lib/jackson-annotations-2.9.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../VendingAPI/target/spring-mvc-webapp/WEB-INF/lib/jackson-core-2.9.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../VendingAPI/target/spring-mvc-webapp/WEB-INF/lib/jackson-databind-2.9.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../VendingAPI/target/spring-mvc-webapp/WEB-INF/lib/javax.inject-1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../VendingAPI/target/spring-mvc-webapp/WEB-INF/lib/jboss-logging-3.2.1.Final.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../VendingAPI/target/spring-mvc-webapp/WEB-INF/lib/jsp-api-2.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../VendingAPI/target/spring-mvc-webapp/WEB-INF/lib/jstl-1.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../VendingAPI/target/spring-mvc-webapp/WEB-INF/lib/mysql-connector-java-8.0.8-dmr.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../VendingAPI/target/spring-mvc-webapp/WEB-INF/lib/spring-aop-5.0.0.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../VendingAPI/target/spring-mvc-webapp/WEB-INF/lib/spring-beans-5.0.0.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../VendingAPI/target/spring-mvc-webapp/WEB-INF/lib/spring-context-5.0.0.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../VendingAPI/target/spring-mvc-webapp/WEB-INF/lib/spring-core-5.0.0.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../VendingAPI/target/spring-mvc-webapp/WEB-INF/lib/spring-expression-5.0.0.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../VendingAPI/target/spring-mvc-webapp/WEB-INF/lib/spring-jcl-5.0.0.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../VendingAPI/target/spring-mvc-webapp/WEB-INF/lib/spring-jdbc-5.0.0.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../VendingAPI/target/spring-mvc-webapp/WEB-INF/lib/spring-test-5.0.0.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../VendingAPI/target/spring-mvc-webapp/WEB-INF/lib/spring-tx-5.0.0.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../VendingAPI/target/spring-mvc-webapp/WEB-INF/lib/spring-web-5.0.0.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../VendingAPI/target/spring-mvc-webapp/WEB-INF/lib/spring-webmvc-5.0.0.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../VendingAPI/target/spring-mvc-webapp/WEB-INF/lib/validation-api-2.0.0.Final.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../VendingAPI/target/spring-mvc-webapp/WEB-INF/spring-dispatcher-servlet.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/../../VendingAPI/target/spring-mvc-webapp/WEB-INF/web.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../VendingAPI/target/spring-mvc-webapp/css/bootstrap-theme.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../VendingAPI/target/spring-mvc-webapp/css/bootstrap-theme.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../VendingAPI/target/spring-mvc-webapp/css/bootstrap.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../VendingAPI/target/spring-mvc-webapp/css/bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../VendingAPI/target/spring-mvc-webapp/fonts/glyphicons-halflings-regular.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../VendingAPI/target/spring-mvc-webapp/fonts/glyphicons-halflings-regular.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../VendingAPI/target/spring-mvc-webapp/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../VendingAPI/target/spring-mvc-webapp/fonts/glyphicons-halflings-regular.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../VendingAPI/target/spring-mvc-webapp/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../VendingAPI/target/spring-mvc-webapp/index.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../VendingAPI/target/spring-mvc-webapp/js/bootstrap.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../VendingAPI/target/spring-mvc-webapp/js/bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../VendingAPI/target/spring-mvc-webapp/js/home.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../VendingAPI/target/spring-mvc-webapp/js/jquery-2.2.4.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../VendingAPI/target/spring-mvc-webapp/js/jquery-2.2.4.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../VendingAPI/target/spring-mvc-webapp/js/jquery-3.2.1.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../VendingAPI/target/spring-mvc-webapp/js/jquery-3.2.1.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../VendingAPI/target/spring-mvc-webapp/js/moment.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../VendingAPI/target/spring-mvc-webapp/js/npm.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../VendingAPI/target/spring-mvc-webapp/js/popper.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../VendingAPI/target/spring-mvc-webapp/jsp/hello.jsp" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/../../VendingAPI/target/spring-mvc-webapp/jsp/index.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../VendingAPI/target/test-classes/test-applicationContext.xml" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../VendingAPI/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../VendingAPI/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../VendingAPI/src/main/java/com/dm/vendingapi/controller/VendingJSPController.java" afterPath="$PROJECT_DIR$/../VendingAPI/src/main/java/com/dm/vendingapi/controller/VendingJSPController.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../VendingAPI/src/main/java/com/dm/vendingapi/dao/InventoryDaoImpl.java" afterPath="$PROJECT_DIR$/../VendingAPI/src/main/java/com/dm/vendingapi/dao/InventoryDaoImpl.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../VendingAPI/src/main/java/com/dm/vendingapi/servicelayer/VendingService.java" afterPath="$PROJECT_DIR$/../VendingAPI/src/main/java/com/dm/vendingapi/servicelayer/VendingService.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../VendingAPI/src/main/java/com/dm/vendingapi/servicelayer/VendingServiceImpl.java" afterPath="$PROJECT_DIR$/../VendingAPI/src/main/java/com/dm/vendingapi/servicelayer/VendingServiceImpl.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../VendingAPI/src/main/webapp/css/testPage.css" afterPath="$PROJECT_DIR$/../VendingAPI/src/main/webapp/css/testPage.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../VendingAPI/src/main/webapp/jsp/index.jsp" afterPath="$PROJECT_DIR$/../VendingAPI/src/main/webapp/jsp/index.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../VendingAPI/target/spring-mvc-webapp/META-INF/MANIFEST.MF" afterPath="$PROJECT_DIR$/../VendingAPI/target/spring-mvc-webapp/META-INF/MANIFEST.MF" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../VendingAPI/target/spring-mvc-webapp/css/testPage.css" afterPath="$PROJECT_DIR$/../VendingAPI/target/spring-mvc-webapp/css/testPage.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../VendingAPI/target/spring-mvc-webapp/js/home.js" afterPath="$PROJECT_DIR$/../VendingAPI/target/spring-mvc-webapp/js/home.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../VendingAPI/target/spring-mvc-webapp/jsp/index.jsp" afterPath="$PROJECT_DIR$/../VendingAPI/target/spring-mvc-webapp/jsp/index.jsp" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -167,7 +293,7 @@
       <file leaf-file-name="ContactController.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/dm/contactlist/controller/ContactController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
+            <state relative-caret-position="260">
               <caret line="27" column="28" lean-forward="false" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
               <folding />
             </state>
@@ -177,17 +303,17 @@
       <file leaf-file-name="index.jsp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/jsp/index.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
+            <state relative-caret-position="560">
               <caret line="28" column="5" lean-forward="false" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="contacts.jsp" pinned="false" current-in-tab="true">
+      <file leaf-file-name="contacts.jsp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/jsp/contacts.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-17">
+            <state relative-caret-position="20">
               <caret line="53" column="58" lean-forward="false" selection-start-line="53" selection-start-column="58" selection-end-line="53" selection-end-column="58" />
               <folding />
             </state>
@@ -197,7 +323,7 @@
       <file leaf-file-name="ContactListSpringMVC.iml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ContactListSpringMVC.iml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
+            <state relative-caret-position="200">
               <caret line="10" column="21" lean-forward="false" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
               <folding />
             </state>
@@ -207,7 +333,7 @@
       <file leaf-file-name="RESTController.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/dm/contactlist/controller/RESTController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
+            <state relative-caret-position="200">
               <caret line="18" column="11" lean-forward="false" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -216,11 +342,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ControllerExceptionHandler.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="ControllerExceptionHandler.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/dm/contactlist/controller/ControllerExceptionHandler.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+            <state relative-caret-position="536">
+              <caret line="41" column="15" lean-forward="false" selection-start-line="41" selection-start-column="15" selection-end-line="41" selection-end-column="15" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -231,7 +357,7 @@
       <file leaf-file-name="ErrorMessage.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/dm/contactlist/dao/ErrorMessage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
+            <state relative-caret-position="220">
               <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
               <folding>
                 <element signature="e#122#123#0" expanded="true" />
@@ -246,7 +372,7 @@
       <file leaf-file-name="UpdateIntegrityException.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/dm/contactlist/controller/UpdateIntegrityException.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
+            <state relative-caret-position="80">
               <caret line="6" column="1" lean-forward="false" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
               <folding>
                 <element signature="e#150#151#0" expanded="true" />
@@ -259,7 +385,7 @@
       <file leaf-file-name="spring-persistence.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/spring-persistence.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
+            <state relative-caret-position="360">
               <caret line="18" column="8" lean-forward="false" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
               <folding />
             </state>
@@ -269,7 +395,7 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
+            <state relative-caret-position="300">
               <caret line="15" column="18" lean-forward="false" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
               <folding />
             </state>
@@ -312,7 +438,6 @@
         <option value="$PROJECT_DIR$/src/main/webapp/jsp/contactDetails.jsp" />
         <option value="$PROJECT_DIR$/src/main/java/com/dm/contactlist/dao/ContactListDaoInMemImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/dm/contactlist/dao/ContactListDao.java" />
-        <option value="$PROJECT_DIR$/src/main/webapp/jsp/contacts.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/jsp/editContactForm.jsp" />
         <option value="$PROJECT_DIR$/src/main/java/com/dm/contactlist/controller/ContactController.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/dm/contactlist/model/Contact.java" />
@@ -324,6 +449,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/dm/contactlist/dao/ErrorMessage.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/dm/contactlist/controller/ControllerExceptionHandler.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/jsp/contacts.jsp" />
       </list>
     </option>
   </component>
@@ -377,6 +503,9 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -492,9 +621,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -733,6 +859,7 @@
       <workItem from="1507315083509" duration="241000" />
       <workItem from="1507315475705" duration="86000" />
       <workItem from="1507316121986" duration="4912000" />
+      <workItem from="1507513811350" duration="1268000" />
     </task>
     <servers />
   </component>
@@ -748,10 +875,11 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30559000" />
+    <option name="totallyTimeSpent" value="31827000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1" y="-4" width="1368" height="749" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32866043" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -759,7 +887,6 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Tail" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Archetypes" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -767,16 +894,15 @@
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.12616822" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3271028" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30373833" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" x="0" y="205" width="1366" height="470" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30161053" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19479166" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -785,6 +911,8 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Tail" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3271028" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32866043" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -851,7 +979,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -924,7 +1051,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1063,7 +1189,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="65" column="0" lean-forward="false" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1083,7 +1208,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/dm/contactlist/controller/UpdateIntegrityException.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
+        <state relative-caret-position="80">
           <caret line="6" column="1" lean-forward="false" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
           <folding>
             <element signature="e#150#151#0" expanded="true" />
@@ -1094,7 +1219,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/dm/contactlist/dao/ErrorMessage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
+        <state relative-caret-position="220">
           <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding>
             <element signature="e#122#123#0" expanded="true" />
@@ -1105,19 +1230,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/dm/contactlist/controller/ControllerExceptionHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
+        <state relative-caret-position="300">
           <caret line="15" column="18" lean-forward="false" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
           <folding />
         </state>
@@ -1125,7 +1240,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ContactListSpringMVC.iml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
+        <state relative-caret-position="200">
           <caret line="10" column="21" lean-forward="false" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
           <folding />
         </state>
@@ -1133,7 +1248,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/spring-persistence.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
+        <state relative-caret-position="360">
           <caret line="18" column="8" lean-forward="false" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
           <folding />
         </state>
@@ -1141,7 +1256,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/dm/contactlist/controller/RESTController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
+        <state relative-caret-position="200">
           <caret line="18" column="11" lean-forward="false" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1151,7 +1266,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/dm/contactlist/controller/ContactController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
+        <state relative-caret-position="260">
           <caret line="27" column="28" lean-forward="false" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
           <folding />
         </state>
@@ -1159,7 +1274,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/jsp/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
+        <state relative-caret-position="560">
           <caret line="28" column="5" lean-forward="false" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
           <folding />
         </state>
@@ -1167,9 +1282,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/jsp/contacts.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-17">
+        <state relative-caret-position="20">
           <caret line="53" column="58" lean-forward="false" selection-start-line="53" selection-start-column="58" selection-end-line="53" selection-end-column="58" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dm/contactlist/controller/ControllerExceptionHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="536">
+          <caret line="41" column="15" lean-forward="false" selection-start-line="41" selection-start-column="15" selection-end-line="41" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
