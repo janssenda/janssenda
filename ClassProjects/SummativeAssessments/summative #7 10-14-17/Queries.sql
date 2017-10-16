@@ -1,4 +1,4 @@
-USE OldHotelForLostSouls;
+USE newhotelforlostsouls;
 SET @NewStartDate = '2017-10-17';
 SET @RoomType = 5;
 -- Find rooms open on a single date --
@@ -28,7 +28,7 @@ ON rescustomers.ResID = reservations.ResID
 WHERE rescustomers.CustID = @CustomerId;
 
 -- Based on Promo Code -- 
-SET @PromoID = 1;
+SET @PromoID = 2;
 SELECT * FROM reservations
 INNER JOIN roompromotionsreservations
 ON reservations.ResID = roompromotionsreservations.ResID
