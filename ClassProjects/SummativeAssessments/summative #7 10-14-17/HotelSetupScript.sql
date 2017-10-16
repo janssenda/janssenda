@@ -183,8 +183,10 @@ CREATE TABLE ServicePromotionsReservations (
     ResID INT NOT NULL,
     RoomNumber INT NOT NULL,
     PromoID INT NOT NULL,
+    ResSvcID INT NOT NULL,
     FOREIGN KEY (ResID) REFERENCES Reservations(ResID),
     FOREIGN KEY (RoomNumber) REFERENCES Rooms(RoomNumber),
+    FOREIGN KEY (ResSvcID) REFERENCES ResServices(ResSvcID),
     PRIMARY KEY (SvcPromoID)  
 );
 

@@ -86,7 +86,7 @@ INTO TABLE servicepromotionsreservations
 fields terminated BY ','
 lines terminated BY '\r\n'
 IGNORE 1 LINES
-(SvcPromoID, ResID, RoomNumber, PromoID);
+(SvcPromoID, ResID, RoomNumber, PromoID, ResSvcID);
 
 LOAD DATA infile 'G:/SoftwareGuild/SWGProjects/Repositories/Private/thenewcarag/ClassProjects/SummativeAssessments/summative #7 10-14-17/Invoices.csv'
 REPLACE
