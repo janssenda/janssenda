@@ -1,4 +1,6 @@
-CREATE VIEW ServiceInvoices AS
+use hotelforlostsouls; 
+
+CREATE VIEW serviceinvoices AS
 SELECT reservations.ResID, resservices.RoomNumber, rescustomers.CustID, resservices.ChargeTypeID, resservices.OrderTime as StartDate, null as EndDate,
 null as Duration, null as RoomTypeID, services.SvcDesc, null as Features, null as PriceMod, services.BasePrice,
  
@@ -8,13 +10,13 @@ AND CAST(resservices.OrderTime AS DATE) BETWEEN seasonalservices.StartDate AND s
 
 (SELECT SeasonalPrice) as SubTotal,
 
-(SELECT sum(Promotions.PromoAmtDisc) FROM servicepromotionsreservations INNER JOIN promotions ON servicepromotionsreservations.PromoID = Promotions.PromoID
-WHERE reservations.ResID = servicepromotionsreservations.ResID
-GROUP BY Reservations.ResID) as Discount,
+(SELECT sum(promotions.PromoAmtDisc) FROM servicepromotionsreservations INNER JOIN promotions ON servicepromotionsreservations.PromoID = promotions.PromoID
+WHERE resservices.ResSvcId = servicepromotionsreservations.ResSvcID
+GROUP BY reservations.ResID) as Discount,
 
-(SELECT sum(Promotions.PromoPercDisc) FROM servicepromotionsreservations INNER JOIN promotions ON servicepromotionsreservations.PromoID = Promotions.PromoID
-WHERE reservations.ResID = servicepromotionsreservations.ResID
-GROUP BY Reservations.ResID) as PercOff,
+(SELECT sum(promotions.PromoPercDisc) FROM servicepromotionsreservations INNER JOIN promotions ON servicepromotionsreservations.PromoID = promotions.PromoID
+WHERE resservices.ResSvcId = servicepromotionsreservations.ResSvcID
+GROUP BY reservations.ResID) as PercOff,
 
 IFNULL(
 IF(IF((SELECT PercOff) >= 100,0,((SELECT SubTotal) - (SELECT Discount))*(1 - (SELECT PercOff/100))) <= 0,0, 

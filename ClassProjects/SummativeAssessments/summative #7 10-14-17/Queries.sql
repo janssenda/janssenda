@@ -1,4 +1,4 @@
-USE hotelforlostsouls;
+USE OldHotelForLostSouls;
 SET @NewStartDate = '2017-10-17';
 SET @RoomType = 5;
 -- Find rooms open on a single date --
