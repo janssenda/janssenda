@@ -3,8 +3,8 @@ package com.dm.contactlist.dao;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
-import static junit.framework.Assert.assertEquals;
-import static junit.framework.Assert.assertNull;
+import static org.junit.Assert.assertEquals;
+import static org.junit.Assert.assertNull;
 
 import com.dm.contactlist.model.Contact;
 import org.junit.After;
@@ -39,6 +39,12 @@ public class ContactListDaoTest {
         ApplicationContext ctx
                 = new ClassPathXmlApplicationContext("test-applicationContext.xml");
         dao = ctx.getBean("contactListDao", ContactListDao.class);
+
+        // remove all of the Contacts
+        List<Contact> contacts = dao.getAllContacts();
+        for (Contact currentContact : contacts) {
+            dao.removeContact(currentContact.getContactId());
+        }
     }
 
     @After
