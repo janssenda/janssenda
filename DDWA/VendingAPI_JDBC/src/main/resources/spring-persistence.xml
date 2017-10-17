@@ -14,6 +14,7 @@
                            http://www.springframework.org/schema/context/spring-context.xsd
        http://www.springframework.org/schema/aop http://www.springframework.org/schema/aop/spring-aop-4.3.xsd">
 
+    <aop:aspectj-autoproxy/>
     <tx:annotation-driven />
 
     <!-- Bean definitions go here -->
@@ -21,7 +22,7 @@
           class="org.apache.commons.dbcp2.BasicDataSource">
         <property name="driverClassName" value="com.mysql.cj.jdbc.Driver"/>
         <property name="url"
-                  value="jdbc:mysql://localhost:3306/contactlist?serverTimezone=UTC" />
+                  value="jdbc:mysql://localhost:3306/vendingdatabase?serverTimezone=UTC" />
         <property name="username" value="root" />
         <property name="password" value="root" />
         <property name="initialSize" value="5" />
@@ -38,12 +39,33 @@
         <property name="dataSource" ref="dataSource" />
     </bean>
 
-    <bean id="contactListDao"
-          class="com.dm.contactlist.dao.ContactListDaoDbImpl">
+    <bean id="pricingDao" class="com.dm.vendingapi.dao.database.PricingDaoDBImpl">
+    <property name="jdbcTemplate" ref="jdbcTemplate" />
+    </bean>
+
+    <bean id="inventoryDao" class="com.dm.vendingapi.dao.database.InventoryDaoDBImpl">
         <property name="jdbcTemplate" ref="jdbcTemplate" />
     </bean>
 
-    <!--<bean id="contactListDao" class="com.dm.contactlist.dao.ContactListDaoInMemImpl"/>-->
+    <bean id="auditDao" class="com.dm.vendingapi.dao.database.AuditDaoDBImpl">
+        <property name="jdbcTemplate" ref="jdbcTemplate" />
+    </bean>
 
+    <!--<bean id="inventoryDao" class="com.dm.vendingapi.dao.InventoryDaoImpl"/>-->
+    <!--<bean id="pricingDao" class="com.dm.vendingapi.dao.PricingDaoImpl"/>-->
+    <!--<bean id="auditDao" class="com.dm.vendingapi.dao.AuditDaoImpl"/>-->
+
+    <bean id="service" class="com.dm.vendingapi.servicelayer.VendingServiceImpl">
+        <constructor-arg ref="inventoryDao"/>
+        <constructor-arg ref="pricingDao"/>
+    </bean>
+
+    <bean id="logicRealistic" class="com.dm.vendingapi.logic.RealLogicCombinedImpl" >
+        <constructor-arg ref="service" />
+    </bean>
+
+    <bean id="loggingAspect" class="com.dm.vendingapi.advice.LoggingAspect">
+        <constructor-arg ref="auditDao"/>
+    </bean>
 
 </beans>
