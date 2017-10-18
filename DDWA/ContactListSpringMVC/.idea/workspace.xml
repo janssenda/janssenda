@@ -7,187 +7,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f381db57-f1d7-4709-91b7-19143206894f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../VendingAPI_JDBC/src/main/java/com/dm/vendingapi/dao/database/AuditDaoDBImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../VendingAPI_JDBC/src/main/java/com/dm/vendingapi/dao/database/InventoryDaoDBImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../VendingAPI_JDBC/src/main/java/com/dm/vendingapi/dao/database/PricingDaoDBImpl.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Aggregate-Exercises.sql" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../NewTest/.idea/compiler.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Slack.sql" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/.idea/artifacts/VendingAPI_war.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/.idea/artifacts/VendingAPI_war_exploded.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/.idea/compiler.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/.idea/libraries/Maven__com_fasterxml_classmate_1_1_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/.idea/libraries/Maven__javax_inject_javax_inject_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/.idea/libraries/Maven__javax_servlet_javax_servlet_api_4_0_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/.idea/libraries/Maven__javax_servlet_jsp_jsp_api_2_2.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/.idea/libraries/Maven__javax_servlet_jstl_1_2.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/.idea/libraries/Maven__javax_validation_validation_api_2_0_0_Final.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/.idea/libraries/Maven__junit_junit_4_12.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_8_dmr.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/.idea/libraries/Maven__org_apache_commons_commons_dbcp2_2_1_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_4_2.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/.idea/libraries/Maven__org_aspectj_aspectjtools_1_8_11.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/.idea/libraries/Maven__org_hibernate_hibernate_validator_5_2_2_Final.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_2_1_Final.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/.idea/libraries/Maven__org_springframework_spring_aop_5_0_0_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/.idea/libraries/Maven__org_springframework_spring_beans_5_0_0_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/.idea/libraries/Maven__org_springframework_spring_context_5_0_0_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/.idea/libraries/Maven__org_springframework_spring_core_5_0_0_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/.idea/libraries/Maven__org_springframework_spring_expression_5_0_0_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/.idea/libraries/Maven__org_springframework_spring_jcl_5_0_0_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/.idea/libraries/Maven__org_springframework_spring_jdbc_5_0_0_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/.idea/libraries/Maven__org_springframework_spring_test_5_0_0_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/.idea/libraries/Maven__org_springframework_spring_tx_5_0_0_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/.idea/libraries/Maven__org_springframework_spring_web_5_0_0_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/.idea/libraries/Maven__org_springframework_spring_webmvc_5_0_0_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/.idea/uiDesigner.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/VendingAPI.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/inventoryData.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/pom.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/priceData.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/src/main/java/com/dm/vendingapi/advice/LoggingAspect.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/src/main/java/com/dm/vendingapi/controller/VendingJSPController.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/src/main/java/com/dm/vendingapi/controller/VendingRestController.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/src/main/java/com/dm/vendingapi/dao/AuditDao.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/src/main/java/com/dm/vendingapi/dao/AuditDaoImpl.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/src/main/java/com/dm/vendingapi/dao/FileHandler.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/src/main/java/com/dm/vendingapi/dao/FileIOException.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/src/main/java/com/dm/vendingapi/dao/InventoryDao.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/src/main/java/com/dm/vendingapi/dao/InventoryDaoImpl.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/src/main/java/com/dm/vendingapi/dao/NoItemInventoryException.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/src/main/java/com/dm/vendingapi/dao/PricingDao.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/src/main/java/com/dm/vendingapi/dao/PricingDaoImpl.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/src/main/java/com/dm/vendingapi/dto/Money.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/src/main/java/com/dm/vendingapi/dto/Product.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/src/main/java/com/dm/vendingapi/dto/ProductMessenger.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/src/main/java/com/dm/vendingapi/logic/DeathException.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/src/main/java/com/dm/vendingapi/logic/MachineJameException.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/src/main/java/com/dm/vendingapi/logic/RealLogic.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/src/main/java/com/dm/vendingapi/logic/RealLogicIdealImpl.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/src/main/java/com/dm/vendingapi/logic/RealLogicRealisticImpl.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/src/main/java/com/dm/vendingapi/servicelayer/InsufficientFundsException.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/src/main/java/com/dm/vendingapi/servicelayer/VendingService.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/src/main/java/com/dm/vendingapi/servicelayer/VendingServiceImpl.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/src/main/resources/inventoryData.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/src/main/resources/priceData.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/src/main/resources/spring-persistence.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/src/main/webapp/WEB-INF/spring-dispatcher-servlet.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/src/main/webapp/WEB-INF/web.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/src/main/webapp/css/bootstrap-theme.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/src/main/webapp/css/bootstrap-theme.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/src/main/webapp/css/bootstrap.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/src/main/webapp/css/bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/src/main/webapp/css/mycss.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/src/main/webapp/css/testPage.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/src/main/webapp/fonts/glyphicons-halflings-regular.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/src/main/webapp/fonts/glyphicons-halflings-regular.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/src/main/webapp/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/src/main/webapp/fonts/glyphicons-halflings-regular.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/src/main/webapp/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/src/main/webapp/js/bootstrap.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/src/main/webapp/js/bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/src/main/webapp/js/jquery-2.2.4.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/src/main/webapp/js/jquery-2.2.4.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/src/main/webapp/js/jquery-3.2.1.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/src/main/webapp/js/jquery-3.2.1.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/src/main/webapp/js/moment.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/src/main/webapp/js/npm.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/src/main/webapp/js/popper.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/src/main/webapp/jsp/index.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/src/main/webapp/jsp/index_JS.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/src/main/webapp/oldJS/home.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/src/main/webapp/oldJS/item_handler.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/src/main/webapp/oldJS/money_handler.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/src/main/webapp/oldJS/purchase_handler.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/src/test/resources/test-applicationContext.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/target/classes/inventoryData.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/target/classes/priceData.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/target/classes/spring-persistence.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/target/inventoryData.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/target/priceData.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/target/spring-mvc-webapp/META-INF/MANIFEST.MF" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/target/spring-mvc-webapp/WEB-INF/classes/inventoryData.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/target/spring-mvc-webapp/WEB-INF/classes/priceData.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/target/spring-mvc-webapp/WEB-INF/classes/spring-persistence.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/target/spring-mvc-webapp/WEB-INF/lib/aspectjtools-1.8.11.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/target/spring-mvc-webapp/WEB-INF/lib/classmate-1.1.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/target/spring-mvc-webapp/WEB-INF/lib/commons-dbcp2-2.1.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/target/spring-mvc-webapp/WEB-INF/lib/commons-logging-1.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/target/spring-mvc-webapp/WEB-INF/lib/commons-pool2-2.4.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/target/spring-mvc-webapp/WEB-INF/lib/hibernate-validator-5.2.2.Final.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/target/spring-mvc-webapp/WEB-INF/lib/jackson-annotations-2.9.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/target/spring-mvc-webapp/WEB-INF/lib/jackson-core-2.9.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/target/spring-mvc-webapp/WEB-INF/lib/jackson-databind-2.9.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/target/spring-mvc-webapp/WEB-INF/lib/javax.inject-1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/target/spring-mvc-webapp/WEB-INF/lib/jboss-logging-3.2.1.Final.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/target/spring-mvc-webapp/WEB-INF/lib/jsp-api-2.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/target/spring-mvc-webapp/WEB-INF/lib/jstl-1.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/target/spring-mvc-webapp/WEB-INF/lib/mysql-connector-java-8.0.8-dmr.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/target/spring-mvc-webapp/WEB-INF/lib/spring-aop-5.0.0.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/target/spring-mvc-webapp/WEB-INF/lib/spring-beans-5.0.0.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/target/spring-mvc-webapp/WEB-INF/lib/spring-context-5.0.0.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/target/spring-mvc-webapp/WEB-INF/lib/spring-core-5.0.0.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/target/spring-mvc-webapp/WEB-INF/lib/spring-expression-5.0.0.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/target/spring-mvc-webapp/WEB-INF/lib/spring-jcl-5.0.0.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/target/spring-mvc-webapp/WEB-INF/lib/spring-jdbc-5.0.0.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/target/spring-mvc-webapp/WEB-INF/lib/spring-test-5.0.0.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/target/spring-mvc-webapp/WEB-INF/lib/spring-tx-5.0.0.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/target/spring-mvc-webapp/WEB-INF/lib/spring-web-5.0.0.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/target/spring-mvc-webapp/WEB-INF/lib/spring-webmvc-5.0.0.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/target/spring-mvc-webapp/WEB-INF/lib/validation-api-2.0.0.Final.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/target/spring-mvc-webapp/WEB-INF/spring-dispatcher-servlet.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/target/spring-mvc-webapp/WEB-INF/web.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/target/spring-mvc-webapp/css/bootstrap-theme.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/target/spring-mvc-webapp/css/bootstrap-theme.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/target/spring-mvc-webapp/css/bootstrap.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/target/spring-mvc-webapp/css/bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/target/spring-mvc-webapp/css/mycss.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/target/spring-mvc-webapp/css/testPage.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/target/spring-mvc-webapp/fonts/glyphicons-halflings-regular.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/target/spring-mvc-webapp/fonts/glyphicons-halflings-regular.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/target/spring-mvc-webapp/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/target/spring-mvc-webapp/fonts/glyphicons-halflings-regular.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/target/spring-mvc-webapp/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/target/spring-mvc-webapp/js/bootstrap.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/target/spring-mvc-webapp/js/bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/target/spring-mvc-webapp/js/home.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/target/spring-mvc-webapp/js/item_handler.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/target/spring-mvc-webapp/js/jquery-2.2.4.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/target/spring-mvc-webapp/js/jquery-2.2.4.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/target/spring-mvc-webapp/js/jquery-3.2.1.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/target/spring-mvc-webapp/js/jquery-3.2.1.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/target/spring-mvc-webapp/js/moment.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/target/spring-mvc-webapp/js/money_handler.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/target/spring-mvc-webapp/js/npm.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/target/spring-mvc-webapp/js/popper.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/target/spring-mvc-webapp/js/purchase_handler.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/target/spring-mvc-webapp/jsp/hello.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/target/spring-mvc-webapp/jsp/index.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/target/spring-mvc-webapp/jsp/index_JS.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/target/spring-mvc-webapp/oldJS/home.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/target/spring-mvc-webapp/oldJS/item_handler.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/target/spring-mvc-webapp/oldJS/money_handler.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/target/spring-mvc-webapp/oldJS/purchase_handler.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VendingAPI/target/test-classes/test-applicationContext.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../mysql_northwind.sql" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../mysql_swc_corp.sql" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../test/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../test/pom.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Databases/mysql_northwind.sql" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Databases/mysql_swc_corp.sql" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PictureUpload/.idea/uiDesigner.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/spring-persistence.xml" afterPath="$PROJECT_DIR$/src/main/resources/spring-persistence.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/spring-persistence.xml" afterPath="$PROJECT_DIR$/target/classes/spring-persistence.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/spring-mvc-webapp/META-INF/MANIFEST.MF" afterPath="$PROJECT_DIR$/target/spring-mvc-webapp/META-INF/MANIFEST.MF" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/spring-mvc-webapp/WEB-INF/classes/spring-persistence.xml" afterPath="$PROJECT_DIR$/target/spring-mvc-webapp/WEB-INF/classes/spring-persistence.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Library/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Library/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Library/src/main/resources/spring-persistence.xml" afterPath="$PROJECT_DIR$/../Library/src/main/resources/spring-persistence.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Library/src/test/resources/test-applicationContext.xml" afterPath="$PROJECT_DIR$/../Library/src/test/resources/test-applicationContext.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Library/target/classes/spring-persistence.xml" afterPath="$PROJECT_DIR$/../Library/target/classes/spring-persistence.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Library/target/test-classes/test-applicationContext.xml" afterPath="$PROJECT_DIR$/../Library/target/test-classes/test-applicationContext.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -200,11 +26,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ContactController.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="ContactController.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/dm/contactlist/controller/ContactController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="22" column="9" lean-forward="false" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+            <state relative-caret-position="136">
+              <caret line="20" column="3" lean-forward="false" selection-start-line="20" selection-start-column="3" selection-end-line="25" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -214,7 +40,7 @@
         <entry file="file://$PROJECT_DIR$/src/test/resources/test-applicationContext.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="391">
-              <caret line="23" column="52" lean-forward="true" selection-start-line="23" selection-start-column="52" selection-end-line="23" selection-end-column="52" />
+              <caret line="23" column="52" lean-forward="false" selection-start-line="23" selection-start-column="52" selection-end-line="23" selection-end-column="52" />
               <folding />
             </state>
           </provider>
@@ -223,7 +49,7 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-522">
+            <state relative-caret-position="255">
               <caret line="15" column="18" lean-forward="false" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
               <folding />
             </state>
@@ -264,11 +90,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ContactListDaoDbImpl.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ContactListDaoDbImpl.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/dm/contactlist/dao/ContactListDaoDbImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="22" column="52" lean-forward="true" selection-start-line="22" selection-start-column="52" selection-end-line="22" selection-end-column="52" />
+            <state relative-caret-position="221">
+              <caret line="22" column="52" lean-forward="false" selection-start-line="22" selection-start-column="52" selection-end-line="22" selection-end-column="52" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <marker date="1508248736747" expanded="true" signature="572:683" ph="INSERT INTO contacts... " />
@@ -286,7 +112,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/resources/spring-persistence.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="238">
-              <caret line="23" column="65" lean-forward="false" selection-start-line="23" selection-start-column="65" selection-end-line="23" selection-end-column="83" />
+              <caret line="23" column="83" lean-forward="false" selection-start-line="23" selection-start-column="64" selection-end-line="23" selection-end-column="83" />
               <folding />
             </state>
           </provider>
@@ -414,8 +240,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -543,8 +369,8 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -812,6 +638,8 @@
       <workItem from="1508209952607" duration="203000" />
       <workItem from="1508261219042" duration="1549000" />
       <workItem from="1508263419564" duration="4479000" />
+      <workItem from="1508351653057" duration="27000" />
+      <workItem from="1508357088931" duration="612000" />
     </task>
     <servers />
   </component>
@@ -839,11 +667,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45701000" />
+    <option name="totallyTimeSpent" value="46340000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="-4" width="1368" height="749" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32866043" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -858,13 +685,12 @@
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.12616822" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32627118" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30218068" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" x="0" y="205" width="1366" height="470" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32944915" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23938507" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -877,6 +703,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Tail" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32627118" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32866043" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -1198,14 +1025,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/dm/contactlist/controller/ContactController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="22" column="9" lean-forward="false" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/spring-dispatcher-servlet.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -1225,31 +1044,23 @@
     <entry file="file://$PROJECT_DIR$/src/test/resources/test-applicationContext.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
-          <caret line="23" column="52" lean-forward="true" selection-start-line="23" selection-start-column="52" selection-end-line="23" selection-end-column="52" />
+          <caret line="23" column="52" lean-forward="false" selection-start-line="23" selection-start-column="52" selection-end-line="23" selection-end-column="52" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-522">
+        <state relative-caret-position="255">
           <caret line="15" column="18" lean-forward="false" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/spring-persistence.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="23" column="65" lean-forward="false" selection-start-line="23" selection-start-column="65" selection-end-line="23" selection-end-column="83" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/dm/contactlist/dao/ContactListDaoDbImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="22" column="52" lean-forward="true" selection-start-line="22" selection-start-column="52" selection-end-line="22" selection-end-column="52" />
+        <state relative-caret-position="221">
+          <caret line="22" column="52" lean-forward="false" selection-start-line="22" selection-start-column="52" selection-end-line="22" selection-end-column="52" />
           <folding>
             <element signature="imports" expanded="true" />
             <marker date="1508248736747" expanded="true" signature="572:683" ph="INSERT INTO contacts... " />
@@ -1259,6 +1070,22 @@
             <marker date="1508248736747" expanded="true" signature="1182:1204" ph="SELECT * FRO... contacts" />
             <marker date="1508248736747" expanded="true" signature="2154:2177" ph="SELECT LAST_... " />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring-persistence.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="23" column="83" lean-forward="false" selection-start-line="23" selection-start-column="64" selection-end-line="23" selection-end-column="83" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dm/contactlist/controller/ContactController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="20" column="3" lean-forward="false" selection-start-line="20" selection-start-column="3" selection-end-line="25" selection-end-column="5" />
+          <folding />
         </state>
       </provider>
     </entry>
