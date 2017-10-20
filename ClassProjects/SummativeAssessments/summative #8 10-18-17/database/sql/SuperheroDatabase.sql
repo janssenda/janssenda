@@ -4,11 +4,14 @@ USE superherodb;
 
 CREATE TABLE locations (
 	LocID INT NOT NULL AUTO_INCREMENT,
-    LocName VARCHAR(255) NOT NULL,
+    LocName VARCHAR(255) NULL,
+    Country VARCHAR(255) NULL,    
     City VARCHAR(255) NULL,
+    State VARCHAR(255) NULL,    
     StAddress VARCHAR(255) NULL,
-    Latitude DECIMAL NULL,
-    Longitude DECIMAL NULL,
+    Zipcode VARCHAR(255) NULL,    
+    Latitude DECIMAL(12,6) NULL,
+    Longitude DECIMAL(12,6) NULL,
     Description TEXT NULL,
     PRIMARY KEY (LocID)
 );
@@ -46,17 +49,30 @@ CREATE TABLE headquarters (
 CREATE TABLE contacts(
 	HeadQID INT NOT NULL,
     Email VARCHAR(255),
-    PRIMARY KEY (HeadQID),
+    PRIMARY KEY (HeadQID, Email),
     FOREIGN KEY (HeadQID) REFERENCES headquarters(HeadQID)
 );
 
 CREATE TABLE sightings (
 	SightingID INT NOT NULL AUTO_INCREMENT,
-    LocID INT NOT NULL,
-    HeroID INT NOT NULL,
     SightTime DATETIME NOT NULL,
+    LocID INT NOT NULL,
     PRIMARY KEY (SightingID),
-    FOREIGN KEY (LocID) REFERENCES locations(LocID),
+    FOREIGN KEY (LocID) REFERENCES locations(LocID)
+);
+
+CREATE TABLE sightingsheroes (
+    SightingID INT NOT NULL,
+    HeroID INT NOT NULL,
+  --  PRIMARY KEY (SightingID, HeroID),
+    FOREIGN KEY (SightingID) REFERENCES sightings(SightingID),
+    FOREIGN KEY (HeroID) REFERENCES heroes(HeroID)
+);
+
+CREATE TABLE tempsightingsheroes (
+    SightingID INT NOT NULL,
+    HeroID INT NOT NULL,
+    FOREIGN KEY (SightingID) REFERENCES sightings(SightingID),
     FOREIGN KEY (HeroID) REFERENCES heroes(HeroID)
 );
 

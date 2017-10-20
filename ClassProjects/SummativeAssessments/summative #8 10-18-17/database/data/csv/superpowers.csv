@@ -1,37 +1,37 @@
-Power ID,PowerName,
-1,super strength,\N
-2,super speed,\N
-3,super agility,\N
-4,super durability,\N
-5,flight,\N
-6,invulnerability,\N
-7,X-Ray vision,\N
-8,super intelligence,\N
-9,martial arts,\N
-10,spider sense,\N
-11,web shooters,\N
-12,super endurance,\N
-13,weather control,\N
-14,electricity control,\N
-15,transportation,\N
-16,Power Ring,\N
-17,Lasso of Truth,\N
-18,super stamina,\N
-19,rock skin,\N
-20,super lung capacity,\N
-21,super reflexes,\N
-22,enhanced senses,\N
-23,pyrokinesis,\N
-24,fire form,\N
-25,heat resistance,\N
-26,energy absorption,\N
-27,fire control,\N
-28,Power Cosmic,\N
-29,regenerative healing,\N
-30,adamantium skeleton,\N
-31,claws,\N
-32,Iron Suit,\N
-33,radar sense,\N
-34,Vibranium Suit,\N
-35,phase,\N
-36,time travel,\N
+Power ID,PowerName,Description
+1,super strength,<none>
+2,super speed,<none>
+3,super agility,<none>
+4,super durability,<none>
+5,flight,<none>
+6,invulnerability,<none>
+7,X-Ray vision,<none>
+8,super intelligence,<none>
+9,martial arts,<none>
+10,spider sense,<none>
+11,web shooters,<none>
+12,super endurance,<none>
+13,weather control,<none>
+14,electricity control,<none>
+15,transportation,<none>
+16,Power Ring,<none>
+17,Lasso of Truth,<none>
+18,super stamina,<none>
+19,rock skin,<none>
+20,super lung capacity,<none>
+21,super reflexes,<none>
+22,enhanced senses,<none>
+23,pyrokinesis,<none>
+24,fire form,<none>
+25,heat resistance,<none>
+26,energy absorption,<none>
+27,fire control,<none>
+28,Power Cosmic,<none>
+29,regenerative healing,<none>
+30,adamantium skeleton,<none>
+31,claws,<none>
+32,Iron Suit,<none>
+33,radar sense,<none>
+34,Vibranium Suit,<none>
+35,phase,<none>
+36,time travel,<none>

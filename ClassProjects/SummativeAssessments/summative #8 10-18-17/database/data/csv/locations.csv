@@ -1,0 +1,2001 @@
+LocID,Name,Country,City,State,Address,Zip,Lat,Long,Description
+1,<none>,FR,BORDEAUX,AQ,61 cours Jean Jaures,33100,44.896011,-0.578509,<none>
+2,<none>,DE,Immenstadt,BY,Alt Reinickendorf 3,87503,47.555946,10.283733,<none>
+3,<none>,DE,Babensham,BY,Jahnstrasse 77,83547,48.151003,12.354025,<none>
+4,<none>,AU,HILTON PLAZA,SA,59 Devon Street,5033,-34.904244,138.549523,<none>
+5,<none>,IT,Robella,AT,Via Solfatara 137,14020,45.005551,8.058986,<none>
+6,<none>,FI,KRISTIINANKAUPUNKI,OS,Mannerheimintie 35,64100,62.186173,21.370337,<none>
+7,<none>,CY,ΛΕΜΠΑ,PA,Φιλαδέλφεως 17,8260,41.373368,-72.98909,<none>
+8,<none>,AT,WOLFSHOFERAMT,NO,Rosenstrasse 89,3572,48.473891,15.435544,<none>
+9,<none>,PL,Koszalin,,ul. Zwycięstwa 149,75-602,54.259027,16.177276,<none>
+10,<none>,US,Salem,OR,629 Mattson Street,97301,44.878886,-122.849408,<none>
+11,<none>,CA,Senneterre,QC,1480 Côte Joyeuse,H0H 0H0,48.373283,-77.196231,<none>
+12,<none>,GL,Pituffik,QA,P.O. Box 192,3970,76.525919,-68.779731,<none>
+13,<none>,AU,COMO,NSW,30 Peninsula Drive,2226,-34.072014,151.114989,<none>
+14,<none>,DK,Århus C,MI,Kilen 76,8100,56.138604,10.192718,<none>
+15,<none>,CH,Font,,Kammelenbergstrasse 146,1473,46.923395,6.787868,<none>
+16,<none>,ZA,Simonstad,WC,90 Bo Meul St,7975,-34.189111,18.374034,<none>
+17,<none>,CY,Sotira,LI,283 Iroon Polytechniou Avenue,4633,41.338917,-72.901091,<none>
+18,<none>,AT,RADLACH,OO,Eybnerstrasse 29,4611,48.295866,13.987485,<none>
+19,<none>,GL,Qaarsut,QA,P.O. Box 298,3964,70.701031,-52.66196,<none>
+20,<none>,IT,Serravalle D'Asti,AT,Via Solfatara 114,14020,44.947188,8.005647,<none>
+21,<none>,IT,Barbalaconi,VV,Via Rocca de Baldi 68,89866,38.710686,15.795294,<none>
+22,<none>,EE,Rädi,PR,Kase 51,88230,58.285799,23.78572,<none>
+23,<none>,DE,Kiefersfelden,BY,Gubener Str. 17,83088,47.547435,12.145661,<none>
+24,<none>,DE,Täferrot,BW,Kurfürstenstraße 34,73527,48.8485,9.859668,<none>
+25,<none>,PL,Gdańsk,,ul. Boguckiego Mieczysława 39,80-690,54.325919,18.659968,<none>
+26,<none>,CA,Lynden,ON,2912 Lynden Road,L0R 1T0,43.244261,-80.056285,<none>
+27,<none>,SI,Kanal,,Letališka 21,5213,46.023004,13.598744,<none>
+28,<none>,HU,Alsópáhok,ZA,Izabella u. 70.,8394,46.759186,17.190569,<none>
+29,<none>,BE,Lauw,VLI,Schietboompleinstraat 406,3700,50.83763,5.378371,<none>
+30,<none>,ZA,Centurion,GA,1849 Glyn St,172,-25.931009,28.073936,<none>
+31,<none>,NO,LILLEHAMMER,,Lars Jordes veg 41,2615,61.054997,10.496292,<none>
+32,<none>,GL,Kangerlussuaq,QE,P.O. Box 45,3910,77.278972,-67.075905,<none>
+33,<none>,EE,Matjama,TA,Metsa 61,60431,58.587695,27.02785,<none>
+34,<none>,DE,Wertheim,BW,Alter Wall 80,97877,49.821746,9.533995,<none>
+35,<none>,FR,PARIS,IL,93 Square de la Couronne,75001,48.763934,2.40769,<none>
+36,<none>,DK,Horsens,MI,Nymarksgyden 64,8700,55.903596,9.815865,<none>
+37,<none>,BE,Maillen,WNA,Lodorp 89,5330,50.460971,5.037271,<none>
+38,<none>,FR,CAEN,BN,49 Chemin Du Lavarin Sud,14000,49.096806,-0.357152,<none>
+39,<none>,NO,BERGEN,,Søndre Munkelivsgaten 98,5011,60.30056,5.373151,<none>
+40,<none>,NZ,Bottle Lake,,200 Teapes Road,8083,-43.510399,172.692293,<none>
+41,<none>,EE,Elbiku,LN,Aia 5,91202,58.842765,23.727997,<none>
+42,<none>,DK,København K,SJ,Højbovej 46,1121,55.585674,12.569832,<none>
+43,<none>,GB,KNOCKALOE MOAR,,38 Witney Way,IM5 3DR,54.137634,-4.705991,<none>
+44,<none>,BE,Bois-de-Lessines,WHT,Noordstraat 164,7866,50.8116,3.858586,<none>
+45,<none>,CH,Langendorf,,Rosenweg 108,4513,47.192359,7.574493,<none>
+46,<none>,DE,Ilvesheim,BW,Leipziger Strasse 27,68549,49.480795,8.510853,<none>
+47,<none>,DK,Stenløse,SJ,Hulemosevej 29,3660,55.722244,12.133079,<none>
+48,<none>,TN,Cite El Intilaka,43,72 Rue Shakespeare,9170,36.899465,10.072149,<none>
+49,<none>,BE,Haccourt,WLG,Rue Fouramont 80,4684,50.740991,5.588877,<none>
+50,<none>,ZA,Kaapstad,WC,196 Bo Meul St,7925,-33.92703,18.485165,<none>
+51,<none>,AU,TARAGOOLA,QLD,63 Ronald Crescent,4680,-24.192779,151.079287,<none>
+52,<none>,HU,Lad,SO,Eötvös út 73.,7535,46.152989,17.577556,<none>
+53,<none>,NL,Didam,GE,Roede 43,6942 LC,51.883473,6.05295,<none>
+54,<none>,DE,Buchholz,BB,Lietzenburger Strasse 76,14823,52.094336,12.80202,<none>
+55,<none>,CY,ΑΡΕ∆ΙΟΥ,NI,Λ. Πειραιώς 163,2614,41.426472,-72.93587,<none>
+56,<none>,SE,FRUFÄLLAN,,Alingsåsvägen 20,502 22,57.799081,13.042893,<none>
+57,<none>,SE,SESKARÖ,,Messlingen 85,950 80,65.811825,23.655185,<none>
+58,<none>,EE,Sääsküla,JR,Männiku 27,73511,59.173472,25.806652,<none>
+59,<none>,NZ,Glenholme,,250 Okona Crescent,3010,-38.089055,176.128134,<none>
+60,<none>,US,State College,PA,544 Spadafore Drive,16801,40.851035,-77.935033,<none>
+61,<none>,PL,Koszalin,,ul. 4 Marca 125,75-708,54.150525,16.085524,<none>
+62,<none>,ES,Sorvilán,GR,Pascual Yunquera 98,18713,36.784392,-3.228865,<none>
+63,<none>,IT,Salara,RO,Via Valpantena 58,45030,44.9932,11.24045,<none>
+64,<none>,FI,ILMAJOKI,SO,Kirkkokatu 64,60800,62.751806,22.597726,<none>
+65,<none>,AT,ALTMANNSDORF,NO,Spiegelsberg 12,3104,48.164406,15.596476,<none>
+66,<none>,ES,Valdelosa,SA,Rúa de San Pedro 42,37799,41.212375,-5.697041,<none>
+67,<none>,NO,LILLEHAMMER,,Holtevegen 167,2613,61.016082,10.418297,<none>
+68,<none>,TN,Cite El Wafa,11,89 Rue Echikh Mohamed Abbes,1003,36.796881,10.178342,<none>
+69,<none>,BR,São Paulo,SP,Rua São Pedro da União 214,03939-070,-23.645244,-46.594322,<none>
+70,<none>,GB,NORTH NEWBALD,,87 Southern Way,YO43 6QS,53.842298,-0.702977,<none>
+71,<none>,TN,Cite Populaire 3,32,73 Ane Habib Bourguiba,8112,36.959793,8.797651,<none>
+72,<none>,SI,Cerkvenjak,,Trg revolucije 84,2236,46.480651,16.011876,<none>
+73,<none>,TN,Ariana,12,43 Rue des pyramides,2080,36.950992,10.261291,<none>
+74,<none>,PL,Łódź,,ul. Hoffmanowej Antoniny 8,93-473,51.707548,19.467406,<none>
+75,<none>,SI,Lendava,,Kolodvorska 21,9220,46.593363,16.299018,<none>
+76,<none>,PT,Pedreira,VC,Avenida Boavista 68,4920-062,42.072294,-8.520542,<none>
+77,<none>,FR,MONTPELLIER,LN,45 rue de la Mare aux Carats,34070,43.566667,3.860561,<none>
+78,<none>,TN,Meraissa,21,21 Rue de la Nouvelle Delhi,8073,36.344773,10.447902,<none>
+79,<none>,FR,SAINT-DENIS,IL,39 rue Pierre Motte,97400,48.84656,2.392193,<none>
+80,<none>,EE,Mõisaküla,HA,Keldrimäe 83,75417,58.04441,25.155454,<none>
+81,<none>,IT,Bizzarone,CO,Via Carlo Alberto 94,22020,45.871078,9.050863,<none>
+82,<none>,DE,Witten Rüdinghausen,NW,Augsburger Straße 75,58454,51.497466,7.389647,<none>
+83,<none>,CY,Alampra,NI,174 Arafinidon Alon,2563,41.300732,-72.815976,<none>
+84,<none>,BE,Mollem,VBR,Bessenveldstraat 467,1730,50.861318,4.234803,<none>
+85,<none>,DE,Grönwohld,SH,Gruenauer Strasse 44,22956,53.697283,10.420703,<none>
+86,<none>,IS,Vestmannaeyjar,,Naustavegur 4,900,63.360463,-20.352136,<none>
+87,<none>,ZA,Roodepoort,GA,2055 Derby Ave,1734,-26.182504,27.775905,<none>
+88,<none>,NZ,Anderson Park,,78 Beaconsfield Road,9810,-46.260587,168.354918,<none>
+89,<none>,AT,ST. MICHAEL,KA,Zeppelinstrasse 84,9500,46.534665,13.806646,<none>
+90,<none>,CH,Mettendorf,,In Stierwisen 83,8553,47.586934,9.085332,<none>
+91,<none>,CY,Monagri,LI,212 Makri Street,4746,41.269361,-72.829575,<none>
+92,<none>,NO,KRISTIANSAND S,,Vollebakken 107,4633,58.086684,8.07407,<none>
+93,<none>,CA,Toronto,ON,802 Victoria Park Ave,M4A 2M5,43.609032,-79.430611,<none>
+94,<none>,PL,Mikołów,,ul. Derkaczy 88,43-190,50.183794,18.904601,<none>
+95,<none>,AT,WATZLBERG,SZ,Bachloh 27,5204,48.05025,13.322346,<none>
+96,<none>,UY,Gallinal,PA,Tala 7825,60001,-31.890863,-57.408043,<none>
+97,<none>,NO,OSLO,,Belgerudveien 47,957,59.905036,10.877545,<none>
+98,<none>,AT,ALTENMARKT BEI RIEGERSBURG,ST,Lindenstrasse 48,8333,46.987491,15.977008,<none>
+99,<none>,BE,Beveren-aan-den-IJzer,VWV,Kerkstraat 272,8691,51.012039,2.763162,<none>
+100,<none>,BE,Bertogne,WHT,Kerkstraat 421,6687,50.102049,5.592464,<none>
+101,<none>,UY,Montevideo,MO,Arenales 3658,12000,-34.893075,-56.270955,<none>
+102,<none>,PL,Łódź,,ul. Kotoniarska 101,93-242,51.781215,19.538404,<none>
+103,<none>,UY,Santa Clara de Olimar,TT,Joaquin Suarez 9632,37007,-32.818266,-54.923407,<none>
+104,<none>,BR,Patos de Minas,MG,Rua Petrolina 1862,38700-276,-18.552257,-46.571447,<none>
+105,<none>,FR,VILLENEUVE-SAINT-GEORGES,IL,10 place de Miremont,94190,48.706997,2.508012,<none>
+106,<none>,NZ,Marton,,139 Matai Street,4710,-40.010501,175.326338,<none>
+107,<none>,US,Los Angeles,CA,4746 Zimmerman Lane,90017,34.010604,-118.183083,<none>
+108,<none>,AT,KRONLACH,OO,Kriemhildstrasse 45,4720,48.368272,13.654603,<none>
+109,<none>,BE,Aarsele,VWV,Populierenstraat 101,8700,50.935456,3.427268,<none>
+110,<none>,SE,FINNERÖDJA,,Kantorsvägen 79,690 30,58.875009,14.40855,<none>
+111,<none>,CY,Troulloi,LA,232 Moatsou Street,7505,41.364444,-72.931116,<none>
+112,<none>,NZ,Normanby,,186 McGlashan Street,9010,-45.87161,170.582579,<none>
+113,<none>,ZA,Marianhill,KN,212 Voortrekker St,4092,-29.919681,31.009282,<none>
+114,<none>,GB,MILL OF KINGOODIE,,9 Long Street,AB51 7JQ,57.157448,-2.452294,<none>
+115,<none>,NL,Groningen,GR,Noorderbuitensingel 109,9717 KK,53.179453,6.603087,<none>
+116,<none>,CY,ΜΕΣΑ ΓΕΙΤΟΝΙΑ,LI,Μυκόνου 115,4006,41.361823,-73.009558,<none>
+117,<none>,DK,Taastrup,SJ,Jernbanegade 5,2633,55.577088,12.378827,<none>
+118,<none>,FR,BRIVE-LA-GAILLARDE,LI,72 rue Grande Fusterie,19100,45.19077,1.573869,<none>
+119,<none>,FI,NURMES,NK,Viinikantie 28,75530,63.610637,29.206737,<none>
+120,<none>,CY,Laneia,LI,175 Zeas Pasalimani,4744,41.297126,-72.893933,<none>
+121,<none>,PL,Warszawa,,ul. Buraczana 18,02-757,52.272089,21.023637,<none>
+122,<none>,PT,Fafe,BR,R Doutor Alberto Sampaio 13,4820-159,41.417576,-8.326707,<none>
+123,<none>,FR,LA GARENNE-COLOMBES,IL,54 rue de l'Aigle,92250,48.833916,2.271668,<none>
+124,<none>,PL,Piaseczno,,ul. Rubinowa 94,05-509,52.088968,21.072173,<none>
+125,<none>,BR,Piraquara,PR,Rua Dom Pedro I 106,83301-270,-25.547702,-49.153053,<none>
+126,<none>,FI,HELSINKI,UU,Norra Esplanaden 85,370,60.242586,24.875492,<none>
+127,<none>,UY,Baltasar Brum,AR,Purificacion 8858,55001,-30.708435,-57.321253,<none>
+128,<none>,FI,LIEKSA,NK,Varparannantie 34,81700,63.346278,29.966363,<none>
+129,<none>,FI,KYYJÄRVI,CF,Unioninkatu 51,43700,63.042596,24.544579,<none>
+130,<none>,FR,MARSEILLE,PA,75 boulevard de la Liberation,13014,43.271354,5.365848,<none>
+131,<none>,AT,ROHRBACH,NO,Prager Strasse 28,3834,48.871864,15.256642,<none>
+132,<none>,ES,Entrena,LO,Ctra. Beas-Cortijos Nuevos 20,26375,42.352002,-2.563965,<none>
+133,<none>,SE,ÅTVIDABERG,,Klövervägen 35,595 19,58.118822,15.9876,<none>
+134,<none>,ES,San Clemente,CU,El Roqueo 82,16600,39.442433,-2.484992,<none>
+135,<none>,EE,Sirevere,LV,Kodu 10,46517,59.021798,26.489293,<none>
+136,<none>,SE,MUNKA-LJUNGBY,,Granträsk 69,260 80,56.261673,12.922347,<none>
+137,<none>,ES,Ciudad Real,CR,Calle Proc. San Sebastián 62,13000,39.02374,-4.017852,<none>
+138,<none>,PT,Benavente,GU,R Principal 53,6300-062,40.468649,-7.191387,<none>
+139,<none>,NO,SANDNES,,Sørhallet 180,4309,58.873865,5.861464,<none>
+140,<none>,CY,ΑΛΕΘΡΙΚΟ,LA,Λεωφόρος Β. Αλεξάνδρου 251,7570,41.344057,-72.958423,<none>
+141,<none>,UY,Valentines,LA,Treinta y Tres 2616,30203,-33.339654,-55.097891,<none>
+142,<none>,UY,Parque del Plata,CA,Hocquart 9587,16100,-34.745759,-55.778749,<none>
+143,<none>,CH,Böbikon,,Hasenbühlstrasse 143,5334,47.522617,8.42616,<none>
+144,<none>,UY,Bello Horizonte,CA,Republica de Chile 5777,16203,-34.748098,-55.585826,<none>
+145,<none>,CH,Lalden,,Rosenweg 43,3931,46.260867,7.801277,<none>
+146,<none>,DK,Odense N,SY,Mølleløkken 26,5270,55.425116,10.422344,<none>
+147,<none>,CY,Ampelikou,NI,122 Kings George Avenue,2920,41.245728,-72.904808,<none>
+148,<none>,FR,CAEN,BN,14 Chemin Du Lavarin Sud,14000,49.134059,-0.344308,<none>
+149,<none>,IS,Höfn,,Austurgata 41,780,64.38342,-15.311465,<none>
+150,<none>,DE,Meßstetten,BW,Mohrenstrasse 86,72469,48.121198,8.925664,<none>
+151,<none>,SE,LJUGARN,,Änggårda Anga 20,620 16,57.247671,18.76411,<none>
+152,<none>,SE,PÅARP,,Mjölkalånga 82,260 33,56.077575,12.78608,<none>
+153,<none>,ES,Llodio,VI,José matía 56,1400,43.244779,-2.96017,<none>
+154,<none>,HU,Molnaszecsôd,VA,Kis Diófa u. 75.,9912,47.129068,16.712573,<none>
+155,<none>,AU,LUCASTON,TAS,82 Dossiter Street,7109,-43.166165,146.819253,<none>
+156,<none>,AT,AU,NO,Archkogl 12,2116,47.239123,9.514309,<none>
+157,<none>,IT,Roccascalegna,CH,Via Torre di Mezzavia 133,66040,42.068724,14.438387,<none>
+158,<none>,NO,SKIEN,,Nordre Fjellgate 64,3714,59.289178,9.56139,<none>
+159,<none>,UY,Progreso,CA,Colombes 6470,90300,-34.757787,-56.086178,<none>
+160,<none>,BR,Nova Iguaçu,RJ,Rua Alberto Ludolf 424,26221-000,-22.710784,-43.549532,<none>
+161,<none>,US,Santa Fe Springs,CA,1693 Paradise Lane,90670,33.907077,-118.097123,<none>
+162,<none>,PL,Warszawa,,ul. Lechicka 21,02-156,52.194035,21.056967,<none>
+163,<none>,TN,Cite El Menzah,22,60 Rue Des Entrepreneurs,1100,36.874545,10.205363,<none>
+164,<none>,EE,Jaanikese,VG,Sanglepa 91,68218,57.880232,26.142584,<none>
+165,<none>,IT,Lusen,BZ,Via San Domenico 72,39040,46.608874,11.34703,<none>
+166,<none>,CZ,Horaždovice,PL,Tyršova 896,341 01,49.307597,13.675996,<none>
+167,<none>,BR,Vitória da Conquista,BA,Rua Santos Pinheiro 326,45040-190,-15.367354,-40.869195,<none>
+168,<none>,NL,Heerlen,LI,Keekstraat 95,6413 HN,50.949316,5.920839,<none>
+169,<none>,DK,København V,SJ,Hundslevgyden 24,1725,55.76916,12.481213,<none>
+170,<none>,ZA,Dundee,KN,35 Thomas St,3081,-28.119787,30.282159,<none>
+171,<none>,ES,Llucmajor,PM,Boriñaur enparantza 86,7620,39.535804,2.8779,<none>
+172,<none>,CA,Mcleese Lake,BC,4112 Stum Lake Road,V0L 1P0,52.381461,-122.352477,<none>
+173,<none>,AT,AUERSBACH,ST,Kirchenplatz 51,8333,46.938302,15.968737,<none>
+174,<none>,PT,Veigas da Matança,VC,Avenida Nova 52,4970-247,42.023199,-8.473371,<none>
+175,<none>,CY,ΑΣΚΕΙΑ (ΑΣΣΕΙΑ),FA,Πλατεία Συντάγματος 77,5561,41.266247,-72.873244,<none>
+176,<none>,GL,Qeqertarsuaq,QA,P.O. Box 97,3953,62.185425,-49.846773,<none>
+177,<none>,UY,Montevideo,MO,Copacabana 9094,12500,-34.833666,-56.183634,<none>
+178,<none>,TN,Abdessadok,71,110 Rue Al Imam Al Bakri,2193,34.493942,9.169154,<none>
+179,<none>,GB,EAST CHISENBURY,,92 Hindhead Road,SN9 7HU,51.347097,-1.869716,<none>
+180,<none>,AT,ATZING,OO,Archkogl 2,4652,48.162189,13.920613,<none>
+181,<none>,FR,LE PUY-EN-VELAY,AU,73 rue Adolphe Wurtz,43000,44.988386,3.784541,<none>
+182,<none>,UY,Calpica Itacumbú,AR,Juncal 7438,55100,-32.839636,-55.968667,<none>
+183,<none>,CY,ΛΕΥΚΩΣΙΑ,NI,χλμ Εθνικής Οδού Αλεξανδρούπολης 209,1015,41.270956,-72.977116,<none>
+184,<none>,CZ,Decín 2,US,Nad Tratí 519,405 02,50.723152,14.287702,<none>
+185,<none>,BR,Dourados,MS,Rua Projetada 85,79831-335,-22.061822,-54.841359,<none>
+186,<none>,BR,Cachoeira do Sul,RS,Rua Arnoldo Paulo Fürstenau 1727,96503-375,-30.269429,-52.951817,<none>
+187,<none>,DK,Bramming,SY,Industrivej 60,6740,55.387771,8.624762,<none>
+188,<none>,NZ,Waikanae Park,,16 Walton Avenue,5036,-40.827357,175.077935,<none>
+189,<none>,US,Seattle,WA,1911 Hillcrest Drive,98161,47.376098,-121.797125,<none>
+190,<none>,NL,Nieuwegein,UT,Eemstraat 125,3433 BJ,52.052982,5.102685,<none>
+191,<none>,IT,Trescore Cremasco,CR,Via Giovanni Amendola 3,26017,45.327386,9.645589,<none>
+192,<none>,EE,Pahkla,RA,Kangru 85,79742,59.203694,24.825618,<none>
+193,<none>,CY,ΑΓΙΟΣ ΣΕΡΓΙΟΣ,FA,Πετμεζά 218,5621,41.318998,-73.007072,<none>
+194,<none>,PL,Poznań,,ul. Nowakowskiego Stanisława 101,61-421,52.420617,16.93548,<none>
+195,<none>,PL,Gostyń,,ul. Księdza Jana Twardowskiego 112,63-815,51.970886,17.035624,<none>
+196,<none>,BE,Snaaskerke,VWV,Molenstraat 92,8470,51.1413,2.852497,<none>
+197,<none>,AU,COOLAC,NSW,39 Cassinia Street,2727,-34.941649,148.431101,<none>
+198,<none>,GL,Aasiaat,QA,P.O. Box 81,3950,68.621846,-52.90919,<none>
+199,<none>,GB,GATESLACK,,2 Old Chapel Road,DG3 3YR,55.178126,-3.956822,<none>
+200,<none>,NL,Amsterdam,NH,Dusartstraat 28,1072 HL,52.418362,4.887589,<none>
+201,<none>,BR,Sapucaia do Sul,RS,Rua São Manoel 1291,93222-200,-29.756225,-51.186926,<none>
+202,<none>,SI,Polhov Gradec,,Turjaška 25,1355,46.134436,14.283147,<none>
+203,<none>,NL,Amsterdam,NH,Osdorpplein 129,1068 SW,52.421257,4.913046,<none>
+204,<none>,SI,Lokev,,Parmova 35,6219,45.716267,13.842718,<none>
+205,<none>,CZ,Rovensko pod Troskami,LI,Jiráskova 191,512 63,50.506316,15.186468,<none>
+206,<none>,SI,Pišece,,Gosposka ulica 110,8255,46.015222,15.714232,<none>
+207,<none>,BR,Olinda,PE,2ª Travessa do Cajueiro 1227,53370-051,-8.06225,-34.826673,<none>
+208,<none>,HU,Nick,VA,Victor Hugo u. 97.,9652,47.33976,17.082566,<none>
+209,<none>,CZ,Mesto Touškov,PL,Polní 1617,330 33,49.745678,13.26017,<none>
+210,<none>,US,Longview,TX,2974 Gladwell Street,75601,32.54384,-94.749952,<none>
+211,<none>,DK,Vesløs,NO,Clematisvænget 3,7742,57.061708,8.949471,<none>
+212,<none>,NO,HAUGESUND,,Jarhaugvegen 115,5533,59.421288,5.371582,<none>
+213,<none>,US,Fresno,CA,525 Heritage Road,93721,36.741795,-119.856544,<none>
+214,<none>,CY,ΝΙΚΗΤΑΣ,NI,Τρικάλων 92,2926,41.305871,-72.929113,<none>
+215,<none>,IS,Reykjavík,,Laugarvegur 89,154,64.212883,-21.889783,<none>
+216,<none>,NO,HAKADAL,,Gråsteinveien 196,1487,60.064979,10.847139,<none>
+217,<none>,GL,Qaanaaq,QA,P.O. Box 12,3971,77.473439,-69.262704,<none>
+218,<none>,AU,TYERS,VIC,24 Acheron Road,3844,-38.256243,146.50471,<none>
+219,<none>,CY,Galinoporni,FA,85 Gladstonos,5874,41.320118,-72.891168,<none>
+220,<none>,AT,HAFING,NO,Alte Poststrasse 51,3100,48.176064,15.58035,<none>
+221,<none>,EE,Kuklasõ,VR,Paju 92,66240,57.664474,26.835413,<none>
+222,<none>,CA,Hawarden,SK,3592 Albert Street,S4P 3Y2,51.462363,-106.579486,<none>
+223,<none>,FR,THIAIS,IL,31 rue du Faubourg National,94320,48.665227,2.470711,<none>
+224,<none>,IT,Gorlago,BG,Via Giulio Petroni 138,24060,45.763676,9.960415,<none>
+225,<none>,CH,Kesswil,,Seefeldstrasse 134,8593,47.554491,9.38455,<none>
+226,<none>,HU,Csertalakos,ZA,Nyár utca 58.,8951,46.699364,16.81899,<none>
+227,<none>,US,Bakersfield,CA,4730 Gateway Avenue,93307,35.179632,-118.823533,<none>
+228,<none>,ES,Lanaja,HU,Cañadilla 12,22250,41.806213,-0.262245,<none>
+229,<none>,GL,Aasiaat,QA,P.O. Box 66,3950,68.701006,-52.964,<none>
+230,<none>,CA,Niverville,MB,1547 2nd Street,R0A 1E0,49.696433,-97.137792,<none>
+231,<none>,US,Lathrop,CA,4882 Richards Avenue,95330,37.731763,-121.358445,<none>
+232,<none>,EE,Härjanurme,TA,Räitsaka 27,61303,58.348954,26.492755,<none>
+233,<none>,DE,Hamburg Poppenbüttel,HH,Fasanenstrasse 30,22391,53.690897,10.028828,<none>
+234,<none>,BE,Stave,WNA,Route de Botrange 59,5646,50.399828,4.666163,<none>
+235,<none>,CZ,Ceská Skalice,KR,Partyzánská 1524,552 03,50.412658,16.067506,<none>
+236,<none>,TN,Cite Ettaamir,21,76 Rue des pyramides,8021,36.590761,10.573033,<none>
+237,<none>,AT,NEUBRUNN,OO,Welser Strasse 4,4863,47.94622,13.620862,<none>
+238,<none>,CH,Davesco-Soragno,,Dreibündenstrasse 137,6964,46.030418,8.924735,<none>
+239,<none>,TN,Cite Essalah,34,61 Rue Ennassiria,6130,33.947301,9.988026,<none>
+240,<none>,UY,Santa Lucía del Este,CA,Joaquin Suarez 3914,16306,-34.79893,-55.499106,<none>
+241,<none>,NZ,Te Awanga,,185 Hyla Road,4102,-39.620282,176.987744,<none>
+242,<none>,ZA,Pretoria,GA,1587 Prospect St,11,-25.753162,28.284579,<none>
+243,<none>,ES,Sorihuela del Guadalimar,J,Ctra. Bailén-Motril 66,23270,38.15985,-2.965116,<none>
+244,<none>,TN,Naoual,61,9 Rue de caire,3050,36.79412,10.329255,<none>
+245,<none>,CY,ΝΕΤΑ,FA,χλμ Εθνικής Οδού Αλεξανδρούπολης 31,5832,41.411451,-72.838605,<none>
+246,<none>,AU,RUSHCUTTERS BAY,NSW,64 Edgecliff Road,2011,-33.819064,151.180375,<none>
+247,<none>,NZ,Woodridge,,109 Pelorous Street,6037,-41.187174,174.884195,<none>
+248,<none>,AT,URSCHENDORF,OO,Schönaugasse 73,4091,48.5478,13.565153,<none>
+249,<none>,AT,RUHGASSING,SZ,Horner Strasse 86,5760,47.437947,12.927012,<none>
+250,<none>,CZ,Dvur Králové nad Labem,KR,Pod Strání 1056,544 01,50.359307,15.798551,<none>
+251,<none>,NZ,Avalon Industrial,,113 Moreland Avenue,3200,-37.726537,175.235092,<none>
+252,<none>,GB,CRACKPOT,,69 Freezeland Lane,DL11 7BG,54.423609,-1.819405,<none>
+253,<none>,ZA,Mpumalanga,MP,2189 Rissik St,1055,-26.217233,28.802766,<none>
+254,<none>,CZ,Ždár nad Sázavou 2,VY,Strojírenská 1847,591 02,49.565918,15.92673,<none>
+255,<none>,NL,Esch,NB,Beemd 40,5296 LH,51.519666,5.353709,<none>
+256,<none>,CY,Anglikos Stratos Lefkosias,NI,145 King Alexander,1370,41.380741,-72.826147,<none>
+257,<none>,TN,Sidi Mansour,22,62 Rue Faiz El Kairaouani,1115,33.783497,10.067598,<none>
+258,<none>,UY,La Aguada - Costa Azul,RO,Piedras 3962,27002,-34.732442,-54.240583,<none>
+259,<none>,NZ,Chedworth,,18 Ensign Place,3210,-37.769521,175.175515,<none>
+260,<none>,AU,ALGESTER,QLD,50 Savages Road,4115,-27.621515,153.107986,<none>
+261,<none>,DE,Griesstätt,BY,Gubener Str. 19,83556,47.980917,12.167793,<none>
+262,<none>,ZA,Tzaneen,LI,1726 Thutlwa St,871,-23.848932,30.215416,<none>
+263,<none>,AU,ORAN PARK,NSW,49 Florabunda Lane,2570,-34.039415,150.510921,<none>
+264,<none>,IS,Hvammstangi,,Höfðabraut 72,531,65.46428,-20.963117,<none>
+265,<none>,IS,Mosfellsbær,,Thverholt 97,270,64.127,-21.7056,<none>
+266,<none>,DE,Schwarzenfeld,BY,Schaarsteinweg 83,92521,49.291278,12.219603,<none>
+267,<none>,BE,Milmort,WLG,Luchthavenlaan 349,4041,50.661226,5.690204,<none>
+268,<none>,BE,Saint-Médard,WHT,Rue de la Rulles 330,6887,49.842319,5.250145,<none>
+269,<none>,NZ,Te Ore Ore,,172 Albert Street,5810,-40.941357,175.728265,<none>
+270,<none>,AU,LOVEDAY,SA,18 Sunnyside Road,5345,-34.210501,140.547087,<none>
+271,<none>,DE,Albersroda,ST,Holstenwall 57,6268,51.370326,11.839367,<none>
+272,<none>,CY,Strovolos,NI,28 Eleftherias Square,2040,41.310548,-72.899641,<none>
+273,<none>,CZ,Znojmo 2,JM,Vrchlického 298,669 02,48.758138,16.030107,<none>
+274,<none>,SE,LIDINGÖ,,Luddingsbo Mekanikusv 62,181 23,59.28457,18.232001,<none>
+275,<none>,GL,Constable Pynt,SM,Postbox 28,3985,70.828877,-22.576182,<none>
+276,<none>,DK,Rudkøbing,SY,Sibiriensvej 62,5900,55.008177,10.778699,<none>
+277,<none>,PT,Matarraque,LI,Rua Ciprestes 108,2785-366,38.713338,-9.39031,<none>
+278,<none>,ES,Torrecampo,CO,La Fontanilla 13,14410,38.38169,-4.703419,<none>
+279,<none>,FI,HÄMEENLINNA,TP,Valssaamontie 93,13110,60.961076,24.439231,<none>
+280,<none>,BR,Rio de Janeiro,RJ,Rua Marcos Mayerhofer 911,22795-342,-22.866877,-43.374866,<none>
+281,<none>,AT,REISACH,KA,Am Kuhberg 69,9633,46.684511,13.191888,<none>
+282,<none>,DE,München,BY,Landsberger Allee 61,80046,48.120495,11.637225,<none>
+283,<none>,IS,Akureyri,,Hafnarstraeti 85,603,65.686854,-18.037188,<none>
+284,<none>,CZ,Konstantinovy Lázne,PL,Na Výsluní 292,349 52,49.936181,12.896901,<none>
+285,<none>,UY,Villa María,SJ,Hugo Reta 7983,80005,-32.399663,-56.514989,<none>
+286,<none>,AT,REITH,NO,Am Kuhberg 71,3631,48.525938,15.166095,<none>
+287,<none>,IS,Stykkishólmur,,Byggðavegur 23,340,65.130009,-22.714047,<none>
+288,<none>,CY,ΛΕΥΚΩΣΙΑ,NI,Φαρσάλων 85,1441,41.396585,-73.011376,<none>
+289,<none>,NZ,Ahuriri,,39 Hamilton Place,4110,-39.464516,176.947379,<none>
+290,<none>,CY,Paralimni,FA,113 Iliou Street,5292,41.380661,-72.993008,<none>
+291,<none>,ZA,Jeffreys Bay,EC,493 Willow St,6332,-34.036285,24.984566,<none>
+292,<none>,CA,Windsor,ON,1447 Lauzon Parkway,N9A 7A2,42.258509,-82.993951,<none>
+293,<none>,FI,HÄMEENLINNA,TP,Valssaamontie 91,13100,60.910664,24.543793,<none>
+294,<none>,FI,KUOPIO,NS,Norra Larsmovägen 25,70700,62.856388,27.716167,<none>
+295,<none>,ZA,Bronkhorstspruit,GA,746 Burger St,1022,-25.722264,28.700405,<none>
+296,<none>,GB,CRAICHIE,,24 Freezeland Lane,DD8 8GR,56.129771,-3.170171,<none>
+297,<none>,DE,Zwenkau,SN,Hoheluftchaussee 64,4442,51.223633,12.380308,<none>
+298,<none>,IS,Þorlákshöfn,,Kaupangsstræti 67,815,63.942969,-21.434777,<none>
+299,<none>,PL,Warszawa,,ul. Koralowa 14,02-967,52.314867,20.944801,<none>
+300,<none>,CH,Dällikon,,Dreibündenstrasse 115,8108,47.415123,8.344409,<none>
+301,<none>,BR,Jundiaí,SP,Rua Monte Mor 178,13206-543,-23.201763,-46.807654,<none>
+302,<none>,AT,GRÜNDBERG,OO,Gleichenberger Strasse 23,4870,48.066744,13.482478,<none>
+303,<none>,CY,Melamiou,PA,181 Mihalakopoulou Avenue,8745,41.38369,-72.852615,<none>
+304,<none>,SI,Velenje,,Dalmatinova 105,3320,46.325452,15.034403,<none>
+305,<none>,IS,Vík,,Smáratún 2,870,63.370552,-19.109952,<none>
+306,<none>,ES,Cangas,PO,Constitución 77,36940,42.268433,-8.760271,<none>
+307,<none>,CY,Mosfiloti,LA,203 King George Avenue,7647,41.400835,-72.916848,<none>
+308,<none>,SI,Kamnik,,Letališka 39,1241,46.2646,14.683326,<none>
+309,<none>,CH,Basel,,Breitenstrasse 110,4005,47.648809,7.593197,<none>
+310,<none>,TN,Cite Ennour,71,61 Rue Al Imam Al Bakri,2190,36.688834,10.188521,<none>
+311,<none>,CY,ΛΥΘΡΟ∆ΟΝΤΑΣ,NI,Λεωφόρος Βασ. Γεωργίου 97,2565,41.276755,-72.910633,<none>
+312,<none>,ZA,Witbank,MP,2308 Rissik St,1073,-25.831991,29.213483,<none>
+313,<none>,BR,Rio Grande,RS,Rua Coronel Pilar 1198,96212-180,-32.061943,-52.377121,<none>
+314,<none>,HU,Hegymagas,VE,Rákóczi út 63.,8265,46.834546,17.43416,<none>
+315,<none>,TN,Bir El Mellouli,61,137 Rue de la Nouvelle Delhi,3000,34.87313,10.469214,<none>
+316,<none>,ES,Cee,C,Quevedo 53,15270,42.918186,-9.204122,<none>
+317,<none>,GB,LOWER HAWTHWAITE,,52 Broad Street,LA20 3BX,54.228345,-3.235759,<none>
+318,<none>,AU,ROSEBROOK,NSW,74 Elgin Street,2320,-32.688047,151.491155,<none>
+319,<none>,FR,MARSEILLE,PA,34 cours Franklin Roosevelt,13010,43.263247,5.490476,<none>
+320,<none>,IT,Monastero Bormida,AT,Via Roma 58,14058,44.73549,8.264837,<none>
+321,<none>,FR,BAYONNE,AQ,65 Rue du Limas,64100,43.523499,-1.478417,<none>
+322,<none>,DK,Hovedgård,MI,Lumbyholmvej 95,8732,55.884915,9.922364,<none>
+323,<none>,ES,Tudela de Duero,VA,Calvo Sotelo 89,47320,41.513014,-4.550367,<none>
+324,<none>,DK,Vemmelev,SJ,Clematisvænget 24,4241,55.434482,11.252973,<none>
+325,<none>,UY,Aeropuerto,CA,Aeropuerto 2225,14000,-34.85619,-56.002976,<none>
+326,<none>,NL,Gouda,ZH,Goejanverwelledijk 158,2807 CC,52.155778,4.689887,<none>
+327,<none>,FI,KAJAANI,KA,Kaarikatu 74,87700,64.271613,27.684128,<none>
+328,<none>,ES,Matute,LO,C/ Pablo Iglesias 86,26321,42.367284,-2.85967,<none>
+329,<none>,DE,Mückeln,RP,Lützowplatz 56,54558,50.164055,6.831984,<none>
+330,<none>,ES,Lújar,GR,Inglaterra 31,18614,36.874928,-3.362569,<none>
+331,<none>,NL,Veldhoven,NB,Merefeltstraat 118,5503 XH,51.381703,5.325613,<none>
+332,<none>,US,Irmo,SC,1635 Java Lane,29063,34.21802,-81.271386,<none>
+333,<none>,IT,Sambuceto,CH,Via Torre di Mezzavia 28,66020,42.19376,14.456956,<none>
+334,<none>,HU,Szomód,KE,Munkácsy Mihály út 11.,2896,47.597206,18.353846,<none>
+335,<none>,GL,Nuuk,SM,Aqqusinersuaq 248,3900,64.191588,-51.708318,<none>
+336,<none>,FI,KÄRSÄMÄKI,NO,Sahankatu 8,86710,63.919156,25.789906,<none>
+337,<none>,BE,Kumtich,VBR,Hooivelden 187,3300,50.848243,5.024653,<none>
+338,<none>,IS,Hafnafjörður,,Sorlaskeid 92,220,64.083557,-21.893047,<none>
+339,<none>,DK,Kruså,SY,Kongshøj Allé 11,6340,54.82485,9.482752,<none>
+340,<none>,NO,MO I RANA,,Roald Amundsens gate 91,8624,66.323057,14.066785,<none>
+341,<none>,TN,Cite Khouaja,13,106 Rue des Pléiades,2082,36.683762,10.131667,<none>
+342,<none>,GB,BOLDRE,,82 Thames Street,SO41 4FU,50.759834,-1.678999,<none>
+343,<none>,GB,MARCHAM,,93 East Street,OX13 8YG,51.458969,-1.721018,<none>
+344,<none>,CA,Toronto,ON,2088 Woolwick Drive,M1H 1A8,43.741346,-79.412926,<none>
+345,<none>,NZ,Clendon Park,,248 Pitt Avenue,2103,-36.957941,174.910747,<none>
+346,<none>,NL,Utrecht,UT,Johan Wagenaarkade 24,3533 TL,52.166955,5.053458,<none>
+347,<none>,DK,København K,SJ,Stenløsegyden 16,1024,55.769873,12.501598,<none>
+348,<none>,NO,HØVIK,,Viktor Plahtes vei 208,1363,59.976976,10.611983,<none>
+349,<none>,GB,BALLINLUIG,,39 Ballifeary Road,PH10 5NW,56.516911,-3.874325,<none>
+350,<none>,FR,VITROLLES,PA,89 Rue Bonnet,13127,43.405717,5.33043,<none>
+351,<none>,CY,ΛΑΡΝΑΚΑ,LA,Χαριλάου Τρικούπη 42,6307,41.300174,-72.940262,<none>
+352,<none>,IT,Vigolo Marchese,PC,Via Sergente Maggiore 33,29010,45.049076,9.448296,<none>
+353,<none>,NO,SARPSBORG,,Kallastenveien 10,1708,59.290119,11.082866,<none>
+354,<none>,CH,Weesen,,Tösstalstrasse 44,8872,47.117276,9.049175,<none>
+355,<none>,CZ,Moravský Žižkov,JM,Družstevní 1448,691 01,48.932993,16.983202,<none>
+356,<none>,UY,Lagomar,CA,Larrañaga 3267,15000,-34.885917,-56.027565,<none>
+357,<none>,CH,Silvaplana,,Mattenstrasse 92,7513,46.395112,9.682142,<none>
+358,<none>,SE,ALSTERMO,,Idvägen 26,360 75,57.011941,15.603228,<none>
+359,<none>,SE,BJÖRKÖ,,Simpnäs 67,760 42,59.824189,18.934763,<none>
+360,<none>,TN,Cite Bouranene,71,112 Rue Camille des Moulins,2111,36.770097,10.41075,<none>
+361,<none>,TN,Oued Laachech,61,119 Rue de baghdad,3066,34.792005,10.898955,<none>
+362,<none>,NL,Amstelveen,NH,Bovenkerkerweg 137,1188 XD,52.210173,4.963028,<none>
+363,<none>,NZ,Hospital Hill,,229 Sixty Fifth Street,4110,-39.483933,176.853891,<none>
+364,<none>,SE,VIKEN,,Lantmannagatan 12,260 40,56.074849,12.579911,<none>
+365,<none>,PT,Valada,VC,Avenida Boavista 13,4920-061,41.730247,-8.738594,<none>
+366,<none>,HU,Csépa,JN,Veres Pálné u. 69.,5475,46.805323,20.198553,<none>
+367,<none>,TN,Cite 7 Novembre,52,101 Rue Kilani Metoui,5010,36.838606,10.054113,<none>
+368,<none>,DE,Bad Frankenhausen,TH,Holstenwall 89,6563,51.272641,11.114012,<none>
+369,<none>,ZA,Bramley,GA,1086 President St,2090,-26.16173,28.176449,<none>
+370,<none>,CY,Limassol,LI,205 Papanikolaou Street,3101,41.393478,-72.963707,<none>
+371,<none>,BE,Châtelineau,WLX,Brixtonlaan 149,6200,50.489316,4.589023,<none>
+372,<none>,CY,ΛΕΥΚΩΣΙΑ,NI,Καλαμπάκα 272,1415,41.331992,-72.92252,<none>
+373,<none>,ES,Madrigal de las Altas Torres,AV,C/ Libertad 54,5220,41.112647,-5.057346,<none>
+374,<none>,CA,Kelowna,BC,339 Hardy Street,V1Y 8H2,49.917965,-119.383577,<none>
+375,<none>,CY,Omodos,LI,297 Akti Kanari Street,4760,41.411856,-72.963659,<none>
+376,<none>,TN,Cite Dhahret Ezzaouia,21,112 Rue Talleyrand,8044,36.648977,10.797918,<none>
+377,<none>,GL,Upernavik,QA,P.O. Box 77,3962,72.848141,-56.177483,<none>
+378,<none>,CY,ΚΑΠΟΥΤΗ,NI,Βερανζέρου 264,2726,41.386134,-72.873699,<none>
+379,<none>,PT,Alcácer do Sal,SE,R Principal 25,7580-077,38.310918,-8.458017,<none>
+380,<none>,BR,Volta Redonda,RJ,Rua General Osório 1890,27263-090,-22.595065,-44.077914,<none>
+381,<none>,NL,Lisse,ZH,Fien de la Mardreef 142,2162 JH,52.252899,4.551301,<none>
+382,<none>,BR,São Paulo,SP,Rua José Geraldo João Luiz 627,05119-045,-23.724254,-46.677423,<none>
+383,<none>,AT,GRAFENWÖRTH,NO,Bahngasse 39,3484,48.312338,15.863885,<none>
+384,<none>,EE,Tartu,TA,Vahtra 42,51001,58.314212,26.798866,<none>
+385,<none>,AT,SCHACHEN BEI VORAU,ST,Hubatschstrasse 64,8250,47.416371,15.988938,<none>
+386,<none>,FR,ALÈS,LN,75 rue de Geneve,30100,44.095889,4.130721,<none>
+387,<none>,NL,Zwolle,OV,Snelliuslaan 168,8024 XD,52.573915,6.137821,<none>
+388,<none>,SI,Koper,,Kolodvorska 22,6502,45.619841,13.64769,<none>
+389,<none>,CA,Newcastle,ON,775 Toy Avenue,L1H 1H8,43.974471,-78.614894,<none>
+390,<none>,BR,Petrolina,PE,Rua Mar Amarelo 1471,56321-500,-9.133757,-40.663947,<none>
+391,<none>,CA,New Westminster,BC,2547 Sixth Street,V3L 3C1,49.291103,-122.894423,<none>
+392,<none>,SE,VELLINGE,,Torvvägen 21,235 33,55.57032,12.948067,<none>
+393,<none>,SI,Mala Nedelja,,Parmova 17,9243,46.461377,16.070369,<none>
+394,<none>,DK,København K,SJ,Sludevej 28,1354,55.579922,12.668285,<none>
+395,<none>,IS,Sandgerði,,Lindargata 39,245,64.148626,-22.779896,<none>
+396,<none>,PT,Santar,VI,R Camões 80,3520-136,40.801986,-7.85983,<none>
+397,<none>,PT,Aveiro,AV,Rua Vale Miguel 85,3800-100,40.544797,-8.606903,<none>
+398,<none>,PL,Rzeszów,,ul. Stawowa 145,35-321,50.11764,22.070202,<none>
+399,<none>,IT,Arco,TN,Vicolo Calcirelli 118,38062,45.882282,10.873717,<none>
+400,<none>,FI,PORI,SA,Ilmalankuja 78,28220,61.472994,21.753903,<none>
+401,<none>,FI,HATTULA,TP,Lukiokatu 70,13880,60.997306,24.314806,<none>
+402,<none>,NZ,Kawakawa,,22 MacFarlane Street,210,-35.446047,174.120403,<none>
+403,<none>,GL,Maniitsoq,QE,Postbox 126,3912,65.32903,-52.879435,<none>
+404,<none>,CY,ΜΑΡΓΙ,NI,Πεντέλης 37,2647,41.333477,-72.872547,<none>
+405,<none>,GL,Ittoqqortoormiit,SM,P.O. Box 20,3980,70.40733,-21.8714,<none>
+406,<none>,FR,BOULOGNE-SUR-MER,NP,55 rue Petite Fusterie,62200,50.718823,1.630284,<none>
+407,<none>,UY,Sarandí del Arapey,SA,Canelones 8296,50018,-30.968403,-56.174332,<none>
+408,<none>,DE,Langenhagen,NI,An der Alster 19,30853,52.537746,9.735147,<none>
+409,<none>,TN,Cite Ezzouhour 2,52,71 Rue Ali Belhouane,5020,36.71046,10.115058,<none>
+410,<none>,ZA,Mokopane,LI,249 Barlow Street,619,-24.092207,29.030377,<none>
+411,<none>,CZ,Brno 37,JM,Za Školou 383,637 00,49.170815,16.541833,<none>
+412,<none>,TN,Cite Douar Chott,23,34 Rue Menzel Bourguiba,7032,36.710249,10.182772,<none>
+413,<none>,DE,Aidenbach,BY,Ziegelstr. 67,94501,48.536586,13.070156,<none>
+414,<none>,UY,Lapuente,RV,Larrañaga 8208,40004,-31.514939,-54.926052,<none>
+415,<none>,CH,Oberwil,,Jakobstrasse 7,8500,47.564742,8.980866,<none>
+416,<none>,DK,Lynge,SJ,Margrethes Plads 3,3540,55.753541,12.247086,<none>
+417,<none>,NO,FREDRIKSTAD,,Teglverksveien 89,1610,59.246481,10.843675,<none>
+418,<none>,HU,Kutas,SO,Eötvös út 6.,7541,46.382912,17.492899,<none>
+419,<none>,CA,Belleville,ON,1423 Isabella Street,K8N 4Z5,44.194568,-77.294914,<none>
+420,<none>,AU,CLUDEN,QLD,52 Seninis Road,4811,-19.300595,146.843855,<none>
+421,<none>,SI,Postojna,,Turjaška 56,6230,45.795094,14.201146,<none>
+422,<none>,HU,Tákos,SZ,Bem rakpart 58.,4845,48.182987,22.427489,<none>
+423,<none>,CA,Woodstock,ON,3717 9th Avenue,N4S 7W4,46.081555,-67.636216,<none>
+424,<none>,SI,Ljubljana,,Ilichova 95,1600,46.087128,14.511422,<none>
+425,<none>,BR,Bragança Paulista,SP,Avenida das Tilápias 1485,12924-140,-22.92735,-46.519925,<none>
+426,<none>,FI,ÄHTÄRI,SO,Mannerheimintie 38,63700,62.473277,24.09881,<none>
+427,<none>,CZ,Hermanicky,ST,K Pazderně 385,257 89,49.620287,14.673282,<none>
+428,<none>,DE,Heroldsberg,BY,Rathausstrasse 84,90560,49.464758,11.090915,<none>
+429,<none>,ZA,Rustenburg,NW,107 South St,202,-25.678489,27.296782,<none>
+430,<none>,IS,Reykjahlíð,,Ennisbraut 20,660,64.212703,-21.902216,<none>
+431,<none>,DK,København K,SJ,Sludevej 85,1354,55.722483,12.583831,<none>
+432,<none>,EE,Alamõisa,VG,Põllu 23,68403,57.976334,26.263778,<none>
+433,<none>,IT,Bagnolo Piemonte,CN,Via Francesco Saverio Correra 136,12031,44.691134,7.323601,<none>
+434,<none>,AU,WOGOLIN,WA,99 Ashton Road,6370,-32.820254,117.676157,<none>
+435,<none>,NO,TRONDHEIM,,Håkon Håkonsons gate 79,7052,63.480368,10.364769,<none>
+436,<none>,GB,GOATHILL,,33 Bridge Street,DT9 0JF,50.863649,-2.572929,<none>
+437,<none>,PL,Lublin,,ul. Przepiórcza 72,20-382,51.178649,22.652372,<none>
+438,<none>,CA,Sudbury,ON,3108 Barrydowne Road,P3E 5K3,46.409596,-81.031642,<none>
+439,<none>,BE,Ebly,WHT,Ringlaan 29,6860,49.780042,5.583428,<none>
+440,<none>,IS,Reykjahlíð,,Ennisbraut 94,660,64.175895,-21.899378,<none>
+441,<none>,NL,Apeldoorn,GE,Mariastraat 180,7311 HM,52.144231,6.048944,<none>
+442,<none>,BR,São Paulo,SP,Rua Padre Machado 724,04127-000,-23.622881,-46.668045,<none>
+443,<none>,CY,ΦΛΑΣΟΥ ΚΑΤΩ,NI,Βρασίδα 165,2843,41.258865,-72.989698,<none>
+444,<none>,NZ,Frankleigh Park,,211 Dale Street,4310,-39.064528,174.142063,<none>
+445,<none>,CY,ΜΕΣΑ ΓΕΙΤΟΝΙΑ,LI,Μυκόνου 36,4006,41.386879,-72.937919,<none>
+446,<none>,FI,VAASA,OS,Rörgrunsvägen 56,65370,63.140981,21.667257,<none>
+447,<none>,NL,Amsterdam,NH,Overtoom 14,1054 JN,52.398646,4.864491,<none>
+448,<none>,CA,Toronto,ON,106 Eglinton Avenue,M4P 1A6,43.747368,-79.40856,<none>
+449,<none>,US,Morristown,NJ,4369 Drummond Street,7960,40.779783,-74.490397,<none>
+450,<none>,TN,Cite Kichtilou,31,112 Rue Gafsa,9014,36.863536,10.083362,<none>
+451,<none>,GB,CLAYHANGER,,61 Friar Street,EX16 5AR,50.426702,-4.00439,<none>
+452,<none>,NL,Schoonebeek,DR,Europaweg 24,7761 AM,52.748566,6.831674,<none>
+453,<none>,UY,Algorta,PA,Tacuarembo 9069,60002,-32.45919,-57.374478,<none>
+454,<none>,SI,Jesenice,,Letališka 115,4270,46.337667,14.087401,<none>
+455,<none>,GL,Narsarsuaq,KU,Postbox 273,3923,61.203411,-45.320325,<none>
+456,<none>,CY,ΣΤΡΟΒΟΛΟΣ,NI,Καστελλόκαμπος 40,2034,41.400261,-72.83559,<none>
+457,<none>,IS,Seltjarnarnes,,Snorragata 10,172,64.184568,-21.931453,<none>
+458,<none>,UY,Montevideo,MO,Arenales 9115,12200,-34.830532,-56.131421,<none>
+459,<none>,SE,KNUTBY,,Östra Förstadsgatan 15,740 12,59.917181,18.215423,<none>
+460,<none>,IS,Breiðdalsvík,,Solvellir 16,760,64.772454,-13.950717,<none>
+461,<none>,PT,Loriga,GU,R Principal 3,6270-128,40.506876,-7.627302,<none>
+462,<none>,AU,BALLIDU,WA,47 Porana Place,6606,-30.559931,116.756603,<none>
+463,<none>,ZA,Warrenton,NC,971 Telford Ave,8530,-28.205863,24.892159,<none>
+464,<none>,CH,Ziegelbrücke,,Püntstrasse 94,8866,47.061949,9.122611,<none>
+465,<none>,NO,ROLVSØY,,Røslyngveien 6,1663,59.282372,11.052316,<none>
+466,<none>,IS,Hrísey,,Nordurvegur 94,630,64.260681,-15.198057,<none>
+467,<none>,NL,Roosendaal,NB,Van Goghlaan 114,4703 JJ,51.586023,4.476708,<none>
+468,<none>,GL,Kangerlussuaq,QE,P.O. Box 208,3910,77.476575,-67.012307,<none>
+469,<none>,PL,Sosnowiec,,ul. Głogowa 125,41-200,50.31316,19.219196,<none>
+470,<none>,IT,San Giacomo Roncole,MO,Via Giacinto Gigante 50,41037,44.813677,11.086909,<none>
+471,<none>,CH,Davos Platz,,Dreibündenstrasse 50,7270,46.731773,9.800607,<none>
+472,<none>,AU,ROCKY CREEK,QLD,69 Railway Street,4357,-27.836681,151.123689,<none>
+473,<none>,SE,BURTRÄSK,,Bursiljum 85,937 55,64.45439,20.737589,<none>
+474,<none>,CA,Rouyn,QC,4670 rue Principale,J9X 4M6,48.298079,-78.98232,<none>
+475,<none>,SI,Mirna Peč,,Parmova 88,8216,45.954594,15.147396,<none>
+476,<none>,BE,Liedekerke,VBR,Ramselsesteenweg 174,1770,50.904361,4.051512,<none>
+477,<none>,CZ,Cáslav,ST,Klimenta Čermáka 444,286 01,49.850162,15.364832,<none>
+478,<none>,BE,Rillaar,VBR,Rue de Fontigny 313,3202,50.903088,4.777093,<none>
+479,<none>,DK,Esbjerg,SY,Brogade 8,6701,55.51966,8.520701,<none>
+480,<none>,CZ,Choryne,ZL,Příční 352,756 42,49.5661,17.999268,<none>
+481,<none>,PT,Santa Leocádia de Geraz do Lima,VC,Avenida Boavista 6,4905-559,41.731713,-8.550291,<none>
+482,<none>,PT,Chavão,BR,R Bacelo 2,4775-260,41.441669,-8.655647,<none>
+483,<none>,DK,Vildbjerg,MI,Slåenhaven 7,7480,56.265489,8.731086,<none>
+484,<none>,NL,Leiden,ZH,Jacob van Campenlaan 73,2321 GJ,52.062448,4.48151,<none>
+485,<none>,NZ,Springfield,,134 Emerald Street,3015,-38.081574,176.267907,<none>
+486,<none>,BR,Araçatuba,SP,Rua Terezinha de Nadai 387,16012-220,-21.131353,-50.536068,<none>
+487,<none>,CH,Saxon,,Landstrasse 124,1907,46.131383,7.108398,<none>
+488,<none>,CH,Thalheim an der Thur,,Lungolago 26,8478,47.662791,8.715137,<none>
+489,<none>,BR,Brasília,DF,Quadra CLN 106 1600,70742-500,-15.889902,-47.538545,<none>
+490,<none>,AU,PICCADILLY,SA,15 Henley Beach Road,5151,-35.029481,138.694903,<none>
+491,<none>,CA,Edmonton,AB,4320 137th Avenue,T5B 3V4,53.593552,-113.503392,<none>
+492,<none>,FI,PYHÄJOKI,NO,Kuhnustantie 75,86100,64.369012,24.265681,<none>
+493,<none>,CA,Surrey,BC,3990 King George Hwy,V3W 4E3,49.196161,-122.893438,<none>
+494,<none>,NL,Rotterdam,ZH,Boxbergenstraat 60,3077 JS,51.854445,4.494769,<none>
+495,<none>,CZ,Rajhrad,JM,Václava Haňky 1194,664 61,48.995388,16.558473,<none>
+496,<none>,BE,Bon-Secours,WHT,Blancefloerlaan 333,7603,50.562467,3.586794,<none>
+497,<none>,FR,LA ROCHE-SUR-YON,PL,29 rue du Clair Bocage,85000,46.655864,-1.455552,<none>
+498,<none>,IT,Capo Di Ponte,BS,Largo Febo 45,25044,46.058389,10.360385,<none>
+499,<none>,AT,SCHLAG,NO,Aspernstrasse 43,4141,48.518289,13.893896,<none>
+500,<none>,TN,Cite 7 Novembre,61,31 Avenue Trimeche,3036,36.74894,10.048556,<none>
+501,<none>,CY,Kokkinotrimithia,NI,177 Naxou Street,2660,41.341337,-72.894841,<none>
+502,<none>,NZ,One Tree Hill,,3 Olea Road,1061,-36.828917,174.798317,<none>
+503,<none>,FI,KERAVA,UU,Massbyntie 80,4260,60.451179,25.092632,<none>
+504,<none>,NO,TROMSØ,,Stallovegen 211,9016,69.662986,18.967328,<none>
+505,<none>,SE,DALARÖ,,Storgatan 32,130 54,59.039668,18.432258,<none>
+506,<none>,TN,Cite El Abadla,73,2 Rue Al Atef,4215,33.470691,8.970084,<none>
+507,<none>,NL,Heerenveen,FR,Willem de Zwijgerlaan 176,8448 MJ,52.905696,5.882362,<none>
+508,<none>,NO,SARPSBORG,,Østagløtt 23,1727,59.191342,11.189161,<none>
+509,<none>,GL,Tasiilaq,SM,Napparngummut 232,3913,65.670785,-37.565239,<none>
+510,<none>,UY,Sequeira,AR,Rigoberto Lopez 6838,55007,-31.12602,-56.802517,<none>
+511,<none>,HU,Ópályi,SZ,Bem rakpart 3.,4821,48.05637,22.267854,<none>
+512,<none>,ZA,Madikwe,NW,21 First Ave,2842,-25.405864,26.479617,<none>
+513,<none>,BR,Osasco,SP,Rua do Sacrifício 635,06124-232,-23.544248,-46.719098,<none>
+514,<none>,TN,Zaten Haddej,81,39 Rue Abdelaziz Thâalbi,6043,36.972613,10.115948,<none>
+515,<none>,NZ,Horahora,,107 Ballagh Close,110,-35.790369,174.360213,<none>
+516,<none>,TN,El Menzah 7,12,96 Rue Ibn Al Khatib,2037,36.874509,10.166668,<none>
+517,<none>,AU,LEDA,WA,62 Friar John Way,6170,-32.297883,115.907939,<none>
+518,<none>,CY,Frenaros,FA,220 Trianton Avenue,5350,41.236492,-72.935755,<none>
+519,<none>,GL,Pituffik,QA,P.O. Box 227,3970,76.557173,-68.919749,<none>
+520,<none>,IT,Montemale Di Cuneo,CN,Piazza Trieste e Trento 127,12025,44.477296,7.258493,<none>
+521,<none>,ZA,New Brighton,GA,411 Uitsig St,6202,-33.965567,25.673714,<none>
+522,<none>,NO,HVALSTAD,,Brusethagen 31,1395,59.799738,10.436314,<none>
+523,<none>,ZA,Kimberley,NC,1955 Mosman Rd,8335,-28.737415,24.817879,<none>
+524,<none>,EE,Koipsi,HA,Teemeistri 17,74215,59.511612,25.203444,<none>
+525,<none>,PL,Racibórz,,ul. Głubczycka 103,47-400,50.139689,18.131237,<none>
+526,<none>,PT,Pedroso,PO,R Parque Gondarim 116,4415-163,40.980492,-8.599583,<none>
+527,<none>,PL,Gdynia,,ul. Kołodziejska 52,81-164,54.538392,18.622146,<none>
+528,<none>,HU,Répceszentgyörgy,VA,Victor Hugo u. 73.,9623,47.331024,16.924573,<none>
+529,<none>,CY,ΛΕΥΚΩΣΙΑ,NI,Καλαμπάκα 61,1414,41.288704,-72.965694,<none>
+530,<none>,TN,Village Essahli,12,55 Rue Ibn Al Khatib,2036,36.907283,10.173363,<none>
+531,<none>,HU,Szolnok,JN,Apor Péter u. 20.,5008,47.113572,20.131321,<none>
+532,<none>,NZ,Roslyn,,14 Mowat Street,9010,-45.83552,170.481707,<none>
+533,<none>,NO,ASKER,,Båstadveien 123,1387,59.893495,10.523572,<none>
+534,<none>,FR,MILLAU,MP,16 rue Bonneterie,12100,44.01734,2.983143,<none>
+535,<none>,US,Milwaukee,WI,3058 Larry Street,53202,43.010182,-87.851963,<none>
+536,<none>,BE,Warquignies,WHT,Rue Libert 197,7340,50.435081,3.873057,<none>
+537,<none>,PL,Bydgoszcz,,ul. Słowiańska 63,85-163,53.244498,18.099464,<none>
+538,<none>,GL,Qasigiannguit,QA,Magrethevej 138,3951,68.722702,-51.217718,<none>
+539,<none>,PL,Warszawa/Wesoła,,ul. Krasickiego Ignacego 42,05-075,52.239569,20.983954,<none>
+540,<none>,GL,Uummannaq,QA,P.O. Box 81,3961,70.600637,-50.10605,<none>
+541,<none>,NZ,North Putaruru,,106 Parapara Road,3410,-38.030399,175.809974,<none>
+542,<none>,FR,MARSEILLE,PA,35 rue Beauvau,13004,43.379195,5.458931,<none>
+543,<none>,PT,Casal das Figueiras,LE,R Frei Fortunato 79,2460-175,39.523284,-9.065181,<none>
+544,<none>,PL,Toruń,,ul. Hallera 56,87-103,53.080854,18.566815,<none>
+545,<none>,ES,Navales,SA,Plazuela do Porto 21,37880,40.775368,-5.449645,<none>
+546,<none>,NL,Groningen,GR,Oosterhavenstraat 171,9711 SB,53.284332,6.480594,<none>
+547,<none>,GB,MYDDFAI,,24 Ilchester Road,SA20 4JG,51.820751,-4.388569,<none>
+548,<none>,FR,CHOISY-LE-ROI,IL,95 rue Ernest Renan,94600,48.77311,2.457134,<none>
+549,<none>,DK,København K,SJ,Slipager 15,1429,55.710563,12.596146,<none>
+550,<none>,GL,Arsuk,SM,P.O. Box 76,3932,61.167089,-48.51858,<none>
+551,<none>,FI,NOUSIAINEN,VS,Kerkkolankatu 24,21270,60.676108,22.163211,<none>
+552,<none>,ES,Montemayor,CO,Carretera 40,14530,37.745593,-4.630204,<none>
+553,<none>,HU,Marócsa,BA,Agip u. 73.,7960,45.877557,17.820552,<none>
+554,<none>,NL,Amsterdam,NH,Twee Koningskinderenstraat 11,1055 DH,52.435079,4.810101,<none>
+555,<none>,ZA,Oudtshoorn,WC,1520 Oxford St,6633,-33.550541,22.275717,<none>
+556,<none>,IS,Reykjavík,,Keflavíkurgata 2,129,64.176439,-21.895069,<none>
+557,<none>,ES,Albinyana,T,Outid de Arriba 90,43716,41.24013,1.395169,<none>
+558,<none>,PT,Casal,AV,Rua Cabral Antunes 10,3740-418,40.562558,-8.390435,<none>
+559,<none>,BR,Campinas,SP,Rua João Guimarães Rosa 1345,13083-400,-22.836691,-47.01943,<none>
+560,<none>,BR,Uberaba,MG,Rua Sem Nome II 1537,38038-374,-19.459972,-47.942479,<none>
+561,<none>,HU,Sajósenye,BZ,Szent Gellért tér 32.,3712,48.144552,20.82424,<none>
+562,<none>,PT,Parada de Pinhão,VR,Rua Loreto 73,5060-125,41.174046,-7.822403,<none>
+563,<none>,HU,Nagyberki,SO,Szilágyi Erzsébet fasor 13.,7255,46.31874,18.089145,<none>
+564,<none>,SE,TÖCKSFORS,,Fälloheden 28,670 10,59.423253,11.870092,<none>
+565,<none>,CZ,Nové Mesto nad Metují 1,KR,Bratří Čapků 762,549 01,50.26732,16.090446,<none>
+566,<none>,AT,BODENBERG,SZ,Davidschlag 67,5652,47.282774,12.900002,<none>
+567,<none>,ZA,Giyani,LI,834 Nelson Mandela Drive,826,-23.413742,30.635839,<none>
+568,<none>,NL,Amstelveen,NH,Bankrasweg 37,1183 TR,52.162662,4.866057,<none>
+569,<none>,NO,TROMSØ,,Ishavsvegen 234,9010,69.703183,18.87314,<none>
+570,<none>,US,Columbus,OH,3250 Bates Brothers Road,43215,39.872856,-82.988119,<none>
+571,<none>,NL,Brakel,GE,Molenkamp 5,5306 GL,51.822193,4.991145,<none>
+572,<none>,UY,Artigas,AR,Joaquin Suarez 8792,55000,-30.33071,-57.570815,<none>
+573,<none>,NL,Waspik,NB,Lindenheuvel 76,5165 AZ,51.706756,4.989358,<none>
+574,<none>,FR,BOULOGNE-SUR-MER,NP,52 rue Petite Fusterie,62200,50.640265,1.639571,<none>
+575,<none>,EE,Mäletjärve,TA,Merineitsi põik 38,62307,58.270705,26.832615,<none>
+576,<none>,CY,Limassol,LI,185 Melissinou Street,3060,41.355343,-72.906517,<none>
+577,<none>,HU,Palotabozsok,BA,Kossuth Lajos u. 39.,7727,46.076895,18.737253,<none>
+578,<none>,DE,Kirchberg,BW,Joachimstaler Str. 99,88486,48.058233,10.008689,<none>
+579,<none>,CY,ΛΕΥΚΩΣΙΑ,NI,Πανεπιστημιούπολη Κομοτηνής 249,1066,41.404907,-72.958063,<none>
+580,<none>,CY,Limassol,LI,50 Melissinou Street,3050,41.249654,-72.835221,<none>
+581,<none>,CZ,Kromeríž 1,ZL,Petrželka 704,767 01,49.31011,17.434719,<none>
+582,<none>,BR,Santos,SP,Avenida Osório de Almeida 126,11013-735,-23.912055,-46.263729,<none>
+583,<none>,CA,Oakbank,MB,4136 2nd Street,R0E 1J0,50.039197,-96.748579,<none>
+584,<none>,IT,San Desiderio,AT,Via Solfatara 13,14031,45.010012,8.380725,<none>
+585,<none>,GB,WOODLESFORD,,14 Redcliffe Way,LS26 6NW,53.743916,-1.422901,<none>
+586,<none>,ES,Valls,T,Bouciña 16,43800,41.248728,1.16038,<none>
+587,<none>,NZ,Islington,,156 Washington Crescent,7201,-41.598251,174.041938,<none>
+588,<none>,CY,Egkomi,NI,255 M. Portaliou Street,2412,41.414551,-72.931353,<none>
+589,<none>,NL,Echt,LI,Röntgenweg 6,6101 XD,51.013341,5.782501,<none>
+590,<none>,CH,Betten,,Grossmatt 120,3991,46.324211,8.131171,<none>
+591,<none>,GL,Qaanaaq,QA,P.O. Box 165,3971,77.40914,-69.366212,<none>
+592,<none>,CZ,Blatná,JC,Budovatelská 420,388 01,49.347245,13.937732,<none>
+593,<none>,ZA,Umlazi,KN,1714 Gray Pl,4089,-30.028978,30.97308,<none>
+594,<none>,BE,Vurste,VOV,De Veurs Comberg 403,9890,50.887974,3.734447,<none>
+595,<none>,NZ,Alicetown,,205 Cherry Blossom Grove,5010,-41.279904,174.88644,<none>
+596,<none>,FR,SAINT-MÉDARD-EN-JALLES,AQ,83 rue des Dunes,33160,44.775909,-0.638166,<none>
+597,<none>,IS,Þingeyri,,Bjarkarstígur 40,470,65.953434,-23.438529,<none>
+598,<none>,BE,Lokeren,VOV,Rue du Château 9,9160,51.076087,4.026793,<none>
+599,<none>,PT,Olhalvo,LI,Avenida Almirante Reis 1,2580-217,39.159581,-9.043868,<none>
+600,<none>,CA,Ottawa,ON,4017 Montreal Road,K1L 6C7,45.502532,-75.716091,<none>
+601,<none>,IT,Palermo,PA,Via Genova 85,90148,38.174842,13.199807,<none>
+602,<none>,CY,Malounta,NI,282 Parthenonos Street,2612,41.293964,-73.006813,<none>
+603,<none>,GB,HAXTED,,93 Newmarket Road,TN8 6BF,51.101819,0.013498,<none>
+604,<none>,BR,São Paulo,SP,Rua Antônio de Toledo Lara Filho 1884,03678-050,-23.671927,-46.606046,<none>
+605,<none>,AT,LUISING,BU,Schützengartenstrasse 46,7522,47.114932,16.504975,<none>
+606,<none>,CZ,Tišnov 3,JM,Vrchlického 191,666 03,49.322524,16.546186,<none>
+607,<none>,CY,ΜΟΝΗ ΚΑΤΩ,NI,Φίλωνος 38,2776,41.259677,-73.009344,<none>
+608,<none>,GL,Danmarkshavn,NGNP,P.O. Box 126,3984,76.891811,-18.686952,<none>
+609,<none>,IS,Reykjavík,,Hverafold 70,111,64.112825,-21.948794,<none>
+610,<none>,SE,DROTTNINGSKÄR,,Bössgränd 13,370 22,56.117019,15.613682,<none>
+611,<none>,IT,Serpiano,MO,Via Giacinto Gigante 103,41020,44.149733,10.717067,<none>
+612,<none>,BR,Natal,RN,Praça Itaituba 1424,59124-660,-5.851106,-35.305988,<none>
+613,<none>,FR,FLEURY-LES-AUBRAIS,CE,57 rue Charles Corbeau,45400,47.937658,1.960331,<none>
+614,<none>,IS,Hólmavík,,Hafnarbraut 57,510,65.654465,-21.774436,<none>
+615,<none>,SI,Radlje ob Dravi,,Turjaška 63,2360,46.689239,15.31563,<none>
+616,<none>,ES,Puebla de Guzmán,H,C/ Cañada del Rosal 76,21550,37.547684,-7.303996,<none>
+617,<none>,HU,Tápiósüly,,Síp utca 19.,2241,47.434198,19.490332,<none>
+618,<none>,AU,CAMBRIAN HILL,VIC,38 Sunraysia Road,3352,-37.56028,143.803861,<none>
+619,<none>,ZA,Nelspruit,MP,665 Oost St,1132,-25.47115,30.935877,<none>
+620,<none>,PT,Sines,SE,R São Gonçalo 17,7520-266,38.093736,-8.693523,<none>
+621,<none>,HU,Marócsa,BA,Agip u. 84.,7960,45.854271,17.718079,<none>
+622,<none>,FR,NANTES,PL,12 rue de Raymond Poincaré,44200,47.174043,-1.48411,<none>
+623,<none>,ES,Matapozuelos,VA,Calvo Sotelo 5,47230,41.469466,-4.764148,<none>
+624,<none>,IT,San Michele Di Tiorre,PR,Piazzetta Concordia 49,43030,44.775685,10.28495,<none>
+625,<none>,TN,Cite Commerciale,43,100 Rue Abdelaziz Thâalbi,9180,35.640377,10.021888,<none>
+626,<none>,DE,Neu-Ulm,BY,Frankfurter Allee 98,89233,48.395816,10.049129,<none>
+627,<none>,ZA,Belfast,MP,2402 Oost St,1153,-24.904937,31.320725,<none>
+628,<none>,CY,∆ΩΡΑ,LI,Ερμού 94,4774,41.397436,-72.989066,<none>
+629,<none>,DK,Bogense,SY,Askelund 33,5400,55.583048,10.134561,<none>
+630,<none>,CH,Frick,,Im Sandbüel 73,5070,47.454912,7.933007,<none>
+631,<none>,CA,Port Perry,ON,1967 Bridgeport Rd,L9L 1K2,44.13185,-79.014741,<none>
+632,<none>,EE,Ruusmäe,VR,Tehnika 89,65102,57.708227,27.165744,<none>
+633,<none>,EE,Järva-Jaani,JR,Männiku 99,73311,58.962271,25.927864,<none>
+634,<none>,NL,Zwolle,OV,Potmarge 196,8032 LC,52.448871,6.150409,<none>
+635,<none>,IS,Reykjavík,,Túnbraut 35,123,64.086783,-22.046098,<none>
+636,<none>,NZ,Thorndon,,113 Pat Lawlor Close,6011,-41.25889,174.822732,<none>
+637,<none>,SI,Košana,,Kolodvorska 46,6256,45.56705,14.289554,<none>
+638,<none>,IS,Reykjavík,,Hnjúkabyggð 78,121,64.120118,-22.006282,<none>
+639,<none>,PT,Cabo Vila,VI,R Sardinha 37,3670-013,40.729279,-8.214001,<none>
+640,<none>,IT,Capanne Vecchie,GR,Corso Vittorio Emanuele 21,58024,43.079436,10.876658,<none>
+641,<none>,TN,Hammam Lif,13,137 Rue de Rafraf,2050,36.90178,10.12042,<none>
+642,<none>,SI,Ljubljana,,Ilichova 50,1000,45.988476,14.48501,<none>
+643,<none>,EE,Kingli,SA,Raua põik 89,94433,58.394403,23.063633,<none>
+644,<none>,GL,Paamiut,SM,Illoqarfiup Qeppa 132,3940,62.000383,-49.691056,<none>
+645,<none>,CZ,Pyšely,ST,Jana Šťastného 770,251 67,49.887999,14.763757,<none>
+646,<none>,FI,RISTIJÄRVI,KA,Kaarikatu 84,88400,64.412722,28.195035,<none>
+647,<none>,AU,LINBURN,NSW,22 Amiens Road,2850,-32.76005,149.838527,<none>
+648,<none>,ES,Sesma,NA,Rio Segura 33,31293,42.431588,-2.058723,<none>
+649,<none>,SE,BANKERYD,,Nytorpsvägen 90,564 00,57.948262,14.103501,<none>
+650,<none>,US,Lacey,WA,1686 Pratt Avenue,98503,46.9704,-122.880093,<none>
+651,<none>,NL,Bladel,NB,Rondweg 68,5531 AJ,51.299669,5.240386,<none>
+652,<none>,FR,VALLAURIS,PA,87 avenue de Provence,6220,43.520721,7.131028,<none>
+653,<none>,UY,San Javier,PA,Colonia Ofir 2123,65001,-32.642469,-58.086628,<none>
+654,<none>,CH,Rosshäusern,,Brunnenstrasse 118,3204,46.940105,7.224881,<none>
+655,<none>,CA,Malton,ON,2024 Derry Rd,L4T 1A8,43.769213,-79.612006,<none>
+656,<none>,PL,Wrocław,,ul. Ubocze 101,51-521,51.09186,16.986489,<none>
+657,<none>,DK,Frederiksberg C,SJ,Østervoldgade 14,1956,55.765836,12.484593,<none>
+658,<none>,BE,Jabbeke,VWV,Booischotseweg 459,8490,51.188657,3.064514,<none>
+659,<none>,EE,Põru,VR,Kase 54,66271,58.072421,26.209024,<none>
+660,<none>,NZ,Moana,,200 Norfolk Place,7011,-41.300834,173.281916,<none>
+661,<none>,DK,Vils,NO,Gartnervænget 5,7980,56.689349,8.752196,<none>
+662,<none>,PT,Odivelas,LI,Praça Teófilo Braga 15,2675-320,38.931223,-9.114944,<none>
+663,<none>,DK,København K,SJ,Lersey Allé 38,1248,55.666995,12.646991,<none>
+664,<none>,CY,ΛΑΡΝΑΚΑ,LA,Ηλίου 14,6035,41.374823,-72.859384,<none>
+665,<none>,NO,BODØ,,Bremnesveien 176,8015,67.275364,14.40681,<none>
+666,<none>,HU,Tiszasas,JN,Veres Pálné u. 77.,5474,46.809713,20.071552,<none>
+667,<none>,ES,Baltanás,P,Ctra. Villena 65,34240,41.882031,-4.348408,<none>
+668,<none>,PL,Mysłowice,,ul. Ogrodowa 85,41-408,50.283073,19.091495,<none>
+669,<none>,ES,Montejo,SA,Rúa de San Pedro 98,37795,40.537564,-5.647512,<none>
+670,<none>,PL,Warszawa,,ul. Kartograficzna 83,03-290,52.246452,21.00906,<none>
+671,<none>,HU,Szada,PE,Síp utca 86.,2111,47.640592,19.338409,<none>
+672,<none>,CY,Lazanias,NI,227 Marathonos Street,2618,41.248398,-72.823543,<none>
+673,<none>,CZ,Sezimovo Ústí 2,JC,Stožická 1235,391 02,49.410484,14.638472,<none>
+674,<none>,CA,Ottawa,ON,3208 Merivale Road,K2G 3K2,45.328736,-75.633105,<none>
+675,<none>,ES,Navas del Rey,M,C/ Eras 32,28754,40.923299,-3.665912,<none>
+676,<none>,AU,HOMEBUSH,QLD,39 Hay Point Road,4740,-21.27639,149.032684,<none>
+677,<none>,UY,Belén,SA,Yapeyu 8447,50001,-30.726405,-57.819164,<none>
+678,<none>,GL,Ikerasassuaq,KU,P.O. Box 226,3924,60.108628,-43.161528,<none>
+679,<none>,NL,Rotterdam,ZH,Nieuwe Crooswijkseweg 46,3034 PN,51.912457,4.427652,<none>
+680,<none>,CY,Angolemi,NI,138 Sounio Avenue,2826,41.301286,-72.918565,<none>
+681,<none>,DK,Bedsted Thy,NO,Søndre Havnevej 46,7755,56.930478,8.524955,<none>
+682,<none>,TN,Cite Neguira,21,78 Rue de Tanger,8010,36.50561,10.736222,<none>
+683,<none>,FR,BÉZIERS,LN,26 rue Marie de Médicis,34500,43.338685,3.233289,<none>
+684,<none>,AT,EDLACH,NO,Im Astenfeld 6,3281,48.139092,15.208146,<none>
+685,<none>,IS,Suðureyri,,Hafnarstræti 16,430,66.053727,-23.473804,<none>
+686,<none>,UY,Ecilda Paullier,SJ,Ibirapita 2803,80002,-34.317988,-57.134998,<none>
+687,<none>,CY,Nicosia,NI,88 Akti Miaouli Street,1683,41.253346,-72.909802,<none>
+688,<none>,AU,LITTLE SANDY DESERT,WA,13 Grey Street,6646,-25.228473,122.347291,<none>
+689,<none>,BE,Langemark,VWV,Linieweg 351,8920,50.995773,2.791396,<none>
+690,<none>,ES,La Pola de Gordón,LE,Plaza Colón 18,24600,42.84006,-5.614342,<none>
+691,<none>,FR,ALÈS,LN,13 rue de Geneve,30100,44.192681,4.015872,<none>
+692,<none>,FR,AMIENS,PI,94 rue de Geneve,80000,49.924051,2.286284,<none>
+693,<none>,IS,Vík,,Grýtubakki 77,871,66.077906,-18.72149,<none>
+694,<none>,NO,NOTODDEN,,Landstads gate 147,3675,59.560435,9.344437,<none>
+695,<none>,PL,Łódź,,ul. Okręglik 140,91-227,51.712746,19.534747,<none>
+696,<none>,DK,København K,SJ,Mosegårdsvej 79,1065,55.60945,12.577291,<none>
+697,<none>,IS,Reykjavík,,Túnbraut 14,123,64.210068,-21.925205,<none>
+698,<none>,UY,Mendoza Chico,FD,Del Sauzal 1496,94006,-34.187387,-56.219767,<none>
+699,<none>,SE,SMEDSTORP,,Södra Kroksdal 66,273 66,55.608669,14.188814,<none>
+700,<none>,BR,Garanhuns,PE,Rua São Bento 150,55295-340,-8.887273,-36.507273,<none>
+701,<none>,GL,Nuuk,SM,Aqqusinersuaq 173,3900,64.182711,-51.761143,<none>
+702,<none>,ES,Atajate,MA,C/ Cuesta del  Álamo 74,29494,36.622603,-5.296856,<none>
+703,<none>,AU,BALLARAT CENTRAL,VIC,75 Fitzroy Street,3350,-37.60299,143.84372,<none>
+704,<none>,ES,Nestares,LO,Plaza Colón 71,26110,42.35626,-2.714617,<none>
+705,<none>,GB,EASTINGTON,,73 Haslemere Road,EX17 4TU,50.663938,-3.745937,<none>
+706,<none>,SI,Sv. Trojica v Slovenskih goricah,,Dunajska 4,2235,46.494046,15.935066,<none>
+707,<none>,ES,Sieteiglesias de Tormes,SA,Plazuela do Porto 49,37892,40.675625,-5.599114,<none>
+708,<none>,DK,Frederiksberg C,SJ,Strandgade 39,1928,55.746549,12.552631,<none>
+709,<none>,ES,Cañete de las Torres,CO,Carretera 89,14660,37.786559,-4.319757,<none>
+710,<none>,SI,Krmelj,,Kolodvorska 107,8296,46.014509,15.23477,<none>
+711,<none>,HU,Nagypeterd,BA,Agip u. 97.,7912,46.062875,17.988269,<none>
+712,<none>,DE,Leipzig,SN,Prenzlauer Allee 35,4299,51.29202,12.39734,<none>
+713,<none>,CY,ΛΕΜΕΣΟΣ,LI,Πάνου 298,3013,41.249215,-72.920392,<none>
+714,<none>,TN,Cite Erriadhi 1,31,68 Rue Pasteur,9000,36.954299,10.108761,<none>
+715,<none>,AT,SICHART,ST,Wurmbrandgasse 89,8254,47.47236,15.747665,<none>
+716,<none>,FI,VARKAUS,NS,Kartanomäenkatu 49,78310,62.27519,27.863482,<none>
+717,<none>,CA,Kitchener,ON,1165 Benton Street,N2G 4L9,43.438225,-80.506395,<none>
+718,<none>,TN,Cite Des Roses,83,20 Rue Ibn El-Jazzar,3200,33.822469,10.156476,<none>
+719,<none>,CZ,Ostrov nad Ohrí,KA,Tylova 577,363 01,50.394657,13.126106,<none>
+720,<none>,IT,Gambassi Terme,FI,Piazza Principe Umberto 77,50050,43.754661,10.854309,<none>
+721,<none>,CY,Kampos,NI,126 Athenas St.,2863,41.244965,-72.813959,<none>
+722,<none>,NL,Puth,LI,Bovenste Puth 107,6155 NE,50.863211,5.788749,<none>
+723,<none>,ES,Valdeavero,M,C/ Amoladera 81,28816,40.627427,-3.289752,<none>
+724,<none>,TN,Cite El Amel 2,81,97 Rue Hedi Labidi,6033,36.889574,10.022844,<none>
+725,<none>,CH,Oberschrot,,Damunt 15,1716,46.691242,7.222583,<none>
+726,<none>,NO,MATHOPEN,,Kongsmyrveien 33,5174,60.32873,5.292897,<none>
+727,<none>,TN,El Maghni,83,71 Rue Moftah Jguirim,3240,30.270792,9.588043,<none>
+728,<none>,GB,COLLIN,,28 Eastbourne Rd,DG1 7UD,55.057517,-3.364409,<none>
+729,<none>,BR,Santana de Parnaíba,SP,Rua Satélite 1240,06531-100,-23.487081,-46.907956,<none>
+730,<none>,BE,Tihange,WLG,Westdorp 29,4500,50.614309,5.177922,<none>
+731,<none>,GL,Kulusuk,SM,P.O. Box 122,3915,65.470602,-37.149259,<none>
+732,<none>,UY,Santa Ana,CA,Lavalleja 4613,16402,-34.450124,-56.0252,<none>
+733,<none>,DE,Holzweißig,ST,Flotowstr. 72,6806,51.54019,12.375163,<none>
+734,<none>,CH,Suscévaz,,Via Muraccio 113,1437,46.849774,6.648178,<none>
+735,<none>,CH,Zürich,,Brunnacherstrasse 38,8006,47.444816,8.58986,<none>
+736,<none>,CY,ΛΕΜΕΣΟΣ,LI,Πάνου 272,3022,41.382807,-73.00147,<none>
+737,<none>,HU,Balatonbozsok,,Teréz krt. 17.,8131,46.894481,18.30493,<none>
+738,<none>,EE,Ürjaste,HA,Jakobi 77,76214,59.153429,24.284447,<none>
+739,<none>,NZ,Waverley,,176 Exmouth Street,9810,-46.305025,168.352906,<none>
+740,<none>,SE,ROBERTSFORS,,Nittsjö Kvarngatu 2,915 00,64.107463,20.867687,<none>
+741,<none>,DE,Velden,BY,Jahnstrasse 97,91234,48.40363,12.209474,<none>
+742,<none>,EE,Jõgela,SA,Pagari 19,93312,58.301462,22.516289,<none>
+743,<none>,CZ,Dobrá,MO,Za učilištěm 328,739 51,49.587125,18.387345,<none>
+744,<none>,HU,Veszkény,GS,Wesselényi u. 26.,9352,47.697223,17.041773,<none>
+745,<none>,CY,Strovolos,NI,234 Akti Pagalou,2043,41.292321,-72.904726,<none>
+746,<none>,CZ,Vikýrovice,OL,Bezručova 447,788 13,50.047987,17.026435,<none>
+747,<none>,ZA,Durban,KN,1498 Gray Pl,4062,-29.790404,31.038695,<none>
+748,<none>,GL,Narsarsuaq,KU,Postbox 274,3923,61.221929,-45.492885,<none>
+749,<none>,TN,Cite El Gaied,21,43 Rue des pyramides,8021,36.602058,10.551651,<none>
+750,<none>,US,Green Valley,IL,68 Coburn Hollow Road,61534,40.398393,-89.612847,<none>
+751,<none>,EE,Muusika,HA,Männi 8,76309,59.147582,24.396398,<none>
+752,<none>,IT,Peia,BG,Via Lombardi 100,24020,45.967122,9.995159,<none>
+753,<none>,CA,Regina,SK,2775 Wascana Parkway,S4S 2R3,50.380029,-104.524098,<none>
+754,<none>,IT,Pretola,PG,Via Tasso 100,6070,43.03646,12.315595,<none>
+755,<none>,GL,Kulusuk,SM,P.O. Box 267,3915,65.588728,-37.127378,<none>
+756,<none>,CY,ΧΛΩΡΑΚΑΣ,PA,Λ. Αλεξάνδρας 145,8220,41.371588,-72.987255,<none>
+757,<none>,PT,Baião,PO,Rua Heróis Ultramar 3,4640-107,41.084826,-7.94016,<none>
+758,<none>,AU,GOSNELLS,WA,21 Chatsworth Drive,6110,-32.076223,115.910493,<none>
+759,<none>,SE,FALSTERBO,,Östantorp Vinö 2,230 11,55.331594,12.877851,<none>
+760,<none>,GL,Arsuk,SM,P.O. Box 116,3932,61.070095,-48.506259,<none>
+761,<none>,GB,DOWN ST MARY,,70 Prospect Hill,EX17 1LP,50.709449,-3.753998,<none>
+762,<none>,GL,Maniitsoq,QE,Postbox 199,3912,65.329776,-52.82911,<none>
+763,<none>,HU,Surány,,Árpád fejedelem útja 70.,2017,47.762673,19.061177,<none>
+764,<none>,CY,ΛΕΥΚΩΣΙΑ,NI,Τρικάλων 105,1680,41.302248,-72.876289,<none>
+765,<none>,AU,DURHAM LEAD,VIC,11 Sunraysia Road,3352,-37.591364,143.841634,<none>
+766,<none>,IS,Vopnafjörður,,Svarfaðarbraut 11,690,65.775125,-14.785251,<none>
+767,<none>,NZ,Whiterigg,,240 Tower Lane,9710,-46.023001,168.923529,<none>
+768,<none>,AU,PARK GROVE,TAS,30 Gilbert Street,7320,-41.025747,145.874688,<none>
+769,<none>,PT,Perelhal,BR,R Cruzes 31,4750-624,41.698714,-8.453579,<none>
+770,<none>,CH,Gerlafingen,,Glennerstrasse 110,4563,47.174757,7.649107,<none>
+771,<none>,AU,CROYDON,QLD,37 Glen William Road,4871,-16.023016,143.039885,<none>
+772,<none>,CY,Perivolia Trikomou,FA,158 Charilaou Trikoupi Str.,5733,41.245798,-72.876568,<none>
+773,<none>,NZ,Britannia Heights,,88 Collins Street,7010,-41.282001,173.264096,<none>
+774,<none>,CY,ΣΥΡΙΑΝΟΧΩΡΙ,NI,Πόρτο Χέλι 63,2729,41.34286,-72.902253,<none>
+775,<none>,NO,HØNEFOSS,,Konglefaret 236,3511,60.076429,10.324298,<none>
+776,<none>,ZA,Mokopane,LI,997 Barlow Street,656,-24.217964,29.10495,<none>
+777,<none>,DK,Tilst,MI,Hovbanken 40,8381,56.143692,10.155738,<none>
+778,<none>,CH,Corban,,Untere Aegerten 69,2826,47.332096,7.458862,<none>
+779,<none>,PT,Igreja,BR,Rua São Salvador 95,4730-530,41.536797,-8.250733,<none>
+780,<none>,CH,Herisau,,Höhenweg 131,9101,47.321147,9.223448,<none>
+781,<none>,BR,Goiânia,GO,Rua FN 30 1451,74594-042,-16.642459,-49.287325,<none>
+782,<none>,CH,Weiningen,,Langwiesstrasse 72,8104,47.486347,8.3518,<none>
+783,<none>,CH,Basel,,Breitenstrasse 33,4025,47.608788,7.630491,<none>
+784,<none>,EE,Kilingi-Nõmme,PR,Luha 75,86303,58.129819,25.03057,<none>
+785,<none>,DK,Varde,SY,Grønvangen 3,6800,55.564542,8.425655,<none>
+786,<none>,AT,ROHR,ST,Prager Strasse 61,8413,46.797717,15.552605,<none>
+787,<none>,NO,RÆLINGEN,,Blomstervegen 111,2005,59.911557,11.107368,<none>
+788,<none>,NZ,Mornington,,51 Howard Street,6021,-41.355504,174.807172,<none>
+789,<none>,FI,KERIMÄKI,SV,Liisankatu 8,58200,61.938249,29.253019,<none>
+790,<none>,GL,Danmarkshavn,NGNP,P.O. Box 123,3984,76.819869,-18.577555,<none>
+791,<none>,PL,Kraków,,ul. Grunwaldzka 76,31-526,49.990747,19.912827,<none>
+792,<none>,NO,TROMSØ,,Kemivegen 146,9011,69.574995,18.939013,<none>
+793,<none>,US,Jackson,MS,2061 Tanglewood Road,39201,32.259757,-90.178596,<none>
+794,<none>,CY,ΜΟΝΗ ΑΓΙΩΝ ΑΝΑΡΓΥΡΩΝ,PA,Λεωφ. Ηρώων Πολυτεχνείου 81,8727,41.378747,-72.834331,<none>
+795,<none>,NO,OSLO,,Svarttrostveien 147,788,59.893222,10.601367,<none>
+796,<none>,DK,Låsby,MI,Egevænget 44,8670,56.059351,9.873394,<none>
+797,<none>,ZA,Pretoria,GA,2422 Schoeman St,62,-25.618226,28.252201,<none>
+798,<none>,US,Charlotte,NC,2626 Snyder Avenue,28208,35.296499,-80.826457,<none>
+799,<none>,CA,Ste Marthe Du Cap La Madeleine,QC,4697 Rue De La Gare,G8T 7V7,46.303562,-72.514865,<none>
+800,<none>,NZ,Takaka,,203 Park Avenue,7110,-40.804531,172.916163,<none>
+801,<none>,NZ,Tisbury,,245 Iona Street,9812,-46.40856,168.380306,<none>
+802,<none>,US,Newark,PA,2645 Horseshoe Lane,19714,39.695821,-75.654389,<none>
+803,<none>,CA,Regina,SK,1621 Rose Street,S4P 3Y2,50.495006,-104.607641,<none>
+804,<none>,IT,Malles,BZ,Via San Domenico 83,39024,46.650154,10.60558,<none>
+805,<none>,NO,KLAVESTADHAUGEN,,Myrvangveien 5,1743,59.167954,11.157586,<none>
+806,<none>,CH,Lully,,Obere Haltenstrasse 35,1233,46.174206,6.044522,<none>
+807,<none>,NO,MANDAL,,Bubrotet 9,4516,57.975402,7.561665,<none>
+808,<none>,IS,Hella,,Þrúðvangur 49,850,63.768614,-20.451675,<none>
+809,<none>,AT,SCHÖNBERG,NO,Schallmooser Hauptstrasse 11,4153,48.598046,13.890258,<none>
+810,<none>,NZ,Putaruru,,236 Princes Street,3411,-38.010062,175.699455,<none>
+811,<none>,HU,Paloznak,VE,Rákóczi út 24.,8229,46.944282,17.969566,<none>
+812,<none>,EE,Andsumäe,VR,Õie 3,65203,57.788337,26.951128,<none>
+813,<none>,DK,Kolding,SY,Kongshøj Allé 24,6000,55.507862,9.527815,<none>
+814,<none>,CH,Lommiswil,,Betburweg 31,4514,47.209934,7.406242,<none>
+815,<none>,DK,Gjern,MI,Christianslundsvej 41,8883,56.32206,9.787191,<none>
+816,<none>,BR,Camaçari,BA,Rua Aurora 948,42805-490,-12.6447,-38.287916,<none>
+817,<none>,IT,Joannis,UD,Via Paolo Gaidano 56,33041,45.860947,13.275974,<none>
+818,<none>,ZA,Stanger,KN,1713 Union Lane,3815,-28.897897,31.431938,<none>
+819,<none>,GL,Tasiilaq,SM,Napparngummut 107,3913,65.674148,-37.584627,<none>
+820,<none>,SE,DINGLE,,Bottna Knutsgård 33,450 52,58.467463,11.601438,<none>
+821,<none>,SI,Muta,,Gosposka ulica 4,2366,46.698858,15.091155,<none>
+822,<none>,CA,Regina,SK,50 Rose Street,S4P 3Y2,50.42537,-104.540628,<none>
+823,<none>,GB,WETHERSTA,,89 Bouverie Road,ZE2 9NU,60.006961,-1.258425,<none>
+824,<none>,DK,København K,SJ,Pilekrogen 27,1456,55.650964,12.602196,<none>
+825,<none>,FR,CERGY,IL,86 boulevard Albin Durand,95800,48.989819,1.996734,<none>
+826,<none>,CH,Besenbüren,,Grossmatt 118,5627,47.3654,8.366645,<none>
+827,<none>,HU,Szabadi,SO,Szilágyi Erzsébet fasor 32.,7253,46.444037,18.043617,<none>
+828,<none>,ES,Sant Fost de Campsentelles,B,Cercas Bajas 69,8100,41.518638,2.125496,<none>
+829,<none>,FI,TURKU,VS,Mämminiementie 32,20720,60.521736,22.366752,<none>
+830,<none>,FR,SAINT-JOSEPH,GY,63 rue du Château,97480,45.477601,4.58279,<none>
+831,<none>,PT,Cabo da Praia,TE,R Refugo 9,9760-128,38.626261,-27.090599,<none>
+832,<none>,HU,Ugod,VE,Kárpát u. 14.,8564,47.401909,17.590708,<none>
+833,<none>,AU,VICTORIA ESTATE,QLD,17 Cedar Street,4850,-18.692492,146.06612,<none>
+834,<none>,CZ,Protivín,JC,Alšova 682,398 11,49.291648,14.122608,<none>
+835,<none>,ZA,Delmas,MP,1125 Wolmarans St,2211,-26.172565,28.643631,<none>
+836,<none>,PT,Pico,MA,R Alferes Veiga Pestana 99,9230-156,41.720306,-8.459247,<none>
+837,<none>,BR,Santa Maria,RS,Rua Tenente Fraga 767,97090-650,-29.740263,-53.782528,<none>
+838,<none>,ZA,Eshowe,KN,1472 Union Lane,3830,-28.925668,31.438156,<none>
+839,<none>,IS,Reykjavík,,Thingholtsstraeti 4,108,64.135638,-21.958666,<none>
+840,<none>,BE,Tessenderlo,VLI,Rue de Baras 301,3980,51.123479,5.071185,<none>
+841,<none>,NO,FREI,,Sørlia 162,6520,63.167913,7.783427,<none>
+842,<none>,EE,Puskaru,PL,Voorimehe 66,63219,58.082618,26.998822,<none>
+843,<none>,CA,Thornhill,ON,979 Beaver Creek,L4J 1W2,43.754974,-79.42495,<none>
+844,<none>,NL,Haarlem,NH,Roordastraat 90,2035 SJ,52.347465,4.581323,<none>
+845,<none>,TN,Ain El Karma,33,55 Rue Sidi,7125,34.366352,7.944816,<none>
+846,<none>,BE,Harzé,WLG,Rue Henri Lambert 400,4920,50.542233,5.733346,<none>
+847,<none>,DE,Halbemond,NI,Kastanienallee 70,26524,53.72444,7.334685,<none>
+848,<none>,FI,VARKAUS,NS,Kartanomäenkatu 85,78210,62.407739,27.900059,<none>
+849,<none>,AT,NIEDERRANNA,NO,Baumgarten 69,3622,48.456174,15.40574,<none>
+850,<none>,DK,Skive,MI,Hans Schacksvej 14,7800,56.585983,8.963183,<none>
+851,<none>,IT,Brescia,BS,Via Capo le Case 114,25123,45.610653,10.337845,<none>
+852,<none>,NO,HØNEFOSS,,Tanberg 63,3511,60.25591,10.214439,<none>
+853,<none>,BR,São Paulo,SP,Praça Coronel Vicente Saguas Presas Júnior 1141,01246-140,-23.664956,-46.585801,<none>
+854,<none>,NO,NESØYA,,Odden 234,1397,59.905576,10.440822,<none>
+855,<none>,US,Tacoma,WA,2010 Dale Avenue,98402,47.237054,-122.508478,<none>
+856,<none>,IT,Prettau,BZ,Via di Santa Melania 104,39030,46.813152,11.815744,<none>
+857,<none>,CY,Potamitissa,LI,96 Ermou Street,4879,41.37662,-72.858404,<none>
+858,<none>,GL,Qaqortoq,KU,Ringvej 251,3920,60.695141,-45.994786,<none>
+859,<none>,UY,Montevideo,MO,Arenales 3008,12300,-34.858939,-56.140099,<none>
+860,<none>,NO,LOMMEDALEN,,Mellomskarva 23,1350,59.995234,10.513479,<none>
+861,<none>,IT,Scansano,GR,Piazza Cardinale Riario Sforza 19,58054,42.967175,11.497085,<none>
+862,<none>,AT,ABTISSENDORF,ST,Pazmaniteng 2,8073,46.95698,15.545125,<none>
+863,<none>,CY,Kouklia,FA,49 Alkyon Avenue,5565,41.330449,-72.876872,<none>
+864,<none>,US,Wheeling,IL,4776 Vesta Drive,60090,42.033984,-88.010047,<none>
+865,<none>,GB,GRIZEBECK,,81 Dunmow Road,LA17 6YE,54.167429,-3.237843,<none>
+866,<none>,CA,Saskatoon,SK,3163 Brand Road,S7K 1W8,52.06696,-106.590173,<none>
+867,<none>,US,Long Island City,NY,4323 My Drive,11101,40.760735,-74.009462,<none>
+868,<none>,IT,Favignana,TP,Via del Pontiere 133,91023,37.953328,12.343784,<none>
+869,<none>,AU,LONGREACH,QLD,2 Sunset Drive,4730,-23.504994,143.354998,<none>
+870,<none>,HU,Mosdós,SO,Szilágyi Erzsébet fasor 63.,7257,46.410782,17.985718,<none>
+871,<none>,EE,Raespa,PR,Kase 6,88226,58.343724,23.723019,<none>
+872,<none>,BR,Macaé,RJ,Rua Quinze 614,27936-550,-22.38922,-41.961546,<none>
+873,<none>,CH,Villarlod,,Via Stauffacher 120,1695,46.785704,7.047354,<none>
+874,<none>,DK,Vestervig,NO,Slåenhaven 27,7770,56.830753,8.422832,<none>
+875,<none>,NZ,Pakuranga,,20 Trust Place,2010,-36.876426,174.959083,<none>
+876,<none>,US,Charleston,SC,1739 Poe Road,29405,32.889138,-79.874804,<none>
+877,<none>,EE,Sarvemäe,PL,Rõugu 76,64218,57.906226,27.311535,<none>
+878,<none>,PT,Maia,PO,Travessa Choupelo 62,4470-272,41.11819,-8.529617,<none>
+879,<none>,FR,TOURNEFEUILLE,MP,37 quai Saint-Nicolas,31170,43.567145,1.390379,<none>
+880,<none>,FI,SIIKAINEN,SA,Otakaari 61,29810,61.802993,21.809405,<none>
+881,<none>,AU,BIMBOURIE,VIC,39 Wilson Street,3533,-35.363042,142.612607,<none>
+882,<none>,IT,Pergine Valsugana,TN,Corso Porta Borsari 96,38057,45.976439,11.330978,<none>
+883,<none>,IS,Reykjavík,,Klapparstígur 93,127,64.188523,-22.020617,<none>
+884,<none>,FI,HELSINKI,UU,Norra Esplanaden 88,300,60.268636,24.928097,<none>
+885,<none>,DE,Cottbus,BB,Charlottenstrasse 86,3029,51.763931,14.265719,<none>
+886,<none>,TN,Bayoub,21,7 Rue de Rabat,8011,33.861899,10.145786,<none>
+887,<none>,BR,Itaúna,MG,Rua João da Cruz 831,35680-393,-20.148347,-44.558979,<none>
+888,<none>,IT,Villa Canale,IS,Via Nolana 43,86081,41.761854,14.459239,<none>
+889,<none>,FI,HELSINKI,UU,Rauhankatu 67,920,60.096251,25.01356,<none>
+890,<none>,GB,SALFORD PRIORS,,61 Wade Lane,WR11 3EW,51.955334,-1.951966,<none>
+891,<none>,IT,Cascina Nuova Di Misinto,MI,Via Nazario Sauro 50,20020,45.742121,9.067867,<none>
+892,<none>,AU,SHOAL BAY,NSW,33 Mnimbah Road,2315,-32.693409,152.172796,<none>
+893,<none>,SI,Štore,,Dunajska 83,3220,46.141321,15.316438,<none>
+894,<none>,GL,Uummannaq,QA,P.O. Box 244,3961,70.74844,-50.115038,<none>
+895,<none>,FR,LE PETIT-QUEVILLY,HN,93 rue Adolphe Wurtz,76140,49.497138,0.991681,<none>
+896,<none>,AU,EUABALONG,NSW,96 Tooraweenah Road,2877,-32.51326,145.934501,<none>
+897,<none>,FR,CHÂTENAY-MALABRY,IL,24 rue du Gue Jacquet,92290,48.736447,2.329029,<none>
+898,<none>,US,Skiatook,OK,1001 Hornor Avenue,74070,36.37321,-96.113651,<none>
+899,<none>,CY,∆ΑΣΑΚΙ ΑΧΝΑΣ,FA,Χαλκοκονδύλη 153,5523,41.254448,-72.856237,<none>
+900,<none>,BR,Taguatinga,DF,Quadra QSE 18 1488,72025-180,-12.468476,-46.321822,<none>
+901,<none>,IS,Keflavíkurflugvöllur,,Höfðagata 98,235,63.879346,-22.586388,<none>
+902,<none>,ZA,Delmas,MP,755 Wolmarans St,2213,-26.140098,28.772313,<none>
+903,<none>,CZ,Kravsko,JM,Družstevní 490,671 51,48.975573,16.045383,<none>
+904,<none>,CY,ΚΑΛΟ ΧΩΡΙΟ ΛΑΡΝΑΚΑΣ,LA,Χάριτος 285,7643,41.312485,-72.998494,<none>
+905,<none>,CA,Quebec,QC,2228 avenue Royale,G1R 2B2,46.893929,-71.19809,<none>
+906,<none>,PL,Zielona Góra,,ul. Olsztyńska 140,65-548,51.965843,15.426601,<none>
+907,<none>,CY,ΠΕ∆ΟΥΛΑΣ,NI,Σκαφίδια 235,2850,41.364883,-72.878784,<none>
+908,<none>,SI,Ljubljana,,Ilichova 117,1505,46.051539,14.571555,<none>
+909,<none>,SE,LÖTTORP,,Långlöt 15,380 74,57.231636,16.942142,<none>
+910,<none>,BR,Rio de Janeiro,RJ,Rua Caraparu 673,23012-240,-22.881741,-43.295915,<none>
+911,<none>,CA,Lacombe,AB,4833 Pine Street,T0C 1S0,52.36937,-113.729194,<none>
+912,<none>,AU,FAIRFIELD,QLD,65 Jones Road,4103,-27.522929,153.005404,<none>
+913,<none>,SE,SÖDERHAMN,,Mellangården 35,826 00,61.313163,17.141488,<none>
+914,<none>,FR,MONTREUIL,IL,48 rue de la Mare aux Carats,93100,48.932387,2.346831,<none>
+915,<none>,GL,Qaanaaq,QA,P.O. Box 289,3971,77.521067,-69.249218,<none>
+916,<none>,HU,Bakonypölöske,VE,Izabella u. 24.,8457,47.10518,17.475295,<none>
+917,<none>,PL,Łódź,,ul. Spacerowa 18,91-826,51.742318,19.471729,<none>
+918,<none>,CY,Egkomi,NI,12 Xanthoudidou Street,2401,41.374461,-72.928697,<none>
+919,<none>,GB,WANSTROW,,76 Ivy Lane,BA4 4UU,50.692908,-2.670623,<none>
+920,<none>,PL,Wrocław,,ul. Kościuszki Tadeusza 149,50-008,51.086948,17.019772,<none>
+921,<none>,CZ,Znojmo 2,JM,Vrchlického 851,669 02,48.810684,16.000447,<none>
+922,<none>,PL,Łódź,,ul. Rawska 117,93-109,51.657615,19.374018,<none>
+923,<none>,TN,Souk Essebt,32,107 Avenue du Golf Arabe,8131,35.302328,10.630784,<none>
+924,<none>,GB,LOWER CAM,,38 Souterhead Road,GL11 5HA,51.626756,-2.433189,<none>
+925,<none>,DK,København V,SJ,Nordre Ringvej 76,1739,55.733465,12.667006,<none>
+926,<none>,IS,Keflavíkurflugvöllur,,Höfðagata 64,235,64.02232,-22.542736,<none>
+927,<none>,EE,Asva,SA,Raua põik 82,94418,58.317795,23.046603,<none>
+928,<none>,AT,LÖDERSDORF II,ST,Pottenbrunner Hauptstrasse 28,8333,46.978028,15.975685,<none>
+929,<none>,NL,Den Haag,ZH,Korte Vijverberg 66,2513 AB,51.388361,4.400791,<none>
+930,<none>,GL,Nuussuaq,QA,Qaanniviit 118,3905,74.171897,-57.131448,<none>
+931,<none>,ES,Benijófar,A,Av. Zumalakarregi 45,3178,38.155036,-0.761939,<none>
+932,<none>,CY,ΛΕΥΚΩΣΙΑ,NI,Διαμαντοπούλου 103,1454,41.233234,-72.989134,<none>
+933,<none>,IT,Farneta,CS,Via Castelfidardo 126,87070,40.004169,16.522738,<none>
+934,<none>,CY,Pittokopos,PA,185 Artemisiou Street,8705,41.416612,-72.936022,<none>
+935,<none>,PT,Vila Franca das Naves,GU,Travessa Pombal 21,6420-731,40.748656,-7.307324,<none>
+936,<none>,PL,Blachownia,,ul. Żeromskiego 59,42-290,50.750752,18.883985,<none>
+937,<none>,NZ,Marfell,,53 Clearmont Crescent,4310,-39.104422,174.132334,<none>
+938,<none>,US,Chicago,IL,817 Vine Street,60606,41.788198,-87.547079,<none>
+939,<none>,HU,Inota,,Teréz krt. 44.,8103,47.125944,18.143084,<none>
+940,<none>,FR,PARIS,IL,21 rue Nationale,75003,48.941053,2.457175,<none>
+941,<none>,AT,OLSACH,KA,Holzschachen 80,9701,46.841567,13.568806,<none>
+942,<none>,TN,El Argoub Jedid,21,135 Rue de l'Etoile Polaire,8030,36.738264,10.126738,<none>
+943,<none>,GL,Nuussuaq,QA,Qaanniviit 215,3905,74.187448,-57.097344,<none>
+944,<none>,CZ,Svitavy 2,PA,Vostelčická 758,568 02,49.670471,16.489588,<none>
+945,<none>,SE,RENGSJÖ,,Hökgatan 13,820 12,60.759695,12.654785,<none>
+946,<none>,UY,Palmar,SO,Martín Garcia 7197,75004,-34.35549,-53.856749,<none>
+947,<none>,BE,Houwaart,VBR,Amerveldstraat 25,3390,50.893766,4.931575,<none>
+948,<none>,ZA,Huguenot,WC,327 Rus St,7627,-31.095789,26.518311,<none>
+949,<none>,CY,ΛΕΥΚΩΣΙΑ,NI,Άγιος Γεώργιος 123,1095,41.357474,-72.838838,<none>
+950,<none>,SE,RABBALSHEDE,,Vikarna 23,450 73,58.647327,11.392468,<none>
+951,<none>,NZ,Huntingdon,,227 Claremont Avenue,3210,-37.849356,175.33924,<none>
+952,<none>,CY,ΦΙΛΟΥΣΑ ΚΕΛΟΚΕ∆ΑΡΩΝ,PA,Βρασίδα 103,8629,41.289457,-72.829217,<none>
+953,<none>,TN,Ain El Kehoul,31,53 Avenue Mohamed Salah Gafsia,9040,36.993873,8.840606,<none>
+954,<none>,CA,Ottawa,ON,4395 MacLaren Street,K1P 5M7,45.426902,-75.624799,<none>
+955,<none>,TN,Oualegh,82,146 Rue Koubine,4123,33.851282,10.927578,<none>
+956,<none>,CZ,Kralovice,PL,U Trati 160,331 41,49.911127,13.404808,<none>
+957,<none>,US,Columbus,OH,2557 Andell Road,43215,39.900391,-83.082904,<none>
+958,<none>,IT,Montone,TE,Via Scuderlando 87,64020,42.63105,13.932065,<none>
+959,<none>,CH,Riedtwil,,Wolfensbergstrasse 103,3475,47.091951,7.793683,<none>
+960,<none>,HU,Osli,GS,Wesselényi u. 97.,9354,47.549425,17.057607,<none>
+961,<none>,ZA,Johannesburg,GA,1139 Wolmarans St,2192,-26.288481,28.086877,<none>
+962,<none>,GB,UAGS,,23 Caradon Hill,IV54 9LH,57.286149,-5.791405,<none>
+963,<none>,US,Holliday,TX,3210 Olen Thomas Drive,76366,33.678867,-98.809554,<none>
+964,<none>,CY,ΒΑΡΙΣΕΙΑ,NI,Αγ. Ανδρέα 86,2921,41.257783,-72.904863,<none>
+965,<none>,ZA,Hammarsdale,KN,335 Union Lane,3720,-29.871401,30.58346,<none>
+966,<none>,TN,Cite Bougatfa 2,23,1 Rue El Yamen,7053,36.786646,10.015347,<none>
+967,<none>,SI,Dob,,Slovenčeva 48,1233,46.141826,14.694164,<none>
+968,<none>,SE,KLÖVSJÖ,,Sandlyckan 87,840 32,62.49257,14.221592,<none>
+969,<none>,PL,Bydgoszcz,,ul. Biedronkowa 136,85-430,53.127159,17.959301,<none>
+970,<none>,CZ,Ceská Lípa 6,LI,Hálkova 1592,470 06,50.674623,14.63016,<none>
+971,<none>,CY,ΠΑΡΑΜΥΘΑ,LI,Σκαφίδια 13,4540,41.343487,-72.953384,<none>
+972,<none>,CH,Niederstetten,,Boldistrasse 93,9249,47.420601,9.015191,<none>
+973,<none>,EE,Orgmetsa,JR,Raudtee 57,73405,59.165681,25.822683,<none>
+974,<none>,BE,Angleur,WLG,Rue du Monument 61,4031,50.707258,5.58204,<none>
+975,<none>,HU,Bugyi,PE,Erzsébet krt. 1.,2347,47.300936,19.133629,<none>
+976,<none>,TN,Cite Sprols,11,89 Rue de Sidi Bou Zid,2045,36.858906,10.112051,<none>
+977,<none>,ES,Arroyo de la Luz,CC,Reyes Católicos 99,10900,39.415544,-6.630863,<none>
+978,<none>,CY,Limassol,LI,60 Epimenidou Street,3040,41.316602,-72.860727,<none>
+979,<none>,CH,Niederstetten,,Boldistrasse 51,9249,47.367362,9.033849,<none>
+980,<none>,HU,Nagyigmánd,KE,Munkácsy Mihály út 78.,2942,47.561154,18.084647,<none>
+981,<none>,DE,Eschenbach,BY,Kurfürstenstraße 21,92676,49.766698,11.802288,<none>
+982,<none>,TN,Cite Bir Ben Njima,14,75 Rue des Mimosas,1110,36.70325,9.991072,<none>
+983,<none>,NO,NOTODDEN,,Tinnebyveien 112,3681,59.483041,9.224426,<none>
+984,<none>,UY,Cerro Colorado,FD,Sarandi 2137,94101,-33.891834,-55.524319,<none>
+985,<none>,US,Atlanta,GA,4042 Post Farm Road,30337,33.70061,-84.379664,<none>
+986,<none>,IT,Schifanoia,TR,Via Adua 40,5030,42.686142,12.79695,<none>
+987,<none>,PT,Nelas,VI,R Camões 33,3520-037,40.464194,-7.962092,<none>
+988,<none>,CA,Stoney Creek,ON,1729 Barton Street,L8G 2V1,43.195935,-79.819541,<none>
+989,<none>,NO,FANA,,Buskavegen 230,5244,60.283113,5.333345,<none>
+990,<none>,SE,LAHOLM,,Östbygatan 47,312 70,56.425683,13.130795,<none>
+991,<none>,CY,ΛΕΜΕΣΟΣ,LI,Χλόης 205,3036,41.374944,-72.869024,<none>
+992,<none>,GL,Uummannaq,QA,P.O. Box 271,3961,70.598774,-50.193953,<none>
+993,<none>,GL,Narsaq,KU,Gl. Sygehusvej 226,3921,60.833964,-46.121041,<none>
+994,<none>,IS,Reykjavík,,Skolavordustig 79,132,64.160279,-21.947509,<none>
+995,<none>,CY,ΠΕΤΡΟΦΑΝΙ,LA,Κυλλήνη 35,7623,41.236915,-72.926875,<none>
+996,<none>,ZA,Brits,NW,515 Tait St,265,-25.568019,27.69789,<none>
+997,<none>,FR,MELUN,IL,20 rue Reine Elisabeth,77000,48.466176,2.743833,<none>
+998,<none>,CY,ΚΑΘΙΚΑΣ,PA,Οδυσσέος 141,8573,41.290596,-72.920583,<none>
+999,<none>,PL,Szczecin,,ul. Brata Alberta 91,71-136,53.370872,14.59317,<none>
+1000,<none>,CH,Geiss,,Via Schliffras 55,6123,46.999492,8.016361,<none>
+1001,<none>,FR,RODEZ,MP,45 rue de Groussay,12000,44.367141,2.576886,<none>
+1002,<none>,AU,MUNDERRA,QLD,94 Woodwark Crescent,4872,-18.065297,145.320914,<none>
+1003,<none>,GL,Qeqertarsuaq,QA,P.O. Box 73,3953,62.193081,-49.723991,<none>
+1004,<none>,IT,Meletole,RE,Corso Porta Nuova 84,42024,44.862463,10.593557,<none>
+1005,<none>,FR,BOURGOIN-JALLIEU,RA,17 rue Petite Fusterie,38300,45.501564,5.396472,<none>
+1006,<none>,CZ,Horní Nemcí,ZL,Družstevní 1393,687 64,49.043849,17.679583,<none>
+1007,<none>,CZ,Milín,ST,Prokopská 191,262 31,49.68436,14.07594,<none>
+1008,<none>,NL,Sittard,LI,Vijverweg 37,6133 AV,50.945591,5.802746,<none>
+1009,<none>,GB,KIRKHOPE,,47 Coast Rd,TD7 1GZ,55.454971,-2.916146,<none>
+1010,<none>,CY,ΛΑΚΑΤΑΜΕΙΑ,NI,Λ. Απόλλωνος 161,2312,41.359646,-72.895391,<none>
+1011,<none>,ZA,Upington,NC,1780 Gleemoor Rd,8808,-28.455878,21.342027,<none>
+1012,<none>,PL,Warszawa,,ul. Zamenhofa Ludwika 7,00-165,52.22671,20.970461,<none>
+1013,<none>,IT,Capriglia,SA,Via Rosmini 66,84080,40.817429,14.883854,<none>
+1014,<none>,GL,Paamiut,SM,Illoqarfiup Qeppa 184,3940,61.924749,-49.670524,<none>
+1015,<none>,DK,Vemmelev,SJ,Clematisvænget 20,4241,55.39451,11.217451,<none>
+1016,<none>,US,Kansas City,MO,1216 Nutter Street,64106,39.030619,-94.538833,<none>
+1017,<none>,ES,Cañas,LO,Ctra. Hornos 67,26225,42.224215,-2.524768,<none>
+1018,<none>,ES,Aldeanueva de la Sierra,SA,Socampo 81,37691,40.654041,-6.046794,<none>
+1019,<none>,PL,Kielce,,ul. Skwer Świętej Jadwigi Królowej 118,25-430,50.868464,20.634711,<none>
+1020,<none>,FR,PARIS,IL,37 Square de la Couronne,75002,48.93491,2.430058,<none>
+1021,<none>,HU,Kiskunmajsa,BK,Dayka Gábor u. 50.,6137,41.377377,-72.926088,<none>
+1022,<none>,FR,NANTES,PL,37 rue de Raymond Poincaré,44300,47.197875,-1.541793,<none>
+1023,<none>,PL,Gdańsk,,ul. Stryjewskiego Wilhelma 121,80-611,54.430197,18.715988,<none>
+1024,<none>,NL,Sassenheim,ZH,Kagertuinen 82,2172 XM,52.193441,4.497679,<none>
+1025,<none>,PT,Sertã,CA,Largo Prazeres 92,6100-999,39.871035,-8.005892,<none>
+1026,<none>,SE,FORS,,Klubbvägen 35,770 66,60.12559,16.225692,<none>
+1027,<none>,US,Saint Louis,MO,1976 Ash Avenue,63146,38.740451,-90.430728,<none>
+1028,<none>,DE,Augsburg,BY,Sonnenallee 84,86073,48.384346,10.821779,<none>
+1029,<none>,CY,ΠΑΡΑΛΙΜΝΙ,FA,Μεγάλη Άμμος 36,5290,41.284119,-72.9218,<none>
+1030,<none>,IS,Kópavogur,,Borgarholtsbraut 77,200,64.082556,-21.867939,<none>
+1031,<none>,BE,Sint-Eloois-Vijve,VWV,Witbakkerstraat 70,8793,50.827788,3.433264,<none>
+1032,<none>,CY,ΛΑΓΟΥ∆ΕΡΑ,NI,Απόλλωνος 32,2753,41.420959,-72.843981,<none>
+1033,<none>,ZA,Cape Town,WC,2219 Bo Meul St,8001,-33.866087,18.50379,<none>
+1034,<none>,TN,Khous,21,29 Rue de Fes,8014,36.570994,10.809812,<none>
+1035,<none>,AT,SANKT LORENZEN IM PALTENTAL,ST,Kuefsteinstrasse 15,8784,47.473149,14.390698,<none>
+1036,<none>,IS,Hafnafjörður,,Sorlaskeid 68,220,64.055513,-21.847663,<none>
+1037,<none>,FR,FONTAINE,RA,92 Boulevard de Normandie,38600,45.139991,5.761984,<none>
+1038,<none>,UY,Mariscala,LA,Marejada 9719,30001,-34.107101,-54.824464,<none>
+1039,<none>,SE,EDSBRUK,,Åbyhöjden 46,590 98,58.036749,16.529475,<none>
+1040,<none>,DE,Ipsheim,BY,Heiligengeistbrücke 63,91472,49.484814,10.5727,<none>
+1041,<none>,AU,CURRAJONG,QLD,57 Seninis Road,4812,-19.196157,146.818698,<none>
+1042,<none>,NO,KONGSBERG,,Lerkeveien 176,3617,59.57905,9.594307,<none>
+1043,<none>,ZA,Port Elizabeth,EC,1948 Protea St,6060,-34.054817,25.570808,<none>
+1044,<none>,NO,ROLVSØY,,Helleristveien 149,1663,59.2879,10.96797,<none>
+1045,<none>,EE,Puusepa,HA,Lõõtsa 19,75017,59.056681,25.317651,<none>
+1046,<none>,NZ,Forest Lake,,37 Forest Lake Road,3200,-37.772195,175.214584,<none>
+1047,<none>,SE,BROTTBY,,Valldammsgatan 16,186 15,59.532004,18.35153,<none>
+1048,<none>,ZA,Westonaria,GA,2252 Marconi St,1787,-26.263479,27.581691,<none>
+1049,<none>,EE,Tallinn,HA,Pebre 81,15024,59.404682,24.781172,<none>
+1050,<none>,CY,ΣΑΝΑΤΟΡΙΟ ΚΥΠΕΡΟΥΝΤΑΣ,LI,Λουτράκι 159,4877,41.403509,-72.875623,<none>
+1051,<none>,PL,Bydgoszcz,,ul. Sieciowa 62,85-435,53.184655,18.003256,<none>
+1052,<none>,PL,Dąbrowa Górnicza,,ul. Powstańców 12,41-300,50.34977,19.202304,<none>
+1053,<none>,PL,Jastrzębie-Zdrój,,ul. Jagodowa 142,44-268,49.929548,18.60577,<none>
+1054,<none>,CY,ΚΩΜΗ,FA,Αχαρνών 130,5828,41.337375,-72.930119,<none>
+1055,<none>,CY,Paphos,PA,91 Kallirois Avenue,8021,41.313816,-72.850216,<none>
+1056,<none>,TN,Bou Abdallah,73,75 Rue Ennasr,4236,33.597122,9.852036,<none>
+1057,<none>,CY,Mathiatis,NI,6 Mihalakopoulou Avenue,2568,41.321655,-73.001176,<none>
+1058,<none>,DK,København K,SJ,Sandagervej 11,1460,55.658978,12.526512,<none>
+1059,<none>,FR,PONTAULT-COMBAULT,IL,56 rue de la Boétie,77340,48.802701,2.676161,<none>
+1060,<none>,DK,København K,SJ,Strandvej 77,1301,55.71831,12.524283,<none>
+1061,<none>,SI,Dobravlje,,Slovenčeva 8,5263,45.865203,13.880257,<none>
+1062,<none>,BR,Praia Grande,SP,Rua Barão de Penedo 653,11707-300,-23.91682,-46.542009,<none>
+1063,<none>,SE,VEBERÖD,,Orrspelsv 31,240 14,55.611864,13.50983,<none>
+1064,<none>,GL,Tasiilaq,SM,Napparngummut 127,3913,65.599153,-37.64291,<none>
+1065,<none>,BR,Sousa,PB,Rua Coronel Augusto Rocha 1272,58803-430,-6.66278,-38.218116,<none>
+1066,<none>,CZ,Bestvina,PA,Jabloňová 1038,538 45,49.853432,15.566288,<none>
+1067,<none>,EE,Vaabina,VR,Pargi 31,66519,57.894375,26.592637,<none>
+1068,<none>,IT,Calestano,PR,Via Genova 43,43030,44.680541,10.405143,<none>
+1069,<none>,GB,INVERARDRAN,,8 Prestwick Road,FK20 1UE,55.994914,-4.969839,<none>
+1070,<none>,FI,KUUSAMO,NO,Kankaanpääntie 60,93620,65.925259,29.274968,<none>
+1071,<none>,CH,Treytorrens,,Piazza Indipendenza 135,1538,46.82604,6.718632,<none>
+1072,<none>,AU,AIREYS INLET,VIC,18 Shell Road,3231,-38.475371,144.013043,<none>
+1073,<none>,BE,Vollezele,VBR,Serenade Opus 232,1570,50.82863,4.072973,<none>
+1074,<none>,CY,Armou,PA,172 Igias Street,8522,41.395795,-72.884841,<none>
+1075,<none>,PL,Tarnowskie Góry,,ul. Karłowicza Mieczysława 124,42-609,50.534605,18.965601,<none>
+1076,<none>,NL,Rotterdam,ZH,Eigelhorst 120,3085 VD,51.91125,4.422443,<none>
+1077,<none>,CZ,Námešt na Hané,MO,Sokolská 1280,783 44,49.574048,17.141694,<none>
+1078,<none>,NO,OSLO,,Granveien 114,1178,59.861982,10.725733,<none>
+1079,<none>,DE,Freudenberg,BW,Flughafenstrasse 8,97896,49.799863,9.302188,<none>
+1080,<none>,NL,Soesterberg,UT,Amersfoortsestraat 49,3769 BR,52.138334,5.311262,<none>
+1081,<none>,CH,Wolfgang,,Schulstrasse 82,7265,46.817696,9.810383,<none>
+1082,<none>,BR,Jaú,SP,Rua Professor João Jacintho de Almeida 810,17207-023,-22.231618,-48.52252,<none>
+1083,<none>,UY,Aiguá,MA,Rogue Burgueño 8173,20500,-34.166206,-54.810968,<none>
+1084,<none>,NL,Urmond,LI,Bramertweg 123,6129 PM,50.936671,5.855491,<none>
+1085,<none>,CY,ΜΑΚΟΥΝΤΑ,PA,Λεωφόρος Βασ. Γεωργίου 202,8879,41.257017,-72.829826,<none>
+1086,<none>,TN,Cite Commerciale 1,52,107 R. Mongi Bali,5070,35.530334,10.804266,<none>
+1087,<none>,UY,Palomas,SA,Martín Garcia 7417,50008,-31.155101,-57.591735,<none>
+1088,<none>,SI,Vodice,,Dalmatinova 93,1217,46.268445,14.480771,<none>
+1089,<none>,ES,Lazkao,SS,C/ Canarias 40,20210,42.95348,-2.232091,<none>
+1090,<none>,NZ,Mayfield,,1 Evesham Lane,7201,-41.513498,173.937454,<none>
+1091,<none>,NL,Ter Aar,ZH,Vierambachtsstraat 179,2461 BB,52.157811,4.757785,<none>
+1092,<none>,CZ,Batelov,VY,Mlýnská 1320,588 51,49.365117,15.378829,<none>
+1093,<none>,SI,Čatež ob Savi,,Trg revolucije 71,8251,45.933044,15.508174,<none>
+1094,<none>,CY,Strovolos,NI,295 Akti Pagalou,2051,41.410868,-72.835577,<none>
+1095,<none>,UY,Guazuvirá,CA,Neptuno 1572,16302,-34.820854,-55.900326,<none>
+1096,<none>,IT,Bassano Del Grappa,VI,Lungodora Napoli 91,36061,45.70054,11.704128,<none>
+1097,<none>,DK,Svendborg,SY,Bakkelunden 64,5700,55.01214,10.62288,<none>
+1098,<none>,DK,København V,SJ,Langegade 71,1640,55.756653,12.644021,<none>
+1099,<none>,FI,KORSNÄS,OS,Karkkimalantie 9,66200,62.739563,21.149709,<none>
+1100,<none>,SE,KVILLSFORS,,Torvvägen 89,570 16,57.501089,15.507308,<none>
+1101,<none>,FR,SAINT-PRIEST,RA,8 rue de la Hulotais,69800,45.771037,4.90464,<none>
+1102,<none>,BE,Goegnies-Chaussée,WHT,Rue de la Briqueterie 494,7040,50.479804,3.894383,<none>
+1103,<none>,EE,Püssi,IV,Vabaduse 29,43202,59.261219,27.058654,<none>
+1104,<none>,NO,KONGSBERG,,Trollveien 72,3614,59.77494,9.657555,<none>
+1105,<none>,CY,Agios Amvrosios,LI,141 Timoleondos Vassou Street,4710,41.27859,-72.881241,<none>
+1106,<none>,DK,København V,SJ,Havnevejen 53,1719,55.770929,12.623911,<none>
+1107,<none>,GB,STONEY STRATTON,,10 Broomfield Place,BA4 6QY,50.64049,-2.69274,<none>
+1108,<none>,NO,HAUGESUND,,Åkrehamngata 169,5529,59.364653,5.317369,<none>
+1109,<none>,AU,SHOAL POINT,QLD,26 Seaview Court,4750,-21.006778,149.207604,<none>
+1110,<none>,AU,DARKES FOREST,NSW,11 Jacabina Court,2508,-34.266017,150.889922,<none>
+1111,<none>,CY,Limassol,LI,286 Machiton Scholis Chorophilakis,3076,41.318024,-73.008455,<none>
+1112,<none>,GB,THORPE ON THE HILL,,28 High St,LN6 3WP,53.170667,-0.709153,<none>
+1113,<none>,CH,Alliswil,,Postfach 139,5706,47.407578,8.246878,<none>
+1114,<none>,DE,Breunsdorf,SN,Alt-Moabit 1,4574,51.194997,12.385167,<none>
+1115,<none>,NZ,Welbourn,,136 Newton Street,4312,-38.969955,174.148311,<none>
+1116,<none>,NO,SELLEBAKK,,Sorgenfrigata 242,1651,59.324798,10.931861,<none>
+1117,<none>,PT,Évora,EV,Avenida Liberdade 101,7005-319,38.750314,-7.761538,<none>
+1118,<none>,NO,BODØ,,Brubakken 161,8011,67.363205,14.438967,<none>
+1119,<none>,CY,Pergamos,LA,238 Dili Gianni Street,7504,41.291522,-72.918063,<none>
+1120,<none>,AT,KELMEN,TR,Gumpendorfer Strasse 35,6622,47.487327,10.748729,<none>
+1121,<none>,ZA,Cape Town,WC,1822 Kamp St,7455,-33.959564,18.495292,<none>
+1122,<none>,ES,Ribera Alta,VI,José matía 83,1420,42.73674,-2.89987,<none>
+1123,<none>,FI,LAPPEENRANTA,SK,Puruntie 77,53810,60.989723,28.269947,<none>
+1124,<none>,AT,WESNITZEN,KA,Zeppelinstr 18,9150,46.575866,14.865324,<none>
+1125,<none>,BE,Villers-le-Temple,WLG,Rue du Presbytère 390,4550,50.52307,5.365647,<none>
+1126,<none>,SE,STORA SUNDBY,,Kläppinge 25,640 40,59.268856,16.566009,<none>
+1127,<none>,NO,NARVIK,,Ekornveien 202,8515,68.477175,17.344246,<none>
+1128,<none>,ES,Arcentales,BB,Castelao 55,48879,43.366101,-3.283318,<none>
+1129,<none>,DE,Münnerstadt,BY,Paul-Nevermann-Platz 87,97699,50.308617,10.24744,<none>
+1130,<none>,US,Saint Louis,MO,756 Blane Street,63101,38.604642,-90.170873,<none>
+1131,<none>,CH,Tatroz,,Lungolago 42,1617,46.475606,6.847187,<none>
+1132,<none>,IS,Hnífsdalur,,Hlégerði 88,410,66.181481,-23.33872,<none>
+1133,<none>,TN,Cite Snit,11,139 Rue Mendes France,1082,36.766639,10.177475,<none>
+1134,<none>,NO,OSLO,,Movatn 204,891,59.965397,10.724363,<none>
+1135,<none>,FI,MUURAME,CF,Kangasmoisionkatu 43,40950,62.079177,25.712684,<none>
+1136,<none>,NL,Nijmegen,GE,Waterstraat 9,6541 TM,51.801356,5.885503,<none>
+1137,<none>,GL,Kulusuk,SM,P.O. Box 217,3915,65.504374,-37.18623,<none>
+1138,<none>,NO,KRISTIANSUND N,,Sjursvikveien 49,6507,63.070127,7.684107,<none>
+1139,<none>,CA,Belleville,ON,629 Wallbridge Loyalist Rd,K8N 1L9,44.174683,-77.42941,<none>
+1140,<none>,CY,Platanistasa,NI,278 Artemisiou Street,2755,41.335948,-72.941762,<none>
+1141,<none>,AU,BALACLAVA,VIC,15 Hebbard Street,3183,-37.950018,144.981637,<none>
+1142,<none>,FI,LAHTI,PA,Hätilänkatu 8,15610,60.896746,25.713938,<none>
+1143,<none>,ES,Íscar,VA,Calvo Sotelo 75,47420,41.318849,-4.5693,<none>
+1144,<none>,UY,Santa Catalina,SO,Joaquin Suarez 6819,75201,-33.837785,-57.458218,<none>
+1145,<none>,DE,Scheuerfeld,RP,Augsburger Strasse 60,57584,50.878064,7.736151,<none>
+1146,<none>,NL,Slochteren,GR,Slochterveldweg 146,9621 TD,53.25495,6.73393,<none>
+1147,<none>,TN,Dhraa Ben Jouder,22,48 Rue Aghlab,1194,36.277471,10.073598,<none>
+1148,<none>,EE,Soomõoru,VR,Ööbiku 58,66291,57.73173,26.91446,<none>
+1149,<none>,FR,BORDEAUX,AQ,88 cours Jean Jaures,33200,44.756307,-0.515845,<none>
+1150,<none>,TN,El Fejouj,32,49 Rue de baghdad,8140,36.793149,10.175506,<none>
+1151,<none>,CY,ΓΑΛΗΝΟΠΟΡΝΗ,FA,Καλλιρρόης 251,5874,41.359518,-72.844206,<none>
+1152,<none>,AT,RAIN,KA,Eybnerstrasse 18,9346,46.813041,14.196287,<none>
+1153,<none>,UY,Montevideo,MO,Ibirapita 2218,11400,-34.96812,-56.245764,<none>
+1154,<none>,PT,Póvoa de Varzim,PO,R Pescador Bacalhoeiro 111,4495-445,41.458368,-8.780379,<none>
+1155,<none>,BE,Bovesse,WNA,Industrieweg 105,5081,50.481463,4.795462,<none>
+1156,<none>,SI,Sveti Tomaž,,Dunajska 100,2258,46.413235,15.999888,<none>
+1157,<none>,SI,Nova Gorica,,Gosposka ulica 33,5000,45.952162,13.656632,<none>
+1158,<none>,ZA,Middelburg,MP,1484 Rissik St,1050,-30.035861,26.670704,<none>
+1159,<none>,CY,ΑΓΛΑΝΤΖΙΑ (ΑΓΛΑΓΓΙΑ),NI,Πλατεία Μαβίλη 139,2101,41.257512,-72.839855,<none>
+1160,<none>,BR,Campinas,SP,Caminho da Divisa 1151,13060-283,-22.888334,-47.10744,<none>
+1161,<none>,FR,SAINT-BENOÎT,GY,68 rue des Nations Unies,97470,46.484494,0.349114,<none>
+1162,<none>,IS,Vogar,,Fjölnisgata 13,190,63.909506,-22.300421,<none>
+1163,<none>,TN,Bouficha,51,28 Rue Hsine Eloued,4010,36.292497,10.436152,<none>
+1164,<none>,PT,Calendário,BR,Rua Igreja 59,4760-301,41.368764,-8.520787,<none>
+1165,<none>,PT,Cerca da Vinha,SE,R Rei Lavrador 39,7540-521,38.468438,-8.647498,<none>
+1166,<none>,BR,Uberlândia,MG,Terminal Genésio Pereira de Melo 1922,38408-730,-18.977351,-48.335765,<none>
+1167,<none>,IS,Selfoss,,Gránugata 76,800,63.877861,-20.9622,<none>
+1168,<none>,BR,Juazeiro do Norte,CE,Vila Pelo Sinal 1129,63010-490,-7.145905,-39.150471,<none>
+1169,<none>,GL,Nuuk,SM,Aqqusinersuaq 30,3900,64.145318,-51.774832,<none>
+1170,<none>,CA,Carievale,SK,2994 St. John Street,S4P 3Y2,53.129931,-104.15308,<none>
+1171,<none>,HU,Vezseny,JN,Apor Péter u. 78.,5093,47.072911,20.265287,<none>
+1172,<none>,PT,Soutelo,VI,R São Romão 90,4690-728,40.85719,-7.864405,<none>
+1173,<none>,NO,KRISTIANSAND S,,Bellevue 216,4616,58.113809,7.929893,<none>
+1174,<none>,AT,ST. GEORGEN AM LÄNGSEE,KA,Schmiedsberg 75,9313,46.811249,14.504628,<none>
+1175,<none>,FR,LILLE,NP,65 Chemin Challet,59000,50.547564,3.026078,<none>
+1176,<none>,HU,Polány,SO,Eötvös út 64.,7458,46.462138,17.871642,<none>
+1177,<none>,CY,Kivides Pano,LI,218 Filadelfeos Str.,4715,41.366506,-72.881442,<none>
+1178,<none>,EE,Kahkva,PL,Roheline 53,64108,58.085963,27.134028,<none>
+1179,<none>,GB,KNITSLEY,,28 Witney Way,DH8 8PZ,54.792283,-1.970123,<none>
+1180,<none>,US,Nashville,TN,4330 Glory Road,37210,36.054161,-86.722231,<none>
+1181,<none>,NZ,Kaikorai,,118 Northfield Avenue,9010,-45.785098,170.618328,<none>
+1182,<none>,CZ,Horovice,ST,K Lukárně 1968,268 01,49.931277,13.971548,<none>
+1183,<none>,CA,Toronto,ON,2379 Eglinton Avenue,M4P 1A6,43.594942,-79.397586,<none>
+1184,<none>,CZ,Pacov,VY,Truhlářská 236,395 01,49.401532,14.918468,<none>
+1185,<none>,CY,ΑΡΜΕΝΟΜΟΝΑΣΤΗΡΟ,KY,Άρνης 72,9570,41.317111,-72.884688,<none>
+1186,<none>,SI,Ljubljana,,Ilichova 109,1503,46.021201,14.521885,<none>
+1187,<none>,FR,VANDOEUVRE-LÈS-NANCY,LO,37 avenue de Provence,54500,48.691697,6.098277,<none>
+1188,<none>,HU,Iklad,PE,Síp utca 80.,2181,47.764154,19.405223,<none>
+1189,<none>,GL,Slædepatruljen Sirius,QE,Postbox 15,3992,67.215017,-48.083115,<none>
+1190,<none>,FR,NÎMES,LN,88 boulevard de Prague,30900,43.931948,4.375869,<none>
+1191,<none>,IT,Montefiore Conca,RN,Via Goffredo Mameli 139,47834,43.947539,12.57668,<none>
+1192,<none>,CY,ΜΟΝΗ ΑΧΕΡΟΠΟΙΗΤΟΥ,KY,Λ. Πεντέλης 248,9634,41.312643,-72.863522,<none>
+1193,<none>,SE,ÅRJÄNG,,Åkerstigen 52,672 00,59.467627,12.098372,<none>
+1194,<none>,GB,HALTON,,42 Bury Rd,LL14 5HQ,52.871516,-3.140441,<none>
+1195,<none>,GL,Tasiilaq,SM,Napparngummut 70,3913,65.607849,-37.571467,<none>
+1196,<none>,AU,NYRRABY,VIC,17 Clifton Street,3585,-35.379427,143.593548,<none>
+1197,<none>,GL,Mestervi,NGNP,P.O. Box 110,3982,76.706018,-20.983392,<none>
+1198,<none>,AT,FÜRTH,OO,Brucker Bundesstrasse 95,4707,48.169842,13.816886,<none>
+1199,<none>,AU,GLENBROOK,NSW,45 Berambing Crescent,2773,-33.817231,150.539634,<none>
+1200,<none>,CY,ΛΕΜΕΣΟΣ,LI,Αρτεμισίου 107,3095,41.29496,-72.89928,<none>
+1201,<none>,SI,Teharje,,Dunajska 78,3221,46.255559,15.361449,<none>
+1202,<none>,IT,Spina,PG,Via Silvio Spaventa 50,6050,42.954536,12.302685,<none>
+1203,<none>,CA,Rice Point,PE,2560 Wharf Road,C0A 1H6,46.153486,-62.937668,<none>
+1204,<none>,ZA,Johannesburg,GA,2254 President St,2107,-26.286966,27.988163,<none>
+1205,<none>,BR,São Paulo,SP,Rua Nelson Antônio 1908,05417-060,-23.624841,-46.734911,<none>
+1206,<none>,US,Kansas City,MO,2011 Big Elm,64151,39.260989,-94.619931,<none>
+1207,<none>,FR,PARIS,IL,69 Place de la Madeleine,75008,48.908369,2.253522,<none>
+1208,<none>,AU,SADLIERS CROSSING,QLD,52 Zipfs Road,4305,-27.74291,152.662702,<none>
+1209,<none>,DK,Dannemare,SJ,Jomfrustien 12,4983,54.659398,11.175781,<none>
+1210,<none>,EE,Kalme,VG,Põllu 98,68618,58.276058,26.38882,<none>
+1211,<none>,FI,KUOPIO,NS,Norra Larsmovägen 88,70009,62.954303,27.696809,<none>
+1212,<none>,FI,OULU,NO,Jalonkatu 93,90220,64.974924,25.43604,<none>
+1213,<none>,PT,Póvoa de Lanhoso,BR,R São Silvestre 88,4830-343,41.431275,-8.311607,<none>
+1214,<none>,DE,Bayreuth,BY,Kantstrasse 81,95411,49.911019,11.545358,<none>
+1215,<none>,CA,Cobden,ON,1225 Reserve St,K0J 1K0,45.641625,-76.876379,<none>
+1216,<none>,NL,Den Haag,ZH,Pomonalaan 46,2564 XZ,52.079659,4.319729,<none>
+1217,<none>,HU,Tiszabecs,SZ,Apor Péter u. 71.,4951,48.156532,22.766419,<none>
+1218,<none>,DK,København K,SJ,Slipager 85,1429,55.643769,12.641739,<none>
+1219,<none>,HU,Mende,PE,Síp utca 77.,2235,47.42726,19.459383,<none>
+1220,<none>,GB,PATTISWICK,,77 Well Lane,CM7 3PY,51.86895,0.507072,<none>
+1221,<none>,TN,Cite Snit,82,37 Rue de Sokrine,4146,36.873225,10.003117,<none>
+1222,<none>,EE,Tallinn,HA,Vabriku 76,13416,59.334968,24.779359,<none>
+1223,<none>,IT,Reitano,ME,Via Nuova del Campo 103,98070,38.022144,14.338998,<none>
+1224,<none>,NL,Wijhe,OV,De Wesenberg 19,8131 TH,52.314375,6.040468,<none>
+1225,<none>,NL,Den Haag,ZH,Ingenhouszstraat 126,2522 AX,52.059324,4.311395,<none>
+1226,<none>,CH,Rigi Klösterli,,Wolfensbergstrasse 89,6410,47.13596,8.424574,<none>
+1227,<none>,SI,Sovodenj,,Dunajska 3,4225,46.012419,14.074139,<none>
+1228,<none>,US,Independence,OH,4711 Harley Vincent Drive,44131,41.400421,-81.607326,<none>
+1229,<none>,GB,CHARLTON-ALL-SAINTS,,85 Walwyn Rd,SP5 1WS,50.750758,-1.741743,<none>
+1230,<none>,SE,MULLHYTTAN,,Sandviken 34,716 17,59.166448,14.729684,<none>
+1231,<none>,US,Starbuck,MN,3454 Progress Way,56381,45.575177,-95.610369,<none>
+1232,<none>,NO,MOSS,,Myraveien 121,1529,59.424571,10.587926,<none>
+1233,<none>,EE,Kupu,HA,Odra 61,74610,59.435925,25.398803,<none>
+1234,<none>,EE,Tallinn,HA,Timuti 72,15054,59.452754,24.690378,<none>
+1235,<none>,ES,Villamalur,CS,Crta. Cádiz-Málaga 67,12224,40.064074,-0.361037,<none>
+1236,<none>,NL,Staphorst,OV,Oranjestraat 23,7951 BE,52.738106,6.13876,<none>
+1237,<none>,AU,KELVIN GROVE,QLD,20 Davis Street,4059,-27.369699,152.941606,<none>
+1238,<none>,FR,BASSE-TERRE,GD,82 Rue du Limas,97100,48.84998,-0.559912,<none>
+1239,<none>,CZ,Kdyne,PL,Americká 1725,345 06,49.31803,13.022643,<none>
+1240,<none>,ES,Collado Villalba,M,Extramuros 95,28400,40.684994,-3.969231,<none>
+1241,<none>,FR,DUNKERQUE,NP,79 Avenue Millies Lacroix,59640,50.959795,2.276909,<none>
+1242,<none>,UY,Paraje San Juan,CA,Hocquart 6874,90601,-32.781942,-56.117727,<none>
+1243,<none>,BR,Piracicaba,SP,Rua Vinício Romanelli 649,13402-068,-22.737673,-47.739696,<none>
+1244,<none>,GB,TODENHAM,,91 Ploughley Rd,GL56 8HJ,51.939528,-1.582906,<none>
+1245,<none>,AT,HUNDSDORF,KA,Wiedner Hauptstrasse 3,9470,46.669884,14.795239,<none>
+1246,<none>,NZ,Monaco,,122 Ngawhatu Road,7011,-41.406095,173.199085,<none>
+1247,<none>,DK,Årslev,SY,Gasværksvej 52,5792,55.354027,10.396566,<none>
+1248,<none>,NZ,Opoho,,204 Primrose Bank,9010,-45.76434,170.511007,<none>
+1249,<none>,SE,PÅLSBODA,,Libecksvägen 85,690 70,59.158071,14.441227,<none>
+1250,<none>,FI,UUSIKAUPUNKI,VS,Norrbyvägen 85,23500,60.855632,21.468195,<none>
+1251,<none>,EE,Narva,IV,Kooli 35,20105,59.34743,28.131987,<none>
+1252,<none>,BE,Erneuville,WHT,Drève des Bouleaux 406,6972,50.185312,5.482663,<none>
+1253,<none>,SI,Rače,,Turjaška 114,2327,46.527266,15.725639,<none>
+1254,<none>,CA,Penticton,BC,758 Kinchant St,V2A 2V6,49.597231,-119.49995,<none>
+1255,<none>,AU,YANDOIT,VIC,71 Cherokee Road,3461,-37.303628,144.267687,<none>
+1256,<none>,NZ,Huntly,,118 Lakeview Terrace,3700,-37.616201,175.090462,<none>
+1257,<none>,HU,Tégláskert,,Hegyalja út 23.,4022,47.778492,21.211014,<none>
+1258,<none>,FR,PARIS,IL,82 rue Nationale,75006,48.814241,2.378027,<none>
+1259,<none>,PL,Gdynia,,ul. Romanowskiego 102,81-188,54.496029,18.619995,<none>
+1260,<none>,CA,Aldergrove,BC,739 James Street,V5G 4S4,49.085084,-122.385901,<none>
+1261,<none>,NL,Zoetermeer,ZH,Medeaschouw 116,2726 KT,51.99433,4.505283,<none>
+1262,<none>,CH,Estavayer-le-Lac,,Quadra 97,1470,46.920257,6.927127,<none>
+1263,<none>,ES,Tivissa,T,Outid de Arriba 24,43746,41.125166,0.653661,<none>
+1264,<none>,AT,INNERPIRACH,OO,Bonygasse 10,5143,48.003068,13.083515,<none>
+1265,<none>,NZ,Hillsborough,,104 Oakview Lane,8022,-43.479758,172.698175,<none>
+1266,<none>,ZA,Durbanville,WC,2154 Rus St,7550,-33.772567,18.698523,<none>
+1267,<none>,PT,Guimarei,PO,R Sardinha 19,4825-196,41.220375,-8.56103,<none>
+1268,<none>,ZA,Lydenburg,MP,2295 Oost St,1123,-25.00374,30.541725,<none>
+1269,<none>,CY,Larnaka,LA,221 Sofokli Venizelou Square,6035,41.280384,-72.962087,<none>
+1270,<none>,FR,LE CHESNAY,IL,52 boulevard Aristide Briand,78150,48.801419,2.10438,<none>
+1271,<none>,BR,Goiânia,GO,Rua CP 42 897,74477-214,-16.605021,-49.229713,<none>
+1272,<none>,AU,GLENCOE WEST,SA,72 Carba Road,5291,-37.906089,140.649364,<none>
+1273,<none>,CY,ΛΕΥΚΩΣΙΑ,NI,Καλαμπάκα 22,1407,41.4299,-73.011608,<none>
+1274,<none>,CY,ΓΥΨΟΥ,FA,Μιχ. Βόδα 18,5626,41.354712,-72.932294,<none>
+1275,<none>,DE,Oberreichenbach,BW,Brandenburgische Str. 28,75394,48.831968,8.669404,<none>
+1276,<none>,CY,ΛΕΜΕΣΟΣ,LI,Αρμονίας 162,3110,41.319975,-72.949936,<none>
+1277,<none>,CA,Mildmay,ON,4762 Fallon Drive,N0G 2J0,44.113056,-81.06634,<none>
+1278,<none>,CY,ΜΟΝΙΑΤΗΣ,LI,Νοταρά 59,4747,41.301439,-72.830465,<none>
+1279,<none>,IT,Cargeghe,SS,Via Carlo Cattaneo 104,7030,40.91328,8.943705,<none>
+1280,<none>,AT,HÖLLERSBERG,OO,Feldkircher Strasse 12,5222,48.146798,13.227566,<none>
+1281,<none>,NO,OSLO,,Øvre Lunden 46,598,59.980659,10.813068,<none>
+1282,<none>,UY,Cuchilla Alta,CA,Ceibo 5084,16400,-34.708416,-55.418471,<none>
+1283,<none>,CY,Strovolos,NI,100 Minoos Street,2062,41.393022,-72.886356,<none>
+1284,<none>,AT,WITZELSBERG,NO,Mariatal 90,4271,48.499642,14.597685,<none>
+1285,<none>,BR,Ribeirão das Neves,MG,Rua São Francisco de Assis 744,33820-120,-19.719457,-44.06215,<none>
+1286,<none>,ES,Algar,CA,C/ Rosa de los Vientos 92,11639,36.671469,-5.571716,<none>
+1287,<none>,US,Los Angeles,CA,587 Southside Lane,90018,34.118974,-118.385024,<none>
+1288,<none>,ES,Almargen,MA,Avda. de Andalucía 38,29330,37.096653,-5.061482,<none>
+1289,<none>,GL,Danmarkshavn,NGNP,P.O. Box 103,3984,76.817814,-18.537833,<none>
+1290,<none>,NL,Reusel,NB,Turnhoutseweg 200,5541 NW,51.416878,5.192337,<none>
+1291,<none>,NL,Amsterdam,NH,Herman Gorterstraat 190,1077 WD,52.354244,4.837534,<none>
+1292,<none>,US,Odell,NE,1340 North Avenue,68415,40.126552,-96.729193,<none>
+1293,<none>,GL,Alluitsup Paa,KU,Aqqusinersuaq 194,3919,60.37725,-45.623995,<none>
+1294,<none>,GL,Uummannaq,QA,P.O. Box 187,3961,70.763256,-50.194906,<none>
+1295,<none>,GL,Qaqortoq,KU,Ringvej 54,3920,60.797543,-45.939725,<none>
+1296,<none>,EE,Laatre,VG,Sanglepa 1,68302,57.769315,26.20384,<none>
+1297,<none>,ES,Castell de Castells,A,C/ Manuel Iradier 59,3793,38.661366,-0.162764,<none>
+1298,<none>,SI,Šentjur,,Tavcarjeva 41,3230,46.171646,15.347316,<none>
+1299,<none>,BR,Manaus,AM,Rua L 153,69082-452,-2.723016,-60.181973,<none>
+1300,<none>,UY,Punta del Este,MA,Colombes 7789,20100,-35.028716,-54.879291,<none>
+1301,<none>,SI,Zgornji Leskovec,,Dalmatinova 79,2285,46.331273,15.912457,<none>
+1302,<none>,FR,NEUILLY-SUR-SEINE,IL,91 rue de Raymond Poincaré,92200,48.87392,2.268598,<none>
+1303,<none>,SE,MÅLSRYD,,Alingsåsvägen 95,510 52,57.828415,14.036861,<none>
+1304,<none>,ZA,Pietersburg,LI,1720 Mark Street,725,-23.852192,29.707977,<none>
+1305,<none>,BE,Flénu,WHT,Sur les Tailles 86,7012,50.478593,3.948323,<none>
+1306,<none>,AU,BOOK BOOK,NSW,50 Border Drive,2650,-35.122875,147.452805,<none>
+1307,<none>,FR,NANTES,PL,38 place Stanislas,44000,47.165313,-1.494957,<none>
+1308,<none>,FR,GUÉRET,LI,49 Avenue des Tuileries,23000,45.985122,1.737615,<none>
+1309,<none>,BE,Ramskapelle,VWV,Rue Dielhère 440,8301,51.357781,3.221505,<none>
+1310,<none>,CA,Gooderham,ON,4752 Reserve St,K0M 1R0,44.997374,-78.376666,<none>
+1311,<none>,SI,Ljubljana,,Ilichova 49,1512,46.113587,14.546164,<none>
+1312,<none>,EE,Liivaküla,LV,Lääne 29,46218,58.917313,23.822678,<none>
+1313,<none>,CY,ΛΕΥΚΩΣΙΑ,NI,Τρικάλων 236,1702,41.280606,-72.837773,<none>
+1314,<none>,ZA,Lambertsbaai,WC,1065 Sandown Rd,8130,-32.187126,18.235484,<none>
+1315,<none>,BR,Serra,ES,Rua Guilherme de Almeida 1263,29164-390,-20.051745,-40.230264,<none>
+1316,<none>,PT,Alverca do Ribatejo,LI,Plano Integrado 40,2615-053,39.271231,-9.283657,<none>
+1317,<none>,GB,HOLLINGTON,,5 Kingsway North,TN37 5ND,50.949487,0.645808,<none>
+1318,<none>,ZA,Queen's Mercy,EC,981 Roger St,4743,-30.153887,28.48189,<none>
+1319,<none>,CZ,Štoky,VY,Alšova 111,582 53,49.409502,15.594171,<none>
+1320,<none>,TN,Tijma,81,92 Rue Hegel,6070,34.593018,10.418252,<none>
+1321,<none>,FI,UUSIKAUPUNKI,VS,Norrbyvägen 18,23520,60.705782,21.391803,<none>
+1322,<none>,US,San Diego,CA,2026 Grim Avenue,92103,32.833557,-117.148921,<none>
+1323,<none>,PT,Funchal,MA,Rua Pombal 55,9000-114,32.561221,-16.837429,<none>
+1324,<none>,BR,Jaboatão dos Guararapes,PE,Rua Limeira 942,54490-182,-8.125143,-34.955797,<none>
+1325,<none>,SI,Maribor,,Parmova 45,2505,46.546168,15.718386,<none>
+1326,<none>,HU,Lulla,SO,Nánási út 25.,8660,46.775986,18.052719,<none>
+1327,<none>,PT,Rio Maior,SA,Avenida Madre Andaluz 96,2040-210,39.450489,-8.633346,<none>
+1328,<none>,EE,Suuremõisa,HI,Räitsaka 20,92302,58.890863,22.977875,<none>
+1329,<none>,FR,MAISONS-ALFORT,IL,12 avenue Voltaire,64700,43.232587,-1.694911,<none>
+1330,<none>,SE,RYSSBY,,Bygget 25,340 16,56.840386,14.179384,<none>
+1331,<none>,PL,Łódź,,ul. Skwarczyńskiej Stefanii 117,91-175,51.713297,19.397244,<none>
+1332,<none>,DK,København K,SJ,Mikkelenborgvej 82,1364,55.691997,12.488433,<none>
+1333,<none>,ZA,Eshowe,KN,1246 Union Lane,3820,-28.832611,31.473091,<none>
+1334,<none>,AT,KÖNIGSHOF,NO,Favoritenstrasse 74,2460,47.941345,16.831736,<none>
+1335,<none>,CH,Steinegg,,Via Albarelle 39,9050,47.344662,9.430632,<none>
+1336,<none>,UY,Chamizo,CA,Colón 1618,90602,-34.189103,-55.85118,<none>
+1337,<none>,NO,FOSNAVÅG,,Rabbegjerdet 208,6091,62.427289,5.612538,<none>
+1338,<none>,IS,Reykjavík,,Sudurlandsbraut 28,105,64.148482,-22.013221,<none>
+1339,<none>,EE,Põltsamaa,JN,Tuuliku 28,48102,58.736609,25.952591,<none>
+1340,<none>,AU,BOOYONG,NSW,59 Bass Street,2480,-28.807055,153.265658,<none>
+1341,<none>,GB,COTHILL,,93 Whatlington Road,OX13 9UF,51.348977,-1.841687,<none>
+1342,<none>,ES,Golosalvo,AB,C/ Domingo Beltrán 39,2253,39.140111,-1.551151,<none>
+1343,<none>,NZ,Burwood,,35 Bathurst Lane,8083,-43.569356,172.671954,<none>
+1344,<none>,SI,Miklavž na Dravskem polju,,Parmova 59,2204,46.517617,15.657438,<none>
+1345,<none>,PT,Santa Maria do Monte,AV,Avenida Escolas 102,4540-550,40.763853,-8.358324,<none>
+1346,<none>,AU,WATERMANS BAY,WA,27 Souttar Terrace,6020,-31.913613,115.749676,<none>
+1347,<none>,EE,Viljandi,VD,Ümarmäe 21,71033,58.3756,25.598872,<none>
+1348,<none>,GB,TODWICK,,62 Ploughley Rd,S31 3JG,53.20878,-1.436137,<none>
+1349,<none>,HU,Sósvertike,BA,Agip u. 77.,7960,45.921876,17.86229,<none>
+1350,<none>,CY,Nicosia,NI,7 S. Venizelou,1478,41.294049,-72.901453,<none>
+1351,<none>,FI,HELSINKI,UU,Rauhankatu 10,850,60.203381,24.939293,<none>
+1352,<none>,SI,Kozje,,Kolodvorska 6,3260,46.084987,15.522836,<none>
+1353,<none>,NL,Apeldoorn,GE,Het Kasteel 1,7325 PK,52.248401,5.889217,<none>
+1354,<none>,AT,IRLACH,SZ,Bonygasse 14,5151,48.030482,13.055186,<none>
+1355,<none>,US,New York,NY,4975 Redbud Drive,10013,40.703431,-74.068287,<none>
+1356,<none>,FR,PARIS,IL,98 rue Nationale,75003,48.953718,2.271314,<none>
+1357,<none>,GB,KIRKTON OF MONIKIE,,81 Witney Way,DD5 6UP,56.556541,-2.901029,<none>
+1358,<none>,SI,Prebold,,Turjaška 33,3312,46.259489,15.045303,<none>
+1359,<none>,GB,LITTLE BARRINGTON,,63 Victoria Road,OX18 2DA,51.406806,-1.656612,<none>
+1360,<none>,PL,Łódź,,ul. Kostki Napierskiego Aleksandra 48,94-056,51.798332,19.43107,<none>
+1361,<none>,PL,Kielce,,ul. Wojska Polskiego 128,25-206,50.790323,20.718139,<none>
+1362,<none>,CY,Moni Archangelou Michail,NI,162 Omonia Square,2649,41.262986,-72.896917,<none>
+1363,<none>,CH,Hegnau,,Höhenweg 74,8604,47.296327,8.778245,<none>
+1364,<none>,HU,Sárospatak,BZ,Hegyalja út 84.,3950,48.402977,21.543973,<none>
+1365,<none>,CZ,Podbrezí,KR,Českého odboje 441,518 03,50.326071,16.14188,<none>
+1366,<none>,EE,Kastli,TA,Männimetsa tee 54,60508,58.584856,26.595868,<none>
+1367,<none>,ES,Torrijos,TO,Reiseñor 67,45500,39.967212,-4.335711,<none>
+1368,<none>,UY,Cuchilla Alta,CA,Ceibo 6434,16400,-34.735266,-55.514536,<none>
+1369,<none>,SI,Loški Potok,,Parmova 32,1318,45.642179,14.595118,<none>
+1370,<none>,DK,København V,SJ,Havnevejen 27,1720,55.711252,12.547041,<none>
+1371,<none>,GB,PITSTONE,,60 Wressle Road,LU7 1PQ,51.777517,-0.716576,<none>
+1372,<none>,HU,Abaújszolnok,BZ,Baross tér 12.,3809,48.34211,20.998105,<none>
+1373,<none>,SI,Žetale,,Dalmatinova 55,2287,46.250301,15.78092,<none>
+1374,<none>,IT,Capolona,AR,Via Callicratide 19,52010,43.743864,11.850355,<none>
+1375,<none>,SI,Ljubljana,,Ilichova 56,1526,46.059573,14.425711,<none>
+1376,<none>,TN,El Fej,43,88 Rue Shakespeare,9169,35.987329,9.287344,<none>
+1377,<none>,ES,Abarán,MU,Cartagena 7,30550,38.216566,-1.391625,<none>
+1378,<none>,BE,Vaux-lez-Rosières,WHT,Kasterleesteenweg 252,6640,49.864169,5.571472,<none>
+1379,<none>,BE,Froidmont,WHT,Taille Maréchal 274,7504,50.564419,3.293328,<none>
+1380,<none>,GL,Kangerlussuaq,QE,P.O. Box 172,3910,77.367795,-67.114866,<none>
+1381,<none>,GL,Ikerasassuaq,KU,P.O. Box 274,3924,60.015779,-43.191852,<none>
+1382,<none>,PT,Lisboa,LI,Avenida República 57,1950-266,38.692434,-9.090409,<none>
+1383,<none>,UY,Pinares - Las Delicias,MA,Democracia 7943,20005,-34.830825,-55.021067,<none>
+1384,<none>,HU,Budapest,BU,Árpád fejedelem útja 27.,1223,47.529273,19.004105,<none>
+1385,<none>,BR,Franco da Rocha,SP,Rua Luiz Uvaldo Gonçalves 39,07809-090,-23.292785,-46.691759,<none>
+1386,<none>,PL,Rzeszów,,ul. Słoneczna 22,35-061,50.119683,21.993883,<none>
+1387,<none>,AT,MOOSING,ST,Spielerstrasse 27,8561,46.934164,15.374505,<none>
+1388,<none>,DK,Frederiksberg C,SJ,Funkevænget 51,1906,55.731509,12.487441,<none>
+1389,<none>,PL,Warszawa,,ul. Wykusz 53,02-186,52.250645,20.965004,<none>
+1390,<none>,UY,Pinares - Las Delicias,MA,Democracia 7588,20005,-34.955919,-54.915243,<none>
+1391,<none>,CY,Larnaka,LA,20 Sofokli Venizelou Square,6041,41.248405,-72.9989,<none>
+1392,<none>,DE,Bamberg,BY,Rudower Chaussee 15,96033,49.808385,10.914601,<none>
+1393,<none>,AT,KLEINKÖSTENDORF,SZ,Kelsenstrasse 70,5202,48.049752,13.173599,<none>
+1394,<none>,HU,Rátót,VA,Kis Diófa u. 80.,9951,46.899793,16.432668,<none>
+1395,<none>,IT,Carmignanello,PO,Piazza Mercato 97,59022,44.073014,11.109132,<none>
+1396,<none>,CY,∆ΑΣΙΚΟΣ ΣΤΑΘΜΟΣ ΠΛΑΤΑΝΙΩΝ,NI,Κλεομένους 149,2829,41.355649,-72.895017,<none>
+1397,<none>,DK,København V,SJ,Grønlandsgade 51,1785,55.595621,12.659276,<none>
+1398,<none>,BE,Mol,VAN,Luchthavenlaan 262,2400,51.130882,5.056111,<none>
+1399,<none>,SI,Odranci,,Gosposka ulica 46,9233,46.609399,16.372298,<none>
+1400,<none>,PL,Ostrowiec Świętokrzyski,,ul. Sienkiewicza 70,27-402,50.868152,21.36743,<none>
+1401,<none>,IT,Castelnuovo Fogliani,PC,Via Torino 44,29010,44.994951,9.321629,<none>
+1402,<none>,US,Needmore,TX,2735 Emma Street,79347,33.995215,-102.732353,<none>
+1403,<none>,DK,København K,SJ,Sandagervej 11,1460,55.659894,12.590943,<none>
+1404,<none>,DE,Bogen,BY,Schmarjestrasse 47,94325,48.983607,12.700669,<none>
+1405,<none>,US,Kremlin,OK,4170 Dovetail Estates,73753,36.485686,-97.823795,<none>
+1406,<none>,BR,Lago Sul,DF,Conjunto SMDB Conjunto 24 1617,71680-240,-15.849506,-47.953489,<none>
+1407,<none>,CY,Kissousa,LI,222 Diakou Street,4775,41.315453,-72.861656,<none>
+1408,<none>,GL,Tasiilaq,SM,Napparngummut 179,3913,65.59692,-37.690132,<none>
+1409,<none>,IS,Reykjavík,,Keflavíkurgata 35,129,64.10839,-22.013211,<none>
+1410,<none>,CY,ΛΙΒΑ∆ΙΑ ΠΙΤΣΥΛΙΑΣ,NI,Λ. Ποσειδώνος 262,2754,41.24877,-73.012427,<none>
+1411,<none>,GL,Tasiilaq,SM,Napparngummut 131,3913,65.580235,-37.62169,<none>
+1412,<none>,CZ,Ostrov nad Ohrí,KA,Pivovarská 442,363 01,50.431709,13.075786,<none>
+1413,<none>,SI,Bistrica ob Sotli,,Trg revolucije 16,3256,46.153683,15.750307,<none>
+1414,<none>,FR,SAINT-RAPHAËL,PA,48 rue de la Hulotais,83700,43.422509,6.816422,<none>
+1415,<none>,EE,Viira,SA,Viru 55,94766,58.33738,22.562959,<none>
+1416,<none>,GB,CHERITON BISHOP,,82 Graham Road,EX6 5RA,50.639373,-3.405887,<none>
+1417,<none>,BR,Mesquita,RJ,Travessa Mazinho 243,26582-540,-22.836757,-43.412663,<none>
+1418,<none>,SI,Ljubljana,,Ilichova 68,1509,45.992665,14.539365,<none>
+1419,<none>,TN,Ezzeirate,53,74 Rue Abou Faraj al-Asfaheni,5140,35.72115,10.159812,<none>
+1420,<none>,DK,København K,SJ,Frørupvej 92,1151,55.687449,12.652554,<none>
+1421,<none>,IT,Caravita,NA,Via Guantai Nuovi 94,80040,40.78865,14.263872,<none>
+1422,<none>,BE,Chaudfontaine,WLG,Brixtonlaan 34,4050,50.60198,5.607677,<none>
+1423,<none>,FR,LE ROBERT,MQ,36 rue Adolphe Wurtz,97231,45.752451,5.196628,<none>
+1424,<none>,UY,19 de Abril,RO,Avenida Agraciada 7890,27003,-34.400008,-54.12806,<none>
+1425,<none>,TN,Cite El Bassatine,13,121 Rue Ahmed Errai,1145,34.820073,9.698722,<none>
+1426,<none>,AT,FROHNWIES,SZ,Aufeld 2,5093,47.567044,12.825918,<none>
+1427,<none>,SE,ÅSELE,,Söråsele 63,910 60,64.189132,17.430322,<none>
+1428,<none>,AU,WARDELL,NSW,38 Boland Drive,2477,-28.831156,153.370896,<none>
+1429,<none>,EE,Narva-Jõesuu,IV,Vabaduse 18,29002,59.515419,28.005365,<none>
+1430,<none>,FR,LE PORT,GY,27 rue Adolphe Wurtz,97420,43.752729,7.302148,<none>
+1431,<none>,FR,ÉTAMPES,IL,95 Rue du Palais,91150,48.325047,2.212469,<none>
+1432,<none>,NL,Warmond,ZH,Ganzenwei 175,2361 XT,52.246583,4.526005,<none>
+1433,<none>,AT,STEINSCHILD,NO,Parkring 77,4192,48.43132,14.292419,<none>
+1434,<none>,NL,Soest,UT,Clauslaan 147,3761 CZ,52.175706,5.383755,<none>
+1435,<none>,CZ,Krinec,ST,Sokolská 1260,289 33,50.215844,15.220483,<none>
+1436,<none>,BR,Campo Grande,MS,Avenida Ricardo Brandão 1854,79020-337,-20.974012,-54.281404,<none>
+1437,<none>,AT,ARMAU,OO,Bräuhof 32,4712,48.191984,13.806745,<none>
+1438,<none>,PT,Alcains,CA,R Engenheiro Duarte Pacheco 22,6005-019,40.010626,-7.516864,<none>
+1439,<none>,GB,NORTH TARBOTHILL,,10 Southern Way,AB23 0HU,57.115224,-1.988456,<none>
+1440,<none>,CY,ΓΕΡΜΑΣΟΓΕΙΑ,LI,Κουκάκι 143,4042,41.271084,-72.954042,<none>
+1441,<none>,CA,Spruce Grove,AB,1136 Campsite Road,T7X 2Y8,53.523665,-113.957982,<none>
+1442,<none>,NL,Niawier,FR,Linepaed 95,9138 ST,53.45467,6.122896,<none>
+1443,<none>,CH,Basel,,Breitenstrasse 4,4039,47.665944,7.556475,<none>
+1444,<none>,BE,Ermeton-sur-Biert,WNA,Drève des Bouleaux 208,5644,50.406829,4.758927,<none>
+1445,<none>,NO,ARENDAL,,Strømsbusletta 120,4847,58.380435,8.755185,<none>
+1446,<none>,NL,Amsterdam,NH,Jacob van Lennepkade 10,1054 ZW,52.402039,4.984749,<none>
+1447,<none>,NZ,Raumati Beach,,236 Rosetta Road,5032,-40.875588,174.985962,<none>
+1448,<none>,FR,NICE,PA,64 rue des Chaligny,6100,43.60419,7.303759,<none>
+1449,<none>,IT,Porto Ercole,GR,Corso Vittorio Emanuele 9,58018,42.347151,11.23571,<none>
+1450,<none>,CY,ΜΑΚΡΑΣΥΚΑ,FA,Λεωφόρος Βασ. Γεωργίου 272,5566,41.299769,-72.985588,<none>
+1451,<none>,CY,ΛΕΜΕΣΟΣ,LI,Αρτεμισίου 63,3087,41.30864,-73.00743,<none>
+1452,<none>,SE,SKAGERSVIK,,Långgatan 36,547 03,59.037599,14.189103,<none>
+1453,<none>,ES,Santiago del Teide,TF,Plazuela do Porto 6,38436,28.370773,-16.859922,<none>
+1454,<none>,UY,Mendoza Chico,FD,Del Sauzal 6934,94006,-34.25123,-56.201073,<none>
+1455,<none>,NZ,Starvation Hill,,171 Woodside Road,7430,-43.224954,172.19866,<none>
+1456,<none>,HU,Diszel,,Rákóczi út 72.,8297,47.004666,17.418098,<none>
+1457,<none>,GB,CHERITON,,50 Graham Road,SO24 8UZ,51.061644,-1.177689,<none>
+1458,<none>,GB,IREBY,,86 Hexham Road,LA6 6YH,53.486512,-2.570386,<none>
+1459,<none>,GL,Uummannaq,QA,P.O. Box 126,3961,70.743551,-50.136926,<none>
+1460,<none>,BR,Itaguaí,RJ,Rua Washington Luís 25,23835-570,-22.773646,-43.736459,<none>
+1461,<none>,DE,Oettingen,BY,Alsterkrugchaussee 62,86732,48.945933,10.540478,<none>
+1462,<none>,EE,Alatskivi,TA,Aia 2,60201,58.631163,27.08643,<none>
+1463,<none>,BR,Belém,PA,Rua Nova do Fidélis 1877,66842-190,-1.388761,-48.494981,<none>
+1464,<none>,BR,Blumenau,SC,Rua Palhoça 1024,89010-690,-26.928639,-49.16254,<none>
+1465,<none>,EE,Varstu,VR,Tuuliku 61,66101,57.63622,26.741465,<none>
+1466,<none>,GB,USK,,96 Canterbury Road,NP5 8SH,51.577903,-2.974296,<none>
+1467,<none>,EE,Lõve,VG,Rookopli 71,68707,57.827774,26.221274,<none>
+1468,<none>,ES,Alhendín,GR,Inglaterra 71,18620,37.189365,-3.707578,<none>
+1469,<none>,US,San Francisco,CA,4648 Rardin Drive,94107,37.7965,-122.479505,<none>
+1470,<none>,DE,Hepstedt,NI,Budapester Strasse 71,27412,53.146114,9.026448,<none>
+1471,<none>,ES,Espelúy,J,C/ Cuevas de Ambrosio 96,23628,38.016869,-3.865963,<none>
+1472,<none>,CZ,Trebelovice,VY,Spojovací 1981,675 32,48.937286,15.679464,<none>
+1473,<none>,AU,WORROLONG,SA,55 Carba Road,5291,-37.924668,140.740696,<none>
+1474,<none>,SI,Senovo,,Tavcarjeva 105,8281,45.992311,15.558611,<none>
+1475,<none>,FI,LAPPEENRANTA,SK,Puruntie 21,53007,61.059459,28.282818,<none>
+1476,<none>,ZA,Beaufort West,WC,1342 Bad St,6970,-32.415793,22.489151,<none>
+1477,<none>,ES,Bóveda,LU,Ctra. de Siles 20,27340,43.344686,-8.274744,<none>
+1478,<none>,BE,Kuttekoven,VLI,Hooivelden 150,3840,50.732301,5.289195,<none>
+1479,<none>,PT,Maia,PO,R Oliveirinhas 27,4425-379,41.11362,-8.492625,<none>
+1480,<none>,CZ,Decín 2,US,Nad Tratí 1784,405 02,50.662965,14.227443,<none>
+1481,<none>,FR,STRASBOURG,AL,8 rue Descartes,67000,48.623107,7.777988,<none>
+1482,<none>,NL,Assen,DR,Geerlanden 116,9407 PM,53.048375,6.629666,<none>
+1483,<none>,CZ,Krupka 3,US,Sídliště Za Chlumem 1586,417 41,50.621068,13.838543,<none>
+1484,<none>,PL,Rzeszów,,ul. Marzanny 2,35-315,50.090925,22.076881,<none>
+1485,<none>,TN,Cite Taieb Mhiri,71,129 Rue Al Imam Al Bakri,2190,33.793479,10.178884,<none>
+1486,<none>,CY,ΚΑΤΩ ΠΟΛΕΜΙ∆ΙΑ,LI,πλατεία Καραισκάκη 291,4156,41.405363,-72.917235,<none>
+1487,<none>,CY,Pyla,LA,168 Eleftherias Street,7081,41.375871,-72.898899,<none>
+1488,<none>,FR,SAINT-POL-SUR-MER,NP,69 rue de la Hulotais,59430,50.944846,2.35262,<none>
+1489,<none>,FI,KASKINEN,OS,Skrattnäsvägen 93,64260,62.3266,21.241462,<none>
+1490,<none>,AU,MOUNT LOW,QLD,60 Eshelby Drive,4818,-19.249304,146.621347,<none>
+1491,<none>,UY,Montevideo,MO,Copacabana 6972,12700,-34.866805,-56.129137,<none>
+1492,<none>,AU,ROWENA,NSW,2 Dalgarno Street,2387,-29.776506,148.787511,<none>
+1493,<none>,AT,WULZESHOFEN,NO,Hausergasse 12,2064,48.62789,16.390078,<none>
+1494,<none>,CZ,Jaroslavice,JM,Lomená 437,671 28,48.691713,16.215391,<none>
+1495,<none>,BE,Lobbes,WLX,Rue du Château 459,6540,50.396341,4.194119,<none>
+1496,<none>,BE,Wonck,WLG,Rue du Commerce 462,4690,50.73354,5.639663,<none>
+1497,<none>,PL,Białystok,,ul. Skórzana 135,15-284,53.161202,23.067355,<none>
+1498,<none>,BR,Salvador,BA,Rua Pedro Álvares Cabral 1984,40730-140,-12.829525,-38.56975,<none>
+1499,<none>,NO,SANDEFJORD,,Storøyaveien 246,3231,59.101085,10.28688,<none>
+1500,<none>,TN,Cite Erriadh,12,106 Rue Aerobic,2081,35.662913,10.160711,<none>
+1501,<none>,AT,GRÜBEN,OO,Ziegelgasse 25,4731,48.263179,13.901151,<none>
+1502,<none>,CA,Edmonton,AB,1144 184th Street,T5J 2R4,53.571445,-113.57045,<none>
+1503,<none>,CY,ΚΑΤΥ∆ΑΤΑ,NI,πλατεία Καραισκάκη 282,2835,41.260367,-72.829198,<none>
+1504,<none>,NL,Wormerveer,NH,Insulindelaan 184,1521 BC,52.570187,4.810143,<none>
+1505,<none>,TN,Charguia 1,12,70 Rue de Halo Eloued,2035,36.817156,10.145936,<none>
+1506,<none>,HU,Lapáncsa,BA,Piroska u. 74.,7775,45.885142,18.520315,<none>
+1507,<none>,CA,Richmond,BC,4760 No. 3 Road,V6X 2B8,49.198986,-122.873998,<none>
+1508,<none>,CY,ΛΕΜΕΣΟΣ,LI,Πάνου 151,3017,41.250602,-72.986511,<none>
+1509,<none>,CZ,Boršice u Buchlovic,ZL,Bedřicha Smetany 1606,687 09,48.985356,17.381937,<none>
+1510,<none>,EE,Varudi-Vanaküla,LV,Vambola 26,44229,59.438274,26.583026,<none>
+1511,<none>,UY,Agraciada,CA,Dr. Francisco Soca 3499,70102,-34.837533,-55.808586,<none>
+1512,<none>,CY,Ergates,NI,234 Daskalaki Street,2643,41.407051,-72.99568,<none>
+1513,<none>,ZA,Vryburg,NW,1811 Gleemoor Rd,8616,-27.044873,24.679785,<none>
+1514,<none>,CY,Elia Lefkosias,NI,232 M. Portaliou Street,2830,41.318682,-72.915384,<none>
+1515,<none>,CY,ΚΑΖΑΦΑΝΙ,KY,πλατεία Καραισκάκη 12,9511,41.334157,-72.986312,<none>
+1516,<none>,CA,Sayabec,QC,3353 St Jean Baptiste St,G0J 3K0,48.454569,-67.621184,<none>
+1517,<none>,CY,Saranti,NI,197 Sounio Road,2757,41.318172,-72.826633,<none>
+1518,<none>,FI,HELSINKI,UU,Suometsäntie 88,620,60.152753,24.903357,<none>
+1519,<none>,UY,Puntas de Maciel,FD,Colombes 2688,94010,-33.512635,-56.391835,<none>
+1520,<none>,EE,Viljandi,VD,Ümarmäe 32,71016,58.348954,25.625722,<none>
+1521,<none>,IS,Höfn,,Tungata 9,781,64.355086,-15.321481,<none>
+1522,<none>,CY,Nicosia,NI,17 Akti Miaouli Street,1686,41.271435,-72.903779,<none>
+1523,<none>,EE,Mõisamaa,IV,Ümarmäe 25,30332,58.826593,26.27217,<none>
+1524,<none>,SI,Kal nad Kanalom,,Letališka 102,5214,45.997365,13.668899,<none>
+1525,<none>,CY,Deftera Pano,NI,147 Dimokratias Avenue,2460,41.280837,-72.970259,<none>
+1526,<none>,DK,København K,SJ,Slude Strand 66,1123,55.621288,12.540176,<none>
+1527,<none>,BR,Ribeirão Preto,SP,Avenida Governador Lucas Nogueira Garcez 904,14051-510,-21.167826,-47.83074,<none>
+1528,<none>,CY,ΛΕΥΚΩΣΙΑ,NI,Πανεπιστημιούπολη Κομοτηνής 290,1077,41.348296,-72.919913,<none>
+1529,<none>,AU,KWOLYIN,WA,74 Ashton Road,6385,-32.065397,117.95178,<none>
+1530,<none>,ZA,Nylstroom,LI,1844 Robertson Ave,514,-24.700987,28.432293,<none>
+1531,<none>,NZ,Upper Hutt Central,,152 Rata Street,5018,-41.159071,175.169678,<none>
+1532,<none>,NZ,Turiwiri,,132 Pirika Street,310,-35.91488,173.952631,<none>
+1533,<none>,CH,Basel,,Breitenstrasse 31,4018,47.496438,7.591008,<none>
+1534,<none>,GL,Qasigiannguit,QA,Magrethevej 128,3951,68.78638,-51.139425,<none>
+1535,<none>,AT,SCHRÖCKEN,VO,Grazer Bundesstrasse 23,6888,47.335603,10.049392,<none>
+1536,<none>,IT,San Rocco In Turrite,LU,Via Melisurgo 89,55060,43.87205,10.485329,<none>
+1537,<none>,IT,San Fior,TV,Via Nizza 3,31020,45.945632,12.18151,<none>
+1538,<none>,HU,Domaháza,BZ,Szent Gellért tér 82.,3627,48.221534,20.016762,<none>
+1539,<none>,ZA,Somerset West,WC,1755 St. John Street,7131,-34.009397,18.902887,<none>
+1540,<none>,ZA,Scottburgh,KN,478 Cheriton Dr,4180,-30.373531,30.665571,<none>
+1541,<none>,NO,MOLDE,,Flaggspettvegen 131,6425,62.752246,7.247565,<none>
+1542,<none>,US,Seattle,WA,1412 Raccoon Run,98109,47.5656,-122.371853,<none>
+1543,<none>,BR,São Paulo,SP,Rua Roberto Koch 217,04221-060,-23.581241,-46.602966,<none>
+1544,<none>,US,Russell,KY,3911 North Bend River Road,41169,38.492119,-82.701084,<none>
+1545,<none>,FR,CLICHY,IL,68 Rue de Strasbourg,92110,48.926219,2.23873,<none>
+1546,<none>,HU,Kövegy,CS,Nagytétényi út 5.,6912,46.290678,20.65849,<none>
+1547,<none>,PT,Lisboa,LI,Rua Sousa Lopes 27,1350-204,38.740846,-9.124843,<none>
+1548,<none>,CH,Niederwil,,Caltgadira 64,8452,47.637758,8.791328,<none>
+1549,<none>,SI,Kresnice,,Kolodvorska 17,1281,46.12668,14.715823,<none>
+1550,<none>,ES,Valdemoro,M,Extramuros 8,28340,40.235049,-3.660426,<none>
+1551,<none>,CY,ΜΟΥΤΤΑΓΙΑΚΑ,LI,χλμ Αλεξανδρούπολης 224,4531,41.42049,-72.922498,<none>
+1552,<none>,NL,Denekamp,OV,Singravenstraat 136,7591 PZ,52.226662,6.917353,<none>
+1553,<none>,NL,Heerhugowaard,NH,Dommel 45,1703 JR,52.598753,4.851135,<none>
+1554,<none>,ES,Arapiles,SA,Rúa de San Pedro 77,37796,40.940876,-5.731464,<none>
+1555,<none>,CH,Basel,,Breitenstrasse 19,4000,47.608293,7.518546,<none>
+1556,<none>,SI,Marjeta na Dravskem polju,,Parmova 57,2206,46.368189,15.79101,<none>
+1557,<none>,UY,Cerro de Vera,SA,Sarandi 7935,50032,-32.750545,-56.089237,<none>
+1558,<none>,CH,Holzmühle,,Rägetenstrasse 19,3303,47.051691,7.594607,<none>
+1559,<none>,NL,Velserbroek,NH,Humphrey Reptonstraat 56,1992 JK,52.386137,4.754558,<none>
+1560,<none>,UY,La Cruz,FD,Piedras 9043,94004,-33.976867,-56.165066,<none>
+1561,<none>,NO,OSLO,,Langretta 135,1279,59.86311,10.781798,<none>
+1562,<none>,CY,ΥΨΩΝΑΣ,LI,Ασκληπιού 201,4180,41.374154,-72.946419,<none>
+1563,<none>,SE,ÖRBYHUS,,Vikarna 76,740 60,60.253966,17.743818,<none>
+1564,<none>,SI,Maribor,,Parmova 85,2505,46.563528,15.563922,<none>
+1565,<none>,AU,NAMBOUR WEST,QLD,1 Wright Street,4560,-26.584144,152.920263,<none>
+1566,<none>,DE,Schwerin,MV,Unter den Linden 35,19003,53.648873,11.361387,<none>
+1567,<none>,GL,Kulusuk,SM,P.O. Box 97,3915,65.483968,-37.197519,<none>
+1568,<none>,FI,JOENSUU,NK,Ahlströminkatu 88,80007,62.636477,29.798925,<none>
+1569,<none>,BR,Caucaia,CE,Rua da Salgadeira 1573,61615-300,-3.740064,-38.805466,<none>
+1570,<none>,PT,Setúbal,SE,R Projectada 41,2910-143,38.448264,-9.025615,<none>
+1571,<none>,AU,ARROWSMITH,WA,68 Todd Street,6525,-29.424384,115.141669,<none>
+1572,<none>,CA,Wetaskiwin,AB,1396 56th Street,T1T 1T1,52.977896,-113.350128,<none>
+1573,<none>,IS,Höfn,,Tungata 86,781,64.380197,-15.212598,<none>
+1574,<none>,CH,Tschappina,,Via Franscini 84,7428,46.761026,9.277152,<none>
+1575,<none>,DK,København K,SJ,Frørupvej 15,1146,55.688454,12.617707,<none>
+1576,<none>,PL,Zielona Góra,,ul. Okrężna 99,65-548,51.863101,15.410558,<none>
+1577,<none>,IS,Sauðarkrókur,,Norðurbrún 60,551,65.838496,-19.694575,<none>
+1578,<none>,BR,Salvador,BA,4ª Travessa do Norte 1891,41905-680,-12.819511,-38.507037,<none>
+1579,<none>,AT,AICHHAM,OO,Weihburggasse 20,4650,48.112127,13.792244,<none>
+1580,<none>,SE,VINGÅKER,,Anders Sadelmakares Gränd 27,643 00,59.064774,15.893671,<none>
+1581,<none>,SE,HÄLLESTAD,,Håbyn 73,610 12,58.662294,15.541928,<none>
+1582,<none>,AT,SCHWARZACH,VO,Silvrettastrasse 13,6858,47.389011,13.189078,<none>
+1583,<none>,UY,Santa Catalina,SO,Joaquin Suarez 4653,75201,-33.681633,-57.556208,<none>
+1584,<none>,BR,Bagé,RS,Rua Canal 627,96407-380,-31.197587,-53.93833,<none>
+1585,<none>,US,Amsterdam,MO,747 Fairmont Avenue,64723,38.359594,-94.499387,<none>
+1586,<none>,SI,Kozje,,Kolodvorska 118,3260,46.174425,15.51761,<none>
+1587,<none>,UY,Shangrila,CA,Rigoberto Lopez 3382,15001,-34.854411,-55.947826,<none>
+1588,<none>,DK,København V,SJ,Præstevænget 32,1509,55.712377,12.530888,<none>
+1589,<none>,EE,Muuga,LV,Kodu 32,46521,59.489636,25.000565,<none>
+1590,<none>,PL,Katowice,,Pl. Alfreda 69,40-153,50.233731,18.941698,<none>
+1591,<none>,ZA,Middelburg,MP,1409 Protea St,5900,-25.840169,29.520987,<none>
+1592,<none>,SE,LINGBO,,Karlsängen 80,810 32,61.14505,16.724411,<none>
+1593,<none>,BE,Stambruges,WHT,Route de Botrange 460,7973,50.597374,3.732849,<none>
+1594,<none>,DE,Sankt Alban,RP,Lietzenburger Strasse 27,67813,49.617993,7.860045,<none>
+1595,<none>,BR,Juiz de Fora,MG,Rua Maria Lanziotti Barra 1998,36088-230,-21.666522,-43.350868,<none>
+1596,<none>,CY,Armou,PA,153 Igias Street,8522,41.340925,-72.874936,<none>
+1597,<none>,DE,Arbach,RP,Buelowstrasse 53,56769,50.255787,6.994624,<none>
+1598,<none>,CY,Agios Fotios,PA,205 Pireaus Av,8652,41.385291,-72.959711,<none>
+1599,<none>,IS,Þórshöfn,,Súluvegur 4,681,66.168255,-15.398452,<none>
+1600,<none>,SI,Nova vas,,Gosposka ulica 107,1385,45.725588,14.464354,<none>
+1601,<none>,SE,HOLMSUND,,Klörupsvägen 1,913 00,63.671239,20.322119,<none>
+1602,<none>,IT,Paderno,BL,Via Nicolai 128,32030,45.877763,12.028765,<none>
+1603,<none>,NZ,Riverside,,116 Vista Place,112,-35.725031,174.372796,<none>
+1604,<none>,NL,Rotterdam,ZH,Tamboerstraat 90,3034 PV,51.784583,4.437056,<none>
+1605,<none>,DE,Wuppertal Barmen,NW,Jenaer Strasse 55,42289,51.17314,7.264869,<none>
+1606,<none>,PL,Łódź,,ul. Powstańców Wielkopolskich 98,91-043,51.826493,19.485655,<none>
+1607,<none>,NL,Wassenaar,ZH,Luifelbaan 143,2242 KV,52.183558,4.385061,<none>
+1608,<none>,FI,KARVIA,SA,Torikatu 91,39930,62.071307,22.493085,<none>
+1609,<none>,US,Minneapolis,MN,2412 Jewell Road,55417,44.827775,-93.255106,<none>
+1610,<none>,CA,New Westminster,BC,1025 Royal Avenue,V3L 5H1,49.175239,-122.910589,<none>
+1611,<none>,NO,SANDNES,,Mergelbakken 130,4319,58.757357,5.786449,<none>
+1612,<none>,IT,Albare,VR,Piazza San Carlo 4,37010,45.633633,10.778527,<none>
+1613,<none>,DK,Broby,SY,Søndergade 15,5672,55.177866,10.035382,<none>
+1614,<none>,ES,Vilassar de Dalt,B,C/ Benito Guinea 29,8339,41.587548,2.363973,<none>
+1615,<none>,GB,GATELEY,,26 Old Chapel Road,NR20 4WG,52.618624,1.13053,<none>
+1616,<none>,SI,Velenje,,Dalmatinova 108,3320,46.327445,15.095772,<none>
+1617,<none>,DK,Slagelse,SJ,Hans Schacksvej 36,4200,55.499927,11.362883,<none>
+1618,<none>,GB,SOUTH COCKERINGTON,,29 Town Lane,LN11 8ZU,53.144608,0.041165,<none>
+1619,<none>,CY,Paphos,PA,240 Vas. Sofias Avenue,8048,41.314293,-72.971764,<none>
+1620,<none>,HU,Máhomfa,,Nyár utca 72.,8960,46.716509,16.499679,<none>
+1621,<none>,CH,Sassel,,Landstrasse 115,1534,46.793202,6.821812,<none>
+1622,<none>,IS,Hella,,Austvaðsholti 77,851,63.795724,-20.370944,<none>
+1623,<none>,BE,Hoepertingen,VLI,Place Fayat 464,3840,50.82491,5.28574,<none>
+1624,<none>,CH,Klus,,Seefeldstrasse 22,4710,47.222359,7.711592,<none>
+1625,<none>,CY,Limassol,LI,280 Papanikolaou Street,3095,41.320781,-72.965454,<none>
+1626,<none>,HU,Tiszabura,JN,Apor Péter u. 18.,5235,47.435193,20.565089,<none>
+1627,<none>,US,Madison,WI,1722 Comfort Court,53718,43.163981,-89.213552,<none>
+1628,<none>,EE,Saare,TA,Räitsaka 41,61314,58.158886,24.017646,<none>
+1629,<none>,GL,Kulusuk,SM,P.O. Box 163,3915,65.506534,-37.111027,<none>
+1630,<none>,CZ,Žihle,PL,Střední 481,331 65,50.134095,13.352287,<none>
+1631,<none>,AU,PALEN CREEK,QLD,65 Zipfs Road,4287,-28.192435,152.814109,<none>
+1632,<none>,DK,København K,SJ,Sandagervej 21,1461,55.635407,12.666639,<none>
+1633,<none>,FI,SUONENJOKI,NS,Kartanomäenkatu 35,77600,62.642392,27.145699,<none>
+1634,<none>,DE,Eching,BY,Kurfuerstendamm 96,82279,48.076286,11.141318,<none>
+1635,<none>,GB,FIFEHEAD NEVILLE,,74 Rhosddu Rd,DT10 6DD,50.654109,-2.003628,<none>
+1636,<none>,EE,Kuimetsa,RA,Timuti 13,79392,59.10338,25.176824,<none>
+1637,<none>,CH,Buchs,,Gerbiweg 76,9470,47.200665,9.363463,<none>
+1638,<none>,FI,JYVÄSKYLÄ,CF,Kangasmoisionkatu 85,40530,62.276796,25.806098,<none>
+1639,<none>,NZ,Broomfield,,81 Colman Avenue,8042,-43.463421,172.65851,<none>
+1640,<none>,UY,Velázquez,RO,Ansina 5459,27303,-33.910758,-54.377913,<none>
+1641,<none>,AU,WOODLANDS,WA,60 Souttar Terrace,6018,-31.864427,115.74827,<none>
+1642,<none>,CY,Agios Georgios Spatharikou,FA,133 Attica Avenue,5720,41.263206,-72.817904,<none>
+1643,<none>,PT,Porto,PO,R Armazéns 51,4250-051,41.124625,-8.586276,<none>
+1644,<none>,CY,Nicosia,NI,37 Beach Road,1449,41.267072,-72.923209,<none>
+1645,<none>,DK,Lemming,MI,Egevænget 53,8632,56.20445,9.466712,<none>
+1646,<none>,ZA,Bethlehem,FS,1287 Oranje St,9705,-28.29147,28.387061,<none>
+1647,<none>,DK,Frederiksberg C,SJ,Skolevej 77,1868,55.615237,12.609018,<none>
+1648,<none>,ES,Carrascal del Obispo,SA,Apartado de Correos 11,37451,40.822103,-5.904799,<none>
+1649,<none>,GL,Qaarsut,QA,P.O. Box 86,3964,70.77204,-52.687131,<none>
+1650,<none>,IS,Egilsstaðir,,Fagradalsbraut 40,700,65.339062,-14.467346,<none>
+1651,<none>,CA,Watford,ON,1872 Fallon Drive,N0M 2S0,42.96198,-81.824268,<none>
+1652,<none>,HU,Balotaszállás,BK,Dayka Gábor u. 37.,6412,46.325525,19.526571,<none>
+1653,<none>,BE,Russeignies,WHT,Rue des Buissons 422,7750,50.774748,3.251934,<none>
+1654,<none>,CY,ΛΕΥΚΩΣΙΑ,NI,Πανεπιστημιούπολη Κομοτηνής 85,1082,41.346957,-72.888174,<none>
+1655,<none>,ZA,Klerksdorp,NW,2189 Fox St,2571,-26.958884,26.730747,<none>
+1656,<none>,CY,Nicosia,NI,262 Beach Road,1451,41.342586,-73.012619,<none>
+1657,<none>,GB,SCAMPSTON,,18 Shire Oak Road,YO17 9ZR,54.013146,-0.676913,<none>
+1658,<none>,IS,Selfoss,,Hverfisgata 52,801,63.994676,-20.964788,<none>
+1659,<none>,ZA,Brits,NW,2058 Tait St,261,-25.663964,27.814156,<none>
+1660,<none>,CY,Kalo Chorio Oreinis,NI,135 Karaiskaki Sq,2616,41.421066,-72.94711,<none>
+1661,<none>,CZ,Litomerice 1,US,Za Plynárnou 1745,412 01,50.481305,14.098075,<none>
+1662,<none>,CA,Montreal,QC,4646 chemin Hudson,H4J 1M9,45.420714,-73.63532,<none>
+1663,<none>,BR,Goiânia,GO,Rua 33-B 1855,74560-590,-16.693163,-49.237363,<none>
+1664,<none>,EE,Looküla,HA,Luige tee 75,74311,59.353051,25.445475,<none>
+1665,<none>,TN,El Braghtia,53,114 Rue Hedi Nooman,5151,35.231396,10.866783,<none>
+1666,<none>,CA,Kitchener,ON,4305 Benton Street,N2G 4L9,43.350494,-80.496399,<none>
+1667,<none>,CZ,Skalice nad Svitavou,JM,Absolonova 26,679 01,49.400316,16.580079,<none>
+1668,<none>,CY,Dasaki Achnas,FA,141 Venizelos Street,5523,41.430424,-72.903321,<none>
+1669,<none>,FI,KUOPIO,NS,Norra Larsmovägen 52,70800,62.817313,27.724668,<none>
+1670,<none>,US,Saint Louis,MO,4316 Court Street,63146,38.66888,-90.447851,<none>
+1671,<none>,PT,Lavra,PO,R Tapada Marinha 30,4455-116,41.137975,-8.495062,<none>
+1672,<none>,TN,Jersine,73,105 Rue Ennasr,4263,32.917744,10.388646,<none>
+1673,<none>,PL,Lublin,,ul. Bursztynowa 26,20-578,51.290581,22.550847,<none>
+1674,<none>,AT,OBERRETTENBACH,ST,Graben 8,8261,47.06493,15.903523,<none>
+1675,<none>,HU,Tiszatenyô,JN,Apor Péter u. 8.,5082,47.162771,20.375306,<none>
+1676,<none>,FR,AUBAGNE,PA,56 rue de Lille,13400,43.203217,5.584393,<none>
+1677,<none>,ES,Camariñas,C,Fuente del Gallo 5,15123,43.07627,-9.092974,<none>
+1678,<none>,IT,Vomero,NA,Via Nicola Mignogna 112,80127,40.870896,14.232629,<none>
+1679,<none>,TN,Alim,71,8 Rue Al Imam Al Bakri,2195,35.83426,10.141079,<none>
+1680,<none>,PL,Bytom,,ul. Księdza Jaskółki Pawła 98,41-935,50.272192,19.000868,<none>
+1681,<none>,PT,Espinho,AV,R Coutada 40,4500-343,40.981535,-8.508976,<none>
+1682,<none>,GL,Sisimiut,QE,Aqqusinersuaq 171,3911,66.869808,-53.710312,<none>
+1683,<none>,CA,London,ON,861 York St,N5W 2S9,43.042224,-81.248954,<none>
+1684,<none>,GB,RHYDYMWYN,,53 Colorado Way,CH7 8BN,53.098274,-3.178845,<none>
+1685,<none>,DE,Bad Lausick,SN,Hoheluftchaussee 83,4651,51.060961,12.665953,<none>
+1686,<none>,GL,Mestervi,NGNP,P.O. Box 12,3982,76.670298,-21.136555,<none>
+1687,<none>,SI,Stari trg pri Ložu,,Dunajska 12,1386,45.788328,14.470623,<none>
+1688,<none>,US,Milwaukee,WI,1294 Woodlawn Drive,53213,43.113615,-87.974063,<none>
+1689,<none>,IT,Lurisia,CN,Via Bernardino Rota 47,12088,44.288565,7.657928,<none>
+1690,<none>,AU,PIAMBONG,NSW,72 Sydney Road,2850,-32.598648,149.851873,<none>
+1691,<none>,CH,La Petite Grave,,Kirchstrasse 144,1236,46.101112,6.042538,<none>
+1692,<none>,IT,Scena,BZ,Via Nazionale 18,39017,46.707356,11.210202,<none>
+1693,<none>,FR,BASSE-TERRE,GD,53 Rue du Limas,97100,48.955645,-0.499499,<none>
+1694,<none>,NL,Amersfoort,UT,Daam Fockemalaan 73,3818 KE,51.971231,5.423526,<none>
+1695,<none>,ES,Fonz,HU,Avda. Alameda Sundheim 70,22422,42.021211,0.264914,<none>
+1696,<none>,US,Bloomfield Township,MI,4583 D Street,48302,42.478089,-83.232236,<none>
+1697,<none>,BE,Mohiville,WNA,Luchthavenlaan 144,5361,50.407617,5.094719,<none>
+1698,<none>,IS,Þórshöfn,,Súluvegur 25,681,66.178856,-15.387665,<none>
+1699,<none>,CZ,Olešnice na Morave,JM,Štefanikova 1093,679 74,49.545141,16.491545,<none>
+1700,<none>,DK,Klarup,NO,Tværgyden 26,9270,56.960767,10.125849,<none>
+1701,<none>,AT,GREITH,OO,Leobnerstrasse 88,4893,47.904881,13.408669,<none>
+1702,<none>,FR,ROMAINVILLE,IL,79 rue de Groussay,93230,48.800051,2.410465,<none>
+1703,<none>,BE,Thieulain,WHT,Rue de Baras 331,7901,50.490849,3.805357,<none>
+1704,<none>,NO,OSLO,,Steingrims vei 109,1185,59.96865,10.747869,<none>
+1705,<none>,GL,Narsarsuaq,KU,Postbox 169,3923,61.259232,-45.465862,<none>
+1706,<none>,AT,DÖRFL AN DER RAAB,ST,Herrenstrasse 90,8181,47.216211,15.73126,<none>
+1707,<none>,NZ,Timaru Central,,103 Coonoor Road,7910,-44.401739,171.24927,<none>
+1708,<none>,EE,Tallinn,HA,Kõrre 93,15185,59.348809,24.650508,<none>
+1709,<none>,ZA,Witbank,MP,1932 Oost St,1075,-25.930742,29.189012,<none>
+1710,<none>,CA,Lindsay,ON,477 Kennedy Rd,K9V 4A4,44.309442,-78.776123,<none>
+1711,<none>,CA,Sudbury,ON,2900 Barrydowne Road,P3E 5K3,46.442433,-80.98339,<none>
+1712,<none>,SI,Vrhnika,,Dalmatinova 10,1360,46.015165,14.365053,<none>
+1713,<none>,ES,Sentmenat,B,Cercas Bajas 33,8181,41.514486,2.241923,<none>
+1714,<none>,SI,Ivančna Gorica,,Letališka 119,1295,45.952054,14.803925,<none>
+1715,<none>,ES,Moratalla,MU,Cartagena 3,30440,38.135505,-1.885088,<none>
+1716,<none>,FR,VESOUL,FC,48 Rue Frédéric Chopin,70000,47.485847,6.00529,<none>
+1717,<none>,ZA,Bloemfontein,FS,2436 Kort St,9358,-29.083523,26.241903,<none>
+1718,<none>,US,Minneapolis,MN,1551 Rocket Drive,55414,45.06486,-93.272809,<none>
+1719,<none>,SE,TORSHÄLLA,,Kläppinge 32,644 00,59.449748,16.407927,<none>
+1720,<none>,NL,Wateringen,ZH,Mommastraat 122,2291 RR,52.079542,4.233946,<none>
+1721,<none>,ZA,Phoenix,KN,110 Cheriton Dr,4156,-26.137319,29.282548,<none>
+1722,<none>,GL,Kulusuk,SM,P.O. Box 215,3915,65.53175,-37.236074,<none>
+1723,<none>,ES,Canjáyar,AL,Avendaño 5,4450,36.973538,-2.64717,<none>
+1724,<none>,IT,San Pantaleo,FI,Via Nuova Agnano 108,50059,43.746307,10.875422,<none>
+1725,<none>,DE,Neu-Ulm,BY,Frankfurter Allee 88,89206,48.365728,10.003214,<none>
+1726,<none>,CY,Lefka,NI,65 Marathonos Street,2900,41.403287,-72.878505,<none>
+1727,<none>,GB,WHITWAY,,10 Boughton Rd,RG20 3RX,50.703009,-1.163684,<none>
+1728,<none>,SE,SKÄRHAMN,,Södra Kroksdal 48,440 60,58.077687,11.460038,<none>
+1729,<none>,CH,Arconciel,,Gartenhof 137,1732,46.80067,7.157149,<none>
+1730,<none>,CY,Agios Athanasios,LI,279 Petmeza Street,4106,41.273922,-72.907176,<none>
+1731,<none>,CA,Tagish,YT,3675 43rd Avenue,Y1A 1T0,64.801631,-133.820313,<none>
+1732,<none>,IT,Pascarola,NA,Via dei Fiorentini 59,80023,40.864506,14.344939,<none>
+1733,<none>,CA,Toronto,ON,3458 Bay Street,M5J 2R8,43.686928,-79.452972,<none>
+1734,<none>,CA,Trois Rivieres,QC,1962 rue Saint-Édouard,G9A 5S8,46.434975,-72.490087,<none>
+1735,<none>,CH,Menznau,,Schuetzenweg 21,6122,47.121863,8.129815,<none>
+1736,<none>,AT,HUB,NO,Wiedner Hauptstrasse 78,3390,48.223715,15.310463,<none>
+1737,<none>,SI,Brežice,,Trg revolucije 62,8250,45.977531,15.58886,<none>
+1738,<none>,FI,TAMPERE,PI,Ysitie 34,33800,61.444785,23.704041,<none>
+1739,<none>,FR,MURET,MP,54 rue des Coudriers,31600,43.346938,1.297301,<none>
+1740,<none>,SI,Stoperce,,Dunajska 98,2289,46.348799,15.705025,<none>
+1741,<none>,IS,Vopnafjörður,,Svarfaðarbraut 50,690,65.755646,-14.795171,<none>
+1742,<none>,PT,Penalva do Castelo,VI,R Portela 16,3550-180,40.75541,-7.736807,<none>
+1743,<none>,NZ,Hawthorndale,,113 Queens Drive,9810,-0.037824,-0.036834,<none>
+1744,<none>,ZA,Pretoria,GA,32 Prospect St,5,-25.716898,28.14356,<none>
+1745,<none>,NO,KVALØYSLETTA,,Blomlivegen 235,9100,69.636063,18.982014,<none>
+1746,<none>,CH,Semsales,,Allmenrüti 147,1623,46.621859,6.910725,<none>
+1747,<none>,DE,Walzbachtal,BW,Pasewalker Straße 37,75045,49.096931,8.674317,<none>
+1748,<none>,NO,DRAMMEN,,Bakkeveien 241,3014,59.690126,10.125609,<none>
+1749,<none>,AU,GOULDS COUNTRY,TAS,87 Mildura Street,7216,-41.251848,148.085526,<none>
+1750,<none>,NO,SKOLLENBORG,,Dalsveien 67,3619,59.533719,9.609266,<none>
+1751,<none>,CY,ΑΓΙΟΣ ΑΘΑΝΑΣΙΟΣ,LI,Ελευθερίου Βενιζέλου 186,4101,41.258462,-72.819199,<none>
+1752,<none>,ZA,Theunissen,FS,1818 Visser St,9414,-28.353974,26.750428,<none>
+1753,<none>,ZA,Dobsonville,GA,2435 Broad Rd,1875,-26.160443,27.942865,<none>
+1754,<none>,FR,BORDEAUX,AQ,35 avenue de l'Amandier,33000,44.934421,-0.663596,<none>
+1755,<none>,NZ,Meeanee,,108 Ryan Crescent,4112,-39.458939,176.796724,<none>
+1756,<none>,HU,Gyepükaján,VE,Kárpát u. 83.,8473,46.97977,17.301981,<none>
+1757,<none>,GL,Ilulissat,QA,Nuussuataap Aqq. 228,3952,69.122917,-51.061533,<none>
+1758,<none>,FR,DAMMARIE-LES-LYS,IL,1 boulevard Bryas,77190,48.443312,2.609526,<none>
+1759,<none>,CY,Tseri,NI,82 Papanastasiou Street,2480,41.390304,-72.973049,<none>
+1760,<none>,UY,Pirarajá,LA,Miguelete 1759,30002,-33.707142,-54.658171,<none>
+1761,<none>,ES,Trigueros,H,C/ Cañada del Rosal 27,21620,37.317203,-6.899616,<none>
+1762,<none>,BE,Javingue,WNA,Booischotseweg 86,5570,50.165045,4.918901,<none>
+1763,<none>,US,Austin,TX,1185 Ashton Lane,78756,30.263609,-97.735762,<none>
+1764,<none>,BR,Belford Roxo,RJ,Rua Vargas Coutinho 106,26113-101,-22.779152,-43.289046,<none>
+1765,<none>,UY,Aiguá,MA,Rogue Burgueño 8528,20500,-34.168946,-54.739768,<none>
+1766,<none>,SI,Sveti Štefan,,Dunajska 86,3264,46.099848,15.591352,<none>
+1767,<none>,PT,Queluz,LI,R Alto Eira 89,2745-284,38.703958,-9.221221,<none>
+1768,<none>,PT,Souto Maior,BR,R Gândara 99,4890-041,41.463562,-8.092945,<none>
+1769,<none>,NL,Amsterdam,NH,Van Reigersbergenstraat 66,1052 SL,52.431856,4.917038,<none>
+1770,<none>,DK,København V,SJ,Sønderstræde 32,1704,55.650565,12.533171,<none>
+1771,<none>,NL,Den Haag,ZH,Laan van Eik en Duinen 79,2564 GT,51.97998,4.24667,<none>
+1772,<none>,DK,Hjerm,MI,Espegyden 26,7560,56.464712,8.702441,<none>
+1773,<none>,US,Deer Park,WA,4534 Dane Street,99006,48.00215,-117.551125,<none>
+1774,<none>,AT,HINTERHÜTTEN,NO,An Der Bundesstrasse 81,4282,48.445846,14.718648,<none>
+1775,<none>,SE,KÄRINGÖN,,Villagatan 70,440 82,57.390547,18.128796,<none>
+1776,<none>,ZA,Pretoria West,GA,1789 Glyn St,183,-25.784828,28.200954,<none>
+1777,<none>,TN,Ghouzia,31,147 Avenue Aghlabité,9030,37.213586,10.178912,<none>
+1778,<none>,BR,Umuarama,PR,Rua Santa Bárbara 1005,87502-420,-23.80411,-53.29056,<none>
+1779,<none>,DK,Odense S,SY,Møllebakken 6,5260,55.406093,10.302911,<none>
+1780,<none>,CA,Canal Flats,BC,2513 Findlay Creek Road,V0B 1B0,50.1931,-115.836194,<none>
+1781,<none>,US,Lincoln,NE,218 Oak Way,68501,40.723586,-96.736909,<none>
+1782,<none>,GB,ARDERY,,28 Fosse Way,PH36 1ZG,55.796408,-5.343171,<none>
+1783,<none>,US,Keyport,NJ,2715 Pennsylvania Avenue,7735,40.480966,-74.12874,<none>
+1784,<none>,HU,Mênfôcsanak,,Nyár utca 27.,9012,47.639625,17.741659,<none>
+1785,<none>,BR,Redenção,PA,Avenida Simplício Costa 1201,68553-260,-8.073913,-50.131204,<none>
+1786,<none>,GL,Kulusuk,SM,P.O. Box 250,3915,65.515228,-37.18229,<none>
+1787,<none>,CA,Czar,AB,4613 Bloor Street,T0B 0Z0,52.362471,-110.841509,<none>
+1788,<none>,IS,Blönduós,,Árbraut 68,540,65.930124,-20.413485,<none>
+1789,<none>,GL,Narsarsuaq,KU,Postbox 296,3923,61.08597,-45.40975,<none>
+1790,<none>,PT,São Francisco,SE,R Família Marques 1,2890-323,38.713427,-8.975962,<none>
+1791,<none>,BR,Taubaté,SP,Rua Walton Almeida Boechat 1092,12060-811,-22.997096,-45.505028,<none>
+1792,<none>,CA,Chicoutimi,QC,3806 rue des Champs,G7H 4N3,48.479961,-71.079033,<none>
+1793,<none>,HU,Sárpilis,TO,Tas vezér u. 73.,7145,46.257397,18.694102,<none>
+1794,<none>,AT,FUCHSLUG,NO,Aufeld 24,4161,48.645584,13.838791,<none>
+1795,<none>,SE,ÅSARP,,Löberöd 55,520 43,58.092456,13.629663,<none>
+1796,<none>,CY,Prastio Kelokedaron,PA,169 Michalakopoulou Avenue,8606,41.310728,-72.929557,<none>
+1797,<none>,GL,Alluitsup Paa,KU,Aqqusinersuaq 121,3919,60.510732,-45.555749,<none>
+1798,<none>,CY,ΑΓΛΑΝΤΖΙΑ (ΑΓΛΑΓΓΙΑ),NI,Λεωφόρος Θησέως 274,2123,41.3241,-72.886477,<none>
+1799,<none>,CH,Oberthal,,Damunt 37,3531,46.932199,7.634355,<none>
+1800,<none>,DK,Ølsted,SJ,Møllebakken 81,3310,55.997506,12.152428,<none>
+1801,<none>,BE,Ramillies,WBR,Rue de la Poste 257,1367,50.683682,4.83687,<none>
+1802,<none>,TN,El Menaychia,13,27 Rue des Pléiades,2082,36.736389,10.195413,<none>
+1803,<none>,GB,KENKNOCK,,17 Prince Consort Road,FK21 8JB,56.395792,-4.311499,<none>
+1804,<none>,ES,Pinoso,A,Paraguay 31,3650,38.397436,-0.983228,<none>
+1805,<none>,NO,MO I RANA,,Petter Grubens gate 118,8624,66.403482,14.136106,<none>
+1806,<none>,AT,RAMERSDORF,NO,Stadtplatz 89,4203,48.343655,14.374833,<none>
+1807,<none>,CH,Vordemwald,,Piazza Rezzonico 101,4803,47.274585,7.970517,<none>
+1808,<none>,UY,Biassini,SA,Republica de Chile 4835,50013,-31.17065,-57.209005,<none>
+1809,<none>,CY,Kormakitis,KY,210 Pireos Street,9618,41.416185,-72.887585,<none>
+1810,<none>,ES,Chantada,LU,Ctra. de Siles 96,27500,42.790188,-7.751807,<none>
+1811,<none>,CZ,Volyne,JC,Pod Malsičkou 836,387 01,49.189652,13.830428,<none>
+1812,<none>,GL,Tasiilaq,SM,Napparngummut 168,3913,65.670185,-37.580967,<none>
+1813,<none>,DE,Wildeshausen,NI,Nuernbergerstrasse 20,27793,52.872911,8.352391,<none>
+1814,<none>,TN,Khanguet El Hojjaj,21,93 Rue du Niger,8082,36.412037,10.48029,<none>
+1815,<none>,ES,Tárbena,A,C/ Fernández de Leceta 50,3518,38.703088,-0.098642,<none>
+1816,<none>,CY,Nicosia,NI,263 Tzanakaki Street,1090,41.266894,-72.856369,<none>
+1817,<none>,GB,SPOONLEY,,29 Hampton Court Rd,TF9 8TF,52.273405,-2.992177,<none>
+1818,<none>,BE,Emblem,VAN,Berkendreef 221,2520,51.13319,4.607016,<none>
+1819,<none>,IS,Breiðdalsvík,,Solvellir 85,760,64.757561,-14.004534,<none>
+1820,<none>,NZ,Tokaanu,,59 Wiremu Street,3334,-38.905832,175.8352,<none>
+1821,<none>,CY,ΛΕΥΚΩΣΙΑ,NI,Πανεπιστημιούπολη Κομοτηνής 119,1077,41.297537,-72.915117,<none>
+1822,<none>,UY,Vichadero,RV,Ansina 5479,40003,-31.794641,-54.788653,<none>
+1823,<none>,GB,CHILTON,,4 Shannon Way,OX11 6SD,51.645868,-1.302621,<none>
+1824,<none>,IS,Reykjavík,,Skolavordustig 90,132,64.184584,-21.891735,<none>
+1825,<none>,CY,Larnaka,LA,12 Theotokopoulou Str.,6302,41.357369,-73.000647,<none>
+1826,<none>,NL,IJlst,FR,Galamagracht 10,8651 EC,52.95985,5.615742,<none>
+1827,<none>,CA,Kitchener,ON,1767 Albert Street,N2L 3V2,43.49409,-80.545035,<none>
+1828,<none>,US,Silverton,OR,1091 Heron Way,97381,45.008534,-122.729997,<none>
+1829,<none>,FI,OULU,NO,Jalonkatu 14,90140,65.027111,25.524196,<none>
+1830,<none>,SE,SJÖBO,,Eggelstad 12,275 98,55.669908,13.777563,<none>
+1831,<none>,CH,Entschwil,,Wingertweg 39,3754,46.713289,7.477294,<none>
+1832,<none>,AT,KÜB,NO,Kriemhildstrasse 58,2671,47.716634,15.8867,<none>
+1833,<none>,BR,Caxias do Sul,RS,Rua Elias Bergoza 1496,95086-270,-29.034895,-51.045832,<none>
+1834,<none>,CZ,Velké Kunetice,OL,Mlýnská 1399,790 52,50.409863,17.173196,<none>
+1835,<none>,FI,INGÅ,UU,Kiesitie 11,10210,60.060762,24.038507,<none>
+1836,<none>,GL,Station Nord,QA,P.O. Box 95,3972,76.944932,-69.051246,<none>
+1837,<none>,AU,HORNET BANK,QLD,68 Lowe Street,4420,-25.457041,149.53988,<none>
+1838,<none>,UY,San Antonio,CA,Parva Domus 7183,90002,-34.383502,-56.161394,<none>
+1839,<none>,NL,Zevenaar,GE,Puccinistraat 135,6904 EV,51.952553,6.054561,<none>
+1840,<none>,DE,Schönwald,BY,Bleibtreustraße 56,95170,48.044025,8.272223,<none>
+1841,<none>,US,Santa Clara,CA,4066 Ford Street,95054,37.366922,-122.038859,<none>
+1842,<none>,NO,GREÅKER,,Ringsrødveien 53,1719,59.312031,11.1326,<none>
+1843,<none>,IS,Króksfjarðarnes,,Dalbraut 12,380,64.221059,-22.054967,<none>
+1844,<none>,FR,LE PORT,GY,13 rue Adolphe Wurtz,97420,43.641548,7.369461,<none>
+1845,<none>,CH,Madrano,,Auerstrasse 24,6780,46.475339,8.596319,<none>
+1846,<none>,FI,LAPPEENRANTA,SK,Puruntie 76,53200,61.073346,28.21882,<none>
+1847,<none>,AT,OBERHARLOCHEN,OO,Gewerbepark 26,5231,48.27045,13.151315,<none>
+1848,<none>,FR,SAINT-ÉTIENNE-DU-ROUVRAY,HN,78 rue du Château,76800,49.334997,1.030691,<none>
+1849,<none>,IT,Magliano Nuovo,SA,Via Rosmini 76,84050,39.981265,15.40339,<none>
+1850,<none>,NZ,Washington Valley,,23 Low Street,7010,-41.331248,173.277312,<none>
+1851,<none>,DK,København V,SJ,Trollegade 76,1763,55.614641,12.595045,<none>
+1852,<none>,EE,Savimäe,VR,Lääne 51,65033,58.236212,27.289916,<none>
+1853,<none>,ES,Jimena de la Frontera,CA,C/ Rosa de los Vientos 85,11330,36.43715,-5.53291,<none>
+1854,<none>,EE,Möldri,VR,Pärna 48,65320,57.683378,27.383278,<none>
+1855,<none>,UY,Fray Bentos,RN,Coronilla 9406,65000,-33.161486,-58.211945,<none>
+1856,<none>,PT,Lisboa,LI,Avenida Marquês Tomar 58,1750-252,38.635996,-9.101496,<none>
+1857,<none>,BR,Ribeirão Preto,SP,Rua Nadim Hanna 1602,14056-190,-21.215333,-47.784893,<none>
+1858,<none>,IT,Rasun Di Sotto,BZ,Via di Santa Melania 5,39030,46.767678,11.910898,<none>
+1859,<none>,HU,Regöly,TO,Tas vezér u. 25.,7193,46.52158,18.354442,<none>
+1860,<none>,PT,Baixa da Banheira,SE,R Cid Tomar 88,2835-065,38.697872,-9.069353,<none>
+1861,<none>,AT,GLANTSCHACH,KA,Bayerhamerstrasse 76,9556,46.681563,14.22514,<none>
+1862,<none>,PL,Gdańsk,,ul. Sieroca 103,80-839,54.362179,18.690685,<none>
+1863,<none>,DK,Jystrup Midtsj,SJ,Torpegårdsvej 74,4174,55.483788,11.600977,<none>
+1864,<none>,UY,San Carlos,MA,Parva Domus 2524,20400,-34.781702,-54.996244,<none>
+1865,<none>,TN,Residence De L'Horizon,13,69 Rue de Rabat,2074,35.864533,10.66605,<none>
+1866,<none>,NL,Ermelo,GE,Oude Telgterweg 199,3853 PJ,52.199308,5.565949,<none>
+1867,<none>,CA,Victoria,BC,4273 Blanshard,V8W 2H9,48.503937,-123.28528,<none>
+1868,<none>,CA,Brampton,ON,1070 Orenda Rd,L6W 1Z2,43.653274,-79.754999,<none>
+1869,<none>,CZ,Jihlava 2,VY,Nové Město 1092,586 02,49.993542,17.21047,<none>
+1870,<none>,IS,Seltjarnarnes,,Snorragata 96,172,64.125975,-21.974605,<none>
+1871,<none>,BE,Elewijt,VBR,Dijkstraat 481,1982,50.938349,4.469474,<none>
+1872,<none>,NO,MOSS,,Refsnesstranda 26,1518,59.430903,10.709223,<none>
+1873,<none>,AU,TURLINJAH,NSW,10 Shamrock Avenue,2537,-35.863372,150.005024,<none>
+1874,<none>,GB,EBBESBORNE WAKE,,42 Haslemere Road,SP5 3YW,50.644879,-1.733328,<none>
+1875,<none>,BE,Arlon,WHT,Rue du Pont Simon 341,6700,49.68851,5.815724,<none>
+1876,<none>,BE,Malderen,VBR,Lodorp 245,1840,50.98885,4.278844,<none>
+1877,<none>,CY,ΣΙΣΚΛΗΠΟΣ,KY,Λουτράκι 291,9620,41.368554,-72.95545,<none>
+1878,<none>,CZ,Domaželice u Prerova,OL,V Zahradách 246,751 15,49.456724,17.506751,<none>
+1879,<none>,CY,ΠΑΦΟΣ,PA,Ποσειδώνος 74,8035,41.271359,-72.893734,<none>
+1880,<none>,DE,München,BY,Rosenstrasse 20,81519,48.090088,11.548357,<none>
+1881,<none>,SE,GRÄNNA,,Nytorpsvägen 18,563 00,58.00218,14.4174,<none>
+1882,<none>,DK,København K,SJ,Slude Strand 63,1127,55.669871,12.560004,<none>
+1883,<none>,GB,WYTHALL,,56 Ermin Street,B47 2ZL,52.328189,-1.949218,<none>
+1884,<none>,UY,Villa María,SJ,Hugo Reta 8437,80005,-32.449435,-56.559501,<none>
+1885,<none>,ZA,Pretoria,GA,328 Prospect St,39,-25.710559,28.211982,<none>
+1886,<none>,US,Montgomery,AL,3622 Turkey Pen Lane,36104,32.422782,-86.384236,<none>
+1887,<none>,TN,Cite Kheireddine,81,19 Rue Abdelaziz Thâalbi,6052,36.74767,10.073235,<none>
+1888,<none>,GL,Slædepatruljen Sirius,QE,Postbox 226,3992,67.245883,-48.026497,<none>
+1889,<none>,AU,MILLAROO,QLD,38 Seninis Road,4807,-19.889079,147.238121,<none>
+1890,<none>,PL,Warszawa,,ul. Falentyńska 48,02-495,52.33513,21.075298,<none>
+1891,<none>,CH,Robenhausen,,Neubertbogen 96,8620,47.294601,8.876648,<none>
+1892,<none>,SI,Prvačina,,Turjaška 32,5297,45.796914,13.744108,<none>
+1893,<none>,FI,KUOPIO,NS,Norra Larsmovägen 83,70007,62.807619,27.772271,<none>
+1894,<none>,UY,Nicolich,CA,Florianapolis 5316,14000,-34.863642,-55.965081,<none>
+1895,<none>,HU,Magyarlak,VA,Kis Diófa u. 69.,9962,47.00855,16.458352,<none>
+1896,<none>,CH,San Nazzaro,,Binzmühlestrasse 17,6575,46.210479,8.847718,<none>
+1897,<none>,IT,Arcore,MI,Via Palermo 101,20043,45.577992,9.362242,<none>
+1898,<none>,IS,Eiðar,,Skogarlond 34,705,65.395332,-14.443959,<none>
+1899,<none>,DE,Pulsnitz,SN,Amsinckstrasse 71,1893,51.234641,14.089584,<none>
+1900,<none>,GB,BENMORE,,87 Academy Street,PA23 7QT,55.904542,-4.875661,<none>
+1901,<none>,BR,Hortolândia,SP,Rua dos Inajás 340,13187-041,-22.897477,-47.304575,<none>
+1902,<none>,HU,Budapest,BU,Árpád fejedelem útja 47.,1138,47.425463,19.048234,<none>
+1903,<none>,HU,Boncodfölde,ZA,Nyár utca 49.,8992,46.870528,16.811447,<none>
+1904,<none>,GL,Qeqertarsuaq,QA,P.O. Box 30,3953,62.101622,-49.858948,<none>
+1905,<none>,CZ,Prachatice,JC,Na Sadech 719,383 01,48.918199,13.985537,<none>
+1906,<none>,ZA,Florida,GA,568 President St,2114,-26.193164,28.095031,<none>
+1907,<none>,FR,DZAOUDZI,MY,31 Avenue Millies Lacroix,97610,-12.750088,45.294026,<none>
+1908,<none>,NL,Terwolde,GE,Twelloseweg 65,7396 BM,52.345975,6.179084,<none>
+1909,<none>,BE,Opont,WHT,Rue de Boneffe 5,6852,50.052325,5.20187,<none>
+1910,<none>,FR,MANOSQUE,PA,88 Rue de la Pompe,4100,43.825466,5.828751,<none>
+1911,<none>,BE,Spiennes,WHT,Route de Botrange 387,7032,50.410577,4.006307,<none>
+1912,<none>,UY,Agraciada,CA,Dr. Francisco Soca 8368,70102,-34.85767,-55.937698,<none>
+1913,<none>,US,San Diego,CA,4006 Vernon Street,92123,32.792582,-117.153376,<none>
+1914,<none>,GB,NEWSHOLME,,93 Hertingfordbury Rd,DN14 6RQ,53.603673,-1.013498,<none>
+1915,<none>,DK,Frederiksberg C,SJ,Østervoldgade 2,1959,55.682276,12.619626,<none>
+1916,<none>,BE,Gentinnes,WBR,Rue de Fromelenne 124,1450,50.496495,4.644707,<none>
+1917,<none>,BE,Vaulx,WHT,Kasterleesteenweg 463,7536,50.516976,3.324478,<none>
+1918,<none>,GB,BALLOCHGAIR,,40 Ballifeary Road,PA28 2WE,55.317658,-4.755981,<none>
+1919,<none>,PT,Lisboa,LI,Estrada Laranjeiras 116,1100-213,38.653168,-9.095889,<none>
+1920,<none>,IS,Norðurfjörður,,Bjarnarbraut 26,524,66.068402,-21.642719,<none>
+1921,<none>,CY,Strovolos,NI,258 Kontomari,2002,41.342807,-72.884643,<none>
+1922,<none>,HU,Dunaszentgyörgy,TO,Tas vezér u. 8.,7135,46.540546,18.912011,<none>
+1923,<none>,PL,Kraków,,ul. Brzezińskiego Piotra 27,30-198,50.064331,19.917708,<none>
+1924,<none>,NO,OSLO,,Einars vei 95,575,59.911208,10.67106,<none>
+1925,<none>,DE,Altrip,RP,Hermannstrasse 48,67122,49.449383,8.409582,<none>
+1926,<none>,PT,Porto,PO,R Fonte Taurina 50,4050-037,41.113666,-8.594241,<none>
+1927,<none>,ES,Santa Coloma de Farners,GI,Paseo del Atlántico 92,17430,41.807073,2.613016,<none>
+1928,<none>,FI,SEINÄJOKI,SO,Harjukuja 1,60200,62.666227,22.985433,<none>
+1929,<none>,PL,Lublin,,ul. Struga Andrzeja 8,20-709,51.160354,22.574491,<none>
+1930,<none>,ES,Torres,J,C/ Angosto 77,23540,37.728479,-3.576944,<none>
+1931,<none>,PL,Wrocław,,ul. Bojanowska 76,54-079,51.048931,17.106384,<none>
+1932,<none>,DE,Krottelbach,RP,Hardenbergstraße 92,66909,49.528684,7.353377,<none>
+1933,<none>,BE,Opglabbeek,VLI,Rue Bois des Fosses 14,3660,51.11946,5.509233,<none>
+1934,<none>,NZ,Northcote,,27 Queen Street,627,-36.899198,174.651297,<none>
+1935,<none>,FI,PORI,SA,Etukämpäntie 72,28100,61.447514,21.851606,<none>
+1936,<none>,DE,Sonthofen,BY,Alt Reinickendorf 8,87516,47.415747,10.325035,<none>
+1937,<none>,FI,KOTKA,KY,Vanhamaantie 13,48220,60.434932,26.923434,<none>
+1938,<none>,IT,Magreta,MO,Piazza Bovio 129,41010,44.795882,11.016197,<none>
+1939,<none>,ES,Badia del Vallès,B,Cercas Bajas 46,8214,41.621914,2.060253,<none>
+1940,<none>,CY,ExoMetochi,NI,221 Agnostou Stratioti Square,2521,41.38284,-72.98533,<none>
+1941,<none>,EE,Piirsalu,LN,Koidu 3,90902,59.084442,23.948677,<none>
+1942,<none>,GB,NEWCHURCH,,62 Lairg Road,NP6 1ZT,51.490633,-2.870748,<none>
+1943,<none>,SE,ÅMSELE,,Vipgränden 19,920 19,64.582058,19.365193,<none>
+1944,<none>,IT,Vertova,BG,Via Lombardi 134,24029,45.891837,9.781381,<none>
+1945,<none>,DK,København K,SJ,Toftvej 47,1202,55.614766,12.609184,<none>
+1946,<none>,DE,Meerbusch Strümp,NW,Am Borsigturm 26,40670,51.271625,6.723688,<none>
+1947,<none>,NL,Den Haag,ZH,Piet Heinplein 152,2518 BV,51.626669,4.398486,<none>
+1948,<none>,GB,GOVILON,,28 Spilman Street,NP7 9WD,51.584539,-3.454116,<none>
+1949,<none>,CY,ΚΑΜΙΝΑΡΙΑ,LI,Πατησίων 220,4843,41.233736,-72.839891,<none>
+1950,<none>,NL,Deurne,NB,Berkmortel 57,5751 RJ,51.448794,5.728397,<none>
+1951,<none>,PT,Pampilhosa da Serra,CO,R Nossa Senhora Fátima 86,3320-234,40.031536,-7.96639,<none>
+1952,<none>,AT,AUERLING,ST,Kirchenplatz 48,8750,47.181325,14.713166,<none>
+1953,<none>,DE,Neuss Grefrath,NW,Am Borsigturm 77,41472,51.213938,6.761741,<none>
+1954,<none>,CZ,Šlapanice,ST,Hájecká 1628,273 72,49.197212,16.636018,<none>
+1955,<none>,ZA,Tabankulu,EC,1975 Daffodil Dr,5136,-31.034129,29.327278,<none>
+1956,<none>,AU,HENLEY BEACH,SA,23 Devon Street,5022,-34.82237,138.416564,<none>
+1957,<none>,GL,Slædepatruljen Sirius,QE,Postbox 274,3992,67.170988,-48.038112,<none>
+1958,<none>,FR,VILLENAVE-D'ORNON,AQ,28 Place Charles de Gaulle,33140,44.722546,-0.45257,<none>
+1959,<none>,US,Memphis,TN,897 Lightning Point Drive,38110,35.132325,-89.947621,<none>
+1960,<none>,IS,Hnífsdalur,,Hlégerði 56,410,66.090897,-23.284944,<none>
+1961,<none>,PT,Mourão,EV,R José Peixoto 87,7240-253,38.419502,-7.402947,<none>
+1962,<none>,AT,GROSSSIERNING,NO,Gralla 54,3384,48.170819,15.523424,<none>
+1963,<none>,CY,ΓΙΑΛΙΑ ΠΑΝΩ,PA,Μιχ. Βόδα 38,8875,41.25162,-72.97219,<none>
+1964,<none>,PL,Warszawa,,ul. Sewastopolska 17,02-758,52.195295,21.089963,<none>
+1965,<none>,CY,Nicosia,NI,288 Kastrinoyannaki Str.,1482,41.32067,-73.002951,<none>
+1966,<none>,PL,Rzeszów,,ul. Nazimka Eugeniusza 127,35-302,50.066071,21.959302,<none>
+1967,<none>,BR,Ituiutaba,MG,Rua Vinte e Oito 1330,38304-410,-19.019532,-49.487962,<none>
+1968,<none>,BE,Autreppe,WHT,Hoge Wei 8,7387,50.342448,3.586483,<none>
+1969,<none>,PT,Monte das Seimeiras,EV,Rua Doutor Teófilo Braga 65,7250-052,38.685139,-7.365587,<none>
+1970,<none>,CZ,Hostivice,ST,Nezvalova 382,253 01,50.026698,14.353073,<none>
+1971,<none>,CZ,Prelouc,PA,Smetanova 1944,535 01,49.98612,15.640321,<none>
+1972,<none>,IS,Selfoss,,Hverfisgata 74,801,63.857623,-21.034731,<none>
+1973,<none>,PL,Warszawa/Wesoła,,ul. Brata Alberta 116,05-075,52.193817,21.033363,<none>
+1974,<none>,FR,PARIS,IL,90 Faubourg Saint Honoré,75020,48.940993,2.349121,<none>
+1975,<none>,CY,ΛΕΥΚΩΣΙΑ,NI,Φαρσάλων 208,1440,41.23182,-72.929856,<none>
+1976,<none>,ZA,Thabazimbi,LI,2384 Doreen St,383,-24.510217,27.348475,<none>
+1977,<none>,TN,El Gheris,43,74 Rue Tahar Khmiri,9150,35.607711,10.074809,<none>
+1978,<none>,EE,Avaste,RA,Tihniku 31,78012,58.798158,24.238957,<none>
+1979,<none>,CY,ΓΕΡΜΑΣΟΓΕΙΑ,LI,Κουκάκι 277,4041,41.2908,-72.936153,<none>
+1980,<none>,US,New York,NY,260 Pride Avenue,10004,40.653365,-74.022151,<none>
+1981,<none>,BR,Manaus,AM,Rua Veneza 71,69048-300,-2.654019,-60.146929,<none>
+1982,<none>,IT,Fiorano Canavese,TO,Via Giberti 55,10010,45.490043,7.753958,<none>
+1983,<none>,DK,København K,SJ,Skolegyden 12,1012,55.678778,12.518342,<none>
+1984,<none>,HU,Kerekharaszt,,Munkácsy Mihály út 10.,3009,47.690291,19.633712,<none>
+1985,<none>,CH,Stralegg,,Via Albarelle 55,8496,47.401339,9.029044,<none>
+1986,<none>,CA,Laval,QC,2185 Pitfield Blvd,H7P 2C7,45.61442,-73.718943,<none>
+1987,<none>,IS,Seltjarnarnes,,Hvanneyrarbraut 15,170,64.155355,-22.037241,<none>
+1988,<none>,IS,Fagurhólsmýri,,Fagurhólsmýri 42,785,63.915733,-16.593068,<none>
+1989,<none>,TN,Cite Ennacim 2,13,54 Rue de Pologne,2097,36.369013,10.788811,<none>
+1990,<none>,NL,Almere,FL,Rietmeent 106,1357 CX,52.32385,5.198721,<none>
+1991,<none>,AT,HOFARNSDORF,NO,Magdalenaweg 46,3621,48.339607,15.428504,<none>
+1992,<none>,PL,Kraków,,ul. Księdza Maja Franciszka 46,30-499,49.990208,19.858286,<none>
+1993,<none>,PT,Penedo,LI,Rua Ciprestes 53,2785-528,38.80372,-9.426484,<none>
+1994,<none>,SI,Kranjska Gora,,Kolodvorska 4,4280,46.579874,13.846852,<none>
+1995,<none>,UY,Ituzaingó,SJ,Olimpo 1890,80004,-34.892695,-56.083632,<none>
+1996,<none>,BR,Marília,SP,Rua Felipe Nava 644,17511-726,-22.19203,-49.914649,<none>
+1997,<none>,CH,Lugano,,Obere Haltenstrasse 134,6905,46.048757,8.979803,<none>
+1998,<none>,IT,Cargedolo,MO,Via San Pietro Ad Aram 86,41044,44.243576,10.59872,<none>
+1999,<none>,CY,ΛΥΜΠΙΑ,NI,Λεωφόρος Ποσειδώνος 183,2566,41.29523,-72.868592,<none>
+2000,<none>,AU,ROSSMOYA,QLD,70 Rockhampton Qld,4702,-23.792071,148.695378,<none>
