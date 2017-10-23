@@ -56,7 +56,8 @@ public class Sighting {
         if (LocID != sighting.LocID) return false;
         if (sightingHeroes != null ? !sightingHeroes.equals(sighting.sightingHeroes) : sighting.sightingHeroes != null)
             return false;
-        return sightingTime != null ? sightingTime.equals(sighting.sightingTime) : sighting.sightingTime == null;
+        //return sightingTime != null ? sightingTime.equals(sighting.sightingTime) : sighting.sightingTime == null;
+        return true;
     }
 
     @Override
@@ -64,7 +65,7 @@ public class Sighting {
         int result = sightingID;
         result = 31 * result + LocID;
         result = 31 * result + (sightingHeroes != null ? sightingHeroes.hashCode() : 0);
-        result = 31 * result + (sightingTime != null ? sightingTime.hashCode() : 0);
+        //result = 31 * result + (sightingTime != null ? sightingTime.hashCode() : 0);
         return result;
     }
 }

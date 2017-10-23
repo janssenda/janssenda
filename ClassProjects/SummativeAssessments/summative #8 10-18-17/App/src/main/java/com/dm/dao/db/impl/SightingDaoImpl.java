@@ -142,8 +142,7 @@ public class SightingDaoImpl implements SightingDao {
         public Sighting mapRow(ResultSet rs, int rowNum) throws SQLException {
             Sighting s = new Sighting();
             s.setSightingID(rs.getInt("SightingID"));
-            s.setSightingTime(LocalDateTime.parse(rs.getString("SightTime"),
-                    DateTimeFormatter.ofPattern("yyyy-MM-dd HH:mm:ss")));
+            s.setSightingTime(rs.getTimestamp("SightTime").toLocalDateTime());
             s.setLocID(rs.getInt("LocID"));
             return s;
         }

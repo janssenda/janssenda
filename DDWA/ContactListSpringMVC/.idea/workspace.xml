@@ -7,24 +7,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f381db57-f1d7-4709-91b7-19143206894f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../ClassProjects/SummativeAssessments/summative #8 10-18-17/App/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../ClassProjects/SummativeAssessments/summative #8 10-18-17/App/src/main/java/com/dm/exceptions/SQLUpdateException.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ClassProjects/SummativeAssessments/summative #8 10-18-17/App/.idea/compiler.xml" afterPath="$PROJECT_DIR$/../../ClassProjects/SummativeAssessments/summative #8 10-18-17/App/.idea/compiler.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ClassProjects/SummativeAssessments/summative #8 10-18-17/App/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../ClassProjects/SummativeAssessments/summative #8 10-18-17/App/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ClassProjects/SummativeAssessments/summative #8 10-18-17/App/src/main/java/com/dm/dao/db/interfaces/HeroDao.java" afterPath="$PROJECT_DIR$/../../ClassProjects/SummativeAssessments/summative #8 10-18-17/App/src/main/java/com/dm/dao/db/interfaces/HeroDao.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ClassProjects/SummativeAssessments/summative #8 10-18-17/App/src/main/resources/spring-persistence.xml" afterPath="$PROJECT_DIR$/../../ClassProjects/SummativeAssessments/summative #8 10-18-17/App/src/main/resources/spring-persistence.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ClassProjects/SummativeAssessments/summative #8 10-18-17/App/src/main/webapp/WEB-INF/spring-dispatcher-servlet.xml" afterPath="$PROJECT_DIR$/../../ClassProjects/SummativeAssessments/summative #8 10-18-17/App/src/main/webapp/WEB-INF/spring-dispatcher-servlet.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ClassProjects/SummativeAssessments/summative #8 10-18-17/App/src/main/webapp/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/../../ClassProjects/SummativeAssessments/summative #8 10-18-17/App/src/main/webapp/WEB-INF/web.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ClassProjects/SummativeAssessments/summative #8 10-18-17/App/src/main/webapp/jsp/index.jsp" afterPath="$PROJECT_DIR$/../../ClassProjects/SummativeAssessments/summative #8 10-18-17/App/src/main/webapp/jsp/index.jsp" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ClassProjects/SummativeAssessments/summative #8 10-18-17/App/src/test/resources/test-applicationContext.xml" afterPath="$PROJECT_DIR$/../../ClassProjects/SummativeAssessments/summative #8 10-18-17/App/src/test/resources/test-applicationContext.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ClassProjects/SummativeAssessments/summative #8 10-18-17/App/target/classes/spring-persistence.xml" afterPath="$PROJECT_DIR$/../../ClassProjects/SummativeAssessments/summative #8 10-18-17/App/target/classes/spring-persistence.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ClassProjects/SummativeAssessments/summative #8 10-18-17/App/target/spring-mvc-webapp/META-INF/MANIFEST.MF" afterPath="$PROJECT_DIR$/../../ClassProjects/SummativeAssessments/summative #8 10-18-17/App/target/spring-mvc-webapp/META-INF/MANIFEST.MF" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ClassProjects/SummativeAssessments/summative #8 10-18-17/App/target/spring-mvc-webapp/WEB-INF/classes/spring-persistence.xml" afterPath="$PROJECT_DIR$/../../ClassProjects/SummativeAssessments/summative #8 10-18-17/App/target/spring-mvc-webapp/WEB-INF/classes/spring-persistence.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ClassProjects/SummativeAssessments/summative #8 10-18-17/App/target/spring-mvc-webapp/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/../../ClassProjects/SummativeAssessments/summative #8 10-18-17/App/target/spring-mvc-webapp/WEB-INF/web.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ClassProjects/SummativeAssessments/summative #8 10-18-17/App/target/test-classes/test-applicationContext.xml" afterPath="$PROJECT_DIR$/../../ClassProjects/SummativeAssessments/summative #8 10-18-17/App/target/test-classes/test-applicationContext.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ClassProjects/SummativeAssessments/summative #8 10-18-17/database/sql/datafiles.sql" afterPath="$PROJECT_DIR$/../../ClassProjects/SummativeAssessments/summative #8 10-18-17/database/sql/datafiles.sql" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../VendingAPI_JDBC/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../VendingAPI_JDBC/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -40,17 +25,17 @@
       <file leaf-file-name="ContactController.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/dm/contactlist/controller/ContactController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
+            <state relative-caret-position="323">
               <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test-applicationContext.xml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="test-applicationContext.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/resources/test-applicationContext.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="800">
+            <state relative-caret-position="629">
               <caret line="40" column="16" lean-forward="false" selection-start-line="40" selection-start-column="16" selection-end-line="40" selection-end-column="16" />
               <folding />
             </state>
@@ -60,18 +45,18 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
+            <state relative-caret-position="255">
               <caret line="15" column="18" lean-forward="false" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ContactListDaoTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ContactListDaoTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/dm/contactlist/dao/ContactListDaoTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-320">
-              <caret line="38" column="30" lean-forward="true" selection-start-line="38" selection-start-column="30" selection-end-line="38" selection-end-column="30" />
+            <state relative-caret-position="17">
+              <caret line="38" column="30" lean-forward="false" selection-start-line="38" selection-start-column="30" selection-end-line="38" selection-end-column="30" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -82,7 +67,7 @@
       <file leaf-file-name="SearchTerm.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/dm/contactlist/dao/SearchTerm.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
+            <state relative-caret-position="119">
               <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
               <folding />
             </state>
@@ -92,16 +77,10 @@
       <file leaf-file-name="ContactListDaoDbImpl.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/dm/contactlist/dao/ContactListDaoDbImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="920">
+            <state relative-caret-position="782">
               <caret line="57" column="8" lean-forward="false" selection-start-line="57" selection-start-column="8" selection-end-line="59" selection-end-column="31" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <marker date="1508538588257" expanded="true" signature="572:683" ph="INSERT INTO contacts... " />
-                <marker date="1508538588257" expanded="true" signature="753:794" ph="DELETE FROM " />
-                <marker date="1508538588257" expanded="true" signature="864:993" ph="UPDATE conta... " />
-                <marker date="1508538588257" expanded="true" signature="1063:1106" ph="SELECT * FRO... contacts" />
-                <marker date="1508538588257" expanded="true" signature="1182:1204" ph="SELECT * FRO... contacts" />
-                <marker date="1508538588257" expanded="true" signature="2154:2177" ph="SELECT LAST_... " />
               </folding>
             </state>
           </provider>
@@ -110,7 +89,7 @@
       <file leaf-file-name="UpdateIntegrityException.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/dm/contactlist/controller/UpdateIntegrityException.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
+            <state relative-caret-position="51">
               <caret line="3" column="4" lean-forward="false" selection-start-line="3" selection-start-column="4" selection-end-line="5" selection-end-column="5" />
               <folding />
             </state>
@@ -120,7 +99,7 @@
       <file leaf-file-name="spring-persistence.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/spring-persistence.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="460">
+            <state relative-caret-position="391">
               <caret line="23" column="87" lean-forward="false" selection-start-line="23" selection-start-column="64" selection-end-line="23" selection-end-column="87" />
               <folding />
             </state>
@@ -130,7 +109,7 @@
       <file leaf-file-name="spring-dispatcher-servlet.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/spring-dispatcher-servlet.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
+            <state relative-caret-position="187">
               <caret line="11" column="29" lean-forward="false" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
               <folding />
             </state>
@@ -140,7 +119,7 @@
       <file leaf-file-name="web.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
+            <state relative-caret-position="136">
               <caret line="8" column="27" lean-forward="false" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
               <folding />
             </state>
@@ -225,7 +204,7 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="244" />
     <option name="y" value="134" />
     <option name="width" value="1525" />
@@ -249,9 +228,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
       <pane id="Scope" />
-      <pane id="PackagesPane" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -375,11 +353,17 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="ContactListSpringMVC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ContactListSpringMVC" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -651,6 +635,7 @@
       <workItem from="1508357088931" duration="612000" />
       <workItem from="1508607483356" duration="1673000" />
       <workItem from="1508627833000" duration="1921000" />
+      <workItem from="1508775543632" duration="22000" />
     </task>
     <servers />
   </component>
@@ -678,10 +663,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49934000" />
+    <option name="totallyTimeSpent" value="49956000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-1" y="-4" width="1368" height="749" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -701,11 +686,11 @@
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30218068" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" x="0" y="205" width="1366" height="470" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30218068" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" x="0" y="205" width="1366" height="470" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32944915" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2390625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.238653" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -996,15 +981,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="840">
           <caret line="42" column="5" lean-forward="false" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/dm/contactlist/dao/SearchTerm.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
+        <state relative-caret-position="119">
           <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding />
         </state>
@@ -1020,7 +1002,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/spring-dispatcher-servlet.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
+        <state relative-caret-position="187">
           <caret line="11" column="29" lean-forward="false" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
           <folding />
         </state>
@@ -1028,7 +1010,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
+        <state relative-caret-position="136">
           <caret line="8" column="27" lean-forward="false" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
           <folding />
         </state>
@@ -1036,7 +1018,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
+        <state relative-caret-position="255">
           <caret line="15" column="18" lean-forward="false" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
           <folding />
         </state>
@@ -1044,7 +1026,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/spring-persistence.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
+        <state relative-caret-position="391">
           <caret line="23" column="87" lean-forward="false" selection-start-line="23" selection-start-column="64" selection-end-line="23" selection-end-column="87" />
           <folding />
         </state>
@@ -1052,39 +1034,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/dm/contactlist/controller/ContactController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
+        <state relative-caret-position="323">
           <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/test-applicationContext.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="800">
-          <caret line="40" column="16" lean-forward="false" selection-start-line="40" selection-start-column="16" selection-end-line="40" selection-end-column="16" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/dm/contactlist/dao/ContactListDaoDbImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="920">
+        <state relative-caret-position="782">
           <caret line="57" column="8" lean-forward="false" selection-start-line="57" selection-start-column="8" selection-end-line="59" selection-end-column="31" />
           <folding>
             <element signature="imports" expanded="true" />
-            <marker date="1508538588257" expanded="true" signature="572:683" ph="INSERT INTO contacts... " />
-            <marker date="1508538588257" expanded="true" signature="753:794" ph="DELETE FROM " />
-            <marker date="1508538588257" expanded="true" signature="864:993" ph="UPDATE conta... " />
-            <marker date="1508538588257" expanded="true" signature="1063:1106" ph="SELECT * FRO... contacts" />
-            <marker date="1508538588257" expanded="true" signature="1182:1204" ph="SELECT * FRO... contacts" />
-            <marker date="1508538588257" expanded="true" signature="2154:2177" ph="SELECT LAST_... " />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/dm/contactlist/controller/UpdateIntegrityException.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
+        <state relative-caret-position="51">
           <caret line="3" column="4" lean-forward="false" selection-start-line="3" selection-start-column="4" selection-end-line="5" selection-end-column="5" />
           <folding />
         </state>
@@ -1092,11 +1060,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/dm/contactlist/dao/ContactListDaoTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-320">
-          <caret line="38" column="30" lean-forward="true" selection-start-line="38" selection-start-column="30" selection-end-line="38" selection-end-column="30" />
+        <state relative-caret-position="17">
+          <caret line="38" column="30" lean-forward="false" selection-start-line="38" selection-start-column="30" selection-end-line="38" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/test-applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="40" column="16" lean-forward="false" selection-start-line="40" selection-start-column="16" selection-end-line="40" selection-end-column="16" />
+          <folding />
         </state>
       </provider>
     </entry>

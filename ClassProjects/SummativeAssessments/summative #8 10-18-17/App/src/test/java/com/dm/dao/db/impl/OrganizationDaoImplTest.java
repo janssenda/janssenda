@@ -49,6 +49,10 @@ public class OrganizationDaoImplTest {
         p.setOrgName("Kloud");
         p = dao.addOrg(p);
         assertTrue(p.getOrgID() != 0);
+        Organization p2 = dao.getFromOrgs(Integer.toString(p.getOrgID())).get(0);
+
+        assertTrue(p.equals(p2));
+
     }
 
     @Test

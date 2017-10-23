@@ -23,104 +23,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="PowerDao.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/dm/dao/db/interfaces/PowerDao.java">
+      <file leaf-file-name="HeroDaoImplTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/dm/dao/db/impl/HeroDaoImplTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DataCoordinatorDaoImpl.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/dm/dao/db/impl/DataCoordinatorDaoImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5520">
-              <caret line="292" column="0" lean-forward="false" selection-start-line="292" selection-start-column="0" selection-end-line="292" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <marker date="1508723330002" expanded="true" signature="1747:1907" ph="SELECT HeroI... organizations" />
-                <marker date="1508723330002" expanded="true" signature="1961:2134" ph="SELECT HeadQ... organizations" />
-                <marker date="1508723330002" expanded="true" signature="2261:2434" ph="SELECT HeroI... organizations" />
-                <marker date="1508723330002" expanded="true" signature="2562:2719" ph="SELECT Power... heroes" />
-                <marker date="1508723330002" expanded="true" signature="2777:2933" ph="SELECT Sight... heroes" />
-                <marker date="1508723330002" expanded="true" signature="2986:3127" ph="SELECT OrgID... heroes" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test-applicationContext.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/resources/test-applicationContext.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="620">
-              <caret line="31" column="49" lean-forward="false" selection-start-line="31" selection-start-column="49" selection-end-line="31" selection-end-column="49" />
+            <state relative-caret-position="235">
+              <caret line="57" column="0" lean-forward="false" selection-start-line="57" selection-start-column="0" selection-end-line="58" selection-end-column="33" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BridgeDaoImplTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/dm/dao/db/impl/BridgeDaoImplTest.java">
+      <file leaf-file-name="ContactDaoImplTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/dm/dao/db/impl/ContactDaoImplTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1700">
-              <caret line="97" column="45" lean-forward="false" selection-start-line="97" selection-start-column="45" selection-end-line="97" selection-end-column="45" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DataCoordinatorDao.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/dm/dao/db/interfaces/DataCoordinatorDao.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="557">
-              <caret line="45" column="66" lean-forward="false" selection-start-line="45" selection-start-column="66" selection-end-line="45" selection-end-column="66" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BridgeDao.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/dm/dao/db/interfaces/BridgeDao.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="15" selection-end-column="89" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PowerDaoImpl.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/dm/dao/db/impl/PowerDaoImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2200">
-              <caret line="126" column="22" lean-forward="false" selection-start-line="126" selection-start-column="22" selection-end-line="126" selection-end-column="22" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <marker date="1508709641193" expanded="true" signature="777:837" ph="INSERT INTO heroes... " />
-                <marker date="1508709641193" expanded="true" signature="899:949" ph="SELECT COUNT... superpowers" />
-                <marker date="1508709641193" expanded="true" signature="1019:1060" ph="DELETE FROM " />
-                <marker date="1508709641193" expanded="true" signature="1127:1152" ph="SELECT * FRO... superpowers" />
-                <marker date="1508709641193" expanded="true" signature="1224:1249" ph="SELECT * FRO... superpowers" />
-                <marker date="1508709641193" expanded="true" signature="1224:1267" ph="SELECT * FRO... superpowers" />
-                <marker date="1508709641193" expanded="true" signature="1340:1605" ph="SELECT * FRO... heroes" />
-                <marker date="1508709641193" expanded="true" signature="1676:1747" ph="UPDATE heroe... " />
-                <marker date="1508709641193" expanded="true" signature="2034:2057" ph="SELECT LAST_... " />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SightingDao.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/dm/dao/db/interfaces/SightingDao.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="10" selection-end-column="79" />
+            <state relative-caret-position="255">
+              <caret line="50" column="0" lean-forward="false" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -129,20 +46,86 @@
       <file leaf-file-name="CoordinatorTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/dm/dao/db/impl/CoordinatorTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="600">
-              <caret line="41" column="47" lean-forward="false" selection-start-line="41" selection-start-column="47" selection-end-line="41" selection-end-column="47" />
+            <state relative-caret-position="136">
+              <caret line="37" column="23" lean-forward="true" selection-start-line="37" selection-start-column="23" selection-end-line="37" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HeadquartersDaoImplTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/dm/dao/db/impl/HeadquartersDaoImplTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="233">
+              <caret line="49" column="38" lean-forward="true" selection-start-line="49" selection-start-column="38" selection-end-line="49" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SightingDaoImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/dm/dao/db/impl/SightingDaoImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="320">
+              <caret line="142" column="40" lean-forward="true" selection-start-line="142" selection-start-column="40" selection-end-line="142" selection-end-column="40" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <marker date="1508782353057" expanded="true" signature="868:920" ph="INSERT INTO sightings... " />
+                <marker date="1508782353057" expanded="true" signature="982:1033" ph="SELECT COUNT... sightings" />
+                <marker date="1508782353057" expanded="true" signature="1106:1148" ph="DELETE FROM " />
+                <marker date="1508782353057" expanded="true" signature="1218:1241" ph="SELECT * FRO... sightings" />
+                <marker date="1508782353057" expanded="true" signature="1317:1574" ph="SELECT * FRO... sightings" />
+                <marker date="1508782353057" expanded="true" signature="1648:1714" ph="UPDATE sight... " />
+                <marker date="1508782353057" expanded="true" signature="2025:2048" ph="SELECT LAST_... " />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="OrganizationDao.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/dm/dao/db/interfaces/OrganizationDao.java">
+      <file leaf-file-name="SightingDaoImplTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/dm/dao/db/impl/SightingDaoImplTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="10" selection-end-column="73" />
+            <state relative-caret-position="208">
+              <caret line="61" column="0" lean-forward="false" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Sighting.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/dm/model/Sighting.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="262">
+              <caret line="59" column="20" lean-forward="false" selection-start-line="59" selection-start-column="20" selection-end-line="59" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LocationDaoImplTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/dm/dao/db/impl/LocationDaoImplTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="54" column="22" lean-forward="false" selection-start-line="54" selection-start-column="22" selection-end-line="54" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OrganizationDaoImplTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/dm/dao/db/impl/OrganizationDaoImplTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="261">
+              <caret line="53" column="30" lean-forward="false" selection-start-line="53" selection-start-column="30" selection-end-line="53" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PowerDaoImplTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/dm/dao/db/impl/PowerDaoImplTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="52" column="30" lean-forward="false" selection-start-line="52" selection-start-column="30" selection-end-line="52" selection-end-column="30" />
               <folding />
             </state>
           </provider>
@@ -230,25 +213,18 @@
         <option value="$PROJECT_DIR$/src/main/java/com/dm/dao/db/impl/DBMaintenance.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/dm/dao/db/interfaces/SuperpowerDao.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/dm/dao/db/impl/SuperPowerDaoImpl.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/dm/dao/db/impl/HeroDaoImplTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/dm/dao/db/impl/PowerDaoImplTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/dm/dao/db/impl/PowerDaoImplTest2.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/dm/dao/db/impl/LocationDaoImplTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/dm/dao/db/impl/OrganizationDeoImlTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/dm/dao/db/impl/OrganizationDaoImplTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/dm/dao/db/interfaces/SightingsDao.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/dm/dao/db/impl/SightingsDaoImpl.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/dm/dao/db/impl/SightingDaoImplTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/dm/model/Headquarters.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/dm/dao/db/interfaces/HeadquartersDao.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/dm/dao/db/interfaces/HeroDao.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/dm/dao/db/interfaces/LocationDao.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/dm/dao/db/interfaces/OrganizationDao.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/dm/dao/db/interfaces/SightingDao.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/dm/dao/db/impl/HeadquartersDaoImplTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/dm/dao/db/interfaces/ContactDao.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/dm/model/Contact.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/dm/dao/db/impl/ContactDaoImplTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/dm/dao/db/interfaces/BridgeDao.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/dm/dao/db/impl/BridgeDaoImpl.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/dm/dao/db/impl/BridgeDaoImplTest.java" />
@@ -258,10 +234,8 @@
         <option value="$PROJECT_DIR$/src/main/java/com/dm/dao/db/impl/HeadquartersDaoImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/dm/dao/db/impl/LocationDaoImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/dm/dao/db/impl/PowerDaoImpl.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/dm/dao/db/impl/SightingDaoImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/dm/dao/db/impl/HeroDaoImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/dm/dao/db/impl/ContactDaoImpl.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/dm/model/Sighting.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/dm/model/Location.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/dm/dao/db/impl/DataCoordinatorDao.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/dm/dao/db/impl/CoordinatorTest.java" />
@@ -269,6 +243,15 @@
         <option value="$PROJECT_DIR$/src/main/java/com/dm/dao/db/interfaces/DataCoordinatorDao.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/dm/dao/db/impl/DataCoordinatorDaoImpl.java" />
         <option value="$PROJECT_DIR$/src/test/resources/test-applicationContext.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dm/dao/db/impl/SightingDaoImpl.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/dm/dao/db/impl/HeroDaoImplTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/dm/dao/db/impl/ContactDaoImplTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/dm/dao/db/impl/HeadquartersDaoImplTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/dm/dao/db/impl/LocationDaoImplTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/dm/dao/db/impl/OrganizationDaoImplTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/dm/dao/db/impl/PowerDaoImplTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dm/model/Sighting.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/dm/dao/db/impl/SightingDaoImplTest.java" />
       </list>
     </option>
   </component>
@@ -288,7 +271,7 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="mavenHome" value="C:/maven/apache-maven-3.5.0-bin/apache-maven-3.5.0" />
+        <option name="mavenHome" value="$USER_HOME$/maven/apache-maven-3.5.0" />
       </MavenGeneralSettings>
     </option>
     <option name="importingSettings">
@@ -298,9 +281,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="564" />
-    <option name="width" value="1368" />
-    <option name="height" value="749" />
+    <option name="x" value="581" />
+    <option name="width" value="1339" />
+    <option name="height" value="1040" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -393,7 +376,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -520,20 +503,20 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.SQL" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.splitter.proportion" value="0.25868726" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../DDWA/VendingAPI_JDBC" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../DDWA/Gamethon" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
   </component>
   <component name="RecentsManager">
@@ -556,82 +539,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Run All Tests">
-    <configuration name="BridgeDaoImplTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.dm.dao.db.impl.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="App" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.dm.dao.db.impl" />
-      <option name="MAIN_CLASS_NAME" value="com.dm.dao.db.impl.BridgeDaoImplTest" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
-    <configuration name="ContactDaoImplTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.dm.dao.db.impl.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="App" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.dm.dao.db.impl" />
-      <option name="MAIN_CLASS_NAME" value="com.dm.dao.db.impl.ContactDaoImplTest" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
-    <configuration name="CoordinatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.dm.dao.db.impl.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="App" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.dm.dao.db.impl" />
-      <option name="MAIN_CLASS_NAME" value="com.dm.dao.db.impl.CoordinatorTest" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
+  <component name="RunManager" selected="JUnit.SightingDaoImplTest">
     <configuration name="HeadquartersDaoImplTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -730,7 +638,7 @@
         </option>
       </method>
     </configuration>
-    <configuration name="Run All Tests" type="JUnit" factoryName="JUnit" temporary="true">
+    <configuration name="LocationDaoImplTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="com.dm.dao.db.impl.*" />
@@ -741,12 +649,87 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="com.dm.dao.db.impl" />
-      <option name="MAIN_CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="TEST_OBJECT" value="package" />
+      <option name="MAIN_CLASS_NAME" value="com.dm.dao.db.impl.LocationDaoImplTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="file://$MODULE_DIR$" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="OrganizationDaoImplTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.dm.dao.db.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="App" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.dm.dao.db.impl" />
+      <option name="MAIN_CLASS_NAME" value="com.dm.dao.db.impl.OrganizationDaoImplTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="PowerDaoImplTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.dm.dao.db.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="App" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.dm.dao.db.impl" />
+      <option name="MAIN_CLASS_NAME" value="com.dm.dao.db.impl.PowerDaoImplTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="SightingDaoImplTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.dm.dao.db.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="App" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.dm.dao.db.impl" />
+      <option name="MAIN_CLASS_NAME" value="com.dm.dao.db.impl.SightingDaoImplTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="TEST_SEARCH_SCOPE">
@@ -838,18 +821,18 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Tomcat Server.KITTENS" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.Run All Tests" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.HeadquartersDaoImplTest" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.ContactDaoImplTest" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.BridgeDaoImplTest" />
-      <item index="5" class="java.lang.String" itemvalue="JUnit.CoordinatorTest" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.HeadquartersDaoImplTest" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.LocationDaoImplTest" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.OrganizationDaoImplTest" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.PowerDaoImplTest" />
+      <item index="5" class="java.lang.String" itemvalue="JUnit.SightingDaoImplTest" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.Run All Tests" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.CoordinatorTest" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.BridgeDaoImplTest" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.ContactDaoImplTest" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.SightingDaoImplTest" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.PowerDaoImplTest" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.OrganizationDaoImplTest" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.LocationDaoImplTest" />
         <item index="4" class="java.lang.String" itemvalue="JUnit.HeadquartersDaoImplTest" />
       </list>
     </recent_temporary>
@@ -868,46 +851,47 @@
       <workItem from="1508538698804" duration="68687000" />
       <workItem from="1508727680631" duration="35000" />
       <workItem from="1508727761129" duration="899000" />
+      <workItem from="1508775323736" duration="7514000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CoordinatorTest - 2017.10.22 at 20h 15m 44s.xml">
-      <configuration name="CoordinatorTest" configurationId="JUnit" />
+    <history-entry file="ContactDaoImplTest - 2017.10.23 at 15h 05m 21s.xml">
+      <configuration name="ContactDaoImplTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CoordinatorTest - 2017.10.22 at 20h 17m 34s.xml">
-      <configuration name="CoordinatorTest" configurationId="JUnit" />
+    <history-entry file="HeadquartersDaoImplTest - 2017.10.23 at 15h 12m 36s.xml">
+      <configuration name="HeadquartersDaoImplTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CoordinatorTest - 2017.10.22 at 20h 18m 09s.xml">
-      <configuration name="CoordinatorTest" configurationId="JUnit" />
+    <history-entry file="LocationDaoImplTest - 2017.10.23 at 15h 15m 26s.xml">
+      <configuration name="LocationDaoImplTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CoordinatorTest - 2017.10.22 at 20h 18m 41s.xml">
-      <configuration name="CoordinatorTest" configurationId="JUnit" />
+    <history-entry file="LocationDaoImplTest - 2017.10.23 at 15h 17m 47s.xml">
+      <configuration name="LocationDaoImplTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CoordinatorTest - 2017.10.22 at 20h 19m 12s.xml">
-      <configuration name="CoordinatorTest" configurationId="JUnit" />
+    <history-entry file="LocationDaoImplTest - 2017.10.23 at 15h 18m 07s.xml">
+      <configuration name="LocationDaoImplTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CoordinatorTest - 2017.10.22 at 20h 19m 56s.xml">
-      <configuration name="CoordinatorTest" configurationId="JUnit" />
+    <history-entry file="OrganizationDaoImplTest - 2017.10.23 at 15h 21m 37s.xml">
+      <configuration name="OrganizationDaoImplTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CoordinatorTest - 2017.10.22 at 20h 49m 03s.xml">
-      <configuration name="CoordinatorTest" configurationId="JUnit" />
+    <history-entry file="PowerDaoImplTest - 2017.10.23 at 15h 22m 59s.xml">
+      <configuration name="PowerDaoImplTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CoordinatorTest - 2017.10.22 at 20h 53m 13s.xml">
-      <configuration name="CoordinatorTest" configurationId="JUnit" />
+    <history-entry file="SightingDaoImplTest - 2017.10.23 at 15h 24m 13s.xml">
+      <configuration name="SightingDaoImplTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Run_All_Tests - 2017.10.22 at 20h 14m 26s.xml">
-      <configuration name="Run All Tests" configurationId="JUnit" />
+    <history-entry file="SightingDaoImplTest - 2017.10.23 at 15h 25m 24s.xml">
+      <configuration name="SightingDaoImplTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Run_All_Tests - 2017.10.22 at 20h 53m 29s.xml">
-      <configuration name="Run All Tests" configurationId="JUnit" />
+    <history-entry file="SightingDaoImplTest - 2017.10.23 at 15h 29m 46s.xml">
+      <configuration name="SightingDaoImplTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="74580000" />
+    <option name="totallyTimeSpent" value="82094000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-1" y="-4" width="1368" height="749" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
@@ -916,23 +900,23 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Statistic" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.65677965" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Archetypes" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3898305" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38975155" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32763976" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25317797" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2795031" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24947916" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2489019" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -941,7 +925,7 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32838982" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Statistic" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.65677965" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296875" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32838982" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1019,14 +1003,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2014">
-          <caret line="18" column="37" lean-forward="false" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/spring-dispatcher-servlet.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="440">
@@ -1053,44 +1029,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="40">
           <caret line="2" column="51" lean-forward="false" selection-start-line="2" selection-start-column="51" selection-end-line="2" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/dm/dao/db/impl/HeroDaoImplTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="946">
-          <caret line="99" column="20" lean-forward="false" selection-start-line="99" selection-start-column="20" selection-end-line="99" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/dm/dao/db/impl/LocationDaoImplTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="316">
-          <caret line="84" column="11" lean-forward="false" selection-start-line="84" selection-start-column="11" selection-end-line="84" selection-end-column="11" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/dm/dao/db/impl/OrganizationDaoImplTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="346">
-          <caret line="64" column="47" lean-forward="true" selection-start-line="64" selection-start-column="47" selection-end-line="64" selection-end-column="47" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/dm/dao/db/impl/PowerDaoImplTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="569">
-          <caret line="73" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="95" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1129,14 +1067,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/dm/dao/db/impl/HeadquartersDaoImplTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1240">
-          <caret line="77" column="5" lean-forward="true" selection-start-line="77" selection-start-column="5" selection-end-line="77" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.0.0.RELEASE/spring-aop-5.0.0.RELEASE.jar!/org/springframework/aop/framework/CglibAopProxy.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
@@ -1158,14 +1088,6 @@
           <caret line="82" column="13" lean-forward="true" selection-start-line="82" selection-start-column="13" selection-end-line="82" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="false" />
-            <marker date="1508698568745" expanded="true" signature="611:668" ph="INSERT INTO orgsheadquarters... " />
-            <marker date="1508698568745" expanded="true" signature="1022:1082" ph="DELETE FROM " />
-            <marker date="1508698568745" expanded="true" signature="1470:1520" ph="INSERT INTO orgsheroes... " />
-            <marker date="1508698568745" expanded="true" signature="1866:1919" ph="DELETE FROM " />
-            <marker date="1508698568745" expanded="true" signature="2319:2379" ph="INSERT INTO sightingsheroes... " />
-            <marker date="1508698568745" expanded="true" signature="2740:2803" ph="DELETE FROM " />
-            <marker date="1508698568745" expanded="true" signature="3201:3260" ph="INSERT INTO superpowersheroes... " />
-            <marker date="1508698568745" expanded="true" signature="3612:3674" ph="DELETE FROM " />
           </folding>
         </state>
       </provider>
@@ -1186,15 +1108,6 @@
           <caret line="122" column="22" lean-forward="false" selection-start-line="122" selection-start-column="22" selection-end-line="122" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="false" />
-            <marker date="1508709623962" expanded="true" signature="806:832" ph="INSERT INTO headquarters... " />
-            <marker date="1508709623962" expanded="true" signature="806:878" ph="INSERT INTO headquarters... " />
-            <marker date="1508709623962" expanded="true" signature="940:980" ph="SELECT COUNT... headquarters" />
-            <marker date="1508709623962" expanded="true" signature="940:991" ph="SELECT COUNT... headquarters" />
-            <marker date="1508709623962" expanded="true" signature="1061:1103" ph="DELETE FROM " />
-            <marker date="1508709623962" expanded="true" signature="1170:1196" ph="SELECT * FRO... headquarters" />
-            <marker date="1508709623962" expanded="true" signature="1269:1605" ph="SELECT * FRO... headquarters" />
-            <marker date="1508709623962" expanded="true" signature="1676:1761" ph="UPDATE headq... " />
-            <marker date="1508709623962" expanded="true" signature="2093:2116" ph="SELECT LAST_... " />
           </folding>
         </state>
       </provider>
@@ -1205,40 +1118,7 @@
           <caret line="119" column="22" lean-forward="false" selection-start-line="119" selection-start-column="22" selection-end-line="119" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="false" />
-            <marker date="1508709417554" expanded="true" signature="803:815" ph="INSERT INTO superpowers... " />
-            <marker date="1508709417554" expanded="true" signature="803:863" ph="INSERT INTO organizations... " />
-            <marker date="1508709417554" expanded="true" signature="925:975" ph="SELECT COUNT... organizations" />
-            <marker date="1508709417554" expanded="true" signature="1043:1084" ph="DELETE FROM " />
-            <marker date="1508709417554" expanded="true" signature="1149:1176" ph="SELECT * FRO... organizations" />
-            <marker date="1508709417554" expanded="true" signature="1247:1502" ph="SELECT * FRO... organizations" />
-            <marker date="1508709417554" expanded="true" signature="1571:1640" ph="UPDATE organ... " />
-            <marker date="1508709417554" expanded="true" signature="1590:1640" ph="UPDATE super... " />
-            <marker date="1508709417554" expanded="true" signature="1925:1948" ph="SELECT LAST_... " />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/dm/dao/db/impl/SightingDaoImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="122" column="22" lean-forward="false" selection-start-line="122" selection-start-column="22" selection-end-line="122" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <marker date="1508709647296" expanded="true" signature="868:920" ph="INSERT INTO sightings... " />
-            <marker date="1508709647296" expanded="true" signature="982:1033" ph="SELECT COUNT... sightings" />
-            <marker date="1508709647296" expanded="true" signature="1106:1148" ph="DELETE FROM " />
-            <marker date="1508709647296" expanded="true" signature="1218:1241" ph="SELECT * FRO... sightings" />
-            <marker date="1508709647296" expanded="true" signature="1317:1574" ph="SELECT * FRO... sightings" />
-            <marker date="1508709647296" expanded="true" signature="1648:1714" ph="UPDATE sight... " />
-            <marker date="1508709647296" expanded="true" signature="2025:2048" ph="SELECT LAST_... " />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/dm/model/Organization.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="9" column="23" lean-forward="false" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
         </state>
       </provider>
     </entry>
@@ -1249,33 +1129,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/dm/model/Headquarters.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="54" column="37" lean-forward="false" selection-start-line="54" selection-start-column="37" selection-end-line="54" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/dm/model/Power.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/dm/dao/db/impl/ContactDaoImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="400">
           <caret line="116" column="22" lean-forward="false" selection-start-line="116" selection-start-column="22" selection-end-line="116" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="false" />
-            <marker date="1508714485202" expanded="true" signature="787:809" ph="INSERT INTO contacts... " />
-            <marker date="1508714485202" expanded="true" signature="787:836" ph="INSERT INTO contacts... " />
-            <marker date="1508714485202" expanded="true" signature="898:962" ph="SELECT COUNT... contacts" />
-            <marker date="1508714485202" expanded="true" signature="1034:1089" ph="DELETE FROM " />
-            <marker date="1508714485202" expanded="true" signature="1158:1180" ph="SELECT * FRO... contacts" />
-            <marker date="1508714485202" expanded="true" signature="1255:1426" ph="SELECT * FRO... contacts" />
-            <marker date="1508714485202" expanded="true" signature="1255:1428" ph="SELECT * FRO... contacts" />
           </folding>
         </state>
       </provider>
@@ -1286,70 +1145,6 @@
           <caret line="127" column="86" lean-forward="true" selection-start-line="126" selection-start-column="32" selection-end-line="127" selection-end-column="86" />
           <folding>
             <element signature="imports" expanded="false" />
-            <marker date="1508709630979" expanded="true" signature="788:946" ph="INSERT INTO superpowers... " />
-            <marker date="1508709630979" expanded="true" signature="1008:1054" ph="SELECT COUNT... locations" />
-            <marker date="1508709630979" expanded="true" signature="1122:1159" ph="DELETE FROM " />
-            <marker date="1508709630979" expanded="true" signature="1224:1238" ph="SELECT * FRO... superpowers" />
-            <marker date="1508709630979" expanded="true" signature="1224:1247" ph="SELECT * FRO... locations" />
-            <marker date="1508709630979" expanded="true" signature="1318:2059" ph="SELECT * FRO... superpowers" />
-            <marker date="1508709630979" expanded="true" signature="2128:2359" ph="UPDATE super... " />
-            <marker date="1508709630979" expanded="true" signature="2943:2966" ph="SELECT LAST_... " />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/dm/model/Location.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="16" column="40" lean-forward="false" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/dm/model/Sighting.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="12" column="16" lean-forward="false" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/dm/model/Hero.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="10" column="35" lean-forward="true" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/dm/dao/db/impl/ContactDaoImplTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-760">
-          <caret line="33" column="0" lean-forward="true" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/dm/dao/db/impl/SightingDaoImplTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="108" column="72" lean-forward="false" selection-start-line="108" selection-start-column="72" selection-end-line="108" selection-end-column="72" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/dm/dao/db/impl/HeroDaoImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1536">
-          <caret line="105" column="4" lean-forward="false" selection-start-line="105" selection-start-column="4" selection-end-line="105" selection-end-column="4" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <marker date="1508711913314" expanded="true" signature="715:781" ph="INSERT INTO heroes... " />
-            <marker date="1508711913314" expanded="true" signature="843:887" ph="SELECT COUNT... heroes" />
-            <marker date="1508711913314" expanded="true" signature="956:991" ph="DELETE FROM " />
-            <marker date="1508711913314" expanded="true" signature="1057:1077" ph="SELECT * FRO... heroes" />
-            <marker date="1508711913314" expanded="true" signature="1149:1169" ph="SELECT * FRO... heroes" />
-            <marker date="1508711913314" expanded="true" signature="1149:1181" ph="SELECT * FRO... heroes" />
-            <marker date="1508711913314" expanded="true" signature="1149:1476" ph="SELECT * FRO... heroes" />
-            <marker date="1508711913314" expanded="true" signature="1546:1624" ph="UPDATE heroe... " />
-            <marker date="1508711913314" expanded="true" signature="1923:1946" ph="SELECT LAST_... " />
           </folding>
         </state>
       </provider>
@@ -1382,49 +1177,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/dm/dao/db/interfaces/OrganizationDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="10" selection-end-column="73" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/dm/dao/db/impl/CoordinatorTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="41" column="47" lean-forward="false" selection-start-line="41" selection-start-column="47" selection-end-line="41" selection-end-column="47" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/dm/dao/db/interfaces/PowerDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/dm/dao/db/impl/PowerDaoImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2200">
           <caret line="126" column="22" lean-forward="false" selection-start-line="126" selection-start-column="22" selection-end-line="126" selection-end-column="22" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <marker date="1508709641193" expanded="true" signature="777:837" ph="INSERT INTO heroes... " />
-            <marker date="1508709641193" expanded="true" signature="899:949" ph="SELECT COUNT... superpowers" />
-            <marker date="1508709641193" expanded="true" signature="1019:1060" ph="DELETE FROM " />
-            <marker date="1508709641193" expanded="true" signature="1127:1152" ph="SELECT * FRO... superpowers" />
-            <marker date="1508709641193" expanded="true" signature="1224:1249" ph="SELECT * FRO... superpowers" />
-            <marker date="1508709641193" expanded="true" signature="1224:1267" ph="SELECT * FRO... superpowers" />
-            <marker date="1508709641193" expanded="true" signature="1340:1605" ph="SELECT * FRO... heroes" />
-            <marker date="1508709641193" expanded="true" signature="1676:1747" ph="UPDATE heroe... " />
-            <marker date="1508709641193" expanded="true" signature="2034:2057" ph="SELECT LAST_... " />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1433,30 +1191,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="10" selection-end-column="79" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/dm/dao/db/impl/DataCoordinatorDaoImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5520">
-          <caret line="292" column="0" lean-forward="false" selection-start-line="292" selection-start-column="0" selection-end-line="292" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <marker date="1508723330002" expanded="true" signature="1747:1907" ph="SELECT HeroI... organizations" />
-            <marker date="1508723330002" expanded="true" signature="1961:2134" ph="SELECT HeadQ... organizations" />
-            <marker date="1508723330002" expanded="true" signature="2261:2434" ph="SELECT HeroI... organizations" />
-            <marker date="1508723330002" expanded="true" signature="2562:2719" ph="SELECT Power... heroes" />
-            <marker date="1508723330002" expanded="true" signature="2777:2933" ph="SELECT Sight... heroes" />
-            <marker date="1508723330002" expanded="true" signature="2986:3127" ph="SELECT OrgID... heroes" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/test-applicationContext.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="620">
-          <caret line="31" column="49" lean-forward="false" selection-start-line="31" selection-start-column="49" selection-end-line="31" selection-end-column="49" />
           <folding />
         </state>
       </provider>
@@ -1477,19 +1211,239 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dm/dao/db/interfaces/PowerDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/test-applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="30" column="49" lean-forward="true" selection-start-line="30" selection-start-column="49" selection-end-line="30" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="28" lean-forward="true" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dm/dao/db/interfaces/OrganizationDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dm/model/Hero.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="35" lean-forward="true" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dm/model/Organization.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="23" lean-forward="false" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dm/model/Headquarters.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="54" column="37" lean-forward="false" selection-start-line="54" selection-start-column="37" selection-end-line="54" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dm/model/Power.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+          <folding>
+            <element signature="e#161#162#0" expanded="false" />
+            <element signature="e#191#192#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/dm/dao/db/interfaces/DataCoordinatorDao.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="557">
+        <state relative-caret-position="660">
           <caret line="45" column="66" lean-forward="false" selection-start-line="45" selection-start-column="66" selection-end-line="45" selection-end-column="66" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dm/dao/db/impl/DataCoordinatorDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1360">
+          <caret line="292" column="0" lean-forward="false" selection-start-line="292" selection-start-column="0" selection-end-line="292" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <marker date="1508774791436" expanded="true" signature="1747:1907" ph="SELECT HeroI... organizations" />
+            <marker date="1508774791436" expanded="true" signature="1961:2134" ph="SELECT HeadQ... organizations" />
+            <marker date="1508774791436" expanded="true" signature="2261:2434" ph="SELECT HeroI... sightings" />
+            <marker date="1508774791436" expanded="true" signature="2562:2719" ph="SELECT Power... heroes" />
+            <marker date="1508774791436" expanded="true" signature="2777:2933" ph="SELECT Sight... heroes" />
+            <marker date="1508774791436" expanded="true" signature="2986:3127" ph="SELECT OrgID... heroes" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dm/dao/db/impl/HeroDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="123" column="0" lean-forward="true" selection-start-line="123" selection-start-column="0" selection-end-line="123" selection-end-column="0" />
+          <folding>
+            <marker date="1508774791436" expanded="true" signature="715:781" ph="INSERT INTO heroes... " />
+            <marker date="1508774791436" expanded="true" signature="843:887" ph="SELECT COUNT... heroes" />
+            <marker date="1508774791436" expanded="true" signature="956:991" ph="DELETE FROM " />
+            <marker date="1508774791436" expanded="true" signature="1057:1077" ph="SELECT * FRO... heroes" />
+            <marker date="1508774791436" expanded="true" signature="1149:1476" ph="SELECT * FRO... heroes" />
+            <marker date="1508774791436" expanded="true" signature="1546:1624" ph="UPDATE heroe... " />
+            <marker date="1508774791436" expanded="true" signature="1923:1946" ph="SELECT LAST_... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dm/model/Location.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="33" lean-forward="false" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dm/dao/db/impl/SightingDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="142" column="40" lean-forward="true" selection-start-line="142" selection-start-column="40" selection-end-line="142" selection-end-column="40" />
+          <folding>
+            <marker date="1508782353057" expanded="true" signature="868:920" ph="INSERT INTO sightings... " />
+            <marker date="1508782353057" expanded="true" signature="982:1033" ph="SELECT COUNT... sightings" />
+            <marker date="1508782353057" expanded="true" signature="1106:1148" ph="DELETE FROM " />
+            <marker date="1508782353057" expanded="true" signature="1218:1241" ph="SELECT * FRO... sightings" />
+            <marker date="1508782353057" expanded="true" signature="1317:1574" ph="SELECT * FRO... sightings" />
+            <marker date="1508782353057" expanded="true" signature="1648:1714" ph="UPDATE sight... " />
+            <marker date="1508782353057" expanded="true" signature="2025:2048" ph="SELECT LAST_... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/dm/dao/db/impl/HeroDaoImplTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="57" column="0" lean-forward="false" selection-start-line="57" selection-start-column="0" selection-end-line="58" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/dm/dao/db/impl/ContactDaoImplTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="50" column="0" lean-forward="false" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/dm/dao/db/impl/CoordinatorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="37" column="23" lean-forward="true" selection-start-line="37" selection-start-column="23" selection-end-line="37" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/dm/dao/db/impl/HeadquartersDaoImplTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="49" column="38" lean-forward="true" selection-start-line="49" selection-start-column="38" selection-end-line="49" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/dm/dao/db/impl/LocationDaoImplTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="54" column="22" lean-forward="false" selection-start-line="54" selection-start-column="22" selection-end-line="54" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/dm/dao/db/impl/OrganizationDaoImplTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="53" column="30" lean-forward="false" selection-start-line="53" selection-start-column="30" selection-end-line="53" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/dm/dao/db/impl/PowerDaoImplTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="52" column="30" lean-forward="false" selection-start-line="52" selection-start-column="30" selection-end-line="52" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dm/model/Sighting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="59" column="20" lean-forward="false" selection-start-line="59" selection-start-column="20" selection-end-line="59" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/dm/dao/db/impl/SightingDaoImplTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="61" column="0" lean-forward="false" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>App:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="GlobalLibrariesConfigurable.UI">
         <settings>
           <splitter-proportions>
@@ -1513,8 +1467,22 @@
           </splitter-proportions>
         </settings>
       </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>App</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+          <last-edited>Maven: com.fasterxml.jackson.core:jackson-annotations:2.9.0</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

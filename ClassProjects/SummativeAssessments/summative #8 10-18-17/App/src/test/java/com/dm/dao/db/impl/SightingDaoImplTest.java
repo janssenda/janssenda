@@ -55,8 +55,10 @@ public class SightingDaoImplTest {
         s = dao.addSighting(s);
         assertTrue(s.getSightingID() != 0);
 
-        System.out.println(d.toString());
-        System.out.println(dao.getAllSightings().get(2000).getSightingTime().toString());
+        Sighting s2 = dao.getFromSightings(Integer.toString(s.getSightingID())).get(0);
+
+        assertTrue(s2.equals(s));
+
     }
 
     @Test

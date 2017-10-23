@@ -46,11 +46,13 @@ public class ContactDaoImplTest {
         c.setHeadQID(5);
         c.setEmail("superman@super.com");
         int init = dao.getAllContacts().size();
+
         dao.addContact(c);
         assertTrue(dao.getAllContacts().size() > init);
 
-        c = dao.getFromContacts("5").get(0);
+        Contact c2 = dao.getFromContacts("5",c.getEmail()).get(0);
 
+        assertTrue(c2.equals(c));
         try {
             dao.addContact(c);
             fail("Duplicate entry");

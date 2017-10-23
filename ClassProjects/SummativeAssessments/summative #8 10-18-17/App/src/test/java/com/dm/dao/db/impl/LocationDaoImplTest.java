@@ -49,6 +49,10 @@ public class LocationDaoImplTest {
         loc.setLocName("Far away");
         loc = dao.addLocation(loc);
         assertTrue(loc.getLocID() != 0);
+
+        Location l2 = dao.getFromLocations(Integer.toString(loc.getLocID())).get(0);
+
+        assertTrue(l2.equals(loc));
     }
 
     @Test

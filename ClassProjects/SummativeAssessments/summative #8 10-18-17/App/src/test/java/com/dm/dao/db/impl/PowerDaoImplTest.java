@@ -47,6 +47,10 @@ public class PowerDaoImplTest {
         p.setPowerName("Ultra Guitar");
         p = dao.addPower(p);
         assertTrue(p.getPowerID() != 0);
+
+        Power p2 = dao.getFromPowers(Integer.toString(p.getPowerID())).get(0);
+
+        assertTrue(p.equals(p2));
     }
 
     @Test

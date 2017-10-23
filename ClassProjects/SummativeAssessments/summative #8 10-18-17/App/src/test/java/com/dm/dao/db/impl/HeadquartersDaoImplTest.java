@@ -50,6 +50,10 @@ public class HeadquartersDaoImplTest {
         h.setHeadQName("The Dungeon");
         h = dao.addHeadquarters(h);
         assertTrue(h.getHeadQID() != 0);
+
+        Headquarters h2 = dao.getFromHeadquarters(Integer.toString(h.getHeadQID())).get(0);
+
+        assertTrue(h2.equals(h));
     }
 
     @Test
@@ -60,6 +64,7 @@ public class HeadquartersDaoImplTest {
         h.setHeadQName("The Dungeon");
         h = dao.addHeadquarters(h);
         assertTrue(dao.removeHeadquarters(h.getHeadQID()));
+
 
         try {
             dao.removeHeadquarters(3);

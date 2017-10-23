@@ -54,6 +54,10 @@ public class HeroDaoImplTest {
         h = dao.addHero(h);
 
         assertTrue(h.getHeroID() != 0);
+
+        Hero h2 = dao.getFromHeroes(Integer.toString(h.getHeroID())).get(0);
+        assertTrue(h.equals(h2));
+
         dao.removeHero(h.getHeroID());
     }
 
