@@ -1,23 +1,32 @@
 package com.dm.model;
 
-public class Contact {
-    private int HeadQID;
-    private String contactEmail;
+public class Contact implements Cloneable {
+    private int headQID;
+    private String email;
 
     public int getHeadQID() {
-        return HeadQID;
+        return headQID;
     }
 
     public void setHeadQID(int headQID) {
-        HeadQID = headQID;
+        this.headQID = headQID;
     }
 
-    public String getContactEmail() {
-        return contactEmail;
+    public String getEmail() {
+        return email;
     }
 
-    public void setContactEmail(String contactEmail) {
-        this.contactEmail = contactEmail;
+    public void setEmail(String email) {
+        this.email = email;
+    }
+
+    @Override
+    public Contact clone(){
+        try {
+            return (Contact) super.clone();
+        } catch (CloneNotSupportedException e) {
+            return null;
+        }
     }
 
     @Override
@@ -27,14 +36,14 @@ public class Contact {
 
         Contact contact = (Contact) o;
 
-        if (HeadQID != contact.HeadQID) return false;
-        return contactEmail != null ? contactEmail.equals(contact.contactEmail) : contact.contactEmail == null;
+        if (headQID != contact.headQID) return false;
+        return email != null ? email.equals(contact.email) : contact.email == null;
     }
 
     @Override
     public int hashCode() {
-        int result = HeadQID;
-        result = 31 * result + (contactEmail != null ? contactEmail.hashCode() : 0);
+        int result = headQID;
+        result = 31 * result + (email != null ? email.hashCode() : 0);
         return result;
     }
 }

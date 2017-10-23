@@ -1,5 +1,7 @@
 package com.dm.model;
 
+import java.util.List;
+
 public class Location {
 
     private int locID;
@@ -12,6 +14,15 @@ public class Location {
     private String address;
     private String zip;
     private String description;
+    private List<Sighting> locSightings;
+
+    public List<Sighting> getLocSightings() {
+        return locSightings;
+    }
+
+    public void setLocSightings(List<Sighting> locSightings) {
+        this.locSightings = locSightings;
+    }
 
     public int getLocID() {
         return locID;
@@ -109,7 +120,9 @@ public class Location {
         if (state != null ? !state.equals(location.state) : location.state != null) return false;
         if (address != null ? !address.equals(location.address) : location.address != null) return false;
         if (zip != null ? !zip.equals(location.zip) : location.zip != null) return false;
-        return description != null ? description.equals(location.description) : location.description == null;
+        if (description != null ? !description.equals(location.description) : location.description != null)
+            return false;
+        return locSightings != null ? locSightings.equals(location.locSightings) : location.locSightings == null;
     }
 
     @Override
@@ -128,6 +141,7 @@ public class Location {
         result = 31 * result + (address != null ? address.hashCode() : 0);
         result = 31 * result + (zip != null ? zip.hashCode() : 0);
         result = 31 * result + (description != null ? description.hashCode() : 0);
+        result = 31 * result + (locSightings != null ? locSightings.hashCode() : 0);
         return result;
     }
 }

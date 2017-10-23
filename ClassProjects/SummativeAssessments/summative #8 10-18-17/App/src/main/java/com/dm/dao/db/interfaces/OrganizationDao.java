@@ -1,4 +1,16 @@
 package com.dm.dao.db.interfaces;
 
+import com.dm.exceptions.SQLUpdateException;
+import com.dm.model.Organization;
+import java.util.List;
+
 public interface OrganizationDao {
+
+    public Organization addOrg(Organization org) throws SQLUpdateException;
+    public boolean removeOrg(int orgID) throws SQLUpdateException;
+    public boolean updateOrg(Organization org) throws SQLUpdateException;
+    public List<Organization> getAllOrgs();
+    public List<Organization> getFromOrgs(String... args);
+    public List<Organization> getFromOrgs(String orgID, String orgName, String description);
+    public boolean ifExists(int orgID);
 }

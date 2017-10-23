@@ -17,14 +17,15 @@
     <!-- Bean definitions go here -->
 	<aop:aspectj-autoproxy/>
 
-    <tx:annotation-driven />
+    <tx:annotation-driven proxy-target-class="true"
+                          transaction-manager="transactionManager" />
 
     <!-- Bean definitions go here -->
     <bean id="dataSource"
           class="org.apache.commons.dbcp2.BasicDataSource">
         <property name="driverClassName" value="com.mysql.cj.jdbc.Driver"/>
         <property name="url"
-                  value="jdbc:mysql://localhost:3306/DATABASE-NAME-HERE" />
+                  value="jdbc:mysql://localhost:3306/superherodb?useLegacyDatetimeCode=false" />
         <property name="username" value="root" />
         <property name="password" value="root" />
         <property name="initialSize" value="5" />
@@ -41,11 +42,58 @@
         <property name="dataSource" ref="dataSource" />
     </bean>
 
-    <!--Example implementation:-->
-    <!--<bean id="contactListDao"-->
-          <!--class="com.dm.contactlist.dao.ContactListDaoDbImpl">-->
-        <!--<property headQName="jdbcTemplate" ref="jdbcTemplate" />-->
-    <!--</bean>-->
+    <bean id="heroDao"
+          class="com.dm.dao.db.impl.HeroDaoImpl">
+        <property name="jdbcTemplate" ref="jdbcTemplate" />
+    </bean>
+    <bean id="maintenanceDao"
+          class="com.dm.dao.db.impl.DBMaintenance">
+        <property name="jdbcTemplate" ref="jdbcTemplate" />
+    </bean>
+    <bean id="locationDao"
+          class="com.dm.dao.db.impl.LocationDaoImpl">
+        <property name="jdbcTemplate" ref="jdbcTemplate" />
+    </bean>
+    <bean id="powerDao"
+          class="com.dm.dao.db.impl.PowerDaoImpl">
+        <property name="jdbcTemplate" ref="jdbcTemplate" />
+    </bean>
+    <bean id="organizationDao"
+          class="com.dm.dao.db.impl.OrganizationDaoImpl">
+        <property name="jdbcTemplate" ref="jdbcTemplate" />
+    </bean>
+    <bean id="sightingDao"
+          class="com.dm.dao.db.impl.SightingDaoImpl">
+        <property name="jdbcTemplate" ref="jdbcTemplate" />
+    </bean>
+    <bean id="headquartersDao"
+          class="com.dm.dao.db.impl.HeadquartersDaoImpl">
+        <property name="jdbcTemplate" ref="jdbcTemplate" />
+    </bean>
+    <bean id="contactDao"
+          class="com.dm.dao.db.impl.ContactDaoImpl">
+        <property name="jdbcTemplate" ref="jdbcTemplate" />
+    </bean>
+    <bean id="bridgeDao"
+          class="com.dm.dao.db.impl.BridgeDaoImpl">
+        <property name="jdbcTemplate" ref="jdbcTemplate" />
+    </bean>
 
+    <bean id="coordinatorDao" class="com.dm.dao.db.impl.DataCoordinatorDaoImpl">
+        <constructor-arg ref="organizationDao"/>
+        <constructor-arg ref="heroDao"/>
+        <constructor-arg ref="headquartersDao"/>
+        <constructor-arg ref="locationDao"/>
+        <constructor-arg ref="powerDao"/>
+        <constructor-arg ref="sightingDao"/>
+        <constructor-arg ref="contactDao"/>
+        <constructor-arg ref="bridgeDao"/>
+        <property name="jdbcTemplate" ref="jdbcTemplate" />
+    </bean>
+
+    <!--<bean id="coordinatorDao"-->
+          <!--class="com.dm.dao.db.impl.DataCoordinatorDaoImplImpl">-->
+        <!--<property name="jdbcTemplate" ref="jdbcTemplate" />-->
+    <!--</bean>-->
 
 </beans>

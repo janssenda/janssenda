@@ -8,15 +8,18 @@ public class Hero {
     private String heroName;
     private String heroType;
     private String description;
-    private List<Superpower> heroPowers;
+    private List<Power> heroPowers;
     private List<Organization> heroOrgs;
     private List<Sighting> heroSightings;
 
-    public List<Superpower> getHeroPowers() {
+    public void Hero(){}
+
+
+    public List<Power> getHeroPowers() {
         return heroPowers;
     }
 
-    public void setHeroPowers(List<Superpower> heroPowers) {
+    public void setHeroPowers(List<Power> heroPowers) {
         this.heroPowers = heroPowers;
     }
 

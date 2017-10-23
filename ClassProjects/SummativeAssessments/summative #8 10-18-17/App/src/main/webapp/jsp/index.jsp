@@ -14,8 +14,8 @@
             <h1>Simple loop</h1>
             <hr/>
             <form method="POST" action="/Superheroes/returnRequest">
-                <input heroType="text" headQName="userInput"/>
-                <input heroType="submit" value="Send"/>
+                <input type="text" name="userInput"/>
+                <input type="submit" value="Send"/>
             </form>
 
             <br/><hr/>

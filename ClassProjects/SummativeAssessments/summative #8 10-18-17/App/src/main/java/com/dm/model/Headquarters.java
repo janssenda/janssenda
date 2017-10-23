@@ -5,7 +5,7 @@ import java.util.List;
 
 public class Headquarters {
 
-    private String headQID;
+    private int headQID;
     private String headQName;
     private String headQAdress;
     private String description;
@@ -19,11 +19,11 @@ public class Headquarters {
         this.contactList = contactList;
     }
 
-    public String getHeadQID() {
+    public int getHeadQID() {
         return headQID;
     }
 
-    public void setHeadQID(String headQID) {
+    public void setHeadQID(int headQID) {
         this.headQID = headQID;
     }
 
@@ -58,7 +58,7 @@ public class Headquarters {
 
         Headquarters that = (Headquarters) o;
 
-        if (headQID != null ? !headQID.equals(that.headQID) : that.headQID != null) return false;
+        if (headQID != that.headQID) return false;
         if (headQName != null ? !headQName.equals(that.headQName) : that.headQName != null) return false;
         if (headQAdress != null ? !headQAdress.equals(that.headQAdress) : that.headQAdress != null) return false;
         if (description != null ? !description.equals(that.description) : that.description != null) return false;
@@ -67,7 +67,7 @@ public class Headquarters {
 
     @Override
     public int hashCode() {
-        int result = headQID != null ? headQID.hashCode() : 0;
+        int result = headQID;
         result = 31 * result + (headQName != null ? headQName.hashCode() : 0);
         result = 31 * result + (headQAdress != null ? headQAdress.hashCode() : 0);
         result = 31 * result + (description != null ? description.hashCode() : 0);

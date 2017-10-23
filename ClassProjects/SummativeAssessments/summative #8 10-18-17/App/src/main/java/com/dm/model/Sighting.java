@@ -10,8 +10,7 @@ public class Sighting {
     private List<Hero> sightingHeroes;
     private LocalDateTime sightingTime;
 
-
-    private List<Hero> getSightingHeroes() {
+    public List<Hero> getSightingHeroes() {
         return sightingHeroes;
     }
 
@@ -42,6 +41,8 @@ public class Sighting {
     public void setSightingTime(LocalDateTime sightingTime) {
         this.sightingTime = sightingTime;
     }
+
+
 
 
     @Override
