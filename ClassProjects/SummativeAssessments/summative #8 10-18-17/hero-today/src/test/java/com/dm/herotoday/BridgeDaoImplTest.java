@@ -38,9 +38,10 @@ public class BridgeDaoImplTest {
         } catch (Exception e) {
             // Pass
         }
-        assertTrue(dao.removeOrgsHeadquarters(2,5));
+        assertTrue(dao.removeOrgsHeadquarters("2","5")>0);
         // Remove pre-existing
-        assertTrue(dao.removeOrgsHeadquarters(2,2));
+        assertTrue(dao.removeOrgsHeadquarters("2","2")>0);
+        assertTrue(dao.removeOrgsHeadquarters("1",null) == 1);
     }
 
 
@@ -54,9 +55,12 @@ public class BridgeDaoImplTest {
         } catch (Exception e) {
             // Pass
         }
-        assertTrue(dao.removeOrgsHeroes(1,7));
+        assertTrue(dao.removeOrgsHeroes("1","7")>0);
         // Remove pre-existing
-        assertTrue(dao.removeOrgsHeroes(1,1));
+        assertTrue(dao.removeOrgsHeroes("1","1")>0);
+        assertTrue(dao.removeOrgsHeroes("1",null) == 5);
+
+
     }
 
     @Test
@@ -68,13 +72,15 @@ public class BridgeDaoImplTest {
         } catch (Exception e) {
             // Pass
         }
-        assertTrue(dao.removeSightingsHeroes(1,3));
+        assertTrue(dao.removeSightingsHeroes("1","3")>0);
         // Remove pre-existing
-        assertTrue(dao.removeSightingsHeroes(1,14));
+        assertTrue(dao.removeSightingsHeroes("1","14")>0);
+
+        assertTrue(dao.removeSightingsHeroes(null,"5") == 315);
     }
 
     @Test
-    public void powersheroes () throws Exception{
+    public void powersheroes () throws Exception {
         assertTrue(dao.addPowersHeroes(1,5));
         try {
             dao.addPowersHeroes(1,5);
@@ -82,8 +88,17 @@ public class BridgeDaoImplTest {
         } catch (Exception e) {
             // Pass
         }
-        assertTrue(dao.removePowersHeroes(1,5));
+        assertTrue(dao.removePowersHeroes("1","5")>0);
         // Remove pre-existing
-        assertTrue(dao.removePowersHeroes(1,3));
+        assertTrue(dao.removePowersHeroes("1","3")>0);
+
+        assertTrue(dao.removePowersHeroes("2",null) == 8);
+    }
+
+    @Test
+    public void removecontacts () {
+
+        assertTrue(dao.removeFromContacts("1") == 1);
+
     }
 }

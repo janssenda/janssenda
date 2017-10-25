@@ -1,6 +1,7 @@
 package com.dm.herotoday.dao.impl;
 
 import com.dm.herotoday.dao.interfaces.HeadquartersDao;
+import com.dm.herotoday.exceptions.DuplicateEntryException;
 import com.dm.herotoday.exceptions.SQLUpdateException;
 import com.dm.herotoday.model.Headquarters;
 import org.springframework.dao.DataIntegrityViolationException;
@@ -49,7 +50,11 @@ public class HeadquartersDaoImpl  implements HeadquartersDao {
 
     @Override
     @Transactional
-    public Headquarters addHeadquarters(Headquarters headq) throws SQLUpdateException {
+    public Headquarters addHeadquarters(Headquarters headq) throws SQLUpdateException, DuplicateEntryException {
+
+        if (ifExists(headq.getHeadQID())){
+            throw new DuplicateEntryException("Headquarters exists, please update.");
+        }
 
         try {
             if (jdbcTemplate.update(ADD_HEADQ_QUERY, headq.getHeadQName(), headq.getHeadQAdress(), headq.getDescription()) > 0) {

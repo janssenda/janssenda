@@ -1,6 +1,7 @@
 package com.dm.herotoday.dao.impl;
 
 import com.dm.herotoday.dao.interfaces.ContactDao;
+import com.dm.herotoday.exceptions.DuplicateEntryException;
 import com.dm.herotoday.exceptions.SQLUpdateException;
 import com.dm.herotoday.model.Contact;
 import org.springframework.dao.DataIntegrityViolationException;
@@ -44,7 +45,11 @@ public class ContactDaoImpl implements ContactDao {
 
     @Override
     @Transactional
-    public Contact addContact(Contact contact) throws SQLUpdateException {
+    public Contact addContact(Contact contact) throws SQLUpdateException, DuplicateEntryException {
+
+        if (ifExists(contact)){
+            throw new DuplicateEntryException("Contact exists, please update.");
+        }
 
         try {
             if (jdbcTemplate.update(ADD_CONTACT_QUERY, contact.getHeadQID(), contact.getEmail()) > 0) {
@@ -73,7 +78,7 @@ public class ContactDaoImpl implements ContactDao {
     }
 
     @Override
-    public boolean updateContact(Contact oldContact, Contact newContact) throws SQLUpdateException {
+    public boolean updateContact(Contact oldContact, Contact newContact) throws SQLUpdateException, DuplicateEntryException {
         try {
             removeContact(oldContact);
             addContact(newContact);

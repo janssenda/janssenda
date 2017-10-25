@@ -66,5 +66,14 @@ public class CoordinatorTest {
         assertTrue(dao.sightingsByDate(date).size() == 4);
     }
 
+    @Test public void removeherofull() throws Exception{
+
+
+        assertTrue(dao.removeHero(2));
+        assertTrue(dao.removeHeadquarters(1));
+        System.out.println(dao.removeLocation(5));
+
+
+    }
 
 }

@@ -1,6 +1,7 @@
 package com.dm.herotoday;
 
 import com.dm.herotoday.dao.interfaces.SightingDao;
+import com.dm.herotoday.exceptions.DuplicateEntryException;
 import com.dm.herotoday.exceptions.SQLUpdateException;
 import com.dm.herotoday.dao.impl.DBMaintenance;
 import com.dm.herotoday.model.Sighting;
@@ -46,6 +47,13 @@ public class SightingDaoImplTest {
         Sighting s2 = dao.getFromSightings(Integer.toString(s.getSightingID())).get(0);
 
         assertTrue(s2.equals(s));
+
+        try{
+            dao.addSighting(s);
+            fail("This is a duplicate");
+        } catch (DuplicateEntryException e){
+            // Pass
+        }
 
     }
 

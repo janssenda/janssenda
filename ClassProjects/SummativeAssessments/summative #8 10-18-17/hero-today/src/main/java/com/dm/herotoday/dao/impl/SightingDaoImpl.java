@@ -1,6 +1,7 @@
 package com.dm.herotoday.dao.impl;
 
 import com.dm.herotoday.dao.interfaces.SightingDao;
+import com.dm.herotoday.exceptions.DuplicateEntryException;
 import com.dm.herotoday.exceptions.SQLUpdateException;
 import com.dm.herotoday.model.Sighting;
 import org.springframework.dao.DataIntegrityViolationException;
@@ -47,7 +48,11 @@ public class SightingDaoImpl implements SightingDao {
 
     @Override
     @Transactional
-    public Sighting addSighting(Sighting sighting) throws SQLUpdateException {
+    public Sighting addSighting(Sighting sighting) throws SQLUpdateException,DuplicateEntryException {
+
+        if(ifExists(sighting.getSightingID())){
+            throw new DuplicateEntryException("Sighting already exists, update instead.");
+        }
 
         try {
             if (jdbcTemplate.update(ADD_SIGHTING_QUERY, sighting.getSightingTime(), sighting.getLocID()) > 0) {

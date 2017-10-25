@@ -1,6 +1,7 @@
 package com.dm.herotoday.dao.impl;
 
 import com.dm.herotoday.dao.interfaces.*;
+import com.dm.herotoday.exceptions.DuplicateEntryException;
 import com.dm.herotoday.exceptions.SQLUpdateException;
 import com.dm.herotoday.model.*;
 import org.springframework.jdbc.core.JdbcTemplate;
@@ -76,6 +77,8 @@ public class DataCoordinatorDaoImpl implements DataCoordinatorDao {
             "SELECT OrgID FROM heroes INNER JOIN orgsheroes ON " +
             "heroes.HeroID = orgsheroes.HeroID WHERE heroes.HeroID = ?;";
     private static final String DATEFORMAT = "yyyy-MM-dd";
+
+
     @Override
     public List<Sighting> sightingsByDate(LocalDate d) {
         Set<Sighting> sightSet = new HashSet<>();
@@ -87,6 +90,39 @@ public class DataCoordinatorDaoImpl implements DataCoordinatorDao {
         sightList.addAll(sightSet);
         return sightList;
     }
+
+    @Override
+    public boolean removeHero(int heroID) throws SQLUpdateException {
+        String hID = Integer.toString(heroID);
+
+        bridgeDao.removeSightingsHeroes(null,hID);
+        bridgeDao.removePowersHeroes(null,hID);
+        bridgeDao.removeOrgsHeroes(null, hID);
+
+        return heroDao.removeHero(heroID);
+
+    }
+
+    @Override
+    public boolean removeHeadquarters(int headqID) throws SQLUpdateException {
+        String hqID = Integer.toString(headqID);
+
+        bridgeDao.removeFromContacts(hqID);
+        bridgeDao.removeOrgsHeadquarters(null, hqID);
+
+        return headQDAO.removeHeadquarters(headqID);
+    }
+
+    @Override
+    public boolean removeLocation(int locID) throws SQLUpdateException {
+
+        bridgeDao.removeFromSightings(Integer.toString(locID));
+
+        return locDao.removeLocation(locID);
+    }
+
+
+
 
     @Override
     public List<Location> locationsByHero(int HeroID) {
@@ -264,43 +300,41 @@ public class DataCoordinatorDaoImpl implements DataCoordinatorDao {
     ////////////////////
     //  Pass-through  //
     ////////////////////
-    @Override public boolean removeHero(int heroID) throws SQLUpdateException {return heroDao.removeHero(heroID);}
-    @Override public boolean updateHero(Hero hero) throws SQLUpdateException {return heroDao.updateHero(hero); }
-    @Override public Hero addHero (Hero hero) throws SQLUpdateException {return heroDao.addHero(hero);}
+    //@Override public boolean removeHero(int heroID) throws SQLUpdateException {return heroDao.removeHero(heroID);}
+    @Override public boolean updateHero(Hero hero) throws SQLUpdateException,DuplicateEntryException  {return heroDao.updateHero(hero); }
+    @Override public Hero addHero (Hero hero) throws SQLUpdateException,DuplicateEntryException {return heroDao.addHero(hero);}
 
-    @Override public Contact addContact(Contact contact) throws SQLUpdateException {return contactDao.addContact(contact);}
+    @Override public Contact addContact(Contact contact) throws SQLUpdateException,DuplicateEntryException {return contactDao.addContact(contact);}
     @Override public boolean removeContact(Contact contact) throws SQLUpdateException {return contactDao.removeContact(contact);}
-    @Override public boolean updateContact(Contact oldContact, Contact newContact) throws SQLUpdateException {return contactDao.updateContact(oldContact,newContact);}
+    @Override public boolean updateContact(Contact oldContact, Contact newContact) throws SQLUpdateException,DuplicateEntryException {return contactDao.updateContact(oldContact,newContact);}
 
-    @Override public Headquarters addHeadquarters(Headquarters headq) throws SQLUpdateException {return headQDAO.addHeadquarters(headq);}
-    @Override public boolean removeHeadquarters(int headqID) throws SQLUpdateException {return headQDAO.removeHeadquarters(headqID);}
+    @Override public Headquarters addHeadquarters(Headquarters headq) throws SQLUpdateException,DuplicateEntryException {return headQDAO.addHeadquarters(headq);}
     @Override public boolean updateHeadquarters(Headquarters headq) throws SQLUpdateException {return headQDAO.updateHeadquarters(headq);}
 
-    @Override public Location addLocation(Location loc) throws SQLUpdateException {return locDao.addLocation(loc);}
-    @Override public boolean removeLocation(int locID) throws SQLUpdateException {return locDao.removeLocation(locID);}
+    @Override public Location addLocation(Location loc) throws SQLUpdateException,DuplicateEntryException {return locDao.addLocation(loc);}
     @Override public boolean updateLocation(Location loc) throws SQLUpdateException {return locDao.updateLocation(loc);}
 
-    @Override public Organization addOrg(Organization org) throws SQLUpdateException {return orgDao.addOrg(org);}
+    @Override public Organization addOrg(Organization org) throws SQLUpdateException,DuplicateEntryException {return orgDao.addOrg(org);}
     @Override public boolean removeOrg(int orgID) throws SQLUpdateException {return orgDao.removeOrg(orgID);}
     @Override public boolean updateOrg(Organization org) throws SQLUpdateException {return orgDao.updateOrg(org);}
 
-    @Override public Power addPower (Power power) throws SQLUpdateException {return powerDao.addPower(power);}
+    @Override public Power addPower (Power power) throws SQLUpdateException,DuplicateEntryException {return powerDao.addPower(power);}
     @Override public boolean removePower(int powerID) throws SQLUpdateException {return powerDao.removePower(powerID);}
     @Override public boolean updatePower(Power power) throws SQLUpdateException {return powerDao.updatePower(power);}
 
-    @Override public Sighting addSighting(Sighting sighting) throws SQLUpdateException {return sightingDao.addSighting(sighting);}
+    @Override public Sighting addSighting(Sighting sighting) throws SQLUpdateException,DuplicateEntryException {return sightingDao.addSighting(sighting);}
     @Override public boolean removeSighting(int sightingID) throws SQLUpdateException {return sightingDao.removeSighting(sightingID);}
     @Override public boolean updateSighting(Sighting sighting) throws SQLUpdateException {return sightingDao.updateSighting(sighting);}
 
     // Bridge maps
     @Override public boolean addOrgsHeadquarters(int orgID, int headQID) throws SQLUpdateException {return bridgeDao.addOrgsHeadquarters(orgID, headQID);}
-    @Override public boolean removeOrgsHeadquarters(int orgID, int headQID) throws SQLUpdateException {return bridgeDao.removeOrgsHeadquarters(orgID, headQID);}
+    @Override public Integer removeOrgsHeadquarters(String orgID, String headQID) throws SQLUpdateException {return bridgeDao.removeOrgsHeadquarters(orgID, headQID);}
     @Override public boolean addOrgsHeroes(int orgID, int heroID) throws SQLUpdateException {return bridgeDao.addOrgsHeroes(orgID, heroID);}
-    @Override public boolean removeOrgsHeroes(int orgID, int heroID) throws SQLUpdateException {return bridgeDao.removeOrgsHeroes(orgID, heroID);}
+    @Override public Integer removeOrgsHeroes(String orgID, String heroID) throws SQLUpdateException {return bridgeDao.removeOrgsHeroes(orgID, heroID);}
     @Override public boolean addSightingsHeroes(int sightingID, int heroID) throws SQLUpdateException {return bridgeDao.addSightingsHeroes(sightingID, heroID);}
-    @Override public boolean removeSightingsHeroes(int sightingID, int heroID) throws SQLUpdateException {return bridgeDao.removeSightingsHeroes(sightingID, heroID);}
+    @Override public Integer  removeSightingsHeroes(String sightingID, String heroID) throws SQLUpdateException {return bridgeDao.removeSightingsHeroes(sightingID, heroID);}
     @Override public boolean addPowersHeroes(int powerID, int heroID) throws SQLUpdateException {return bridgeDao.addPowersHeroes(powerID, heroID);}
-    @Override public boolean removePowersHeroes(int powerID, int heroID) throws SQLUpdateException {return bridgeDao.removePowersHeroes(powerID, heroID);}
+    @Override public Integer  removePowersHeroes(String powerID, String heroID) throws SQLUpdateException {return bridgeDao.removePowersHeroes(powerID, heroID);}
 
 
 }

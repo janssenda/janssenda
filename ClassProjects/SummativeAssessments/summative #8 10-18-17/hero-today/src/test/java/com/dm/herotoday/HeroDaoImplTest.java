@@ -1,6 +1,7 @@
 package com.dm.herotoday;
 
 import com.dm.herotoday.dao.interfaces.HeroDao;
+import com.dm.herotoday.exceptions.DuplicateEntryException;
 import com.dm.herotoday.exceptions.SQLUpdateException;
 import com.dm.herotoday.dao.impl.DBMaintenance;
 import com.dm.herotoday.model.Hero;
@@ -43,6 +44,8 @@ public class HeroDaoImplTest {
 
         h = dao.addHero(h);
 
+        assertTrue(dao.ifExists(h));
+
         assertTrue(h.getHeroID() != 0);
 
         Hero h2 = dao.getFromHeroes(Integer.toString(h.getHeroID())).get(0);
@@ -62,10 +65,17 @@ public class HeroDaoImplTest {
         assertTrue(dao.removeHero(h.getHeroID()));
 
         try {
+            dao.addHero(h);
+            fail("Duplicate");
+        } catch (DuplicateEntryException e){
+            // Pass
+        }
+
+        try {
             dao.removeHero(5);
             fail("Hero is tied to constraints");
         } catch (Exception e) {
-            // Pass
+            System.out.println(e.getMessage());// Pass
         }
 
         try {
@@ -86,11 +96,13 @@ public class HeroDaoImplTest {
         assertFalse(tempname.equals("Batman Begins"));
         h.setHeroName("Batman Begins");
         assertTrue(dao.updateHero(h));
+        h.setDescription("It's a bat");
         h.setHeroID(0);
+
         try {
             dao.updateHero(h);
             fail("ID does not exist");
-        } catch (SQLUpdateException e) {
+        } catch (Exception e) {
             // Pass
         }
     }

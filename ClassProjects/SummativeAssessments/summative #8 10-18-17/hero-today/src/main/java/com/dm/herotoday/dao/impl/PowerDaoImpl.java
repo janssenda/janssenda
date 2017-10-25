@@ -1,6 +1,7 @@
 package com.dm.herotoday.dao.impl;
 
 import com.dm.herotoday.dao.interfaces.PowerDao;
+import com.dm.herotoday.exceptions.DuplicateEntryException;
 import com.dm.herotoday.exceptions.SQLUpdateException;
 import com.dm.herotoday.model.Power;
 import org.springframework.dao.DataIntegrityViolationException;
@@ -51,7 +52,11 @@ public class PowerDaoImpl implements PowerDao {
 
     @Override
     @Transactional
-    public Power addPower(Power power) throws SQLUpdateException {
+    public Power addPower(Power power) throws SQLUpdateException, DuplicateEntryException {
+
+        if(ifExists(power.getPowerID())){
+            throw new DuplicateEntryException("Power already exists, update instead");
+        }
 
         try {
             if (jdbcTemplate.update(ADD_POWER_QUERY, power.getPowerName(), power.getDescription()) > 0) {

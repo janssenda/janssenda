@@ -2,6 +2,7 @@ package com.dm.herotoday;
 
 import com.dm.herotoday.dao.impl.DBMaintenance;
 import com.dm.herotoday.dao.interfaces.HeadquartersDao;
+import com.dm.herotoday.exceptions.DuplicateEntryException;
 import com.dm.herotoday.exceptions.SQLUpdateException;
 import com.dm.herotoday.model.Headquarters;
 import org.junit.Before;
@@ -43,6 +44,13 @@ public class HeadquartersDaoImplTest {
         Headquarters h2 = dao.getFromHeadquarters(Integer.toString(h.getHeadQID())).get(0);
 
         assertTrue(h2.equals(h));
+
+        try {
+            dao.addHeadquarters(h);
+            fail("Duplicate");
+        } catch (DuplicateEntryException e) {
+            //Pass
+        }
     }
 
     @Test

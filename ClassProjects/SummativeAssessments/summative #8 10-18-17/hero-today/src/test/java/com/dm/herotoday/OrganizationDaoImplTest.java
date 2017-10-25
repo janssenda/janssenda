@@ -2,6 +2,7 @@ package com.dm.herotoday;
 
 import com.dm.herotoday.dao.impl.DBMaintenance;
 import com.dm.herotoday.dao.interfaces.OrganizationDao;
+import com.dm.herotoday.exceptions.DuplicateEntryException;
 import com.dm.herotoday.exceptions.SQLUpdateException;
 import com.dm.herotoday.model.Organization;
 import org.junit.Before;
@@ -20,8 +21,10 @@ import static org.junit.Assert.assertTrue;
 @SpringBootTest
 public class OrganizationDaoImplTest {
 
-    @Inject private OrganizationDao dao;
-    @Inject private DBMaintenance mdao;
+    @Inject
+    private OrganizationDao dao;
+    @Inject
+    private DBMaintenance mdao;
 
     @Before
     public void setUp() {
@@ -42,6 +45,13 @@ public class OrganizationDaoImplTest {
         Organization p2 = dao.getFromOrgs(Integer.toString(p.getOrgID())).get(0);
 
         assertTrue(p.equals(p2));
+
+        try {
+            dao.addOrg(p);
+            fail("Duplicate");
+        } catch (DuplicateEntryException e){
+            // Pass
+        }
 
     }
 
@@ -69,6 +79,7 @@ public class OrganizationDaoImplTest {
         }
 
     }
+
     //
     @Test
     public void updateOrg() throws Exception {

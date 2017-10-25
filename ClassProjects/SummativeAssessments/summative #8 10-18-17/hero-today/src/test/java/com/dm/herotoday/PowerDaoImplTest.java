@@ -2,6 +2,7 @@ package com.dm.herotoday;
 
 import com.dm.herotoday.dao.impl.DBMaintenance;
 import com.dm.herotoday.dao.interfaces.PowerDao;
+import com.dm.herotoday.exceptions.DuplicateEntryException;
 import com.dm.herotoday.exceptions.SQLUpdateException;
 import com.dm.herotoday.model.Power;
 import org.junit.Before;
@@ -43,6 +44,15 @@ public class PowerDaoImplTest {
         Power p2 = dao.getFromPowers(Integer.toString(p.getPowerID())).get(0);
 
         assertTrue(p.equals(p2));
+
+        try{
+            dao.addPower(p);
+            fail("Duplicate");
+        }catch (DuplicateEntryException e){
+            // Pass
+        }
+
+
     }
 
     @Test

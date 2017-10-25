@@ -1,6 +1,7 @@
 package com.dm.herotoday.dao.impl;
 
 import com.dm.herotoday.dao.interfaces.OrganizationDao;
+import com.dm.herotoday.exceptions.DuplicateEntryException;
 import com.dm.herotoday.exceptions.SQLUpdateException;
 import com.dm.herotoday.model.Organization;
 import org.springframework.dao.DataIntegrityViolationException;
@@ -49,7 +50,11 @@ public class OrganizationDaoImpl implements OrganizationDao {
 
     @Override
     @Transactional
-    public Organization addOrg(Organization org) throws SQLUpdateException {
+    public Organization addOrg(Organization org) throws SQLUpdateException, DuplicateEntryException {
+
+        if (ifExists(org.getOrgID())){
+            throw new DuplicateEntryException("Organization exists, update instead.");
+        }
 
         try {
             if (jdbcTemplate.update(ADD_ORG_QUERY, org.getOrgName(), org.getDescription()) > 0) {

@@ -2,6 +2,7 @@ package com.dm.herotoday;
 
 import com.dm.herotoday.dao.impl.DBMaintenance;
 import com.dm.herotoday.dao.interfaces.ContactDao;
+import com.dm.herotoday.exceptions.DuplicateEntryException;
 import com.dm.herotoday.exceptions.SQLUpdateException;
 import com.dm.herotoday.model.Contact;
 import org.junit.Before;
@@ -50,6 +51,14 @@ public class ContactDaoImplTest {
         } catch (Exception e){
             // Pass
         }
+
+        try {
+            dao.addContact(c);
+            fail("Duplicate");
+        } catch (DuplicateEntryException e){
+            // Pass
+        }
+
 
 
     }

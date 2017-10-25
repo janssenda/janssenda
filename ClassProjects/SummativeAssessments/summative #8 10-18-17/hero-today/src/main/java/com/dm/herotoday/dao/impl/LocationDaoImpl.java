@@ -1,6 +1,7 @@
 package com.dm.herotoday.dao.impl;
 
 import com.dm.herotoday.dao.interfaces.LocationDao;
+import com.dm.herotoday.exceptions.DuplicateEntryException;
 import com.dm.herotoday.exceptions.SQLUpdateException;
 import com.dm.herotoday.model.Location;
 import org.springframework.dao.DataIntegrityViolationException;
@@ -60,7 +61,11 @@ public class LocationDaoImpl implements LocationDao {
 
     @Override
     @Transactional
-    public Location addLocation(Location loc) throws SQLUpdateException {
+    public Location addLocation(Location loc) throws SQLUpdateException, DuplicateEntryException {
+
+        if (ifExists(loc.getLocID())){
+            throw new DuplicateEntryException("Location exists, please update.");
+        }
 
         try {
             if (jdbcTemplate.update(ADD_LOC_QUERY,

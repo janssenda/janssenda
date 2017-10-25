@@ -1,6 +1,7 @@
 package com.dm.herotoday.dao.impl;
 
 import com.dm.herotoday.dao.interfaces.HeroDao;
+import com.dm.herotoday.exceptions.DuplicateEntryException;
 import com.dm.herotoday.exceptions.SQLUpdateException;
 import com.dm.herotoday.model.Hero;
 import org.springframework.dao.DataIntegrityViolationException;
@@ -22,7 +23,7 @@ public class HeroDaoImpl implements HeroDao {
     private JdbcTemplate jdbcTemplate;
 
     @Inject
-    public HeroDaoImpl(JdbcTemplate jdbcTemplate){
+    public HeroDaoImpl(JdbcTemplate jdbcTemplate) {
         this.jdbcTemplate = jdbcTemplate;
     }
 
@@ -50,7 +51,11 @@ public class HeroDaoImpl implements HeroDao {
 
     @Override
     @Transactional
-    public Hero addHero (Hero hero) throws SQLUpdateException{
+    public Hero addHero(Hero hero) throws SQLUpdateException, DuplicateEntryException {
+
+        if (ifExists(hero)){
+            throw new DuplicateEntryException("This hero already exists");
+        }
 
         try {
             if (jdbcTemplate.update(ADD_HERO_QUERY, hero.getHeroName(), hero.getHeroType(), hero.getDescription()) > 0) {
@@ -71,21 +76,31 @@ public class HeroDaoImpl implements HeroDao {
         try {
             if (jdbcTemplate.update(REMOVE_HERO_QUERY, Integer.toString(heroID)) <= 0) {
                 throw new SQLUpdateException("Data could not be removed or row does not exist");
-            } return true;
+            }
+            return true;
         } catch (DataIntegrityViolationException e) {
             throw new SQLUpdateException(e.getMessage());
         }
-}
+    }
 
     @Override
-    public boolean updateHero(Hero hero) throws SQLUpdateException {
+    public boolean updateHero(Hero hero) throws SQLUpdateException, DuplicateEntryException {
+
+        List<Hero> hlist = getFromHeroes(null,hero.getHeroName(),hero.getHeroType());
+
+        for (Hero h : hlist){
+            if (h.getHeroID() != hero.getHeroID()){
+                throw new DuplicateEntryException("Update failed: hero exists");
+            }
+
+        }
 
         try {
             if (jdbcTemplate.update(UPDATE_HERO_QUERY,
                     hero.getHeroName(),
                     hero.getHeroType(),
                     hero.getDescription(),
-                    hero.getHeroID()) <= 0){
+                    hero.getHeroID()) <= 0) {
                 throw new SQLUpdateException("Data could not be changed or row does not exist");
             } else return true;
 
@@ -111,10 +126,18 @@ public class HeroDaoImpl implements HeroDao {
     @Transactional
     public List<Hero> getFromHeroes(String heroID, String heroName, String heroType, String description) {
 
-        if (heroID == null || heroID.isEmpty()) { heroID = null; }
-        if (heroName == null || heroName.isEmpty()) { heroName = null; }
-        if (heroType == null || heroType.isEmpty()) { heroType = null; }
-        if (description == null || description.isEmpty()) { description = null;}
+        if (heroID == null || heroID.isEmpty()) {
+            heroID = null;
+        }
+        if (heroName == null || heroName.isEmpty()) {
+            heroName = null;
+        }
+        if (heroType == null || heroType.isEmpty()) {
+            heroType = null;
+        }
+        if (description == null || description.isEmpty()) {
+            description = null;
+        }
 
         String setup = "SET @HeroID = ?, @HeroName = ?, @HeroType = ?, @Description = ?; ";
 
@@ -156,8 +179,7 @@ public class HeroDaoImpl implements HeroDao {
     }
 
     @Override
-    public boolean ifExists(int heroID) {
-        return (jdbcTemplate.queryForObject(EXIST_QUERY, Integer.class, Integer.toString(heroID)) > 0);
+    public boolean ifExists(Hero hero) {
+        return getFromHeroes(null, hero.getHeroName(), hero.getHeroType()).size() > 0;
     }
-
 }

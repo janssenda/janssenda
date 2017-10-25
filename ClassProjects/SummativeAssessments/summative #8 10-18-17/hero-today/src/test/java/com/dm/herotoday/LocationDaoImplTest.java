@@ -2,6 +2,7 @@ package com.dm.herotoday;
 
 import com.dm.herotoday.dao.impl.DBMaintenance;
 import com.dm.herotoday.dao.interfaces.LocationDao;
+import com.dm.herotoday.exceptions.DuplicateEntryException;
 import com.dm.herotoday.exceptions.SQLUpdateException;
 import com.dm.herotoday.model.Location;
 import org.junit.Before;
@@ -42,6 +43,14 @@ public class LocationDaoImplTest {
         Location l2 = dao.getFromLocations(Integer.toString(loc.getLocID())).get(0);
 
         assertTrue(l2.equals(loc));
+
+        try{
+            dao.addLocation(loc);
+            fail("Duplicate");
+        } catch (DuplicateEntryException e){
+            // Pass
+        }
+
     }
 
     @Test
