@@ -42,7 +42,6 @@ public class DataCoordinatorDaoImpl implements DataCoordinatorDao {
     }
 
 
-
     ///////////////////
     // Organizations //
     ///////////////////
@@ -53,6 +52,10 @@ public class DataCoordinatorDaoImpl implements DataCoordinatorDao {
     private static final String ORG_HEADQ_MAP = "" +
             "SELECT HeadQID FROM organizations INNER JOIN orgsheadquarters ON " +
             "organizations.OrgID = orgsheadquarters.OrgID WHERE organizations.OrgID = ?;";
+
+    private static final String HEADQ_ORG_MAP = "" +
+            "SELECT OrgID FROM headquarters INNER JOIN orgsheadquarters ON " +
+            "headquarters.HeadQID = orgsheadquarters.HeadQID WHERE headquarters.HeadQID = ?;";
 
     ///////////////////
     //   Sightings   //
@@ -78,6 +81,241 @@ public class DataCoordinatorDaoImpl implements DataCoordinatorDao {
             "heroes.HeroID = orgsheroes.HeroID WHERE heroes.HeroID = ?;";
     private static final String DATEFORMAT = "yyyy-MM-dd";
 
+    @Override
+    public Hero changeHero(Hero hero) throws SQLUpdateException, DuplicateEntryException {
+        try {
+            hero = heroDao.addHero(hero);
+        } catch (DuplicateEntryException e) {
+            // Update instead
+        }
+        int t = hero.getHeroID();
+        updateHero(hero);
+
+
+        Hero h2 = getFromHeroes(Integer.toString(t)).get(0);
+        return h2;
+    }
+
+
+    private void updateHero(Hero hero) throws SQLUpdateException, DuplicateEntryException {
+
+        if (hero.getHeroPowers() != null){
+        for (Power p : hero.getHeroPowers()) {
+            try {
+                changePower(p);
+            } catch (SQLUpdateException e) {
+                // skip if not new
+            }
+            try {
+                bridgeDao.addPowersHeroes(p.getPowerID(), hero.getHeroID());
+            } catch (SQLUpdateException e) {
+                // skip if not new
+            }
+        }
+        }
+
+
+        if (hero.getHeroOrgs() != null) {
+            for (Organization o : hero.getHeroOrgs()) {
+                try {
+                    changeOrg(o);
+                } catch (SQLUpdateException e) {
+                    // skip if not new
+                }
+                try {
+                    bridgeDao.addOrgsHeroes(o.getOrgID(), hero.getHeroID());
+                } catch (SQLUpdateException e) {
+                    // skip if not new
+                }
+            }
+        }
+
+        if (hero.getHeroSightings() != null) {
+            for (Sighting s : hero.getHeroSightings()) {
+                try {
+                    changeSighting(s);
+                } catch (SQLUpdateException e) {
+                    // skip if not new
+                }
+                try {
+                    bridgeDao.addSightingsHeroes(s.getSightingID(), hero.getHeroID());
+                } catch (SQLUpdateException e) {
+                    // skip if not new
+                }
+            }
+        }
+
+        heroDao.updateHero(hero);
+    }
+
+    @Override
+    public Headquarters changeHeadquarters(Headquarters headq) throws SQLUpdateException, DuplicateEntryException {
+        try {
+            headq = headQDAO.addHeadquarters(headq);
+        } catch (DuplicateEntryException e){
+            // still update
+        }
+        updateHeadquarters(headq);
+
+        return getFromHeadquarters(Integer.toString(headq.getHeadQID())).get(0);
+    }
+
+
+
+    private void updateHeadquarters(Headquarters headq) throws SQLUpdateException {
+
+        if (headq.getContactList() != null) {
+            for (Contact c : headq.getContactList()) {
+                try {
+                    changeContact(c);
+                } catch (DuplicateEntryException e) {
+                    // skip if not new
+                }
+            }
+        }
+
+        if (headq.getOrgList() != null) {
+            for (Organization o : headq.getOrgList()) {
+                try {
+                    changeOrg(o);
+                } catch (DuplicateEntryException e) {
+                    // skip if not new
+                }
+                try {
+                    bridgeDao.addOrgsHeadquarters(o.getOrgID(), headq.getHeadQID());
+                } catch (SQLUpdateException e) {
+                    // skip if not new
+                }
+            }
+        }
+        headQDAO.updateHeadquarters(headq);
+    }
+
+    @Override
+    public Location changeLocation(Location loc) throws SQLUpdateException, DuplicateEntryException {
+        try {
+            loc = locDao.addLocation(loc);
+        } catch (DuplicateEntryException e){
+            // still update
+        }
+        updateLocation(loc);
+
+        return locDao.getFromLocations(Integer.toString(loc.getLocID())).get(0);
+    }
+
+
+    private void updateLocation(Location loc) throws SQLUpdateException {
+
+        if (loc.getLocSightings() != null) {
+            for (Sighting s : loc.getLocSightings()) {
+                try {
+                    changeSighting(s);
+                } catch (DuplicateEntryException e) {
+                    // skip if not new
+                }
+            }
+        }
+
+        locDao.updateLocation(loc);
+    }
+
+    @Override
+    public Organization changeOrg(Organization org) throws SQLUpdateException, DuplicateEntryException {
+        try {
+            org = orgDao.addOrg(org);
+        } catch (DuplicateEntryException e){
+            // still update
+        }
+        updateOrg(org);
+        return orgDao.getFromOrgs(Integer.toString(org.getOrgID())).get(0);
+    }
+
+
+    private void updateOrg(Organization org) throws SQLUpdateException {
+
+        if (org.getMembers() != null) {
+            for (Hero h : org.getMembers()) {
+                try {
+                    changeHero(h);
+                } catch (DuplicateEntryException e) {
+                    // skip if not new
+                }
+
+                try {
+                    bridgeDao.addOrgsHeroes(org.getOrgID(), h.getHeroID());
+                } catch (SQLUpdateException e) {
+                    // skip if not new
+                }
+            }
+        }
+
+        if (org.getOrgHeadQ() != null) {
+            for (Headquarters h : org.getOrgHeadQ()) {
+                try {
+                    changeHeadquarters(h);
+                } catch (DuplicateEntryException e) {
+                    // skip if not new
+                }
+
+                try {
+                    bridgeDao.addOrgsHeadquarters(org.getOrgID(), h.getHeadQID());
+                } catch (SQLUpdateException e) {
+                    // skip if not new
+                }
+            }
+        }
+
+        orgDao.updateOrg(org);
+    }
+
+
+    @Override
+    public Power changePower(Power power) throws SQLUpdateException, DuplicateEntryException {
+        try {
+            power = powerDao.addPower(power);
+        } catch (DuplicateEntryException e){
+            updatePower(power);
+        }
+        return powerDao.getFromPowers(Integer.toString(power.getPowerID())).get(0);
+    }
+
+
+    private void updatePower(Power power) throws SQLUpdateException {
+        powerDao.updatePower(power);
+    }
+
+    @Override
+    public Sighting changeSighting(Sighting sighting) throws SQLUpdateException, DuplicateEntryException {
+        try {
+            sighting = sightingDao.addSighting(sighting);
+        } catch (DuplicateEntryException e){
+            // still update
+        }
+
+        updateSighting(sighting);
+        return sightingDao.getFromSightings(Integer.toString(sighting.getSightingID())).get(0);
+    }
+
+
+    private void updateSighting(Sighting sighting) throws SQLUpdateException {
+
+        if (sighting.getSightingHeroes() != null) {
+            for (Hero h : sighting.getSightingHeroes()) {
+                try {
+                    heroDao.addHero(h);
+                } catch (DuplicateEntryException e) {
+                    // skip if not new
+                }
+                try {
+                    bridgeDao.addSightingsHeroes(sighting.getSightingID(), h.getHeroID());
+                } catch (Exception e) {
+                    // skip if not new
+                }
+            }
+        }
+
+        sightingDao.updateSighting(sighting);
+    }
 
     @Override
     public List<Sighting> sightingsByDate(LocalDate d) {
@@ -95,8 +333,8 @@ public class DataCoordinatorDaoImpl implements DataCoordinatorDao {
     public boolean removeHero(int heroID) throws SQLUpdateException {
         String hID = Integer.toString(heroID);
 
-        bridgeDao.removeSightingsHeroes(null,hID);
-        bridgeDao.removePowersHeroes(null,hID);
+        bridgeDao.removeSightingsHeroes(null, hID);
+        bridgeDao.removePowersHeroes(null, hID);
         bridgeDao.removeOrgsHeroes(null, hID);
 
         return heroDao.removeHero(heroID);
@@ -107,7 +345,7 @@ public class DataCoordinatorDaoImpl implements DataCoordinatorDao {
     public boolean removeHeadquarters(int headqID) throws SQLUpdateException {
         String hqID = Integer.toString(headqID);
 
-        bridgeDao.removeFromContacts(hqID);
+        contactDao.removeFromContacts(hqID);
         bridgeDao.removeOrgsHeadquarters(null, hqID);
 
         return headQDAO.removeHeadquarters(headqID);
@@ -115,13 +353,40 @@ public class DataCoordinatorDaoImpl implements DataCoordinatorDao {
 
     @Override
     public boolean removeLocation(int locID) throws SQLUpdateException {
+        String lID = Integer.toString(locID);
+        List<Sighting> sightList = getFromSightings(null, null, lID);
 
-        bridgeDao.removeFromSightings(Integer.toString(locID));
+        for (Sighting s : sightList) {
+            removeSighting(s.getSightingID());
+        }
 
         return locDao.removeLocation(locID);
     }
 
+    @Override
+    public boolean removeSighting(int sightingID) throws SQLUpdateException {
 
+        bridgeDao.removeSightingsHeroes(Integer.toString(sightingID), null);
+        return sightingDao.removeSighting(sightingID);
+
+    }
+
+    @Override
+    public boolean removeOrg(int orgID) throws SQLUpdateException {
+        String oID = Integer.toString(orgID);
+
+        bridgeDao.removeOrgsHeroes(oID, null);
+        bridgeDao.removeOrgsHeadquarters(oID, null);
+        return orgDao.removeOrg(orgID);
+    }
+
+    @Override
+    public boolean removePower(int powerID) throws SQLUpdateException {
+        String pID = Integer.toString(powerID);
+
+        bridgeDao.removePowersHeroes(pID, null);
+        return powerDao.removePower(powerID);
+    }
 
 
     @Override
@@ -187,9 +452,16 @@ public class DataCoordinatorDaoImpl implements DataCoordinatorDao {
 
         headQList.forEach((h) -> {
             h.setContactList(contactDao.getFromContacts(Integer.toString(h.getHeadQID())));
+            setHeadquartersOrg(h);
         });
-
         return headQList;
+    }
+
+    @Override
+    @Transactional
+    public List<Power> getFromPowers(String... args) {
+        String[] allArgs = varArgs(args, 3);
+        return powerDao.getFromPowers(allArgs[0], allArgs[1], allArgs[2]);
     }
 
     @Override
@@ -236,6 +508,15 @@ public class DataCoordinatorDaoImpl implements DataCoordinatorDao {
                     objList.add(headQDAO.getFromHeadquarters(h).get(0));
                 });
         o.setOrgHeadQ(objList);
+    }
+
+    private void setHeadquartersOrg(Headquarters h) {
+        List<Organization> objList = new ArrayList<>();
+        resLoop(jdbcTemplate.queryForList(HEADQ_ORG_MAP, h.getHeadQID()))
+                .forEach((o) -> {
+                    objList.add(orgDao.getFromOrgs(o).get(0));
+                });
+        h.setOrgList(objList);
     }
 
     private void setOrgHeroes(Organization o) {
@@ -300,41 +581,25 @@ public class DataCoordinatorDaoImpl implements DataCoordinatorDao {
     ////////////////////
     //  Pass-through  //
     ////////////////////
-    //@Override public boolean removeHero(int heroID) throws SQLUpdateException {return heroDao.removeHero(heroID);}
-    @Override public boolean updateHero(Hero hero) throws SQLUpdateException,DuplicateEntryException  {return heroDao.updateHero(hero); }
-    @Override public Hero addHero (Hero hero) throws SQLUpdateException,DuplicateEntryException {return heroDao.addHero(hero);}
 
-    @Override public Contact addContact(Contact contact) throws SQLUpdateException,DuplicateEntryException {return contactDao.addContact(contact);}
-    @Override public boolean removeContact(Contact contact) throws SQLUpdateException {return contactDao.removeContact(contact);}
-    @Override public boolean updateContact(Contact oldContact, Contact newContact) throws SQLUpdateException,DuplicateEntryException {return contactDao.updateContact(oldContact,newContact);}
 
-    @Override public Headquarters addHeadquarters(Headquarters headq) throws SQLUpdateException,DuplicateEntryException {return headQDAO.addHeadquarters(headq);}
-    @Override public boolean updateHeadquarters(Headquarters headq) throws SQLUpdateException {return headQDAO.updateHeadquarters(headq);}
+    @Override
+    public Contact changeContact(Contact... args) throws SQLUpdateException, DuplicateEntryException {
+        if (args.length == 2){
+            updateContact(args[0],args[1]);
+            return args[1];
+        }
+        contactDao.addContact(args[0]);
+        return args[2];
+    }
 
-    @Override public Location addLocation(Location loc) throws SQLUpdateException,DuplicateEntryException {return locDao.addLocation(loc);}
-    @Override public boolean updateLocation(Location loc) throws SQLUpdateException {return locDao.updateLocation(loc);}
+    @Override
+    public boolean removeContact(Contact contact) throws SQLUpdateException {
+        return contactDao.removeContact(contact);
+    }
 
-    @Override public Organization addOrg(Organization org) throws SQLUpdateException,DuplicateEntryException {return orgDao.addOrg(org);}
-    @Override public boolean removeOrg(int orgID) throws SQLUpdateException {return orgDao.removeOrg(orgID);}
-    @Override public boolean updateOrg(Organization org) throws SQLUpdateException {return orgDao.updateOrg(org);}
-
-    @Override public Power addPower (Power power) throws SQLUpdateException,DuplicateEntryException {return powerDao.addPower(power);}
-    @Override public boolean removePower(int powerID) throws SQLUpdateException {return powerDao.removePower(powerID);}
-    @Override public boolean updatePower(Power power) throws SQLUpdateException {return powerDao.updatePower(power);}
-
-    @Override public Sighting addSighting(Sighting sighting) throws SQLUpdateException,DuplicateEntryException {return sightingDao.addSighting(sighting);}
-    @Override public boolean removeSighting(int sightingID) throws SQLUpdateException {return sightingDao.removeSighting(sightingID);}
-    @Override public boolean updateSighting(Sighting sighting) throws SQLUpdateException {return sightingDao.updateSighting(sighting);}
-
-    // Bridge maps
-    @Override public boolean addOrgsHeadquarters(int orgID, int headQID) throws SQLUpdateException {return bridgeDao.addOrgsHeadquarters(orgID, headQID);}
-    @Override public Integer removeOrgsHeadquarters(String orgID, String headQID) throws SQLUpdateException {return bridgeDao.removeOrgsHeadquarters(orgID, headQID);}
-    @Override public boolean addOrgsHeroes(int orgID, int heroID) throws SQLUpdateException {return bridgeDao.addOrgsHeroes(orgID, heroID);}
-    @Override public Integer removeOrgsHeroes(String orgID, String heroID) throws SQLUpdateException {return bridgeDao.removeOrgsHeroes(orgID, heroID);}
-    @Override public boolean addSightingsHeroes(int sightingID, int heroID) throws SQLUpdateException {return bridgeDao.addSightingsHeroes(sightingID, heroID);}
-    @Override public Integer  removeSightingsHeroes(String sightingID, String heroID) throws SQLUpdateException {return bridgeDao.removeSightingsHeroes(sightingID, heroID);}
-    @Override public boolean addPowersHeroes(int powerID, int heroID) throws SQLUpdateException {return bridgeDao.addPowersHeroes(powerID, heroID);}
-    @Override public Integer  removePowersHeroes(String powerID, String heroID) throws SQLUpdateException {return bridgeDao.removePowersHeroes(powerID, heroID);}
-
+    private void updateContact(Contact oldContact, Contact newContact) throws SQLUpdateException, DuplicateEntryException {
+        contactDao.updateContact(oldContact, newContact);
+    }
 
 }

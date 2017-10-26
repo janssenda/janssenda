@@ -1,6 +1,6 @@
-DROP DATABASE IF EXISTS `superherodb-test`;
-CREATE DATABASE `superherodb-test`;
-USE `superherodb-test`;
+DROP DATABASE IF EXISTS supertest;
+CREATE DATABASE supertest;
+USE supertest;
 
 CREATE TABLE locations (
 	LocID INT NOT NULL AUTO_INCREMENT,
@@ -64,7 +64,7 @@ CREATE TABLE sightings (
 CREATE TABLE sightingsheroes (
     SightingID INT NOT NULL,
     HeroID INT NOT NULL,
-  --  PRIMARY KEY (SightingID, HeroID),
+    PRIMARY KEY (SightingID, HeroID),
     FOREIGN KEY (SightingID) REFERENCES sightings(SightingID),
     FOREIGN KEY (HeroID) REFERENCES heroes(HeroID)
 );

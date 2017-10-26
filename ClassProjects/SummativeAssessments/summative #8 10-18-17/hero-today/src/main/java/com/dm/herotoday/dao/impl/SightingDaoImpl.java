@@ -79,6 +79,14 @@ public class SightingDaoImpl implements SightingDao {
     }
 
     @Override
+    public Integer removeFromSightings(String locID){
+        String DELETE_SL_QUERY =
+                "DELETE FROM sightings WHERE LocID = ?";
+
+        return jdbcTemplate.update(DELETE_SL_QUERY,locID);
+    }
+
+    @Override
     public boolean updateSighting(Sighting sighting) throws SQLUpdateException {
         try {
             if (jdbcTemplate.update(UPDATE_SIGHTING_QUERY,

@@ -9,6 +9,11 @@ public class Headquarters {
     private String headQAdress;
     private String description;
     private List<Contact> contactList;
+    private List<Organization> orgList;
+
+    public List<Organization> getOrgList() {  return orgList;  }
+
+    public void setOrgList(List<Organization> orgList) { this.orgList = orgList; }
 
     public List<Contact> getContactList() {
         return contactList;

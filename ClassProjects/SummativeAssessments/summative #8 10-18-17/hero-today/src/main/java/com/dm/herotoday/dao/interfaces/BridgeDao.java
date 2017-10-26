@@ -13,7 +13,10 @@ public interface BridgeDao {
     public Integer  removeSightingsHeroes(String sightingID, String heroID) throws SQLUpdateException;
     public boolean addPowersHeroes(int powerID, int heroID) throws SQLUpdateException;
     public Integer  removePowersHeroes(String powerID, String heroID) throws SQLUpdateException;
-    public Integer removeFromContacts(String headQID);
-    public Integer removeFromSightings(String locID);
+
+    public Integer sizeOrgsHeadquarters();
+    public Integer sizeOrgsHeroes();
+    public Integer sizeSightingsHeroes();
+    public Integer sizePowersHeroes();
 
 }

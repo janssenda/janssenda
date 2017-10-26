@@ -15,4 +15,5 @@ public interface SightingDao {
     public List<Sighting> getFromSightings(String... args);
     public List<Sighting> getFromSightings(String sightingID, String sightTime, String locID);
     public boolean ifExists(int sightingID);
+    public Integer removeFromSightings(String locID);
 }

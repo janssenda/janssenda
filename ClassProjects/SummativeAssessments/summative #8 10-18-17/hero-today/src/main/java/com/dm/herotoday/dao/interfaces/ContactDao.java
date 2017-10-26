@@ -15,5 +15,6 @@ public interface ContactDao {
     public List<Contact> getFromContacts(String... args);
     public List<Contact> getFromContacts(String headQID, String email);
     public boolean ifExists(Contact contact);
+    public Integer removeFromContacts(String headQID);
 
 }

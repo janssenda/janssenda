@@ -138,6 +138,14 @@ public class ContactDaoImpl implements ContactDao {
     }
 
     @Override
+    public Integer removeFromContacts(String headQID){
+        String DELETE_CON_QUERY =
+                "DELETE FROM contacts WHERE HeadQID = ?";
+
+        return jdbcTemplate.update(DELETE_CON_QUERY,headQID);
+    }
+
+    @Override
     public boolean ifExists(Contact contact) {
         String queryMail = "%"+contact.getEmail()+"%";
         return (jdbcTemplate.queryForObject(EXIST_QUERY, Integer.class, contact.getHeadQID(), queryMail) > 0);

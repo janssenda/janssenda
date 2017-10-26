@@ -87,7 +87,7 @@ public class HeroDaoImpl implements HeroDao {
     public boolean updateHero(Hero hero) throws SQLUpdateException, DuplicateEntryException {
 
         List<Hero> hlist = getFromHeroes(null,hero.getHeroName(),hero.getHeroType());
-
+        hero.getHeroID();
         for (Hero h : hlist){
             if (h.getHeroID() != hero.getHeroID()){
                 throw new DuplicateEntryException("Update failed: hero exists");

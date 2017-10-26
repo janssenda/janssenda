@@ -23,6 +23,28 @@ public class BridgeDaoImpl implements BridgeDao {
     }
 
 
+    @Override
+    public Integer sizeOrgsHeadquarters(){
+        return jdbcTemplate.queryForObject("SELECT COUNT(*) FROM orgsheadquarters", Integer.class);
+    }
+
+    @Override
+    public Integer sizeOrgsHeroes(){
+        return jdbcTemplate.queryForObject("SELECT COUNT(*) FROM orgsheroes", Integer.class);
+    }
+
+    @Override
+    public Integer sizeSightingsHeroes(){
+        return jdbcTemplate.queryForObject("SELECT COUNT(*) FROM sightingsheroes", Integer.class);
+    }
+
+    @Override
+    public Integer sizePowersHeroes(){
+        return jdbcTemplate.queryForObject("SELECT COUNT(*) FROM superpowersheroes", Integer.class);
+    }
+
+
+
     // Modify orgs - headquarters associations
     @Override
     public boolean addOrgsHeadquarters(int orgID, int headQID) throws SQLUpdateException {
@@ -154,21 +176,9 @@ public class BridgeDaoImpl implements BridgeDao {
         }
     }
 
-    @Override
-    public Integer removeFromContacts(String headQID){
-        String DELETE_CON_QUERY =
-                "DELETE FROM contacts WHERE HeadQID = ?";
 
-            return jdbcTemplate.update(DELETE_CON_QUERY,headQID);
-    }
 
-    @Override
-    public Integer removeFromSightings(String locID){
-        String DELETE_SL_QUERY =
-                "DELETE FROM sightings WHERE LocID = ?";
 
-        return jdbcTemplate.update(DELETE_SL_QUERY,locID);
-    }
 
 
     private void prepareSet(String setup, String param1, String param2) throws SQLException {

@@ -113,4 +113,11 @@ public class ContactDaoImplTest {
             // Pass
         }
     }
+
+    @Test
+    public void removecontacts () {
+
+        assertTrue(dao.removeFromContacts("1") == 1);
+
+    }
 }

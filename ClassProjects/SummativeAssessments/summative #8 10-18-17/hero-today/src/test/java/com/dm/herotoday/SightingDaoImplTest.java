@@ -82,6 +82,8 @@ public class SightingDaoImplTest {
             // Pass
         }
 
+
+
     }
 
     @Test

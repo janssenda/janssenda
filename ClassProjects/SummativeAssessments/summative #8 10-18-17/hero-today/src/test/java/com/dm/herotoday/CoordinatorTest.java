@@ -12,6 +12,8 @@ import org.springframework.test.context.junit4.SpringRunner;
 import javax.inject.Inject;
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
+import java.util.ArrayList;
+import java.util.List;
 
 import static junit.framework.TestCase.assertTrue;
 
@@ -46,6 +48,7 @@ public class CoordinatorTest {
     @Test public void getHeadquarters() {
         Headquarters h = dao.getFromHeadquarters("1").get(0);
         assertTrue(h.getContactList().size() == 1);
+        assertTrue(h.getOrgList().size() == 1);
     }
 
     @Test public void getSightings() {
@@ -66,12 +69,27 @@ public class CoordinatorTest {
         assertTrue(dao.sightingsByDate(date).size() == 4);
     }
 
-    @Test public void removeherofull() throws Exception{
+    @Test public void TestRemoveMethods() throws Exception{
 
 
         assertTrue(dao.removeHero(2));
+        assertTrue(dao.getFromHeroes("2").size() == 0);
+
         assertTrue(dao.removeHeadquarters(1));
-        System.out.println(dao.removeLocation(5));
+        assertTrue(dao.getFromHeadquarters("1").size() == 0);
+
+        assertTrue(dao.removeSighting(5));
+        assertTrue(dao.getFromSightings("5").size() == 0);
+
+        assertTrue(dao.removeLocation(3));
+        assertTrue(dao.getFromLocations("3").size() == 0);
+
+        assertTrue(dao.removeOrg(2));
+        assertTrue(dao.getFromOrgs("2").size() == 0);
+
+        assertTrue(dao.removePower(1));
+        assertTrue(dao.getFromPowers("1").size() == 0);
+
 
 
     }

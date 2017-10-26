@@ -95,10 +95,5 @@ public class BridgeDaoImplTest {
         assertTrue(dao.removePowersHeroes("2",null) == 8);
     }
 
-    @Test
-    public void removecontacts () {
 
-        assertTrue(dao.removeFromContacts("1") == 1);
-
-    }
 }
