@@ -18,6 +18,7 @@ public interface DataCoordinatorDao {
     public List<Location> locationsByHero(int heroID);
     public List<Sighting> sightingsByDate(LocalDate d);
     public List<Power> getFromPowers(String... args);
+    public List<Contact> getFromContacts(String... args);
 
 
     ////////////////////

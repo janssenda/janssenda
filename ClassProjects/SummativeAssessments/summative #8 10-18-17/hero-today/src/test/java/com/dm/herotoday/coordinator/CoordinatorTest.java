@@ -1,4 +1,4 @@
-package com.dm.herotoday;
+package com.dm.herotoday.coordinator;
 
 import com.dm.herotoday.dao.impl.DBMaintenance;
 import com.dm.herotoday.dao.impl.DataCoordinatorDaoImpl;
@@ -12,8 +12,6 @@ import org.springframework.test.context.junit4.SpringRunner;
 import javax.inject.Inject;
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
-import java.util.ArrayList;
-import java.util.List;
 
 import static junit.framework.TestCase.assertTrue;
 

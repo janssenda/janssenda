@@ -88,22 +88,25 @@ public class DataCoordinatorDaoImpl implements DataCoordinatorDao {
         } catch (DuplicateEntryException e) {
             // Update instead
         }
-        int t = hero.getHeroID();
+
         updateHero(hero);
-
-
-        Hero h2 = getFromHeroes(Integer.toString(t)).get(0);
-        return h2;
+        return getFromHeroes(Integer.toString(hero.getHeroID())).get(0);
     }
 
 
     private void updateHero(Hero hero) throws SQLUpdateException, DuplicateEntryException {
 
+        String hID = Integer.toString(hero.getHeroID());
+
+        bridgeDao.removePowersHeroes(null,hID);
+        bridgeDao.removeOrgsHeroes(null,hID);
+        bridgeDao.removeSightingsHeroes(null,hID);
+
         if (hero.getHeroPowers() != null){
         for (Power p : hero.getHeroPowers()) {
             try {
-                changePower(p);
-            } catch (SQLUpdateException e) {
+                powerDao.addPower(p);
+            } catch (SQLUpdateException | DuplicateEntryException e) {
                 // skip if not new
             }
             try {
@@ -117,9 +120,10 @@ public class DataCoordinatorDaoImpl implements DataCoordinatorDao {
 
         if (hero.getHeroOrgs() != null) {
             for (Organization o : hero.getHeroOrgs()) {
+
                 try {
-                    changeOrg(o);
-                } catch (SQLUpdateException e) {
+                    orgDao.addOrg(o);
+                } catch (SQLUpdateException | DuplicateEntryException e) {
                     // skip if not new
                 }
                 try {
@@ -133,8 +137,8 @@ public class DataCoordinatorDaoImpl implements DataCoordinatorDao {
         if (hero.getHeroSightings() != null) {
             for (Sighting s : hero.getHeroSightings()) {
                 try {
-                    changeSighting(s);
-                } catch (SQLUpdateException e) {
+                    sightingDao.addSighting(s);
+                } catch (SQLUpdateException | DuplicateEntryException e) {
                     // skip if not new
                 }
                 try {
@@ -164,10 +168,16 @@ public class DataCoordinatorDaoImpl implements DataCoordinatorDao {
 
     private void updateHeadquarters(Headquarters headq) throws SQLUpdateException {
 
+        String hQID = Integer.toString(headq.getHeadQID());
+
+        bridgeDao.removeOrgsHeadquarters(null, hQID);
+        contactDao.removeFromContacts(hQID);
+
         if (headq.getContactList() != null) {
             for (Contact c : headq.getContactList()) {
                 try {
-                    changeContact(c);
+                    c.setHeadQID(headq.getHeadQID());
+                    contactDao.addContact(c);
                 } catch (DuplicateEntryException e) {
                     // skip if not new
                 }
@@ -177,7 +187,7 @@ public class DataCoordinatorDaoImpl implements DataCoordinatorDao {
         if (headq.getOrgList() != null) {
             for (Organization o : headq.getOrgList()) {
                 try {
-                    changeOrg(o);
+                    orgDao.addOrg(o);
                 } catch (DuplicateEntryException e) {
                     // skip if not new
                 }
@@ -198,25 +208,8 @@ public class DataCoordinatorDaoImpl implements DataCoordinatorDao {
         } catch (DuplicateEntryException e){
             // still update
         }
-        updateLocation(loc);
-
-        return locDao.getFromLocations(Integer.toString(loc.getLocID())).get(0);
-    }
-
-
-    private void updateLocation(Location loc) throws SQLUpdateException {
-
-        if (loc.getLocSightings() != null) {
-            for (Sighting s : loc.getLocSightings()) {
-                try {
-                    changeSighting(s);
-                } catch (DuplicateEntryException e) {
-                    // skip if not new
-                }
-            }
-        }
-
         locDao.updateLocation(loc);
+        return getFromLocations(Integer.toString(loc.getLocID())).get(0);
     }
 
     @Override
@@ -227,16 +220,21 @@ public class DataCoordinatorDaoImpl implements DataCoordinatorDao {
             // still update
         }
         updateOrg(org);
-        return orgDao.getFromOrgs(Integer.toString(org.getOrgID())).get(0);
+        return getFromOrgs(Integer.toString(org.getOrgID())).get(0);
     }
 
 
     private void updateOrg(Organization org) throws SQLUpdateException {
 
+        String oID = Integer.toString(org.getOrgID());
+
+        bridgeDao.removeOrgsHeadquarters(oID, null);
+        bridgeDao.removeOrgsHeroes(oID, null);
+
         if (org.getMembers() != null) {
             for (Hero h : org.getMembers()) {
                 try {
-                    changeHero(h);
+                    heroDao.addHero(h);
                 } catch (DuplicateEntryException e) {
                     // skip if not new
                 }
@@ -252,7 +250,7 @@ public class DataCoordinatorDaoImpl implements DataCoordinatorDao {
         if (org.getOrgHeadQ() != null) {
             for (Headquarters h : org.getOrgHeadQ()) {
                 try {
-                    changeHeadquarters(h);
+                    headQDAO.addHeadquarters(h);
                 } catch (DuplicateEntryException e) {
                     // skip if not new
                 }
@@ -274,15 +272,11 @@ public class DataCoordinatorDaoImpl implements DataCoordinatorDao {
         try {
             power = powerDao.addPower(power);
         } catch (DuplicateEntryException e){
-            updatePower(power);
+            powerDao.updatePower(power);
         }
-        return powerDao.getFromPowers(Integer.toString(power.getPowerID())).get(0);
+        return getFromPowers(Integer.toString(power.getPowerID())).get(0);
     }
 
-
-    private void updatePower(Power power) throws SQLUpdateException {
-        powerDao.updatePower(power);
-    }
 
     @Override
     public Sighting changeSighting(Sighting sighting) throws SQLUpdateException, DuplicateEntryException {
@@ -293,11 +287,13 @@ public class DataCoordinatorDaoImpl implements DataCoordinatorDao {
         }
 
         updateSighting(sighting);
-        return sightingDao.getFromSightings(Integer.toString(sighting.getSightingID())).get(0);
+        return getFromSightings(Integer.toString(sighting.getSightingID())).get(0);
     }
 
 
     private void updateSighting(Sighting sighting) throws SQLUpdateException {
+
+        bridgeDao.removeSightingsHeroes(Integer.toString(sighting.getSightingID()),null);
 
         if (sighting.getSightingHeroes() != null) {
             for (Hero h : sighting.getSightingHeroes()) {
@@ -600,6 +596,12 @@ public class DataCoordinatorDaoImpl implements DataCoordinatorDao {
 
     private void updateContact(Contact oldContact, Contact newContact) throws SQLUpdateException, DuplicateEntryException {
         contactDao.updateContact(oldContact, newContact);
+    }
+
+    @Override
+    public List<Contact> getFromContacts(String... args){
+        String[] allArgs = varArgs(args, 2);
+        return contactDao.getFromContacts(allArgs[0], allArgs[1]);
     }
 
 }

@@ -1,4 +1,4 @@
-package com.dm.herotoday;
+package com.dm.herotoday.coordinator;
 
 import com.dm.herotoday.dao.impl.BridgeDaoImpl;
 import com.dm.herotoday.dao.impl.DBMaintenance;
@@ -7,7 +7,6 @@ import com.dm.herotoday.model.Hero;
 import com.dm.herotoday.model.Organization;
 import com.dm.herotoday.model.Power;
 import com.dm.herotoday.model.Sighting;
-import org.aspectj.weaver.ast.Or;
 import org.junit.Before;
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -21,7 +20,7 @@ import java.util.List;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class CoordinatorEndpointTest {
+public class CoordinatorHeroEndpointTest {
 
     @Inject
     private DataCoordinatorDaoImpl dao;
@@ -101,6 +100,34 @@ public class CoordinatorEndpointTest {
         assertTrue(hnew.getHeroSightings().size() == 1);
         assertTrue(dao.getFromSightings().size() == slistsize + 1);
         assertTrue(bdao.sizeSightingsHeroes() == bridgeslistsize + 1);
+
+        hnew.getHeroPowers().add(dao.getFromPowers("3").get(0));
+        dao.changeHero(hnew);
+
+        assertTrue(hnew.getHeroPowers().size() == 3);
+        assertTrue(dao.getFromPowers().size() == plistsize + 1);
+        assertTrue(bdao.sizePowersHeroes() == bridgeplistsize + 3);
+
+        hnew.setHeroPowers(null);
+        hnew.setHeroOrgs(null);
+        hnew.setHeroSightings(null);
+
+        hnew = dao.changeHero(hnew);
+
+        assertTrue(hnew.getHeroPowers().size() == 0);
+        assertTrue(dao.getFromPowers().size() == plistsize + 1);
+        assertTrue(bdao.sizePowersHeroes() == bridgeplistsize);
+
+        assertTrue(hnew.getHeroOrgs().size() == 0);
+        assertTrue(dao.getFromOrgs().size() == olistsize + 1);
+        assertTrue(bdao.sizeOrgsHeroes() == bridgeolistsize);
+
+        assertTrue(hnew.getHeroSightings().size() == 0);
+        assertTrue(dao.getFromSightings().size() == slistsize + 1);
+        assertTrue(bdao.sizeSightingsHeroes() == bridgeslistsize);
+
+        dao.removeHero(hnew.getHeroID());
+        assertTrue(dao.getFromHeroes(Integer.toString(hnew.getHeroID())).size()==0);
 
 
     }

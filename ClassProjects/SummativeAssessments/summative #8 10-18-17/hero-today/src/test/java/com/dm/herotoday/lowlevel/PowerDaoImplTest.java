@@ -1,10 +1,10 @@
-package com.dm.herotoday;
+package com.dm.herotoday.lowlevel;
 
 import com.dm.herotoday.dao.impl.DBMaintenance;
-import com.dm.herotoday.dao.interfaces.LocationDao;
+import com.dm.herotoday.dao.interfaces.PowerDao;
 import com.dm.herotoday.exceptions.DuplicateEntryException;
 import com.dm.herotoday.exceptions.SQLUpdateException;
-import com.dm.herotoday.model.Location;
+import com.dm.herotoday.model.Power;
 import org.junit.Before;
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -14,13 +14,14 @@ import org.springframework.test.context.junit4.SpringRunner;
 import javax.inject.Inject;
 
 import static org.aspectj.bridge.MessageUtil.fail;
+import static org.junit.Assert.assertFalse;
 import static org.junit.Assert.assertTrue;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class LocationDaoImplTest {
+public class PowerDaoImplTest {
 
-    @Inject private LocationDao dao;
+    @Inject private PowerDao dao;
     @Inject private DBMaintenance mdao;
 
     @Before
@@ -32,63 +33,66 @@ public class LocationDaoImplTest {
     }
 
     @Test
-    public void addLocation() throws Exception {
+    public void addPower() throws Exception {
 
-        Location loc = new Location();
-        loc.setLocID(0);
-        loc.setLocName("Far away");
-        loc = dao.addLocation(loc);
-        assertTrue(loc.getLocID() != 0);
+        Power p = new Power();
+        p.setPowerID(0);
+        p.setPowerName("Ultra Guitar");
+        p = dao.addPower(p);
+        assertTrue(p.getPowerID() != 0);
 
-        Location l2 = dao.getFromLocations(Integer.toString(loc.getLocID())).get(0);
+        Power p2 = dao.getFromPowers(Integer.toString(p.getPowerID())).get(0);
 
-        assertTrue(l2.equals(loc));
+        assertTrue(p.equals(p2));
 
         try{
-            dao.addLocation(loc);
+            dao.addPower(p);
             fail("Duplicate");
-        } catch (DuplicateEntryException e){
+        }catch (DuplicateEntryException e){
             // Pass
         }
+
 
     }
 
     @Test
-    public void removeLocation() throws Exception {
+    public void removePower() throws Exception {
 
-        Location loc = new Location();
-        loc.setLocID(0);
-        loc.setLocName("Far away");
-        loc = dao.addLocation(loc);
+        Power p = new Power();
+        p.setPowerID(0);
+        p.setPowerName("Ultra Guitar");
+        p = dao.addPower(p);
 
-        assertTrue(dao.removeLocation(loc.getLocID()));
-
+        assertTrue(dao.removePower(p.getPowerID()));
         try {
-            dao.removeLocation(306);
-            fail("ID is tied to constraints");
+            dao.removePower(3);
+            fail("Power is tied to constraints");
         } catch (Exception e) {
             // Pass
         }
 
         try {
-            dao.removeLocation(0);
+            dao.removePower(0);
             fail("ID does not exist");
         } catch (Exception e) {
             // Pass
         }
 
     }
-
+    //
     @Test
-    public void updateLocation() throws Exception {
+    public void updatePower() throws Exception {
 
-        Location loc = dao.getFromLocations("306").get(0);
-        assertTrue(loc.getLocName() == null);
-        loc.setLocName("ZILTOID");
-        assertTrue(dao.updateLocation(loc));
-        loc.setLocID(0);
+        Power p = dao.getFromPowers("5").get(0);
+
+        assertFalse(p.getPowerName().equals("ZILTOID"));
+        p.setPowerName("ZILTOID");
+        assertTrue(dao.updatePower(p));
+
+        p.setPowerID(0);
+
         try {
-            dao.updateLocation(loc);
+            dao.updatePower(p);
             fail("ID does not exist");
         } catch (SQLUpdateException e) {
             // Pass

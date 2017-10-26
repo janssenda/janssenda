@@ -1,4 +1,4 @@
-package com.dm.herotoday;
+package com.dm.herotoday.lowlevel;
 
 import com.dm.herotoday.dao.impl.DBMaintenance;
 import com.dm.herotoday.dao.interfaces.OrganizationDao;

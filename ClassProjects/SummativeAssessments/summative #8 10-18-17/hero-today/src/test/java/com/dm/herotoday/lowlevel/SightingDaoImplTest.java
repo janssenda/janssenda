@@ -1,4 +1,4 @@
-package com.dm.herotoday;
+package com.dm.herotoday.lowlevel;
 
 import com.dm.herotoday.dao.interfaces.SightingDao;
 import com.dm.herotoday.exceptions.DuplicateEntryException;

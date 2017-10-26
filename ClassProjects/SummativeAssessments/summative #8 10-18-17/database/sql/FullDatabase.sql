@@ -449,6 +449,7 @@ DROP TABLE IF EXISTS `sightingsheroes`;
 CREATE TABLE `sightingsheroes` (
   `SightingID` int(11) NOT NULL,
   `HeroID` int(11) NOT NULL,
+  PRIMARY KEY (`SightingID`, `HeroID`),
   KEY `SightingID` (`SightingID`),
   KEY `HeroID` (`HeroID`),
   CONSTRAINT `sightingsheroes_ibfk_1` FOREIGN KEY (`SightingID`) REFERENCES `sightings` (`SightingID`),
