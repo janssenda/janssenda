@@ -6,6 +6,7 @@ import org.springframework.web.bind.annotation.*;
 import org.springframework.web.bind.annotation.RestController;
 
 import javax.inject.Inject;
+import java.util.List;
 
 @CrossOrigin
 @RestController
@@ -19,9 +20,8 @@ public class MainRestController {
     }
 
     @RequestMapping(value = "/heroes/{id}", method = RequestMethod.GET)
-    @ResponseBody
-    public Hero getHero(@PathVariable("id") String id) {
+    public List<Hero> getHero(@PathVariable("id") String id) {
 
-        return dao.getFromHeroes(id).get(0);
+        return dao.getFromHeroes(id);
     }
 }
