@@ -24,7 +24,7 @@
                     <h2 id="pageTitle" class="text-center">Vintage Tube Vending </h2>
                     Feed your desire...<br/>
 
-                    <form action="/vendingAPI/jsp/toggleRealism" method="post">
+                    <form action="${pageContext.request.contextPath}/jsp/toggleRealism" method="post">
                         <input type="hidden" name="totalCash" value="${totalCash}">
                         <input type="hidden" name="selectedItem" value="${selectedItem}">
                         <input type="hidden" name="displayID" value="${displayID}">
@@ -88,7 +88,7 @@
                         <br/>
 
                         </c:forEach>
-                        <form action="/vendingAPI/jsp/processRealRequest" method="post">
+                        <form action="${pageContext.request.contextPath}/jsp/processRealRequest" method="post">
                             <input type="hidden" name="totalCash" value="${totalCash}">
                             <input type="hidden" name="selectedItem" value="${selectedItem}">
                             <input type="hidden" name="displayID" value="${displayID}">
@@ -110,7 +110,7 @@
                         </div>
                         <br/><br/>
 
-                        <form action="/vendingAPI/jsp/processRealRequest" method="post">
+                        <form action="${pageContext.request.contextPath}/jsp/processRealRequest" method="post">
                             <input type="hidden" name="totalCash" value="${totalCash}">
                             <input type="hidden" name="selectedItem" value="${selectedItem}">
                             <input type="hidden" name="displayID" value="${displayID}">
@@ -131,7 +131,7 @@
                     <div id="showResults" class="rounded">
                         <p class="resultP">
                                 ${messages}
-                        <form action="/vendingAPI/jsp/processRealRequest" method="post">
+                        <form action="${pageContext.request.contextPath}/jsp/processRealRequest" method="post">
                             <input type="hidden" name="totalCash" value="${totalCash}">
                             <input type="hidden" name="selectedItem" value="${selectedItem}">
                             <input type="hidden" name="displayID" value="${displayID}">
@@ -144,7 +144,7 @@
                 </c:if>
 
 
-                <form action="/vendingAPI/jsp/loadItem" method="post">
+                <form action="${pageContext.request.contextPath}/jsp/loadItem" method="post">
                     <input type="hidden" name="totalCash" value="${totalCash}">
                     <input type="hidden" name="selectedItem" value="${selectedItem}">
 
@@ -196,7 +196,7 @@
                                 <span class="title">Welcome</span>
                             </label>
 
-                            <form action="/vendingAPI/jsp/addMoney" method="post">
+                            <form action="${pageContext.request.contextPath}/jsp/addMoney" method="post">
                                 <input type="hidden" name="selectedItem" value="${selectedItem}">
                                 <input type="hidden" name="displayID" value="${displayID}">
 
@@ -251,7 +251,7 @@
                         <div class="container vbshrink">
                             <div class="row">
                                 <div class="col-12">
-                                    <form action="/vendingAPI/jsp/vendItem" method="post">
+                                    <form action="${pageContext.request.contextPath}/jsp/vendItem" method="post">
                                         <label for="itemDisplay" class="itemTitle">Item: </label>
                                         <input id="itemDisplay" class="rounded" type="text" readonly
                                                value="${displayID}" name="displayID"><br/>
@@ -280,12 +280,12 @@
 
                         <div class="row">
                             <div class="col-12">
-                                <form action="/vendingAPI/jsp/getChange" method="post">
+                                <form action="${pageContext.request.contextPath}/jsp/getChange" method="post">
                                     <input type="hidden" name="totalCash" value="${totalCash}">
                                     <button type="submit" id="changeButton" name="change">Coin Return</button>
                                 </form>
                                 <c:if test="${realism == true}">
-                                    <form action="/vendingAPI/jsp/processRealRequest" method="post">
+                                    <form action="${pageContext.request.contextPath}/jsp/processRealRequest" method="post">
                                         <input type="hidden" name="totalCash" value="${totalCash}">
                                         <input type="hidden" name="selectedItem" value="${selectedItem}">
                                         <input type="hidden" name="displayID" value="${displayID}">
