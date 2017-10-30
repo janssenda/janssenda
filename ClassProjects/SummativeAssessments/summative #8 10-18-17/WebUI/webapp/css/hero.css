@@ -1,0 +1,11 @@
+
+
+
+.mynav:hover {color:green;}
+.pageTitle {font-family: "Lucida Console"}
+.divider-vertical, .divider-vertical:hover {color:black}
+#searchformdiv {text-align: center; width: 600px }
+
+#page {width: 80%; margin-right: auto; margin-left: auto; display: block; clear: both; text-align: center}
+
+#resultsdiv {width: 100%; margin-right: auto; margin-left: auto}

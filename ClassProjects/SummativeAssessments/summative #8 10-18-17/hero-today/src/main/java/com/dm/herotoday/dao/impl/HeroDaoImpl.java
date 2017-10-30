@@ -180,6 +180,9 @@ public class HeroDaoImpl implements HeroDao {
 
     @Override
     public boolean ifExists(Hero hero) {
-        return getFromHeroes(null, hero.getHeroName(), hero.getHeroType()).size() > 0;
+        String hID = Integer.toString(hero.getHeroID());
+        return (getFromHeroes(hID).size() > 0 ||
+                getFromHeroes(null, hero.getHeroName(), hero.getHeroType()).size() > 0);
     }
+
 }

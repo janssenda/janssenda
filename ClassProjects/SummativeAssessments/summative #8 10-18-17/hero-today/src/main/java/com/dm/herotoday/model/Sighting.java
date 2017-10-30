@@ -1,13 +1,27 @@
 package com.dm.herotoday.model;
 
+import com.fasterxml.jackson.core.JsonParser;
+import com.fasterxml.jackson.core.JsonProcessingException;
+import com.fasterxml.jackson.databind.DeserializationContext;
+import com.fasterxml.jackson.databind.annotation.JsonDeserialize;
+import com.fasterxml.jackson.databind.annotation.JsonSerialize;
+import com.fasterxml.jackson.databind.deser.std.StdDeserializer;
+import com.fasterxml.jackson.databind.ser.std.ToStringSerializer;
+
+import javax.inject.Inject;
+import java.io.IOException;
 import java.time.LocalDateTime;
 import java.util.List;
 
 public class Sighting {
 
+
     private int sightingID;
     private int LocID;
     private List<Hero> sightingHeroes;
+
+    @JsonSerialize(using = ToStringSerializer.class)
+    @JsonDeserialize(using = ParseDeserializer.class)
     private LocalDateTime sightingTime;
 
     public List<Hero> getSightingHeroes() {
@@ -68,4 +82,6 @@ public class Sighting {
         //result = 31 * result + (sightingTime != null ? sightingTime.hashCode() : 0);
         return result;
     }
+
+
 }
