@@ -22,6 +22,7 @@
             <p>
                 >>>  ${userInput}
             </p>
+            <p>Hello from Seth</p>
         </div>
         <!-- Placed at the end of the document so the pages load faster -->
         <script src="${pageContext.request.contextPath}/js/jquery-3.2.1.min.js"></script>

@@ -1,7 +1,12 @@
 
 
+a, a:visited {color: black}
+a:hover, a.active {color:green; text-decoration: none}
+.navsep {width: 20px; margin: 0px;}
 
-.mynav:hover {color:green;}
+.mainnavbar{text-align: left; border:1px solid black; padding:5px; background-color: #c1e2b3}
+.shnav{padding-left: 10px; padding-right: 10px;}
+
 .pageTitle {font-family: "Lucida Console"}
 .divider-vertical, .divider-vertical:hover {color:black}
 #searchformdiv {text-align: center; width: 600px }
@@ -9,3 +14,5 @@
 #page {width: 80%; margin-right: auto; margin-left: auto; display: block; clear: both; text-align: center}
 
 #resultsdiv {width: 100%; margin-right: auto; margin-left: auto}
+
+a {display: inline; margin-left: auto; margin-right: auto}

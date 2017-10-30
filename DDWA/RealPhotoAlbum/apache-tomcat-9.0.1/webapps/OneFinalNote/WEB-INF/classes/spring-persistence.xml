@@ -24,7 +24,7 @@
           class="org.apache.commons.dbcp2.BasicDataSource">
         <property name="driverClassName" value="com.mysql.cj.jdbc.Driver"/>
         <property name="url"
-                  value="jdbc:mysql://localhost:3306/DATABASE-NAME-HERE" />
+                  value="jdbc:mysql://localhost:3306/ofnblog?serverTimezone=UTC" />
         <property name="username" value="root" />
         <property name="password" value="root" />
         <property name="initialSize" value="5" />
@@ -42,10 +42,21 @@
     </bean>
 
     <!--Example implementation:-->
-    <!--<bean id="contactListDao"-->
-          <!--class="com.dm.contactlist.dao.ContactListDaoDbImpl">-->
-        <!--<property name="jdbcTemplate" ref="jdbcTemplate" />-->
-    <!--</bean>-->
 
-
+    <bean id="UserDao"
+        class="com.ofn.dao.impl.UserDaoDbImpl">
+        <property name="jdbcTemplate" ref="jdbcTemplate"/>
+    </bean>
+    <bean id="CategoryDao"
+          class="com.ofn.dao.impl.CategoryDaoDbImpl">
+        <property name="jdbcTemplate" ref="jdbcTemplate"/>
+    </bean>
+    <bean id="PageDao"
+          class="com.ofn.dao.impl.PageDaoDbImpl">
+        <property name="jdbcTemplate" ref="jdbcTemplate"/>
+    </bean>
+    <bean id="BlogPostDao"
+          class="com.ofn.dao.impl.BlogPostDaoDbImpl">
+        <property name="jdbcTemplate" ref="jdbcTemplate"/>
+    </bean>
 </beans>
