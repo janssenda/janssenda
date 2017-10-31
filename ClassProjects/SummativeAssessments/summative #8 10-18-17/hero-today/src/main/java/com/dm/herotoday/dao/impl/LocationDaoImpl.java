@@ -51,7 +51,7 @@ public class LocationDaoImpl implements LocationDao {
                     "AND (@Zipcode IS NULL OR Zipcode = @Zipcode) " +
                     "AND (@Latitude IS NULL OR Latitude = @Latitude) " +
                     "AND (@Longitude IS NULL OR Longitude = @Longitude) " +
-                    "AND (@Description IS NULL OR Description = @Description) ";
+                    "AND (@Description IS NULL OR Description = @Description)";
 
     private static final String UPDATE_LOC_QUERY =
             "UPDATE locations SET " +

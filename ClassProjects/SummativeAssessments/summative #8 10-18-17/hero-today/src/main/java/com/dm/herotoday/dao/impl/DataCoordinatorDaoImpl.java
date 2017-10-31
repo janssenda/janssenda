@@ -423,7 +423,7 @@ public class DataCoordinatorDaoImpl implements DataCoordinatorDao {
                 allArgs[4], allArgs[5], allArgs[6], allArgs[7], allArgs[8], allArgs[9]);
 
         locList.forEach((l) -> {
-            l.setLocSightings(getFromSightings(null, null, Integer.toString(l.getLocID())));
+            l.setLocSightings(sightingDao.getFromSightings(null, null, Integer.toString(l.getLocID())));
         });
 
         return locList;
@@ -493,7 +493,7 @@ public class DataCoordinatorDaoImpl implements DataCoordinatorDao {
     private void setSightingHeroes(Sighting s) {
         List<Hero> objList = new ArrayList<>();
         resLoop(jdbcTemplate.queryForList(SIGHT_HERO_MAP, s.getSightingID())).forEach((h) -> {
-            objList.add(getFromHeroes(h).get(0));
+            objList.add(heroDao.getFromHeroes(h).get(0));
         });
         s.setSightingHeroes(objList);
     }

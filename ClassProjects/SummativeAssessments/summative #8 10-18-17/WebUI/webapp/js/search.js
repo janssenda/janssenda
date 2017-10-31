@@ -1,3 +1,9 @@
+$(document).ready(function () {
+
+    searchHandler();
+
+});
+
 function searchHandler() {
     var heroOptions = {
         "Name": "name",
@@ -89,22 +95,22 @@ function printResults(results, category) {
         case "heroes": heroResultsTable(results); break;
         case "orgs": orgsResultsTable(results); break;
         case "headquarters": headQResultsTable(results); break;
-        case "powers": break;
-        case "locations": break;
-        case "sightings": break;
+        case "powers": powerResultsTable(results); break;
+        case "locations": locationResultsTable(results); break;
+        case "sightings": sighingResultsTable(results); break;
     }
 }
 
 
 function heroResultsTable(results) {
     var resultstable =
-        "<table id='resultstable' class='table-hover table-sm table-bordered' style='width: 100%'>" +
-        "<thead> <tr> <th>ID</th> <th>Name</th> <th>Type</th> " +
+        "<table id='resultstable'>" +
+        "<thead> <tr> <th class='header-th-id'>ID</th> <th>Name</th> <th>Type</th> " +
         "<th>Powers</th> <th>Organizations</th> <th>Description</th> " +
         "</tr> </thead> <tbody>";
 
     $.each(results, function (index, res) {
-        resultstable += "<tr><th scope='row'>" + res.heroID + "</th>" +
+        resultstable += "<tr><td class='id-col'>" + res.heroID + "</td>" +
           "<td>"+ res.heroName +"</td>" +
           "<td>"+ res.heroType +"</td>" +
           "<td>"+ res.heroPowers[0].powerName +"</td>" +
@@ -120,12 +126,12 @@ function heroResultsTable(results) {
 function orgsResultsTable(results) {
 
     var resultstable =
-        "<table id='resultstable' class='table-hover table-sm table-bordered' style='width: 100%'>" +
-        "<thead> <tr> <th>ID</th> <th>Name</th> <th>Description</th> " +
+        "<table id='resultstable'>" +
+        "<thead> <tr> <th class='header-th-id'>ID</th> <th>Name</th> <th>Description</th> " +
         "<th>Members</th> </tr> </thead> <tbody>";
 
     $.each(results, function (index, res) {
-        resultstable += "<tr><th scope='row'>" + res.orgID + "</th>" +
+        resultstable += "<tr><td class='id-col'>" + res.orgID + "</td>" +
             "<td>"+ res.orgName +"</td>" +
             "<td>"+ res.description +"</td>" +
             "<td>"+ res.members[0].heroName +"</td></tr>";
@@ -138,19 +144,16 @@ function orgsResultsTable(results) {
 function headQResultsTable(results) {
 
     var resultstable =
-        "<table id='resultstable' class='table-hover table-sm table-bordered' style='width: 100%'>" +
-        "<thead> <tr> <th>ID</th> <th>Name</th> <th>Address</th> " +
+        "<table id='resultstable'>" +
+        "<thead> <tr> <th class='header-th-id'>ID</th> <th>Name</th> <th>Address</th> " +
         "<th>Description</th><th>Organization</th><th>Contact</th> </tr> </thead> <tbody>";
 
 
     $.each(results, function (index, res) {
         var org = null;
-        try {
-            org = res.orgList[0].orgName
-        } catch (err){
-        }
+        try {org = res.orgList[0].orgName} catch (err){}
 
-        resultstable += "<tr><th scope='row'>" + res.headQID + "</th>" +
+        resultstable += "<tr><td class='id-col'>" + res.headQID + "</td>" +
             "<td>"+ res.headQName +"</td>" +
             "<td>"+ res.headQAdress +"</td>" +
             "<td>"+ res.description +"</td>" +
@@ -163,6 +166,75 @@ function headQResultsTable(results) {
 }
 
 
+function locationResultsTable(results) {
+
+    var resultstable =
+        "<table id='resultstable'>" +
+        "<thead> <tr> <th class='header-th-id'>ID</th> <th>Name</th> <th>Country</th> " +
+        "<th>City</th><th>State</th><th>Address</th><th>Zip</th>" +
+        "<th>Latitude</th><th>Longitude</th><th>Description</th> </tr> </thead> <tbody>";
+
+    $.each(results, function (index, res) {
+        resultstable += "<tr><td class='id-col'>" + res.locID + "</td>" +
+            "<td>"+ res.locName +"</td>" +
+            "<td>"+ res.country +"</td>" +
+            "<td>"+ res.city +"</td>" +
+            "<td>"+ res.state +"</td>" +
+            "<td>"+ res.address +"</td>" +
+            "<td>"+ res.zip +"</td>" +
+            "<td>"+ res.latitude +"</td>" +
+            "<td>"+ res.longitude +"</td>" +
+            "<td>"+ res.description +"</td>" +
+            "</td></tr>";
+    });
+
+    resultstable += "</tbody> </table> <hr/>";
+    $("#resultsdiv").html(resultstable);
+}
+
+function sighingResultsTable(results) {
+
+    var resultstable =
+        "<table id='resultstable'>" +
+        "<thead> <tr> <th class='header-th-id'>ID</th> <th>Location ID</th> " +
+        "<th>Date </th><th>Heroes </th> </tr> </thead> <tbody>";
+
+    $.each(results, function (index, res) {
+        var sdate = new Date(res.sightingTime);
+
+
+        resultstable += "<tr><td class='id-col'>" + res.sightingID + "</td>" +
+            "<td>"+ res.locID +"</td>" +
+            "<td>"+ sdate.toDateString +"</td><td>";
+
+            $.each(res.sightingHeroes,function(index, hero) {
+                resultstable += hero.heroName+", ";
+            });
+
+            resultstable += "</td></tr>";
+    });
+
+    resultstable += "</tbody> </table> <hr/>";
+    $("#resultsdiv").html(resultstable);
+}
+
+function powerResultsTable(results) {
+
+    var resultstable =
+        "<table id='resultstable'>" +
+        "<thead> <tr> <th class='header-th-id'>ID</th> <th>Name</th> " +
+        "<th>Description</th></tr> </thead> <tbody>";
+
+    $.each(results, function (index, res) {
+        resultstable += "<tr><td class='id-col'>" + res.powerID + "</td>" +
+            "<td>"+ res.powerName +"</td>" +
+            "<td>"+ res.description +"</td>"+
+            "</td></tr>";
+    });
+
+    resultstable += "</tbody> </table> <hr/>";
+    $("#resultsdiv").html(resultstable);
+}
 
 function updateSelections(newObjects) {
 
