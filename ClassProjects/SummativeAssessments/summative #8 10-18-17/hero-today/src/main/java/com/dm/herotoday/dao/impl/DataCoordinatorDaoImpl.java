@@ -430,6 +430,11 @@ public class DataCoordinatorDaoImpl implements DataCoordinatorDao {
     }
 
     @Override
+    public List<Location> getLocationList() {
+        return locDao.getFromLocations();
+    }
+
+    @Override
     @Transactional
     public List<Sighting> getFromSightings(String... args) {
         String[] allArgs = varArgs(args, 3);
@@ -449,17 +454,26 @@ public class DataCoordinatorDaoImpl implements DataCoordinatorDao {
             h.setContactList(contactDao.getFromContacts(Integer.toString(h.getHeadQID())));
             setHeadquartersOrg(h);
         });
-
-
         return headQList;
     }
 
     @Override
-    @Transactional
+    public List<Headquarters> getHeadquartersList() {
+        return headQDAO.getFromHeadquarters();
+    }
+
+
+    @Override
     public List<Power> getFromPowers(String... args) {
         String[] allArgs = varArgs(args, 3);
         return powerDao.getFromPowers(allArgs[0], allArgs[1], allArgs[2]);
     }
+
+    @Override
+    public List<Power> getPowerList() {
+        return powerDao.getFromPowers();
+    }
+
 
     @Override
     @Transactional
@@ -476,6 +490,12 @@ public class DataCoordinatorDaoImpl implements DataCoordinatorDao {
     }
 
     @Override
+    public List<Organization> getOrgList() {
+        return orgDao.getFromOrgs();
+    }
+
+
+    @Override
     @Transactional
     public List<Hero> getFromHeroes(String... args) {
         String[] allArgs = varArgs(args, 4);
@@ -488,6 +508,11 @@ public class DataCoordinatorDaoImpl implements DataCoordinatorDao {
         });
 
         return heroList;
+    }
+
+    @Override
+    public List<Hero> getHeroList() {
+        return heroDao.getFromHeroes();
     }
 
     private void setSightingHeroes(Sighting s) {

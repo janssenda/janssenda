@@ -1,15 +1,9 @@
 package com.dm.herotoday.model;
 
-import com.fasterxml.jackson.core.JsonParser;
-import com.fasterxml.jackson.core.JsonProcessingException;
-import com.fasterxml.jackson.databind.DeserializationContext;
 import com.fasterxml.jackson.databind.annotation.JsonDeserialize;
 import com.fasterxml.jackson.databind.annotation.JsonSerialize;
-import com.fasterxml.jackson.databind.deser.std.StdDeserializer;
 import com.fasterxml.jackson.databind.ser.std.ToStringSerializer;
 
-import javax.inject.Inject;
-import java.io.IOException;
 import java.time.LocalDateTime;
 import java.util.List;
 
@@ -17,7 +11,7 @@ public class Sighting {
 
 
     private int sightingID;
-    private int LocID;
+    private int locID;
     private List<Hero> sightingHeroes;
 
     @JsonSerialize(using = ToStringSerializer.class)
@@ -41,11 +35,11 @@ public class Sighting {
     }
 
     public int getLocID() {
-        return LocID;
+        return locID;
     }
 
     public void setLocID(int locID) {
-        LocID = locID;
+        this.locID = locID;
     }
 
     public LocalDateTime getSightingTime() {
@@ -67,7 +61,7 @@ public class Sighting {
         Sighting sighting = (Sighting) o;
 
         if (sightingID != sighting.sightingID) return false;
-        if (LocID != sighting.LocID) return false;
+        if (locID != sighting.locID) return false;
         if (sightingHeroes != null ? !sightingHeroes.equals(sighting.sightingHeroes) : sighting.sightingHeroes != null)
             return false;
         //return sightingTime != null ? sightingTime.equals(sighting.sightingTime) : sighting.sightingTime == null;
@@ -77,7 +71,7 @@ public class Sighting {
     @Override
     public int hashCode() {
         int result = sightingID;
-        result = 31 * result + LocID;
+        result = 31 * result + locID;
         result = 31 * result + (sightingHeroes != null ? sightingHeroes.hashCode() : 0);
         //result = 31 * result + (sightingTime != null ? sightingTime.hashCode() : 0);
         return result;

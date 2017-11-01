@@ -6,6 +6,7 @@
 
     <link href="css/bootstrap.css" rel="stylesheet">
     <link href="css/hero.css" rel="stylesheet">
+    <link href="css/forms.css" rel="stylesheet">
 </head>
 <body>
 <div id="page" class="container text-center">
@@ -17,21 +18,95 @@
                     <img src="images/lantern_cms_icon.ico" style="width: 35px; margin: 0px;"/>
                 </a>
                 <a href="index.html" class="shnav">Home</a>
-                <img src="images/lightning.png" class="navsep" />
+                <img src="images/lightning.png" class="navsep"/>
                 <a href="search.html" class="shnav">Search</a>
-                <img src="images/lightning.png" class="navsep" />
+                <img src="images/lightning.png" class="navsep"/>
                 <a href="manage.html" class="shnav current-tab">Add Data</a>
-                <img src="images/lightning.png" class="navsep" />
+                <img src="images/lightning.png" class="navsep"/>
                 <a href="report.html" class="shnav">Report a Sighting</a>
             </div>
             <br/>
         </div>
     </div>
+    <hr/>
     <div class="row">
-        <div class="col-lg-12 text-center">
-            <h2 class="pageTitle"> Add Data </h2>
+        <div class="col-md-4 text-left">
+            <span class="form-label">Category: &nbsp</span>
+            <select id="category" class="forminput">
+                <option value="heroes" selected>Hero</option>
+                <option value="orgs">Organization</option>
+                <option value="locations">Location</option>
+                <option value="sightings">Sighting</option>
+                <option value="powers">Superpower</option>
+                <option value="headquarters">Headquarters</option>
+            </select>
         </div>
     </div>
+    <hr/>
+    <div class="row text-left" id="hero-form">
+        <div class="col-sm-3">
+            <span class="form-label">Hero Name: </span><br/>
+            <input class="form-field" type="text" id="heroName"/><br/>
+            <span class="form-label">Hero Type: </span><br/>
+            <input class="form-field" type="text" id="heroType" value="Default"><br/>
+            <span class="form-label">Description: </span><br/>
+            <textarea class="form-field" type="text" id="heroDescription"></textarea><br/>
+        </div>
+        <div class="col-md-2 border-right">
+            <span class="form-label">Powers: &nbsp </span><br/>
+            <select id="heroPowers" class="form-field">
+                <option value="choose" selected>Choose...</option>
+                <option value="orgs">Organization</option>
+            </select><br/>
+            <span class="form-label">Organizations: &nbsp </span><br/>
+            <select id="heroOrgs" class="form-field">
+                <option value="choose" selected>Choose...</option>
+                <option value="orgs">Organization</option>
+            </select>
+        </div>
+        <div class="col-md-2 border-right">
+            <span class="form-label">Selected Powers: </span>
+        </div>
+        <div class="col-auto border-right">
+            <span class="form-label">Selected Organizations: </span>
+        </div>
+
+
+    </div>
+
+
+    <hr/>
+    <div class="row">
+        <div class="col-lg-12 text-center" id="resultsdiv">
+
+            <form id="org-form" style="display: none"> Add org form</form>
+            <form id="location-form" style="display: none"> Add location form</form>
+            <form id="headquarters-form" style="display: none"> Add headquarters form</form>
+            <form id="power-form" style="display: none"> Add power form</form>
+            <form id="sighting-form" style="display: none"> Add sighting form</form>
+
+        </div>
+    </div>
+
+
+    <!--<form>                -->
+    <!--<span class="spacer">&nbsp;</span>-->
+    <!--<input type="text" class="forminput" id="searchterms" ><br/>-->
+    <!---->
+    <!--<select id="category" class="forminput">-->
+    <!--<option value="heroes" selected>Heroes</option>-->
+    <!--<option value="orgs">Organizations</option>-->
+    <!--<option value="locations">Locations</option>-->
+    <!--<option value="sightings">Sightings</option>-->
+    <!--<option value="powers">Superpowers</option>-->
+    <!--<option value="headquarters">Headquarters</option>-->
+    <!--</select>-->
+    <!--<span class="spacer-sm">&nbsp;</span>by<span class="spacer-sm">&nbsp;</span>-->
+    <!--<select id="subcategory" class="forminput"></select>-->
+    <!--<span class="spacer">&nbsp;</span>-->
+    <!--<button type="button" id="searchbutton">Search</button>-->
+    <!--</form>-->
+
 
 </div>
 
@@ -39,5 +114,6 @@
 <script src="js/jquery-3.2.1.min.js"></script>
 <script src="js/popper.js"></script>
 <script src="js/bootstrap.min.js"></script>
-<script src="js/home.js"></script>
+<script src="js/moment.min.js"></script>
+<script src="js/manage.js"></script>
 </html>

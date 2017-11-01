@@ -20,6 +20,11 @@ public interface DataCoordinatorDao {
     public List<Power> getFromPowers(String... args);
     public List<Contact> getFromContacts(String... args);
 
+    public List<Hero> getHeroList();
+    public List<Organization> getOrgList();
+    public List<Power> getPowerList();
+    public List<Headquarters> getHeadquartersList();
+    public List<Location> getLocationList();
 
     ////////////////////
     //  Pass-through  //

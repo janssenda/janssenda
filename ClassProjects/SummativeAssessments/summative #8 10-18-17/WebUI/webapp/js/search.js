@@ -62,21 +62,34 @@ function searchHandler() {
         }
     });
 
+    $("#subcategory").change(function () {
+
+        if ( $("#subcategory").val() === "date"){
+            $("#searchterms").hide();
+            $("#searchdate").show();
+        } else {
+            $("#searchterms").show();
+            $("#searchdate").hide();
+        }
+
+    });
+
     $("#searchbutton").click(function () {
         queryforresults()
     });
-
-
 }
 
 function queryforresults() {
+    var terms;
     var category = $("#category").val();
     var method = $("#subcategory").val();
-    var terms = $("#searchterms").val();
+    if (method === "date"){
+        terms = $("#searchdate").val();
+    } else {
+        terms = $("#searchterms").val();
+    }
 
     var call = "http://localhost:8080/" + category + "?" + method + "=" + terms;
-
-console.log(call);
     $.ajax({
         type: "GET",
         url: call,
@@ -200,12 +213,15 @@ function sighingResultsTable(results) {
         "<th>Date </th><th>Heroes </th> </tr> </thead> <tbody>";
 
     $.each(results, function (index, res) {
-        var sdate = new Date(res.sightingTime);
 
+        //var d = new Date(res.sightingTime);
+        var d = moment(res.sightingTime);
 
         resultstable += "<tr><td class='id-col'>" + res.sightingID + "</td>" +
             "<td>"+ res.locID +"</td>" +
-            "<td>"+ sdate.toDateString +"</td><td>";
+            "<td>"+ d.format("MMM Do YY, h:mm a") +"</td><td>";
+
+
 
             $.each(res.sightingHeroes,function(index, hero) {
                 resultstable += hero.heroName+", ";

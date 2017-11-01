@@ -6,6 +6,7 @@
 
     <link href="css/bootstrap.css" rel="stylesheet">
     <link href="css/hero.css" rel="stylesheet">
+    <link href="css/forms.css" rel="stylesheet">
 </head>
 <body>
 
@@ -38,10 +39,10 @@
     <div class="row"><span class=""></span>
         <div class="col-lg-12 text-center">
             <form>
-                <input type="text" class="forminput" id="searchterms" placeholder="Search for..">
-
+                <input type="text" id="searchterms" placeholder="Search for..">
+                <input type="date" id="searchdate" style="display: none">
                 <span class="spacer">&nbsp;</span>
-                <select id="category" class="forminput">
+                <select id="category" >
                     <option value="heroes" selected>Heroes</option>
                     <option value="orgs">Organizations</option>
                     <option value="locations">Locations</option>
@@ -50,7 +51,7 @@
                     <option value="headquarters">Headquarters</option>
                 </select>
                 <span class="spacer-sm">&nbsp;</span>by<span class="spacer-sm">&nbsp;</span>
-                <select id="subcategory" class="forminput"></select>
+                <select id="subcategory" ></select>
                 <span class="spacer">&nbsp;</span>
                 <button type="button" id="searchbutton">Search</button>
             </form>
@@ -71,6 +72,7 @@
 <script src="js/jquery-3.2.1.min.js"></script>
 <script src="js/popper.js"></script>
 <script src="js/bootstrap.min.js"></script>
+<script src="js/moment.min.js"></script>
 <script src="js/home.js"></script>
 <script src="js/search.js"></script>
 </html>

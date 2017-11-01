@@ -19,10 +19,21 @@ public class SearchController {
         this.dao = dao;
     }
 
+
+
+
+
+
     @ResponseBody
     @RequestMapping(value = {"/heroes","/heroes/"}, method = RequestMethod.GET)
     public List<Hero> getHero(HttpServletRequest req) {
-        String id = null, name = null, type = null, desc = null, locID = null;
+        String id = null, name = null, type = null, desc = null,
+                locID = null;
+
+        try {
+            String load = req.getParameter("load");
+            if (load.equals("false")) return dao.getHeroList();
+        } catch (NullPointerException e) {}
 
         try {
             locID = req.getParameter("locID");
@@ -62,6 +73,11 @@ public class SearchController {
         String id = null, name = null, desc = null;
 
         try {
+            String load = req.getParameter("load");
+            if (load.equals("false")) return dao.getPowerList();
+        } catch (NullPointerException e) {}
+
+        try {
             id = req.getParameter("id");
             if (id.equals("null")) id = null;
         } catch (NullPointerException e) {}
@@ -83,6 +99,11 @@ public class SearchController {
     @RequestMapping(value = {"/orgs","/orgs/"}, method = RequestMethod.GET)
     public List<Organization> getOrgs(HttpServletRequest req) {
         String id = null, name = null, desc = null;
+
+        try {
+            String load = req.getParameter("load");
+            if (load.equals("false")) return dao.getOrgList();
+        } catch (NullPointerException e) {}
 
         try {
             id = req.getParameter("id");
@@ -109,6 +130,11 @@ public class SearchController {
         String id = null, name = null, desc = null;
 
         try {
+            String load = req.getParameter("load");
+            if (load.equals("false")) return dao.getHeadquartersList();
+        } catch (NullPointerException e) {}
+
+        try {
             id = req.getParameter("id");
             if (id.equals("null")) id = null;
         } catch (NullPointerException e) {}
@@ -132,6 +158,11 @@ public class SearchController {
     public List<Location> getLocs(HttpServletRequest req) {
         String id = null, name = null, country = null, city = null,
         state = null, zip = null, heroID = null;
+
+        try {
+            String load = req.getParameter("load");
+            if (load.equals("false")) return dao.getLocationList();
+        } catch (NullPointerException e) {}
 
         try {
             heroID = req.getParameter("heroID");
