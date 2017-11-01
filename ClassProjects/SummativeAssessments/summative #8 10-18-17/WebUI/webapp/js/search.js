@@ -116,6 +116,8 @@ function printResults(results, category) {
 
 
 function heroResultsTable(results) {
+
+
     var resultstable =
         "<table id='resultstable'>" +
         "<thead> <tr> <th class='header-th-id'>ID</th> <th>Name</th> <th>Type</th> " +
@@ -123,11 +125,16 @@ function heroResultsTable(results) {
         "</tr> </thead> <tbody>";
 
     $.each(results, function (index, res) {
+        var powers = null;
+        var orgs = null;
+        try {powers = res.heroPowers[0].powerName} catch (err){}
+        try {orgs = res.heroOrgs[0].orgName} catch (err){}
+
         resultstable += "<tr><td class='id-col'>" + res.heroID + "</td>" +
           "<td>"+ res.heroName +"</td>" +
           "<td>"+ res.heroType +"</td>" +
-          "<td>"+ res.heroPowers[0].powerName +"</td>" +
-          "<td>"+ res.heroOrgs[0].orgName +"</td>" +
+          "<td>"+ powers +"</td>" +
+          "<td>"+ orgs +"</td>" +
           "<td>"+ res.description +"</td></tr>";
     });
 
@@ -165,6 +172,7 @@ function headQResultsTable(results) {
     $.each(results, function (index, res) {
         var org = null;
         try {org = res.orgList[0].orgName} catch (err){}
+
 
         resultstable += "<tr><td class='id-col'>" + res.headQID + "</td>" +
             "<td>"+ res.headQName +"</td>" +

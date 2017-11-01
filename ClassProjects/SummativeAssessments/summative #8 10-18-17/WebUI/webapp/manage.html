@@ -43,7 +43,7 @@
         </div>
     </div>
     <hr/>
-    <div class="row text-left" id="hero-form">
+    <div class="row text-left" style="display: none" id="heroes-form">
         <div class="col-sm-3">
             <span class="form-label">Hero Name: </span><br/>
             <input class="form-field" type="text" id="heroName"/><br/>
@@ -51,27 +51,25 @@
             <input class="form-field" type="text" id="heroType" value="Default"><br/>
             <span class="form-label">Description: </span><br/>
             <textarea class="form-field" type="text" id="heroDescription"></textarea><br/>
+            <button id="hero-submit">Submit</button>
+            <button id="hero-remove">Remove</button>
         </div>
-        <div class="col-md-2 border-right">
+        <div class="col-md-3 border-right">
             <span class="form-label">Powers: &nbsp </span><br/>
-            <select id="heroPowers" class="form-field">
-                <option value="choose" selected>Choose...</option>
-                <option value="orgs">Organization</option>
+            <select id="powers" name="spower" class="form-field">
             </select><br/>
             <span class="form-label">Organizations: &nbsp </span><br/>
-            <select id="heroOrgs" class="form-field">
-                <option value="choose" selected>Choose...</option>
-                <option value="orgs">Organization</option>
+            <select id="orgs" class="form-field">
             </select>
         </div>
-        <div class="col-md-2 border-right">
-            <span class="form-label">Selected Powers: </span>
+        <div class="col-md-3 border-right" id='powerlist-div'>
+            <span class="form-label">Selected Powers: </span><br/>
+            <div id="powerlist"></div>
         </div>
-        <div class="col-auto border-right">
-            <span class="form-label">Selected Organizations: </span>
+        <div class="col-md-3 border-right" id='orglist-div'>
+            <span class="form-label">Selected Organizations: </span><br/>
+            <div id="orglist"></div>
         </div>
-
-
     </div>
 
 
@@ -79,33 +77,16 @@
     <div class="row">
         <div class="col-lg-12 text-center" id="resultsdiv">
 
-            <form id="org-form" style="display: none"> Add org form</form>
-            <form id="location-form" style="display: none"> Add location form</form>
+            <form id="orgs-form" style="display: none"> Add org form</form>
+            <form id="locations-form" style="display: none"> Add location form</form>
             <form id="headquarters-form" style="display: none"> Add headquarters form</form>
-            <form id="power-form" style="display: none"> Add power form</form>
-            <form id="sighting-form" style="display: none"> Add sighting form</form>
+            <form id="powers-form" style="display: none"> Add power form</form>
+            <form id="sightings-form" style="display: none"> Add sighting form</form>
 
         </div>
     </div>
 
 
-    <!--<form>                -->
-    <!--<span class="spacer">&nbsp;</span>-->
-    <!--<input type="text" class="forminput" id="searchterms" ><br/>-->
-    <!---->
-    <!--<select id="category" class="forminput">-->
-    <!--<option value="heroes" selected>Heroes</option>-->
-    <!--<option value="orgs">Organizations</option>-->
-    <!--<option value="locations">Locations</option>-->
-    <!--<option value="sightings">Sightings</option>-->
-    <!--<option value="powers">Superpowers</option>-->
-    <!--<option value="headquarters">Headquarters</option>-->
-    <!--</select>-->
-    <!--<span class="spacer-sm">&nbsp;</span>by<span class="spacer-sm">&nbsp;</span>-->
-    <!--<select id="subcategory" class="forminput"></select>-->
-    <!--<span class="spacer">&nbsp;</span>-->
-    <!--<button type="button" id="searchbutton">Search</button>-->
-    <!--</form>-->
 
 
 </div>
@@ -113,7 +94,9 @@
 </body>
 <script src="js/jquery-3.2.1.min.js"></script>
 <script src="js/popper.js"></script>
+<script src="js/tether.min.js"></script>
 <script src="js/bootstrap.min.js"></script>
 <script src="js/moment.min.js"></script>
+<script src="js/editformdata.js"></script>
 <script src="js/manage.js"></script>
 </html>
