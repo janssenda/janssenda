@@ -1,5 +1,5 @@
 function manageformlistener(orgIdList, powerIdList, heroIdList, headqIdList,
-                            hqOrgIdList, contactList) {
+                            hqOrgIdList, sightingHeroIdList, contactIdList) {
     loadfielddata();
 
     $("#powers").change(function () {changelist($("#powerlist"), powerIdList, "powers")});
@@ -22,9 +22,46 @@ function manageformlistener(orgIdList, powerIdList, heroIdList, headqIdList,
     $("#hqorglist-div").on("click", "button[name='del']", function () {
         listbutton(hqOrgIdList, "hq-orgs", $(this).val(), $(this).attr('id')); });
 
+    $("#sighting-herolist").change(function () {changelist($("#sightingherolist"), sightingHeroIdList, "sighting-herolist")});
+    $("#sighting-herolist-div").on("click", "button[name='del']", function () {
+        listbutton(sightingHeroIdList, "sighting-herolist", $(this).val(), $(this).attr('id')); });
+
+    $("#emailbutton").click(function () {
+        var field = $("#hqemail").val();
+
+        for (var i = 0; i < contactIdList.length; i++){
+            if (contactIdList[i] === field){
+                return;
+            }
+        }
+
+        contactIdList.push(field);
+        $("#contactlist").append("<div id='e" + contactIdList.length + "'>" + field +
+            "&nbsp &nbsp <button  " +
+            "value='e" + contactIdList.length + "' name='del-email' class='btn-circle'>x</button></div>");
 
 
 
+    });
+
+    $("#contactlist-div").on("click", "button[name='del-email']", function () {
+        var contactEmailId = $(this).val();
+        var newList = [];
+        var idlist = [];
+
+        for (var i = 0; i < contactIdList.length; i++){
+            var email = $.trim($("#"+contactEmailId).text().split(" ")[0]);
+
+            if ($.trim(contactIdList[i]) !== email){
+                newList.push(contactIdList[i]);
+                idlist.push(i);
+            }
+        }
+
+        contactIdList = newList;
+        $("#"+contactEmailId).remove();
+
+    });
 
 
 
@@ -58,8 +95,96 @@ function manageformlistener(orgIdList, powerIdList, heroIdList, headqIdList,
 
 
 
+    $("#org-submit").click(function () {
+        var mlist = [];
+        $.each(heroIdList, function (k, v) {
+            var h = {"heroID": k, "heroName": v};
+            mlist.push(h);
+        });
+
+        var hqlist = [];
+        $.each(headqIdList, function (k, v) {
+            var hq = {"headQID": k, "headQName": v};
+            hqlist.push(hq);
+        });
+
+        var org = {"orgName" : $("#orgName").val()};
+        org["orgID"] = $("#orgId").val();
+        org["description"] = $("#orgDescription").val();
+        org["members"] = mlist;
+        org["orgHeadQ"] = hqlist;
+        postData("orgs",org);
+    });
+
+    $("#org-remove").click(function () {
+        deleteData("orgs?id="+$("#orgId").val());
+    });
 
 
+
+
+
+    $("#power-submit").click(function () {
+        var power = {"powerName" : $("#powerName").val()};
+        power["powerID"] = $("#powerId").val();
+        power["description"] = $("#powerDescription").val();
+        postData("powers",power);
+    });
+
+    $("#power-remove").click(function () {
+        deleteData("powers?id="+$("#powerId").val());
+    });
+
+
+
+
+    $("#headquarters-submit").click(function () {
+        var clist = [];
+        $.each(contactIdList, function (k, v) {
+            var c = {"headQID": $("#headqId").val(), "email": v};
+            clist.push(c);
+        });
+
+        var olist = [];
+        $.each(hqOrgIdList, function (k, v) {
+            var o = {"orgID": k, "orgName": v};
+            olist.push(o);
+        });
+
+        var headquarters = {"headQName" : $("#headqName").val()};
+        headquarters["headQID"] = $("#headqId").val();
+        headquarters["description"] = $("#hqDescription").val();
+        headquarters["contactList"] = clist;
+        headquarters["orgList"] = olist;
+        postData("headquarters",headquarters);
+    });
+
+    $("#headquarters-remove").click(function () {
+        deleteData("headquarters?id="+$("#headqId").val());
+    });
+
+
+    $("#sighting-submit").click(function () {
+        var hlist = [];
+        $.each(sightingHeroIdList, function (k, v) {
+            var h = {"heroID": k, "heroName": v};
+            hlist.push(h);
+        });
+
+        var d = moment($("#sightingdate").val());
+
+        var sighting = {"sightingID" : $("#sightingId").val()};
+        sighting["sightingTime"] = d.format("YYYY-MM-DD hh:mm:ss");
+        sighting["locID"] = $("#locations").val();
+        sighting["sightingHeroes"] = hlist;
+        postData("sightings",sighting);
+
+
+    });
+
+    $("#sighting-remove").click(function () {
+        deleteData("sightings?id="+$("#sightingId").val());
+    });
 
 
 

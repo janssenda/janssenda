@@ -127,7 +127,7 @@
             <span class="form-label">Zip: </span><br/>
             <input class="form-field" type="number" id="zip"/><br/>
         </div>
-        <div class="col-md-2 border-right">
+        <div class="col-md-3 border-right">
             <span class="form-label">Latitude: </span><br/>
             <input class="form-field" type="number" id="latitude"/><br/>
             <span class="form-label">Longititude: </span><br/>
@@ -186,21 +186,20 @@
         </div>
     </div>
     <div class="row text-left" style="display: none" id="sightings-form">
-        <div class="col-sm-2">
+        <div class="col-sm-7 border-right">
             <span class="form-label">Date: </span><br/>
-            <input class="form-field" type="date" id="sighting-date"/><br/>
+            <input class="form-field" type="date" id="sightingdate"/><br/>
             <span id="sightingId"></span>
-            <span class="form-label">Location: &nbsp </span><br/>
-            <select id="locations" class="form-field">
-            </select><br/>
-            <button id="sighting-submit">Submit</button>
-            <button id="sighting-remove" class="removebutton" style="display: none">Remove</button>
-        </div>
-        <div class="col-md-2 border-right">
             <span class="form-label">Heroes: &nbsp </span><br/>
             <select id="sighting-herolist" class="form-field">
             </select><br/>
+            <span class="form-label">Location: &nbsp </span><br/>
+            <select id="locations" class="form-field">
+            </select><br/>
+                        <button id="sighting-submit">Submit</button>
+            <button id="sighting-remove" class="removebutton" style="display: none">Remove</button>
         </div>
+
         <div class="col-md-3" id='sighting-herolist-div'>
             <span class="form-label">Current Heroes: </span><br/>
             <div id="sightingherolist"></div>

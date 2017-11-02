@@ -2,13 +2,12 @@
 
 
 $(document).ready(function () {
-
     var stringcat = getParameterByName("cat");
     var stringid = getParameterByName("id");
 
     if (stringcat === null){
         formdisplaymanager("heroes");
-        manageformlistener({},{},{},{},{},{});
+        manageformlistener({},{},{},{},{},{},[]);
     } else {
         formdisplaymanager(stringcat);
         loadEditForm(stringcat, stringid);
@@ -47,11 +46,11 @@ function loadEditForm(cat, id){
         success: function (data) {
             switch (cat){
                 case "heroes": loadHeroData(data); break;
-                case "orgs": break;
-                case "powers": break;
+                case "orgs": loadOrgData(data); break;
+                case "powers": loadPowerData(data); break;
                 case "locations": break;
-                case "headquarters": break;
-                case "sightings": break;
+                case "headquarters": loadHeadquartersData(data); break;
+                case "sightings": loadSightingData(data); break;
             }
         },
         error: function () {alert("fail")}
@@ -65,8 +64,8 @@ function clearForm(){
         case "orgs": clearOrgsForm(); break;
         case "headquarters": clearHeadquartersForm(); break;
         case "powers": clearPowersForm(); break;
-        case "locations": break;
-        case "sightings":  break;
+        case "sightings": clearSightingsForm(); break;
+        case "locations":  clearLocationsForm(); break;
     }
 }
 
@@ -107,6 +106,29 @@ function clearPowersForm(){
     $("#powerDescription").val("");
     $("#powerherolist").empty();
 }
+
+function clearSightingsForm(){
+    $("#sightingId").val("");
+    $("#sightingdate").val("");
+    $("#sightingherolist").empty();
+    loadlist("heroes","heroName","heroID", "#sighting-herolist");
+    loadlist("locations","address","locID","#locations");
+}
+
+function clearLocationsForm(){
+    $("#locId").val("");
+    $("#locName").val("");
+    $("#address").val("");
+    $("#locDescription").val("");
+    $("#country").val("");
+    $("#city").val("");
+    $("#state").val("");
+    $("#zip").val("");
+    $("#latitude").val("");
+    $("#longitude").val("");
+    $("#sightinglist").empty();
+}
+
 
 function formdisplaymanager(editcat) {
     var category = $("#category");

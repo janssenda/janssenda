@@ -23,11 +23,97 @@ function loadHeroData(data) {
         $("#orglist").append("<div id=" + "orgs" + o.orgID + ">" + o.orgName +
             "&nbsp &nbsp <button id='" + o.orgName + "' " +
             "value='" + o.orgID + "' name='del' class='btn-circle'>x</button></div>");
+
+    });
+
+    manageformlistener(orgIdList, powerIdList, {}, {}, {}, {}, []);
+}
+
+function loadOrgData(data) {
+    var org = data[0];
+    var headqIdList = {};
+    var heroIdList = {};
+
+    $("#orgName").val(org.orgName);
+    $("#orgDescription").val(org.description);
+    $("#orgId").val(org.orgID);
+
+    $.each(org.members, function (index, m) {
+        heroIdList[m.heroID] = m.heroName;
+        $("#herolist").append("<div id=" + "heroes" + m.heroID + ">" + m.heroName +
+            "&nbsp &nbsp <button id='" + m.heroName + "' " +
+            "value='" + m.heroID + "' name='del' class='btn-circle'>x</button></div>");
+    });
+
+    $.each(org.orgHeadQ, function (index, hq) {
+        headqIdList[hq.headQID] = hq.headQName;
+        $("#headqlist").append("<div id=" + "headquarters" + hq.headQID + ">" + hq.headQName +
+            "&nbsp &nbsp <button id='" + hq.headQName + "' " +
+            "value='" + hq.headQID + "' name='del' class='btn-circle'>x</button></div>");
+    });
+
+    manageformlistener({}, {}, heroIdList, headqIdList, {}, {}, []);
+}
+
+function loadHeadquartersData(data) {
+    var headq = data[0];
+    var hqOrgIdList = {};
+    var contactIdList = [];
+
+    $("#headqName").val(headq.headQName);
+    $("#hqAddress").val(headq.headQAdress);
+    $("#hqDescription").val(headq.description);
+    $("#headqId").val(headq.headQID);
+
+    $.each(headq.orgList, function (index, o) {
+        hqOrgIdList[o.orgID] = o.orgName;
+        $("#hqorglist").append("<div id=" + "hq-orgs" + o.orgID + ">" + o.orgName +
+            "&nbsp &nbsp <button id='" + o.orgName + "' " +
+            "value='" + o.orgID + "' name='del' class='btn-circle'>x</button></div>");
+    });
+
+    $.each(headq.contactList, function (index, c) {
+        contactIdList.push(c.email);
+        $("#contactlist").append("<div id='e" + index + "'>" + c.email +
+            "&nbsp &nbsp <button  " +
+            "value='e" + index + "' name='del-email' class='btn-circle'>x</button></div>");
+    });
+
+    manageformlistener({}, {}, {}, {}, hqOrgIdList, {}, contactIdList);
+}
+
+function loadPowerData(data) {
+    var power = data[0];
+
+    $("#powerName").val(power.powerName);
+    $("#powerDescription").val(power.description);
+    $("#powerId").val(power.powerID);
+
+    manageformlistener({}, {}, {}, {}, {}, {}, []);
+}
+
+function loadSightingData(data) {
+    var sighting = data[0];
+    var sightingHeroIdList = {};
+
+    var d = moment(sighting.sightingTime);
+
+    $("#locations").val(sighting.locID);
+    $("#sightingdate").val(d.format("YYYY-MM-DD"));
+    $("#sightingId").val(sighting.sightingID);
+
+    $.each(sighting.sightingHeroes, function (index, h) {
+        sightingHeroIdList[h.heroID] = h.heroName;
+        $("#sightingherolist").append("<div id=" + "sighting-herolist" + h.heroID + ">" + h.heroName +
+            "&nbsp &nbsp <button id='" + h.heroName + "' " +
+            "value='" + h.heroID + "' name='del' class='btn-circle'>x</button></div>");
     });
 
 
-    manageformlistener(orgIdList, powerIdList, {}, {}, {}, {});
+    manageformlistener({}, {}, {}, {}, {}, sightingHeroIdList, {});
 }
+
+
 
 function loadfielddata() {
     loadlist("powers","powerName","powerID","#powers");
@@ -35,6 +121,8 @@ function loadfielddata() {
     loadlist("heroes","heroName","heroID", "#heroes");
     loadlist("headquarters","headQName","headQID","#headquarters");
     loadlist("orgs","orgName","orgID","#hq-orgs");
+    loadlist("heroes","heroName","heroID", "#sighting-herolist");
+    loadlist("locations","address","locID","#locations");
 }
 
 function loadlist(listname,val,key,selectid) {
@@ -44,12 +132,17 @@ function loadlist(listname,val,key,selectid) {
         type: "GET",
         url: "http://localhost:8080/"+listname+"?load=false",
         success: function (results) {
+            var conc = "";
 
             $.each(results, function (index, res) {
-                list[res[val]] = res[key];
+                if (listname === "locations"){
+                    conc = res["locID"] + " - ";
+                }
+
+                list[conc + res[val]] = res[key];
             });
 
-            var id = $(selectid); //$("#"+listname);
+            var id = $(selectid);
             id.empty();
             $.each(list, function (key, value) {
                 id.append($("<option></option>")
