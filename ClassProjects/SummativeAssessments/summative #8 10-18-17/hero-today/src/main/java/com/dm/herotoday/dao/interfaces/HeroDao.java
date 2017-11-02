@@ -12,7 +12,7 @@ public interface HeroDao {
     public List<Hero> getFromHeroes(String... args);
     public List<Hero> getFromHeroes(String heroID, String heroName, String heroType, String description);
     public boolean removeHero(int heroID) throws SQLUpdateException;
-    public boolean updateHero(Hero hero) throws SQLUpdateException,DuplicateEntryException ;
+    public boolean updateHero(Hero hero) throws SQLUpdateException;
     public Hero addHero(Hero hero) throws SQLUpdateException,DuplicateEntryException;
     public boolean ifExists(Hero hero);
 

@@ -45,6 +45,7 @@
     <hr/>
     <div class="row text-left" style="display: none" id="heroes-form">
         <div class="col-sm-3">
+            <span id="heroId"></span>
             <span class="form-label">Hero Name: </span><br/>
             <input class="form-field" type="text" id="heroName"/><br/>
             <span class="form-label">Hero Type: </span><br/>
@@ -52,51 +53,170 @@
             <span class="form-label">Description: </span><br/>
             <textarea class="form-field" type="text" id="heroDescription"></textarea><br/>
             <button id="hero-submit">Submit</button>
-            <button id="hero-remove">Remove</button>
+            <button id="hero-remove" class="removebutton" style="display: none">Remove</button>
         </div>
         <div class="col-md-3 border-right">
             <span class="form-label">Powers: &nbsp </span><br/>
-            <select id="powers" name="spower" class="form-field">
+            <select id="powers" class="form-field">
             </select><br/>
             <span class="form-label">Organizations: &nbsp </span><br/>
             <select id="orgs" class="form-field">
             </select>
         </div>
         <div class="col-md-3 border-right" id='powerlist-div'>
-            <span class="form-label">Selected Powers: </span><br/>
+            <span class="form-label">Current Powers: </span><br/>
             <div id="powerlist"></div>
         </div>
-        <div class="col-md-3 border-right" id='orglist-div'>
-            <span class="form-label">Selected Organizations: </span><br/>
+        <div class="col-md-3" id='orglist-div'>
+            <span class="form-label">Current Organizations: </span><br/>
             <div id="orglist"></div>
         </div>
     </div>
 
 
-    <hr/>
-    <div class="row">
-        <div class="col-lg-12 text-center" id="resultsdiv">
-
-            <form id="orgs-form" style="display: none"> Add org form</form>
-            <form id="locations-form" style="display: none"> Add location form</form>
-            <form id="headquarters-form" style="display: none"> Add headquarters form</form>
-            <form id="powers-form" style="display: none"> Add power form</form>
-            <form id="sightings-form" style="display: none"> Add sighting form</form>
-
+    <div class="row text-left" style="display: none" id="orgs-form">
+        <div class="col-sm-3">
+            <span id="orgId"></span>
+            <span class="form-label">Org Name: </span><br/>
+            <input class="form-field" type="text" id="orgName"/><br/>
+            <span class="form-label">Description: </span><br/>
+            <textarea class="form-field" type="text" id="orgDescription"></textarea><br/>
+            <button id="org-submit">Submit</button>
+            <button id="org-remove" class="removebutton" style="display: none">Remove</button>
+        </div>
+        <div class="col-md-3 border-right">
+            <span class="form-label">Heroes: &nbsp </span><br/>
+            <select id="heroes" class="form-field">
+            </select><br/>
+            <span class="form-label">Headquarters: &nbsp </span><br/>
+            <select id="headquarters" class="form-field">
+            </select>
+        </div>
+        <div class="col-md-3 border-right" id='herolist-div'>
+            <span class="form-label">Current Members: </span><br/>
+            <div id="herolist"></div>
+        </div>
+        <div class="col-md-3" id='headqlist-div'>
+            <span class="form-label">Headquarters: </span><br/>
+            <div id="headqlist"></div>
         </div>
     </div>
 
 
 
+    <div class="row text-left" style="display: none" id="locs-form">
+        <div class="col-sm-3">
+            <span id="locId"></span>
+            <span class="form-label">Location Name: </span><br/>
+            <input class="form-field" type="text" id="locName"/><br/>
+            <span class="form-label">Street Address: </span><br/>
+            <input style="width:200px" class="form-field" type="text" id="address"/><br/>
+            <span class="form-label">Description: </span><br/>
+            <textarea class="form-field" type="text" id="locDescription"></textarea><br/>
 
+            <button id="loc-submit">Submit</button>
+            <button id="loc-remove" class="removebutton" style="display: none">Remove</button>
+        </div>
+        <div class="col-md-2">
+            <span class="form-label">Country: </span><br/>
+            <input class="form-field" type="text" id="country"/><br/>
+            <span class="form-label">City: </span><br/>
+            <input class="form-field" type="text" id="city"/><br/>
+            <span class="form-label">State: </span><br/>
+            <input class="form-field" type="text" id="state"/><br/>
+            <span class="form-label">Zip: </span><br/>
+            <input class="form-field" type="number" id="zip"/><br/>
+        </div>
+        <div class="col-md-2 border-right">
+            <span class="form-label">Latitude: </span><br/>
+            <input class="form-field" type="number" id="latitude"/><br/>
+            <span class="form-label">Longititude: </span><br/>
+            <input class="form-field" type="number" id="longitude"/><br/>
+        </div>
+        <div class="col-md-3" id='sightinglist-div'>
+            <span class="form-label">Reported Sightings: </span><br/>
+            <div id="sightinglist"></div>
+        </div>
+    </div>
+
+
+    <div class="row text-left" style="display: none" id="powers-form">
+        <div class="col-sm-3 border-right">
+            <span id="powerId"></span>
+            <span class="form-label">Power Name: </span><br/>
+            <input class="form-field" type="text" id="powerName"/><br/>
+            <span class="form-label">Description: </span><br/>
+            <textarea class="form-field" type="text" id="powerDescription"></textarea><br/>
+            <button id="power-submit">Submit</button>
+            <button id="power-remove" class="removebutton" style="display: none">Remove</button>
+        </div>
+        <div class="col-md-3" id='power-hero-list-div'>
+            <span class="form-label">Used by: </span><br/>
+            <div id="powerherolist"></div>
+        </div>
+    </div>
+
+    <div class="row text-left" style="display: none" id="headquarters-form">
+        <div class="col-sm-3">
+            <span id="headqId"></span>
+            <span class="form-label">Name: </span><br/>
+            <input class="form-field" type="text" id="headqName"/><br/>
+            <span class="form-label">Street Address: </span><br/>
+            <input style="width:200px" class="form-field" type="text" id="hqAddress"/><br/>
+            <span class="form-label">Description: </span><br/>
+            <textarea class="form-field" type="text" id="hqDescription"></textarea><br/>
+            <button id="headquarters-submit">Submit</button>
+            <button id="headquarters-remove" class="removebutton" style="display: none">Remove</button>
+        </div>
+        <div class="col-md-3 border-right">
+            <span class="form-label">Email: </span><br/>
+            <input class="form-field" type="email" id="hqemail"/>
+            &nbsp <button id="emailbutton">>></button>      <br/>
+            <span class="form-label">Organizations: </span><br/>
+            <select id="hq-orgs" class="form-field">
+            </select>
+        </div>
+        <div class="col-md-3 border-right" id='contactlist-div'>
+            <span class="form-label">Email Contacts: </span><br/>
+            <div id="contactlist"></div>
+        </div>
+        <div class="col-md-3" id='hqorglist-div'>
+            <span class="form-label">Used by: </span><br/>
+            <div id="hqorglist"></div>
+        </div>
+    </div>
+    <div class="row text-left" style="display: none" id="sightings-form">
+        <div class="col-sm-2">
+            <span class="form-label">Date: </span><br/>
+            <input class="form-field" type="date" id="sighting-date"/><br/>
+            <span id="sightingId"></span>
+            <span class="form-label">Location: &nbsp </span><br/>
+            <select id="locations" class="form-field">
+            </select><br/>
+            <button id="sighting-submit">Submit</button>
+            <button id="sighting-remove" class="removebutton" style="display: none">Remove</button>
+        </div>
+        <div class="col-md-2 border-right">
+            <span class="form-label">Heroes: &nbsp </span><br/>
+            <select id="sighting-herolist" class="form-field">
+            </select><br/>
+        </div>
+        <div class="col-md-3" id='sighting-herolist-div'>
+            <span class="form-label">Current Heroes: </span><br/>
+            <div id="sightingherolist"></div>
+        </div>
+    </div>
+
+    <hr/>
 </div>
 
 </body>
-<script src="js/jquery-3.2.1.min.js"></script>
-<script src="js/popper.js"></script>
-<script src="js/tether.min.js"></script>
-<script src="js/bootstrap.min.js"></script>
-<script src="js/moment.min.js"></script>
-<script src="js/editformdata.js"></script>
-<script src="js/manage.js"></script>
+<script src="js/general/jquery-3.2.1.min.js"></script>
+<script src="js/general/popper.js"></script>
+<script src="js/general/tether.min.js"></script>
+<script src="js/general/bootstrap.min.js"></script>
+<script src="js/general/moment.min.js"></script>
+<script src="js/dataloader.js"></script>
+<script src="js/formhandler.js"></script>
+<script src="js/formdatahandler.js"></script>
 </html>

@@ -131,7 +131,7 @@ function heroResultsTable(results) {
         try {orgs = res.heroOrgs[0].orgName} catch (err){}
 
         resultstable += "<tr><td class='id-col'>" + res.heroID + "</td>" +
-          "<td>"+ res.heroName +"</td>" +
+          "<td><a href='./manage.html?cat=heroes&id="+res.heroID+"'>"+ res.heroName +"</a></td>" +
           "<td>"+ res.heroType +"</td>" +
           "<td>"+ powers +"</td>" +
           "<td>"+ orgs +"</td>" +

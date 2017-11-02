@@ -88,13 +88,12 @@ public class DataCoordinatorDaoImpl implements DataCoordinatorDao {
         } catch (DuplicateEntryException e) {
             // Update instead
         }
-
         updateHero(hero);
         return getFromHeroes(Integer.toString(hero.getHeroID())).get(0);
     }
 
 
-    private void updateHero(Hero hero) throws SQLUpdateException, DuplicateEntryException {
+    private void updateHero(Hero hero) throws SQLUpdateException {
 
         String hID = Integer.toString(hero.getHeroID());
 
@@ -103,52 +102,22 @@ public class DataCoordinatorDaoImpl implements DataCoordinatorDao {
         bridgeDao.removeSightingsHeroes(null,hID);
 
         if (hero.getHeroPowers() != null){
-        for (Power p : hero.getHeroPowers()) {
-            try {
-                powerDao.addPower(p);
-            } catch (SQLUpdateException | DuplicateEntryException e) {
-                // skip if not new
-            }
-            try {
+            for (Power p : hero.getHeroPowers()) {
                 bridgeDao.addPowersHeroes(p.getPowerID(), hero.getHeroID());
-            } catch (SQLUpdateException e) {
-                // skip if not new
             }
         }
-        }
-
 
         if (hero.getHeroOrgs() != null) {
             for (Organization o : hero.getHeroOrgs()) {
-
-                try {
-                    orgDao.addOrg(o);
-                } catch (SQLUpdateException | DuplicateEntryException e) {
-                    // skip if not new
-                }
-                try {
-                    bridgeDao.addOrgsHeroes(o.getOrgID(), hero.getHeroID());
-                } catch (SQLUpdateException e) {
-                    // skip if not new
-                }
+                bridgeDao.addOrgsHeroes(o.getOrgID(), hero.getHeroID());
             }
         }
 
         if (hero.getHeroSightings() != null) {
             for (Sighting s : hero.getHeroSightings()) {
-                try {
-                    sightingDao.addSighting(s);
-                } catch (SQLUpdateException | DuplicateEntryException e) {
-                    // skip if not new
-                }
-                try {
-                    bridgeDao.addSightingsHeroes(s.getSightingID(), hero.getHeroID());
-                } catch (SQLUpdateException e) {
-                    // skip if not new
-                }
+                bridgeDao.addSightingsHeroes(s.getSightingID(), hero.getHeroID());
             }
         }
-
         heroDao.updateHero(hero);
     }
 
@@ -160,7 +129,6 @@ public class DataCoordinatorDaoImpl implements DataCoordinatorDao {
             // still update
         }
         updateHeadquarters(headq);
-
         return getFromHeadquarters(Integer.toString(headq.getHeadQID())).get(0);
     }
 
@@ -186,16 +154,7 @@ public class DataCoordinatorDaoImpl implements DataCoordinatorDao {
 
         if (headq.getOrgList() != null) {
             for (Organization o : headq.getOrgList()) {
-                try {
-                    orgDao.addOrg(o);
-                } catch (DuplicateEntryException e) {
-                    // skip if not new
-                }
-                try {
-                    bridgeDao.addOrgsHeadquarters(o.getOrgID(), headq.getHeadQID());
-                } catch (SQLUpdateException e) {
-                    // skip if not new
-                }
+                bridgeDao.addOrgsHeadquarters(o.getOrgID(), headq.getHeadQID());
             }
         }
         headQDAO.updateHeadquarters(headq);
@@ -233,33 +192,13 @@ public class DataCoordinatorDaoImpl implements DataCoordinatorDao {
 
         if (org.getMembers() != null) {
             for (Hero h : org.getMembers()) {
-                try {
-                    heroDao.addHero(h);
-                } catch (DuplicateEntryException e) {
-                    // skip if not new
-                }
-
-                try {
-                    bridgeDao.addOrgsHeroes(org.getOrgID(), h.getHeroID());
-                } catch (SQLUpdateException e) {
-                    // skip if not new
-                }
+                bridgeDao.addOrgsHeroes(org.getOrgID(), h.getHeroID());
             }
         }
 
         if (org.getOrgHeadQ() != null) {
             for (Headquarters h : org.getOrgHeadQ()) {
-                try {
-                    headQDAO.addHeadquarters(h);
-                } catch (DuplicateEntryException e) {
-                    // skip if not new
-                }
-
-                try {
-                    bridgeDao.addOrgsHeadquarters(org.getOrgID(), h.getHeadQID());
-                } catch (SQLUpdateException e) {
-                    // skip if not new
-                }
+                bridgeDao.addOrgsHeadquarters(org.getOrgID(), h.getHeadQID());
             }
         }
 
@@ -297,16 +236,7 @@ public class DataCoordinatorDaoImpl implements DataCoordinatorDao {
 
         if (sighting.getSightingHeroes() != null) {
             for (Hero h : sighting.getSightingHeroes()) {
-                try {
-                    heroDao.addHero(h);
-                } catch (DuplicateEntryException e) {
-                    // skip if not new
-                }
-                try {
-                    bridgeDao.addSightingsHeroes(sighting.getSightingID(), h.getHeroID());
-                } catch (Exception e) {
-                    // skip if not new
-                }
+                bridgeDao.addSightingsHeroes(sighting.getSightingID(), h.getHeroID());
             }
         }
 
