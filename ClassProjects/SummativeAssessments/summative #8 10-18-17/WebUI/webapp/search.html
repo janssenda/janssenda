@@ -18,21 +18,26 @@
             <div class="mainnavbar rounded">
                 <a href="index.html">
                     <img src="images/lantern_cms_icon.ico" style="width: 35px; margin: 0px;"/>
-                </a>
-                <a href="index.html" class="shnav">Home</a>
-                <img src="images/lightning.png" class="navsep"/>
-                <a href="search.html" class="shnav current-tab">Search</a>
-                <img src="images/lightning.png" class="navsep"/>
-                <a href="manage.html" class="shnav">Add Data</a>
-                <img src="images/lightning.png" class="navsep"/>
-                <a href="report.html" class="shnav">Report a Sighting</a>
+                    &nbsp&nbsp&nbsp&nbsp&nbsp</a>
+                <form style="display: inline" action="index.html" method="GET">
+                    <button type="submit">Home</button>
+                </form>
+                <!--<img src="images/lightning.png" class="navsep"/>-->&nbsp&nbsp|&nbsp&nbsp
+                <form style="display: inline" action="search.html" method="GET">
+                    <button class="current-tab" type="submit">Search</button>
+                </form>
+                <!--<img src="images/lightning.png" class="navsep"/>-->&nbsp&nbsp|&nbsp&nbsp
+                <form style="display: inline" action="manage.html" method="GET">
+                    <button  type="submit">Manage</button>
+                </form>
+                <!--<img src="images/lightning.png" class="navsep"/>-->&nbsp&nbsp|&nbsp&nbsp
+                <form style="display: inline" action="manage.html" method="GET">
+                    <input name="cat" value="sightings" style="display: none"/>
+                    <input name="id" value="blank" style="display: none"/>
+                    <button id="report-button" type="submit">Report a Sighting</button>
+                </form>
             </div>
             <br/>
-        </div>
-    </div>
-    <div class="row">
-        <div class="col-lg-12 text-center">
-            <h2 class="pageTitle"> Search Database </h2>
         </div>
     </div>
     <hr/>
@@ -42,7 +47,7 @@
                 <input type="text" id="searchterms" placeholder="Search for..">
                 <input type="date" id="searchdate" style="display: none">
                 <span class="spacer">&nbsp;</span>
-                <select id="category" >
+                <select id="category" style="width: 100px" >
                     <option value="heroes" selected>Heroes</option>
                     <option value="orgs">Organizations</option>
                     <option value="locations">Locations</option>
@@ -51,7 +56,7 @@
                     <option value="headquarters">Headquarters</option>
                 </select>
                 <span class="spacer-sm">&nbsp;</span>by<span class="spacer-sm">&nbsp;</span>
-                <select id="subcategory" ></select>
+                <select id="subcategory" style="width: 100px"></select>
                 <span class="spacer">&nbsp;</span>
                 <button type="button" id="searchbutton">Search</button>
             </form>

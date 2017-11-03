@@ -1,4 +1,7 @@
 
+form, button{display: inline}
+
+
 select, input, button {
     font-size: 14px;
     -moz-box-sizing: content-box;
@@ -24,30 +27,43 @@ textarea{
     border: 1px solid black;
     text-decoration: none;}
 
+input, select, textarea {width: 90%}
+
+
 textarea:focus,
 textarea:active,
 select:focus,
 select:active,
 input:focus,
 input:active {
-    border: 1px solid green;
-    box-shadow: 0px 0px 5px #7fff21}
+    border: 1px solid #2ecc7d;
+    box-shadow: 0px 0px 5px #00ffb8
+}
 
 button {
-    background-color: #4CAF50;
+    border: none;
+    border-radius: 5px;
+    background-color: #2ecc7d;
     color: white;
     padding: 2px 8px;
     cursor: pointer;
 }
 
-button:active {background-color: black;}
-button:hover {box-shadow: 0px 0px 5px #7fff21}
+#report-button{background-color: #2e40af
+}
+
+.current-tab {color: white; box-shadow: 0px 0px 5px #00ffb8;}
+
+button:active {background-color: #246d24;}
+button:hover {-webkit-filter: drop-shadow(0px 0px 5px #00ffb8);
+    filter:drop-shadow(0px 0px 5px #00ffb8)}
 button:active,
 button:hover,
 button:focus {outline: none;}
 
 .form-field{margin-bottom: 15px}
-.form-label{}
+.form-label{font-style: italic}
+
 
 #searchterms, #searchdate {
     width: 20%;
@@ -58,11 +74,14 @@ button:focus {outline: none;}
     background-repeat: no-repeat;
 }
 
-.btn-circle:hover {box-shadow: 0px 0px 5px #d9534f}
+.btn-circle:hover {box-shadow: 0px 0px 0px #d9534f;-webkit-filter: drop-shadow(0px 0px 5px #d9534f);
+    filter:drop-shadow(0px 0px 5px #d9534f)}
 .btn-circle {
-    background-color: #d9534f;
-    width: 12px;
-    height: 12px;
+    /*background-color: #d9534f;*/
+    background-image: url("../images/xicon.png");
+    background-size: contain;
+    width: 9px;
+    height: 9px;
     text-align: center;
     padding: 0px 0;
     font-size: 8px;

@@ -38,7 +38,7 @@ function manageformlistener(orgIdList, powerIdList, heroIdList, headqIdList,
         contactIdList.push(field);
         $("#contactlist").append("<div id='e" + contactIdList.length + "'>" + field +
             "&nbsp &nbsp <button  " +
-            "value='e" + contactIdList.length + "' name='del-email' class='btn-circle'>x</button></div>");
+            "value='e" + contactIdList.length + "' name='del-email' class='btn-circle'></button></div>");
 
 
 
@@ -121,9 +121,6 @@ function manageformlistener(orgIdList, powerIdList, heroIdList, headqIdList,
     });
 
 
-
-
-
     $("#power-submit").click(function () {
         var power = {"powerName" : $("#powerName").val()};
         power["powerID"] = $("#powerId").val();
@@ -187,6 +184,26 @@ function manageformlistener(orgIdList, powerIdList, heroIdList, headqIdList,
     });
 
 
+    $("#loc-submit").click(function () {
+
+        var location = {"locName" : $("#locName").val()};
+        location["locID"] = $("#locId").val();
+        location["latitude"] = $("#latitude").val();
+        location["longitude"] = $("#longitude").val();
+        location["country"] = $("#country").val();
+        location["city"] = $("#city").val();
+        location["state"] = $("#state").val();
+        location["address"] = $("#address").val();
+        location["zip"] = $("#zip").val();
+        location["description"] = $("#locDescription").val();
+        postData("locations",location);
+
+    });
+
+    $("#loc-remove").click(function () {
+        deleteData("locations?id="+$("#locId").val());
+    });
+
 
 
 }
@@ -204,6 +221,6 @@ function changelist(vlist, ilist, selid) {
     ilist[sel.val()] = sel.text();
     vlist.append("<div id=" + selid + sel.val() + ">" + sel.text() +
         "&nbsp &nbsp <button id='" + sel.text() + "' " +
-        "value='" + sel.val() + "' name='del' class='btn-circle'>x</button></div>");
+        "value='" + sel.val() + "' name='del' class='btn-circle'></button></div>");
     sel.remove();
 }

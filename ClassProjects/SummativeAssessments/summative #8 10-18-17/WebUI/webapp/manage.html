@@ -16,14 +16,24 @@
             <div class="mainnavbar rounded">
                 <a href="index.html">
                     <img src="images/lantern_cms_icon.ico" style="width: 35px; margin: 0px;"/>
-                </a>
-                <a href="index.html" class="shnav">Home</a>
-                <img src="images/lightning.png" class="navsep"/>
-                <a href="search.html" class="shnav">Search</a>
-                <img src="images/lightning.png" class="navsep"/>
-                <a href="manage.html" class="shnav current-tab">Add Data</a>
-                <img src="images/lightning.png" class="navsep"/>
-                <a href="report.html" class="shnav">Report a Sighting</a>
+                    &nbsp&nbsp&nbsp&nbsp&nbsp</a>
+                <form style="display: inline" action="index.html" method="GET">
+                    <button type="submit">Home</button>
+                </form>
+                <!--<img src="images/lightning.png" class="navsep"/>-->&nbsp&nbsp|&nbsp&nbsp
+                <form style="display: inline" action="search.html" method="GET">
+                    <button type="submit">Search</button>
+                </form>
+                <!--<img src="images/lightning.png" class="navsep"/>-->&nbsp&nbsp|&nbsp&nbsp
+                <form style="display: inline" action="manage.html" method="GET">
+                    <button class="current-tab" type="submit">Manage</button>
+                </form>
+                <!--<img src="images/lightning.png" class="navsep"/>-->&nbsp&nbsp|&nbsp&nbsp
+                <form style="display: inline" action="manage.html" method="GET">
+                    <input name="cat" value="sightings" style="display: none"/>
+                    <input name="id" value="blank" style="display: none"/>
+                    <button id="report-button" type="submit">Report a Sighting</button>
+                </form>
             </div>
             <br/>
         </div>
@@ -104,13 +114,13 @@
 
 
 
-    <div class="row text-left" style="display: none" id="locs-form">
+    <div class="row text-left" style="display: none" id="locations-form">
         <div class="col-sm-3">
             <span id="locId"></span>
             <span class="form-label">Location Name: </span><br/>
             <input class="form-field" type="text" id="locName"/><br/>
             <span class="form-label">Street Address: </span><br/>
-            <input style="width:200px" class="form-field" type="text" id="address"/><br/>
+            <input class="form-field" type="text" id="address"/><br/>
             <span class="form-label">Description: </span><br/>
             <textarea class="form-field" type="text" id="locDescription"></textarea><br/>
 
@@ -162,7 +172,7 @@
             <span class="form-label">Name: </span><br/>
             <input class="form-field" type="text" id="headqName"/><br/>
             <span class="form-label">Street Address: </span><br/>
-            <input style="width:200px" class="form-field" type="text" id="hqAddress"/><br/>
+            <input class="form-field" type="text" id="hqAddress"/><br/>
             <span class="form-label">Description: </span><br/>
             <textarea class="form-field" type="text" id="hqDescription"></textarea><br/>
             <button id="headquarters-submit">Submit</button>
@@ -188,8 +198,9 @@
     <div class="row text-left" style="display: none" id="sightings-form">
         <div class="col-sm-7 border-right">
             <span class="form-label">Date: </span><br/>
-            <input class="form-field" type="date" id="sightingdate"/><br/>
+            <input class="form-field" type="datetime-local" id="sightingdate"/><br/>
             <span id="sightingId"></span>
+            <span id="slocId"></span>
             <span class="form-label">Heroes: &nbsp </span><br/>
             <select id="sighting-herolist" class="form-field">
             </select><br/>

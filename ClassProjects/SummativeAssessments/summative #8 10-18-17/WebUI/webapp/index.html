@@ -16,23 +16,29 @@
             <div class="mainnavbar rounded">
                 <a href="index.html">
                     <img src="images/lantern_cms_icon.ico" style="width: 35px; margin: 0px;"/>
-                </a>
-                <a href="index.html" class="shnav current-tab">Home</a>
-                <img src="images/lightning.png" class="navsep" />
-                <a href="search.html" class="shnav">Search</a>
-                <img src="images/lightning.png" class="navsep" />
-                <a href="manage.html" class="shnav">Add Data</a>
-                <img src="images/lightning.png" class="navsep" />
-                <a href="report.html" class="shnav">Report a Sighting</a>
+                    &nbsp&nbsp&nbsp&nbsp&nbsp</a>
+                <form style="display: inline" action="index.html" method="GET">
+                    <button type="submit">Home</button>
+                </form>
+                <!--<img src="images/lightning.png" class="navsep"/>-->&nbsp&nbsp|&nbsp&nbsp
+                <form style="display: inline" action="search.html" method="GET">
+                    <button type="submit">Search</button>
+                </form>
+                <!--<img src="images/lightning.png" class="navsep"/>-->&nbsp&nbsp|&nbsp&nbsp
+                <form style="display: inline" action="manage.html" method="GET">
+                    <button type="submit">Manage</button>
+                </form>
+                <!--<img src="images/lightning.png" class="navsep"/>-->&nbsp&nbsp|&nbsp&nbsp
+                <form style="display: inline" action="manage.html" method="GET">
+                    <input name="cat" value="sightings" style="display: none"/>
+                    <input name="id" value="blank" style="display: none"/>
+                    <button  class="current-tab" id="report-button" type="submit">Report a Sighting</button>
+                </form>
             </div>
             <br/>
         </div>
     </div>
-    <div class="row">
-        <div class="col-lg-12 text-center">
-            <h2 class="pageTitle"> Superhero Home </h2>
-        </div>
-    </div>
+
 
 </div>
 

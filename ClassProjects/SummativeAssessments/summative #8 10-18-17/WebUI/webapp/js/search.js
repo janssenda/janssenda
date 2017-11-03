@@ -53,18 +53,30 @@ function searchHandler() {
     $("#category").change(function () {
         var category = $("#category").val();
         switch (category) {
-            case "heroes":updateSelections(heroOptions);break;
-            case "orgs":updateSelections(orgOptions);break;
-            case "headquarters":updateSelections(headQOptions);break;
-            case "powers":updateSelections(powerOptions);break;
-            case "locations":updateSelections(locOptions);break;
-            case "sightings":updateSelections(sightingOptions);break;
+            case "heroes":
+                updateSelections(heroOptions);
+                break;
+            case "orgs":
+                updateSelections(orgOptions);
+                break;
+            case "headquarters":
+                updateSelections(headQOptions);
+                break;
+            case "powers":
+                updateSelections(powerOptions);
+                break;
+            case "locations":
+                updateSelections(locOptions);
+                break;
+            case "sightings":
+                updateSelections(sightingOptions);
+                break;
         }
     });
 
     $("#subcategory").change(function () {
 
-        if ( $("#subcategory").val() === "date"){
+        if ($("#subcategory").val() === "date") {
             $("#searchterms").hide();
             $("#searchdate").show();
         } else {
@@ -83,7 +95,7 @@ function queryforresults() {
     var terms;
     var category = $("#category").val();
     var method = $("#subcategory").val();
-    if (method === "date"){
+    if (method === "date") {
         terms = $("#searchdate").val();
     } else {
         terms = $("#searchterms").val();
@@ -105,12 +117,24 @@ function queryforresults() {
 function printResults(results, category) {
 
     switch (category) {
-        case "heroes": heroResultsTable(results); break;
-        case "orgs": orgsResultsTable(results); break;
-        case "headquarters": headQResultsTable(results); break;
-        case "powers": powerResultsTable(results); break;
-        case "locations": locationResultsTable(results); break;
-        case "sightings": sightingResultsTable(results); break;
+        case "heroes":
+            heroResultsTable(results);
+            break;
+        case "orgs":
+            orgsResultsTable(results);
+            break;
+        case "headquarters":
+            headQResultsTable(results);
+            break;
+        case "powers":
+            powerResultsTable(results);
+            break;
+        case "locations":
+            locationResultsTable(results);
+            break;
+        case "sightings":
+            sightingResultsTable(results);
+            break;
     }
 }
 
@@ -125,17 +149,27 @@ function heroResultsTable(results) {
         "</tr> </thead> <tbody>";
 
     $.each(results, function (index, res) {
-        var powers = null;
-        var orgs = null;
-        try {powers = res.heroPowers[0].powerName} catch (err){}
-        try {orgs = res.heroOrgs[0].orgName} catch (err){}
 
-        resultstable += "<tr><td class='id-col'>" + res.heroID + "</td>" +
-          "<td><a href='./manage.html?cat=heroes&id="+res.heroID+"'>"+ res.heroName +"</a></td>" +
-          "<td>"+ res.heroType +"</td>" +
-          "<td>"+ powers +"</td>" +
-          "<td>"+ orgs +"</td>" +
-          "<td>"+ res.description +"</td></tr>";
+        resultstable += "<tr><td class='id-col'><a href='./manage.html?cat=heroes&id=" + res.heroID + "'>" + res.heroID + "</a></td>" +
+            "<td><a href='./manage.html?cat=heroes&id=" + res.heroID + "'>" + res.heroName + "</a></td>" +
+            "<td>" + res.heroType + "</td>" +
+            "<td>";
+        try {
+            $.each(res.heroPowers, function (index, p) {
+                resultstable += "<a href='./manage.html?cat=powers&id=" + p.powerID + "'>" + p.powerName + "</a>, ";
+            });
+        } catch (err) {}
+        resultstable += "</td>" +
+
+            "<td>";
+        try {
+            $.each(res.heroOrgs, function (index, org) {
+                resultstable += "<a href='./manage.html?cat=orgs&id=" + org.orgID + "'>" + org.orgName + "</a>, ";
+            });
+        } catch (err) {}
+        resultstable += "</td>" +
+
+            "<td>" + res.description + "</td></tr>";
     });
 
     resultstable += "</tbody> </table> <hr/>";
@@ -151,12 +185,16 @@ function orgsResultsTable(results) {
         "<th>Members</th> </tr> </thead> <tbody>";
 
     $.each(results, function (index, res) {
-        var mems = null;
-        try {mems = res.members[0].heroName} catch (err){}
-        resultstable += "<tr><td class='id-col'>" + res.orgID + "</td>" +
-            "<td><a href='./manage.html?cat=orgs&id="+res.orgID+"'>"+ res.orgName +"</a></td>" +
-            "<td>"+ res.description +"</td>" +
-            "<td>"+ mems +"</td></tr>";
+        resultstable += "<tr><td class='id-col'><a href='./manage.html?cat=orgs&id=" + res.orgID + "'>" + res.orgID + "</a></td>" +
+            "<td><a href='./manage.html?cat=orgs&id=" + res.orgID + "'>" + res.orgName + "</a></td>" +
+            "<td>" + res.description + "</td>" +
+            "<td>";
+        try {
+            $.each(res.members, function (index, mem) {
+                resultstable += "<a href='./manage.html?cat=heroes&id=" + mem.heroID + "'>" + mem.heroName + "</a>, ";
+            });
+        } catch (err) {}
+        resultstable += "</td>" + "</tr>";
     });
 
     resultstable += "</tbody> </table> <hr/>";
@@ -172,16 +210,21 @@ function headQResultsTable(results) {
 
 
     $.each(results, function (index, res) {
-        var org = null;
-        try {org = res.orgList[0].orgName} catch (err){}
 
+        resultstable += "<tr><td class='id-col'><a href='./manage.html?cat=headquarters&id=" + res.headQID + "'>" + res.headQID + "</a></td>" +
+            "<td><a href='./manage.html?cat=headquarters&id=" + res.headQID + "'>" + res.headQName + "</a></td>" +
+            "<td>" + res.headQAdress + "</td>" +
+            "<td>" + res.description + "</td>" +
 
-        resultstable += "<tr><td class='id-col'>" + res.headQID + "</td>" +
-            "<td><a href='./manage.html?cat=headquarters&id="+res.headQID+"'>"+ res.headQName +"</a></td>" +
-            "<td>"+ res.headQAdress +"</td>" +
-            "<td>"+ res.description +"</td>" +
-            "<td>"+ org +"</td>" +
-            "<td>"+ res.contactList[0].email +"</td></td></tr>";
+            "<td>";
+        try {
+            $.each(res.orgList, function (index, org) {
+                resultstable += "<a href='./manage.html?cat=orgs&id=" + org.orgID + "'>" + org.orgName + "</a>, ";
+            });
+        } catch (err) {}
+        resultstable += "</td>" +
+
+            "<td>" + res.contactList[0].email + "</td></td></tr>";
     });
 
     resultstable += "</tbody> </table> <hr/>";
@@ -198,16 +241,16 @@ function locationResultsTable(results) {
         "<th>Latitude</th><th>Longitude</th><th>Description</th> </tr> </thead> <tbody>";
 
     $.each(results, function (index, res) {
-        resultstable += "<tr><td class='id-col'>" + res.locID + "</td>" +
-            "<td>"+ res.locName +"</td>" +
-            "<td>"+ res.country +"</td>" +
-            "<td>"+ res.city +"</td>" +
-            "<td>"+ res.state +"</td>" +
-            "<td>"+ res.address +"</td>" +
-            "<td>"+ res.zip +"</td>" +
-            "<td>"+ res.latitude +"</td>" +
-            "<td>"+ res.longitude +"</td>" +
-            "<td>"+ res.description +"</td>" +
+        resultstable += "<tr><td class='id-col'><a href='./manage.html?cat=locations&id=" + res.locID + "'>" + res.locID + "</a></td>" +
+            "<td>" + res.locName + "</td>" +
+            "<td>" + res.country + "</td>" +
+            "<td>" + res.city + "</td>" +
+            "<td>" + res.state + "</td>" +
+            "<td>" + res.address + "</td>" +
+            "<td>" + res.zip + "</td>" +
+            "<td>" + res.latitude + "</td>" +
+            "<td>" + res.longitude + "</td>" +
+            "<td>" + res.description + "</td>" +
             "</td></tr>";
     });
 
@@ -224,20 +267,21 @@ function sightingResultsTable(results) {
 
     $.each(results, function (index, res) {
 
-        //var d = new Date(res.sightingTime);
         var d = moment(res.sightingTime);
 
-        resultstable += "<tr><td class='id-col'><a href='./manage.html?cat=sightings&id="+res.sightingID
-            +"'>" + res.sightingID + "</a></td>" + "<td>"+ res.locID +"</td>" +
-            "<td>"+ d.format("MMM Do YY, h:mm a") +"</td><td>";
+        resultstable += "<tr><td class='id-col'><a href='./manage.html?cat=sightings&id=" + res.sightingID
+            + "'>" + res.sightingID + "</a></td>" + "<td><a href='./manage.html?cat=locations&id=" + res.locID + "'>" + res.locID + "</a></td>" +
+            "<td>" + d.format("MMM Do YY, h:mm a") + "</td><td>";
 
-
-
-            $.each(res.sightingHeroes,function(index, hero) {
-                resultstable += hero.heroName+", ";
+        try {
+            $.each(res.sightingHeroes, function (index, hero) {
+                resultstable += "<a href='./manage.html?cat=heroes&id=" + hero.heroID + "'>" + hero.heroName + "</a>, ";
             });
+        } catch (err) {
 
-            resultstable += "</td></tr>";
+        }
+
+        resultstable += "</td></tr>";
     });
 
     resultstable += "</tbody> </table> <hr/>";
@@ -252,9 +296,9 @@ function powerResultsTable(results) {
         "<th>Description</th></tr> </thead> <tbody>";
 
     $.each(results, function (index, res) {
-        resultstable += "<tr><td class='id-col'>" + res.powerID + "</td>" +
-            "<td><a href='./manage.html?cat=powers&id="+res.powerID+"'>"+ res.powerName +"</a></td>" +
-            "<td>"+ res.description +"</td>"+
+        resultstable += "<tr><td class='id-col'><a href='./manage.html?cat=powers&id=" + res.powerID + "'>" + res.powerID + "</a></td>" +
+            "<td><a href='./manage.html?cat=powers&id=" + res.powerID + "'>" + res.powerName + "</a></td>" +
+            "<td>" + res.description + "</td>" +
             "</td></tr>";
     });
 

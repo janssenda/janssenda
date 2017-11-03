@@ -15,14 +15,14 @@ function loadHeroData(data) {
         powerIdList[p.powerID] = p.powerName;
         $("#powerlist").append("<div id=" + "powers" + p.powerID + ">" + p.powerName +
             "&nbsp &nbsp <button id='" + p.powerName + "' " +
-            "value='" + p.powerID + "' name='del' class='btn-circle'>x</button></div>");
+            "value='" + p.powerID + "' name='del' class='btn-circle'></button></div>");
     });
 
     $.each(hero.heroOrgs, function (index, o) {
         orgIdList[o.orgID] = o.orgName;
         $("#orglist").append("<div id=" + "orgs" + o.orgID + ">" + o.orgName +
             "&nbsp &nbsp <button id='" + o.orgName + "' " +
-            "value='" + o.orgID + "' name='del' class='btn-circle'>x</button></div>");
+            "value='" + o.orgID + "' name='del' class='btn-circle'></button></div>");
 
     });
 
@@ -42,14 +42,14 @@ function loadOrgData(data) {
         heroIdList[m.heroID] = m.heroName;
         $("#herolist").append("<div id=" + "heroes" + m.heroID + ">" + m.heroName +
             "&nbsp &nbsp <button id='" + m.heroName + "' " +
-            "value='" + m.heroID + "' name='del' class='btn-circle'>x</button></div>");
+            "value='" + m.heroID + "' name='del' class='btn-circle'></button></div>");
     });
 
     $.each(org.orgHeadQ, function (index, hq) {
         headqIdList[hq.headQID] = hq.headQName;
         $("#headqlist").append("<div id=" + "headquarters" + hq.headQID + ">" + hq.headQName +
             "&nbsp &nbsp <button id='" + hq.headQName + "' " +
-            "value='" + hq.headQID + "' name='del' class='btn-circle'>x</button></div>");
+            "value='" + hq.headQID + "' name='del' class='btn-circle'></button></div>");
     });
 
     manageformlistener({}, {}, heroIdList, headqIdList, {}, {}, []);
@@ -69,14 +69,14 @@ function loadHeadquartersData(data) {
         hqOrgIdList[o.orgID] = o.orgName;
         $("#hqorglist").append("<div id=" + "hq-orgs" + o.orgID + ">" + o.orgName +
             "&nbsp &nbsp <button id='" + o.orgName + "' " +
-            "value='" + o.orgID + "' name='del' class='btn-circle'>x</button></div>");
+            "value='" + o.orgID + "' name='del' class='btn-circle'></button></div>");
     });
 
     $.each(headq.contactList, function (index, c) {
         contactIdList.push(c.email);
         $("#contactlist").append("<div id='e" + index + "'>" + c.email +
             "&nbsp &nbsp <button  " +
-            "value='e" + index + "' name='del-email' class='btn-circle'>x</button></div>");
+            "value='e" + index + "' name='del-email' class='btn-circle'></button></div>");
     });
 
     manageformlistener({}, {}, {}, {}, hqOrgIdList, {}, contactIdList);
@@ -98,19 +98,36 @@ function loadSightingData(data) {
 
     var d = moment(sighting.sightingTime);
 
-    $("#locations").val(sighting.locID);
-    $("#sightingdate").val(d.format("YYYY-MM-DD"));
+    $("#slocId").val(sighting.locID);
+    $("#sightingdate").val(d.format("YYYY-MM-DDThh:mm"));
     $("#sightingId").val(sighting.sightingID);
 
     $.each(sighting.sightingHeroes, function (index, h) {
         sightingHeroIdList[h.heroID] = h.heroName;
         $("#sightingherolist").append("<div id=" + "sighting-herolist" + h.heroID + ">" + h.heroName +
             "&nbsp &nbsp <button id='" + h.heroName + "' " +
-            "value='" + h.heroID + "' name='del' class='btn-circle'>x</button></div>");
+            "value='" + h.heroID + "' name='del' class='btn-circle'></button></div>");
     });
 
+    loadlist("locations","address","locID","#locations");
 
     manageformlistener({}, {}, {}, {}, {}, sightingHeroIdList, {});
+}
+
+function loadLocationData(data) {
+    var location = data[0];
+
+    $("#locName").val(location.locName);
+    $("#locId").val(location.locID);
+    $("#latitude").val(location.latitude);
+    $("#longitude").val(location.longitude);
+    $("#country").val(location.country);
+    $("#city").val(location.city);
+    $("#state").val(location.state);
+    $("#address").val(location.address);
+    $("#zip").val(location.zip);
+    $("#locDescription").val(location.description);
+    manageformlistener({}, {}, {}, {}, {}, {}, {});
 }
 
 
@@ -148,6 +165,11 @@ function loadlist(listname,val,key,selectid) {
                 id.append($("<option></option>")
                     .attr("value", value).text(key));
             });
+
+            if (listname === "locations"){
+                $('#locations').prop('selectedIndex', $("#slocId").val());
+            }
+
         },
         error: function () {alert("fail")}
     });

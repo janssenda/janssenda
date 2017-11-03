@@ -41,7 +41,7 @@ public class SightingDaoImpl implements SightingDao {
             "SELECT * FROM sightings WHERE 1 = 1 " +
                     "AND (@SightingID IS NULL OR SightingID = @SightingID) " +
                     "AND (@SightTime IS NULL OR SightTime LIKE @SightTime) " +
-                    "AND (@LocID IS NULL OR LocID = @LocID) ";
+                    "AND (@LocID IS NULL OR LocID = @LocID) ORDER BY SightTime DESC ";
 
     private static final String UPDATE_SIGHTING_QUERY =
             "UPDATE sightings SET SightTime = ?, LocID = ? WHERE SightingID = ?";

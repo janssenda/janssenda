@@ -8,7 +8,11 @@ $(document).ready(function () {
     if (stringcat === null){
         formdisplaymanager("heroes");
         manageformlistener({},{},{},{},{},{},[]);
+    } else if (stringid === "blank") {
+        formdisplaymanager(stringcat);
+        manageformlistener({},{},{},{},{},{},[]);
     } else {
+
         formdisplaymanager(stringcat);
         loadEditForm(stringcat, stringid);
     }
@@ -48,7 +52,7 @@ function loadEditForm(cat, id){
                 case "heroes": loadHeroData(data); break;
                 case "orgs": loadOrgData(data); break;
                 case "powers": loadPowerData(data); break;
-                case "locations": break;
+                case "locations": loadLocationData(data); break;
                 case "headquarters": loadHeadquartersData(data); break;
                 case "sightings": loadSightingData(data); break;
             }
@@ -109,6 +113,7 @@ function clearPowersForm(){
 
 function clearSightingsForm(){
     $("#sightingId").val("");
+    $("#slocId").val(0);
     $("#sightingdate").val("");
     $("#sightingherolist").empty();
     loadlist("heroes","heroName","heroID", "#sighting-herolist");
@@ -139,7 +144,7 @@ function formdisplaymanager(editcat) {
             case "orgs": $("#orgs-form").show(); break;
             case "headquarters":  $("#headquarters-form").show(); break;
             case "powers": $("#powers-form").show(); break;
-            case "locations": $("#locs-form").show(); break;
+            case "locations": $("#locations-form").show(); break;
             case "sightings": $("#sightings-form").show(); break;
         }
     });
@@ -156,7 +161,7 @@ function hideforms() {
     $("#headquarters-form").hide();
     $("#sightings-form").hide();
     $("#powers-form").hide();
-    $("#locs-form").hide();
+    $("#locations-form").hide();
 }
 
 function getParameterByName(name, url) {
