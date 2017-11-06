@@ -2,27 +2,27 @@ function manageformlistener(orgIdList, powerIdList, heroIdList, headqIdList,
                             hqOrgIdList, sightingHeroIdList, contactIdList) {
     loadfielddata();
 
-    $("#powers").change(function () {changelist($("#powerlist"), powerIdList, "powers")});
+    $("#powers").change(function () {changelist($("#powerlist"), powerIdList, "powers","powers")});
     $("#powerlist-div").on("click", "button[name='del']", function () {
         listbutton(powerIdList, "powers", $(this).val(), $(this).attr('id')); });
 
-    $("#orgs").change(function () {changelist($("#orglist"), orgIdList, "orgs")});
+    $("#orgs").change(function () {changelist($("#orglist"), orgIdList, "orgs", "orgs")});
     $("#orglist-div").on("click", "button[name='del']", function () {
         listbutton(orgIdList, "orgs", $(this).val(), $(this).attr('id')); });
 
-    $("#heroes").change(function () {changelist($("#herolist"), heroIdList, "heroes")});
+    $("#heroes").change(function () {changelist($("#herolist"), heroIdList, "heroes", "heroes")});
     $("#herolist-div").on("click", "button[name='del']", function () {
         listbutton(heroIdList, "heroes", $(this).val(), $(this).attr('id')); });
 
-    $("#headquarters").change(function () {changelist($("#headqlist"), headqIdList, "headquarters")});
+    $("#headquarters").change(function () {changelist($("#headqlist"), headqIdList, "headquarters", "headquarters")});
     $("#headqlist-div").on("click", "button[name='del']", function () {
         listbutton(headqIdList, "headquarters", $(this).val(), $(this).attr('id')); });
 
-    $("#hq-orgs").change(function () {changelist($("#hqorglist"), hqOrgIdList, "hq-orgs")});
+    $("#hq-orgs").change(function () {changelist($("#hqorglist"), hqOrgIdList, "hq-orgs", "orgs")});
     $("#hqorglist-div").on("click", "button[name='del']", function () {
         listbutton(hqOrgIdList, "hq-orgs", $(this).val(), $(this).attr('id')); });
 
-    $("#sighting-herolist").change(function () {changelist($("#sightingherolist"), sightingHeroIdList, "sighting-herolist")});
+    $("#sighting-herolist").change(function () {changelist($("#sightingherolist"), sightingHeroIdList, "sighting-herolist", "heroes")});
     $("#sighting-herolist-div").on("click", "button[name='del']", function () {
         listbutton(sightingHeroIdList, "sighting-herolist", $(this).val(), $(this).attr('id')); });
 
@@ -65,26 +65,31 @@ function manageformlistener(orgIdList, powerIdList, heroIdList, headqIdList,
 
 
 
+
     $("#hero-submit").click(function () {
-        var plist = [];
-        $.each(powerIdList, function (k, v) {
-            var p = {"powerID": k, "powerName": v};
-            plist.push(p);
-        });
 
-        var olist = [];
-        $.each(orgIdList, function (k, v) {
-            var o = {"orgID": k, "orgName": v};
-            olist.push(o);
-        });
+        if (validateHeroForm() === false) {
+            var plist = [];
+            $.each(powerIdList, function (k, v) {
+                var p = {"powerID": k, "powerName": v};
+                plist.push(p);
+            });
 
-        var hero = {"heroName": $("#heroName").val()};
-        hero["heroID"] = $("#heroId").val();
-        hero["heroType"] = $("#heroType").val();
-        hero["description"] = $("#heroDescription").val();
-        hero["heroPowers"] = plist;
-        hero["heroOrgs"] = olist;
-        postData("heroes",hero);
+            var olist = [];
+            $.each(orgIdList, function (k, v) {
+                var o = {"orgID": k, "orgName": v};
+                olist.push(o);
+            });
+
+            var hero = {"heroName": $("#heroName").val()};
+            hero["heroID"] = $("#heroId").val();
+            hero["heroType"] = $("#heroType").val();
+            hero["description"] = $("#heroDescription").val();
+            hero["heroPowers"] = plist;
+            hero["heroOrgs"] = olist;
+            postData("heroes", hero);
+
+        }
     });
 
     $("#hero-remove").click(function () {
@@ -92,29 +97,30 @@ function manageformlistener(orgIdList, powerIdList, heroIdList, headqIdList,
     });
 
 
-
-
-
     $("#org-submit").click(function () {
-        var mlist = [];
-        $.each(heroIdList, function (k, v) {
-            var h = {"heroID": k, "heroName": v};
-            mlist.push(h);
-        });
 
-        var hqlist = [];
-        $.each(headqIdList, function (k, v) {
-            var hq = {"headQID": k, "headQName": v};
-            hqlist.push(hq);
-        });
+        if (validateOrgForm() === false) {
+            var mlist = [];
+            $.each(heroIdList, function (k, v) {
+                var h = {"heroID": k, "heroName": v};
+                mlist.push(h);
+            });
 
-        var org = {"orgName" : $("#orgName").val()};
-        org["orgID"] = $("#orgId").val();
-        org["description"] = $("#orgDescription").val();
-        org["members"] = mlist;
-        org["orgHeadQ"] = hqlist;
-        postData("orgs",org);
+            var hqlist = [];
+            $.each(headqIdList, function (k, v) {
+                var hq = {"headQID": k, "headQName": v};
+                hqlist.push(hq);
+            });
+
+            var org = {"orgName": $("#orgName").val()};
+            org["orgID"] = $("#orgId").val();
+            org["description"] = $("#orgDescription").val();
+            org["members"] = mlist;
+            org["orgHeadQ"] = hqlist;
+            postData("orgs", org);
+        }
     });
+
 
     $("#org-remove").click(function () {
         deleteData("orgs?id="+$("#orgId").val());
@@ -122,10 +128,12 @@ function manageformlistener(orgIdList, powerIdList, heroIdList, headqIdList,
 
 
     $("#power-submit").click(function () {
-        var power = {"powerName" : $("#powerName").val()};
-        power["powerID"] = $("#powerId").val();
-        power["description"] = $("#powerDescription").val();
-        postData("powers",power);
+        if (validatePowerForm() === false) {
+            var power = {"powerName": $("#powerName").val()};
+            power["powerID"] = $("#powerId").val();
+            power["description"] = $("#powerDescription").val();
+            postData("powers", power);
+        }
     });
 
     $("#power-remove").click(function () {
@@ -136,24 +144,27 @@ function manageformlistener(orgIdList, powerIdList, heroIdList, headqIdList,
 
 
     $("#headquarters-submit").click(function () {
-        var clist = [];
-        $.each(contactIdList, function (k, v) {
-            var c = {"headQID": $("#headqId").val(), "email": v};
-            clist.push(c);
-        });
 
-        var olist = [];
-        $.each(hqOrgIdList, function (k, v) {
-            var o = {"orgID": k, "orgName": v};
-            olist.push(o);
-        });
+        if (validateHeadquartersForm(contactIdList) === false) {
+            var clist = [];
+            $.each(contactIdList, function (k, v) {
+                var c = {"headQID": $("#headqId").val(), "email": v};
+                clist.push(c);
+            });
 
-        var headquarters = {"headQName" : $("#headqName").val()};
-        headquarters["headQID"] = $("#headqId").val();
-        headquarters["description"] = $("#hqDescription").val();
-        headquarters["contactList"] = clist;
-        headquarters["orgList"] = olist;
-        postData("headquarters",headquarters);
+            var olist = [];
+            $.each(hqOrgIdList, function (k, v) {
+                var o = {"orgID": k, "orgName": v};
+                olist.push(o);
+            });
+
+            var headquarters = {"headQName": $("#headqName").val()};
+            headquarters["headQID"] = $("#headqId").val();
+            headquarters["description"] = $("#hqDescription").val();
+            headquarters["contactList"] = clist;
+            headquarters["orgList"] = olist;
+            postData("headquarters", headquarters);
+        }
     });
 
     $("#headquarters-remove").click(function () {
@@ -162,21 +173,24 @@ function manageformlistener(orgIdList, powerIdList, heroIdList, headqIdList,
 
 
     $("#sighting-submit").click(function () {
-        var hlist = [];
-        $.each(sightingHeroIdList, function (k, v) {
-            var h = {"heroID": k, "heroName": v};
-            hlist.push(h);
-        });
 
-        var d = moment($("#sightingdate").val());
+        if (validateSightingForm(sightingHeroIdList) === false) {
 
-        var sighting = {"sightingID" : $("#sightingId").val()};
-        sighting["sightingTime"] = d.format("YYYY-MM-DD hh:mm:ss");
-        sighting["locID"] = $("#locations").val();
-        sighting["sightingHeroes"] = hlist;
-        postData("sightings",sighting);
+            var hlist = [];
+            $.each(sightingHeroIdList, function (k, v) {
+                var h = {"heroID": k, "heroName": v};
+                hlist.push(h);
+            });
 
+            var d = moment($("#sightingdate").val());
 
+            var sighting = {"sightingID": $("#sightingId").val()};
+            sighting["sightingTime"] = d.format("YYYY-MM-DD hh:mm:ss");
+            sighting["locID"] = $("#locations").val();
+            sighting["sightingHeroes"] = hlist;
+            postData("sightings", sighting);
+
+        }
     });
 
     $("#sighting-remove").click(function () {
@@ -186,27 +200,29 @@ function manageformlistener(orgIdList, powerIdList, heroIdList, headqIdList,
 
     $("#loc-submit").click(function () {
 
-        var location = {"locName" : $("#locName").val()};
-        location["locID"] = $("#locId").val();
-        location["latitude"] = $("#latitude").val();
-        location["longitude"] = $("#longitude").val();
-        location["country"] = $("#country").val();
-        location["city"] = $("#city").val();
-        location["state"] = $("#state").val();
-        location["address"] = $("#address").val();
-        location["zip"] = $("#zip").val();
-        location["description"] = $("#locDescription").val();
-        postData("locations",location);
+        if (validateLocationForm() === false) {
+
+            var location = {"locName": $("#locName").val()};
+            location["locID"] = $("#locId").val();
+            location["latitude"] = $("#latitude").val();
+            location["longitude"] = $("#longitude").val();
+            location["country"] = $("#country").val();
+            location["city"] = $("#city").val();
+            location["state"] = $("#state").val();
+            location["address"] = $("#address").val();
+            location["zip"] = $("#zip").val();
+            location["description"] = $("#locDescription").val();
+            postData("locations", location);
+
+        }
 
     });
 
     $("#loc-remove").click(function () {
         deleteData("locations?id="+$("#locId").val());
     });
-
-
-
 }
+
 
 function listbutton(ilist, slist, id, name) {
     delete ilist[id];
@@ -215,12 +231,15 @@ function listbutton(ilist, slist, id, name) {
         .attr("value", id).text(name));
 }
 
-function changelist(vlist, ilist, selid) {
+function changelist(vlist, ilist, selid, cat) {
     delete ilist[""];
     var sel = $("#" + selid + " option:selected");
     ilist[sel.val()] = sel.text();
-    vlist.append("<div id=" + selid + sel.val() + ">" + sel.text() +
-        "&nbsp &nbsp <button id='" + sel.text() + "' " +
+    vlist.append("<div class='gen-div' id=" + selid + sel.val() + ">"
+        + "<a target='_blank' href='./manage.html?cat="+cat+"&id=" + sel.val() + "'>"
+
+        + sel.text() +
+        "</a>&nbsp &nbsp <button id='" + sel.text() + "' " +
         "value='" + sel.val() + "' name='del' class='btn-circle'></button></div>");
     sel.remove();
 }

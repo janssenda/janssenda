@@ -62,7 +62,7 @@ button:hover,
 button:focus {outline: none;}
 
 .form-field{margin-bottom: 15px}
-.form-label{font-style: italic}
+.form-label{font-style: italic; font-weight: bold}
 
 
 #searchterms, #searchdate {
@@ -92,3 +92,7 @@ button:focus {outline: none;}
 #emailbutton{
     vertical-align: top;
 }
+
+#hq-orgs {width: 165px}
+#hqemail {width: 120px}
+.err {font-size: 9pt; color: red}

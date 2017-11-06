@@ -209,7 +209,7 @@ public class SearchController {
     @ResponseBody
     @RequestMapping(value = {"/sightings","/sightings/"}, method = RequestMethod.GET)
     public List<Sighting> getSightings(HttpServletRequest req) {
-        String id = null, date = null, locID = null;
+        String id = null, date = null, locID = null, limit = null;
 
         try {
             id = req.getParameter("id");
@@ -226,7 +226,12 @@ public class SearchController {
             if (locID.equals("null")) locID = null;
         } catch (NullPointerException e) {}
 
-        return dao.getFromSightings(id, date, locID);
+        try {
+            limit = req.getParameter("limit");
+            if (limit.equals("null")) limit = null;
+        } catch (NullPointerException e) {}
+
+        return dao.getFromSightings(id, date, locID, limit);
     }
 
 

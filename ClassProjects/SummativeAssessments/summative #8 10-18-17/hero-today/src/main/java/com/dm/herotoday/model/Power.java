@@ -1,10 +1,13 @@
 package com.dm.herotoday.model;
 
+import java.util.List;
+
 public class Power {
 
     private int powerID;
     private String powerName;
     private String description;
+    private List<Hero> heroList;
 
     public int getPowerID() {
         return powerID;
@@ -29,6 +32,10 @@ public class Power {
     public void setDescription(String description) {
         this.description = description;
     }
+
+    public List<Hero> getHeroList() {return heroList;}
+
+    public void setHeroList(List<Hero> heroList) {this.heroList = heroList;}
 
     @Override
     public boolean equals(Object o) {

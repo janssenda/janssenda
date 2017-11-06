@@ -108,20 +108,22 @@ public class SightingDaoImpl implements SightingDao {
 
     @Override
     public List<Sighting> getFromSightings(String... args) {
-        String[] allArgs = {null, null, null};
+        String[] allArgs = {null, null, null, null};
         System.arraycopy(args, 0, allArgs, 0, args.length);
-        return getFromSightings(allArgs[0], allArgs[1], allArgs[2]);
+        return getFromSightings(allArgs[0], allArgs[1], allArgs[2], allArgs[3]);
     }
 
     @Override
     @Transactional
-    public List<Sighting> getFromSightings(String sightingID, String sightTime, String locID) {
+    public List<Sighting> getFromSightings(String sightingID, String sightTime, String locID, String limit) {
 
         if (sightingID == null || sightingID.isEmpty()) { sightingID = null;}
         if (sightTime == null || sightTime.isEmpty()) {
             sightTime = null;
         } else sightTime = "%"+sightTime+"%";
         if (locID == null || locID.isEmpty()) {locID = null;}
+        if (limit == null || limit.isEmpty()) {limit = null;}
+
 
         String setup = "SET @SightingID = ?, @SightTime = ?, @LocID = ?; ";
 
@@ -140,6 +142,15 @@ public class SightingDaoImpl implements SightingDao {
             jdbcTemplate.execute(qdata);
 
             // Search for sightings based on the given criteria,
+            if (limit != null) {
+                try {
+                    int resLimit = Integer.parseInt(limit);
+                    return jdbcTemplate.query(GET_SIGHTING_QUERY_MULTI+" LIMIT ?", new SightMapper(), resLimit);
+                } catch (NumberFormatException e){
+
+                }
+            }
+
             return jdbcTemplate.query(GET_SIGHTING_QUERY_MULTI, new SightMapper());
 
         } catch (SQLException e) {

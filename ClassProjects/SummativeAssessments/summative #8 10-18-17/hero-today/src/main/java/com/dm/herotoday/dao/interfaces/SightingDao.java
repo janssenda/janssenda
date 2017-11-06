@@ -13,7 +13,7 @@ public interface SightingDao {
     public boolean updateSighting(Sighting sighting) throws SQLUpdateException;
     public List<Sighting> getAllSightings();
     public List<Sighting> getFromSightings(String... args);
-    public List<Sighting> getFromSightings(String sightingID, String sightTime, String locID);
+    public List<Sighting> getFromSightings(String sightingID, String sightTime, String locID, String limit);
     public boolean ifExists(int sightingID);
     public Integer removeFromSightings(String locID);
 }

@@ -13,10 +13,15 @@ public class Sighting {
     private int sightingID;
     private int locID;
     private List<Hero> sightingHeroes;
+    private Location loc;
 
     @JsonSerialize(using = ToStringSerializer.class)
     @JsonDeserialize(using = ParseDeserializer.class)
     private LocalDateTime sightingTime;
+
+    public Location getLoc() {return loc; }
+
+    public void setLoc(Location loc) {this.loc = loc;}
 
     public List<Hero> getSightingHeroes() {
         return sightingHeroes;

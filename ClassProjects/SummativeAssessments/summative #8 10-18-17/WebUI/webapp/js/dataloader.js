@@ -13,14 +13,18 @@ function loadHeroData(data) {
 
     $.each(hero.heroPowers, function (index, p) {
         powerIdList[p.powerID] = p.powerName;
-        $("#powerlist").append("<div id=" + "powers" + p.powerID + ">" + p.powerName +
-            "&nbsp &nbsp <button id='" + p.powerName + "' " +
+        $("#powerlist").append("<div id=" + "powers" + p.powerID + ">"
+            + "<a target='_blank' href='./manage.html?cat=powers&id=" + p.powerID + "'>"
+            + p.powerName +
+            "</a>&nbsp &nbsp <button id='" + p.powerName + "' " +
             "value='" + p.powerID + "' name='del' class='btn-circle'></button></div>");
     });
 
     $.each(hero.heroOrgs, function (index, o) {
         orgIdList[o.orgID] = o.orgName;
-        $("#orglist").append("<div id=" + "orgs" + o.orgID + ">" + o.orgName +
+        $("#orglist").append("<div id=" + "orgs" + o.orgID + ">"
+            + "<a target='_blank' href='./manage.html?cat=orgs&id=" + o.orgID + "'>"
+            + o.orgName +
             "&nbsp &nbsp <button id='" + o.orgName + "' " +
             "value='" + o.orgID + "' name='del' class='btn-circle'></button></div>");
 
@@ -40,14 +44,18 @@ function loadOrgData(data) {
 
     $.each(org.members, function (index, m) {
         heroIdList[m.heroID] = m.heroName;
-        $("#herolist").append("<div id=" + "heroes" + m.heroID + ">" + m.heroName +
+        $("#herolist").append("<div id=" + "heroes" + m.heroID + ">"
+            + "<a target='_blank' href='./manage.html?cat=heroes&id=" + m.heroID + "'>"
+            + m.heroName +
             "&nbsp &nbsp <button id='" + m.heroName + "' " +
             "value='" + m.heroID + "' name='del' class='btn-circle'></button></div>");
     });
 
     $.each(org.orgHeadQ, function (index, hq) {
         headqIdList[hq.headQID] = hq.headQName;
-        $("#headqlist").append("<div id=" + "headquarters" + hq.headQID + ">" + hq.headQName +
+        $("#headqlist").append("<div id=" + "headquarters" + hq.headQID + ">"
+            + "<a target='_blank' href='./manage.html?cat=headquarters&id=" + hq.headQID + "'>"
+            + hq.headQName +
             "&nbsp &nbsp <button id='" + hq.headQName + "' " +
             "value='" + hq.headQID + "' name='del' class='btn-circle'></button></div>");
     });
@@ -67,14 +75,17 @@ function loadHeadquartersData(data) {
 
     $.each(headq.orgList, function (index, o) {
         hqOrgIdList[o.orgID] = o.orgName;
-        $("#hqorglist").append("<div id=" + "hq-orgs" + o.orgID + ">" + o.orgName +
+        $("#hqorglist").append("<div id=" + "hq-orgs" + o.orgID + ">"
+            + "<a target='_blank' href='./manage.html?cat=orgs&id=" + o.orgID + "'>"
+            + o.orgName +
             "&nbsp &nbsp <button id='" + o.orgName + "' " +
             "value='" + o.orgID + "' name='del' class='btn-circle'></button></div>");
     });
 
     $.each(headq.contactList, function (index, c) {
         contactIdList.push(c.email);
-        $("#contactlist").append("<div id='e" + index + "'>" + c.email +
+        $("#contactlist").append("<div id='e" + index + "'>"
+            + c.email +
             "&nbsp &nbsp <button  " +
             "value='e" + index + "' name='del-email' class='btn-circle'></button></div>");
     });
@@ -88,6 +99,11 @@ function loadPowerData(data) {
     $("#powerName").val(power.powerName);
     $("#powerDescription").val(power.description);
     $("#powerId").val(power.powerID);
+
+    $.each(power.heroList, function (index, h) {
+        $("#powerherolist").append("<span class='label'><a href='./manage.html?cat=heroes&id=" + h.heroID
+            + "'>" + h.heroName + "</a></span><br/>");
+    });
 
     manageformlistener({}, {}, {}, {}, {}, {}, []);
 }
@@ -104,7 +120,9 @@ function loadSightingData(data) {
 
     $.each(sighting.sightingHeroes, function (index, h) {
         sightingHeroIdList[h.heroID] = h.heroName;
-        $("#sightingherolist").append("<div id=" + "sighting-herolist" + h.heroID + ">" + h.heroName +
+        $("#sightingherolist").append("<div id=" + "sighting-herolist" + h.heroID + ">"
+            + "<a target='_blank' href='./manage.html?cat=heroes&id=" + h.heroID + "'>"
+            + h.heroName +
             "&nbsp &nbsp <button id='" + h.heroName + "' " +
             "value='" + h.heroID + "' name='del' class='btn-circle'></button></div>");
     });
@@ -127,6 +145,14 @@ function loadLocationData(data) {
     $("#address").val(location.address);
     $("#zip").val(location.zip);
     $("#locDescription").val(location.description);
+
+
+    $.each(location.locSightings, function (index, s) {
+        var d = moment(s.sightingTime);
+        $("#sightinglist").append("<span class='label'><a href='./manage.html?cat=sightings&id=" + s.sightingID
+            + "'>" + d.format("MMM Do YY, h:mm a") + "</a></span><br/>");
+    });
+
     manageformlistener({}, {}, {}, {}, {}, {}, {});
 }
 

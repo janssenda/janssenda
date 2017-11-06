@@ -2,17 +2,18 @@
 body{
     font-family: Arial;
     background-color: #f7f7f7;
+    font-size: 11pt;
 
 }
 a, a:visited {color: black}
-a:hover, a.active {color: #c80022; text-decoration: none}
+.label a:hover, .label a:active, a:hover, a.active {color: #c80022; text-decoration: none}
 .navsep {width: 20px; margin-left: 10px; margin-right: 10px}
 
 
 
 .mainnavbar{text-align: left; border:1px solid black; padding:10px; background-color: #f7f7f7}
 .shnav{padding-left: 10px; padding-right: 10px;}
-.pageTitle, a, td {font-family: "Arial"; font-size: 10pt}
+.pageTitle, a, td, .gen-div {font-family: "Arial"; font-size: 10pt}
 
 
 #resultstable {border-radius: 5px; border: 2px solid black; border-collapse: separate; border-spacing: 0; width: 100%}
@@ -35,7 +36,15 @@ td {padding-right: 10px}
 
 .spacer{width:20px; display: inline-block}
 .spacer-sm{width:10px; display: inline-block}
+.feeddiv {border: dotted 1px black;  border-radius: 5px; padding: 10px; width: 100%;}
 
 
+.toprow, .toprow a {font-weight: bold; text-decoration: underline; font-size: 12pt}
+.label, .label a {font-family: Arial; font-size: 11pt}
+.label a {color: #09cc34}
+.test {border: 1px dotted blue}
+.map-box{border: 2px solid black; border-radius: 5px}
 
+
+.feeddiv, #newsfeed{text-align: left; margin-left: auto; margin-right: auto}
 

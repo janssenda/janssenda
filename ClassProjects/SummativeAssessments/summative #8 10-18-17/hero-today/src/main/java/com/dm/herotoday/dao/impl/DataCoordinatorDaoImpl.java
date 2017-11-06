@@ -72,6 +72,10 @@ public class DataCoordinatorDaoImpl implements DataCoordinatorDao {
             "SELECT PowerID FROM heroes INNER JOIN superpowersheroes ON " +
             "heroes.HeroID = superpowersheroes.HeroID WHERE heroes.HeroID = ?;";
 
+    private static final String POWER_HERO_MAP = "" +
+            "SELECT HeroID FROM superpowers INNER JOIN superpowersheroes ON " +
+            "superpowers.PowerID = superpowersheroes.PowerID WHERE superpowers.PowerID = ?;";
+
     private static final String HERO_SIGHTING_MAP = "" +
             "SELECT SightingID FROM heroes INNER JOIN sightingsheroes ON " +
             "heroes.HeroID = sightingsheroes.HeroID WHERE heroes.HeroID = ?;";
@@ -367,10 +371,14 @@ public class DataCoordinatorDaoImpl implements DataCoordinatorDao {
     @Override
     @Transactional
     public List<Sighting> getFromSightings(String... args) {
-        String[] allArgs = varArgs(args, 3);
-        List<Sighting> sightingList = sightingDao.getFromSightings(allArgs[0], allArgs[1], allArgs[2]);
+        String[] allArgs = varArgs(args, 4);
+        List<Sighting> sightingList = sightingDao.getFromSightings(allArgs[0], allArgs[1], allArgs[2], allArgs[3]);
 
-        sightingList.forEach((s) -> setSightingHeroes(s));
+        sightingList.forEach((s) -> {
+            setSightingHeroes(s);
+            s.setLoc(locDao.getFromLocations(Integer.toString(s.getLocID())).get(0));
+        });
+
         return sightingList;
     }
 
@@ -396,7 +404,13 @@ public class DataCoordinatorDaoImpl implements DataCoordinatorDao {
     @Override
     public List<Power> getFromPowers(String... args) {
         String[] allArgs = varArgs(args, 3);
-        return powerDao.getFromPowers(allArgs[0], allArgs[1], allArgs[2]);
+        List<Power> powerList = powerDao.getFromPowers(allArgs[0], allArgs[1], allArgs[2]);
+        powerList.forEach((p) -> {
+            setPowerHeroes(p);
+        });
+
+
+        return powerList;
     }
 
     @Override
@@ -469,6 +483,15 @@ public class DataCoordinatorDaoImpl implements DataCoordinatorDao {
                     objList.add(orgDao.getFromOrgs(o).get(0));
                 });
         h.setOrgList(objList);
+    }
+
+    private void setPowerHeroes(Power p) {
+        List<Hero> objList = new ArrayList<>();
+        resLoop(jdbcTemplate.queryForList(POWER_HERO_MAP, p.getPowerID()))
+                .forEach((h) -> {
+                    objList.add(heroDao.getFromHeroes(h).get(0));
+                });
+        p.setHeroList(objList);
     }
 
     private void setOrgHeroes(Organization o) {

@@ -11,7 +11,7 @@
 <body>
 <div id="page" class="container text-center">
     <div class="row">
-        <div class="col-lg-12 text-center">
+        <div class="col-lg-12 text-center c-container">
             <br/>
             <div class="mainnavbar rounded">
                 <a href="index.html">
@@ -43,21 +43,23 @@
         <div class="col-md-4 text-left">
             <span class="form-label">Category: &nbsp</span>
             <select id="category" class="forminput">
-                <option value="heroes" selected>Hero</option>
-                <option value="orgs">Organization</option>
-                <option value="locations">Location</option>
-                <option value="sightings">Sighting</option>
-                <option value="powers">Superpower</option>
+                <option value="heroes" selected>Heroes</option>
+                <option value="orgs">Organizations</option>
+                <option value="locations">Locations</option>
+                <option value="sightings">Sightings</option>
+                <option value="powers">Superpowers</option>
                 <option value="headquarters">Headquarters</option>
             </select>
         </div>
     </div>
     <hr/>
-    <div class="row text-left" style="display: none" id="heroes-form">
+    <div class="row text-left m-form" style="display: none" id="heroes-form">
         <div class="col-sm-3">
             <span id="heroId"></span>
-            <span class="form-label">Hero Name: </span><br/>
+            <div id="heroNameErr" class="err"></div>
+            <span class="form-label">Hero Name: <br/>
             <input class="form-field" type="text" id="heroName"/><br/>
+             <div id="heroTypeErr" class="err"></div>
             <span class="form-label">Hero Type: </span><br/>
             <input class="form-field" type="text" id="heroType" value="Default"><br/>
             <span class="form-label">Description: </span><br/>
@@ -87,6 +89,7 @@
     <div class="row text-left" style="display: none" id="orgs-form">
         <div class="col-sm-3">
             <span id="orgId"></span>
+            <div id="orgNameErr" class="err"></div>
             <span class="form-label">Org Name: </span><br/>
             <input class="form-field" type="text" id="orgName"/><br/>
             <span class="form-label">Description: </span><br/>
@@ -138,8 +141,10 @@
             <input class="form-field" type="number" id="zip"/><br/>
         </div>
         <div class="col-md-3 border-right">
+            <div id="latErr" class="err"></div>
             <span class="form-label">Latitude: </span><br/>
             <input class="form-field" type="number" id="latitude"/><br/>
+            <div id="lonErr" class="err"></div>
             <span class="form-label">Longititude: </span><br/>
             <input class="form-field" type="number" id="longitude"/><br/>
         </div>
@@ -151,8 +156,9 @@
 
 
     <div class="row text-left" style="display: none" id="powers-form">
-        <div class="col-sm-3 border-right">
+        <div class="col-sm-7 border-right">
             <span id="powerId"></span>
+            <div id="powerNameErr" class="err"></div>
             <span class="form-label">Power Name: </span><br/>
             <input class="form-field" type="text" id="powerName"/><br/>
             <span class="form-label">Description: </span><br/>
@@ -169,16 +175,18 @@
     <div class="row text-left" style="display: none" id="headquarters-form">
         <div class="col-sm-3">
             <span id="headqId"></span>
+            <div id="headQNameErr" class="err"></div>
             <span class="form-label">Name: </span><br/>
             <input class="form-field" type="text" id="headqName"/><br/>
-            <span class="form-label">Street Address: </span><br/>
+            <div id="headQLocErr" class="err"></div>
+            <span class="form-label">Location: </span><br/>
             <input class="form-field" type="text" id="hqAddress"/><br/>
             <span class="form-label">Description: </span><br/>
             <textarea class="form-field" type="text" id="hqDescription"></textarea><br/>
             <button id="headquarters-submit">Submit</button>
             <button id="headquarters-remove" class="removebutton" style="display: none">Remove</button>
         </div>
-        <div class="col-md-3 border-right">
+        <div class="col-md-4 border-right">
             <span class="form-label">Email: </span><br/>
             <input class="form-field" type="email" id="hqemail"/>
             &nbsp <button id="emailbutton">>></button>      <br/>
@@ -188,15 +196,18 @@
         </div>
         <div class="col-md-3 border-right" id='contactlist-div'>
             <span class="form-label">Email Contacts: </span><br/>
-            <div id="contactlist"></div>
+            <div id="contactlist">
+                <div id="headQEmailErr" class="err"></div>
+            </div>
         </div>
-        <div class="col-md-3" id='hqorglist-div'>
+        <div class="col-md-2" id='hqorglist-div'>
             <span class="form-label">Used by: </span><br/>
             <div id="hqorglist"></div>
         </div>
     </div>
     <div class="row text-left" style="display: none" id="sightings-form">
         <div class="col-sm-7 border-right">
+            <div id="sightingDateErr" class="err"></div>
             <span class="form-label">Date: </span><br/>
             <input class="form-field" type="datetime-local" id="sightingdate"/><br/>
             <span id="sightingId"></span>
@@ -204,6 +215,7 @@
             <span class="form-label">Heroes: &nbsp </span><br/>
             <select id="sighting-herolist" class="form-field">
             </select><br/>
+            <div id="sightingLocErr" class="err"></div>
             <span class="form-label">Location: &nbsp </span><br/>
             <select id="locations" class="form-field">
             </select><br/>
@@ -213,7 +225,9 @@
 
         <div class="col-md-3" id='sighting-herolist-div'>
             <span class="form-label">Current Heroes: </span><br/>
-            <div id="sightingherolist"></div>
+            <div id="sightingherolist">
+                <div id="sightingHeroErr" class="err"></div>
+            </div>
         </div>
     </div>
 
@@ -228,5 +242,6 @@
 <script src="js/general/moment.min.js"></script>
 <script src="js/dataloader.js"></script>
 <script src="js/formhandler.js"></script>
+<script src="js/validation.js"></script>
 <script src="js/formdatahandler.js"></script>
 </html>
