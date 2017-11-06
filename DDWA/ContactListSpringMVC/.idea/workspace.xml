@@ -7,9 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f381db57-f1d7-4709-91b7-19143206894f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ClassProjects/SummativeAssessments/summative #8 10-18-17/hero-today/src/main/java/com/dm/herotoday/controller/ChangeController.java" afterPath="$PROJECT_DIR$/../../ClassProjects/SummativeAssessments/summative #8 10-18-17/hero-today/src/main/java/com/dm/herotoday/controller/ChangeController.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ClassProjects/SummativeAssessments/summative #8 10-18-17/hero-today/src/main/java/com/dm/herotoday/exceptions/DuplicateEntryException.java" afterPath="$PROJECT_DIR$/../../ClassProjects/SummativeAssessments/summative #8 10-18-17/hero-today/src/main/java/com/dm/herotoday/exceptions/DuplicateEntryException.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ClassProjects/SummativeAssessments/summative #8 10-18-17/hero-today/src/main/java/com/dm/herotoday/exceptions/SQLUpdateException.java" afterPath="$PROJECT_DIR$/../../ClassProjects/SummativeAssessments/summative #8 10-18-17/hero-today/src/main/java/com/dm/herotoday/exceptions/SQLUpdateException.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -637,7 +635,7 @@
       <workItem from="1508775543632" duration="22000" />
       <workItem from="1509049911392" duration="745000" />
       <workItem from="1509300059331" duration="1076000" />
-      <workItem from="1509975953423" duration="1025000" />
+      <workItem from="1509975953423" duration="1623000" />
     </task>
     <servers />
   </component>
@@ -665,7 +663,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52802000" />
+    <option name="totallyTimeSpent" value="53400000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
