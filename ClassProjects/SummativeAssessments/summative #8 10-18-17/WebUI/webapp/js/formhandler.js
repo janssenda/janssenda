@@ -20,6 +20,8 @@ $(document).ready(function () {
 });
 
 function postData(urlname, data){
+    $("#success").hide();
+    $("#failure").hide();
     $.ajax({
         type: "POST",
         url: "http://localhost:8080/"+urlname,
@@ -27,22 +29,38 @@ function postData(urlname, data){
         headers: {
             "Accept": "application/json",
             "Content-Type": "application/json"},
-        success: function () {clearForm();},
-        error: function () {alert("fail")}
+        success: function () {
+            $("#success").show();
+            clearForm();},
+        error: function (errmsg, txtstatus) {
+            var msg = JSON.parse(errmsg.responseText).message;
+            $("#failure").html(msg);
+            $("#failure").show();
+           }
     });
 }
 
 function deleteData(urlname){
+    $("#success").hide();
+    $("#failure").hide();
     $.ajax({
         type: "DELETE",
         url: "http://localhost:8080/"+urlname,
-        success: function () {clearForm();},
-        error: function () {alert("fail")}
+        success: function () {
+            $("#success").show();
+            clearForm();},
+        error: function (errmsg, txtstatus) {
+            var msg = JSON.parse(errmsg.responseText).message;
+            $("#failure").html(msg);
+            $("#failure").show();
+        }
     });
 }
 
 
 function loadEditForm(cat, id){
+    $("#success").hide();
+    $("#failure").hide();
     $(".removebutton").show();
     $.ajax({
         type: "GET",
@@ -138,6 +156,7 @@ function clearLocationsForm(){
 function formdisplaymanager(editcat) {
     var category = $("#category");
     category.change(function () {
+
         hideforms();
         switch (category.val()) {
             case "heroes": $("#heroes-form").show(); break;
@@ -156,6 +175,8 @@ function formdisplaymanager(editcat) {
 }
 
 function hideforms() {
+    $("#success").hide();
+    $("#failure").hide();
     $("#heroes-form").hide();
     $("#orgs-form").hide();
     $("#headquarters-form").hide();

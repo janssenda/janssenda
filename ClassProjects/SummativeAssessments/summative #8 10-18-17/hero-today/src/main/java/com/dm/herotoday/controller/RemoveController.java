@@ -21,7 +21,8 @@ public class RemoveController {
 
     @RequestMapping(value = {"/heroes","/heroes/"}, method = RequestMethod.DELETE)
     @ResponseBody
-    public boolean removeHero(HttpServletRequest req) {
+    @ExceptionHandler
+    public boolean removeHero(HttpServletRequest req) throws SQLUpdateException{
 
         try {
             return dao.removeHero(Integer.parseInt(req.getParameter("id")));
@@ -32,7 +33,8 @@ public class RemoveController {
 
     @RequestMapping(value = {"/powers","/powers/"}, method = RequestMethod.DELETE)
     @ResponseBody
-    public boolean removePower(HttpServletRequest req) {
+    @ExceptionHandler
+    public boolean removePower(HttpServletRequest req)throws SQLUpdateException {
 
         try {
             return dao.removePower(Integer.parseInt(req.getParameter("id")));
@@ -43,7 +45,8 @@ public class RemoveController {
 
     @RequestMapping(value = {"/orgs","/orgs/"}, method = RequestMethod.DELETE)
     @ResponseBody
-    public boolean removeOrg(HttpServletRequest req) {
+    @ExceptionHandler
+    public boolean removeOrg(HttpServletRequest req) throws SQLUpdateException{
 
         try {
             return dao.removeOrg(Integer.parseInt(req.getParameter("id")));
@@ -54,7 +57,8 @@ public class RemoveController {
 
     @RequestMapping(value = {"/headquarters","/headquarters/"}, method = RequestMethod.DELETE)
     @ResponseBody
-    public boolean removeHeadquarters(HttpServletRequest req) {
+    @ExceptionHandler
+    public boolean removeHeadquarters(HttpServletRequest req)throws SQLUpdateException {
 
         try {
             return dao.removeHeadquarters(Integer.parseInt(req.getParameter("id")));
@@ -65,7 +69,8 @@ public class RemoveController {
 
     @RequestMapping(value = {"/locations","/locations/"}, method = RequestMethod.DELETE)
     @ResponseBody
-    public boolean removeLocation(HttpServletRequest req) {
+    @ExceptionHandler
+    public boolean removeLocation(HttpServletRequest req)throws SQLUpdateException {
 
         try {
             return dao.removeLocation(Integer.parseInt(req.getParameter("id")));
@@ -76,7 +81,8 @@ public class RemoveController {
 
     @RequestMapping(value = {"/sightings","/sightings/"}, method = RequestMethod.DELETE)
     @ResponseBody
-    public boolean removeSighting(HttpServletRequest req) {
+    @ExceptionHandler
+    public boolean removeSighting(HttpServletRequest req) throws SQLUpdateException{
 
         try {
             return dao.removeSighting(Integer.parseInt(req.getParameter("id")));
