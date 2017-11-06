@@ -4,6 +4,7 @@ import com.dm.herotoday.dao.interfaces.DataCoordinatorDao;
 import com.dm.herotoday.exceptions.DuplicateEntryException;
 import com.dm.herotoday.exceptions.SQLUpdateException;
 import com.dm.herotoday.model.*;
+import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;
 import org.springframework.web.bind.annotation.RestController;
 import javax.inject.Inject;
@@ -22,13 +23,15 @@ public class ChangeController {
 
     @RequestMapping(value = {"/heroes","/heroes/"}, method = RequestMethod.POST)
     @ResponseBody
-    public Hero changeHero(@RequestBody Hero hero) {
+    @ExceptionHandler
+    public Hero changeHero(@RequestBody Hero hero) throws SQLUpdateException, DuplicateEntryException {
 
-        try {
-            return dao.changeHero(hero);
-        } catch (DuplicateEntryException | SQLUpdateException e) {
-            return hero;
-        }
+        return dao.changeHero(hero);
+//        try {
+//            return dao.changeHero(hero);
+//        } catch (DuplicateEntryException | SQLUpdateException e) {
+//            return hero;
+//        }
     }
 
     @RequestMapping(value = {"/powers","/powers/"}, method = RequestMethod.POST)
