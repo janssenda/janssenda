@@ -1,0 +1,260 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>The New Carag</title>
+
+    <link href="css/general/bootstrap.css" rel="stylesheet">
+    <link href="css/bootstrapoverride.css" rel="stylesheet">
+    <link href="css/modalcss.css" rel="stylesheet">
+    <link href="css/tnc.css" rel="stylesheet">
+
+</head>
+<body>
+
+<div id="page">
+
+    <nav class="navbar navbar-default navbar-inverse navbar-fixed-top">
+        <div class="container-fluid" id="navbar-container">
+            <div class="navbar-header">
+                <a class="navbar-brand" id="brand" href="#">The New Carag</a>
+            </div>
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="nav navbar-nav navbar-right" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav fixedh">
+                    <!--<li class="active"><a class="fixedh" href="#">Link</a></li>-->
+                    <!--<li><a role="button" href="danimaetrix.html">Me</a></li>-->
+                    <li class="navbutton"><a href="danimaetrix.html">Me</a></li>
+                         <li id="dropmenu" class="dropdown active" >
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+                           aria-expanded="false">Projects <span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                            <li><a target="_blank" href="http://thenewcarag.com/onefinalnote">One Final Note</a></li>
+                            <li><a target="_blank" href="http://thenewcarag.com/herotoday">Hero Today</a></li>
+                            <li><a target="_blank" href="http://thenewcarag.com/lastworldvending">Last World Vending</a>
+                            </li>
+
+                            <!--<li><a href="#">Separated link</a></li>-->
+                            <!--<li role="separator" class="divider"></li>-->
+                            <!--<li><a href="#">One more separated link</a></li>-->
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+
+    <div id="content">
+        <div class="content-div">
+            <div class="title"><a target="_blank" class="lnk" href="http://thenewcarag.com/onefinalnote">
+                <span class="title-text">One Final Note</span>
+            </a></div>
+            <div class="image-div">
+                <img class="post-image" alt="One Final Note" src="images/onefinalnote/demo-screenshot_thumb.jpg"/>
+                <img class="post-image" alt="Froala Editor" src="images/onefinalnote/editscreen_thumb.jpg"/>
+            </div>
+            <div class="post-body"><p>
+                One Final Note is a music themed blog and is the result of a final capstone group project
+                at The Software Guild, built by a team of three. The app was designed around a spec sheet
+                from an imaginary customer
+                who wanted a personal blog website. An interesting characteristic of the site is an
+                ability to expand itself at the owners discretion. A static page feature is built in
+                which allows the owner to write new pages for the site without writing any HTML code,
+                and add them to the normal structure. A WYSWIG editor called Froala was used to accomplish
+                this. Froala generates HTML code, which is stored along with relevant information in the
+                database. The pages are then generated and served upon request for the front end. All posts
+                and pages have states of published and unpublished, allowing for flexible editing and timed
+                posts.
+
+                <br/><br/>
+                Spring security is employed to provide 4 access levels to serve the owner and site admins.
+                A lower level role allows anyone visiting the site to create an account so they can participate
+                in comments on all the blog posts. Comments can be moderated by site admins. A role management
+                panel allows admins and owners to manage all users and adjust their roles or disable them.
+
+                <br/><br/>
+                Because Spring security was a requirement, the app was built largely on a JSP/JSTL framework,
+                with accompanying javascript for smooth front end functionality. All data is stored on a
+                MySQL server and is managed through a standard MVC java app using Spring/JDBC.
+
+            </p></div>
+            <div class="post-date">Updated <span class="date-text">11-10-2017</span>&nbsp &nbsp
+                Download: <a target="_blank" class="lnk" href="https://github.com/janssenda/onefinalnote">
+                    <span class="filelink">Github</span></a></div>
+        </div>
+        <div class="content-div">
+            <div class="title"><a target="_blank" class="lnk" href="http://thenewcarag.com/herotoday">
+                <span class="title-text">Hero Today, Gone Tomorrow!</span>
+            </a></div>
+            <div class="image-div">
+                <img class="post-image" alt="Hero Today, Gone Tomorrow!" src="images/heroimages/hero_demo_thumb.jpg"/>
+                <img class="post-image" alt="Search engine for database"
+                     src="images/heroimages/searchresults_thumb.jpg"/>
+            </div>
+            <div class="post-body"><p>
+                A MySQL database driven web app created for citizens to report sightings of superheroes.
+                Various information is tracked including lists of organizations (i.e., Avengers),
+                superpowers, locations, headquarters, and more. The app is a full fledged CRUD system
+                that allows users to create, edit and update a carefully built database.
+
+                <br/><br/>
+                Data was originally generated by hand research, and a vast 2000+ data point collection
+                of sightings and locations was generated randomly. All locations are real world coordinates,
+                and the home screen shows the geo-location of the most recent sightings.
+
+                <br/><br/>
+                The app was built using Spring-boot and runs as a standalone servlet REST controller. The
+                front end is completely de-coupled, and runs as a plain website on a tomcat server. Communiction
+                flows between the front end, REST controller, and database quickly and smoothly. Since the app
+                was built with this flexible design in mind, the option for a mobile front end is plausible.
+
+            </p></div>
+            <div class="post-date">Updated <span class="date-text">11-10-2017</span>&nbsp &nbsp
+                Download: <a target="_blank" class="lnk" href="https://github.com/janssenda/herotoday">
+                    <span class="filelink">Github</span></a></div>
+        </div>
+        <div class="content-div">
+            <div class="title"><a target="_blank" class="lnk" href="http://thenewcarag.com/lastworldvending">
+                <span class="title-text">Last World Vending</span>
+            </a></div>
+            <div class="image-div">
+                <img class="post-image" alt="Last World Vending"
+                     src="images/vendingmachineimages/mainscreen_thumb.jpg"/>
+                <img class="post-image" alt="Result of a successful purchase"
+                     src="images/vendingmachineimages/purchase_thumb.jpg"/><br/>
+                <img class="post-image" alt="Oh no! Items are jammed!"
+                     src="images/vendingmachineimages/jammeditems_thumb.jpg"/>
+                <img class="post-image" alt="Careful when shaking the machine..."
+                     src="images/vendingmachineimages/death_thumb.jpg"/>
+            </div>
+            <div class="post-body"><p>
+                Lost world vending is a vending machine simulator based on java, spring-jsp/jstl, and
+                a mysql back end. The app is themed as a dystopian, fallout-style machine to give the
+                user a sense of nostalgia and mystery. There are 9 menu items to choose from. You can
+                enable realism mode (if you dare) for some frustrating outcomes and the chance to shake
+                the machine!
+
+                <br/><br/>
+                The app consists of a standard MVC profile and was adapted from a simple console version
+                to a richer web experience using Spring and was deployed as a standard tomcat web app.
+                Since browser compatibility was not a concern during this project, Chrome or safari are
+                recommended for the best viewing experience.
+            </p></div>
+            <div class="post-date">Updated <span class="date-text">11-10-2017</span>&nbsp &nbsp
+                Download: <a target="_blank" class="lnk" href="https://github.com/janssenda/lastworldvending">
+                    <span class="filelink">Github</span></a>
+            </div>
+        </div>
+
+        <div class="content-div">
+        <div class="title"><a target="_blank" class="lnk" href="./files/13thFloor.rar">
+            <span class="title-text">13th Floor</span>
+        </a></div>
+        <div class="image-div">
+            <img class="post-image" alt="13th Floor" src="images/13thfloor/main_thumb.jpg"/>
+            <img class="post-image" alt="Single order overview" src="images/13thfloor/order_thumb.jpg"/><br/>
+            <img class="post-image" alt="Search results by date" src="images/13thfloor/search_thumb.jpg"/>
+            <img class="post-image" alt="Search results by name" src="images/13thfloor/wolfsearch_thumb.jpg"/>
+        </div>
+        <div class="post-body"><p>
+
+            An imaginary flooring company has been tasked with providing a wide range of flooring
+            options in a fantasy world. The data set in this demonstration consists of 13000+ orders
+            spanning a wide range of details.
+
+            <br/><br/>
+            The implementation is java via standard Spring MVC/AOP structure, with a pure file IO back end.
+            Orders are stored on a file-per-day basis (as defined in the spec). A safe data scheme is employed
+            wherein each order is copied to a subdirectory before changes are made. If the changes are verified,
+            the old file is removed. Otherwise, the original file is restored intact and the app lets the user know.
+
+            <br/><br/>
+            Use 13thFloor-BlackWhite.exe if running on windows, since the windows console does not support
+            ANSI color codes. Please make sure to expand your console window once the program launches,
+            since the search option requires a large width!!! (On windows, a console width of 150 should suffice).
+
+            <br/><br/>
+            Jar versions (colored and black and white) are provided for linux and mac deployment. Use the color
+            version where possible for the best experience!
+
+            floor13.cfg provides the app with details such as file directory location for the orders and meta data,
+            and a training mode option that can be enabled. In training mode, all changes to data are retained in
+            memory for the duration of the run process, but are never persisted to the file base. Please note
+            that Java 1.8 or later is needed to run this app.
+        </p></div>
+        <div class="post-date">
+            Updated <span class="date-text">11-12-2017</span> &nbsp &nbsp
+            Download: <a target="_blank" class="lnk" href="./files/13thFloor.rar"> &nbsp
+            <span class="filelink">JAR/EXE Bundle</span></a> /
+            <a target="_blank" class="lnk" href="https://github.com/janssenda/13thfloor">
+                <span class="filelink">Github</span></a>
+        </div>
+    </div>
+
+        <div class="content-div">
+            <div class="title"><a target="_blank" class="lnk" href="./files/13thFloor.rar">
+                <span class="title-text">Last World Vending (Console)</span>
+            </a></div>
+            <div class="image-div">
+                <img class="post-image" alt="Last World Vending" src="images/vendingconsolescreenshots/main_thumb.jpg"/>
+                <img class="post-image" alt="Make a purchase" src="images/vendingconsolescreenshots/purchase_thumb.jpg"/><br/>
+                <img class="post-image" alt="Oh no, it's a jam!!" src="images/vendingconsolescreenshots/jam_thumb.jpg"/>
+                <img class="post-image" alt="Shaking the machine is not recommended" src="images/vendingconsolescreenshots/shakedeath_thumb.jpg"/>
+            </div>
+            <div class="post-body"><p>
+
+                The web app version of the vending machine originally started out as a Spring-driven console app.
+                The underlying codebase is identical, but the the console version uses pure text on the front end
+                and standard data file storage on the back end. The app also uses AOP/AspectJ logging in order to keep
+                track of exceptions, jams, and shake/death events.
+
+                <br/><br/>
+                A logic layer was added on top of the standard service layer to introduce some realism effects
+                to the machine operation. Specifically, the layer was configured to jam the machine a certain
+                percentage of time, taking the user's money.  The user can see a list of currently jammed items,
+                as they are stored in memory as unique objects.  The user has an option to shake the machine,
+                which causes a random percentage of stuck items to fall down.  The shake operation comes at
+                a risk, however - the machine may tip over and kill the user! The logic can be configured in
+                an external file called "logic.cfg".
+
+                <br/><br/>
+                The inventory was created with an intentional complexity - every single item in the machine
+                has unique properties, including expiration date and a message for the user.  Items are
+                treated individually and as collections throughout the program.  This approach makes it
+                straightforward to track conditions for specific items.  An upside to this is that when
+                an item gets jammed, it is possible for the user to get back the same item they purchased!
+
+                Packaged using maven and wrapped into EXE for windows. Run on the command line, or by
+                double click on windows!
+
+            </p></div>
+            <div class="post-date">
+                Updated <span class="date-text">11-12-2017</span> &nbsp &nbsp
+                Download: <a target="_blank" class="lnk" href="./files/LastWorldConsole.rar"> &nbsp
+                <span class="filelink">JAR/EXE Bundle</span></a> /
+                <a target="_blank" class="lnk" href="https://github.com/janssenda/lastworldvending">
+                    <span class="filelink">Github</span></a>
+            </div>
+        </div>
+
+
+    </div>
+
+
+</div>
+<div style="clear: both"></div>
+
+<div id="myModal" class="modal">
+    <div id="close" class="close">&times;</div>
+    <img class="modal-content" id="modalImg"/>
+    <div id="caption"></div>
+</div>
+
+
+</body>
+<script src="js/general/jquery-3.2.1.min.js"></script>
+<script src="js/general/bootstrap.min.js"></script>
+<script src="js/general/moment.min.js"></script>
+<script src="js/tnc.js"></script>
+</html>

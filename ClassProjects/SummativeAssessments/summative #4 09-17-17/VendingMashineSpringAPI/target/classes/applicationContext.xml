@@ -47,7 +47,7 @@
 
     <bean id="controller" class="com.dm.vendingmashine.controller.Controller" >    
         <constructor-arg ref="textView" />
-        <constructor-arg ref="logicRealistic" />
+        <constructor-arg ref="vendingService" />
     </bean>
     
     <bean id="loggingAspect" class="com.dm.vendingmashine.advice.LoggingAspect">

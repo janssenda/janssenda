@@ -26,7 +26,7 @@ and open the template in the editor.
     <aop:aspectj-autoproxy />
     
     
-    <bean id="userIo" class="com.danimaetrix.library.io.UserIoConsoleColorImpl" />
+    <bean id="userIo" class="com.danimaetrix.library.io.UserIoConsoleImpl" />
 
     <bean id="textView" class="com.dm.floor13.ui.ConsoleTextViewImpl" >
         <constructor-arg ref="userIo" />         

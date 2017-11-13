@@ -27,7 +27,7 @@ public class RealLogicRealisticImpl implements RealLogic {
     private VendingService service;
     private Map<String, List<Product>> itemMap;
 
-    RealLogicRealisticImpl(VendingService service) {
+    public RealLogicRealisticImpl(VendingService service) {
         this.service = service;
         this.itemMap = new LinkedHashMap<>();
     }

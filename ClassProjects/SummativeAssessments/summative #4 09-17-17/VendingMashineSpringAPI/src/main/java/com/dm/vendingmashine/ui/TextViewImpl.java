@@ -214,7 +214,7 @@ public class TextViewImpl implements View {
     public void showExitMessage() {
         io.print("\n");
         io.print("GOODBYE!!");
-        io.print("\n");
+        io.print("");
     }
 
     // Pause for user

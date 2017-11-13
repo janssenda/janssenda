@@ -26,7 +26,7 @@ public class RealLogicIdealImpl implements RealLogic {
 
     VendingService service;
 
-    RealLogicIdealImpl(VendingService service) {
+    public RealLogicIdealImpl(VendingService service) {
         this.service = service;
     }
 

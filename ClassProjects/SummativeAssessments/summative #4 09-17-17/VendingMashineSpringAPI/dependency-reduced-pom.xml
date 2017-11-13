@@ -8,15 +8,6 @@
   <build>
     <plugins>
       <plugin>
-        <artifactId>maven-compiler-plugin</artifactId>
-        <version>3.7.0</version>
-        <configuration>
-          <compilerArgs>
-            <arg>-Xlint:unchecked</arg>
-          </compilerArgs>
-        </configuration>
-      </plugin>
-      <plugin>
         <artifactId>maven-shade-plugin</artifactId>
         <version>3.1.0</version>
         <executions>
@@ -29,6 +20,12 @@
               <transformers>
                 <transformer>
                   <mainClass>com.dm.vendingmashine.app.App</mainClass>
+                </transformer>
+                <transformer>
+                  <resource>META-INF/spring.handlers</resource>
+                </transformer>
+                <transformer>
+                  <resource>META-INF/spring.schemas</resource>
                 </transformer>
               </transformers>
             </configuration>

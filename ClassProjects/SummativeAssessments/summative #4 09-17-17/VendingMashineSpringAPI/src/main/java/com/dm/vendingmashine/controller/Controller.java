@@ -8,12 +8,17 @@ package com.dm.vendingmashine.controller;
 import com.dm.vendingmashine.dao.FileIOException;
 import com.dm.vendingmashine.dao.NoItemInventoryException;
 import com.dm.vendingmashine.dto.Money;
-import com.dm.vendingmashine.logic.DeathException;
-import com.dm.vendingmashine.logic.MachineJameException;
-import com.dm.vendingmashine.logic.RealLogic;
+import com.dm.vendingmashine.logic.*;
 import com.dm.vendingmashine.servicelayer.InsufficientFundsException;
+
+import java.io.BufferedReader;
+import java.io.FileNotFoundException;
+import java.io.FileReader;
 import java.math.BigDecimal;
 import java.util.List;
+import java.util.Scanner;
+
+import com.dm.vendingmashine.servicelayer.VendingService;
 import com.dm.vendingmashine.ui.View;
 
 /**
@@ -29,8 +34,22 @@ public class Controller {
     View view;
 
     //service.vtesting ();
-    public Controller(View view, RealLogic logic) {
-        this.logic = logic;
+    public Controller(View view, VendingService service) {
+
+        try {
+            Scanner sc = new Scanner(new BufferedReader(new FileReader("logic.cfg")));
+            String[] tokens = sc.nextLine().split("[=/]+");
+            if (tokens[1].trim().equals("real")){
+                this.logic = new RealLogicRealisticImpl(service);
+            } else {
+                this.logic = new RealLogicIdealImpl(service);
+            }
+
+        } catch (FileNotFoundException e) {
+            this.logic = new RealLogicIdealImpl(service);
+        }
+
+
         this.view = view;
         this.userMoney = new Money(BigDecimal.valueOf(0));
     }

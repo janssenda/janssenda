@@ -1,0 +1,110 @@
+a, a:hover, a:active, a:focus, a:visited {text-decoration: none;}
+a, a:visited {color: white}
+
+
+body {
+    background: #9d9d9d url("../images/spiral.jpg") no-repeat fixed;
+    background-size: cover;
+}
+
+.filelink, .date-text,
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus,
+#brand:hover, a:hover
+{
+    color: #ff1e28;  /*Sets the text hover color on navbar*/
+}
+
+.dropdown-menu > li > a {color:white}
+.dropdown-menu > li > a:hover,
+.dropdown-menu > li > a:focus {
+    color: #fbfbfb;
+    text-decoration: none;
+    background-color: black;  /*change color of links in drop down here*/
+}
+
+.dropdown-menu{
+    background-color: #2e2e2e;
+}
+
+.navbar{border: 2px solid black}
+
+
+@media (min-width: 1000px) {
+    #page, #navbar-container{width: 60%}
+}
+
+#page{
+    display: block;
+    margin: auto;
+}
+
+#content {
+    margin: 50px 0 0 0;
+    text-align: center;
+    width: 100%;
+    border: 0 dashed grey;
+}
+.content-div
+{
+    border-radius: 10px;
+    background-color: rgba(0, 0, 0, 0.71);
+    padding: 10px 20px 20px 20px;
+    text-align: justify;
+    margin: 40px 20px 40px 20px;
+    color:white;
+    border: 1px solid white;
+    display: inline-block;
+}
+
+.post-image{
+    height: 150px;
+    border:1px solid black;
+    margin: 15px 10px 20px 10px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.post-image, .imagelnk {
+    display: inline-block;
+}
+
+
+
+.filelink:hover{color: #817d7e
+}
+
+.image-div{ text-align: center}
+.post-image:hover{
+    box-shadow: 0 0 3px red;
+    -webkit-filter: drop-shadow(0px 0px 8px red);
+    filter:drop-shadow(0px 0px 8px red)
+}
+
+.title-text{font-size:24pt}
+
+
+.dropdown-menu {
+    border-radius: 5px;
+    box-shadow: 0 0 3px #000000;
+    -webkit-filter: drop-shadow(0px 0px 8px black);
+    filter: drop-shadow(0px 0px 8px black)
+}
+
+
+
+
+.navbar-inverse .navbar-nav li.navbutton a:hover,
+.navbar-inverse .navbar-nav > .open > a,
+.navbar-inverse .navbar-nav > .open > a:hover,
+.navbar-inverse .navbar-nav > .open > a:focus {
+    background-color: #ff1e28;
+    color: #ffffff;
+}
+
+#skills{text-align: left; width: 100%}
+#skills td {padding-right: 15px}
+.ressection, .reshead{font-size: 13pt;}
+.ressection{color: #ff1e28;}
+.ressub{color: #817d7e
+}
