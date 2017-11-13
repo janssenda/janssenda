@@ -13,15 +13,16 @@ $(document).ready(function () {
 
 
 function getNewsFeed() {
-    var call = "http://localhost:8080/sightings?limit=10";
+    var call = "/hero/sightings?limit=10";
     $.ajax({
         type: "GET",
         url: call,
         success: function (results) {
            printResults(results);
         },
-        error: function () {
-            alert("fail")
+        error: function (errmsg, txtstatus) {
+            var msg = JSON.parse(errmsg.responseText).message;
+            console.log(msg);
         }
     });
 }

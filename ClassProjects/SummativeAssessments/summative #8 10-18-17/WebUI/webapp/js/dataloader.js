@@ -173,7 +173,7 @@ function loadlist(listname,val,key,selectid) {
     var list = {"Choose...": "choose"};
     $.ajax({
         type: "GET",
-        url: "http://localhost:8080/"+listname+"?load=false",
+        url: "/hero/"+listname+"?load=false",
         success: function (results) {
             var conc = "";
 
@@ -197,6 +197,9 @@ function loadlist(listname,val,key,selectid) {
             }
 
         },
-        error: function () {alert("fail")}
+        error: function (errmsg, txtstatus) {
+            var msg = JSON.parse(errmsg.responseText).message;
+            console.log(msg);
+        }
     });
 }

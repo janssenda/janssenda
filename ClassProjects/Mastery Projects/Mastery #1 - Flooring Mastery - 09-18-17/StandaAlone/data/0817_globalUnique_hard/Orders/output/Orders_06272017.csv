@@ -1,0 +1,29 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
+34136,"Icechill, The Frigid",Mahyrst Keep,31.30,Warlocks' Timerot Mithril,235.00,194.65,194.65,45742.7500,45742.7500,120120.46150000,06/27/2007 @ 12:00:00 AM
+23974,Ironbrood,Bifar's Deep,12.21,Phantasmal Tin Of The Swamps,244.00,405.96,369.05,99054.2400,90048.2000,212191.84792400,06/27/2007 @ 12:00:00 AM
+11934,Bronzespawn,Love Keep,40.56,Zephyr Adamant,242.00,481.77,-44.14,116588.3400,-10681.8800,148862.12017600,06/27/2007 @ 12:00:00 AM
+20016,"Prusu, God of Love",The Lewd King,45.98,Magicians' Legendary Poison Metal,260.00,-52.81,-48.01,-13730.6000,-12482.6000,-38266.02936000,06/27/2007 @ 12:00:00 AM
+19449,"Lenwenye, Goddess of Travel",Weke Tower,47.19,Foul Ice Bronze Of Life,285.00,292.82,266.20,83453.7000,75867.0000,234504.13833000,06/27/2007 @ 12:00:00 AM
+32527,"Slayer, Claw",Hafeld Keep,47.59,Negative Rockglitter Mercury Of Trolls,162.00,235.59,214.17,38165.5800,34695.5400,107535.72700800,06/27/2007 @ 12:00:00 AM
+30029,"Maglioneth, Lord of the Sun",The Greedy Wench,13.31,Swordbronze,142.00,403.29,366.63,57267.1800,52061.4600,123880.28198400,06/27/2007 @ 12:00:00 AM
+29143,"Bane, Veil",Bifar's Deep,12.21,Stone Soulsteel Of The Skies,144.00,453.31,412.10,65276.6400,59342.4000,139835.02478400,06/27/2007 @ 12:00:00 AM
+18471,"Cult, Godseeker",The Tower of Sabiesu the Awesome,10.00,Unicorns' Fatal Magma Metal Of The Ocean,315.00,25.30,23.00,7969.5000,7245.0000,16735.95000000,06/27/2007 @ 12:00:00 AM
+30119,"Baltha, Goddess of Knowledge",The Tower of Sabiesu the Awesome,10.00,White Platinum,206.00,101.02,91.84,20810.1200,18919.0400,43702.07600000,06/27/2007 @ 12:00:00 AM
+7104,"Snaretool, The Constructed",Gawold Castle,10.29,Sapphire Mindlead,171.00,-44.77,-40.70,-7655.6700,-6959.7000,-16119.29157300,06/27/2007 @ 12:00:00 AM
+20840,"Shadow, Gust",The Fen of the Necromancer,20.00,Incubi's Iron Of The Dawn,236.00,174.99,174.99,41297.6400,41297.6400,99114.33600000,06/27/2007 @ 12:00:00 AM
+20842,Chainhorror,Gena's Hold,5.85,Poison Adamant,235.00,110.96,100.87,26075.6000,23704.4500,52692.18292500,06/27/2007 @ 12:00:00 AM
+29419,"Mecharig, The Living Device",Bifar's Deep,12.21,Stone Soulsteel Of The Skies,183.00,453.31,412.10,82955.7300,75414.3000,177707.01066300,06/27/2007 @ 12:00:00 AM
+16230,"Rouge, Tombreaper",The Bastion of the Lich Tyrant,7.14,Incubi's Iron Of The Dawn,301.00,174.99,174.99,52671.9900,52671.9900,112865.54017200,06/27/2007 @ 12:00:00 AM
+15035,"Blazefreeze, The Chiller",The Secret Catacombs of Ulfang the Black,28.82,Fleshshock Mercury,222.00,-31.02,-28.20,-6886.4400,-6260.4000,-16935.75928800,06/27/2007 @ 12:00:00 AM
+15001,"Song, Runetomb",Dysley Stronghold,35.51,Fleshshock Mercury,336.00,-31.02,-28.20,-10422.7200,-9475.2000,-26963.67139200,06/27/2007 @ 12:00:00 AM
+30639,"Rouge, Roguemist",The Nulukkhath Spires,28.99,Witchs' Forbidden Rockrainbow Bronze,194.00,245.63,245.63,47652.2200,47652.2200,122933.19715600,06/27/2007 @ 12:00:00 AM
+15446,"Icechill, The Frigid",The Tower of Aramum,20.00,Djinni's Mind Fogiron,231.00,57.23,52.03,13220.1300,12018.9300,30286.87200000,06/27/2007 @ 12:00:00 AM
+37184,"Fate, Seeker",The Greedy Wench,13.31,Ghouls' Imperial Soulzephyr Mithril Of The Seas,234.00,318.23,318.23,74465.8200,74465.8200,168754.44128400,06/27/2007 @ 12:00:00 AM
+27804,"Flora, Amberslayer",The Bastion of Gothmog of Udun,-2.42,Sprites' Transcendent Mud Lead Of The South,167.00,3338.65,267.08,557554.5500,44602.3600,587584.71277800,06/27/2007 @ 12:00:00 AM
+13142,Gravebone,Dysley Stronghold,35.51,Magicians' Legendary Poison Metal,210.00,-52.81,-48.01,-11090.1000,-10082.1000,-28690.44822000,06/27/2007 @ 12:00:00 AM
+3407,"Seraph, Jester",The Tomb of Gothmog of Udun,11.00,Warlocks' Timerot Mithril,234.00,725.00,176.95,169650.0000,41406.3000,234272.49300000,06/27/2007 @ 12:00:00 AM
+4788,Bonescare,Noble's Village,4.49,Incubi's Iron Of The Dawn,239.00,-431.08,159.08,-103028.1200,38020.1200,-67926.85920000,06/27/2007 @ 12:00:00 AM
+37485,Bolttrap,The Greedy Wench,13.31,Ghouls' Imperial Soulzephyr Mithril Of The Seas,247.00,318.23,318.23,78602.8100,78602.8100,178129.68802200,06/27/2007 @ 12:00:00 AM
+25484,"Cult, Godseeker",Gili's Delve,35.89,Mind Lead,245.00,241.00,219.09,59045.0000,53677.0500,153177.99374500,06/27/2007 @ 12:00:00 AM
+14907,Spikesnare,The Secret Shrine of the Gargoyle Count,23.93,Golems' Stonesapphire Gold Of The Glacier,131.00,176.00,160.00,23056.0000,20960.0000,54549.02880000,06/27/2007 @ 12:00:00 AM
+37575,"Byzou, God of Animals",The Greedy Wench,13.31,Stone Soulsteel Of The Skies,140.00,453.31,453.31,63463.4000,63463.4000,143820.75708000,06/27/2007 @ 12:00:00 AM

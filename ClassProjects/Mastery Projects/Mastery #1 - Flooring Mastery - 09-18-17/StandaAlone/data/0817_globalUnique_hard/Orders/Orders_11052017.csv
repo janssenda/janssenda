@@ -1,0 +1,29 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
+37698,Emberspawn,The Greedy Wench,13.31,Stone Soulsteel Of The Skies,215.00,453.31,453.31,97461.6500,97461.6500,220867.59123000,11/05/2007 @ 12:00:00 AM
+35096,"Slayer, Claw",Barad Kesa,6.17,Yellow Mistearth Copper,143.00,287.98,261.80,41181.1400,37437.4000,83469.30391800,11/05/2007 @ 12:00:00 AM
+13821,"Burnfreeze, The Cold",Gifeld Castle,30.01,Starsmoke Bronze Of Life,287.00,-438.00,420.81,-125706.0000,120772.4700,-6414.08235300,11/05/2007 @ 12:00:00 AM
+23259,"Gadriel, God of Resurrection",The Lewd King,45.98,Forgotten Mithril,345.00,545.71,496.10,188269.9500,171154.5000,524687.81211000,11/05/2007 @ 12:00:00 AM
+2761,"Alik, Goddess of Trickery",The Archer and Scroll,45.16,Violetdream Iron,171.00,2680.00,377.25,458280.0000,64509.7500,758881.60110000,11/05/2007 @ 12:00:00 AM
+34123,Springcoil,Reheath Stronghold,39.60,Unicorns' Fatal Magma Metal Of The Ocean,202.00,25.30,27.83,5110.6000,5621.6600,14982.23496000,11/05/2007 @ 12:00:00 AM
+33039,"Sephiroth, Drakecaster",Pewold Keep,29.00,Mind Lead,219.00,241.00,219.09,52779.0000,47980.7100,129980.02590000,11/05/2007 @ 12:00:00 AM
+35873,"Ahah, Goddess of Knowledge",The Fortress of the Lich Queen,22.79,Violetdream Iron,370.00,502.13,502.13,185788.1000,185788.1000,456258.41598000,11/05/2007 @ 12:00:00 AM
+19066,"Shadow, Gust",Gifeld Castle,33.01,Emerald Orichalcum,249.00,1957.00,129.81,487293.0000,32322.6900,691140.82926900,11/05/2007 @ 12:00:00 AM
+22698,"Nailpiston, The Grasping",The Tower of Sabiesu the Awesome,10.00,Fleshshock Mercury,168.00,-31.02,-28.20,-5211.3600,-4737.6000,-10943.85600000,11/05/2007 @ 12:00:00 AM
+34741,"Song, Runetomb",The Bastion of the Vampire Duke,45.86,Ghouls' Imperial Soulzephyr Mithril Of The Seas,187.00,318.23,318.23,59509.0100,59509.0100,173599.68397200,11/05/2007 @ 12:00:00 AM
+19110,"Bane, Veil",Gifeld Castle,33.01,Toxic Mistlead Of The Past,200.00,396.06,396.06,79212.0000,79212.0000,210719.76240000,11/05/2007 @ 12:00:00 AM
+9099,Bolttrap,The Lost Sanctum of Woe,43.20,Unknown Fatelightning Steel Of The Glacier,167.00,119.90,131.89,20023.3000,22025.6300,60214.06776000,11/05/2007 @ 12:00:00 AM
+10805,"Law, Lionwatcher",Reheath Stronghold,39.60,Pearl Mirrorice Steel Of Changelings,104.00,2996.00,302.00,311584.0000,31408.0000,478816.83200000,11/05/2007 @ 12:00:00 AM
+9336,"Tarot, Dawn",The Tower of Aces the Accursed,-3.34,Primordial Plague Mercury Of Legend,84.00,1150.79,67.00,96666.3600,5628.0000,98877.72837600,11/05/2007 @ 12:00:00 AM
+18387,"Mecharig, The Living Device",Gili's Delve,35.89,Phantasmal Tin Of The Swamps,208.00,3207.64,335.50,667189.1200,69784.0000,1001472.77276800,11/05/2017 @ 12:00:00 AM
+129,Evilbrood,Eved Castle,28.00,Magicians' Legendary Poison Metal,247.00,3615.00,-48.01,892905.0000,-11858.4700,1127739.55840000,11/05/2007 @ 12:00:00 AM
+17237,"Evilfear, The Horrorific",North Arcanist's Farthing,2.75,Grayplatinum,206.00,2548.00,104.94,524888.0000,21617.6400,561534.54510000,11/05/2007 @ 12:00:00 AM
+918,Cinderflame,Arcanist's Farthing,29.00,Unknown Fatelightning Steel Of The Glacier,236.00,305.86,109.00,72182.9600,25724.0000,126299.97840000,11/05/2007 @ 12:00:00 AM
+29958,"Rune, Rougehate",The Greedy Wench,13.31,Heavenly Dreamsilver Of The Night,116.00,719.00,314.60,83404.0000,36493.6000,135855.97056000,11/05/2007 @ 12:00:00 AM
+15464,"Fate, Ivycaster",The Fortress of Asmamur,-2.66,Starsmoke Bronze Of Life,269.00,-438.00,420.81,-117822.0000,113197.8900,-4501.10867400,11/05/2007 @ 12:00:00 AM
+27586,"Blazeflare, The Cremator",The Pirate's Pipe,16.94,Sprites' Transcendent Mud Lead Of The South,329.00,3338.65,267.08,1098415.8500,87869.3200,1387241.87779800,11/05/2007 @ 12:00:00 AM
+15613,"Sunrise, Godwarlock",The Dungeon of Merciless Woe,3.61,Golems' Stonesapphire Gold Of The Glacier,142.00,176.00,160.00,24992.0000,22720.0000,49434.40320000,11/05/2007 @ 12:00:00 AM
+14358,Chainhorror,Noble's Village,5.43,Sphinxes' Unknown Poisongold Of The Future,116.00,3971.47,14.30,460690.5200,1658.8000,487454.88807600,11/05/2007 @ 12:00:00 AM
+14500,"Tiger, Mistmidnight",Noble's Village,5.43,Mithril Of The Tropics,28.00,251.56,251.56,7043.6800,7043.6800,14852.30364800,11/05/2007 @ 12:00:00 AM
+14742,Emberspawn,The Secret Shrine of the Gargoyle Count,23.93,Golems' Stonesapphire Gold Of The Glacier,164.00,176.00,160.00,28864.0000,26240.0000,68290.38720000,11/05/2007 @ 12:00:00 AM
+36108,Spikesnare,The Fen of the Necromancer,32.21,Grayplatinum,225.00,2548.00,115.43,573300.0000,25971.7500,792297.18067500,11/05/2007 @ 12:00:00 AM
+26743,"Cult, Godseeker",Khali's Delve,1.30,Swordbronze,149.00,403.29,366.63,60090.2100,54627.8700,116209.41504000,11/05/2017 @ 12:00:00 AM

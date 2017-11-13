@@ -101,15 +101,16 @@ function queryforresults() {
         terms = $("#searchterms").val();
     }
 
-    var call = "http://localhost:8080/" + category + "?" + method + "=" + terms;
+    var call = "/hero/" + category + "?" + method + "=" + terms;
     $.ajax({
         type: "GET",
         url: call,
         success: function (results) {
             printResults(results, category);
         },
-        error: function () {
-            alert("fail")
+        error: function (errmsg, txtstatus) {
+            var msg = JSON.parse(errmsg.responseText).message;
+            console.log(msg);
         }
     });
 }

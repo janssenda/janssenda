@@ -5,6 +5,7 @@
  */
 package com.danimaetrix.library.io;
 
+import java.time.format.DateTimeFormatter;
 import java.util.Scanner;
 import java.io.Console;
 import java.math.BigDecimal;
@@ -402,12 +403,30 @@ public class UserIoConsoleImpl implements UserIo {
 
     @Override
     public LocalDate readDate() {
-        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+        return readDate("");
     }
 
     @Override
     public LocalDate readDate(String msg) {
-        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+        String dateFormat = "MM/dd/yyyy";
+        LocalDate date;
+        boolean valid = false;
+
+        while (!valid){
+            String input = readLine(msg);
+
+            try {
+                date = LocalDate.parse(input, DateTimeFormatter.ofPattern(dateFormat));
+
+
+                return date;
+            } catch (Exception e) {
+                print("\nBad date format! Please use (MM/dd/yyyy)... ");
+            }
+        }
+
+        return null;
+
     }
 
 }

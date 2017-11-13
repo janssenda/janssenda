@@ -1,0 +1,27 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
+11008,"Sunset, Knightclaw",Mahyrst Keep,28.45,Zephyr Iron,343.00,282.77,257.06,96990.1100,88171.5800,237840.19080500,03/26/2007 @ 12:00:00 AM
+12569,"Zepul, Lady of Vengeance",Archfane District,15.29,Foulopal Copper Of The Skies,327.00,201.66,201.66,65942.8200,65942.8200,152050.95435600,03/26/2007 @ 12:00:00 AM
+98,Graveterror,Bergfison's Deep,16.00,Unicorns' Fatal Magma Metal Of The Ocean,154.00,903.00,23.00,139062.0000,3542.0000,165420.64000000,03/26/2007 @ 12:00:00 AM
+3864,"Mecharig, The Living Device",The Black Barrow of Zago the Possessed,12.34,Primordial Plague Mercury Of Legend,216.00,1150.79,67.00,248570.6400,14472.0000,295502.10177600,03/26/2007 @ 12:00:00 AM
+34145,"Flameflare, The Evil",Barad Cune,49.21,Primordial Plague Mercury Of Legend,111.00,73.70,67.00,8180.7000,7437.0000,23303.17017000,03/26/2007 @ 12:00:00 AM
+2918,"Claw, Mist",The Lazy Sage,21.93,Violetdream Iron,302.00,2680.00,377.25,809360.0000,113929.5000,1125766.88735000,03/26/2017 @ 12:00:00 AM
+32245,"Dawn, Darkzealot",The Fen of the Necromancer,29.28,Negative Rockglitter Mercury Of Trolls,154.00,235.59,214.17,36280.8600,32982.1800,89543.25811200,03/26/2007 @ 12:00:00 AM
+20354,"Song, Runetomb",Bifar's Deep,11.10,Shadow Metal,271.00,1606.00,298.00,435226.0000,80758.0000,573258.22400000,03/26/2007 @ 12:00:00 AM
+34902,"Rouge, Tombreaper",Barad Kesa,6.17,Sprites' Transcendent Mud Lead Of The South,181.00,3338.65,267.08,604295.6500,48341.4800,692904.84092100,03/26/2007 @ 12:00:00 AM
+18364,"Lord, Mystery",Gili's Delve,35.89,Phantasmal Tin Of The Swamps,188.00,3207.64,335.50,603036.3200,63074.0000,905177.31384800,03/26/2007 @ 12:00:00 AM
+30161,"Sunrise, Godwarlock",The Greedy Wench,13.31,Heavenly Dreamsilver Of The Night,373.00,719.00,314.60,268187.0000,117345.8000,436847.21568000,03/26/2007 @ 12:00:00 AM
+7164,"Magus, Felldrake",Noble's Village,4.94,Vampires' Hammer Emeraldmetal,219.00,77.44,70.40,16959.3600,15417.6000,33976.38182400,03/26/2007 @ 12:00:00 AM
+7318,"Evilfear, The Horrorific",Gawold Castle,10.29,Sirens' Rockgold,307.00,306.13,278.30,93981.9100,85438.1000,197882.32902900,03/26/2007 @ 12:00:00 AM
+7640,Deathbrood,Archfane District,15.29,Sapphire Mindlead,195.00,-44.77,-40.70,-8730.1500,-7936.5000,-19214.98078500,03/26/2007 @ 12:00:00 AM
+18988,"Sunset, Knightclaw",Mahyrst Keep,31.30,Golems' Stonesapphire Gold Of The Glacier,278.00,176.00,160.00,48928.0000,44480.0000,122644.70400000,03/26/2007 @ 12:00:00 AM
+29786,Gravebone,The Tower of Sabiesu the Awesome,10.00,Incubi's Glittering Tin Of The Future,185.00,192.96,233.49,35697.6000,43195.6500,86782.57500000,03/26/2017 @ 12:00:00 AM
+15236,"Blazeflare, The Cremator",The Fortress of Akkun the Grim,27.03,Mind Lead,205.00,241.00,219.09,49405.0000,44913.4500,119812.72703500,03/26/2007 @ 12:00:00 AM
+26281,"Shadow, Tomblion",The Pirate's Pipe,16.94,Toxic Mistlead Of The Past,291.00,396.06,396.06,115253.4600,115253.4600,269554.79224800,03/26/2007 @ 12:00:00 AM
+4504,"Ahah, Goddess of Knowledge",Eved Castle,28.00,Trolls' Rubymercury Of The Sunset,118.00,2733.00,443.00,322494.0000,52274.0000,479703.04000000,03/26/2007 @ 12:00:00 AM
+4602,"Gravebone, The Unspeakable",Bergfison's Deep,16.00,Incubi's Iron Of The Dawn,204.00,-431.08,159.08,-87940.3200,32452.3200,-64366.08000000,03/26/2007 @ 12:00:00 AM
+2091,"Tarot, Dawn",The Tower of Sabiesu the Awesome,10.00,Magicians' Legendary Poison Metal,165.00,-52.81,-48.01,-8713.6500,-7921.6500,-18298.83000000,03/26/2007 @ 12:00:00 AM
+27982,"Jericho, Wolf",The Chuallanto Jungle,11.00,Vampires' Fang Emeraldsilver,342.00,2033.69,80.84,695521.9800,27647.2800,802717.87860000,03/26/2007 @ 12:00:00 AM
+26817,"Dawn, Darkzealot",Reheath Stronghold,39.60,Muck Orichalcum Of Ogres,271.00,143.37,130.34,38853.2700,35322.1400,103548.87236000,03/26/2007 @ 12:00:00 AM
+37429,"Nelalwe, Lady of Fire",The Greedy Wench,13.31,Stone Soulsteel Of The Skies,227.00,453.31,453.31,102901.3700,102901.3700,233195.08469400,03/26/2007 @ 12:00:00 AM
+13561,Beamtrap,The Lewd King,41.80,Poison Adamant,211.00,110.96,100.87,23412.5600,21283.5700,63379.11234000,03/26/2007 @ 12:00:00 AM
+12227,"Byzou, God of Animals",Love Keep,40.56,Phantasmal Tin Of The Swamps,318.00,3207.64,305.00,1020029.5200,96990.0000,1570082.63731200,03/26/2007 @ 12:00:00 AM

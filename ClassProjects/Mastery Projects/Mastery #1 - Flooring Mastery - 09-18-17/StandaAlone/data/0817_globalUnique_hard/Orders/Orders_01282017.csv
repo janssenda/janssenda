@@ -1,0 +1,28 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
+4992,Spikesnare,The Cracked Chalice,-4.81,Unspeakable Rotsoul Mithril Of Souls,336.00,2076.95,306.00,697855.2000,102816.0000,762158.91528000,01/28/2007 @ 12:00:00 AM
+13845,Bronzespawn,Dysley Stronghold,35.51,Poison Adamant,301.00,110.96,100.87,33398.9600,30361.8700,86402.30073300,01/28/2007 @ 12:00:00 AM
+49,Cinderflame,The Beggar and Cask,25.10,Meteoric Dustzephyr Orichalcum,201.00,3549.00,2.00,713349.0000,402.0000,892902.50100000,01/28/2017 @ 12:00:00 AM
+25798,"Avriel, God of Death",Barad Cune,49.21,Starsmoke Bronze Of Life,246.00,-438.00,420.81,-107748.0000,103519.2600,-6309.70295400,01/28/2007 @ 12:00:00 AM
+12688,"Seraphim, Tsunami",Archfane District,15.29,Spirits' Living Wordhammer Tin Of The Trees,181.00,3897.55,128.70,705456.5500,23294.7000,840177.31612500,01/28/2007 @ 12:00:00 AM
+36819,"Suriel, Lord of Animals",The Fen of the Necromancer,32.21,Vampires' Hammer Emeraldmetal,239.00,93.70,85.18,22394.3000,20358.0200,56522.84227200,01/28/2007 @ 12:00:00 AM
+19032,"Flora, Amberslayer",Weke Tower,47.19,Foul Ice Bronze Of Life,228.00,292.82,266.20,66762.9600,60693.6000,187603.31066400,01/28/2007 @ 12:00:00 AM
+32138,"Claw, Mist",North Arcanist's Farthing,3.66,Magicians' Legendary Poison Metal,229.00,-52.81,-48.01,-12093.4900,-10994.2900,-23932.79274800,01/28/2007 @ 12:00:00 AM
+9169,"Lance, Knightseraph",The Tower of Aces the Accursed,-3.34,Primordial Plague Mercury Of Legend,200.00,1150.79,67.00,230158.0000,13400.0000,235423.16280000,01/28/2007 @ 12:00:00 AM
+32192,"Sielach, God of Fate",North Arcanist's Farthing,3.66,Grayplatinum,171.00,2548.00,104.94,435708.0000,17944.7400,470256.43028400,01/28/2007 @ 12:00:00 AM
+10929,"Uriel, God of Fate",Reheath Stronghold,39.60,Pearl Mirrorice Steel Of Changelings,224.00,2996.00,302.00,671104.0000,67648.0000,1031297.79200000,01/28/2007 @ 12:00:00 AM
+20589,"Maeglodor, God of Thieves",The Demon and Toad,-1.10,Emerald Orichalcum,169.00,1957.00,142.79,330733.0000,24131.5100,350961.00039000,01/28/2007 @ 12:00:00 AM
+33826,"Slayer, Claw",The Cuitamba Jungle,46.75,Swordbronze,234.00,403.29,366.63,94369.8600,85791.4200,264386.67840000,01/28/2007 @ 12:00:00 AM
+8630,"Wind, Dire",Archtemple District,37.85,Unknowable Mindsilver,162.00,174.90,174.90,28333.8000,28333.8000,78116.28660000,01/28/2007 @ 12:00:00 AM
+340,"Slayer, Claw",Eved Castle,28.00,Zephyr Iron,108.00,2249.71,233.69,242968.6800,25238.5200,343305.21600000,01/28/2007 @ 12:00:00 AM
+30562,"Grave, Mistseeker",The Fortress of Akkun the Grim,27.03,Ensorceled Sandmetal Of Spirits,223.00,85.18,77.44,18995.1400,17269.1200,46066.48947800,01/28/2007 @ 12:00:00 AM
+8880,"Sunset, Knightclaw",The Black Barrow of Bery,19.80,Unknowable Mindsilver,227.00,174.90,174.90,39702.3000,39702.3000,95126.71080000,01/28/2007 @ 12:00:00 AM
+18878,"Maverick, Wind",Mahyrst Keep,31.30,Trolls' Mist Poisonplatinum Of The Twilight,128.00,484.62,440.56,62031.3600,56391.6800,155489.45152000,01/28/2007 @ 12:00:00 AM
+17523,"Wind, Dire",Hartshill Ward,48.75,Shadow Metal,259.00,1606.00,298.00,415954.0000,77182.0000,733539.80000000,01/28/2007 @ 12:00:00 AM
+678,Emberspawn,The Beggar and Cask,25.10,Unicorns' Fatal Magma Metal Of The Ocean,118.00,903.00,23.00,106554.0000,2714.0000,136694.26800000,01/28/2007 @ 12:00:00 AM
+6436,"Burnfreeze, The Cold",The Dismal Marsh,27.00,Phantasmal Tin Of The Swamps,243.00,3207.64,305.00,779456.5200,74115.0000,1084035.83040000,01/28/2007 @ 12:00:00 AM
+955,"Selik, God of Death",Arcanist's Farthing,29.00,Magicians' Legendary Poison Metal,189.00,3615.00,-48.01,683235.0000,-9073.8900,869667.83190000,01/28/2007 @ 12:00:00 AM
+16650,Spikespawn,Khali's Delve,1.18,Undeads' Mind Orichalcum Of The Twilight,289.00,1169.00,301.40,337841.0000,87104.6000,429959.95808000,01/28/2007 @ 12:00:00 AM
+6930,"Suriel, Lord of Animals",Gawold Castle,10.29,Unicorns' Fatal Magma Metal Of The Ocean,204.00,903.00,23.00,184212.0000,4692.0000,208342.22160000,01/28/2007 @ 12:00:00 AM
+14609,Chainnail,Noble's Village,5.43,Sphinxes' Unknown Poisongold Of The Future,144.00,3971.47,14.30,571891.6800,2059.2000,605116.41278400,01/28/2007 @ 12:00:00 AM
+24026,"Ariel, God of Luck",Bifar's Deep,12.21,Toxic Mistlead Of The Past,301.00,396.06,396.06,119214.0600,119214.0600,267540.19345200,01/28/2007 @ 12:00:00 AM
+37522,"Evilember, The Firey",The Greedy Wench,13.31,Stone Soulsteel Of The Skies,157.00,453.31,453.31,71169.6700,71169.6700,161284.70615400,01/28/2007 @ 12:00:00 AM

@@ -1,0 +1,14 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
+12500,Spikespawn,The Nulukkhath Spires,28.99,Sirens' Rockgold,315.00,306.13,278.30,96430.9500,87664.5000,237464.72095500,09/22/2008 @ 12:00:00 AM
+35184,"Selik, God of Death",The Bastion of the Vampire Duke,45.86,Sprites' Transcendent Mud Lead Of The South,225.00,3338.65,267.08,751196.2500,60093.0000,1183346.50005000,09/22/2008 @ 12:00:00 AM
+10015,"Prusu, God of Love",Grove Farthing,25.00,God-touched Greengem Platinum,230.00,2181.36,188.14,501712.8000,43272.2000,681231.25000000,09/22/2008 @ 12:00:00 AM
+22308,"Lightning, Brand",Pewold Keep,29.00,Warlocks' Timerot Mithril,261.00,194.65,176.95,50803.6500,46183.9500,125114.00400000,09/22/2008 @ 12:00:00 AM
+33308,"Fate, Ivycaster",The Archer and Scroll,60.12,Undeads' Mind Orichalcum Of The Twilight,169.00,1169.00,364.69,197561.0000,61632.6100,415020.80833200,09/22/2008 @ 12:00:00 AM
+33913,"Iran, Lord of Nightmares",The Cuitamba Jungle,46.75,Primordial Plague Mercury Of Legend,186.00,73.70,67.00,13708.2000,12462.0000,38404.76850000,09/22/2008 @ 12:00:00 AM
+19894,Emberspawn,Eved Castle,30.80,Magicians' Legendary Poison Metal,181.00,-52.81,-48.01,-9558.6100,-8689.8100,-23868.93336000,09/22/2008 @ 12:00:00 AM
+32971,Springsprocket,The Archer and Scroll,60.12,Undeads' Mind Orichalcum Of The Twilight,124.00,1169.00,364.69,144956.0000,45221.5600,304512.30907200,09/22/2008 @ 12:00:00 AM
+15296,"Gadriel, God of Resurrection",The Secret Shrine of the Gargoyle Count,23.93,Mind Lead,36.00,241.00,219.09,8676.0000,7887.2400,20526.82333200,09/22/2008 @ 12:00:00 AM
+37094,"Penur, Lord of the Sea",The Greedy Wench,13.31,Ghouls' Imperial Soulzephyr Mithril Of The Seas,119.00,318.23,318.23,37869.3700,37869.3700,85819.56629400,09/22/2008 @ 12:00:00 AM
+27766,Spikespawn,The Pirate's Pipe,16.94,Unknown Fatelightning Steel Of The Glacier,137.00,145.08,159.59,19875.9600,21863.8300,48810.51042600,09/22/2008 @ 12:00:00 AM
+26948,"Dawn, Darkzealot",Bifar's Deep,12.21,Swordbronze,248.00,403.29,366.63,100015.9200,90924.2400,214253.95353600,09/22/2008 @ 12:00:00 AM
+24297,Deathbrood,Bifar's Deep,12.21,Ensorceled Sandmetal Of Spirits,291.00,85.18,77.44,24787.3800,22535.0400,53100.48748200,09/22/2018 @ 12:00:00 AM

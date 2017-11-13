@@ -26,19 +26,19 @@ and open the template in the editor.
     <aop:aspectj-autoproxy />
     
     
-    <bean id="userIo" class="com.danimaetrix.library.io.UserIoConsoleColorImpl" />  
+    <bean id="userIo" class="com.danimaetrix.library.io.UserIoConsoleColorImpl" />
 
     <bean id="textView" class="com.dm.floor13.ui.ConsoleTextViewImpl" >
         <constructor-arg ref="userIo" />         
     </bean>
      
-    <bean id="orderDao" class="com.dm.floor13.dao.OrderDaoImpl" /> 
+    <!--<bean id="orderDao" class="com.dm.floor13.dao.OrderDaoImpl" /> -->
     <bean id="stateDao" class="com.dm.floor13.dao.StateDataDaoImpl" />
     <bean id="productDao" class="com.dm.floor13.dao.ProductDataDaoImpl" />    
     <bean id="auditDao" class="com.dm.floor13.dao.AuditDaoImpl" /> 
     
     <bean id="orderService" class="com.dm.floor13.service.OrderServiceImpl">
-        <constructor-arg ref="orderDao"/>
+        <!--<constructor-arg ref="orderDao"/>-->
         <constructor-arg ref="stateDao"/>
         <constructor-arg ref="productDao"/>
     </bean> 

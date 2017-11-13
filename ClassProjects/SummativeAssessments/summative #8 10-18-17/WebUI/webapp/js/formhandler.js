@@ -24,7 +24,7 @@ function postData(urlname, data){
     $("#failure").hide();
     $.ajax({
         type: "POST",
-        url: "http://localhost:8080/"+urlname,
+        url: "/hero/"+urlname,
         data: JSON.stringify(data),
         headers: {
             "Accept": "application/json",
@@ -45,7 +45,7 @@ function deleteData(urlname){
     $("#failure").hide();
     $.ajax({
         type: "DELETE",
-        url: "http://localhost:8080/"+urlname,
+        url: "/hero/"+urlname,
         success: function () {
             $("#success").show();
             clearForm();},
@@ -64,7 +64,7 @@ function loadEditForm(cat, id){
     $(".removebutton").show();
     $.ajax({
         type: "GET",
-        url: "http://localhost:8080/"+cat+"?id="+id,
+        url: "/hero/"+cat+"?id="+id,
         success: function (data) {
             switch (cat){
                 case "heroes": loadHeroData(data); break;
@@ -75,7 +75,10 @@ function loadEditForm(cat, id){
                 case "sightings": loadSightingData(data); break;
             }
         },
-        error: function () {alert("fail")}
+        error: function (errmsg, txtstatus) {
+            var msg = JSON.parse(errmsg.responseText).message;
+              console.log(msg);
+        }
     });
 }
 

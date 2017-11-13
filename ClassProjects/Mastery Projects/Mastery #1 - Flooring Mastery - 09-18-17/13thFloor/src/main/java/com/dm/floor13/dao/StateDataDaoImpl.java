@@ -10,6 +10,7 @@ import com.dm.floor13.exceptions.FileSkipException;
 import com.dm.floor13.exceptions.FileIOException;
 import com.dm.floor13.model.State;
 import java.util.Map;
+import java.util.Scanner;
 
 /**
  *
@@ -45,9 +46,12 @@ public class StateDataDaoImpl implements StateDataDao{
 
         if (stateMap.isEmpty()) {
             throw new FileSkipException("Tax file was not read - blank, in use, or corrupt...");
-        }        
-        
+        }
+
+
         this.stateMap = stateMap;
+
+
     }
 
     @Override

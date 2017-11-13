@@ -35,12 +35,12 @@ import java.util.Scanner;
 public class OrderServiceImpl implements OrderService {
 
     private String orderDir, productList, stateList;
-    OrderDao orderDao;
-    ProductDataDao productDao;
-    StateDataDao stateDao;
+    private OrderDao orderDao;
+    private ProductDataDao productDao;
+    private StateDataDao stateDao;
     boolean mode = true;
 
-    public OrderServiceImpl(OrderDao orderDao,
+    public OrderServiceImpl(
             StateDataDao stateDao,
             ProductDataDao productDao) {
 
@@ -53,13 +53,15 @@ public class OrderServiceImpl implements OrderService {
 
         this.stateDao = stateDao;
         this.productDao = productDao;
-        
+
+
+
         loadData();
-        
+
     }
 
     public OrderServiceImpl(StateDataDao stateDao,
-            ProductDataDao productDao, 
+            ProductDataDao productDao,
             FileHandler handler, String dir, String cfgPath) {
 
         readDataFiles(cfgPath);
@@ -81,7 +83,10 @@ public class OrderServiceImpl implements OrderService {
         try {
             stateDao.readDataFromFile(stateList);
             productDao.readDataFromFile(productList);            
-            orderDao.readAllOrdersFromDirectory(orderDir);    
+            orderDao.readAllOrdersFromDirectory(orderDir);
+
+
+
         } catch (FileSkipException e) {
 
         }
@@ -96,7 +101,8 @@ public class OrderServiceImpl implements OrderService {
             this.orderDir = sc.nextLine().split("=")[1].trim();
             this.stateList = sc.nextLine().split("=")[1].trim();
             this.productList = sc.nextLine().split("=")[1].trim();
-            
+
+
             
         } catch (FileNotFoundException e) {
 

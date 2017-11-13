@@ -18,16 +18,16 @@ CREATE TABLE serverlog (
 LogID INT PRIMARY KEY AUTO_INCREMENT,
 Entry TEXT);
 
--- LOAD DATA infile 'G:/SoftwareGuild/SWGProjects/Repositories/Private/thenewcarag/ClassProjects/SummativeAssessments/summative #7 10-14-17/Guests.csv'
-LOAD DATA infile '/run/media/danimaetrix/Storage/SWG/thenewcarag/DDWA/VendingAPI_JDBC/src/main/resources/priceData.csv'
+LOAD DATA infile 'G:/SoftwareGuild/SWGProjects/Repositories/Private/thenewcarag/DDWA/VendingAPI_JDBC/src/main/resources/priceData.csv'
+-- LOAD DATA infile '/run/media/danimaetrix/Storage/SWG/thenewcarag/DDWA/VendingAPI_JDBC/src/main/resources/priceData.csv'
 REPLACE
 INTO TABLE prices
 fields terminated BY ','
 lines terminated BY '\n'
 (ProductName, ProductPrice);
 
--- LOAD DATA infile 'G:/SoftwareGuild/SWGProjects/Repositories/Private/thenewcarag/ClassProjects/SummativeAssessments/summative #7 10-14-17/Guests.csv'
-LOAD DATA infile '/run/media/danimaetrix/Storage/SWG/thenewcarag/DDWA/VendingAPI_JDBC/src/main/resources/inventoryData.csv'
+LOAD DATA infile 'G:/SoftwareGuild/SWGProjects/Repositories/Private/thenewcarag/DDWA/VendingAPI_JDBC/src/main/resources/inventoryData.csv'
+-- LOAD DATA infile '/run/media/danimaetrix/Storage/SWG/thenewcarag/DDWA/VendingAPI_JDBC/src/main/resources/inventoryData.csv'
 REPLACE
 INTO TABLE inventory
 fields terminated BY ','

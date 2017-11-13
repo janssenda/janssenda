@@ -1,0 +1,25 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total, Last Revised
+23085,"Tarot, Dawn",Reheath Stronghold,39.60,Shadowhell Mithril,225.00,462.21,420.19,103997.2500,94542.7500,277161.84000000,04/08/2007 @ 12:00:00 AM
+2649,Beamtrap,The Warrior and Flagon,9.00,Undeads' Mind Orichalcum Of The Twilight,318.00,1169.00,274.00,371742.0000,87132.0000,500172.66000000,04/08/2007 @ 12:00:00 AM
+34526,"Valentine, Lawslayer",The Bastion of the Vampire Duke,45.86,Ghouls' Imperial Soulzephyr Mithril Of The Seas,220.00,318.23,318.23,70010.6000,70010.6000,204234.92232000,04/08/2007 @ 12:00:00 AM
+1842,"Flameflare, The Evil",The Forsaken Delve of Lord Greywulf,15.62,Foul Ice Bronze Of Life,165.00,-378.00,242.00,-62370.0000,39930.0000,-25945.12800000,04/08/2007 @ 12:00:00 AM
+33373,"Sunset, Knightclaw",The Archer and Scroll,60.12,Forgotten Mithril,218.00,600.28,545.71,130861.0400,118964.7800,400021.10298400,04/08/2007 @ 12:00:00 AM
+22753,"Burnfreeze, The Cold",Pewold Keep,29.00,Violetdream Iron,261.00,502.13,456.48,131055.9300,119141.2800,322754.40090000,04/08/2007 @ 12:00:00 AM
+33651,"Maeglodor, God of Thieves",The Archer and Scroll,60.12,Undeads' Mind Orichalcum Of The Twilight,331.00,1169.00,364.69,386939.0000,120712.3900,812851.40566800,04/08/2007 @ 12:00:00 AM
+18041,Cinderember,Hartshill Ward,48.75,Mithril Of The Tropics,346.00,276.72,251.56,95745.1200,87039.7600,271892.50900000,04/08/2007 @ 12:00:00 AM
+22917,"Fate, Ivycaster",The Lewd King,45.98,Forgotten Mithril,188.00,545.71,496.10,102593.4800,93266.8000,285916.83674400,04/08/2007 @ 12:00:00 AM
+19457,"Snaretool, The Constructed",Mahyrst Keep,31.30,Emerald Orichalcum,169.00,1957.00,129.81,330733.0000,21937.8900,463056.87857000,04/08/2007 @ 12:00:00 AM
+21721,"Snarepiston, The Mechanical",Citadel Ward,4.40,Starsmoke Bronze Of Life,284.00,-438.00,420.81,-124392.0000,119510.0400,-5096.76624000,04/08/2007 @ 12:00:00 AM
+9813,"Harmony, Angelchild",Castle Village,39.07,Forgotten Mithril,100.00,3909.75,496.10,390975.0000,49610.0000,612721.55950000,04/08/2007 @ 12:00:00 AM
+213,"Seraphim, Tsunami",Gili's Delve,35.89,Shadow Metal,32.00,1606.00,298.00,51392.0000,9536.0000,82795.05920000,04/08/2007 @ 12:00:00 AM
+17422,"Dawn, Darkzealot",The Scoundrel and Flask,45.25,Warlocks' Timerot Mithril,135.00,725.00,176.95,97875.0000,23888.2500,176861.12062500,04/08/2007 @ 12:00:00 AM
+31816,"Byzou, God of Animals",Hafeld Keep,47.59,Warlocks' Timerot Mithril,261.00,194.65,194.65,50803.6500,50803.6500,149962.21407000,04/08/2007 @ 12:00:00 AM
+28311,"Storm, Squallmourner",The Chuallanto Jungle,11.00,Stone Soulsteel Of The Skies,303.00,453.31,412.10,137352.9300,124866.3000,291063.34530000,04/08/2017 @ 12:00:00 AM
+7740,"Lance, Knightseraph",The Bastion of the Vampire Duke,34.45,Planar Mudtin Of Trolls,251.00,3529.02,174.00,885784.0200,43674.0000,1249656.30789000,04/08/2007 @ 12:00:00 AM
+30926,Ironbrood,The Tower of Sabiesu the Awesome,10.00,Witchs' Forbidden Rockrainbow Bronze,283.00,245.63,245.63,69513.2900,69513.2900,152929.23800000,04/08/2007 @ 12:00:00 AM
+28755,Bonescare,The Bastion of the Vampire Duke,45.86,Negative Rockglitter Mercury Of Trolls,229.00,235.59,214.17,53950.1100,49044.9300,150228.56534400,04/08/2007 @ 12:00:00 AM
+15543,"Burnbrood, The Freezer",The Dungeon of Merciless Woe,3.61,Starsmoke Bronze Of Life,208.00,-438.00,420.81,-91104.0000,87528.4800,-3704.59627200,04/08/2007 @ 12:00:00 AM
+13269,"Byzou, God of Animals",Gifeld Castle,30.01,Poison Adamant,282.00,110.96,100.87,31290.7200,28445.3400,77662.85160600,04/08/2007 @ 12:00:00 AM
+37376,Metalbrood,The Greedy Wench,13.31,Stone Soulsteel Of The Skies,193.00,453.31,453.31,87488.8300,87488.8300,198267.18654600,04/08/2007 @ 12:00:00 AM
+37452,"Burnbrood, The Freezer",The Greedy Wench,13.31,Stone Soulsteel Of The Skies,303.00,453.31,453.31,137352.9300,137352.9300,311269.20996600,04/08/2007 @ 12:00:00 AM
+25433,"Byzou, God of Animals",The Fortress of the Lich Queen,20.72,Primordial Mud Orichalcum,35.00,1113.00,20.57,38955.0000,719.9500,47895.59964000,04/08/2007 @ 12:00:00 AM
