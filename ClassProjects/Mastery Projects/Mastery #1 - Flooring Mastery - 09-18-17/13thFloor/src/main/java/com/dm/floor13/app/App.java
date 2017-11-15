@@ -9,6 +9,14 @@ import com.dm.floor13.controller.Controller;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
+import java.time.LocalDate;
+import java.time.format.DateTimeFormatter;
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
+import java.util.stream.Collectors;
+
 /**
  *
  * @author danimaetrix
@@ -34,6 +42,15 @@ public class App {
                 = ctx.getBean("controller", Controller.class);
 
         controller.run();
+
+
+
+        List<LocalDate> ldList = new ArrayList<>();
+        Map<String, LocalDate> ldMap = new HashMap<>();
+        ldMap = ldList.stream().collect(Collectors.toMap(ld-> ld.format(DateTimeFormatter.ISO_DATE), ld->ld));
+        ldList.stream().collect(Collectors.groupingBy(ld->ld.format(DateTimeFormatter.ISO_DATE)));
+
+
 
     }
 

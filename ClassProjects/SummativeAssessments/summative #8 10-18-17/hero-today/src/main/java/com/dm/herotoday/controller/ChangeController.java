@@ -27,6 +27,7 @@ public class ChangeController {
     public Hero changeHero(@RequestBody Hero hero) throws SQLUpdateException{
 
         try {
+
             return dao.changeHero(hero);
         } catch (DuplicateEntryException | SQLUpdateException e) {
             throw new SQLUpdateException("Server error " +

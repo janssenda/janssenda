@@ -69,10 +69,10 @@ body {
     display: inline-block;
 }
 
+.filelink:visited{color:#ff1e28}
 
+.filelink:hover{color: #817d7e}
 
-.filelink:hover{color: #817d7e
-}
 
 .image-div{ text-align: center}
 .post-image:hover{
