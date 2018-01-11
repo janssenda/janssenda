@@ -1,0 +1,50 @@
+
+body{
+    font-family: Arial;
+    background-color: #f7f7f7;
+    font-size: 11pt;
+
+}
+a, a:visited {color: black}
+.label a:hover, .label a:active, a:hover, a.active {color: #c80022; text-decoration: none}
+.navsep {width: 20px; margin-left: 10px; margin-right: 10px}
+
+
+
+.mainnavbar{text-align: left; border:1px solid black; padding:10px; background-color: #f7f7f7}
+.shnav{padding-left: 10px; padding-right: 10px;}
+.pageTitle, a, td, .gen-div {font-family: "Arial"; font-size: 10pt}
+
+
+#resultstable {border-radius: 5px; border: 2px solid black; border-collapse: separate; border-spacing: 0; width: 100%}
+tbody, thead {border: 1px solid black; text-align: left}
+.header-th-id, th {background-color: #2ecc7d; border-bottom: 2px solid black; padding: 3px; color: white;font-family: "Arial"; font-size: 10pt; font-weight: normal}
+tr {border-right: 1px solid black}
+th {text-align: left;}
+.header-th-id, .id-col {text-align: right; width:25px; padding-right: 10px; padding-left: 10px}
+tr:nth-child(odd) {background: #f3fff3}
+tr:nth-child(even) {background: white;}
+/*tr:hover{background: rgba(0, 228, 135, 0.24); }*/
+td {padding-right: 10px}
+
+/*.border-right{border-right: solid 1px rgba(211, 211, 211, 0.43)*/
+/*}*/
+
+#page {width: 80%; margin-right: auto; margin-left: auto; display: block; clear: both; text-align: center}
+#resultsdiv {width: 100%; margin-right: auto; margin-left: auto}
+
+
+.spacer{width:20px; display: inline-block}
+.spacer-sm{width:10px; display: inline-block}
+.feeddiv {border: dotted 1px black;  border-radius: 5px; padding: 10px; width: 100%;}
+
+
+.toprow, .toprow a {font-weight: bold; text-decoration: underline; font-size: 12pt}
+.label, .label a {font-family: Arial; font-size: 11pt}
+.label a {color: #09cc34}
+.test {border: 1px dotted blue}
+.map-box{border: 2px solid black; border-radius: 5px}
+
+
+.feeddiv, #newsfeed{text-align: left; margin-left: auto; margin-right: auto}
+

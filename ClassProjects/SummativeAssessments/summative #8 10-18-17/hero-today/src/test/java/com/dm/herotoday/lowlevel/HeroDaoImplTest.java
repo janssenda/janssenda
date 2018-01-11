@@ -1,5 +1,6 @@
 package com.dm.herotoday.lowlevel;
 
+import com.dm.herotoday.dao.impl.HeroDaoImpl;
 import com.dm.herotoday.dao.interfaces.HeroDao;
 import com.dm.herotoday.exceptions.DuplicateEntryException;
 import com.dm.herotoday.exceptions.SQLUpdateException;
@@ -22,7 +23,7 @@ import static org.junit.Assert.assertTrue;
 @SpringBootTest
 public class HeroDaoImplTest {
 
-    @Inject private HeroDao dao;
+    @Inject private HeroDaoImpl dao;
     @Inject private DBMaintenance mdao;
 
     @Before
