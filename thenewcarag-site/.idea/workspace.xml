@@ -12,14 +12,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/webapp/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="17" column="59" lean-forward="false" selection-start-line="17" selection-start-column="59" selection-end-line="17" selection-end-column="59" />
+            <state relative-caret-position="256">
+              <caret line="177" column="71" lean-forward="true" selection-start-line="177" selection-start-column="71" selection-end-line="177" selection-end-column="71" />
               <folding>
                 <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#16560#16567#1" expanded="true" />
+                <element signature="e#19035#19042#1" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -28,8 +28,8 @@
       <file leaf-file-name="tnc.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/webapp/css/tnc.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="5" column="39" lean-forward="false" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
+            <state relative-caret-position="-380">
+              <caret line="17" column="25" lean-forward="false" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -38,21 +38,20 @@
       <file leaf-file-name="tnc.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/webapp/js/tnc.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="667">
+            <state relative-caret-position="856">
               <caret line="43" column="26" lean-forward="false" selection-start-line="43" selection-start-column="26" selection-end-line="43" selection-end-column="26" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="danimaetrix.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="danimaetrix.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/webapp/danimaetrix.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="460">
               <caret line="23" column="113" lean-forward="false" selection-start-line="23" selection-start-column="113" selection-end-line="23" selection-end-column="113" />
               <folding>
                 <element signature="n#style#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#12430#12437#1" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -95,9 +94,9 @@
         <option value="$PROJECT_DIR$/webapp/css/modalcss.css" />
         <option value="$PROJECT_DIR$/webapp/css/general/bootstrap.css" />
         <option value="$PROJECT_DIR$/webapp/js/tnc.js" />
-        <option value="$PROJECT_DIR$/webapp/index.html" />
         <option value="$PROJECT_DIR$/webapp/css/tnc.css" />
         <option value="$PROJECT_DIR$/webapp/danimaetrix.html" />
+        <option value="$PROJECT_DIR$/webapp/index.html" />
       </list>
     </option>
   </component>
@@ -135,10 +134,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
       <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -174,12 +170,21 @@
               <item name="thenewcarag-site" type="b2602c69:ProjectViewProjectNode" />
               <item name="thenewcarag-site" type="462c0819:PsiDirectoryNode" />
               <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="thenewcarag-site" type="b2602c69:ProjectViewProjectNode" />
+              <item name="thenewcarag-site" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
               <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -257,12 +262,6 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
-      <module name="" />
-      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
-      <option name="PROGRAM_PARAMETERS" />
-      <predefined_log_file id="idea.log" enabled="true" />
-    </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
       <option name="USE_SOCKET_TRANSPORT" value="true" />
       <option name="SERVER_MODE" value="false" />
@@ -297,9 +296,18 @@
       <properties />
       <listeners />
     </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -313,11 +321,13 @@
       <workItem from="1512500916189" duration="652000" />
       <workItem from="1512501839449" duration="87000" />
       <workItem from="1515646845939" duration="8431000" />
+      <workItem from="1516700840438" duration="199000" />
+      <workItem from="1517192160353" duration="1770000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="65370000" />
+    <option name="totallyTimeSpent" value="67339000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -330,12 +340,12 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32944915" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.111979164" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Statistic" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Archetypes" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -343,8 +353,8 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -366,11 +376,85 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/webapp/index.html">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="17" column="59" lean-forward="false" selection-start-line="17" selection-start-column="59" selection-end-line="17" selection-end-column="59" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#19035#19042#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webapp/js/tnc.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="860">
+          <caret line="43" column="26" lean-forward="false" selection-start-line="43" selection-start-column="26" selection-end-line="43" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webapp/danimaetrix.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="23" column="113" lean-forward="false" selection-start-line="23" selection-start-column="113" selection-end-line="23" selection-end-column="113" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webapp/css/tnc.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="25" lean-forward="true" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webapp/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="17" column="59" lean-forward="false" selection-start-line="17" selection-start-column="59" selection-end-line="17" selection-end-column="59" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#19035#19042#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webapp/css/tnc.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="39" lean-forward="false" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webapp/js/tnc.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="860">
+          <caret line="43" column="26" lean-forward="false" selection-start-line="43" selection-start-column="26" selection-end-line="43" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webapp/danimaetrix.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="23" column="113" lean-forward="false" selection-start-line="23" selection-start-column="113" selection-end-line="23" selection-end-column="113" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webapp/index.html">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#16560#16567#1" expanded="true" />
+            <element signature="e#19035#19042#1" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -389,7 +473,6 @@
           <caret line="47" column="22" lean-forward="false" selection-start-line="47" selection-start-column="22" selection-end-line="47" selection-end-column="22" />
           <folding>
             <element signature="n#style#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#12430#12437#1" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -408,7 +491,7 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#16560#16567#1" expanded="true" />
+            <element signature="e#19035#19042#1" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -427,7 +510,6 @@
           <caret line="47" column="22" lean-forward="false" selection-start-line="47" selection-start-column="22" selection-end-line="47" selection-end-column="22" />
           <folding>
             <element signature="n#style#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#12430#12437#1" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -446,7 +528,7 @@
           <caret line="26" column="45" lean-forward="false" selection-start-line="26" selection-start-column="45" selection-end-line="26" selection-end-column="45" />
           <folding>
             <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#16560#16567#1" expanded="true" />
+            <element signature="e#19035#19042#1" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -465,7 +547,6 @@
           <caret line="47" column="22" lean-forward="true" selection-start-line="47" selection-start-column="22" selection-end-line="47" selection-end-column="22" />
           <folding>
             <element signature="n#style#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#12430#12437#1" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -484,7 +565,7 @@
           <caret line="26" column="45" lean-forward="false" selection-start-line="26" selection-start-column="45" selection-end-line="26" selection-end-column="45" />
           <folding>
             <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#16560#16567#1" expanded="true" />
+            <element signature="e#19035#19042#1" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -511,7 +592,6 @@
           <caret line="213" column="36" lean-forward="true" selection-start-line="213" selection-start-column="36" selection-end-line="213" selection-end-column="36" />
           <folding>
             <element signature="n#style#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#12430#12437#1" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -580,7 +660,7 @@
           <caret line="119" column="80" lean-forward="false" selection-start-line="119" selection-start-column="80" selection-end-line="119" selection-end-column="80" />
           <folding>
             <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#16560#16567#1" expanded="true" />
+            <element signature="e#19035#19042#1" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -627,9 +707,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/webapp/danimaetrix.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="23" column="113" lean-forward="false" selection-start-line="23" selection-start-column="113" selection-end-line="23" selection-end-column="113" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webapp/css/tnc.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-380">
+          <caret line="17" column="25" lean-forward="false" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/webapp/js/tnc.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="667">
+        <state relative-caret-position="856">
           <caret line="43" column="26" lean-forward="false" selection-start-line="43" selection-start-column="26" selection-end-line="43" selection-end-column="26" />
           <folding />
         </state>
@@ -637,30 +735,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/webapp/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="17" column="59" lean-forward="false" selection-start-line="17" selection-start-column="59" selection-end-line="17" selection-end-column="59" />
+        <state relative-caret-position="256">
+          <caret line="177" column="71" lean-forward="true" selection-start-line="177" selection-start-column="71" selection-end-line="177" selection-end-column="71" />
           <folding>
             <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#16560#16567#1" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webapp/css/tnc.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="5" column="39" lean-forward="false" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webapp/danimaetrix.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="23" column="113" lean-forward="false" selection-start-line="23" selection-start-column="113" selection-end-line="23" selection-end-column="113" />
-          <folding>
-            <element signature="n#style#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#12430#12437#1" expanded="true" />
+            <element signature="e#19035#19042#1" expanded="true" />
           </folding>
         </state>
       </provider>
