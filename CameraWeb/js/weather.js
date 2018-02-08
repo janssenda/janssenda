@@ -62,10 +62,10 @@ function getCurrentWeather(zipCode, apiKey, units) {
             }
 
             var current = "";
-            current += "Temperature: <span class='data'>" + Number(temp).toFixed(2) + " &deg;"+unitLabel + "</span><br>";
-            current += "Forecast: <span class='data'>" + Number(temp_min).toFixed(2) + " to " + Number(temp_max).toFixed(2)+ " &deg;"+unitLabel + "</span><br>";
-            current += "Humidity: <span class='data'>" + Number(humidity).toFixed(2) + " %" + "</span><br>";
-            current += "Wind: <span class='data'>" + Number(windSpd).toFixed(2) + " mph " + windDir + "</span><br>";
+            current += "Temperature: <span class='data'>" + Number(temp).toFixed(0) + " &deg;"+unitLabel + "</span><br>";
+            current += "Forecast: <span class='data'>" + Number(temp_min).toFixed(0) + " to " + Number(temp_max).toFixed(0)+ " &deg;"+unitLabel + "</span><br>";
+            current += "Humidity: <span class='data'>" + Number(humidity).toFixed(0) + " %" + "</span><br>";
+            current += "Wind: <span class='data'>" + Number(windSpd).toFixed(0) + " mph " + windDir + "</span><br>";
 
             $("#banner-pic").append(imgCode + "<br/>" + type + "<br/>" +desc);
             $("#banner-data").append(current);
