@@ -2,12 +2,14 @@ $(document).ready(function () {
 
     $("#date").append("Time: " + moment().format("LLL"));
 
-    parseCsv();
-    search();
+  //  parseCsv();
+  //  search();
 
 });
 
-function nothing(){}
+
+
+
 
 function search() {
 

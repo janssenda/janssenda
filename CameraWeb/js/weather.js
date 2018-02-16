@@ -15,6 +15,7 @@ $(document).ready(function () {
     getCurrentWeather(zipCode, apiKey, units);
 
 
+
 });
 
 function getCurrentWeather(zipCode, apiKey, units) {
