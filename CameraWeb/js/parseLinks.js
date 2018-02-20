@@ -11,7 +11,6 @@ function testPage(){
 
 
     var baseURL = "https://lb.511mn.org/mnlb/cameras/camera.jsf;jsessionid=7EHC_g5oVp3AFbj9QaxsxBmmzwN5ArIya0HyvpBq.ip-10-4-75-78?id=";
-
     var page = "https://lb.511mn.org/mnlb/cameras/camera.jsf;jsessionid=7EHC_g5oVp3AFbj9QaxsxBmmzwN5ArIya0HyvpBq.ip-10-4-75-78?id=408";
 
 
