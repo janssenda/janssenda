@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Caragian Road Watch</title>
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
+    <link href="css/bootstrap.css" rel="stylesheet">
+    <link href="css/camera.css" rel="stylesheet">
+
+</head>
+<body>
+<div id="page" class="container text-center">
+
+    <div class="row text-center">
+        <div class="col-sm-12 text-center">
+            <hr/>
+
+            <div id="banner">
+
+
+                <div class="banner-div" id="banner-title">
+                    <div id="date" class="data"></div>
+                    <h1>Caragian Road Watch</h1>
+
+                    <div class="ptext">Cameras are loaded from their
+                        <a target="_blank" class="lnk" href="https://www.dot.state.mn.us/tmc/trafficinfo/cameras_map.html">DOT source</a>
+                        as fast as possible. It takes 1-2 min for a complete load of all 800+ cameras. Click a camera to expand. Refresh the page to update all images.
+                    </div>
+                </div>
+                <div id="banner-other">
+                    <div class="banner-div" id="banner-data"></div>
+                    <div class="banner-div" id="banner-pic"></div>
+                </div>
+
+                <br/><br/>
+                <div id="banner-form">
+                    <form onsubmit="nothing(); return false;">
+                        <input name="sb" id="search_box" type="text" placeholder="Enter terms (35W, I-94, etc)... separate with a space to combine (35W I-94)"/>
+                        <button id="search_button" type="submit">Search</button>
+                    </form>
+
+                </div>
+
+
+            </div>
+
+
+            <hr/>
+        </div>
+    </div>
+
+    <!--<div class="row text-center">-->
+        <!--<div class="col-sm-12" id="image-box">-->
+        <!--</div>-->
+    <!--</div>-->
+
+</div>
+
+</body>
+<script src="js/general/jquery-3.2.1.min.js"></script>
+<script src="js/general/popper.js"></script>
+<script src="js/general/tether.js"></script>
+<script src="js/general/moment.min.js"></script>
+<script src="js/general/bootstrap.min.js"></script>
+<script src="js/FileSaver.js"></script>
+<script src="js/camera.js"></script>
+<script src="js/weather.js"></script>
+<script src="js/dataFetcher.js"></script>
+
+</html>
