@@ -103,7 +103,7 @@ public class DataCoordinatorDaoImpl implements DataCoordinatorDao {
 
         bridgeDao.removePowersHeroes(null,hID);
         bridgeDao.removeOrgsHeroes(null,hID);
-        bridgeDao.removeSightingsHeroes(null,hID);
+
 
         if (hero.getHeroPowers() != null){
             for (Power p : hero.getHeroPowers()) {
@@ -118,6 +118,7 @@ public class DataCoordinatorDaoImpl implements DataCoordinatorDao {
         }
 
         if (hero.getHeroSightings() != null) {
+            bridgeDao.removeSightingsHeroes(null,hID);
             for (Sighting s : hero.getHeroSightings()) {
                 bridgeDao.addSightingsHeroes(s.getSightingID(), hero.getHeroID());
             }
