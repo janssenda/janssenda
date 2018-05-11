@@ -9,7 +9,8 @@ $repositoryList = @{
     "install-scripts-dev" = "$root\Adobe\install-scripts-dev";
     "user-sync.py" = "$root\Adobe\user-sync.py";
     "jenkinsbuild" = "$root\Adobe\jenkinsbuild";
-    "flux" = "$root\flux"
+    "flux" = "$root\flux";
+	"python-cards" = "$root\python-cards"
 }
 
 Write-Host "`n`n"
