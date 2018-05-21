@@ -11,6 +11,7 @@ $repositoryList = @{
     "jenkinsbuild" = "$root\Adobe\jenkinsbuild";
     "flux" = "$root\flux";
 	"python-cards" = "$root\python-cards"
+	"ust-unofficial" = "$root\Adobe\ust-unofficial"
 }
 
 Write-Host "`n`n"
