@@ -4,7 +4,7 @@ $root="G:\Repositories"
 
 $repositoryList = @{
     "adobe_ust" = "$root\Adobe\adobe_ust";
-    "Adobe Notes" = "$root\Adobe\Adobe Notes";
+    "Adobe Notes" = "$root\Adobe\Adobe-Project";
     "install-scripts" = "$root\Adobe\install-scripts";
     "install-scripts-dev" = "$root\Adobe\install-scripts-dev";
     "user-sync.py" = "$root\Adobe\user-sync.py";
@@ -12,6 +12,7 @@ $repositoryList = @{
     "flux" = "$root\flux";
 	"python-cards" = "$root\python-cards"
 	"ust-unofficial" = "$root\Adobe\ust-unofficial"
+	"umapi-test" = "$root\Adobe\umapi-test"	
 }
 
 Write-Host "`n`n"
